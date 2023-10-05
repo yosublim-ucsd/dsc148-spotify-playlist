@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Leo",
-  "num_followers": 604327,
+  "num_followers": 605135,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDI2ZGUzNWM1ZGJjODIyYmEyZGFlZWQyOWY1YTJhZDA1OGNjOGZj",
+  "snapshot_id": "MCxkNGFmNzdkZDQ3OTE5N2UyMzY1MWRiYmM2MDJkMzQ5OGVlNmNjMWUy",
   "tracks": [
     {
       "added_at": "2023-09-28 13:38:21",
@@ -257,6 +257,30 @@
       "url": "https://open.spotify.com/track/7BOMm2gouxtIB2oxfSzPi6"
     },
     {
+      "added_at": "2023-10-04 10:30:39",
+      "album": {
+        "name": "Raththam Title Track (From \"Raththam\")",
+        "url": "https://open.spotify.com/album/6nifCKPlcI1RW7NHFEDrtG"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Kannan Narayanan",
+          "url": "https://open.spotify.com/artist/4AGY446jF0YS1MYuEUgEC0"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "duration_ms": 243191,
+      "name": "Raththam Title Track (From \"Raththam\")",
+      "url": "https://open.spotify.com/track/7Beb5hmmY7syIjc37vy71X"
+    },
+    {
       "added_at": "2023-09-21 12:47:33",
       "album": {
         "name": "Varman Theme (From \"Jailer\")",
@@ -367,8 +391,8 @@
     {
       "added_at": "2023-09-18 12:20:03",
       "album": {
-        "name": "Cult Mama (From \"Skanda\") (Tamil)",
-        "url": "https://open.spotify.com/album/0AqcLG71d2FZIAnD3kIXRY"
+        "name": "Cult Mama (From \"Skanda\")",
+        "url": "https://open.spotify.com/album/20jfzW7XrZU9yvp7bflQJe"
       },
       "artists": [
         {
@@ -382,11 +406,15 @@
         {
           "name": "Ananya Bhaskar",
           "url": "https://open.spotify.com/artist/2ASPehpzXvICVG33VxStFr"
+        },
+        {
+          "name": "Kalapradah",
+          "url": "https://open.spotify.com/artist/7nwxcgsJwjTTsi7Y4hSvul"
         }
       ],
       "duration_ms": 248000,
-      "name": "Cult Mama (From \"Skanda\") (Tamil)",
-      "url": "https://open.spotify.com/track/7zfJkw50LllzRcdePqydii"
+      "name": "Cult Mama (From \"Skanda\")",
+      "url": "https://open.spotify.com/track/5BYjHeL2fDiTBcMt2eGSNw"
     },
     {
       "added_at": "2023-09-28 06:31:19",
@@ -403,38 +431,6 @@
       "duration_ms": 226500,
       "name": "Theera Swasame",
       "url": "https://open.spotify.com/track/6DrSHG5r4bRXsnW0hd420H"
-    },
-    {
-      "added_at": "2023-09-28 13:43:47",
-      "album": {
-        "name": "Vettaiyadum Karuppusaami (From \"Seeran\")",
-        "url": "https://open.spotify.com/album/696e0YfhK6hUw6sYSHgTRI"
-      },
-      "artists": [
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "A.K. Sasidaran",
-          "url": "https://open.spotify.com/artist/2lmnIXHYUQsYESeuptYie4"
-        },
-        {
-          "name": "Aravind Gerald",
-          "url": "https://open.spotify.com/artist/5TdTiPkKljkTDd2bXOmjhw"
-        },
-        {
-          "name": "Snehan",
-          "url": "https://open.spotify.com/artist/659048BXkqDjolFPtY1iA0"
-        }
-      ],
-      "duration_ms": 229270,
-      "name": "Vettaiyadum Karuppusaami (From \"Seeran\")",
-      "url": "https://open.spotify.com/track/0d4a6pFUxHdD4RGUUV3Y4z"
     },
     {
       "added_at": "2023-07-06 13:03:00",
@@ -535,30 +531,6 @@
     {
       "added_at": "2023-09-27 13:39:13",
       "album": {
-        "name": "OC Anthem (From \"Enaku Endey Kidaiyaathu\")",
-        "url": "https://open.spotify.com/album/393AqwMqypjTX0yyvknztQ"
-      },
-      "artists": [
-        {
-          "name": "Kalacharan",
-          "url": "https://open.spotify.com/artist/06Mrb07iYXhRA3KJP8KxEN"
-        },
-        {
-          "name": "Parithabangal Gopi",
-          "url": "https://open.spotify.com/artist/2a30MBwBwmGWHvJCY2muBC"
-        },
-        {
-          "name": "Kameswaram Sumathi",
-          "url": "https://open.spotify.com/artist/46j4tEN4dRk1jrWMcM5SPO"
-        }
-      ],
-      "duration_ms": 194280,
-      "name": "OC Anthem (From \"Enaku Endey Kidaiyaathu\")",
-      "url": "https://open.spotify.com/track/6S3jC7LQi1oxBm5ejBdpjE"
-    },
-    {
-      "added_at": "2023-09-27 13:39:13",
-      "album": {
         "name": "Un Idhazhgalinaal (From \"Margazhi Thingal\")",
         "url": "https://open.spotify.com/album/1QCSQnfMt2tjaVZ807Gc99"
       },
@@ -575,30 +547,6 @@
       "duration_ms": 216739,
       "name": "Un Idhazhgalinaal (From \"Margazhi Thingal\")",
       "url": "https://open.spotify.com/track/3GuVigOdkvJWZgi9qFlWwj"
-    },
-    {
-      "added_at": "2023-09-18 08:58:17",
-      "album": {
-        "name": "Nizhaliyae (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/6zfgmksOil2pWEkBciLprm"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 204138,
-      "name": "Nizhaliyae (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/0HGG3ASk21htkWoR8O3MUG"
     },
     {
       "added_at": "2023-09-25 06:46:47",
@@ -623,30 +571,6 @@
       "duration_ms": 195000,
       "name": "Thodarum Kadhaiyaaga",
       "url": "https://open.spotify.com/track/0IIPABCpRKBW2RtCXENYcL"
-    },
-    {
-      "added_at": "2023-09-21 13:36:47",
-      "album": {
-        "name": "Vithai Virumbu",
-        "url": "https://open.spotify.com/album/4OsedZSh5gmJ354r7NJWoI"
-      },
-      "artists": [
-        {
-          "name": "Bheems Ceciroleo",
-          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
-        },
-        {
-          "name": "Sona Mohapatra",
-          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
-        },
-        {
-          "name": "S. P. Hosimin",
-          "url": "https://open.spotify.com/artist/08Mj8WKPJSZxPzy8GU0QkP"
-        }
-      ],
-      "duration_ms": 187054,
-      "name": "Oru Idayathil",
-      "url": "https://open.spotify.com/track/5PWm5OJqcnC1STQhmfhFmX"
     },
     {
       "added_at": "2023-07-31 08:23:37",
@@ -865,22 +789,6 @@
       "url": "https://open.spotify.com/track/6FQWnHEGeeCL5LyCREsX0G"
     },
     {
-      "added_at": "2023-08-04 09:11:20",
-      "album": {
-        "name": "Glimpse of Antony Das (From \"Leo\")",
-        "url": "https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 40223,
-      "name": "Glimpse of Antony Das (From \"Leo\")",
-      "url": "https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj"
-    },
-    {
       "added_at": "2023-09-06 08:27:23",
       "album": {
         "name": "Jawan (TAMIL)",
@@ -1029,22 +937,6 @@
       "url": "https://open.spotify.com/track/4xH4HmpW4NnzlJHdwzITDE"
     },
     {
-      "added_at": "2023-09-04 09:49:44",
-      "album": {
-        "name": "Hungry Cheetah [From \"They Call Him OG (Tamil)\"]",
-        "url": "https://open.spotify.com/album/0QHgIYO5sQfZ1IRh144hof"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 119052,
-      "name": "Hungry Cheetah (From \"They Call Him OG (Tamil)\")",
-      "url": "https://open.spotify.com/track/18E6ZN39seAFLCopzLkut6"
-    },
-    {
       "added_at": "2023-08-24 13:09:14",
       "album": {
         "name": "King of Kotha (Tamil) [Original Motion Picture Soundtrack]",
@@ -1075,22 +967,6 @@
       "duration_ms": 273230,
       "name": "Kotha Raja",
       "url": "https://open.spotify.com/track/7Mt5tOW8RnIIZyTzJroDAn"
-    },
-    {
-      "added_at": "2023-08-18 14:31:12",
-      "album": {
-        "name": "Glimpse of Harold Das (From \"Leo\")",
-        "url": "https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 42782,
-      "name": "Glimpse of Harold Das (From \"Leo\")",
-      "url": "https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK"
     },
     {
       "added_at": "2023-07-14 06:36:31",
@@ -1139,26 +1015,6 @@
       "duration_ms": 208099,
       "name": "Vannarapettayila (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V"
-    },
-    {
-      "added_at": "2023-08-11 09:41:35",
-      "album": {
-        "name": "Mamakutty (Refix)",
-        "url": "https://open.spotify.com/album/3FlrpcrzzzNgZEyLhoS41F"
-      },
-      "artists": [
-        {
-          "name": "Charles Bosco",
-          "url": "https://open.spotify.com/artist/2aZMJZvvSb072ZPDKRmep1"
-        },
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 99200,
-      "name": "Mamakutty - Refix",
-      "url": "https://open.spotify.com/track/1D5QC35aC6UxDREWgwVwF5"
     },
     {
       "added_at": "2023-06-02 02:09:21",
@@ -1263,22 +1119,6 @@
       "duration_ms": 102857,
       "name": "Muthuvel Pandian Theme - Instrumental",
       "url": "https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG"
-    },
-    {
-      "added_at": "2023-07-28 14:22:03",
-      "album": {
-        "name": "Jailer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 43333,
-      "name": "Jailer Drill Theme - Instrumental",
-      "url": "https://open.spotify.com/track/1CCl0ogC6LbX7slaVo7DGG"
     }
   ],
   "unique_name": "Latest Tamil",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,173 songs - 2 day 12 hr 49 min
+1,174 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Als Je Bij Me Blijft](https://open.spotify.com/track/5R7KyW1qVi1CHzZiB4ALFs) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Als Je Bij Me Blijft](https://open.spotify.com/album/3xzPbtjtcGh53z4VUwbsgO) | 2:45 | 2022-05-14 | 2022-07-24 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2021-10-17 | 2021-11-21 |
 | [Altijd Samen](https://open.spotify.com/track/1Mx89XMlp7edvEoz6CNfji) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Nori](https://open.spotify.com/artist/5y4vEhbvfvMF7dwkJLbNUg) | [Altijd Samen](https://open.spotify.com/album/6BHxEiojDWUxosoajN3adD) | 2:17 | 2021-08-22 | 2021-08-23 |
-| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 |  |
+| [Amalia](https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Amalia](https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8) | 2:37 | 2023-04-23 | 2023-10-05 |
 | [Amazin'](https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Amazin'](https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5) | 2:55 | 2022-05-14 | 2022-09-30 |
 | [AMG](https://open.spotify.com/track/3yPelJTTB5ZTloQPBwd8dt) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [AMG](https://open.spotify.com/album/6Pfv4930oMiFojXF4HjX9R) | 2:24 | 2023-07-08 | 2023-08-06 |
 | [AMS \- BCN](https://open.spotify.com/track/0TMysfbsGcUHv8zYL9DFpj) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AMS \- BCN](https://open.spotify.com/album/5MNOw6rs4svzemQ0VgO7X0) | 2:52 | 2021-07-11 | 2021-07-18 |
@@ -935,6 +935,7 @@
 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 | 2021-07-18 | 2021-07-19 |
 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 | 2023-01-01 | 2023-01-03 |
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-06-01 |
+| [Si No Estas \(Speed Up\)](https://open.spotify.com/track/4FvC9YBxs6uys4QW8YlqY7) | [Axxel](https://open.spotify.com/artist/3S3VnFeyUpRCoU8uM3S3l4) | [Si No Estas \(Speed Up\)](https://open.spotify.com/album/4qBBG9rHNC0P3FPrG6jlNQ) | 2:19 | 2023-10-04 |  |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-02 |  |
 | [Silent Disco](https://open.spotify.com/track/1kUX1zVg5apMvokHIaMJSz) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [Silent Disco](https://open.spotify.com/album/6RvQuubUaatBKXtulUuBie) | 2:55 | 2022-01-22 | 2022-01-30 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |

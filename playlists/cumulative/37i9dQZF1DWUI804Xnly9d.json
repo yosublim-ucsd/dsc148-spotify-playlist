@@ -141,6 +141,32 @@
     },
     {
       "album": {
+        "name": "Mumbai Diaries Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT"
+      },
+      "artists": [
+        {
+          "name": "Ashutosh Phatak",
+          "url": "https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl"
+        },
+        {
+          "name": "Mandar Deshpande",
+          "url": "https://open.spotify.com/artist/7Hx3f4bmmfn6Ra2wu0dG2c"
+        },
+        {
+          "name": "Niranjan Iyengar",
+          "url": "https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267660,
+      "name": "Aisa Lagey - Reprise",
+      "url": "https://open.spotify.com/track/6rKrjP0W8yNi24vigkhE0A"
+    },
+    {
+      "album": {
         "name": "Ajib Dastan Hai Yeh (Unplugged) - Single",
         "url": "https://open.spotify.com/album/2t1xnQ9YDu1awbshgKv8JU"
       },
@@ -362,7 +388,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 223255,
       "name": "Baarishon Mein",
       "url": "https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj"
@@ -3274,7 +3300,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 176538,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Trending",
       "url": "https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw"
@@ -3372,6 +3398,32 @@
       "duration_ms": 244576,
       "name": "Titliyaan",
       "url": "https://open.spotify.com/track/1Ncb4Zv8xYCuC6EPHTS69t"
+    },
+    {
+      "album": {
+        "name": "Mumbai Diaries Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7MpYTwWoGD32rJAmpObLRT"
+      },
+      "artists": [
+        {
+          "name": "Ashutosh Phatak",
+          "url": "https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl"
+        },
+        {
+          "name": "Mugdha Hasbanis",
+          "url": "https://open.spotify.com/artist/07go7jRUHokSJpsZoHy5ha"
+        },
+        {
+          "name": "Niranjan Iyengar",
+          "url": "https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220575,
+      "name": "Tootey Hai Hum",
+      "url": "https://open.spotify.com/track/7G0s6JwNij9ahwGpBjXQj1"
     },
     {
       "album": {

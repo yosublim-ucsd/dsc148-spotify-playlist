@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A?si=4c149014dd4c4245">King Kaleidoscope</a>
 
-389 songs - 23 hr 23 min
+390 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 | 2023-02-19 |  |
 | [Jesus can Save them All](https://open.spotify.com/track/2ABZbbgUl8zchUpK6LO94R) | [Make a Joyful Noisee](https://open.spotify.com/artist/31gaGlNh5MtYSsgPTksOgM) | [Jesus can Save them All](https://open.spotify.com/album/6ZLwEJfvu1uNoxKmcCkswu) | 4:33 | 2023-04-21 |  |
 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 | 2023-04-07 |  |
-| [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-04-07 |  |
+| [Just Like In Heaven](https://open.spotify.com/track/4tx2oRqJFOEuwye6C1FpgV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Just Like In Heaven](https://open.spotify.com/album/3tmfiGss6xeKIiAmn4nJgW) | 4:56 | 2023-04-07 | 2023-10-05 |
 | [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-02-19 |  |
 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 | 2023-04-07 | 2023-08-05 |
 | [Kinda Wild](https://open.spotify.com/track/1ehActP7W2zePSz3aAm8in) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Kinda Wild](https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy) | 4:57 | 2023-08-04 |  |
@@ -187,6 +187,7 @@
 | [Know Your Heart](https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Know Your Heart](https://open.spotify.com/album/1YxRqQgjwH5Qq739qnrML9) | 3:59 | 2020-12-18 | 2022-07-28 |
 | [Know Your Heart](https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [The Wait](https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w) | 3:59 | 2020-12-18 | 2023-02-19 |
 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 | 2023-02-19 |  |
+| [L](https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [L](https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6) | 2:50 | 2023-08-11 |  |
 | [L](https://open.spotify.com/track/1ZrmC67tOnkAv5dGl2ixxL) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [L](https://open.spotify.com/album/6Tx1PIZy8fS28sxPtKIjRL) | 2:50 | 2023-04-07 | 2023-09-24 |
 | [L E P E R S](https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Atmos One](https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu) | [L E P E R S](https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg) | 4:10 | 2020-12-18 | 2023-02-19 |
 | [Landslide](https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Landslide](https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF) | 3:04 | 2023-02-19 |  |

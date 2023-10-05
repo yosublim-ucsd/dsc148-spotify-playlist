@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+    },
+    {
+      "album": {
         "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
         "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 223640,
       "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
       "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"

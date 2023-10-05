@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,939 likes - 132 songs - 7 hr 25 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,938 likes - 133 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,5 +140,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 130 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 |
 | 131 | [On My Own](https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [On My Own](https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN) | 4:07 |
 | 132 | [I Want You 2 \(Stay\) \- Slow Magic Remix](https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [ILLENIUM \(Remixes\)](https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO) | 3:56 |
+| 133 | [F.M.T.D.](https://open.spotify.com/track/24wxQ6tO7NyFGV93TclK8k) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [F.M.T.D.](https://open.spotify.com/album/4CLUqPA3WTCfZ5As3nDBjN) | 6:41 |
 
-Snapshot ID: `MTA0ODYsYjJkNmUxZDgyZmFmZGE1NWUzMzFiNzc2MWNmNDU3ZDE0ZDIxMDJhYg==`
+Snapshot ID: `MTA0ODcsZGI3MTYwN2E3NThlOTU5MWIxMzg2NDEwYTUwOWU2NjAxNTJkNjUzNg==`

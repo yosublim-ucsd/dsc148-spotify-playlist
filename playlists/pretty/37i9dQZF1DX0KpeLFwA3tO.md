@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,513 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,613 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 14 | [Autonomy Shop](https://open.spotify.com/track/1SQcpGtOW3xiInjzf63I3l) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [Autonomy Shop](https://open.spotify.com/album/61qL8SJF5jDZmzlO23obrc) | 2:21 |
 | 15 | [Crashing](https://open.spotify.com/track/1fAqYPbtz7ljMn6q24Zadx) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Crashing](https://open.spotify.com/album/7GvsKQNZM8025DKUwZm5LT) | 2:41 |
 | 16 | [Mistake](https://open.spotify.com/track/4sFybLAO1cyYwPi2N0lxer) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Mistake](https://open.spotify.com/album/15YKOayJRCdU0mrTBCvMMj) | 2:16 |
-| 17 | [Plane \(Feat\. Pollyanna\)](https://open.spotify.com/track/6USSStwq1CWflKv9fQrthd) | [latewaves](https://open.spotify.com/artist/3cI085TbIyCN0OVGnd5K9u), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [LATEWAVES](https://open.spotify.com/album/5Q6FRONxxXlE6Eg2pThXKm) | 3:23 |
+| 17 | [Plane \(Feat\. Pollyanna\)](https://open.spotify.com/track/6USSStwq1CWflKv9fQrthd) | [latewaves](https://open.spotify.com/artist/3cI085TbIyCN0OVGnd5K9u), [Pollyanna](https://open.spotify.com/artist/2y69gaZL8wD15wSB2Vl188) | [LATEWAVES](https://open.spotify.com/album/5Q6FRONxxXlE6Eg2pThXKm) | 3:23 |
 | 18 | [Hunting Season](https://open.spotify.com/track/1gNMs6QtUZsocGYDYjgWke) | [Grove Street](https://open.spotify.com/artist/41hQlpi3r8ljXeRYbHbUBD) | [Hunting Season](https://open.spotify.com/album/47mnp6qHaKjSoSXmH7yOxC) | 4:06 |
 | 19 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 |
 | 20 | [Cool Girl](https://open.spotify.com/track/4aXUKyFqYBSI7J6A1PwjTh) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/6aZFHnpTwonsLw8qVI5DdB) | 1:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [STRAP!](https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [STRAP!](https://open.spotify.com/album/2tWnNwQCgwpDgVwuN9coKs) | 1:58 |
 | 100 | [A Sad Sad Song](https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:52 |
 
-Snapshot ID: `MCw3Y2Q5YzY4ZmNmMmE4ZTlhMzUzNzAxNzQ5ZTZlMjk2M2JjNTE0MTFl`
+Snapshot ID: `MCwzYTMwNDExNmM5NzkwOTM2YTg5ZjcyNzdkZGE2NmNhZDc5YmQ3ZDJl`

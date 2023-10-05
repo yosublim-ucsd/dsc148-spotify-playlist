@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-417 songs - 1 day 5 hr 46 min
+418 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Ultimo](https://open.spotify.com/track/0jtagVogty503eUAY7psju) | [Barretso](https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB) | [Celeste](https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp) | 5:24 | 2021-10-15 |  |
 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 | 2022-02-04 | 2022-04-09 |
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |
+| [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2023-06-30 |  |
 | [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Antoine Lang](https://open.spotify.com/artist/6VzqME1rYw3Wo30KRu5ncz) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 | 2022-11-11 | 2022-12-10 |
 | [Victory \(Credits\)](https://open.spotify.com/track/617YOhywR7gXFM5ltHDzU7) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Outlands](https://open.spotify.com/album/3d410CCpB6wVI4e7JHgZeH) | 4:47 | 2022-04-01 | 2022-07-27 |
 | [Visitors](https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Visitors](https://open.spotify.com/album/3pkzUcBrWi0QwOIvmsYEP0) | 6:14 | 2021-10-15 | 2022-08-14 |
@@ -413,7 +414,7 @@
 | [Waiting For You \- Oliver Remix](https://open.spotify.com/track/5Sj81X1bTs4s0LL3fHPXdZ) | [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0), [Black Hills](https://open.spotify.com/artist/3xuz43sD2chPgOiDziXFKa), [Oliver](https://open.spotify.com/artist/3InmcxeVqp927p7YwKYEP9) | [Features Remixed](https://open.spotify.com/album/667c27Txh6DlbxOGw9kUVl) | 5:20 | 2022-04-01 | 2022-04-20 |
 | [Waves](https://open.spotify.com/track/3j6XM4Fo5a6ZYhqalcb9xA) | [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Waves](https://open.spotify.com/album/1kVhyFeQHgsFEkFjNvN7Mb) | 3:58 | 2021-10-15 | 2022-01-17 |
 | [Waves](https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [Near Dark](https://open.spotify.com/album/1PbK3fDq8nVbImjOSHqnHD) | 4:30 | 2021-10-15 |  |
-| [We Find Ourselves \- Edit](https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [We Find Ourselves](https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ) | 3:39 | 2022-04-29 |  |
+| [We Find Ourselves \- Edit](https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Jono Grant](https://open.spotify.com/artist/3Cs2Bm3Qwc9It4om0KVK8E), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [We Find Ourselves](https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ) | 3:39 | 2022-04-29 | 2023-10-05 |
 | [Weeks of Rain](https://open.spotify.com/track/0sSF7G9oidXVcPD0usYuRD) | [FNP](https://open.spotify.com/artist/0LScN4KbqXmSRk7SW6H6Pq) | [Weeks of Rain](https://open.spotify.com/album/0uVGGv2zJLOcQzH9eaZs4w) | 6:56 | 2022-04-01 | 2022-05-21 |
 | [When We Touch](https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b) | [Benny Smiles](https://open.spotify.com/artist/6O1kKmQt2LuXaIgt2eKl2M) | [When We Touch](https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen) | 3:13 | 2021-10-15 |  |
 | [White Crows](https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Parallel Lives](https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse) | 5:08 | 2022-02-04 | 2023-07-01 |

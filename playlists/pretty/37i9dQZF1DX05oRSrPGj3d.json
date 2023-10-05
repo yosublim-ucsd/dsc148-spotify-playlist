@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
-  "num_followers": 241654,
+  "num_followers": 241730,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E1NGJjNGM3OGMyMmNiNzgyYjEzMzNiMGMxYzc1NDFjODg3ZjY1",
+  "snapshot_id": "MCxiNTk3MDhiOTc4ZTFiNDNlMjNhMDhlMzU3N2Q1OGU3YmJhM2VlMDFm",
   "tracks": [
     {
       "added_at": "2023-09-15 14:31:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
         "name": "Cowboy Like Me",
         "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 156200,
       "name": "Me and My Kind",
       "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
+        "name": "Gotta Be Me",
+        "url": "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Wild as You",
+      "url": "https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Gotta Be Me",
-        "url": "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 186066,
-      "name": "Wild as You",
-      "url": "https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3"
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 204352,
-      "name": "Something to Talk About",
-      "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
+      "duration_ms": 280000,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 280000,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
+      "duration_ms": 204352,
+      "name": "Something to Talk About",
+      "url": "https://open.spotify.com/track/7ptJYMKI7Y1iWdqEZtBMGE"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "After the Fire",
-        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 185247,
-      "name": "Ain't a Train",
-      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Pontiac",
-        "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "If I Had A Boat",
-      "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 177866,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
+        "name": "Pontiac",
+        "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "If I Had A Boat",
+      "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Cross Canadian Ragweed",
-        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
-      },
-      "artists": [
-        {
-          "name": "Cross Canadian Ragweed",
-          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "17",
-      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
+        "name": "Cross Canadian Ragweed",
+        "url": "https://open.spotify.com/album/2Mpixk51qfZm5hQ6soEbjI"
+      },
+      "artists": [
+        {
+          "name": "Cross Canadian Ragweed",
+          "url": "https://open.spotify.com/artist/5Vz7hlMWR4OFye64dYoGm0"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1ooQIGKHYJ9aKVsUynDpSN"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
         "name": "Tramp On Your Street",
         "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
       },
@@ -1431,6 +1431,30 @@
       "duration_ms": 169440,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4f2K09ZZra4gK8Cyuf6yW6"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
+        "name": "In His Arms",
+        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+      },
+      "artists": [
+        {
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1463,30 +1487,6 @@
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
-        "name": "In His Arms",
-        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
-      },
-      "artists": [
-        {
-          "name": "Jack Ingram",
-          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
       "added_at": "2023-09-15 14:31:00",

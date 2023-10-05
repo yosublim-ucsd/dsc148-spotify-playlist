@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 483512,
+  "num_followers": 483608,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZlNWVhZjhhMDY1ODE4ZjI2YzJjZWZhN2E4OGYwOWVhZTExMDc1",
+  "snapshot_id": "MCw3NGZmYTM0NmE1M2ZiZDNiNTk4NDc3NWVlYjgxNDNiODNlZDk0OWI5",
   "tracks": [
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "That Dress (Demo)",
+        "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 188088,
+      "name": "That Dress - Demo",
+      "url": "https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "That Dress (Demo)",
-        "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 188088,
-      "name": "That Dress - Demo",
-      "url": "https://open.spotify.com/track/0Owkb88GE9Zp1NQex6vpaj"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "LUCKY PENNY",
         "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 214266,
       "name": "LUCKY PENNY",
       "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Sea of Cowards",
+        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "I Can't Hear You",
+      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Sea of Cowards",
-        "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "I Can't Hear You",
-      "url": "https://open.spotify.com/track/3W6bchE2NDsXdyfbhkHjjB"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Man Of The Moment",
         "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 192933,
       "name": "Man Of The Moment",
       "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 185866,
       "name": "Rumble And Sway",
       "url": "https://open.spotify.com/track/6qxQLXOAboXpXHcHTMYC1K"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Bad Spell",
-      "url": "https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe"
     }
   ],
   "unique_name": "Dirty Rock",

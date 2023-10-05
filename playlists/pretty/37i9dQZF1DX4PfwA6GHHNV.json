@@ -1,36 +1,32 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 11345,
+  "num_followers": 11378,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTQ2ZTBmZDRkNDA1NDBlYzU4YzE2ODFhMjc2MzBlZjI5MTg5NTg4",
+  "snapshot_id": "MCw3YTFiZDQ4ZDJjZDQ4N2NjMDM4MTJmYTMwY2I1NjE0ZWQ1NzAyYjY2",
   "tracks": [
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Corpo Nu",
-        "url": "https://open.spotify.com/album/34yxeyLDLdBXvd3iCl35Ec"
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
       },
       "artists": [
         {
-          "name": "Rare G",
-          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
+          "name": "Enzo Bala",
+          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         }
       ],
-      "duration_ms": 191020,
-      "name": "Corpo Nu",
-      "url": "https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN"
+      "duration_ms": 153191,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -95,22 +91,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6"
+        "name": "Corpo Nu",
+        "url": "https://open.spotify.com/album/34yxeyLDLdBXvd3iCl35Ec"
       },
       "artists": [
         {
-          "name": "Enzo Bala",
-          "url": "https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3"
+          "name": "Rare G",
+          "url": "https://open.spotify.com/artist/2D0VerErpBua0yB6lozwRH"
         },
         {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 153191,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ"
+      "duration_ms": 191020,
+      "name": "Corpo Nu",
+      "url": "https://open.spotify.com/track/7MJPdQG7vz2LanUrsVuyJN"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "A Volta Do Astro-Rei",
         "url": "https://open.spotify.com/album/2LjQqmOByHVX2pHDG68w6p"
       },
@@ -435,22 +419,42 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
       },
       "artists": [
         {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
-        },
-        {
-          "name": "Ramiroquai Beats",
-          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -479,26 +483,22 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "COLADINHO",
-        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
       },
       "artists": [
         {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
         },
         {
-          "name": "Liz Kaweria",
-          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
         }
       ],
-      "duration_ms": 152079,
-      "name": "COLADINHO",
-      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -523,26 +523,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Abelha",
-        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+        "name": "COLADINHO",
+        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
       "artists": [
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
         },
         {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+          "name": "Liz Kaweria",
+          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
         },
         {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 138666,
-      "name": "Abelha",
-      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+      "duration_ms": 152079,
+      "name": "COLADINHO",
+      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -635,26 +655,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Em Mim",
         "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
@@ -675,8 +675,8 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Mentiras",
-        "url": "https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD"
+        "name": "Incertezas",
+        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
       },
       "artists": [
         {
@@ -684,17 +684,17 @@
           "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         },
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
         },
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "John Bxd",
+          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Mentiras",
-      "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
+      "duration_ms": 156600,
+      "name": "Incertezas",
+      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -843,8 +843,8 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Incertezas",
-        "url": "https://open.spotify.com/album/3xjeeEaGOriHi8XUMRt3bn"
+        "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD"
       },
       "artists": [
         {
@@ -852,17 +852,17 @@
           "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         },
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "John Bxd",
-          "url": "https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8"
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Incertezas",
-      "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
+      "duration_ms": 133333,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 160000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/5hFhHT6WwgT6u7uiX3zlFQ"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/2yAVdMoZb53qdEVhKiM8gn"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 149433,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5N7Y3iJm6hpAuC27eiJSZ7"
     },
     {
       "added_at": "2023-09-29 16:02:33",

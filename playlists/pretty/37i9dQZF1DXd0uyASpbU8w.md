@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=m6cMnzOVQt2KHC0DMOmyQw">K.O</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,456 likes - 85 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,539 likes - 85 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 14 | [Kwela \- Radio mix](https://open.spotify.com/track/5BN6mAYvSL7OEwFeknp8dF) | [Genesis 99](https://open.spotify.com/artist/5TJMCAQpxhHEMrnHHclxUX), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [xduppy](https://open.spotify.com/artist/0mwqHSPC3qsEKOBsbazy0V) | [Kwela \(Radio mix\)](https://open.spotify.com/album/3Hf44IPbdXSFZK3glUQLmQ) | 5:15 |
 | 15 | [Baby Quantum](https://open.spotify.com/track/7lVofuZ4940i13EJnNrSTo) | [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [Top Boy](https://open.spotify.com/album/2kaYUp0Dw5GOkXbPUWwWXa) | 7:03 |
 | 16 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
-| 17 | [1575](https://open.spotify.com/track/76TSqARh3MKBnVIetYWxCT) | [TeepeeMassoxs](https://open.spotify.com/artist/2a8DW2IIdHIGqdWiCYTvNQ), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3bKZO7O4T6fTjz4UCwrXEt) | [1575](https://open.spotify.com/album/4iQP8LwEgT5LncfmqSZKBm) | 8:31 |
+| 17 | [1575](https://open.spotify.com/track/76TSqARh3MKBnVIetYWxCT) | [TeepeeMassoxs](https://open.spotify.com/artist/2a8DW2IIdHIGqdWiCYTvNQ), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2) | [1575](https://open.spotify.com/album/4iQP8LwEgT5LncfmqSZKBm) | 8:31 |
 | 18 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
 | 19 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 |
 | 20 | [Happy Days](https://open.spotify.com/track/4yBb75pQujFW5S9XRoIMIf) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Happy Days](https://open.spotify.com/album/5XLE6J2sNZoxHQ5iQCuUKm) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 84 | [Ndilindile](https://open.spotify.com/track/7rLtep0hlUA6Gnt02RsFgY) | [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [Sein](https://open.spotify.com/artist/1qu7L7ZKzxgxAHdADywXoB) | [School Of Excellence](https://open.spotify.com/album/0YRmcb8iBiZQY3E4IiZHjK) | 6:55 |
 | 85 | [Mama](https://open.spotify.com/track/6beR4GdeHc6XhWOS8Kyfqb) | [Mckenzie](https://open.spotify.com/artist/1kMgpTIY3ncxXYaE2vqAEE), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Mama](https://open.spotify.com/album/1wYUllN2pLA9r67Jl5SFE3) | 3:59 |
 
-Snapshot ID: `MCw0ZGI3ZTU1ZTNjZWFiOWFlOTE0NjdiNzdmMGE3YTdhYTE5OWFkNTdl`
+Snapshot ID: `MCw0ZDQ2NGMyYzFiOTZiYzQzMmY1MDkwMmZiZDZiMzUzNWYwMGNjNTEy`

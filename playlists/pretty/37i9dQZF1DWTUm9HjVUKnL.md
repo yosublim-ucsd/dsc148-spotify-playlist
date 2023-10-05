@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,132 likes - 897 songs - 2 day 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,150 likes - 897 songs - 2 day 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -452,7 +452,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 442 | [Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Spotify Singles](https://open.spotify.com/album/1ghdZvVVCMbTkf6BDsEg78) | 4:41 |
 | 443 | [One More Time \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/1FpKPMzqIltTIcJHPcbgAR) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 2:44 |
 | 444 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 |
-| 445 | [Småtjejer Remix \- Recorded at Spotify Studios Stockholm \(feat\. GRANT\)](https://open.spotify.com/track/5kaTtlsJuQI6KUbIYYQRYJ) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Beri](https://open.spotify.com/artist/3MYalQJJxaayEUG1duS3ci), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 3:36 |
+| 445 | [Småtjejer Remix \- Recorded at Spotify Studios Stockholm \(feat\. GRANT\)](https://open.spotify.com/track/5kaTtlsJuQI6KUbIYYQRYJ) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Beri](https://open.spotify.com/artist/4FbR0e9PKcsRBw6G86QwLn), [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [Frida Hyvönen](https://open.spotify.com/artist/58XdW0XyGukvmGatf7NC2R), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 3:36 |
 | 446 | [Släpper allt \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0oPWMoJa3yxty4vvyFNz5u) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Spotify Singles](https://open.spotify.com/album/0smYhS2gKT2HFZDXGcK9LX) | 4:06 |
 | 447 | [Irony \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Spotify Singles](https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf) | 3:49 |
 | 448 | [Min \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4eCRND9Dh27aJaJ4WGiVh5) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Spotify Singles](https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf) | 2:13 |
@@ -906,4 +906,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 896 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 897 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw0NDFmYzlhMjM2ZjA0NDQ2NTZmZjY4YjBjMDg1ZjNkNzJlZTkzNTA2`
+Snapshot ID: `MCw4MjdlNjE4MWNmMDA4Y2RhOWRmZDcyZGU3OTI2MWQ4YTVmMDBkZjVl`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,180 likes - 48 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,213 likes - 48 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lights On The Hill \- Remastered 1992](https://open.spotify.com/track/2cIKLkNyXliGa1we1FOOJn) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 3:04 |
 | 2 | [Ringer From The Top End](https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Ringer From The Top End](https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX) | 2:33 |
 | 3 | [Duncan](https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:35 |
-| 4 | [Looking Forward Looking Back](https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:12 |
-| 5 | [Waltzing Matilda](https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 3:08 |
+| 4 | [Waltzing Matilda](https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 3:08 |
+| 5 | [Looking Forward Looking Back](https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:12 |
 | 6 | [Cunnamulla Fella \- 1998 Remaster](https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [A Piece of Australia \(Remastered\)](https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB) | 2:12 |
 | 7 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
 | 8 | [G'Day G'Day](https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kate Arneman](https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK) | [G'Day G'Day](https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC) | 3:10 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 47 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 |
 | 48 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 
-Snapshot ID: `MjgyNjk0MzcsMDAwMDAwMDAwZTE4ZTAxNzM3NWUyMWZjMDVlYjhjNDU2Y2IzZjQ2Mg==`
+Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDBhMDI1MDNjZjBiMWQ0NTJiZWU4ZTE3NjZhNTA3M2Y0Nw==`

@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 148723,
+  "num_followers": 148745,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyM2E1NGM3NzBjZGUzM2JkMGUwNmEzNWIxOWYzMDVjNjBhYjI2",
+  "snapshot_id": "MCwxMWM4MmFmMTdjNjg4Y2UzMzU4YThiYzUxMWYzMmU0ODU2NWMyNjRi",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "Last Kiss",
         "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2023-09-29 21:35:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 221973,
-      "name": "Light Up the Sky",
-      "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 221973,
+      "name": "Light Up the Sky",
+      "url": "https://open.spotify.com/track/1w3KRXDABnSmbVSwJL2c0N"
     },
     {
       "added_at": "2023-09-29 21:35:53",

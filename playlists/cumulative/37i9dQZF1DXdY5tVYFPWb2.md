@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-671 songs - 1 day 20 hr 20 min
+672 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Cure For Love](https://open.spotify.com/track/2j94xJWcaViNkWxkEhKqnd) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS), [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm), [Ruri Matsumura](https://open.spotify.com/artist/0xn2xHzatovBQlW7MqMJAd) | [Cure For Love](https://open.spotify.com/album/4qFdZ75qKyjIZWtpxohVgT) | 3:11 | 2023-07-04 | 2023-07-19 |
 | [cycle](https://open.spotify.com/track/0gpSNOdoWHlRCaGp4iIjC5) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH) | [cycle](https://open.spotify.com/album/0XfYpMjkFoyexPrP41X0l9) | 3:16 | 2022-10-04 | 2022-10-12 |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-28 | 2022-11-17 |
+| [Dance in Silence](https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Dance in Silence](https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9) | 3:49 | 2023-10-03 |  |
 | [DANCE IS MY LIFE](https://open.spotify.com/track/4U5m4pjDsp8SySr6WlpQZI) | [角松 敏生](https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ) | [Inherit The Life](https://open.spotify.com/album/7Kyoev6NnVx1LmVDFqOxXw) | 5:47 | 2022-08-30 | 2022-09-07 |
 | [Dance Today](https://open.spotify.com/track/4wJ3itF8IqpLBUdXqcawyH) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [SAMOEDO](https://open.spotify.com/album/43wwD2jSZ0cDAY6r4Zrr9t) | 2:07 | 2022-07-14 | 2022-07-20 |
 | [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 | 2023-07-19 |
@@ -521,7 +522,7 @@
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-06 |
 | [クレイジーボーイ](https://open.spotify.com/track/2ka963rH1ezyei5ZvkgL2g) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [クレイジーボーイ](https://open.spotify.com/album/6vhIYKgWgZfpPUFk7e3i5l) | 3:13 | 2022-05-24 | 2022-06-08 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-13 |
-| [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 |  |
+| [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 | 2023-10-03 | 2023-10-05 |
 | [サマーレモネード](https://open.spotify.com/track/4KcAqMwqFBUOQxNlTuwK7O) | [Zenya](https://open.spotify.com/artist/6XaIIyEQtuyCbBsPdt6TyY) | [サマーレモネード](https://open.spotify.com/album/1MrOfdXIBZdkGm3gKYNR9x) | 3:18 | 2023-07-18 | 2023-07-26 |
 | [サマー・イズ・オーバー](https://open.spotify.com/track/5qnqGyCTpod2Gly4mI6SYd) | [下町ノ夏](https://open.spotify.com/artist/5KaPkUZq3z8WTXjvGkAR84) | [Ramune](https://open.spotify.com/album/1IpPbsEQuEobATCp5TJZsS) | 4:16 | 2023-08-01 | 2023-08-09 |
 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 | 2022-05-24 | 2022-07-29 |

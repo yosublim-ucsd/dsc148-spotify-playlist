@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop: Cover: Ariana Grande.
 
-713 songs - 1 day 18 hr 35 min
+714 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,8 +345,9 @@
 | [Last Dance](https://open.spotify.com/track/0cbQXCWA8A17cZ9gm158Pz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Last Dance](https://open.spotify.com/album/6TSkCNB8OQwbfSg12ewJAR) | 3:25 | 2021-08-10 |  |
 | [Last Hurrah](https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Last Hurrah](https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5) | 2:30 | 2021-08-10 |  |
 | [Latch \- Acoustic](https://open.spotify.com/track/3XyU03WycJQ02kExHb9dqW) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana](https://open.spotify.com/album/4v62Eu3WGIFCBMy9WlD7hY) | 3:41 | 2022-05-11 | 2022-11-13 |
+| [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 | 2022-11-29 |  |
 | [Latch \- Acoustic](https://open.spotify.com/track/2RAH3AVr3KteyBeHixiPQZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV) | 3:43 | 2021-08-10 | 2022-07-29 |
-| [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-05-11 |  |
+| [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-05-11 | 2023-10-05 |
 | [Laura](https://open.spotify.com/track/1pFkMEeCMtZuuId6AUhMK6) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Laura](https://open.spotify.com/album/5GpoOvZNzNScecBzDk3V1e) | 4:27 | 2022-05-11 |  |
 | [Let Me Go](https://open.spotify.com/track/1ll30JjpY3BS3DdZdIyH13) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [2014 Best of by uDiscover](https://open.spotify.com/album/6T6DzyYyZ17vNF7hdrpRTm) | 3:38 | 2022-11-29 |  |
 | [Let Me Go](https://open.spotify.com/track/5mT75enETPtvUyUkL9ZL1U) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [Since I Saw You Last](https://open.spotify.com/album/1xwEtL3kfFhZ2sRRB0V3C0) | 3:38 | 2021-08-10 | 2023-08-22 |

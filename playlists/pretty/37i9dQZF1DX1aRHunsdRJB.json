@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10038,
+  "num_followers": 10043,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmNzRlZmE0Njk0NzQzYmY0YTQ4Yzk5OTA4YmM1MzQ2Y2IwZjkx",
+  "snapshot_id": "MCw3MTEzYjIwZGI5MmUxMTgwOWRmOWIyYzM1YzM0ZTA0YmI5OGI4NDEw",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -347,18 +331,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
       },
       "artists": [
         {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Boss Lady (Sign Me Up)",
-      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -379,6 +363,22 @@
       "duration_ms": 159013,
       "name": "Monster Winer",
       "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Boss Lady (Sign Me Up)",
+      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Wedding Album",
-        "url": "https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 219846,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wileside Government",
         "url": "https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9"
       },
@@ -759,6 +743,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Private Zess",
+        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
+      },
+      "artists": [
+        {
+          "name": "K Lion",
+          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
+        },
+        {
+          "name": "LR",
+          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Private Zess",
+      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Conch Shell",
         "url": "https://open.spotify.com/album/2HAyottRa9yxUIiZXx2xLQ"
       },
@@ -783,26 +787,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Private Zess",
-        "url": "https://open.spotify.com/album/4WOfofh96ugasqjG2CAyN6"
-      },
-      "artists": [
-        {
-          "name": "K Lion",
-          "url": "https://open.spotify.com/artist/6fanvfSBKMMExePwhUq8Mi"
-        },
-        {
-          "name": "LR",
-          "url": "https://open.spotify.com/artist/3TkImpONkqVur05k1iIe7l"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Private Zess",
-      "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -819,22 +803,6 @@
       "duration_ms": 176000,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -883,6 +851,22 @@
       "duration_ms": 146681,
       "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
       "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -939,6 +923,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Drue",
+          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Bend Yuh Back",
         "url": "https://open.spotify.com/album/67LQ1YfnKsx2jIjBc8VQ4P"
       },
@@ -959,50 +959,6 @@
       "duration_ms": 154909,
       "name": "Bend Yuh Back",
       "url": "https://open.spotify.com/track/2ApFCxihiHK7ZAfmBYv7uz"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/7gg7u9cvEVZayLtMLLbO6R"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Drue",
-          "url": "https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Ba Ba Ben (Remix)",
-        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        },
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        },
-        {
-          "name": "Noah Powa",
-          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Ba Ba Ben - Remix",
-      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1063,6 +1019,34 @@
       "duration_ms": 185025,
       "name": "Sexin",
       "url": "https://open.spotify.com/track/15mEe2BeW0SOuAisCv4h5Q"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Remix)",
+        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        },
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        },
+        {
+          "name": "Noah Powa",
+          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Ba Ba Ben - Remix",
+      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1259,6 +1243,26 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Feeling It",
+        "url": "https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu"
+      },
+      "artists": [
+        {
+          "name": "Swappi",
+          "url": "https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ"
+        },
+        {
+          "name": "Ultimate Rejects",
+          "url": "https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "Feeling It",
+      "url": "https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ"
     }
   ],
   "unique_name": "Soca Bashment",

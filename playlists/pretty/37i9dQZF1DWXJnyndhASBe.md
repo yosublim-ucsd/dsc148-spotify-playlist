@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,178 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,303 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 2 | [Nicea](https://open.spotify.com/track/5OYaQw9IS8MMDFRgTPqDnR) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7) | [Nicea](https://open.spotify.com/album/561wVB1MRTfJ0muUnsniNU) | 3:37 |
-| 3 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [MUSZĘ TO WYKRZYCZEĆ / Sextape](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
+| 3 | [Sextape](https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 3:13 |
 | 4 | [Jolie Jolie](https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza) | [Jolie Jolie](https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K) | 2:33 |
 | 5 | [ZERO SNU](https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Kruzzo](https://open.spotify.com/artist/4To0MfuPYNKFChuiKFW50K), [XEIDEN](https://open.spotify.com/artist/40kXpqJi6aSgg9HNsWFyjx), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [ZERO SNU](https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG) | 3:15 |
 | 6 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [NA ZAWSZE](https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:15 |
 | 50 | [COLOSSEUM](https://open.spotify.com/track/31xzEogE9mXNUGF92kJqv1) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [Borixon](https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [COLOSSEUM](https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG) | 3:05 |
 
-Snapshot ID: `MCxlNTIyZDZkZTcyMDk4YzEwNzk4ZjYyNDBlNmYxMmFkMWE1NDg0MjZj`
+Snapshot ID: `MCxhZmM5NzExZTI0OGQxZGJmYzUxNTk4YTNlNWQxY2M0ZDMzZWI3NGM4`

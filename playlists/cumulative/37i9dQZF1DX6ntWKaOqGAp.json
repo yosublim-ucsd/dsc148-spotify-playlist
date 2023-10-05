@@ -1719,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Date!",
+        "url": "https://open.spotify.com/album/5wF4vrkMJnn29cFWKe6MfL"
+      },
+      "artists": [
+        {
+          "name": "KALMA",
+          "url": "https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129200,
+      "name": "Date!",
+      "url": "https://open.spotify.com/track/1isIg6cTY6nuIDfnnZdZx0"
+    },
+    {
+      "album": {
         "name": "daylight",
         "url": "https://open.spotify.com/album/1cwCcLv8XIHNEs0Nn2CvgA"
       },
@@ -1936,6 +1954,24 @@
       "duration_ms": 134966,
       "name": "don't call me queen",
       "url": "https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr"
+    },
+    {
+      "album": {
+        "name": "Donimonaranwa",
+        "url": "https://open.spotify.com/album/48N5slTXeAKIberNSWrSMD"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Donimonaranwa",
+      "url": "https://open.spotify.com/track/5c53c4qvEQwUiFbvHDKKD3"
     },
     {
       "album": {
@@ -2244,6 +2280,24 @@
       "duration_ms": 170064,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/5hztfJs7VAjS4c4IWc3lZc"
+    },
+    {
+      "album": {
+        "name": "saigoni nokorumono",
+        "url": "https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ"
+      },
+      "artists": [
+        {
+          "name": "THE BACK HORN",
+          "url": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227613,
+      "name": "fake drama",
+      "url": "https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM"
     },
     {
       "album": {
@@ -3379,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Himitsu",
+        "url": "https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a"
+      },
+      "artists": [
+        {
+          "name": "KOTORI",
+          "url": "https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207199,
+      "name": "Himitsu",
+      "url": "https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU"
+    },
+    {
+      "album": {
         "name": "Himotoai",
         "url": "https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O"
       },
@@ -3570,10 +3642,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 257000,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E"
+    },
+    {
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
     },
     {
       "album": {
@@ -4320,6 +4410,24 @@
       "duration_ms": 219728,
       "name": "KUNOICHI",
       "url": "https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW"
+    },
+    {
+      "album": {
+        "name": "Kuwadate",
+        "url": "https://open.spotify.com/album/7nvNp6Wbi8IEUHdo9rsdu7"
+      },
+      "artists": [
+        {
+          "name": "Hello Sleepwalkers",
+          "url": "https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209534,
+      "name": "Kuwadate",
+      "url": "https://open.spotify.com/track/000x0PYzls9F6bNbGeMRE1"
     },
     {
       "album": {
@@ -5438,7 +5546,7 @@
     {
       "album": {
         "name": "Toy box",
-        "url": "https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN"
+        "url": "https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo"
       },
       "artists": [
         {
@@ -5449,6 +5557,24 @@
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230053,
+      "name": "No.11",
+      "url": "https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7"
+    },
+    {
+      "album": {
+        "name": "Toy box",
+        "url": "https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
       "duration_ms": 230053,
       "name": "No.11",
       "url": "https://open.spotify.com/track/5k476EgU88agg4tU6ZRWxE"
@@ -8121,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "driven by impulse",
+        "url": "https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "we can't change the world without you here",
+      "url": "https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57"
+    },
+    {
+      "album": {
         "name": "We The Female!",
         "url": "https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU"
       },
@@ -9166,7 +9310,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 219866,
       "name": "\u3069\u3046\u306b\u3082\u306a\u3089\u3093\u308f",
       "url": "https://open.spotify.com/track/0ZHShit8c40nUNIvY4CogW"
@@ -10564,7 +10708,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 129200,
       "name": "\u30c7\u30fc\u30c8\uff01",
       "url": "https://open.spotify.com/track/13ZWGw673ayhrrNCvKnNHF"
@@ -11086,7 +11230,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 227613,
       "name": "\u30d5\u30a7\u30a4\u30af\u30c9\u30e9\u30de",
       "url": "https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr"
@@ -12128,7 +12272,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 254106,
       "name": "\u4e16\u754c\u306f\u3053\u306e\u307e\u307e\u5909\u308f\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP"
@@ -12182,7 +12326,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 209534,
       "name": "\u4f01\u3066",
       "url": "https://open.spotify.com/track/4xN3OYNBzjtnXVKdUhYquf"
@@ -14752,7 +14896,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 207199,
       "name": "\u79d8\u5bc6",
       "url": "https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq"

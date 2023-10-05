@@ -1,29 +1,13 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1987781,
+  "num_followers": 1987954,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZlMWMwMWE2ZTMyMzJlMmY4MmRlOTNlMGJmYjY5NjVkZTI5NDNk",
+  "snapshot_id": "MCw1ZWI2OGMxMGEwZGVkZmYxZTMyOGEyNmRhZDVmNzM3YjE5NWMyOWY2",
   "tracks": [
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 163253,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188571,
       "name": "help herself",
       "url": "https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "Chris Black Changed My Life",
-        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 233360,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
+        "name": "Subway Songs",
+        "url": "https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN"
+      },
+      "artists": [
+        {
+          "name": "Rebounder",
+          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Japanese Posters",
+      "url": "https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
         "name": "Great Big Blue",
         "url": "https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
-        "name": "Subway Songs",
-        "url": "https://open.spotify.com/album/4tXxs6waGudqwvt6FCP6LN"
-      },
-      "artists": [
-        {
-          "name": "Rebounder",
-          "url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Japanese Posters",
-      "url": "https://open.spotify.com/track/403SdJ62eNPjNc94vJQJOu"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "All Talk!",
         "url": "https://open.spotify.com/album/6u8tMQFTEZxoTO5wvIagWF"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 232280,
       "name": "Slow Dances",
       "url": "https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "It\u2019s Not All That Bad",
-        "url": "https://open.spotify.com/album/0y3tRiTDYzj5IuQb0Kk86x"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "Orca",
         "url": "https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 234386,
       "name": "Deleter",
       "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "It\u2019s Not All That Bad",
+        "url": "https://open.spotify.com/album/0y3tRiTDYzj5IuQb0Kk86x"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/0dqJjKKxuKD5Dt3QH2n4CG"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -1919,22 +1935,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "Funky Galileo",
         "url": "https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU"
       },
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+        "name": "Out Of My League",
+        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
+      "duration_ms": 181135,
+      "name": "Out Of My League",
+      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "Lost Inside My Head",
-        "url": "https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT"
-      },
-      "artists": [
-        {
-          "name": "Goldkimono",
-          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
-        }
-      ],
-      "duration_ms": 161851,
-      "name": "Lost Inside My Head",
-      "url": "https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01"
-    },
-    {
-      "added_at": "2023-09-29 17:57:43",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+    },
+    {
+      "added_at": "2023-09-29 17:57:43",
+      "album": {
+        "name": "Lost Inside My Head",
+        "url": "https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT"
+      },
+      "artists": [
+        {
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
+        }
+      ],
+      "duration_ms": 161851,
+      "name": "Lost Inside My Head",
+      "url": "https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "time waits",
-        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
       },
       "artists": [
         {
-          "name": "Glitter Party",
-          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 199760,
-      "name": "time waits",
-      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
+        "name": "time waits",
+        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
         }
       ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
+      "duration_ms": 199760,
+      "name": "time waits",
+      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -2419,18 +2419,18 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
+        "name": "Time Shrinks",
+        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
       },
       "artists": [
         {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
         }
       ],
-      "duration_ms": 245496,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
+      "duration_ms": 216531,
+      "name": "Time Shrinks",
+      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
     },
     {
       "added_at": "2023-09-29 17:57:43",
@@ -2451,26 +2451,18 @@
     {
       "added_at": "2023-09-29 17:57:43",
       "album": {
-        "name": "They Don't Know Your Name",
-        "url": "https://open.spotify.com/album/1MOblqJ3ylSDJEAxP2kiGW"
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze"
       },
       "artists": [
         {
-          "name": "Andrey Azizov",
-          "url": "https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC"
-        },
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        },
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
         }
       ],
-      "duration_ms": 188101,
-      "name": "They Don't Know Your Name",
-      "url": "https://open.spotify.com/track/482uoS6QmO8B3ZOb7bUDDh"
+      "duration_ms": 245496,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF"
     }
   ],
   "unique_name": "Feel-Good Indie Rock",

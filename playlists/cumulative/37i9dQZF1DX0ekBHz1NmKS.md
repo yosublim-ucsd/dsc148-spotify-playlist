@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-783 songs - 1 day 17 hr 23 min
+784 songs - 1 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,7 +569,7 @@
 | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/track/4smXervZxPsPyDQoolgkCt) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Satsa – Spotify Studio 100 Recording](https://open.spotify.com/album/7qgUcNnrHTauVshnwQWQ3I) | 2:57 | 2023-02-09 | 2023-04-02 |
 | [Say Something](https://open.spotify.com/track/29jS36CANsKdfrlYzwbbJL) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Say Something](https://open.spotify.com/album/2mnXp1mWtGCdlCY4WlDVmR) | 3:23 | 2022-05-19 | 2023-04-02 |
 | [Say That](https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Say That](https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL) | 3:28 | 2022-02-05 | 2022-09-16 |
-| [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm) | 3:32 | 2022-09-22 |  |
+| [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Say That Everything Will Be Alright \(Music for ''Thin Blue Line''\)](https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm) | 3:32 | 2022-09-22 | 2023-10-05 |
 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 | 2021-12-16 | 2022-01-13 |
 | [Scared to love \- Demo](https://open.spotify.com/track/5kiJO59VLrfMiCxgzM7cfp) | [Loopi](https://open.spotify.com/artist/2KHpTRkpM37P6Ca2RUGOcp) | [Scared to love \(Demo\)](https://open.spotify.com/album/2t2zKRkcVbui5SxM5VyUbe) | 2:56 | 2022-03-24 | 2022-04-02 |
 | [Scorpio](https://open.spotify.com/track/79T72e0BTvSA0IIwQ2bgdM) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Scorpio](https://open.spotify.com/album/7IAF6PwGaRyk4KWbiEGslC) | 2:42 | 2021-12-16 | 2022-03-07 |
@@ -769,6 +769,7 @@
 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 | 2022-02-05 | 2022-05-13 |
 | [Wishing well](https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Foam](https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m) | 2:24 | 2023-06-22 | 2023-09-17 |
 | [Wolf Cries](https://open.spotify.com/track/1UENNNlQETDaFv7Yvyoc5v) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Wolf Cries](https://open.spotify.com/album/2UbWIKOOJj6Zgg8LrVCAY3) | 3:10 | 2023-08-25 | 2023-09-15 |
+| [Woman](https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Woman](https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8) | 3:41 | 2023-09-28 |  |
 | [Wonderchild \- Spotify Singles](https://open.spotify.com/track/3Dp49tho4cUwwrogE2SQaG) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Wonderchild \- Spotify Singles](https://open.spotify.com/album/53UPgh5ZFAmsuZtmQqiyO9) | 3:41 | 2022-05-12 |  |
 | [Worst Mom](https://open.spotify.com/track/4EqDdwHM4tgzTZebfqBEXd) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Worst Mom](https://open.spotify.com/album/2yJGak5X0vnrCtydSe1xau) | 3:01 | 2023-09-21 |  |
 | [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-09-15 |  |

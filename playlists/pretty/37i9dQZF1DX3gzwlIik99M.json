@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 212841,
+  "num_followers": 212840,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDM5ZTVmODEzYTQ0MGUwNDg1NzZiMTMwMDZlODVmOTUyOTRiYzZi",
+  "snapshot_id": "MCwwOGQ3MmNiYjdmOWM1NzE4NGFmZTdmOGNhYzJhZGMwZGUyMDViNzc3",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Javhe Karma",
-        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
-      },
-      "artists": [
-        {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
-        }
-      ],
-      "duration_ms": 460813,
-      "name": "Infiel a Dos Mentiras \"Vida\"",
-      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Plan Mundial Para La Destrucci\u00f3n",
         "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Javhe Karma",
+        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+      },
+      "artists": [
+        {
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+        }
+      ],
+      "duration_ms": 460813,
+      "name": "Infiel a Dos Mentiras \"Vida\"",
+      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Nulo",
+        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
+      },
+      "artists": [
+        {
+          "name": "NVLO",
+          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "\u00a1Qu\u00e9menlos!",
+      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 256360,
       "name": "Cacique Yatel",
       "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Nulo",
-        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
-      },
-      "artists": [
-        {
-          "name": "NVLO",
-          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "\u00a1Qu\u00e9menlos!",
-      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "El Cielo Ser\u00e1 Testigo",
         "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 270471,
       "name": "Credo de Darwin",
       "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "U.F.T.M 2017 (Remastered)",
         "url": "https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 315973,
       "name": "Merciless machine - Remastered",
       "url": "https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     }
   ],
   "unique_name": "Metal del Nuestro",

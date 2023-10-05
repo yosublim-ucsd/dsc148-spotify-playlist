@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-121 songs - 10 hr 57 min
+122 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Quick One \(While He's Away\) \- Live](https://open.spotify.com/track/0KKHHwyEkAqb8Uet6fTgPl) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Rolling Stones Rock And Roll Circus](https://open.spotify.com/album/6EhErbDnPxXjtNjNVWor4i) | 7:32 | 2018-12-10 | 2022-11-14 |
 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/0J2ykLMJWeJzc46T7mx0XW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 7:24 | 2018-12-10 | 2023-03-25 |
 | [A Quick One While He's Away \- Live "Rock And Roll Circus" Version](https://open.spotify.com/track/4SElXohU0kK8JnmSHIUWCQ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright \(Remastered\)](https://open.spotify.com/album/3twpireEUAf36Xk7CEKDnB) | 7:24 | 2018-12-10 | 2022-07-29 |
-| [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 | 2018-12-10 |  |
+| [Aja](https://open.spotify.com/track/2cgNpsfZcBzdgeNPEeCnue) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw) | 7:57 | 2023-03-23 |  |
+| [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 | 2018-12-10 | 2023-10-05 |
 | [Aja](https://open.spotify.com/track/4159HEwd4LdxWqIf9MFJ6Z) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [The Ultimate Headphone & Hi\-Fi Album](https://open.spotify.com/album/1dliFD9SyB1r8CieAw2wwE) | 8:00 | 2018-12-10 | 2022-11-13 |
 | [Aja](https://open.spotify.com/track/51AIqs0TqA4TI552nerCqa) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW) | 8:00 | 2018-12-10 | 2022-07-29 |
 | [Bad Reputation](https://open.spotify.com/track/6MQOIEl0hPBaMf4r521xJR) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:06 | 2023-03-23 |  |

@@ -5182,7 +5182,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -7400,7 +7400,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 143999,
       "name": "Halls na L\u00edngua - Remix",
       "url": "https://open.spotify.com/track/2uGk60j3LR5bp6tGq9vtII"
@@ -10066,6 +10066,18 @@
         {
           "name": "DJ Arana",
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "MC Tigr\u00e3o",
+          "url": "https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
         }
       ],
       "date_added": "2023-09-19",

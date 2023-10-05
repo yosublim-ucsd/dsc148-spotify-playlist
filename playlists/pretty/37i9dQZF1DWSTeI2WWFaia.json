@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1623573,
+  "num_followers": 1623616,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjQwMjM1NTYyNzFlMzRkNTIxNzQ0ZGVkMmVlOTcxNTIzY2YwMjk5",
+  "snapshot_id": "MCxlYzhhMDI3ODAxZGU4MDBjZDc1MTRjNjhmODJiNGI2YTVmNGE4OTEw",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -887,6 +887,30 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Woke Up and Asked Siri How I'm Gonna Die",
         "url": "https://open.spotify.com/album/5hKMFGdqaeJEbxpghERhsF"
       },
@@ -915,30 +939,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Runway",
-        "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Runway",
-      "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Soul Assassins 3: Death Valley",
         "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 114625,
       "name": "Sicilian Gold",
       "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "duration_ms": 185838,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1007,26 +1023,6 @@
       "duration_ms": 196647,
       "name": "$outhside Story ft. Common",
       "url": "https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS"
-      },
-      "artists": [
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 173647,
-      "name": "Soft Landing",
-      "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
     }
   ],
   "unique_name": "Spilled Ink",

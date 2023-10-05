@@ -192,7 +192,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 336000,
       "name": "Ali Baba",
       "url": "https://open.spotify.com/track/599l10xqI1HMzoEP7gNoWZ"
@@ -458,6 +458,24 @@
       "duration_ms": 223106,
       "name": "Belai",
       "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
+    },
+    {
+      "album": {
+        "name": "Belakang Tabir",
+        "url": "https://open.spotify.com/album/7hsrVcZzR75tdyZBPMyx5M"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260805,
+      "name": "Belakang Tabir",
+      "url": "https://open.spotify.com/track/6RVcLLQTOoh0ghmrhNAWQ5"
     },
     {
       "album": {
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 185053,
       "name": "DAMELO",
       "url": "https://open.spotify.com/track/0Z8yXdMaoKymfgPGJG0hFH"
@@ -1436,6 +1454,24 @@
       "duration_ms": 185930,
       "name": "Gatal",
       "url": "https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf"
+    },
+    {
+      "album": {
+        "name": "Gelora",
+        "url": "https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc"
+      },
+      "artists": [
+        {
+          "name": "Usop",
+          "url": "https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228665,
+      "name": "Gelora",
+      "url": "https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL"
     },
     {
       "album": {
@@ -3260,7 +3296,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 222048,
       "name": "Mengertilah",
       "url": "https://open.spotify.com/track/73JqpCVLn8eCSvmKr7oZYq"
@@ -5094,6 +5130,28 @@
       "duration_ms": 221942,
       "name": "Sudah",
       "url": "https://open.spotify.com/track/4QiDXOOZMepYFLnjGb3WxO"
+    },
+    {
+      "album": {
+        "name": "Sudah Kahwin Ke Belum?",
+        "url": "https://open.spotify.com/album/4KhZgxwB83E1tZDKoFU8K0"
+      },
+      "artists": [
+        {
+          "name": "Luqman Podolski",
+          "url": "https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh"
+        },
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170294,
+      "name": "Sudah Kahwin Ke Belum?",
+      "url": "https://open.spotify.com/track/1X6KhFtqz9medAyHkHpnYq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-412 songs - 1 day 1 hr 54 min
+414 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2022-01-14 |  |
 | [Addicted To Pain](https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/3oMt2cUO9IIttONwd6eHRO) | 4:16 | 2023-07-25 | 2023-09-10 |
 | [Afflicted](https://open.spotify.com/track/70AJAYFBkXnrd9mA6qz0wU) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Loose Threads](https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon) | 4:51 | 2021-11-12 | 2022-07-29 |
-| [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 |  |
+| [Agree to Disagree](https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:02 | 2023-02-24 | 2023-10-05 |
 | [Agree to Disagree](https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:02 | 2021-11-12 | 2022-06-07 |
 | [All Animal](https://open.spotify.com/track/4PEHqVEh5MPmvdYw1oiIKI) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:30 | 2022-11-02 | 2023-05-17 |
 | [All Animal](https://open.spotify.com/track/6rUcboqRuVuowjaL5YUNtx) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:30 | 2021-11-12 | 2022-07-29 |
@@ -45,6 +45,7 @@
 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 | 2022-07-13 |  |
 | [Balboa](https://open.spotify.com/track/7BQd7bXMRvyXyoLFpxz0hb) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Balboa](https://open.spotify.com/album/2lhbyagwH1TXiCgzl9JXKs) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [Balboa Son](https://open.spotify.com/track/7Lbd9uhPYTnMHwxRTIUPbU) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Balboa Son](https://open.spotify.com/album/0Dc4ONGHyxaqmnAVDn0dYu) | 3:36 | 2021-11-12 | 2022-07-28 |
+| [Bang Bang](https://open.spotify.com/track/47uQXeaECAQoht2YCYGK3i) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [Bang Bang](https://open.spotify.com/album/3MrbhneTc5FlTuTG9KMkcA) | 4:03 | 2023-10-03 |  |
 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2022-07-13 | 2022-11-03 |
 | [Becoming the Bull](https://open.spotify.com/track/2MMrjobPrVLrozyfFXsFJx) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/4l0jcq2jRyRO38d1U92vkp) | 3:40 | 2022-09-28 | 2023-10-02 |
 | [Before I Forget](https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:38 | 2022-04-04 |  |
@@ -88,7 +89,7 @@
 | [Calm Before the Storm](https://open.spotify.com/track/3dhDN3hilhqEursIIg8Xko) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Revival](https://open.spotify.com/album/32YNW8YEUUNnZB2LhenMAV) | 3:55 | 2022-06-17 |  |
 | [Carry On](https://open.spotify.com/track/3GSMJpuz3rFU8WtCws1rv5) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Carry On](https://open.spotify.com/album/1y4gZwFijhkj8DjqzkBZwI) | 4:54 | 2021-11-12 | 2022-11-03 |
 | [Chaos And Earthquakes](https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Chaos And Earthquakes](https://open.spotify.com/album/1UnoCRuJTGd39YMDNGI1RE) | 3:45 | 2021-11-12 | 2022-07-20 |
-| [Chaos And Earthquakes](https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X](https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm) | 3:45 | 2023-06-02 |  |
+| [Chaos And Earthquakes](https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [X](https://open.spotify.com/album/0U9V1fSmA5lSYTsYh99AQm) | 3:45 | 2023-06-02 | 2023-10-05 |
 | [Choke](https://open.spotify.com/track/1BW2QdLe6RtJTMJDSYmg9w) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Choke](https://open.spotify.com/album/5DmqJ0pRpRSJ210dLGNiGK) | 3:47 | 2021-11-12 | 2022-11-13 |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2022-11-02 |  |
 | [Circle The Drain](https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:35 | 2022-04-04 |  |
@@ -304,6 +305,7 @@
 | [Right Now](https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:45 | 2023-07-25 |  |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2021-11-12 | 2023-08-31 |
 | [Risen](https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [All I See Is War](https://open.spotify.com/album/3u3tCOYA9fjvlfQKoMAk3T) | 3:26 | 2021-11-12 | 2022-11-13 |
+| [Rocket Skates](https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:14 | 2023-10-03 |  |
 | [Rosetta Stoned](https://open.spotify.com/track/0D8l86LXxKcgKAO17DfQsl) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 11:11 | 2022-11-02 | 2023-02-02 |
 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 | 2022-11-02 |  |
 | [Sacrifice](https://open.spotify.com/track/3eJaCUXhOJsXy92dYGZ1uP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Sacrifice](https://open.spotify.com/album/7gZPHDkphi3kpg6rukf41X) | 4:06 | 2021-11-12 | 2022-10-19 |

@@ -788,7 +788,7 @@
     {
       "album": {
         "name": "Different Ways To Love You",
-        "url": "https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O"
+        "url": "https://open.spotify.com/album/3kFYBRP7LCkRioKnu1KlUV"
       },
       "artists": [
         {
@@ -799,6 +799,24 @@
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Different Ways To Love You",
+      "url": "https://open.spotify.com/track/3c8F53GrfpggDi0rReqzz9"
+    },
+    {
+      "album": {
+        "name": "Different Ways To Love You",
+        "url": "https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
       "duration_ms": 231240,
       "name": "Different Ways To Love You",
       "url": "https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb"

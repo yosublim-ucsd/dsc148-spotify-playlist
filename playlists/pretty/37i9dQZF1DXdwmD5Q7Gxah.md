@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Remi Wolf x Norah Jones at "Lorem & Friends", right after performing "Don't Know Why" together.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,406 likes - 107 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,002 likes - 107 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

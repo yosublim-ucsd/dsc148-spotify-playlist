@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: SPRINTS",
-  "num_followers": 50959,
+  "num_followers": 50988,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjFjNDY2NTJjODY1NzJjMzhiMzc2MjRmODMyNTgyYzIwZjFlNmQ4",
+  "snapshot_id": "MCxiM2U5OWI2YjY4NjlhOTllZjAyMzc2M2I4NmY3YzhlOTViY2E5NGUz",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Dream Big",
-        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Dream Big",
-      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Here's What You Could Have Won",
         "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Sick Day",
         "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -627,22 +643,6 @@
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Here's What You Could Have Won",
-        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/5f2d8tMWMoTlFaK9q9lJHO"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 139000,
       "name": "FTS (KYS)",
       "url": "https://open.spotify.com/track/4tPMDn5syMqjI7vhWhoqLR"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Formal Growth In The Desert",
-        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 177559,
-      "name": "Make Way",
-      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Formal Growth In The Desert",
+        "url": "https://open.spotify.com/album/4zvDpKZOVNq4m6OfsM6hbB"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 177559,
+      "name": "Make Way",
+      "url": "https://open.spotify.com/track/48Yot7kQ20olfnkT3TZKqv"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Cry To Heaven",
-        "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 269260,
-      "name": "Cry To Heaven",
-      "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Cave World (Deluxe)",
         "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 283187,
       "name": "It Ain't Enough",
       "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Cry To Heaven",
+        "url": "https://open.spotify.com/album/5mY2RBEc4jQmWzXaW9evvM"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 269260,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/5oqVYnqZOZJDmwD3BtcJty"
     },
     {
       "added_at": "2023-09-22 00:00:00",

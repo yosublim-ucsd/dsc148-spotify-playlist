@@ -4349,6 +4349,24 @@
     },
     {
       "album": {
+        "name": "The Girl That Never Was",
+        "url": "https://open.spotify.com/album/1kmfSWlvNxYhWEPfpNXwBS"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193760,
+      "name": "The Girl That Never Was",
+      "url": "https://open.spotify.com/track/02yhtKy4U4R7Z15cxdcWcc"
+    },
+    {
+      "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+    },
+    {
+      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 186301,
       "name": "Barrio Xolo",
       "url": "https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH"
@@ -254,6 +272,24 @@
       "duration_ms": 168356,
       "name": "Con Un Pu\u00f1o De Cannabis",
       "url": "https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Cookies En Las Pipas",
+      "url": "https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS"
     },
     {
       "album": {
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 165250,
       "name": "Sue\u00f1os y Metas",
       "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"

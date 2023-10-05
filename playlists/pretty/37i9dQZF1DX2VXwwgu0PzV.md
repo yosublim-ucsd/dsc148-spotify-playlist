@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi?si=Yx8gM2dIS7CjGjxxMia9TA">Neeja</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,663 likes - 95 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,737 likes - 95 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 94 | [Give It All](https://open.spotify.com/track/3RLooyMCFEuApU0JwzP2l9) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Give It All](https://open.spotify.com/album/5G2Oxhmi2AAWhl9OHzbH69) | 1:36 |
 | 95 | [NOBODY BETTER](https://open.spotify.com/track/50BOHK5CSjdQQ00IL3UJ8C) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [NOBODY BETTER](https://open.spotify.com/album/6pQySyUxDkg0FMHQprwYUz) | 2:59 |
 
-Snapshot ID: `MCxlZTNmZDAxNWE3NDUyZjFjNDUxMzQxODk5MmQzY2VlMWQ5MzBhMGMz`
+Snapshot ID: `MCxhZjQ0MjcxOTMyODBhODcyNWQ1YThjMzVjMzljM2I4MGZlMzZiMjZl`

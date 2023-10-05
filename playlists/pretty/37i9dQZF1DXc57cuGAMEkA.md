@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ed Sheeran, YOASOBI, Vaundy, Bad Bunny, \*NSYNC  and more! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,720 likes - 73 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,744 likes - 73 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 72 | [Get Blue](https://open.spotify.com/track/73Qb65GMZ0cLRKoPqXJLH7) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [The New Power Generation](https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp) | [Get Blue](https://open.spotify.com/album/4s1dA0KmPNcnYkGx9enOng) | 4:43 |
 | 73 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 |
 
-Snapshot ID: `MCw5NjdkMDA2ZmQzZjQ2MWIwMjc5MTlhYzUyZDE0MjM4N2I5MmU1YWE3`
+Snapshot ID: `MCwzN2RlZWQzOWE0YmY5ZGU1YTk5Zjk0NjBiNzdiYmQ5MzNlNzkxNGVl`

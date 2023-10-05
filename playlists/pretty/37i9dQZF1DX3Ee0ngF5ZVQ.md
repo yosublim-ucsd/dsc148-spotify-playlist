@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers and Wade Bowen
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,579 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,627 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 53 | [Why Do Good People Die](https://open.spotify.com/track/49Pmd0h8IYfu0YferhZQtb) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Midland](https://open.spotify.com/album/1WqO0gfSatzacLlvivWTih) | 3:57 |
 | 54 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 55 | [Diamondhead](https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Diamondhead](https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc) | 3:07 |
-| 56 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
-| 57 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 |
+| 56 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 |
+| 57 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 |
 | 58 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 |
 | 59 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 |
 | 60 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 94 | [Border Radio](https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC) | [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Border Radio](https://open.spotify.com/album/3IUZOmv3B83l1jF976AIAi) | 3:03 |
 | 95 | [When the Good Ol Boys Age Out](https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [When the Good Ol Boys Age Out](https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY) | 4:16 |
 | 96 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 |
-| 97 | [Bend](https://open.spotify.com/track/1hd2FhXKSbH7X6DsGZWPmw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Bend](https://open.spotify.com/album/076D8t21jWpx0yLOZYyBWe) | 3:26 |
-| 98 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
-| 99 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 |
-| 100 | [The Ride](https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [The Ride](https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO) | 3:16 |
+| 97 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
+| 98 | [Bend](https://open.spotify.com/track/1hd2FhXKSbH7X6DsGZWPmw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Bend](https://open.spotify.com/album/076D8t21jWpx0yLOZYyBWe) | 3:26 |
+| 99 | [The Ride](https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [The Ride](https://open.spotify.com/album/3yJ9rQ9PHhdCGzCbTWvmlO) | 3:16 |
+| 100 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 |
 
-Snapshot ID: `MCxlODZjYjQ4YWEwZjk1OTFhZWE4ZjczY2Y0ZTI3ZWVjYzlhMTljODcx`
+Snapshot ID: `MCxiYWM0MTk5OTUzZGZhYTY2MzhhNzA4NmI0Mjg3NTAwMGVlMmQwNTc5`

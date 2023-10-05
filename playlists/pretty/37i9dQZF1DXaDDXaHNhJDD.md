@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,093 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,255 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 59 | [Devadoothar Paadi \- From "Nna Thaan Case Kodu"](https://open.spotify.com/track/4Zi74O1mr960YTHwcTVOej) | [Biju Narayanan](https://open.spotify.com/artist/039dmmH0fdQTlvXC0zGlQx), [Ouseppachan](https://open.spotify.com/artist/5wq0asvXF4jyJs8ydPPFzR) | [Devadoothar Paadi \(From "Nna Thaan Case Kodu"\)](https://open.spotify.com/album/7ycVSsCV5hOlMQstQqeZeA) | 5:44 |
 | 60 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
 
-Snapshot ID: `MCwyM2M0ZTE4ZTQ5OGI2YmY1ZWVhMDU0ZjUzOTJmOTM2ZTMxZGQ2YzM3`
+Snapshot ID: `MCwxOGMxYTAyZTdkNGEzNzdhYTc1NjEzNTBmNzhkYzNkM2UyYmY3NTYx`

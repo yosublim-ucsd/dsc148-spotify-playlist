@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,096 likes - 63 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,248 likes - 63 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 62 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 63 | [In Dulce Jubilo](https://open.spotify.com/track/7j2B1yYjSxVg9MGEQLIBqn) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [It's Snowing on My Piano](https://open.spotify.com/album/2GVRqMDD7XThNuI6pxqlAX) | 6:05 |
 
-Snapshot ID: `MCxiM2U4NTJlZGQxZTAyZThkOTMzZjYxYzY4N2JhNDBhZmMzNWQ3MDUx`
+Snapshot ID: `MCw1NTU3YWZiZDg2ZTEyN2U3MDcyZDM2YWQ3ZjdlZTRhNTczOTJjMWE3`

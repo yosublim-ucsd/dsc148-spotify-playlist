@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 157152,
       "name": "Character Dheela 2.0 (From \"Shehzada\")",
       "url": "https://open.spotify.com/track/0QT9B8Yfrz0vi66oXMrKJg"
@@ -2210,6 +2210,32 @@
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/6XZWokIxs4leaSmXmU8b26"
+    },
+    {
+      "album": {
+        "name": "Hum Toh Deewane",
+        "url": "https://open.spotify.com/album/7kLMXeP8ewLuQWcwA41qPg"
+      },
+      "artists": [
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Yasser Desai",
+          "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "Hum Toh Deewane",
+      "url": "https://open.spotify.com/track/2A4lcqTJZgUs1XrW6TSvt0"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJlMmIzMDgzM2ZlMjBkZWExZGMwMmIzMTAzMGY0NTllOTliMTk3",
+  "snapshot_id": "MCw2M2I1M2UwYzFjMGYxYThiOWNjMjk4YWE4ZTYzZmRkOWIzODI4ZTI4",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "A Very Very Decent Christmas",
+        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Jesse Slayter",
+          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Rock Them Bells",
+      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "An Electronic Christmas",
         "url": "https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 125280,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "A Very Very Decent Christmas",
-        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Jesse Slayter",
-          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Rock Them Bells",
-      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -731,22 +731,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "I've Got My Love To Keep Me Warm (Somni Remix)",
-        "url": "https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N"
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         }
       ],
-      "duration_ms": 156046,
-      "name": "I've Got My Love To Keep Me Warm - Somni Remix",
-      "url": "https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH"
+      "duration_ms": 233900,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC"
     }
   ],
   "unique_name": "Electronic Christmas",

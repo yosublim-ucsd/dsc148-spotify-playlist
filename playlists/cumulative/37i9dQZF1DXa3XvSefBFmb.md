@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Sara Correia, com o volume no máximo.
 
-610 songs - 1 day 9 hr 57 min
+611 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Inevitável](https://open.spotify.com/track/3NDtWqLY4JvlUWPpB63HP6) | [Bianca Barros](https://open.spotify.com/artist/59m9stUzPJ3i5hPsU8BQzl) | [Inevitável](https://open.spotify.com/album/2jYWPZfRWd809S0VxMCJSO) | 3:15 | 2021-12-08 | 2022-04-06 |
 | [Islet \- Radio Edit](https://open.spotify.com/track/5nKjJ4unohKnpltad388sU) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz) | [Islet](https://open.spotify.com/album/74eA5ZXi2cBmtaYyxf1cgp) | 2:24 | 2022-11-02 | 2022-12-01 |
 | [Jackie Chan!](https://open.spotify.com/track/7HECEbLSDrBEtVEsJ2QiwY) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [Jackie Chan!](https://open.spotify.com/album/2tNlle5YFuwIpENPMu83JU) | 3:26 | 2023-10-03 |  |
+| [Jar Of Hearts](https://open.spotify.com/track/5yhhNHxtw1Rgkc1V1zDCTP) | [Catarina Rodrigues](https://open.spotify.com/artist/05cfB3zRpqKPvs7e30ShMx) | [Jar Of Hearts](https://open.spotify.com/album/3ovrZtJqny1zCNufXdfmXb) | 4:07 | 2023-10-03 |  |
 | [Joana Rosa](https://open.spotify.com/track/5XUcQHDrrjWcUlGnciZb6B) | [Salomé Flores](https://open.spotify.com/artist/44nKl6u0EWlo28yws9MpEp) | [Joana Rosa](https://open.spotify.com/album/6E629av0PAVaKZkktzmZUV) | 4:21 | 2022-03-08 | 2022-06-01 |
 | [Judo](https://open.spotify.com/track/4OIDijcueOohTPwAOENKrb) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Judo](https://open.spotify.com/album/74y7PCwTiSW8rc4NqJ6HXO) | 2:35 | 2022-08-02 | 2022-11-02 |
 | [Jump](https://open.spotify.com/track/4RM6bRhpdmxu3o2qYR2JNc) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump](https://open.spotify.com/album/5alD17F8n1tsyOvIPefZug) | 2:48 | 2022-04-05 | 2023-01-04 |

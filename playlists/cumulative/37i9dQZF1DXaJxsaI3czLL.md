@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-315 songs - 22 hr 11 min
+316 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Lullaby](https://open.spotify.com/track/0i5m8w14ZF8ACiecwfxTmi) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/4p2OIw7cKIpewotLwrfECs) | 3:06 | 2023-02-07 | 2023-02-09 |
 | [Lullaby](https://open.spotify.com/track/236sSsbp1IOaLc93iEruO0) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [PIANO](https://open.spotify.com/album/5TY3WHsYYgXDa6RIrxOTWA) | 3:06 | 2023-02-07 | 2023-02-17 |
 | [Mellow](https://open.spotify.com/track/5ll15QsCP6wVjDipn8FlLo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:00 | 2023-10-03 |  |
+| [Memai](https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG) | [Mei Watanabe](https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y) | [Memai](https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz) | 3:41 | 2023-10-03 |  |
 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 | 2023-08-29 |  |
 | [Metropolis](https://open.spotify.com/track/4am1waZVRIO48gAweG91DJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [ATOM](https://open.spotify.com/album/0DYVvqZiXhTNYPPPRkTxBX) | 4:54 | 2023-01-31 | 2023-03-15 |
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
@@ -299,7 +300,7 @@
 | [眠れない夜に](https://open.spotify.com/track/1eBeSpdQRvARloHq0fTVzK) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [眠れない夜に](https://open.spotify.com/album/5ra5TqcJsRzIgoGvtcAMvw) | 3:28 | 2023-03-30 |  |
 | [眠れぬ夜は君のせい](https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [KISS IN THE SKY](https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD) | 5:22 | 2022-11-23 |  |
 | [眠れぬ羊 \- with TENDRE](https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 3:53 | 2022-10-25 | 2023-01-04 |
-| [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 | 2023-10-03 |  |
+| [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 | 2023-10-03 | 2023-10-05 |
 | [知らない世界も見飽きた](https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt) | [ikire](https://open.spotify.com/artist/4gKZDjiQ4rqit1cH2upaJc) | [知らない世界も見飽きた](https://open.spotify.com/album/4g1wD85mZX0n8RIz1th8NL) | 2:56 | 2022-10-20 | 2023-01-18 |
 | [私を呼んだ 夏の空のような \- feat\. 兼松衆, 須原杏, 関口将史](https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq) | [高木大丈夫](https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60), [兼松 衆](https://open.spotify.com/artist/2ibirI68QUhfYuXM0oq8J1), [須原杏](https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR), [関口将史](https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs) | [私を呼んだ 夏の空のような \(feat\. 兼松衆, 須原杏, 関口将史\)](https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im) | 4:39 | 2023-08-01 | 2023-08-30 |
 | [私生活](https://open.spotify.com/track/3MF87LZiZQ2LrhLrkD0jtv) | [saya.](https://open.spotify.com/artist/38l0zheYDPz4OAcuhyczL3) | [抱き締めたい](https://open.spotify.com/album/2LoBHGrdlHVUVBSv07sA1f) | 5:47 | 2023-04-18 | 2023-08-09 |

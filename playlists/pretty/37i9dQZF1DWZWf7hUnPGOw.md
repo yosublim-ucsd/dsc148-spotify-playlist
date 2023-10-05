@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,557 likes - 217 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,677 likes - 217 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,7 +210,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 200 | [Tomorrow Is Coming](https://open.spotify.com/track/4kB4Nupn6vML2gWnNW5s9T) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 5:59 |
 | 201 | [This Time](https://open.spotify.com/track/4NDMfILVy0KPG8nvoctsKO) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 4:16 |
 | 202 | [Heartshaker](https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:06 |
-| 203 | [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 |
+| 203 | [Troubled Roads](https://open.spotify.com/track/25SP3wsvCo6o2E05K8nmxr) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/0DKWJKgu5DZGKCth0wIrS8) | 3:26 |
 | 204 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 205 | [catacombs](https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [petrichor](https://open.spotify.com/album/6pfWucHFIt3I6LFRVBwh1l) | 3:27 |
 | 206 | [fever dream](https://open.spotify.com/track/4UCSbPweLRQNfkr5MCRooZ) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 3:16 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 216 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 217 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCxiZGM3ZTNiZmY1NmU5NmI2MDY3NmFhMGMwMDMyNWJjMGZlOTc2YWUw`
+Snapshot ID: `MCxiMTViY2M1ZTRiMWFmNjYxMjRmOTI5ZGFhOWM1ZmZhZGYzNWRkYWZh`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 118674,
+  "num_followers": 118705,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDZjZDViYzI2ZDc5ZDlhYmU4MWE3NDk4ZmEzZTE3MmNhNDJjNTgx",
+  "snapshot_id": "MCwzZWEzODI5MTU3ZDJmZDE4M2EwZTU3OTYwZTZmZTk2OTQyYWRjNmM0",
   "tracks": [
     {
       "added_at": "2023-09-01 23:59:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 154647,
       "name": "Rua Tr\u00eas",
       "url": "https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2023-09-01 23:59:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-09-01 23:59:27",
       "album": {
+        "name": "Desastre Solar",
+        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
+      },
+      "artists": [
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Deixa Acontecer",
+      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
+    },
+    {
+      "added_at": "2023-09-01 23:59:27",
+      "album": {
         "name": "Alumi\u00f4",
         "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 204116,
       "name": "Alumi\u00f4",
       "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2023-09-01 23:59:27",
-      "album": {
-        "name": "Desastre Solar",
-        "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
-      },
-      "artists": [
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Deixa Acontecer",
-      "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
     },
     {
       "added_at": "2023-09-01 23:59:27",

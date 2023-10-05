@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 
 > Listen to Eric Nam's greatest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,453 likes - 66 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,485 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvP5HMve5xc.md) - [plain]
 | 65 | [Good\-bye in once upon a time](https://open.spotify.com/track/5PJ4qGA50DzE6m3gpjMpbP) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Love in Memory OST Part.2](https://open.spotify.com/album/4lIIY9VAXXIVexOy0dcaZc) | 4:10 |
 | 66 | [Erase](https://open.spotify.com/track/70IiwE3KGMGoB3zqsgwWPY) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [CLOUD 9](https://open.spotify.com/album/1AsAiZVkOZN2SEEIQziJ2l) | 4:21 |
 
-Snapshot ID: `MCxkNDI4ZjZiOTJjOGEyOTU2MzUwYjY1YjE4ZDQ5YWYxZjU0Y2Y0NzZl`
+Snapshot ID: `MCxkZjQzMDM4MTczZTU1NDUyMzcyMzRjNTEyYWVlZWU4NjJjMTNhNTJh`

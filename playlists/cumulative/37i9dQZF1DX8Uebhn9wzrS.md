@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,599 songs - 2 day 12 hr 44 min
+1,600 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [Non Troppo](https://open.spotify.com/track/5769mk2Z62iRhm0qyIC3kn) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Non Troppo](https://open.spotify.com/album/4DneUqwjCEcFMexEmDa9p7) | 2:45 | 2022-07-22 | 2022-08-12 |
 | [Nostalgia](https://open.spotify.com/track/2cqvEdlgsh6UkAbWrLeNsS) | [Flat Ruy](https://open.spotify.com/artist/2nNNlvce8hkNy7Qc8marke) | [Nostalgia](https://open.spotify.com/album/4h5AOoOzuQntV9z4iuSRbS) | 2:44 | 2022-08-05 | 2022-10-29 |
 | [Nostalgia Pt\. 1 \- Beat Edit](https://open.spotify.com/track/1SBIGuG5nlZSA0ujKDcx5o) | [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [Nostalgia Pt\. 1 \(Beat Edit\)](https://open.spotify.com/album/0NRAkXnNFFStPxA3Orqdb9) | 2:09 | 2022-04-15 | 2022-07-15 |
+| [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2023-09-29 |  |
 | [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 | 2022-11-11 |  |
 | [not okay](https://open.spotify.com/track/2B2F8NHqKwCeJIv7oVrm22) | [Aftermix](https://open.spotify.com/artist/1goPpxuXjwZK1g63yS0VvG) | [not okay](https://open.spotify.com/album/3V2yj5W2fYsV9sSSxUEqhe) | 2:19 | 2022-04-15 | 2022-10-08 |
 | [November Moon](https://open.spotify.com/track/0uHyGjgAYXgJ20JRf4XWv8) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [November Moon](https://open.spotify.com/album/15KPuUA4hdzpfckOaOWdHL) | 1:48 | 2023-03-08 |  |
@@ -1309,7 +1310,7 @@
 | [Specs](https://open.spotify.com/track/5oTOrR69wkWoJbKElUhmRA) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/14nqrIOs4msbZoxrQUa92c) | 1:53 | 2022-08-19 | 2022-11-21 |
 | [Specs](https://open.spotify.com/track/6atHVHvVI6N0TJGGdgFTLR) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Sid Similar](https://open.spotify.com/artist/1w4vugLBqgHoBPartBq9A9) | [Specs](https://open.spotify.com/album/37zmqkX5JDc19MVZMBj21w) | 1:53 | 2022-11-18 | 2022-12-24 |
 | [Spectre](https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM) | [submarine](https://open.spotify.com/artist/5Z939ZaWYTA9rJyHq1jzKv) | [Spectre](https://open.spotify.com/album/1gI6pkoJ3EvTV5msQgFzSe) | 1:51 | 2022-09-16 |  |
-| [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 |  |
+| [spellbounds](https://open.spotify.com/track/5XtH4864ouLpUJx3rzBeOS) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [spellbounds](https://open.spotify.com/album/5QR42b7gHmNPuK2IqkpDD9) | 3:29 | 2023-01-06 | 2023-10-05 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
 | [Spirit](https://open.spotify.com/track/78WLGsJbmMAJ4kc4vHwnBc) | [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi) | [Spirit](https://open.spotify.com/album/4vD955w9bZBkIeeDQ82w81) | 1:56 | 2022-08-19 | 2022-12-17 |
 | [Spit of the Self](https://open.spotify.com/track/51ypw9dEOdHg7sGaW4wEGo) | [Max Theissen](https://open.spotify.com/artist/1OLPbpAEjeBwZ7Ndtn8QCg) | [Accusation with Criticise](https://open.spotify.com/album/3dZFHJ3UXBuLT9txlBYdXL) | 1:46 | 2022-05-13 | 2022-11-12 |

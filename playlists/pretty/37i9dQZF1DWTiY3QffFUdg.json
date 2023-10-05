@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 19001,
+  "num_followers": 19336,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTgzODRhOGI2YmI0NzBlNjIyYzY4OTU4NTAwNjYzMzllMTY2OWQw",
+  "snapshot_id": "MCxmMjc3NGM1ZjA4NTA1YmZkMTBlZTNiMWIyYjUzMjU1ZTgxMjIxN2U3",
   "tracks": [
     {
       "added_at": "2023-09-29 15:49:25",
@@ -283,18 +283,22 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
         }
       ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+      "duration_ms": 165335,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
     },
     {
       "added_at": "2023-09-29 15:49:25",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB"
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 165335,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP"
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2023-09-29 15:49:25",
@@ -783,6 +783,30 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 189855,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+    },
+    {
+      "added_at": "2023-09-29 15:49:25",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
       },
@@ -799,26 +823,6 @@
       "duration_ms": 192643,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
-    },
-    {
-      "added_at": "2023-09-29 15:49:25",
-      "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-09-29 15:49:25",
@@ -863,26 +867,22 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj"
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         },
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
         }
       ],
-      "duration_ms": 189855,
-      "name": "RIDE OR DIE",
-      "url": "https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD"
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-09-29 15:49:25",
@@ -967,22 +967,26 @@
     {
       "added_at": "2023-09-29 15:49:25",
       "album": {
-        "name": "3 DAYS AWAKE",
-        "url": "https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at"
+        "name": "WANNA GO BANG",
+        "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
       },
       "artists": [
         {
-          "name": "Marco Faraone",
-          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "Stella Bossi",
-          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "DJ Deeon",
+          "url": "https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH"
         }
       ],
-      "duration_ms": 143892,
-      "name": "3 DAYS AWAKE",
-      "url": "https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK"
+      "duration_ms": 237157,
+      "name": "WANNA GO BANG",
+      "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
     }
   ],
   "unique_name": "techno party",

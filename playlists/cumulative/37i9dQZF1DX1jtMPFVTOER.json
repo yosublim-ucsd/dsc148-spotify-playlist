@@ -5632,10 +5632,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 194657,
       "name": "Like A Trap",
       "url": "https://open.spotify.com/track/02MZHCU9oBqxtqEB369fD9"
+    },
+    {
+      "album": {
+        "name": "Tell The Ghost Welcome Home",
+        "url": "https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp"
+      },
+      "artists": [
+        {
+          "name": "Nico Segal",
+          "url": "https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194657,
+      "name": "Like A Trap",
+      "url": "https://open.spotify.com/track/2hfkuNjCb2taJLSPYAWC3s"
     },
     {
       "album": {

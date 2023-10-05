@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- King
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,364 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,442 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 |
 | 50 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 
-Snapshot ID: `MCwzNmY4YjFmNGU4NjcxZWVhNTNkZjc0NDU4ZmVkOTg5NDUwZTFkM2Fm`
+Snapshot ID: `MCxhNzZmOTcxZTQ5YjY2OGNhZDM5ZjllNWE3YzgxYTQyYTVhYjNjMzM5`

@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Sam Smith & Kim Petras",
-  "num_followers": 656921,
+  "num_followers": 656944,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTNkMjljMmE0NGJhYWM3YmVkMGY3NGZkZmFhM2Q1ZmNlMmNhY2Jj",
+  "snapshot_id": "MCwyNzViN2Y5YTlmYWMxNTdhZWZmYjZkMmU3NGVmOWU4YjAzN2FlMTRm",
   "tracks": [
     {
       "added_at": "2023-06-08 22:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-06-08 22:01:00",
       "album": {
+        "name": "Haus Party, Pt. 1",
+        "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
+      },
+      "artists": [
+        {
+          "name": "Todrick Hall",
+          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
+        }
+      ],
+      "duration_ms": 236190,
+      "name": "Nails, Hair, Hips, Heels",
+      "url": "https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v"
+    },
+    {
+      "added_at": "2023-06-08 22:01:00",
+      "album": {
         "name": "Beg For You (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 168053,
       "name": "Beg for You (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2023-06-08 22:01:00",
-      "album": {
-        "name": "Haus Party, Pt. 1",
-        "url": "https://open.spotify.com/album/7HuGa9781G05ax5o354dpo"
-      },
-      "artists": [
-        {
-          "name": "Todrick Hall",
-          "url": "https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH"
-        }
-      ],
-      "duration_ms": 236190,
-      "name": "Nails, Hair, Hips, Heels",
-      "url": "https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v"
     }
   ],
   "unique_name": "Pride Party",

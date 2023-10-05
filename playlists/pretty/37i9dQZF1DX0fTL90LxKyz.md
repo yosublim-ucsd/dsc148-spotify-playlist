@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,736 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,757 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 18 | [Commitment Issues](https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Commitment Issues](https://open.spotify.com/album/0RHc0eLRmJ7dFidneiGXeX) | 2:30 |
 | 19 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 | 20 | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/0Nc02dTQgwGy1cRVHE2OnH) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Fizzler x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/4shsbqOhs4QcFDNj1EM8aW) | 2:39 |
-| 21 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
+| 21 | [AirForce](https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [AirForce](https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426) | 3:41 |
 | 22 | [Can't Be Us](https://open.spotify.com/track/2hZ17zF5a03Ly4by80wI2M) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE) | [Can't Be Us](https://open.spotify.com/album/2dDf3sv8pGnm8Oa9eC86IM) | 3:21 |
 | 23 | [Loading](https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Loading](https://open.spotify.com/album/11W7cdDjujY2ktlOAGGq7Q) | 2:53 |
 | 24 | [No Diet](https://open.spotify.com/track/3HUb7feX3gdnzZVEHy5yFj) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Double Tap Diaries](https://open.spotify.com/album/4On8nxuf68aMTWz8ohnbWQ) | 3:12 |
-| 25 | [AirForce](https://open.spotify.com/track/3DLRRpaDETZYltj3KZ7kxo) | [DigDat](https://open.spotify.com/artist/47rT8CoKTbr0S945AGgATQ) | [AirForce](https://open.spotify.com/album/3ADX90oQVwuiHPT5ki5426) | 3:41 |
+| 25 | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [The Great Escape \(feat\. Central Cee\)](https://open.spotify.com/album/74QOvBN9TxbosknH81QoC5) | 3:12 |
 | 26 | [Versus](https://open.spotify.com/track/6NTxrKuDVmqb1Yr86cR5MD) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Versus](https://open.spotify.com/album/5W0gx431L1lzVXXXpH385f) | 2:54 |
 | 27 | [Block 6 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/track/7esgTfwtLhISeKP7GgTsSP) | [Fumez The Engineer](https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk), [Block 6](https://open.spotify.com/artist/4greawD4iPVecLHKENer73), [Lucii](https://open.spotify.com/artist/3aa1GMnXua8XTpaTcozfKR) | [Block 6 x Fumez The Engineer \- Plugged In Freestyle](https://open.spotify.com/album/5nyybgL9emIvbudSnVbyAm) | 3:25 |
 | 28 | [18HUNNA \(feat\. Dave\)](https://open.spotify.com/track/2tC6dm3WkOKYcgS2nZybmg) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Music x Road](https://open.spotify.com/album/6J41exElcUa6rK5SJmjV6S) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 | 50 | [Call Me A Spartan](https://open.spotify.com/track/3tvtBZEkBPhrusKwj0Bhft) | [Harlem Spartans](https://open.spotify.com/artist/2tdPAMw1puUwZNvRo3Rq4g) | [Call Me A Spartan](https://open.spotify.com/album/0L3E3Q7E8vGe64qn30FuUN) | 3:40 |
 
-Snapshot ID: `MCw5Y2M4MzVjMjI1ZGE1MDRjN2ExZTE3OWQ5NDVlZDA5YTJjMzY4ZDg1`
+Snapshot ID: `MCxhOGUyNjljODc0MDdhYWQ5ZDVjOGFiYzM4ZWY5YTMzNzA4ZGZmY2I4`

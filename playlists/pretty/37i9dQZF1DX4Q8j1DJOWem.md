@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: YourMOOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,544 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [เดินมาส่ง \- BYE](https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เดินมาส่ง \(BYE\)](https://open.spotify.com/album/0gHWs2N0DKlZHGcJpvpeCA) | 3:25 |
 | 2 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 |
-| 3 | [ชน \(battle\)](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน \(battle\)](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 |
+| 3 | [ชน](https://open.spotify.com/track/3EVlTT0RzXqVapGHqvxkdf) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ชน](https://open.spotify.com/album/7qcNglOOUH0QeyTtiezm7m) | 2:29 |
 | 4 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 |
 | 5 | [April](https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [April \- Single](https://open.spotify.com/album/2zittikcejcyLsFIk5mSik) | 4:58 |
 | 6 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [Stay](https://open.spotify.com/track/12fWIindDPAAsaPXPSAYJK) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Stay](https://open.spotify.com/album/5MwGuY9wRplZgMtA1Bn1UV) | 3:27 |
 | 50 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 |
 
-Snapshot ID: `MCwxODQ4YWM0NjFmZWE4NzVmZTFhM2I4OTkyMTI4MmZhNTg0ZDkyYzI1`
+Snapshot ID: `MCxmMDlmZmJhYmRmNDA0MTk2Y2FiZjYwMTQzMDYxMjM3ODk2NjQwYzJi`

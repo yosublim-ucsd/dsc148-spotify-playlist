@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,937 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,952 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 19 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
 | 20 | [16:28](https://open.spotify.com/track/6uqVlsFHg4Nkr1wRenev6O) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [no public sounds](https://open.spotify.com/album/6aO96YUjirdU0mPzy7mCHd) | 5:45 |
 | 21 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 |
-| 22 | [nYc](https://open.spotify.com/track/4tsZ5Ye3Y6wdoj37dIQtrR) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/1cJabE1Ju2RUnFNRAGxsXQ) | 4:22 |
+| 22 | [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 |
 | 23 | [Hentotai](https://open.spotify.com/track/77e43kws6FyAhyNmUMAO08) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Hentotai](https://open.spotify.com/album/49drcV28EOnBPoInfKimh9) | 3:48 |
 | 24 | [ルサンチマン或いは](https://open.spotify.com/track/4CwcNhOwPV38Kc0Wta5SAY) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [ルサンチマン或いは](https://open.spotify.com/album/4iiyWQ9KInnFtk9axLy7Of) | 4:02 |
-| 25 | [No.11](https://open.spotify.com/track/5k476EgU88agg4tU6ZRWxE) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN) | 3:50 |
+| 25 | [No.11](https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo) | 3:50 |
 | 26 | [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 |
 | 27 | [横に縦に](https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [横に縦に](https://open.spotify.com/album/17r34hNz2CXnfkSu8RuRjb) | 3:44 |
 | 28 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 46 | [Whatever](https://open.spotify.com/track/6RJeykAEnHYnshkBhCxiKt) | [GIVE ME OW](https://open.spotify.com/artist/1gOZX2GKUGvwGkDQagW3dH) | [Whatever](https://open.spotify.com/album/6RQ2pRkdP7tdCHu9rkpa7Y) | 2:35 |
 | 47 | [To\-ri](https://open.spotify.com/track/0eSb1GGN1MW9pikb9dEVSX) | [Till Yawuh](https://open.spotify.com/artist/3kueCRD80jIeLrmDxjnL8b) | [To\-ri](https://open.spotify.com/album/0Uct2KJdlie90YE5hrgpd5) | 3:47 |
 | 48 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 |
-| 49 | [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 |
+| 49 | [Memai](https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG) | [Mei Watanabe](https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y) | [Memai](https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz) | 3:41 |
 | 50 | [蜃気楼](https://open.spotify.com/track/4TJ679LbRBE9FarL99fOEB) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [蜃気楼](https://open.spotify.com/album/72cMGzadVVPSjQzVFZroc3) | 6:33 |
 | 51 | [愛のレコード](https://open.spotify.com/track/6MG5pzwOflDAFcp0vBjdh5) | [北谷 琉喜](https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P) | [愛のレコード](https://open.spotify.com/album/28x4qiVqe3aWX6WxCL9WMK) | 4:33 |
 | 52 | [Umaikotodekiteru \-That's How it Works\-](https://open.spotify.com/track/0GT2Reu9UJxF3EUiwaXphW) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Yume Ga Kanawanakattatokino Juno Taishohou](https://open.spotify.com/album/1tvYoPXLoVWLKDsFBKTqFu) | 3:26 |
 | 53 | [Catch The Miracle](https://open.spotify.com/track/0veerJcFJTSumChnxuLD0i) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Catch The Miracle](https://open.spotify.com/album/2jHtSMczXw6jiUfFL64Vjz) | 5:24 |
-| 54 | [サイレンスで踊りたい](https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [サイレンスで踊りたい](https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb) | 3:49 |
+| 54 | [Dance in Silence](https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Dance in Silence](https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9) | 3:49 |
 | 55 | [星を見る人](https://open.spotify.com/track/40D6bVwmUK7RqigjAnmcmW) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [星を見る人](https://open.spotify.com/album/20Rf0NcJXvBmWIk8bhmWhb) | 5:08 |
 | 56 | [Lamp](https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Lamp](https://open.spotify.com/album/4B0JbnimIGL9UtO5Z3t0Ro) | 2:56 |
 | 57 | [泣き虫](https://open.spotify.com/track/29j1V9spM4H71IQpYhKixj) | [くだらない1日](https://open.spotify.com/artist/0e11UZEaAK9dntRu5NAc6f) | [泣き虫](https://open.spotify.com/album/5Ns0CX51mneYF6HABLbO0m) | 4:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 70 | [sister](https://open.spotify.com/track/6nhwWS4Avopq8rsdXMXbF0) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [sister](https://open.spotify.com/album/4OZZX92llP50sdAIapaZ2m) | 3:00 |
 
-Snapshot ID: `MCw0Mzg0ZWQxNGFkOGQyYWM1ZjlhODI0MGU5Y2NlYzc5MzgzMGJlMTYx`
+Snapshot ID: `MCw5ZjZmYTUxZGQ4NmY3ZWU5ZDM5Zjk1ODBkYjU0NTYzOTIxZmI5NGYw`

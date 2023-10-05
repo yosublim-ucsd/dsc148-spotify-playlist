@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 245794,
       "name": "Daawath",
       "url": "https://open.spotify.com/track/3Bv6Jghbq72NqEqWnkqUOj"
@@ -650,6 +650,40 @@
       "duration_ms": 236064,
       "name": "Harini",
       "url": "https://open.spotify.com/track/3nL7CA4hvqVr99agCJyhSC"
+    },
+    {
+      "album": {
+        "name": "Idhi Prema",
+        "url": "https://open.spotify.com/album/3dv7xRIqqy2MuhYUONItic"
+      },
+      "artists": [
+        {
+          "name": "Iravu",
+          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
+        },
+        {
+          "name": "Gavenpride",
+          "url": "https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P"
+        },
+        {
+          "name": "Manasa Adusumilli",
+          "url": "https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm"
+        },
+        {
+          "name": "Sarvari",
+          "url": "https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS"
+        },
+        {
+          "name": "Lalitha Shravani",
+          "url": "https://open.spotify.com/artist/7h32Npfr5JQkupWW6OgWZS"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Idhi Prema",
+      "url": "https://open.spotify.com/track/6d3gMJtIqr84iWNIIVuQEQ"
     },
     {
       "album": {
@@ -1042,6 +1076,28 @@
       "duration_ms": 139534,
       "name": "Kshaminchu",
       "url": "https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r"
+    },
+    {
+      "album": {
+        "name": "Kshanam",
+        "url": "https://open.spotify.com/album/4iYPR8cdYtPYuN2noncJ86"
+      },
+      "artists": [
+        {
+          "name": "Gavenpride",
+          "url": "https://open.spotify.com/artist/5FlDRCUWkwAXFZ6ynO0U2P"
+        },
+        {
+          "name": "Sarvari",
+          "url": "https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114214,
+      "name": "Kshanam",
+      "url": "https://open.spotify.com/track/3RoOO8Rmx5Wd9a9LrV5Btw"
     },
     {
       "album": {
@@ -1540,7 +1596,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 103448,
       "name": "Nanu Kalchesave",
       "url": "https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m"

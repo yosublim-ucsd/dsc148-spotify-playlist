@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,948 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,072 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 17 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
 | 18 | [Rubber](https://open.spotify.com/track/18jWMucGFV4gEXKcOw6eje) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Rubber](https://open.spotify.com/album/5K5ld5Ff5NGvTLFwYB005q) | 3:18 |
 | 19 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 |
-| 20 | [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 |
+| 20 | [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 |
 | 21 | [Asla](https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Vikrant Mehla](https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H), [Khushboo Manhas](https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf) | [Asla](https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG) | 2:29 |
 | 22 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
 | 23 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 |
 | 50 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 |
 
-Snapshot ID: `MCw4ZGQ2YjFjYzAzYzk1MDY4MjJhNWNjMjdmYWZhMjI0Nzg2YjNkNGVm`
+Snapshot ID: `MCwxMmVjZTMwNmU4ZTI0OTY3MzQ4YWEwNTEyNjA1MmRmMTM2MzkxZGI4`

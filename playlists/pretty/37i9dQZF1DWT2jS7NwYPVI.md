@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: julie
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,313 likes - 122 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,376 likes - 122 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 121 | [BATSHIT](https://open.spotify.com/track/0xA47Wk9UfpBcqSvLkfHuI) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [BATSHIT](https://open.spotify.com/album/6wM6nmqkAArmrS1U5pkELi) | 4:11 |
 | 122 | [t!mezone](https://open.spotify.com/track/4O8j9RMURUEsdFBtxGKaSZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [t!mezone](https://open.spotify.com/album/7LyemIrA9Xf7ZiiJTDiMvX) | 2:53 |
 
-Snapshot ID: `MCwxZmY2YTNiN2VkZWY0N2VkODY3MmEyYWNlYjI4NDVkOGFmYzE4YzM0`
+Snapshot ID: `MCw4YmM0NjBhY2M2YzYwMDEzZTcwODI5NWE2YjZiYzcyOTYyYWZiM2Ez`

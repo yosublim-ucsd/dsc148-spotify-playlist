@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 151020,
+  "num_followers": 151086,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTg3NmFlNGE5NzUzOTMxODMzYjM2YmFmMDY0NTQzMDY1YjNmMDg2",
+  "snapshot_id": "MCxkM2I3NGRiYTcwOTQ0MzM4N2ExMzgzZDYzMmYxN2NlZjM5ODA3MmQ0",
   "tracks": [
     {
       "added_at": "2023-10-03 15:00:00",
@@ -811,26 +811,18 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "Watching Over You",
-        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
       },
       "artists": [
         {
-          "name": "Peach & Apricot",
-          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
-        },
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        },
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
         }
       ],
-      "duration_ms": 297444,
-      "name": "Watching Over You",
-      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -851,18 +843,26 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+        "name": "Watching Over You",
+        "url": "https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "Peach & Apricot",
+          "url": "https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX"
+        },
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
+      "duration_ms": 297444,
+      "name": "Watching Over You",
+      "url": "https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -935,8 +935,8 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
-        "url": "https://open.spotify.com/album/3S4nFATM8NAwyDBukOWPAb"
+        "name": "Dance in Silence",
+        "url": "https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9"
       },
       "artists": [
         {
@@ -945,28 +945,24 @@
         }
       ],
       "duration_ms": 229931,
-      "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
+      "name": "Dance in Silence",
+      "url": "https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x"
     },
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "Peel (feat. miida)",
-        "url": "https://open.spotify.com/album/2G9PCqtBdxkoze7pTV2TFy"
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
       },
       "artists": [
         {
-          "name": "leift",
-          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
-        },
-        {
-          "name": "miida",
-          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
         }
       ],
-      "duration_ms": 182027,
-      "name": "Peel (feat. miida)",
-      "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+        "name": "Peel (feat. miida)",
+        "url": "https://open.spotify.com/album/2G9PCqtBdxkoze7pTV2TFy"
       },
       "artists": [
         {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+          "name": "leift",
+          "url": "https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3"
+        },
+        {
+          "name": "miida",
+          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
         }
       ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+      "duration_ms": 182027,
+      "name": "Peel (feat. miida)",
+      "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 (English Version)",
-        "url": "https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 - English Version",
-      "url": "https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "Million Miles Away (Edit)",
         "url": "https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 211995,
       "name": "Million Miles Away - Edit",
       "url": "https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 (English Version)",
+        "url": "https://open.spotify.com/album/5wvR2xuWc4pzDcjH9MXGFF"
+      },
+      "artists": [
+        {
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "\u30d5\u30e9\u30a4\u30c7\u30a3\u30fb\u30c1\u30e3\u30a4\u30ca\u30bf\u30a6\u30f3 - English Version",
+      "url": "https://open.spotify.com/track/72xlrzaRJzNqI8OBV7HkDe"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
-      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "Change My Life",
         "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
@@ -1219,6 +1203,46 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
+        "name": "You Are Nobody (feat. \u3072\u304b\u308a) [TOSHIKI HAYASHI(%C) Remix]",
+        "url": "https://open.spotify.com/album/0s0ZFnQwK9ehsCemTlyMpr"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "You Are Nobody (feat. \u3072\u304b\u308a) - TOSHIKI HAYASHI(%C) Remix",
+      "url": "https://open.spotify.com/track/0LUleEmZOpT6mv2yXQxFdi"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+        "url": "https://open.spotify.com/album/4wETgB0KvDftRNMc6V6Bmd"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 176919,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30b5\u30de\u30fc",
+      "url": "https://open.spotify.com/track/7hR5iQ1WpDyfP4FYDR6YA6"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
         "url": "https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z"
       },
@@ -1251,30 +1275,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "One More Kiss (feat. \u3072\u304b\u308a) [grooveman Spot Remix]",
-        "url": "https://open.spotify.com/album/489m6WCowErD1iqtPkQzVC"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "grooveman Spot",
-          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "One More Kiss (feat. \u3072\u304b\u308a) - grooveman Spot Remix",
-      "url": "https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
         "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 235325,
       "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "\u307e\u305f\u306d",
-        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "\u307e\u305f\u306d",
-      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1339,6 +1323,30 @@
       "duration_ms": 178673,
       "name": "Mo ai ni",
       "url": "https://open.spotify.com/track/6iSG9jmLnHlXaYgbIlBCUP"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "One More Kiss (feat. \u3072\u304b\u308a) [grooveman Spot Remix]",
+        "url": "https://open.spotify.com/album/489m6WCowErD1iqtPkQzVC"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a) - grooveman Spot Remix",
+      "url": "https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1395,6 +1403,22 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
         "name": "tonun 2",
         "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
       },
@@ -1407,30 +1431,6 @@
       "duration_ms": 205253,
       "name": "Amber Bare Skin",
       "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "You Are Nobody (feat. \u3072\u304b\u308a) [TOSHIKI HAYASHI(%C) Remix]",
-        "url": "https://open.spotify.com/album/0s0ZFnQwK9ehsCemTlyMpr"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "You Are Nobody (feat. \u3072\u304b\u308a) - TOSHIKI HAYASHI(%C) Remix",
-      "url": "https://open.spotify.com/track/0LUleEmZOpT6mv2yXQxFdi"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "Twenty-Twenty",
         "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 242836,
       "name": "Twenty-Twenty",
       "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+        "url": "https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/67wpz675S04tMcORr36Psb"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
-      },
-      "artists": [
-        {
-          "name": "The Gospellers",
-          "url": "https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "NO TIME",
         "url": "https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 229088,
       "name": "nestling",
       "url": "https://open.spotify.com/track/1Ox30wrAfvowGChbGc2y6p"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
+      },
+      "artists": [
+        {
+          "name": "The Gospellers",
+          "url": "https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
-        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
-        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 218166,
-      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
-      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
         "name": "PRISMATICS",
         "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2023-10-03 15:00:00",
       "album": {
+        "name": "\u611b\u304c\u4e00\u5c64\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/38Uv2EtCEfUpfWdHVvVtaV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 218166,
+      "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
+      "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1683,26 +1683,6 @@
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "Shampoo (feat. Yu Hayami)",
-        "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Yu Hayami",
-          "url": "https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Shampoo (feat. Yu Hayami)",
-      "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
     },
     {
       "added_at": "2023-10-03 15:00:00",
@@ -1739,6 +1719,26 @@
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
+    },
+    {
+      "added_at": "2023-10-03 15:00:00",
+      "album": {
+        "name": "Shampoo (feat. Yu Hayami)",
+        "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Yu Hayami",
+          "url": "https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Shampoo (feat. Yu Hayami)",
+      "url": "https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,811 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,954 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [BENDICIONES](https://open.spotify.com/track/4jWXjKfLI8VbDqz0Mr0xqA) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [BENDICIONES](https://open.spotify.com/album/3l5JozF1Qdra5igz4rJBNZ) | 2:31 |
 | 49 | [Abriendo Los Caminos](https://open.spotify.com/track/7DZPSq8mIO1BiVJ3c1Mht4) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik) | [Abriendo Los Caminos](https://open.spotify.com/album/4KAlI2f8U66VLSttCPjagx) | 2:29 |
 | 50 | [Corazón](https://open.spotify.com/track/6iNDMmX5d8ZhxXy8klgcMt) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Corazón](https://open.spotify.com/album/2RT9PvhlYLEwy8KcO1DtUb) | 3:08 |
-| 51 | [BUENOTA](https://open.spotify.com/track/5p7k15ePkj78IEKTMW2cTU) | [Geezly](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [BUENOTA](https://open.spotify.com/album/691oeEC4D424lvYosf086I) | 1:55 |
+| 51 | [BUENOTA](https://open.spotify.com/track/5p7k15ePkj78IEKTMW2cTU) | [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [BUENOTA](https://open.spotify.com/album/691oeEC4D424lvYosf086I) | 1:55 |
 | 52 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
 | 53 | [The Vibras](https://open.spotify.com/track/2oRoyMIydqruC9OXTEWzIy) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [JUX·TA·PO·SI·TION](https://open.spotify.com/album/381pvvYtOdu9dSP4fcRxT2) | 3:04 |
 | 54 | [Estrellas](https://open.spotify.com/track/214hfQj9opzR3xYteGQYU2) | [Alessandra Aguirre](https://open.spotify.com/artist/0m4SQNU6NyIJxjsSQRGfpB) | [Estrellas](https://open.spotify.com/album/6CgVji41fnbjHmsg0ZzL6k) | 3:29 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 58 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 |
 | 59 | [De Ti](https://open.spotify.com/track/0v5jq7T9zUZxg89ijW3JfM) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [GALAXY](https://open.spotify.com/album/3pf2eFHL0Fm8jC0gxJD90z) | 2:23 |
 
-Snapshot ID: `MCxmMGY0MWE0NjFlOWY5MTQ3MzVkODBkMzhjYzIzMmI1NDhlNTAyYzNm`
+Snapshot ID: `MCxlN2RkODlkNWU2NmQ3ZWRiMTAzNjE5ZWZmNTA0Yzg5ZDM1YzM5MGU5`

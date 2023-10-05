@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 逢田梨香子
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,264 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,283 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 |
 | 50 | [Megamorphose](https://open.spotify.com/track/62QXjppBAgbfhggeN1B5au) | [Smewthie](https://open.spotify.com/artist/4dEHjlZ84ouGTmZcK77Xrm) | [Megamorphose / Can\-Do Dreamer](https://open.spotify.com/album/3rMfcwSUrFKXYtERTUGHy0) | 3:54 |
 
-Snapshot ID: `MCw1M2JhMDZjMWMyODRmOWFkZmVlMzgyNTY5MDdiNzhhMTU1NjU4NmY4`
+Snapshot ID: `MCxlYjg5OGZhYTUxYzg2YmU0NThiN2IxMzliMDI5NTg2OWZjYzJmMjQ1`

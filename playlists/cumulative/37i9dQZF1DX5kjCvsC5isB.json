@@ -6883,6 +6883,24 @@
     },
     {
       "album": {
+        "name": "Retrovision",
+        "url": "https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192681,
+      "name": "Worst Apology",
+      "url": "https://open.spotify.com/track/0vPbHk9HyqldcOCOkBCwJr"
+    },
+    {
+      "album": {
         "name": "Worst Apology",
         "url": "https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74"
       },
@@ -6894,7 +6912,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 192681,
       "name": "Worst Apology",
       "url": "https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM"

@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-50 songs - 2 hr 47 min
+51 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Angels We Have Heard On High](https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:25 | 2021-11-12 |  |
 | [Back Door Santa](https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ) | [Clarence Carter](https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB) | [Testifyin'](https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N) | 2:16 | 2021-11-12 |  |
 | [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 | 2021-11-12 |  |
+| [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 | 2021-11-12 |  |
 | [Christmas Love](https://open.spotify.com/track/2vETTjXh0QRlkUETTlcbOg) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va) | [Peace](https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW) | 3:11 | 2021-11-12 |  |
 | [Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6KVKod5NIBFqoKsgXfI6cz) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Voyage To India \- Special Edition](https://open.spotify.com/album/5gnsCHk9Y77xaVARBD0vwf) | 2:39 | 2021-11-12 |  |
 | [Christmas with You](https://open.spotify.com/track/32zz3fd8fKnJ415DGnPQfd) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [Christmas with You](https://open.spotify.com/album/2HoqjjtNXcehLEFqxA8lcq) | 4:57 | 2022-11-18 |  |
@@ -27,7 +28,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A) | 3:04 | 2021-11-19 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 | 2021-11-12 |  |
 | [I'll Be Your Santa Baby](https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:35 | 2021-11-12 |  |
-| [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2021-11-12 |  |
+| [It Won't Be Long 'Til Christmas \- Bonus Track / 2015 Mix](https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62) | 2:41 | 2021-11-12 | 2023-10-05 |
 | [Jingle Bell Rock](https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Home For Christmas](https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1) | 3:23 | 2022-11-18 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/1tJ2IxYebzo8BH1DfugyL3) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Christmas With The Platters](https://open.spotify.com/album/3WdCWL7bYtiSLRAlxxq1Q2) | 1:51 | 2021-11-12 |  |
 | [Joy To The World](https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9) | [James Casey](https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC) | [A Little Something For Everyone](https://open.spotify.com/album/6tKPpbcaVKvnGYyX6oG6yz) | 3:40 | 2022-12-06 |  |

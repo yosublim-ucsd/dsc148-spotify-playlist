@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- La Signore
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,030 likes - 95 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,102 likes - 95 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 94 | [Pitakavare amu song](https://open.spotify.com/track/6iyZXnxBY8GdipxRvi3m2Y) | [Sanjeew Lonliyes](https://open.spotify.com/artist/61Jce4aGUQXCcfJnlLGqZn) | [Pitakavare amu song](https://open.spotify.com/album/3Cjbr96NqzWQ3slOKyrPvc) | 3:11 |
 | 95 | [Kandulu Podak Kandulu Bindak](https://open.spotify.com/track/5V13G1Ce60HdCI0J2yZLFY) | [Rohana Weerasinghe](https://open.spotify.com/artist/7xtH99LIfTdFERRQE7kT8z), [Radeesh Vandebona](https://open.spotify.com/artist/1XJqTUg7BCcJgzk976s2q0), [Nuwandhika Senarathne](https://open.spotify.com/artist/07uOYIxsQBxDIPYaSRtWcK) | [Kandulu Podak Kandulu Bindak](https://open.spotify.com/album/32cR9qniWWXpccJTe1x3Af) | 3:40 |
 
-Snapshot ID: `MCw1ZmI5YjE4YWI3ZmE1YmFkY2ZlNWUzZmEwOTIxYTA1MDdhZjgzZDhj`
+Snapshot ID: `MCxkNGMyZDA4ODIwN2MxZWIwZWU2Y2M0MDM0M2Q4NzJmZWE2NTA1ZmIx`

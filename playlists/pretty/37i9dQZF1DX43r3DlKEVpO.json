@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI3NTdhMDllNmQxYjNmYjEyOTU4MWU0MDg2ZTJiNTljZTAyNjE5",
+  "snapshot_id": "MCw3ZDNlN2RiYWM1ZTk3YWNkNWZkZGUxNDAyMDI2MzFkMDU5Njc1YzEw",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -339,8 +339,8 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+        "name": "Smiley Smile (Remastered)",
+        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+      "duration_ms": 219026,
+      "name": "Good Vibrations - Remastered 2001",
+      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -435,8 +435,8 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Smiley Smile (Remastered)",
-        "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Good Vibrations - Remastered 2001",
-      "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 180813,
       "name": "Bicycle Race - Remastered 2011",
       "url": "https://open.spotify.com/track/3lUx27TOwV2nAiKwnYYXxe"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1611,46 +1611,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Jovem Guarda - O Pulo Do Negro Gato",
-        "url": "https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF"
+        "name": "Personalidade",
+        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
-        },
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        },
-        {
-          "name": "Renato e Seus Blue Caps",
-          "url": "https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7"
-        },
-        {
-          "name": "Fagner",
-          "url": "https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8"
-        },
-        {
-          "name": "Leno",
-          "url": "https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G"
-        },
-        {
-          "name": "Golden Boys",
-          "url": "https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn"
-        },
-        {
-          "name": "Jerry Adriani",
-          "url": "https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6"
-        },
-        {
-          "name": "Almir",
-          "url": "https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 251546,
-      "name": "Negro Gato",
-      "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
+      "duration_ms": 256626,
+      "name": "Aquarela",
+      "url": "https://open.spotify.com/track/5iPTYBZyOEleyWkE7NTYCc"
     },
     {
       "added_at": "2022-06-07 14:45:28",

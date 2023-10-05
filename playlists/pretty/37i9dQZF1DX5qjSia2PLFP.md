@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:52PdgUJOjvS6Mpmjy1SAlx">hemlocke springs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,874 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,890 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 | 100 | [Just Earth with New Skin](https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Terraform: The Possibility](https://open.spotify.com/album/5D1nLOVbRT9ThDfkKeeh7Q) | 3:20 |
 
-Snapshot ID: `MCxiNDM5YzQwNWNlMjk2ZTJmOWUzYzI5ODE0YjY3ZDYxZjMzMTVkY2Y0`
+Snapshot ID: `MCw1M2Y3OWY4ZjU3NDQ0YjhlMjBkYmU0MDg5MDc4Y2QxODJiZThlNjAy`

@@ -4,7 +4,7 @@
 
 > love peace techno
 
-163 songs - 11 hr 22 min
+164 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 | 2023-10-02 |  |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
+| [Lets go](https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC) | [Karashnikov](https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n) | [Brilletje](https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz) | 2:54 | 2023-10-02 |  |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-13 | 2023-07-18 |
 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 | 2023-05-18 |  |
@@ -139,7 +140,7 @@
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-03-10 |  |
 | [RUFF CUTS](https://open.spotify.com/track/6Edofgc0fFAfSIoAKhOEec) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [RUFF CUTS](https://open.spotify.com/album/2YqTwby1NIaG4ghfJs15JV) | 7:00 | 2023-08-10 | 2023-08-19 |
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-06-29 |  |
-| [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 |  |
+| [Say yes to heaven](https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z), [Oleria](https://open.spotify.com/artist/2VhoK5L78oQvoUJIDT4eHY) | [Say yes to heaven](https://open.spotify.com/album/5xz3sjfbFqdnf9Raa1kCGa) | 1:55 | 2023-09-29 | 2023-10-05 |
 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 | 2023-05-10 |  |
 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2023-03-10 | 2023-09-08 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |

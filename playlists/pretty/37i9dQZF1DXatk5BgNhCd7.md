@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Matías Valdez & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,904 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,998 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tengo Ganas](https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Tengo Ganas](https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD) | 2:40 |
-| 2 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 |
+| 2 | [Linda \- Remix](https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Linda \(Remix\)](https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb) | 3:54 |
 | 3 | [El Baile del Oso](https://open.spotify.com/track/4MUx9N82RR0JI0ygrMKcVd) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [El Baile del Oso](https://open.spotify.com/album/64SVcKbqqbVvCXevSdzifd) | 4:09 |
 | 4 | [A Mi Manera \(Sesiones Acústicas\)](https://open.spotify.com/track/0fYFYZjAHlVjO9ZPEcFGS2) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [A Mi Manera \(Sesiones Acústicas\)](https://open.spotify.com/album/4ztWWb4JdlNBgQbaxVKG6z) | 4:39 |
 | 5 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Quien Dijo Amigos](https://open.spotify.com/track/5gjpnQIog3Z3LRqjSzMYqb) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Ezequiel Llanos](https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi), [Agostina Pochi](https://open.spotify.com/artist/0CDZ8bsQtAYbCE9wUv3HLa), [gonza maza](https://open.spotify.com/artist/16sCPb3OQ3HmvFLCcjWeyL) | [Quien Dijo Amigos](https://open.spotify.com/album/7tUGKSPz7ABEcGilijEDL2) | 2:40 |
 | 50 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 |
 
-Snapshot ID: `MCxkN2RlODEyZjYyOGU3MGQ0YjRlNjVjMWMzNmNmMGU2NDFmOGQ0YjNk`
+Snapshot ID: `MCwyNzAxYmE5NWE5ZjNhODA2M2MwMDYxZGZmNTU3ZjQwYzY5NzJlZGQw`

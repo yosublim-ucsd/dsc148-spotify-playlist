@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: نوال الكويتية
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,286 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,312 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 |
 | 50 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 |
 
-Snapshot ID: `MCxmOTE2N2Y2NWUzNWYxNTFlNjc3MjhmODMxMGEwYTA5NTQ4NTRiODc0`
+Snapshot ID: `MCwyOWFhNjE2NTA0ODc2NDVhMzVkZTdkYTQ4MWJlZDUwYTgzYjc0YzBj`

@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2874046,
+  "num_followers": 2876638,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWMxNGQ3MzVjMGZjZjE2MzIzY2Y3MjQxNWEyOWQyYmU3N2ZmMmU3",
+  "snapshot_id": "MCwxMDdmMDZlOWYzNDFlMTBhMDRhZjc2OGFjMmQ5NWMxYzFmNjg2NTE1",
   "tracks": [
     {
       "added_at": "2023-08-14 21:15:25",
@@ -683,26 +683,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 250226,
       "name": "Sexo, Sudor y Calor",
       "url": "https://open.spotify.com/track/4eDjNcAyIuJFhQ31Fvvoc1"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Gargolas 5: The Next Generation",
-        "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Luny Tunes Presents ERRE XI",
         "url": "https://open.spotify.com/album/0PKXKZ0k8BPkxT4nOVFESl"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 254320,
       "name": "Carita Bonita",
       "url": "https://open.spotify.com/track/3yuMVIBCFl6s1PDuSN3pi4"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Gargolas 5: The Next Generation",
+        "url": "https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4w8XJ8nvhslJS3AvR6uL98"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "El Sobreviviente",
+        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -1807,22 +1827,22 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "El Sobreviviente",
-        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Saoco",
-      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1875,22 +1895,18 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+      "duration_ms": 190493,
+      "name": "\u00bfpor Que Te Demoras?",
+      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1915,22 +1931,6 @@
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "\u00bfpor Que Te Demoras?",
-      "url": "https://open.spotify.com/track/7JbMsR4rZh6J77LNafur8U"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Tu Cuerpo Me Llama Rmx",
         "url": "https://open.spotify.com/album/5CwurLyTFtA7LxYqj94P9Q"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 245640,
       "name": "Tu Cuerpo Me Llama Rmx",
       "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/14YMgKbaj0NVyvOckxX6AZ"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 260200,
       "name": "Tocarte Toa (2008 / Remix)",
       "url": "https://open.spotify.com/track/72PjUs25nm0G3ECiwOjkOM"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "Mi Fanatica",
-      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "El Talento del Bloque",
         "url": "https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 206262,
       "name": "Web Cam",
       "url": "https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "Mi Fanatica",
+      "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -2631,6 +2631,26 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
+      },
+      "artists": [
+        {
+          "name": "Cheka",
+          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
+        },
+        {
+          "name": "Michael Stuart",
+          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2651,26 +2671,6 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
-      },
-      "artists": [
-        {
-          "name": "Cheka",
-          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
-        },
-        {
-          "name": "Michael Stuart",
-          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
     },
     {
       "added_at": "2023-08-14 21:15:25",
@@ -3527,46 +3527,6 @@
     {
       "added_at": "2023-08-14 21:15:25",
       "album": {
-        "name": "Masacre Musical",
-        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Es Dificil",
-      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
-      },
-      "artists": [
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Tejo Calderon",
-          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
-      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
-    },
-    {
-      "added_at": "2023-08-14 21:15:25",
-      "album": {
         "name": "Matador (Official Remix)",
         "url": "https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq"
       },
@@ -3595,6 +3555,46 @@
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Tejo Calderon",
+          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
+      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
+    },
+    {
+      "added_at": "2023-08-14 21:15:25",
+      "album": {
+        "name": "Masacre Musical",
+        "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 280680,
+      "name": "Es Dificil",
+      "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
     },
     {
       "added_at": "2023-08-14 21:15:25",

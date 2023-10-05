@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv?si=PM2fKX0mRZWDIwdcgslWEg">Solomon Headen</a>\. Updates every Wednesday.
 
-1,798 songs - 3 day 20 hr 32 min
+1,799 songs - 3 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,6 +1062,7 @@
 | [My Lover](https://open.spotify.com/track/1yPOR3tRc2SicQ8zTaubZ5) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [My Lover](https://open.spotify.com/album/0XHGbQ6HdVjSBIGybE87qR) | 3:31 | 2023-03-31 | 2023-04-22 |
 | [My Person](https://open.spotify.com/track/6rnbXLZ12ZlpT7putstFit) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [My Person](https://open.spotify.com/album/1OniSnlcaJ2sLmbwAoY6is) | 2:11 | 2023-02-10 | 2023-03-25 |
 | [My Surprise](https://open.spotify.com/track/4ZBvPdivPyR7hnJ4t3XwDF) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [My Surprise](https://open.spotify.com/album/4nojcy1wSuG5AQqmovDfhm) | 3:28 | 2021-10-06 | 2022-01-13 |
+| [My Way](https://open.spotify.com/track/1yDbyNGxnz7k9IMrrbFnOd) | [Korin](https://open.spotify.com/artist/0eDD2Q4izETtZS1pnTp5Fd), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [My Way](https://open.spotify.com/album/315eZb2048lQgEXUYHU81Q) | 3:21 | 2023-10-04 |  |
 | [N@STY](https://open.spotify.com/track/4gakvfER14bHLM7IkBpwsn) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:16 | 2023-06-30 | 2023-08-26 |
 | [Naked](https://open.spotify.com/track/39qGZ3sACrEJjrumTDj2fy) | [Oya Noire](https://open.spotify.com/artist/1ucnou2dDilxT5cxuv4um6) | [Naked](https://open.spotify.com/album/4vgY7Hpu2BHvwRXXYpX5Xn) | 2:55 | 2023-01-26 | 2023-03-11 |
 | [NASTY](https://open.spotify.com/track/6tGbU5DyBzn03Q2zKaea1T) | [Ed Washington](https://open.spotify.com/artist/6knRVgBl4teDv6IvxElbUv) | [Hedonism](https://open.spotify.com/album/7CIvWJfsAiB2AT3SV0S5bq) | 2:11 | 2022-10-28 | 2022-12-01 |

@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Jade Eagleson
 
-1,825 songs - 4 day 2 hr 45 min
+1,826 songs - 4 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -865,7 +865,8 @@
 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 | 2022-07-29 | 2022-10-15 |
 | [Keys To The Country](https://open.spotify.com/track/12ZicG8o3Ehwk7NoClvtbp) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Keys To The Country](https://open.spotify.com/album/0RLL5G7u2zY6qFzGnssXwX) | 2:55 | 2022-04-29 | 2022-10-15 |
 | [Kids](https://open.spotify.com/track/2EJBb3MDWCoXh5vRntYVP4) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Kids](https://open.spotify.com/album/7r07SSu50xNwGjkNCLVEd9) | 3:57 | 2021-08-21 | 2021-11-20 |
-| [Killed The Cowboy](https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa) | 3:18 | 2023-09-08 |  |
+| [Killed The Cowboy](https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa) | 3:18 | 2023-09-08 | 2023-10-05 |
+| [Killed The Cowboy](https://open.spotify.com/track/7KzKQGfTsZfhAWCFoG5acX) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0) | 3:18 | 2023-09-29 |  |
 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 | 2021-05-15 | 2021-10-02 |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2021-08-28 | 2022-02-12 |
 | [Knowing You](https://open.spotify.com/track/2EEfUuBRZA4Ax1vYcluFS0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:46 | 2021-03-27 | 2021-05-15 |

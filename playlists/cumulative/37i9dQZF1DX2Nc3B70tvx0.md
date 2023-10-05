@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: New music Del Water Gap, Mac Demarco, Slow Pulp, Mitski and more.
 
-1,800 songs - 4 day 11 hr 57 min
+1,801 songs - 4 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [A Man Will Do Wrong](https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 4:17 | 2023-02-10 | 2023-02-18 |
 | [A Piece Of Your Mind](https://open.spotify.com/track/5c8bM603hqoHJzJFxmUkZ1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 2:50 | 2021-08-04 | 2021-12-28 |
 | [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-02-10 | 2023-02-28 |
+| [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 | 2023-10-04 |  |
 | [A Song About Fishing](https://open.spotify.com/track/2nCEjCTe2lo1mx8EDFE84Z) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Smiling with No Teeth](https://open.spotify.com/album/1AwxJPvM50yifnRc9wLUlM) | 3:25 | 2021-04-23 | 2021-10-08 |
 | [A Song for You](https://open.spotify.com/track/3lhjaN5VyhFOZ9BzwHFRgI) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Omoiyari](https://open.spotify.com/album/1oPXOnszADv8Xe3fzykSdC) | 3:51 | 2019-06-07 | 2019-09-13 |
 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 | 2022-01-28 | 2022-04-20 |
@@ -647,7 +648,7 @@
 | [hawthorne81](https://open.spotify.com/track/4kynhOfWA8kbLYgbBKHRnD) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [hawthorne81 / atoms](https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV) | 3:45 | 2023-08-01 | 2023-08-26 |
 | [hazelton](https://open.spotify.com/track/7lGVePePvWGNUviBUICQQj) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazelton b/w liner](https://open.spotify.com/album/4yZTMsfnWIfMgzkfcazTks) | 3:01 | 2023-06-30 | 2023-07-13 |
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2019-06-07 | 2019-09-13 |
-| [He Could Never Love You](https://open.spotify.com/track/2auNIrc8Yhtcd3JYfGzRCp) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [He Could Never Love You](https://open.spotify.com/album/7implGPF71IpUetVf4jiLV) | 3:35 | 2023-07-13 |  |
+| [He Could Never Love You](https://open.spotify.com/track/2auNIrc8Yhtcd3JYfGzRCp) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM) | [He Could Never Love You](https://open.spotify.com/album/7implGPF71IpUetVf4jiLV) | 3:35 | 2023-07-13 | 2023-10-05 |
 | [HEAD](https://open.spotify.com/track/5stVamqETg34UDrpC5Zwhy) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [HEAD](https://open.spotify.com/album/0nUKeFKTpaTdoi6jGbGQTZ) | 1:51 | 2022-11-04 | 2022-11-12 |
 | [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-09 | 2023-08-26 |
 | [HEADSTART](https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 3:10 | 2021-11-10 | 2022-05-20 |

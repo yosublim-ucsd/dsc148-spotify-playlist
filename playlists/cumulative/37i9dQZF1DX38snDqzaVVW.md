@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-165 songs - 14 hr 14 min
+167 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [Allah Ya Allah](https://open.spotify.com/track/376le7DinNTalNEjGcmxiu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hadeeth Alrouh 2](https://open.spotify.com/album/04YF2aMkejLg2G0gx9AVDW) | 4:26 | 2022-03-31 | 2022-04-18 |
 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-03-31 | 2022-10-07 |
 | [Amzagh](https://open.spotify.com/track/56HN4bEP56M0qCGOArBap2) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Tamotaït](https://open.spotify.com/album/4BQzQk1C37UOLCnYko29Gd) | 4:17 | 2021-10-21 |  |
-| [Anar](https://open.spotify.com/track/0Z25GoSOBwFgFhQicajNkT) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/1GivKstj7AyHIbd6z8jTYX) | 6:36 | 2022-10-06 |  |
+| [Anar](https://open.spotify.com/track/0Z25GoSOBwFgFhQicajNkT) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/1GivKstj7AyHIbd6z8jTYX) | 6:36 | 2022-10-06 | 2023-10-05 |
 | [Anar](https://open.spotify.com/track/5Pyb7N1zmY7ITJPMwf0LXm) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/2enCM7zDeNC4AYSH2choVh) | 6:36 | 2021-10-21 | 2022-04-01 |
+| [Anar](https://open.spotify.com/track/7oaOJA5Ze1pjwD1G2FoXhh) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/0NjjaGa2PVAY22pi4B8nMM) | 6:36 | 2023-04-17 |  |
 | [Anou Malane](https://open.spotify.com/track/5ZGZMUwUqgyKwqi8Hsf59Q) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/65jwU55tBTrTj5zjOUUJW7) | 5:00 | 2022-10-06 |  |
 | [Anou Malane](https://open.spotify.com/track/6tx4QhVEpisR6svzUzetNw) | [Abdallah Oumbadougou](https://open.spotify.com/artist/29uudPDBxe9VchRED2cfD6) | [Anou Malane](https://open.spotify.com/album/7IhHxTiSqgD7JcdMV8mINF) | 5:00 | 2021-10-21 | 2022-04-01 |
 | [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 | 2021-10-21 | 2022-11-20 |
@@ -145,7 +146,8 @@
 | [Tala'a Al\-Badru 'Alayna](https://open.spotify.com/track/56mquX7ESE8e0TPVpnyd2V) | [Yusuf Islam](https://open.spotify.com/artist/5OC5mCMdUlT4F8H9knv2AD) | [The Life of the Last Prophet](https://open.spotify.com/album/0l8CT0Zhi8ZqFYqhgPLXuB) | 5:23 | 2022-10-06 |  |
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2021-10-21 |  |
 | [Tarhatazed](https://open.spotify.com/track/0vJFdc2FpnPh8yA0kGfktN) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/1bbKMkgzgyZ0K3rmMezZ68) | 7:27 | 2021-10-21 | 2022-04-01 |
-| [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2022-10-06 |  |
+| [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2022-10-06 | 2023-10-05 |
+| [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 | 2023-04-17 |  |
 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 | 2021-10-21 |  |
 | [The Beloved](https://open.spotify.com/track/08s7ZI5hDNwKqxAjHwR8QX) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/4HvKu6dInngrggvpHDUdEH) | 4:51 | 2021-10-21 | 2022-04-01 |
 | [The Beloved](https://open.spotify.com/track/0QmRDEXxnZXID8Nmw4x1Ft) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [An Other Cup](https://open.spotify.com/album/1pJxc3mr13IvtcT40cSZXN) | 4:51 | 2022-10-06 |  |

@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 104000,
       "name": "baby don\u2019t go away",
       "url": "https://open.spotify.com/track/3njlQ0PImgOG2tmtYPXHq2"
@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 136348,
       "name": "ecstacy (super slowed)",
       "url": "https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE"
@@ -16808,7 +16808,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 145663,
       "name": "NEV\u00cd\u0160 NIC pt. 2",
       "url": "https://open.spotify.com/track/78LxO05G5BJglZUY2aTMYh"
@@ -17778,7 +17778,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 119895,
       "name": "ON THE FLOOR",
       "url": "https://open.spotify.com/track/3j9Ivwkg9sYcaR9mlnjsAX"
@@ -18792,6 +18792,24 @@
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
+    },
+    {
+      "album": {
+        "name": "V Radiu Hral Elan, Ked Umrel ...",
+        "url": "https://open.spotify.com/album/65QC8PoyyOQWvVbubfktaf"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213164,
+      "name": "Peroxid 2",
+      "url": "https://open.spotify.com/track/47GzDsw0ExxadwAjucnq4M"
     },
     {
       "album": {
@@ -25406,7 +25424,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 75692,
       "name": "TUCA DONKA",
       "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"

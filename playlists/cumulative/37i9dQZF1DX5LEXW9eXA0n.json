@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bOnestar(\uc784\ud55c\ubcc4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bKassy(\ucf00\uc774\uc2dc)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -11809,6 +11809,24 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0HZOGEkR6cFL6qXnlC4Vun"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225360,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3MODKrKhGJHI8pRP9Ih5k0"
+    },
+    {
+      "album": {
         "name": "Eve, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8"
       },
@@ -12689,6 +12707,28 @@
     },
     {
       "album": {
+        "name": "Sad Day",
+        "url": "https://open.spotify.com/album/0HfQVaIoJO3MeMUbzU7Rig"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        },
+        {
+          "name": "Kim Yeonji",
+          "url": "https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246920,
+      "name": "Sad Day",
+      "url": "https://open.spotify.com/track/4dM8ymy2J1mxQ5VY2s2lFC"
+    },
+    {
+      "album": {
         "name": "Sad farewell",
         "url": "https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d"
       },
@@ -12834,6 +12874,24 @@
       "duration_ms": 213946,
       "name": "Scars leave beautiful trace",
       "url": "https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P"
+    },
+    {
+      "album": {
+        "name": "Unfading Sense - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259829,
+      "name": "Scented Things",
+      "url": "https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,664 songs - 5 day 20 hr 25 min
+3,665 songs - 5 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,7 +831,7 @@
 | [Dreamer](https://open.spotify.com/track/4ctpE4E0Z2XAHKYONmv59W) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Dreamer](https://open.spotify.com/album/4DUaun74DGOcPzYV5n5T4E) | 2:28 | 2020-12-11 | 2021-02-24 |
 | [Dreaming About Blue](https://open.spotify.com/track/6iEH7Mh2xaE7kasOl5meLi) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Bad Room Producer](https://open.spotify.com/artist/40gnIR7KWV2R1MzHElf2oZ) | [Dreaming About Blue](https://open.spotify.com/album/671nlyHBuoRnsRslq3hb4R) | 2:44 | 2020-05-15 | 2020-07-29 |
 | [Dreaming of Clementines](https://open.spotify.com/track/0T5QXR1lHEIGi4cgn9XOTk) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Dreaming of Clementines](https://open.spotify.com/album/3ulQkDxKoi8lR40vGhgkgv) | 2:10 | 2020-07-18 | 2021-01-16 |
-| [Dreaming Pool](https://open.spotify.com/track/4nz1l6T2qNl1GMZ9Dw9lwF) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Dreaming Pool](https://open.spotify.com/album/7pf1X9IE4BrnsTLQJiPWyT) | 1:39 | 2023-09-14 |  |
+| [Dreaming Pool](https://open.spotify.com/track/4nz1l6T2qNl1GMZ9Dw9lwF) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Dreaming Pool](https://open.spotify.com/album/7pf1X9IE4BrnsTLQJiPWyT) | 1:39 | 2023-09-14 | 2023-10-05 |
 | [Dreaming Reality](https://open.spotify.com/track/3tsK1dMdL8q1Fb0fkzbeVW) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Dreaming Reality](https://open.spotify.com/album/4YniiagQQMVQ6UaMJeBTW1) | 2:44 | 2019-06-22 | 2019-11-29 |
 | [Dreaming Up](https://open.spotify.com/track/7kRQqPLU5CsGXGMUv5olTd) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Reconnection](https://open.spotify.com/album/0b9ZTvwi4fAZdCSDx9oHK8) | 2:21 | 2023-06-01 | 2023-06-23 |
 | [Dreams](https://open.spotify.com/track/2BMqw1SwM0Oj7JcgX0cAI3) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Dreams](https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm) | 1:40 | 2020-11-03 | 2021-05-21 |
@@ -1267,6 +1267,7 @@
 | [Half Man Half Pizza](https://open.spotify.com/track/7mow73wUOANVYmSLC7LRiB) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Half Man Half Pizza / Beautiful Lawn](https://open.spotify.com/album/3iKD7TGvoWR8XDLY98js7E) | 1:18 | 2019-05-26\* | 2019-06-22 |
 | [Halloween](https://open.spotify.com/track/4icN7HRuMk6jkuIuHOW01Y) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Halloween](https://open.spotify.com/album/0P5ha2YdZRTlPJ4CfT1nO9) | 2:15 | 2020-10-23 | 2020-12-09 |
 | [Hamaca](https://open.spotify.com/track/3qpes4JT6PqxLBVvZmHfRu) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Hamaca](https://open.spotify.com/album/2UiymKgCM8COuTYhIR49GO) | 1:39 | 2023-06-01 |  |
+| [Hammock Life](https://open.spotify.com/track/3T8sIMBGCUsZHB0C5f4jfW) | [Paleni](https://open.spotify.com/artist/1jXT1b0mGSoneZuX4AHSqa), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Hammock Life](https://open.spotify.com/album/1UVs38E6Q51jRam0AXVZv0) | 2:00 | 2023-09-28 |  |
 | [Hana](https://open.spotify.com/track/3hFg9FkQsijKjEQ8F8YJ2P) | [lōland](https://open.spotify.com/artist/5AUK3KLrqdHpcsRowJVJIn), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Hana](https://open.spotify.com/album/1FDmPkV2DPd4D14yP2AW51) | 2:23 | 2020-12-09 | 2021-05-28 |
 | [handle.](https://open.spotify.com/track/25L3JHMpkMLcWC9Yp0ekAe) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [handle.](https://open.spotify.com/album/6K9PVSK0j8F7ZfYQqZWMXJ) | 1:52 | 2019-10-11 | 2020-03-13 |
 | [Hang Out](https://open.spotify.com/track/05xKbCSdSiUKrw63xC3M3I) | [Lazy Toro](https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw) | [Hang Out](https://open.spotify.com/album/4xNvs1xrZkpJM93IMArvlp) | 1:38 | 2023-08-24 | 2023-10-02 |

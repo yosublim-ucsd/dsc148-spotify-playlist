@@ -111,6 +111,36 @@
     },
     {
       "album": {
+        "name": "AR\u00c1L",
+        "url": "https://open.spotify.com/album/2otfhblFnjovKbuiZSYbHF"
+      },
+      "artists": [
+        {
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        },
+        {
+          "name": "Apekz",
+          "url": "https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn"
+        },
+        {
+          "name": "Ron Henley",
+          "url": "https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f"
+        },
+        {
+          "name": "Abra",
+          "url": "https://open.spotify.com/artist/0e7I5fhtxrhsH8xrjGGDiv"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "AR\u00c1L",
+      "url": "https://open.spotify.com/track/0b58IHPRtTbBv48sOwc6Vr"
+    },
+    {
+      "album": {
         "name": "Atin-Atin Lang",
         "url": "https://open.spotify.com/album/1QcUcqYEgnQppd7UhU2MNW"
       },
@@ -298,7 +328,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 272184,
       "name": "Dyosa",
       "url": "https://open.spotify.com/track/7kAAhLfz7oCylYeDKEBQGv"
@@ -374,6 +404,28 @@
       "duration_ms": 252137,
       "name": "GO GETTA",
       "url": "https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ"
+    },
+    {
+      "album": {
+        "name": "Hide n Seek",
+        "url": "https://open.spotify.com/album/6GA41ej75Yzw9GSDA9TnSd"
+      },
+      "artists": [
+        {
+          "name": "$ho",
+          "url": "https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH"
+        },
+        {
+          "name": "Zeke Abella",
+          "url": "https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177048,
+      "name": "Hide n Seek",
+      "url": "https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ"
     },
     {
       "album": {
@@ -640,7 +692,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 172827,
       "name": "Man!",
       "url": "https://open.spotify.com/track/2zlNr33KEVM6HtNsdDWpzr"
@@ -810,7 +862,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 133802,
       "name": "Sabak Daddy",
       "url": "https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg"
@@ -928,6 +980,24 @@
       "duration_ms": 241700,
       "name": "SONG 4 U",
       "url": "https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/14HnYmLsn1HXFjrXPpWpQl"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1n0GXltCdgPZMqQv7JY8SI"
     },
     {
       "album": {

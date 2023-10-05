@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 122283,
+  "num_followers": 122364,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTViOTY4NmQ2ZGE5ODYzZTRiZWQ1M2I4ZjE0YTk1YzU2OGMwODRk",
+  "snapshot_id": "MCw5ZmFmYzc1NmFkMzE0MDZlZmNkM2Y0ZGM4NWRiZjgyZGMxNmYzMjdm",
   "tracks": [
     {
       "added_at": "2023-09-22 03:01:00",
@@ -491,6 +491,26 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "Kallidade",
+        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
+      },
+      "artists": [
+        {
+          "name": "Kalli",
+          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
+        },
+        {
+          "name": "NaBuscaDoOuro",
+          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Kallidade",
+      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
-        "name": "Kallidade",
-        "url": "https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs"
-      },
-      "artists": [
-        {
-          "name": "Kalli",
-          "url": "https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I"
-        },
-        {
-          "name": "NaBuscaDoOuro",
-          "url": "https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Kallidade",
-      "url": "https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Tipo uma Glock",
-        "url": "https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "Tipo uma Glock",
-      "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Bad Bad Bad",
         "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 154877,
       "name": "Bad bad bad",
       "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Tipo uma Glock",
+        "url": "https://open.spotify.com/album/1ofJDp4DEAf8PHwA15DYTK"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "Tipo uma Glock",
+      "url": "https://open.spotify.com/track/0uv71i1waQbyRjZT86Fctu"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "LONGE DEMAIS",
-        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "LONGE DEMAIS",
-      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
@@ -1931,6 +1911,26 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "LONGE DEMAIS",
+        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "LONGE DEMAIS",
+      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
     },
     {
       "added_at": "2023-09-22 03:01:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 139014,
-      "name": "Rambo",
-      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Drink Azul",
         "url": "https://open.spotify.com/album/7wNuG0zJUQQomWNHXPhWOR"
       },
@@ -2087,6 +2071,22 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 139014,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/5cYjX7Gbc0bfxzJY5zns2I"
       },
@@ -2111,30 +2111,6 @@
     {
       "added_at": "2023-09-22 03:01:00",
       "album": {
-        "name": "Antigolpe",
-        "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
-      },
-      "artists": [
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Antigolpe",
-      "url": "https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73"
-    },
-    {
-      "added_at": "2023-09-22 03:01:00",
-      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -2155,6 +2131,30 @@
       "duration_ms": 232311,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/58RYmMg7AdRMJIGkLZQEx9"
+    },
+    {
+      "added_at": "2023-09-22 03:01:00",
+      "album": {
+        "name": "Antigolpe",
+        "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
+      },
+      "artists": [
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Antigolpe",
+      "url": "https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73"
     },
     {
       "added_at": "2023-09-22 03:01:00",

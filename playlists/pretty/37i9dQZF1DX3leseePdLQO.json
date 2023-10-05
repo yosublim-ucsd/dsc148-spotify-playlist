@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Sof\u00eda Reyes.",
-  "num_followers": 7881,
+  "num_followers": 7909,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjkwZDQ3YTllNzZlZmIyZjczNTYwZDBlZTEzZDQ3MjIxODYzZjQ5",
+  "snapshot_id": "MCw1MzMxNGQ4MThjODJhNGM5OGE4ZTBkNGIzYzFiZDIwNmUzNzY5YThj",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Muero",
-        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 180329,
-      "name": "Muero",
-      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Muero",
+        "url": "https://open.spotify.com/album/6Kjg8PWvUHhQHNw7XKghtc"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 180329,
+      "name": "Muero",
+      "url": "https://open.spotify.com/track/0vznL0EKo9deBq1FFvBFxd"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Como T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Como T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "5 estrellas",
         "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198214,
       "name": "5 estrellas",
       "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Como T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Como T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1095,8 +1095,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+        "name": "Estemos Donde Estemos (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3Sex8xDtS56Ws47QWiiTiz"
       },
       "artists": [
         {
@@ -1104,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Se Siente As\u00ed",
-      "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
+      "duration_ms": 212440,
+      "name": "215 D\u00edas",
+      "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1263,8 +1263,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Estemos Donde Estemos (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3Sex8xDtS56Ws47QWiiTiz"
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 212440,
-      "name": "215 D\u00edas",
-      "url": "https://open.spotify.com/track/1I0iDHKaWVdIB9jbxLFqMU"
+      "duration_ms": 149973,
+      "name": "Se Siente As\u00ed",
+      "url": "https://open.spotify.com/track/4PqABTCOnE62ncPdwra8rk"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Obvio",
-        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 165784,
-      "name": "Obvio",
-      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Obvio",
+        "url": "https://open.spotify.com/album/1WiD50KPCVv4wfeKuQaMXc"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 165784,
+      "name": "Obvio",
+      "url": "https://open.spotify.com/track/6klxz8SB2cGYqdIC590dtR"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Combustible",
         "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 166805,
       "name": "Combustible",
       "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "A tu Lado",
-        "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
-      },
-      "artists": [
-        {
-          "name": "Tres Dedos",
-          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
-        }
-      ],
-      "duration_ms": 150894,
-      "name": "A tu Lado",
-      "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "no quiero olvidarte",
         "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+        "name": "A tu Lado",
+        "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Tres Dedos",
+          "url": "https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF"
         }
       ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+      "duration_ms": 150894,
+      "name": "A tu Lado",
+      "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
     },
     {
       "added_at": "2023-09-15 04:01:00",

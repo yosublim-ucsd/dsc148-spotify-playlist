@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,607 likes - 330 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,620 likes - 328 songs - 16 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,31 +312,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 302 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 |
 | 303 | [Catch Me When I Fall](https://open.spotify.com/track/6ZWGu34UE99YEf0fRDtVy3) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Catch Me When I Fall](https://open.spotify.com/album/1C9SeCoT5DKJFtDA2Nh9qN) | 2:32 |
 | 304 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 |
-| 305 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 |
-| 306 | [Thoughts about the Past](https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:44 |
-| 307 | [Sterrenhemel](https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Sterrenhemel](https://open.spotify.com/album/7EfM8IWUS29TfNUC8m2uN8) | 3:16 |
-| 308 | [Homelands](https://open.spotify.com/track/3Vl7cwxOxYhpgDDpFv7mG7) | [Staffa Iona](https://open.spotify.com/artist/4kWKLcO6SD1mOa5KHsI5Mw) | [Homelands](https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i) | 3:00 |
-| 309 | [Un rêve merveilleux](https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Un rêve merveilleux](https://open.spotify.com/album/1h1LLYUz8DxesvVjzpm9jy) | 3:22 |
-| 310 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 |
-| 311 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 |
-| 312 | [Cryonics](https://open.spotify.com/track/3STDQOJdgwSOQRdaAXjCaC) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Cryonics](https://open.spotify.com/album/5FBZZbPtYsJtMKiepGDVnE) | 3:06 |
-| 313 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 |
-| 314 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 |
-| 315 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 |
-| 316 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 |
-| 317 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
-| 318 | [Clear Mind](https://open.spotify.com/track/3nE5djRtJ8ye65bNGG5j76) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:14 |
-| 319 | [Sleeping Awake](https://open.spotify.com/track/3vAghG2o6zdjgWQikWlYKn) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:52 |
-| 320 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 |
-| 321 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 |
-| 322 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 |
-| 323 | [At Peace](https://open.spotify.com/track/27BeHhBtul8uWpNRriw4zS) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA), [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [At Peace](https://open.spotify.com/album/1A6JIMLYg4FMkHj03BgVln) | 2:59 |
-| 324 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 |
-| 325 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 |
-| 326 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
-| 327 | [Ashton Lane](https://open.spotify.com/track/3Wt5w2KnJ5oTFtpsbGd2YJ) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Ashton Lane](https://open.spotify.com/album/1glI1A9oX8RQZxdbF1Q7bc) | 3:36 |
-| 328 | [Intermezzo](https://open.spotify.com/track/1rAv3gMViglWehdm1baqcF) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Intermezzo](https://open.spotify.com/album/5PZtdr51jXLW3oLFBFVQkg) | 2:02 |
-| 329 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
-| 330 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 |
+| 305 | [Thoughts about the Past](https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:44 |
+| 306 | [Sterrenhemel](https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Sterrenhemel](https://open.spotify.com/album/7EfM8IWUS29TfNUC8m2uN8) | 3:16 |
+| 307 | [Homelands](https://open.spotify.com/track/3Vl7cwxOxYhpgDDpFv7mG7) | [Staffa Iona](https://open.spotify.com/artist/4kWKLcO6SD1mOa5KHsI5Mw) | [Homelands](https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i) | 3:00 |
+| 308 | [Un rêve merveilleux](https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Un rêve merveilleux](https://open.spotify.com/album/1h1LLYUz8DxesvVjzpm9jy) | 3:22 |
+| 309 | [Sogno Illuminum](https://open.spotify.com/track/2XwakW5X0FkLa7xGfgDwot) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/278BtYoGB8VN4tnOcsTyHu) | 2:20 |
+| 310 | [Eyes of Redemption](https://open.spotify.com/track/4sgncJrSzijkzs0oEEyOcn) | [Dolores Fernel](https://open.spotify.com/artist/6eKcmeh4aN49TVfRmNI3cw) | [Eyes of Redemption](https://open.spotify.com/album/1fhB9ZPMq9JfSIEq0RSR17) | 3:03 |
+| 311 | [Cryonics](https://open.spotify.com/track/3STDQOJdgwSOQRdaAXjCaC) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Cryonics](https://open.spotify.com/album/5FBZZbPtYsJtMKiepGDVnE) | 3:06 |
+| 312 | [Éjszakai](https://open.spotify.com/track/2qHGPanT2ux9hwZDbmPr8t) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Éjszakai](https://open.spotify.com/album/1L1moItugCPspJnsGIkKmL) | 2:32 |
+| 313 | [Dinlenmek](https://open.spotify.com/track/38FoeSh8Ll0dA5TuflbviN) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Dinlenmek](https://open.spotify.com/album/6Nhn7DsXIg6clkyhoPmWGT) | 3:43 |
+| 314 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 |
+| 315 | [Orison](https://open.spotify.com/track/3GJyYi78wUaUZgbrwipcpG) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Orison](https://open.spotify.com/album/3iaTv0CK057m9PxroFoi8g) | 3:02 |
+| 316 | [Noctis](https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Noctis](https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA) | 2:38 |
+| 317 | [Clear Mind](https://open.spotify.com/track/3nE5djRtJ8ye65bNGG5j76) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:14 |
+| 318 | [Sleeping Awake](https://open.spotify.com/track/3vAghG2o6zdjgWQikWlYKn) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Daylight](https://open.spotify.com/album/47xd2MThv6TaiTB7tqYJ28) | 3:52 |
+| 319 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 |
+| 320 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 |
+| 321 | [Le temps passe](https://open.spotify.com/track/1FKTWT91DCPwRbWMxK3NZn) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Le temps passe](https://open.spotify.com/album/0ItCJJdXRzbhsl1zwclP4z) | 2:38 |
+| 322 | [At Peace](https://open.spotify.com/track/27BeHhBtul8uWpNRriw4zS) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA), [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [At Peace](https://open.spotify.com/album/1A6JIMLYg4FMkHj03BgVln) | 2:59 |
+| 323 | [Endymion](https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Endymion](https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS) | 2:32 |
+| 324 | [Finally In Peace](https://open.spotify.com/track/52tcU3qihtTISeQJz1JFfl) | [Ronald Sims](https://open.spotify.com/artist/6Nqa1xXz6ABuyUVhsSDdUR) | [Waiting For The Moment](https://open.spotify.com/album/7hyIafLbk0WYcrydcN6PEX) | 2:56 |
+| 325 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
+| 326 | [Ashton Lane](https://open.spotify.com/track/3Wt5w2KnJ5oTFtpsbGd2YJ) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Ashton Lane](https://open.spotify.com/album/1glI1A9oX8RQZxdbF1Q7bc) | 3:36 |
+| 327 | [Intermezzo](https://open.spotify.com/track/1rAv3gMViglWehdm1baqcF) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Intermezzo](https://open.spotify.com/album/5PZtdr51jXLW3oLFBFVQkg) | 2:02 |
+| 328 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
 
-Snapshot ID: `MCwyMDFjMzI2MmNkNzkzZTI0NzRlZTE4NTQ5YWI0NmFkYzJmZDNmNDI3`
+Snapshot ID: `MCw3MWM2ZWQ3OTI0MDk5OTVhODg3M2JjMzg1YTlkMTFlYmQ1MDM5OTQy`

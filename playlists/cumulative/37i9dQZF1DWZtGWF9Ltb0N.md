@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-509 songs - 1 day 13 hr 17 min
+510 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Lies](https://open.spotify.com/track/3XxpibWu8B2ZIRD3HFksZC) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Lies](https://open.spotify.com/album/08duicoxqT3mKn6Y2FOz8j) | 3:12 | 2023-03-17 |  |
 | [Life Without Meaning](https://open.spotify.com/track/56mPUqA3PwxGKTNXR9giQu) | [Soukah](https://open.spotify.com/artist/243gr62h7yfUDhuznWXRpF) | [Life Without Meaning / You Can Run Much Faster](https://open.spotify.com/album/52xZv0kPf4kxhWvlnYlp9A) | 5:16 | 2022-02-17 |  |
 | [Light Transmission](https://open.spotify.com/track/0JyboEk7HNGbCBfyAHUIbR) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Alandazu EP](https://open.spotify.com/album/4XlxezT0hwytoRYiMYMa88) | 5:39 | 2022-03-25 | 2022-04-26 |
+| [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/album/0IuffqK8EOxmYQfAlis7QF) | 2:38 | 2023-09-29 |  |
 | [Limits](https://open.spotify.com/track/0I9tcuy5MfjZQyVrtJXUxy) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Fractals](https://open.spotify.com/album/7exs0W7HrIu3T3oR0kX9oS) | 5:58 | 2022-02-17 | 2022-07-02 |
 | [Lion](https://open.spotify.com/track/5vrN7cbh6FK5ThqdtbQQPW) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Lion EP](https://open.spotify.com/album/7a7AK0fIqXXx3m40R18Df1) | 4:29 | 2022-02-17 | 2022-07-28 |
 | [Lion \(feat Taso\)](https://open.spotify.com/track/0IvYno5HGUyEGjvsLoG7Bg) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [Lion EP ‎](https://open.spotify.com/album/3UjQpyEBXYYdhUsA2nvGEI) | 4:29 | 2022-07-08 |  |
@@ -288,7 +289,7 @@
 | [Namaste](https://open.spotify.com/track/5FFw5UvICvhT7TGdZ8cG2i) | [V.I.V.E.K](https://open.spotify.com/artist/3J1kxornj4RYTeY0SVRZhO) | [Namaste / 94'](https://open.spotify.com/album/59oNk6WuKGvCq9uAIfxZzg) | 4:33 | 2022-07-08 | 2023-08-27 |
 | [Nancara](https://open.spotify.com/track/1SXwZIiuhBuZDD4euTOCzF) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [\#000000365 \(Dark365\)](https://open.spotify.com/album/6iBtm44KR5KJei6hzIKBKE) | 6:21 | 2022-02-17 | 2022-07-29 |
 | [Nancara](https://open.spotify.com/track/6PLuKhTi6SUGglCsEWV7s9) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [\#000000365](https://open.spotify.com/album/71hvygiGgBQBftAMGbFMfq) | 6:21 | 2022-07-08 | 2023-06-10 |
-| [NASDAQ](https://open.spotify.com/track/3X2jge8YW8hjqpPediTuHs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe) | 3:17 | 2023-07-14 |  |
+| [NASDAQ](https://open.spotify.com/track/3X2jge8YW8hjqpPediTuHs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/1P2CbeSXqi0JNmIex5NdDe) | 3:17 | 2023-07-14 | 2023-10-05 |
 | [NASDAQ](https://open.spotify.com/track/6QTPOefo84L0naOFmEYurX) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [NOVV/NASDAQ](https://open.spotify.com/album/0nBnyyGbsT81K2qT4GuSgG) | 3:17 | 2022-02-17 | 2023-06-20 |
 | [Natural Charge](https://open.spotify.com/track/3HxOGz0yCfDS8RCWqZbTNj) | [Loefah](https://open.spotify.com/artist/1ICQEDALtLouPV8yEaJXVb) | [Natural Charge / Crack Bong Rmx](https://open.spotify.com/album/2lr9scpJPuoQs9XFbIMZQI) | 4:30 | 2022-02-17 | 2022-04-29 |
 | [Neurological](https://open.spotify.com/track/6O0t3Pm3HcVbuR6SokUXby) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Vibrations](https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc) | 4:34 | 2022-02-17 | 2023-01-14 |

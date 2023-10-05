@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 75126,
+  "num_followers": 75183,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODBhY2UxMmVkOTYxMTk0Mzc4NDJlMGJiMWE2NTI4ZDg4YTgzNTk5",
+  "snapshot_id": "MCwxNjNlNmU2OWVkZmQ2YjU0NDcyNzI1MzJiNjIwOGM5YzI1Yjg2ZDQx",
   "tracks": [
     {
       "added_at": "2023-09-14 09:22:48",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "Wavy Gravy - Remastered",
-      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
         "name": "Standards Trio: Reflections",
         "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 217400,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 347706,
+      "name": "Wavy Gravy - Remastered",
+      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
-        "name": "Jazz Guitar",
-        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
-      },
-      "artists": [
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "For Toddlers Only",
-      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
         "name": "The Artistry Of Tal Farlow",
         "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 296613,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "Jazz Guitar",
+        "url": "https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK"
+      },
+      "artists": [
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "For Toddlers Only",
+      "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1587,30 +1587,6 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
-        "name": "Idlewild",
-        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
-      },
-      "artists": [
-        {
-          "name": "Ben Street",
-          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
-        },
-        {
-          "name": "Bill Stewart",
-          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
-        },
-        {
-          "name": "Lage Lund",
-          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
-        }
-      ],
-      "duration_ms": 448413,
-      "name": "Rumspringa",
-      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
         "name": "Three for Three",
         "url": "https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 414466,
       "name": "The Big Push",
       "url": "https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
+        "name": "Idlewild",
+        "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
+      },
+      "artists": [
+        {
+          "name": "Ben Street",
+          "url": "https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        },
+        {
+          "name": "Lage Lund",
+          "url": "https://open.spotify.com/artist/1QspC2BZg5TrVDc5eZ177E"
+        }
+      ],
+      "duration_ms": 448413,
+      "name": "Rumspringa",
+      "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
     },
     {
       "added_at": "2023-09-14 09:22:48",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2023-09-14 09:22:48",
       "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "How Long Has This Been Going On",
+      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
+    },
+    {
+      "added_at": "2023-09-14 09:22:48",
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2023-09-14 09:22:48",
-      "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "How Long Has This Been Going On",
-      "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
     },
     {
       "added_at": "2023-09-14 09:22:48",

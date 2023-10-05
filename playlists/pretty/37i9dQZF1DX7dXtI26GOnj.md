@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,720 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,854 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 84 | [Cachoeira](https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mc Fredd](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5) | [Cachoeira](https://open.spotify.com/album/4mAithietzaFqqKXXniP44) | 2:47 |
 | 85 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 |
 
-Snapshot ID: `MCw2NmNhMjAxYjk5YmNhYzBiNTA5NmFhNGExYTE2YmNmY2YwMTAzMWIw`
+Snapshot ID: `MCwzNzkxYTlkMTc3ZTU1Yzk3YzcxMDc1ZDBmMTIwMzdlNjM5MGUyMzA5`

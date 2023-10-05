@@ -262,6 +262,6 @@
 | [Yesterdays](https://open.spotify.com/track/5x0hAvSSeRCPl7AAsuQ7U7) | [Riley Foster](https://open.spotify.com/artist/5xRnxrWctOpvhjuHe58iUD) | [This Can't Be Love](https://open.spotify.com/album/2xZqlSVy4mXruauLv5lnj0) | 4:30 | 2022-02-16 | 2022-06-01 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/3Nmpf4HaRa3j15ijtZbxZ9) | [Rachel Younger](https://open.spotify.com/artist/0pjHMtmI26iS8U9bktDmBS) | [You Don't Know What Love Is EP](https://open.spotify.com/album/0SV4vjA51OaK28ObV7R07D) | 4:56 | 2022-02-16 | 2022-06-01 |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-03 |  |
-| [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 | 2022-02-16 |  |
+| [You Turned The Tables On Me](https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays \(Expanded Edition\)](https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b) | 2:59 | 2022-02-16 |  |
 
 \*This playlist was first scraped on 2022-04-09. Prior content cannot be recovered.

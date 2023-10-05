@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Fixate",
+        "url": "https://open.spotify.com/album/3DcxK0Bo7hnMdpIWjlJq0i"
+      },
+      "artists": [
+        {
+          "name": "Niteplan",
+          "url": "https://open.spotify.com/artist/1VY8rr16Fj5C2rDUnDVCE0"
+        },
+        {
+          "name": "BLND (UK)",
+          "url": "https://open.spotify.com/artist/3XFLYgrTmf3SGyDlXeBKEA"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420250,
+      "name": "DURRRTY",
+      "url": "https://open.spotify.com/track/0M1hsPi1Eq66ZThtnmQktW"
+    },
+    {
+      "album": {
         "name": "SHANGO",
         "url": "https://open.spotify.com/album/1iYM4iRUQhMr2kjXchqmMw"
       },
@@ -1354,6 +1376,24 @@
       "duration_ms": 363077,
       "name": "Envision - Argy Vocal Mix",
       "url": "https://open.spotify.com/track/44uPZYQNLFvT3FpAboWlKx"
+    },
+    {
+      "album": {
+        "name": "Essa // Work",
+        "url": "https://open.spotify.com/album/5t581wL9SliUyQ6aTOmuVv"
+      },
+      "artists": [
+        {
+          "name": "SIDD",
+          "url": "https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Essa",
+      "url": "https://open.spotify.com/track/33zoPV2LvkbsvBmG5RQLWI"
     },
     {
       "album": {
@@ -1632,7 +1672,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
@@ -3135,6 +3175,28 @@
     },
     {
       "album": {
+        "name": "Sevilla",
+        "url": "https://open.spotify.com/album/4F2X3Z2cnNKbZPylb6ZhdC"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Fernanda Ouro",
+          "url": "https://open.spotify.com/artist/226GKyqOgh2SXoJ8lHaEBe"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354374,
+      "name": "NO8DO - Plaza Edit",
+      "url": "https://open.spotify.com/track/6nkuxT71Ze6bi3fNxOUO2K"
+    },
+    {
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/3Dt9RKGw1oHRRLGmFRZPSR"
       },
@@ -4520,7 +4582,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
@@ -5030,7 +5092,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 443742,
       "name": "Waiting - Dark Sky Remix",
       "url": "https://open.spotify.com/track/11UP9ETtnpgKgm2levkaCV"

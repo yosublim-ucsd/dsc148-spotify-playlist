@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Grupo 5, Joey Montana",
-  "num_followers": 104850,
+  "num_followers": 104905,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWU0OTQ4NDRkYzQzN2Y2MTQ3MTJhMTYwNjYxMzBmNDRhNzUxZjI1",
+  "snapshot_id": "MCw5ZWYxNTYxNjU4ZmY2N2RlNGIyMTI0Y2YxMDJkNDVmNTQ2NmVkMDZm",
   "tracks": [
     {
       "added_at": "2023-09-22 04:59:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Mi Princesa, Vol. 3",
-        "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
-      },
-      "artists": [
-        {
-          "name": "Zafiro Sensual",
-          "url": "https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1"
-        }
-      ],
-      "duration_ms": 351308,
-      "name": "Vete Ya",
-      "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Nectar Internacional",
         "url": "https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Goza Tu Cumbia: Peruvian Cumbia",
-        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+        "name": "Mi Princesa, Vol. 3",
+        "url": "https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG"
       },
       "artists": [
         {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+          "name": "Zafiro Sensual",
+          "url": "https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1"
         }
       ],
-      "duration_ms": 261600,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+      "duration_ms": 351308,
+      "name": "Vete Ya",
+      "url": "https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -611,6 +595,22 @@
       "duration_ms": 243461,
       "name": "Cuerpo de Sirena",
       "url": "https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+        }
+      ],
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
-    },
-    {
-      "added_at": "2023-09-22 04:59:00",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 241319,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d"
+    },
+    {
+      "added_at": "2023-09-22 04:59:00",
+      "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
     },
     {
       "added_at": "2023-09-22 04:59:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-09-22 04:59:00",
       "album": {
-        "name": "El Baile de la Serpiente",
-        "url": "https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt"
+        "name": "Me Enamor\u00e9 y Qu\u00e9",
+        "url": "https://open.spotify.com/album/0XBPJbBVGFN97nv9jVCOda"
       },
       "artists": [
         {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+          "name": "Maricarmen Marin",
+          "url": "https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Juraste Querrerme",
-      "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
+      "duration_ms": 171840,
+      "name": "Me Enamor\u00e9 y Qu\u00e9 - Cover",
+      "url": "https://open.spotify.com/track/5EMjx5ziUTeOY32D8Hv2RB"
     }
   ],
   "unique_name": "Cumbias de Oro",

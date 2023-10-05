@@ -4,7 +4,7 @@
 
 > These women are on the rise and are rocking our worlds right now / Cover: Poppy
 
-378 songs - 19 hr 32 min
+379 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,8 @@
 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 | 2023-06-09 |  |
 | [Wish It Was](https://open.spotify.com/track/31fAHxxQshddV7JHNkxz49) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Wish It Was](https://open.spotify.com/album/6VPEA2UY1r17TtbsGAiIdz) | 3:06 | 2022-10-07 |  |
 | [Woozy](https://open.spotify.com/track/7LdeARrgXe9xRNlT9JCd6i) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I JUST WANNA KNOW WHAT HAPPENS WHEN I'M DEAD \- EP](https://open.spotify.com/album/5rT3OHzmbMBSj376XiKdQy) | 2:12 | 2021-09-10 | 2022-02-05 |
-| [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-06-09 |  |
+| [Worst Apology](https://open.spotify.com/track/0vPbHk9HyqldcOCOkBCwJr) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 3:12 | 2023-07-28 |  |
+| [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-06-09 | 2023-10-05 |
 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 | 2022-04-01 | 2022-10-08 |
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-06-09 |  |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-08-19 |  |

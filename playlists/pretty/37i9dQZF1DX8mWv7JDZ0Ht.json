@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
-  "num_followers": 433166,
+  "num_followers": 433202,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGU5ZTUxNmFiNDY5MDBkMjdhNWY1ZDA2MTkxYTkxZDY0NjYyMmMw",
+  "snapshot_id": "MCw4NWIyN2RkMjEwODE0YjRkYjNjZWUyZTdjYjEyYzI4NGViNzA0OWNj",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Em Voc\u00ea",
-        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
+        "name": "Me Leve",
+        "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
         }
       ],
-      "duration_ms": 142750,
-      "name": "Em Voc\u00ea",
-      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
+      "duration_ms": 225833,
+      "name": "Me Leve",
+      "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Me Leve",
-        "url": "https://open.spotify.com/album/0pVL5tARzVQhDtb4DmS9Sr"
+        "name": "Em Voc\u00ea",
+        "url": "https://open.spotify.com/album/3ReDz50ziIEzT11g81ROPz"
       },
       "artists": [
         {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
         }
       ],
-      "duration_ms": 225833,
-      "name": "Me Leve",
-      "url": "https://open.spotify.com/track/0s5nDuDC0o4zCf1z2nhaQK"
+      "duration_ms": 142750,
+      "name": "Em Voc\u00ea",
+      "url": "https://open.spotify.com/track/5BrgjbuLt8jjE52IgzA7iR"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -627,34 +627,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "tudo, eu, enfim.",
-        "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
+        "name": "SE JOGA",
+        "url": "https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B"
       },
       "artists": [
         {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "desculpa, qualquer coisa",
-      "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
-      },
-      "artists": [
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
+        },
         {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+      "duration_ms": 169017,
+      "name": "SE JOGA",
+      "url": "https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -675,22 +663,34 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "SE JOGA",
-        "url": "https://open.spotify.com/album/6XdllQEkShHSrhyzeEqJ8B"
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H"
       },
       "artists": [
         {
-          "name": "zawa",
-          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
-        },
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
         }
       ],
-      "duration_ms": 169017,
-      "name": "SE JOGA",
-      "url": "https://open.spotify.com/track/4OTfgTNwIXnAgcAYjb5Wqg"
+      "duration_ms": 219306,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "tudo, eu, enfim.",
+        "url": "https://open.spotify.com/album/61c5R2RNKApj9EuAVFQIQq"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "desculpa, qualquer coisa",
+      "url": "https://open.spotify.com/track/2S71g46OHOnyqmTmXns42D"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Lugares",
-        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        },
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ana Rosa",
-      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -883,6 +863,26 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Lugares",
+        "url": "https://open.spotify.com/album/3HtHPHY27DvXPnhWn0qtm2"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ana Rosa",
+      "url": "https://open.spotify.com/track/1E2cXDYMVrKUfr84F36AI2"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Melodram\u00e1tico",
         "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 146000,
       "name": "Melodram\u00e1tico",
       "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Se eu n\u00e3o te amasse tanto assim",
+        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Se eu n\u00e3o te amasse tanto assim",
+      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -915,22 +931,6 @@
       "duration_ms": 176869,
       "name": "No Passo da Saudades",
       "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Se eu n\u00e3o te amasse tanto assim",
-        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Se eu n\u00e3o te amasse tanto assim",
-      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Vou Fugir",
         "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159500,
       "name": "Casa Comigo?",
       "url": "https://open.spotify.com/track/4NggJkhK4jIbTlcey5S7nR"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1147,54 +1147,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Com.Fuso",
-        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 169539,
-      "name": "Terminou Bem",
-      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Como Tinha Que Ser",
-        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Como Tinha Que Ser",
-      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "que se fosse",
-        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "que se fosse",
-      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -1215,6 +1167,38 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "que se fosse",
+        "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "que se fosse",
+      "url": "https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Como Tinha Que Ser",
+        "url": "https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Como Tinha Que Ser",
+      "url": "https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Me Arrependo",
         "url": "https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200393,
       "name": "Me Arrependo",
       "url": "https://open.spotify.com/track/2AY8ZWochVcpJ4smrjXeGQ"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Com.Fuso",
+        "url": "https://open.spotify.com/album/2ejyIweYIP2MQSjCMDILyN"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 169539,
+      "name": "Terminou Bem",
+      "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Desejos",
         "url": "https://open.spotify.com/album/28wJ7QldQ5pIVzaHxTWOu9"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 177000,
       "name": "Desejos",
       "url": "https://open.spotify.com/track/6g3feIh4V5h3UMvuAifb4h"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "added_at": "2023-09-29 03:00:00",

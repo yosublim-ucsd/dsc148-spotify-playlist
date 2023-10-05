@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Numidia
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,815 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,825 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 19 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 |
 | 20 | [Treintje Later](https://open.spotify.com/track/1TJ7XbsAzUpJ3evpxbrAhx) | [KRISTAN](https://open.spotify.com/artist/23406Pq96EgLcng2suxLhT) | [Treintje Later](https://open.spotify.com/album/1OSE4trfYFvnV2HPsJl4D4) | 3:08 |
 | 21 | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/track/1XlUhojwsf89SFoxuwvXW8) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Vanavond Komt Ze Naar Mij](https://open.spotify.com/album/1kTXTth3kzIUg2mtiUxyOt) | 3:08 |
-| 22 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4) | 3:07 |
+| 22 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5tufQXu4n8u156Jy8JJdz0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 3:07 |
 | 23 | [Niet Naar Huis](https://open.spotify.com/track/4ouO2G1LVrl7auDWbrI89h) | [Ayden](https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS) | [Niet Naar Huis](https://open.spotify.com/album/5aRqWwUO68r33MD812weKs) | 2:15 |
 | 24 | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/album/3UeJGVaVCk0YocAVPybptk) | 3:10 |
 | 25 | [Kapitein](https://open.spotify.com/track/39lfuCGvxLUu5zIx5C9Y1C) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Kapitein](https://open.spotify.com/album/5Dz5CfH58kYE9nAwNwiFH3) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [Opzij](https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 2:22 |
 | 60 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 |
 
-Snapshot ID: `MCw2MDllYjk0ZTBlMjcxMDdkMzgzYTk1NDA1YTE4OWJlMWZiMGNiMThk`
+Snapshot ID: `MCxjOTZkOWJlZThlNzE3ZmYyOTVjOGI1M2RmODFmNzE2NjhlOTk5ZWI3`

@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-109 songs - 8 hr 21 min
+110 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2022-01-14 |  |
 | [Piece Of Art](https://open.spotify.com/track/05Z9XLTEN2aJx3y6YWlGoJ) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O) | [Piece Of Art](https://open.spotify.com/album/2FxV796hbaU52R033iD7s5) | 3:16 | 2022-01-14 |  |
 | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Poison \(feat\. Darla Jade\)](https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA) | 3:03 | 2022-01-14 | 2022-11-26 |
-| [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 | 2022-01-14 |  |
+| [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 | 2022-01-14 | 2023-10-05 |
 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 | 2022-01-14 |  |
 | [Sapphire](https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62) | [Dee Montero](https://open.spotify.com/artist/46RoK8NBTMTyu23GiHqbCr), [Shahin Badar](https://open.spotify.com/artist/5wV3VcHY2HltBOIMQEhRzc) | [Sapphire](https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto) | 7:46 | 2022-01-14 | 2023-04-16 |
 | [Satisfied \- Qrion Remix](https://open.spotify.com/track/75s1E7gtxXQaKkHMyOOtOp) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Satisfied \(Qrion Remix\)](https://open.spotify.com/album/7Aqx2HgGpIP8dmyMO3pbwQ) | 4:26 | 2022-01-14 | 2022-11-26 |
@@ -110,6 +110,7 @@
 | [Vaia \- PVSHL Remix Edit](https://open.spotify.com/track/5j3kkxIyGrDaHLaWPNb56g) | [Troste](https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz), [PVSHL](https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF) | [Vaia \(PVSHL Remix\)](https://open.spotify.com/album/5Y4NzuaqziJu0QFkP2WHiQ) | 4:36 | 2022-01-14 | 2022-07-29 |
 | [Vanishing](https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 6:12 | 2022-01-14 |  |
 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 | 2022-01-14 |  |
+| [Was It the Wind That Stirred The Trees](https://open.spotify.com/track/444nE6DEGBPTjLgR39BjdT) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It the Wind That Stirred The Trees](https://open.spotify.com/album/0e9kIrv9PyjGWubMLQXJyY) | 3:48 | 2022-11-25 |  |
 | [Was It The Wind That Stirred The Trees](https://open.spotify.com/track/7DhgAwnYzYnJzSdqQhTYwB) | [Boy North](https://open.spotify.com/artist/5RWTv1TLAxHSP7N33pFJfN) | [Was It The Wind That Stirred The Trees](https://open.spotify.com/album/7sanzFRWH1nfrXrLFix8Am) | 3:48 | 2022-01-14 | 2023-10-02 |
 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 | 2022-01-14 |  |
 | [White Ghost](https://open.spotify.com/track/6dcOMgnBkzfj4WZcNziVIq) | [J\_ulio](https://open.spotify.com/artist/1otLqs9oi7mIGYERdhM9b2) | [Far Away Connections](https://open.spotify.com/album/34ZraMBlp39ntdY7IUnCfH) | 6:30 | 2022-01-14 | 2022-11-26 |

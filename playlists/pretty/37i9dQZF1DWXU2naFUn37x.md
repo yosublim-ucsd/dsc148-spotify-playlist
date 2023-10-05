@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 865,840 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,038 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [YALLA \(feat\. Guè & Marracash\)](https://open.spotify.com/track/6VTxXLLqkJw1GoKlKrwsvQ) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:17 |
 | 50 | [Rotto](https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Rotto](https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk) | 2:43 |
 
-Snapshot ID: `MCxlZDFiOGQ1MzQ4YmVkYTdlNjBkN2E2N2Y1NThiODIyNWUyZjQyODk0`
+Snapshot ID: `MCw2Y2YxODMxZmQwZmQ5OThhZWJlNjJlMTFlOGI5YTljODVlZGI5NmQ1`

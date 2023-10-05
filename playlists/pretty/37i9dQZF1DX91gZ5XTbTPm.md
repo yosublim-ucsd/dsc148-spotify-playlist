@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Icewear Vezzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,948 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,007 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Wholeworldslatt \(feat\. Veeze\)](https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 3:25 |
 | 50 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 
-Snapshot ID: `MCwyYTRhNjBmOWNkYjkyM2M5ZTk2NDM4YTViNmY1NTVhY2E4MDIyMTk0`
+Snapshot ID: `MCw2MjQ4ZGY0MjI1ZTBhMjFjNDhlYWVhNThmYzg2YjNjMGYzNjVlMzYz`

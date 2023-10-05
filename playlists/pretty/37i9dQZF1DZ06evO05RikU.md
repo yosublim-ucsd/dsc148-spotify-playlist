@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,748 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,815 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 44 | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Carlos "Maffio" Peralta](https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS) | [Muevelo Remix \(feat\. Maffio\)](https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH) | 3:28 |
 | 45 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
 | 46 | [Más](https://open.spotify.com/track/377mObzoylGLn4VhaYlLwl) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Más](https://open.spotify.com/album/2zlvWU5qmu9iyhWBcaQa6y) | 2:44 |
-| 47 | [Whose Arms \(feat\. Sofia Reyes\)](https://open.spotify.com/track/0Y7zVDS3ppK8DGTGOfu0c2) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Whose Arms \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2V7ZgzC4ZhCkk52CPzG0pR) | 2:51 |
-| 48 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
+| 47 | [Treehouse](https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Treehouse](https://open.spotify.com/album/0xDUWlPe0z4xOiBi41dmb9) | 3:09 |
+| 48 | [Whose Arms \(feat\. Sofia Reyes\)](https://open.spotify.com/track/0Y7zVDS3ppK8DGTGOfu0c2) | [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Whose Arms \(feat\. Sofia Reyes\)](https://open.spotify.com/album/2V7ZgzC4ZhCkk52CPzG0pR) | 2:51 |
 | 49 | [De aqui a la luna](https://open.spotify.com/track/6zmxxA4bZ1dGlj6CRVXf87) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:09 |
 | 50 | [Bittersweet](https://open.spotify.com/track/5SFvRp4yiMzqJgiRFKloi5) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 2:48 |
 | 51 | [Puro Sentimiento \(feat\. Santana\) \- Remix](https://open.spotify.com/track/5B4h7QTaGqDxW3IrXPBHMn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Puro Sentimiento \(feat\. Santana\) \[Remix\]](https://open.spotify.com/album/6ZVWUQ7BCA9UrBOYctwJj0) | 3:14 |
 | 52 | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7MszYozBEVXQ846HIedBV1) | [AXSHN](https://open.spotify.com/artist/0riQwemsOuO4qtu9Kdqv9i), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/album/0qvgH8vp9fR5hDEiRuC5by) | 3:11 |
 
-Snapshot ID: `MjgyNjk0MzcsMDAwMDAwMDBhMjIyNjk4N2ZkMjExZGMxMjYzNDM4MDJjMWI1YWY2ZA==`
+Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDBhNTRhOWY2YzY0NzljNWQ5MmEyNTdkMDNhZGYzODM5OQ==`

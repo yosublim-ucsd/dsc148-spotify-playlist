@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio e Vulgo FK entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,093 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,177 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 17 | [Alcatraz](https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Alcatraz](https://open.spotify.com/album/7aFKsnwLJ7fMY90k4yVXiz) | 3:25 |
 | 18 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 19 | [Escrevo, Não Falo](https://open.spotify.com/track/0jK70IrmjvWzUPRH8f4EZZ) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP), [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 4:32 |
-| 20 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodígio](https://open.spotify.com/artist/6BEwA8tWhsWd3pDLUSr26E) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
+| 20 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
 | 21 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
 | 22 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 23 | [Comentário](https://open.spotify.com/track/2WyVgaeftsSxbp6lCGzp5O) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Real Punch](https://open.spotify.com/artist/2Cjyfjlqv9jMyaNP2HZc9c) | [Comentário](https://open.spotify.com/album/4eI4p2PWOh7EO5vQJvd3Bh) | 2:52 |

@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 4459,
+  "num_followers": 4468,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGEwNjgzYTRhZGQwYjU4ZGU5NjczOWMxNzAxOTAxOTFmYWY2NTY5",
+  "snapshot_id": "MCxmOTNjOWI3NzJhY2ZiNDU0ODM3Mzc3ZDBjZmYwNjc5YmZjMGRkNzBk",
   "tracks": [
     {
       "added_at": "2023-09-29 05:33:30",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 206773,
       "name": "Know Your Demons",
       "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2023-09-29 05:33:30",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-09-29 05:33:30",
       "album": {
-        "name": "Priest From Terre Haute",
-        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
-      },
-      "artists": [
-        {
-          "name": "Marcos Cabanas",
-          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
-        }
-      ],
-      "duration_ms": 703561,
-      "name": "Priest From Terre Haute",
-      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
-    },
-    {
-      "added_at": "2023-09-29 05:33:30",
-      "album": {
         "name": "Wandering Soul",
         "url": "https://open.spotify.com/album/6OPr5drQs4sdE8IgAK4vEv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 152590,
       "name": "Gravel Road",
       "url": "https://open.spotify.com/track/078aq6YFLnlMAK6yqst82A"
+    },
+    {
+      "added_at": "2023-09-29 05:33:30",
+      "album": {
+        "name": "Priest From Terre Haute",
+        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
+      },
+      "artists": [
+        {
+          "name": "Marcos Cabanas",
+          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
+        }
+      ],
+      "duration_ms": 703561,
+      "name": "Priest From Terre Haute",
+      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
     }
   ],
   "unique_name": "Route Americana",

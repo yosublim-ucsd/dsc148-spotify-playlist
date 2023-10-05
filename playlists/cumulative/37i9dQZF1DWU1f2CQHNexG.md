@@ -4,7 +4,7 @@
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
-118 songs - 8 hr 22 min
+119 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,8 +116,9 @@
 | [The Things That Dreams Are Made Of \- Remaster 2002](https://open.spotify.com/track/5GLYtND9tYHCEdIQ1i1JH3) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 4:17 | 2022-03-10 |  |
 | [To Cut a Long Story Short \- 2010 Remaster](https://open.spotify.com/track/1NlJv9YBuvgbb9pO51vqOY) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Journeys to Glory \(Special Edition\)](https://open.spotify.com/album/6SeOw1xyjKM6CbEstaGzqd) | 3:19 | 2022-03-10 |  |
 | [True Faith](https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 5:55 | 2023-02-02 |  |
-| [Vienna](https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \[Deluxe Edition\]: 40th Anniversary](https://open.spotify.com/album/2qDjfyAGcjxDv8sdr5knyg) | 4:54 | 2022-03-10 |  |
+| [Vienna](https://open.spotify.com/track/2LXjhNee4iPRVemx9NSZQ3) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \[Deluxe Edition\]: 40th Anniversary](https://open.spotify.com/album/2qDjfyAGcjxDv8sdr5knyg) | 4:54 | 2022-03-10 | 2023-10-05 |
 | [Vienna \- 2008 Remaster](https://open.spotify.com/track/0842N1NhR1Q1XS6XyyQ3Nl) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \(Remastered Definitive Edition\)](https://open.spotify.com/album/4dOFj5aKOg68jIE7rZP5DZ) | 4:56 | 2022-03-10 | 2022-07-29 |
+| [Vienna \- 2008 Remaster](https://open.spotify.com/track/7ioy6ppmN9Rn8Pm5axNzUP) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Vienna \(Remastered Definitive Edition\)](https://open.spotify.com/album/57UuXCYkx1wZW7gfl8hvjB) | 4:56 | 2023-02-02 |  |
 | [Vienna \- Single Version](https://open.spotify.com/track/4X4VRvW2r3iQiR7cqrrXd5) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:42 | 2022-09-18 | 2022-11-13 |
 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 | 2022-03-10 |  |
 | [West End Girls \- 2001 Remaster](https://open.spotify.com/track/2yzPBlE5UXK2sqvnNM9QQ0) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please](https://open.spotify.com/album/0AwBxVtsvLVwmaVwwe5beS) | 4:45 | 2022-03-10 | 2022-09-17 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 165373,
       "name": "All Over This World",
       "url": "https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 164311,
       "name": "Cain't No Grave Hold My Body Down",
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "The Decca Singles, Vol. 5",
+        "url": "https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120106,
+      "name": "Have A Little Talk With Jesus",
+      "url": "https://open.spotify.com/track/7yfVEafYHPMvvdUb3fZPFp"
+    },
+    {
+      "album": {
         "name": "Live in 1960",
         "url": "https://open.spotify.com/album/3HySlTcJp61IznncKRWK50"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -714,7 +736,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -732,7 +754,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 160960,
       "name": "I Want Jesus to Walk Around My Bedside",
       "url": "https://open.spotify.com/track/7KJsNOHD91wsOHPYGgNSDX"
@@ -768,7 +790,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 155360,
       "name": "I Want to Live So God Can Use Me",
       "url": "https://open.spotify.com/track/51i9LuYV4z2jjEzTKolDty"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 122946,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5m7sUVVbJoPYcWysXT4NcS"
@@ -1100,7 +1122,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 179426,
       "name": "Nobody's Fault But Mine",
       "url": "https://open.spotify.com/track/3z5JS5NmUSb8llmXl8QZiq"
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 261000,
       "name": "Peace In The Valley",
       "url": "https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5"
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Sleep on Darling Mother",
       "url": "https://open.spotify.com/track/5zwea1dgarGWUuCxOZfDvc"
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 147391,
       "name": "Somebody Needs Jesus",
       "url": "https://open.spotify.com/track/6814OBIGcgQOKA0mx52p70"
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1840,7 +1862,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 153253,
       "name": "Up Above My Head I Hear Music in the Air",
       "url": "https://open.spotify.com/track/2GogRVDdUrZIPf2etethre"

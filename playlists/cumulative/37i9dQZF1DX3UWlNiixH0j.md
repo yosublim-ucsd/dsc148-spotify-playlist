@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: Tohji
 
-890 songs - 2 day 7 hr 26 min
+892 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [The last song](https://open.spotify.com/track/3nSblqRTG9MBEuYNRPxoFn) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [The last song](https://open.spotify.com/album/5qwjLuPAV8H3ChvyQZlaM4) | 3:31 | 2023-07-04 | 2023-07-12 |
 | [The Local Pints](https://open.spotify.com/track/38gu4TRjE5N5WN6UeFlKki) | [THE LOCAL PINTS](https://open.spotify.com/artist/771IcrenZVG0AS8LmOVwa3) | [The Local Pints](https://open.spotify.com/album/1YqaVxLXPKjndYoQsCdCZ3) | 3:00 | 2023-06-06 | 2023-06-14 |
 | [The night comes.](https://open.spotify.com/track/1u3ICvbaGuAIG9pxAqqRst) | [Aoi Mizuno](https://open.spotify.com/artist/2HPnhVahdXW9IXUYGDFq5c) | [HYPER NEO POST ROMANTIC](https://open.spotify.com/album/1ZzXPxiyTJSCm1fY2ID7Fi) | 3:50 | 2023-05-23 | 2023-05-31 |
-| [The Out of Africa Hypothesis](https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T) | [The Out of Africa Hypothesis](https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4) | 4:42 | 2023-10-03 |  |
+| [The Out of Africa Hypothesis](https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Zo Zhit](https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx) | [The Out of Africa Hypothesis](https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r) | 4:42 | 2023-10-03 |  |
+| [The Out of Africa Hypothesis](https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T) | [The Out of Africa Hypothesis](https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4) | 4:42 | 2023-10-03 | 2023-10-05 |
 | [The River Knew](https://open.spotify.com/track/4q6sBVIne9Q1HlMprdEfr2) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [The River Knew](https://open.spotify.com/album/6XLYjNWihFvpv7br0QYtVr) | 3:25 | 2023-02-02 | 2023-02-10 |
 | [Third Summer of Love](https://open.spotify.com/track/1JqvgMV4lvu6HCMTY2eAkL) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [ANOCHI](https://open.spotify.com/album/3QaWpNuVe2FRMDAnG2iPwx) | 5:05 | 2023-01-31 | 2023-03-29 |
 | [Third Summer of Love](https://open.spotify.com/track/1TymUgaexEf5hiZKvSwFIi) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Million Wish Collective](https://open.spotify.com/artist/3L0IgTFlmkllM0Mcnp2JeQ) | [あのち](https://open.spotify.com/album/4BrADJvd35XV47vZhc4jUi) | 5:05 | 2023-01-31 | 2023-02-02 |
@@ -555,7 +556,8 @@
 | [Void](https://open.spotify.com/track/6tpnOfEBDAUl6QsSt7X9jx) | [Kill The Gossip](https://open.spotify.com/artist/536HIHYj6SspezuJFoFHmo) | [Void](https://open.spotify.com/album/4uDViG6vfnd5GTgt5V8ibD) | 3:41 | 2023-06-27 | 2023-07-05 |
 | [VOLCANIC EMOTION](https://open.spotify.com/track/5vsnc9ohLYAHOoC3gv1M2U) | [BAILEFUNK KAKEKO](https://open.spotify.com/artist/16AcJe0AnxrvpdJOy8IPXu), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [VOLCANIC EMOTION](https://open.spotify.com/album/1jS5O3g73EcVWAeVcbF5QF) | 2:18 | 2023-01-31 | 2023-02-22 |
 | [VOLCANIC EMOTION](https://open.spotify.com/track/2COkmpV9zO7TdU3bUyps4s) | [バイレファンキかけ子](https://open.spotify.com/artist/2WrekljFhg7b0OhtRHtz3X), [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [VOLCANIC EMOTION](https://open.spotify.com/album/4Otars2GNjONTfYSCcIXhI) | 2:18 | 2023-01-31 | 2023-02-02 |
-| [WABISABI](https://open.spotify.com/track/4rDSi6jw4qPQyyjOMCAOOm) | [nikiie](https://open.spotify.com/artist/3TOoTfdVrwDi68aAnrPu7Z) | [WABISABI](https://open.spotify.com/album/0sk0LboSOCSWowAjmYoALm) | 3:28 | 2023-10-03 |  |
+| [WABISABI](https://open.spotify.com/track/24VnIHZn36lqgWU8sRctn3) | [nikiie](https://open.spotify.com/artist/3TOoTfdVrwDi68aAnrPu7Z) | [WABISABI](https://open.spotify.com/album/5zUFysUWNY9NId9QB5WFLp) | 3:28 | 2023-10-03 |  |
+| [WABISABI](https://open.spotify.com/track/4rDSi6jw4qPQyyjOMCAOOm) | [nikiie](https://open.spotify.com/artist/3TOoTfdVrwDi68aAnrPu7Z) | [WABISABI](https://open.spotify.com/album/0sk0LboSOCSWowAjmYoALm) | 3:28 | 2023-10-03 | 2023-10-05 |
 | [WACHA](https://open.spotify.com/track/5PZ9S7rWyCQ8fdT4pPXG1T) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WACHA](https://open.spotify.com/album/20pjam3Y6492zdq31Ow3eo) | 3:19 | 2023-04-18 | 2023-04-26 |
 | [waiting for me & you :\)](https://open.spotify.com/track/40Hpo7zHapC61E90XrmIyl) | [Aoto](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [waiting for me & you :\)](https://open.spotify.com/album/7EYIkcFcHntzJ8lGuEyLZm) | 3:45 | 2023-08-15 | 2023-08-23 |
 | [Wake up soon](https://open.spotify.com/track/0siU3JMlnOYfANLVyYXX0D) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Wake up soon](https://open.spotify.com/album/1GRLAC0RJNALOdCRj8pugK) | 3:00 | 2023-03-07 | 2023-03-15 |

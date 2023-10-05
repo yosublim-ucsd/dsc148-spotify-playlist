@@ -4,7 +4,7 @@
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-88 songs - 7 hr 3 min
+89 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 | 2022-06-10 |  |
 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 | 2022-06-10 |  |
 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 | 2022-06-10 |  |
-| [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 | 2022-06-10 |  |
+| [Luvstruck](https://open.spotify.com/track/5kW0BW8B5hjrbpe0OuFUr9) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Benjamin Bates](https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W) | [Luvstruck](https://open.spotify.com/album/5zipLTwuPaNjKtO0VcAup3) | 3:17 | 2022-06-10 |  |
+| [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 | 2022-06-10 | 2023-10-05 |
 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 | 2022-06-10 |  |
 | [On The Move](https://open.spotify.com/track/5G976RmOXLKXedSWAe21N6) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On The Move](https://open.spotify.com/album/76kravzo4UMKQE6Vs112Ai) | 3:36 | 2022-06-10 |  |
 | [Out Of The Blue](https://open.spotify.com/track/7fIfO8fZ55Eq5qtd5vCd6z) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Remastered\)](https://open.spotify.com/album/0Wd7GMaUkqotsEb1RCYx2V) | 3:54 | 2022-06-10 |  |

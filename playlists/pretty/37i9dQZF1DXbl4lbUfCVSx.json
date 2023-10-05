@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 28681,
+  "num_followers": 28706,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjNjZDA0ZDU1MTY3MDRjZWNmZTQyZDMyYTMyNGZlYWZlNTM4Njc0",
+  "snapshot_id": "MCw1ZDQ5MDEwZjU0YzhiMzU2NTdhYjk2YTAwNTBjN2YzMTMyNjk2MDNk",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "The Very Best Of Jackito (Pou ti moun yo)",
         "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 292362,
       "name": "Je l'aime \u00e0 mourir",
       "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
     },
     {
       "added_at": "2020-06-03 18:17:45",

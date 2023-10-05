@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
-  "num_followers": 163910,
+  "num_followers": 163941,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2NhOTExNTc3YzE2ZDRmNjQ4N2Y0YzA0OTVmZGE0NzhjNzEyNTQ2",
+  "snapshot_id": "MCw1NjU4NmI5MWVjMmQyNTllOTZmNTZiZDAyYzc1MzVhNzA0Y2RhOTIx",
   "tracks": [
     {
       "added_at": "2023-09-29 16:51:56",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
-      },
-      "artists": [
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
-        }
-      ],
-      "duration_ms": 115306,
-      "name": "A Nossa Brisa",
-      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf"
+      },
+      "artists": [
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 115306,
+      "name": "A Nossa Brisa",
+      "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 159375,
       "name": "Troco",
       "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
-        "name": "LAMPEJOS",
-        "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
-      },
-      "artists": [
-        {
-          "name": "Guhhl",
-          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
-        },
-        {
-          "name": "PS",
-          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
-        }
-      ],
-      "duration_ms": 150848,
-      "name": "LAMPEJOS",
-      "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -863,18 +843,22 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
-        "name": "Sem T\u00e9dio",
-        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+        "name": "LAMPEJOS",
+        "url": "https://open.spotify.com/album/4V334gyHrpj7r27utKzxGb"
       },
       "artists": [
         {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+          "name": "Guhhl",
+          "url": "https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G"
+        },
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68"
         }
       ],
-      "duration_ms": 180454,
-      "name": "Sem T\u00e9dio",
-      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
+      "duration_ms": 150848,
+      "name": "LAMPEJOS",
+      "url": "https://open.spotify.com/track/5ZNdTL3f4T3gbMuXCmTfT7"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -891,6 +875,22 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
+        "name": "Sem T\u00e9dio",
+        "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 180454,
+      "name": "Sem T\u00e9dio",
+      "url": "https://open.spotify.com/track/66UjpQNSCcrjLEGDFFSCc1"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -931,6 +931,26 @@
       "duration_ms": 222368,
       "name": "Muito Sou(L)",
       "url": "https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -979,26 +999,6 @@
       "duration_ms": 198712,
       "name": "Tudo Que Restou",
       "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
-        }
-      ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
         "name": "Mais Um Pouco",
         "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
+      },
+      "artists": [
+        {
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
         "name": "Vers\u00e3o Beta",
         "url": "https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 133825,
       "name": "Vers\u00e3o Beta",
       "url": "https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
     },
     {
       "added_at": "2023-09-29 16:51:56",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2023-09-29 16:51:56",
       "album": {
-        "name": "Abstin\u00eancia",
-        "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
-      },
-      "artists": [
-        {
-          "name": "Lav\u00ed",
-          "url": "https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC"
-        },
-        {
-          "name": "Ceejay",
-          "url": "https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG"
-        },
-        {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Abstin\u00eancia",
-      "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
-    },
-    {
-      "added_at": "2023-09-29 16:51:56",
-      "album": {
         "name": "se voc\u00ea quiser",
         "url": "https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 224680,
       "name": "se voc\u00ea quiser",
       "url": "https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB"
+    },
+    {
+      "added_at": "2023-09-29 16:51:56",
+      "album": {
+        "name": "Abstin\u00eancia",
+        "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
+      },
+      "artists": [
+        {
+          "name": "Lav\u00ed",
+          "url": "https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC"
+        },
+        {
+          "name": "Ceejay",
+          "url": "https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Abstin\u00eancia",
+      "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
     },
     {
       "added_at": "2023-09-29 16:51:56",

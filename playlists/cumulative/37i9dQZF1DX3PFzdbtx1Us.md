@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-281 songs - 11 hr 0 min
+284 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,10 +48,12 @@
 | [Amalgam](https://open.spotify.com/track/0i4LbBW7DOlVcXThcRlbsP) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Amalgam](https://open.spotify.com/album/4fK4kG2XPZkaP9p0zrEV9k) | 2:12 | 2023-05-15 |  |
 | [Ambiguos](https://open.spotify.com/track/4ckUU6TR19hXSAc5C0DdIf) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Ambiguos](https://open.spotify.com/album/0GK3JsrJx1KfurBpPzjNau) | 3:11 | 2023-05-15 |  |
 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2021-06-27 | 2023-05-16 |
+| [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-04 |  |
 | [Aning](https://open.spotify.com/track/1gqSAZHdFgARHhkmGHvr5D) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Dröm](https://open.spotify.com/album/7emzujJp5H2gEdEpzdgILf) | 2:38 | 2023-05-15 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-06-27 | 2023-05-16 |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-05-15 |  |
 | [Ascend](https://open.spotify.com/track/77x7n1Qvcit2rxRrWIJFqg) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Ascend](https://open.spotify.com/album/5349ilcUsrejrw9xQbZuF2) | 1:57 | 2023-05-15 | 2023-08-16 |
+| [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-04 |  |
 | [At Last, Sunrise](https://open.spotify.com/track/4z0spwzLajA7R76czkAIEE) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [At Last, Sunrise](https://open.spotify.com/track/04yKORm7EBZbrdzjf9jD3X) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:02 | 2022-07-05 | 2023-05-16 |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-15 |  |
@@ -94,13 +96,14 @@
 | [Ein kurzer Augenblick](https://open.spotify.com/track/5RblS5gGs0nfWBKk153KCN) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Ein kurzer Augenblick](https://open.spotify.com/album/2p8wMElkJei2CSNDEda1GW) | 2:20 | 2023-05-15 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-05-15 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-15 |  |
-| [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-05-15 |  |
+| [Esperanza](https://open.spotify.com/track/5Mh54AIaFYYUMT3RGBJurm) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Esperanza](https://open.spotify.com/album/5jIyI96vqZTFgY0OoS2m1s) | 2:01 | 2023-05-15 | 2023-10-05 |
 | [Evergreen](https://open.spotify.com/track/633YySlXq6qxSdCLFovXdv) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Evergreen](https://open.spotify.com/album/0znHYudTgnbzsCCfjqCxNj) | 3:45 | 2021-06-27 | 2023-05-16 |
 | [Everyday](https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Everyday](https://open.spotify.com/album/6wtmiUX46vgAtAZ64UHtK2) | 2:19 | 2023-05-15 |  |
 | [Faded](https://open.spotify.com/track/6iPhqRUT1a2JZBzhmHgsuF) | [Omer Bresler](https://open.spotify.com/artist/2VoJu7BIqt6HQDqtyn9yH3) | [Faded](https://open.spotify.com/album/06YRw6CmqnL3I13TK48OnB) | 2:14 | 2021-06-27 | 2023-05-16 |
 | [Fantasy](https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Fantasy](https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos) | 3:10 | 2023-05-15 |  |
 | [Far Away](https://open.spotify.com/track/0QijsaMELH5n5T012X6LYb) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Far Away](https://open.spotify.com/album/6CIVgXy2Ovk4leXt0tH24S) | 2:19 | 2021-06-27 | 2023-05-16 |
 | [Ficelles](https://open.spotify.com/track/132Kp4GGfpNCDwiIOWygrg) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Ficelles](https://open.spotify.com/album/7FnU9q86zFuA6lmsgzs2H5) | 1:14 | 2023-05-15 | 2023-06-20 |
+| [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-04 |  |
 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-05-15 |  |
 | [Flickering Flame](https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Flickering Flame](https://open.spotify.com/album/3ndLiNJW5n7J0oFshWnThj) | 2:42 | 2023-05-15 |  |
 | [Floating with the tide](https://open.spotify.com/track/1GJsvAFYG341M9F98JiLQz) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Floating with the tide](https://open.spotify.com/album/7o8Ejc3QNtg3sDiLX4OCrb) | 1:59 | 2023-05-15 | 2023-08-16 |
@@ -190,7 +193,7 @@
 | [October](https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:48 | 2021-06-27 | 2023-05-16 |
 | [Offline](https://open.spotify.com/track/42URkE3AuolYqkxzuEXFpK) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Beyond The Range Of Sound](https://open.spotify.com/album/2D7r2hGxqWwJaCjLnTVtAr) | 2:43 | 2022-07-05 | 2023-05-16 |
 | [Offline](https://open.spotify.com/track/6BOEwn9UtUVaZm6EebzRBF) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Beyond The Range Of Sound](https://open.spotify.com/album/6F7gJopjIsZ1UVMIwleDFf) | 2:43 | 2021-06-27 | 2022-07-29 |
-| [Old Rocking Chair](https://open.spotify.com/track/1X10yRHO4okiaQD6xI6H4U) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Old Rocking Chair](https://open.spotify.com/album/2eBjqwMuDyhYjnjC2qpjZ4) | 2:04 | 2023-05-15 |  |
+| [Old Rocking Chair](https://open.spotify.com/track/1X10yRHO4okiaQD6xI6H4U) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Old Rocking Chair](https://open.spotify.com/album/2eBjqwMuDyhYjnjC2qpjZ4) | 2:04 | 2023-05-15 | 2023-10-05 |
 | [Omoidasu](https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Omoidasu](https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD) | 1:57 | 2023-05-15 | 2023-08-16 |
 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 | 2023-05-15 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-15 |  |

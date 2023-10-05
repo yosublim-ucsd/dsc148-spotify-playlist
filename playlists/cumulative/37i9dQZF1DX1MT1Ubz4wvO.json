@@ -9313,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "El Perro Andaluz",
+        "url": "https://open.spotify.com/album/6pNLM5Stx65uRl0ao3WsS2"
+      },
+      "artists": [
+        {
+          "name": "Albertucho",
+          "url": "https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206691,
+      "name": "El Perro Andaluz",
+      "url": "https://open.spotify.com/track/1T1xpspDLWHMWLCFGjOmWg"
+    },
+    {
+      "album": {
         "name": "El Piojo",
         "url": "https://open.spotify.com/album/5kS2EYPkrxxDqZU8CziXHI"
       },

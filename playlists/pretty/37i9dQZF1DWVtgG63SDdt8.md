@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="spotify:artist:5DXiy58vu9lP6cW5eKDeBg">Ivan Theva</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,519 likes - 99 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,726 likes - 99 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 42 | [Everything Changes \- Reimagined](https://open.spotify.com/track/2BfSWz3wEqC3b3AxicsjuK) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Shout! Reimagined \(Vol\. 3\)](https://open.spotify.com/album/5MFiGbjk0XXgHdWpP4GFVr) | 10:14 |
 | 43 | [Power Of Our Praise](https://open.spotify.com/track/2tmmnSnqpB3avC0mv8xZ20) | [SONS THE BAND](https://open.spotify.com/artist/0HRtriOgRf9dPnJJf9mNqL) | [Power Of Our Praise](https://open.spotify.com/album/4amB8JLSCnAlhDfZRR5UjT) | 4:00 |
 | 44 | [Windows \- Radio Version](https://open.spotify.com/track/3M9etAQYZYwsBGF2aWcSvW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows \(Radio Versoin\)](https://open.spotify.com/album/4Vo8bAuWlWsXVXLD1VMRIE) | 3:44 |
-| 45 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/1W7DATOf6IUurjV5M5ZWyC), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
+| 45 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/6qUzD1Leqwhz94dwG4IKmn), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
 | 46 | [Blessed \- Live](https://open.spotify.com/track/2Jag78bMyI4AyQbBBpaCVs) | [Aaron Lindsey](https://open.spotify.com/artist/4V6jbtRhAeabsaTqDjESUm), [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Blessed \(Live\)](https://open.spotify.com/album/6NsIs7IvSThXeXvFZxu3WM) | 5:41 |
 | 47 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
 | 48 | [Faded Dreams](https://open.spotify.com/track/6Pz5ZnO4Kg3VEtaYz14xcC) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Faded Dreams](https://open.spotify.com/album/3UDzhK30n8Phky1cKs3NwE) | 2:02 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Buy You Flowers](https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Buy You Flowers](https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa) | 2:22 |
 | 99 | [Patient & Kind](https://open.spotify.com/track/4XUHPTauQpSLCeGIzRGIR3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Patient & Kind](https://open.spotify.com/album/1ibfHJeOfj4wBtSBgy5JuG) | 4:57 |
 
-Snapshot ID: `MCwyNWFhYzVjNzQ0MDk5MTlmOTZkZjIwZTA4MjFhYjA0ODYwMzczZTdj`
+Snapshot ID: `MCxhMGRiYzM1Yzk3ZjUxYjMyMzA3OWVlNDQzN2Y4MWMzMTQ3NmUzZWRh`

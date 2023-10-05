@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,521 songs - 3 day 1 hr 18 min
+1,522 songs - 3 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1065,7 +1065,8 @@
 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 | 2021-08-21 | 2022-03-01 |
 | [RACECAR](https://open.spotify.com/track/7JdarpX08FLhmfNZpxqgUO) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [WELCOME HOME](https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc) | 2:37 | 2020-10-13\* | 2020-11-03 |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 | 2020-10-13\* | 2021-01-23 |
-| [RAGE ROVER](https://open.spotify.com/track/3wqrGgcedJaDKpnIlqpYGn) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull \(STAMINA\)](https://open.spotify.com/album/6kfpQAQYgHw6Xz5B5oiqTg) | 5:58 | 2023-08-18 |  |
+| [RAGE ROVER](https://open.spotify.com/track/3wqrGgcedJaDKpnIlqpYGn) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull \(STAMINA\)](https://open.spotify.com/album/6kfpQAQYgHw6Xz5B5oiqTg) | 5:58 | 2023-08-18 | 2023-10-05 |
+| [RAGE ROVER](https://open.spotify.com/track/1uWIwnYQKphzb6QoMaRWrJ) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull \(STAMINA\)](https://open.spotify.com/album/7F7MfManq9RNZq2mDUosiD) | 5:58 | 2023-09-22 |  |
 | [Rainbow Bap](https://open.spotify.com/track/5xAOiPReWwiepAJWmLQDYZ) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Rainbow Bap](https://open.spotify.com/album/4uYYweXMMvr8K5OAkpquRG) | 4:40 | 2020-10-13\* | 2021-05-03 |
 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 | 2022-08-01 | 2022-09-24 |
 | [Rapture](https://open.spotify.com/track/2YD9JIchaD9JfWrdSKBQcg) | [David Wolves](https://open.spotify.com/artist/0mejDRXAzKjEa0PT239f29) | [VIOLENT](https://open.spotify.com/album/0HjenmKj15BTab56NaHMpp) | 4:49 | 2022-02-04 | 2022-05-10 |

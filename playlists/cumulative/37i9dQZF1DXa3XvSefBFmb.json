@@ -4821,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Jar Of Hearts",
+        "url": "https://open.spotify.com/album/3ovrZtJqny1zCNufXdfmXb"
+      },
+      "artists": [
+        {
+          "name": "Catarina Rodrigues",
+          "url": "https://open.spotify.com/artist/05cfB3zRpqKPvs7e30ShMx"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247484,
+      "name": "Jar Of Hearts",
+      "url": "https://open.spotify.com/track/5yhhNHxtw1Rgkc1V1zDCTP"
+    },
+    {
+      "album": {
         "name": "Joana Rosa",
         "url": "https://open.spotify.com/album/6E629av0PAVaKZkktzmZUV"
       },

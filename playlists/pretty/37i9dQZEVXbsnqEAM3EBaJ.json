@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDA1NjMwYjM3MDA1NjBjYjE1NzZhZjAyZTE5YTFjNTJjZQ==",
+  "snapshot_id": "MjgyNjU5NDAsMDAwMDAwMDBmNTQ3ZDA2NTBhZTM5ODczZTFjM2Q1ZDJiNWJhNWUzOQ==",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "1982 (Remix)",
-        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
-      },
-      "artists": [
-        {
-          "name": "Sodom",
-          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "1982 - Remix",
-      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Crossing Over (2023 Remaster)",
         "url": "https://open.spotify.com/album/2VkvsbyNjm1KP5GIYKtSUn"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 305757,
       "name": "Crossing Over - 2023 Remaster",
       "url": "https://open.spotify.com/track/1XLRqJpQF7nRVUKDb2oTtV"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "1982 (Remix)",
+        "url": "https://open.spotify.com/album/5ZoZ6gKFGJ8E4oiU7fMfMR"
+      },
+      "artists": [
+        {
+          "name": "Sodom",
+          "url": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "1982 - Remix",
+      "url": "https://open.spotify.com/track/0EG54WPNcosMeybB8AdgOP"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -339,6 +339,38 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Amphetamine Smiles",
+        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "This Is Home (Dark-Side Mix)",
+        "url": "https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 304887,
+      "name": "This Is Home - Dark-Side Mix",
+      "url": "https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Addicted to Romance (from the film 'She Came to Me')",
         "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
       },
@@ -355,22 +387,6 @@
       "duration_ms": 185013,
       "name": "Addicted to Romance - from the film 'She Came to Me'",
       "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Amphetamine Smiles",
-        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -419,22 +435,6 @@
       "duration_ms": 648267,
       "name": "Andante with Variations in F Minor, H.XVII:6 - Duca 516",
       "url": "https://open.spotify.com/track/6J2pJKriat9L0TNuzpU9aZ"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "This Is Home (Dark-Side Mix)",
-        "url": "https://open.spotify.com/album/1ijhRCbp5W9rLh6cCcCgt6"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 304887,
-      "name": "This Is Home - Dark-Side Mix",
-      "url": "https://open.spotify.com/track/7aA0fUnyi2tIGkZbsWRADb"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Death Smiles",
         "url": "https://open.spotify.com/album/1n707PSUo802nfoorSP0j5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 159500,
       "name": "Death Smiles",
       "url": "https://open.spotify.com/track/3RqoNA5WD78DPHLNHolEve"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 406306,
+      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
+      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Live 1978 - 1992",
-        "url": "https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 406306,
-      "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
-      "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
     },
     {
       "added_at": "2023-09-29 03:00:00",

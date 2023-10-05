@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Kamakshi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,361 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,365 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 50 | [Melt](https://open.spotify.com/track/5I8LXURY4AJdZHtsUfxGlx) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Melt](https://open.spotify.com/album/3Bkkh7N0ia6j5PhpDTQlkt) | 2:52 |
 | 51 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 
-Snapshot ID: `MCw2YzI1MTQ4YmNhZDRjZTQxMzI0MWVlODUzY2Y2MDJjNDg3MTAxYWI0`
+Snapshot ID: `MCwwZDQ3ZTNhZTVkMzMzYjg5YzI0ZDkyYWE4N2M3NGJlOGExYjI2MjFi`

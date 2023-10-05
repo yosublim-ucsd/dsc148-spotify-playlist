@@ -2,7 +2,7 @@
 
 ### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:4jLWtcGrESS5YvRip2ATmL">Niko Eme</a>
+> Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:6n6D2g1FuTmnFiMDD4RT42">Madiel Lara</a>
 
 1,245 songs - 3 day 17 hr 45 min
 

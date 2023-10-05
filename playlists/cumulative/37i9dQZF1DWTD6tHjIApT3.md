@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-1,775 songs - 4 day 18 hr 48 min
+1,776 songs - 4 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ame Ame Za Za](https://open.spotify.com/track/4YIkf8XEIp7CuQFRd2rFi3) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [22](https://open.spotify.com/album/50rge1kVFFAutYociAWxuu) | 1:44 | 2023-07-11 | 2023-07-26 |
 | [An Easy Girl](https://open.spotify.com/track/6YRKEs8N3LqUcNDbGoPMPZ) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [An Easy Girl](https://open.spotify.com/album/6J4VeS0MQVmhTJ4FLjdEqa) | 2:57 | 2023-02-14 | 2023-03-01 |
 | [Anata no Koibito ni Naritainodesu \- 2023 Acoustic Ver.](https://open.spotify.com/track/22w0lcJ8BONGcrXoa3Bvdn) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Acoustic \-Self Cover Album\-](https://open.spotify.com/album/47ZFoBWIddVjqRCAqd7DCz) | 5:34 | 2023-09-19 |  |
-| [Angel’s Fake](https://open.spotify.com/track/50irF70TpepGqUAZAeLY1q) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Angel’s Fake](https://open.spotify.com/album/7bSE2p3wyC1vnOtn9vgXxw) | 2:47 | 2023-09-26 |  |
+| [Angel’s Fake](https://open.spotify.com/track/50irF70TpepGqUAZAeLY1q) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Angel’s Fake](https://open.spotify.com/album/7bSE2p3wyC1vnOtn9vgXxw) | 2:47 | 2023-09-26 | 2023-10-05 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 | 2023-04-19 |
 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 | 2022-05-31 | 2022-11-24 |
@@ -569,6 +569,7 @@
 | [Mellow](https://open.spotify.com/track/5ll15QsCP6wVjDipn8FlLo) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 4:00 | 2023-09-27 | 2023-10-04 |
 | [Melon](https://open.spotify.com/track/4xe4qAbgXitdQayGBnVeXT) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/1VOybJiXDbg2eRTBidpNDE) | 4:12 | 2023-04-25 | 2023-05-03 |
 | [Melon](https://open.spotify.com/track/7GZ2Y8lYqyzQ2b20RLGNLJ) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Melon](https://open.spotify.com/album/0jkjGMEXFfTA3SZgfGLV5p) | 4:12 | 2023-04-25 | 2023-04-27 |
+| [Memai](https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG) | [Mei Watanabe](https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y) | [Memai](https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz) | 3:41 | 2023-10-03 |  |
 | [Memories](https://open.spotify.com/track/7vDvrWD0b8Ff5BF4zU00Pl) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Memories](https://open.spotify.com/album/6W69O0ITYeU5NJfmMgq6Q9) | 2:51 | 2023-05-23 | 2023-06-21 |
 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 | 2023-08-29 |  |
 | [merry\-go\-round](https://open.spotify.com/track/3CYemzVuuyf3dJoC6Wq201) | [植城 微香](https://open.spotify.com/artist/0eI7jwIoQ82C2fZcwRpZUs) | [merry\-go\-round](https://open.spotify.com/album/3KeUgKf3pF8zW4v0BitGub) | 4:39 | 2022-11-08 | 2022-11-16 |
@@ -1147,7 +1148,7 @@
 | [はなむけの歌](https://open.spotify.com/track/3mZVSIHse4wetcIUc21ukK) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [はなむけの歌](https://open.spotify.com/album/2GiA5qyValMUHvMvDDa5Y2) | 4:29 | 2022-06-07 | 2022-06-27 |
 | [ひかりのはなし](https://open.spotify.com/track/3yxCQpvmHOd2OOLmcghJEA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ひかりのはなし](https://open.spotify.com/album/6IFxKWApysHfpQIYN524xw) | 5:53 | 2022-07-26 | 2022-08-03 |
 | [ひかりの国](https://open.spotify.com/track/5fH0ynHoRCXR7VIYCflBPC) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりの国](https://open.spotify.com/album/15RcfQBTOcXLC1t5X9bn3r) | 5:16 | 2022-06-07 | 2022-07-06 |
-| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 | 2023-09-01 |
+| [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 | 2022-10-04 |  |
 | [ひとりじゃないから](https://open.spotify.com/track/60wJcpxSTj2uG90ym05f48) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ひとりじゃないから](https://open.spotify.com/album/00CjrzTKlfuDIeDyzxtV4u) | 3:34 | 2022-05-29 | 2022-07-27 |
 | [ひるねの国](https://open.spotify.com/track/7x0x7RjQ0xQEKsfds73MGW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [ひるねの国](https://open.spotify.com/album/42FD62QpX9fh4PUcKjSRXM) | 3:06 | 2023-05-16 | 2023-05-18 |
 | [ふうらい](https://open.spotify.com/track/4oEvF0PQaGrsRUrLODHNIx) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [ふうらい](https://open.spotify.com/album/7gAtFAU2BNh9ofR9YBSz5q) | 3:48 | 2022-11-10 | 2022-11-16 |
@@ -1657,7 +1658,7 @@
 | [百年十色](https://open.spotify.com/track/1wj370kj3muqbT0xejvX0S) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 4:46 | 2022-05-29 | 2022-07-29 |
 | [目覚め](https://open.spotify.com/track/0q8g8WKC30aYKLzagg0A1v) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:05 | 2022-05-29 | 2022-07-26 |
 | [真夜中のドア\~stay with me \- 2023 mix](https://open.spotify.com/track/1sfhFHNgn4R4Lxqlkup47k) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [POCKET PARK \(2023 mix\)](https://open.spotify.com/album/3fA5gpK2BflSMg7pMjzAFM) | 5:10 | 2023-06-20 | 2023-06-22 |
-| [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 | 2023-10-03 |  |
+| [眩暈](https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18) | [ワタナベ・メイ](https://open.spotify.com/artist/4W4TTev4Ia8lbydPdZXUJ2) | [眩暈](https://open.spotify.com/album/4gjIWFcZiyLuojn7feSE0q) | 3:41 | 2023-10-03 | 2023-10-05 |
 | [瞬きと精神と君の歌と音楽と](https://open.spotify.com/track/0u6MZXPVfP9bAVuvGd4DgP) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [瞬きと精神と君の歌と音楽と](https://open.spotify.com/album/5TfDk5uhXOdMv8xgjODU1Q) | 3:55 | 2022-11-29 | 2022-12-01 |
 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 | 2023-07-13 |  |
 | [確かな午後](https://open.spotify.com/track/04p7onyglwuTJyhngcaMai) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [確かな午後](https://open.spotify.com/album/2FaDhj4GAeFQDyxR39OzHz) | 4:21 | 2022-07-05 | 2022-07-13 |

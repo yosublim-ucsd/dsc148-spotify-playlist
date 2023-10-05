@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3494,
+  "num_followers": 3497,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjUyYTBhNTEwMmE3YzJlM2FmNWJhNjFlOTM3MTYyZjcxYmUzNTZi",
+  "snapshot_id": "MCw3YjVjYzBlNjVmZmNlMjQxOGRjMDM0NTdjN2E3NWFlNzBlNTJiYTEx",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -143,6 +143,22 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        }
+      ],
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
         "name": "La Pasion",
         "url": "https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 187142,
       "name": "La Pasion",
       "url": "https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2021-12-03 21:38:02",

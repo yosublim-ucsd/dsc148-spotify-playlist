@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,390 likes - 56 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,392 likes - 56 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 27 | [Kimdi?](https://open.spotify.com/track/1Kxnp6VqY4xNIO561MQJ8b) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yine Sensiz](https://open.spotify.com/album/2N5Cp0xZ2gm0QqMWRCALQB) | 4:23 |
 | 28 | [Allah Uya](https://open.spotify.com/track/5GhrRWZZez52XUAlZ3aHRE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 4:31 |
 | 29 | [Soundiata](https://open.spotify.com/track/4aDPFzgACQHXikR70sRs0S) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Sa golo \(Kar Kar\)](https://open.spotify.com/album/5N5b1Tukw9Byvyz3ssStHo) | 6:10 |
-| 30 | [Anar](https://open.spotify.com/track/0Z25GoSOBwFgFhQicajNkT) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/1GivKstj7AyHIbd6z8jTYX) | 6:36 |
+| 30 | [Anar](https://open.spotify.com/track/7oaOJA5Ze1pjwD1G2FoXhh) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Sousoume Tamachek](https://open.spotify.com/album/0NjjaGa2PVAY22pi4B8nMM) | 6:36 |
 | 31 | [Al Hassidi Terei](https://open.spotify.com/track/4T86ekCWvGFiFxoa1fLssp) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:43 |
 | 32 | [Amzagh](https://open.spotify.com/track/56HN4bEP56M0qCGOArBap2) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Tamotaït](https://open.spotify.com/album/4BQzQk1C37UOLCnYko29Gd) | 4:17 |
 | 33 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 34 | [Allah Wakbarr](https://open.spotify.com/track/0OZuyF5vpDnlugDqwUivf9) | [Ofo The Black Company](https://open.spotify.com/artist/0BX4K3xwLgIqMqza4yS8eI) | [Allah Wakbarr](https://open.spotify.com/album/0RSCRrXDarngfb85RoFR2i) | 3:32 |
 | 35 | [Kara Toprak](https://open.spotify.com/track/7KBwZWuhVfscYVgWMhazEW) | [Aşık Veysel](https://open.spotify.com/artist/7rVsiFwBEEmTNoStle68F3) | [Aşık Veysel Arşiv 1](https://open.spotify.com/album/11uWjOHcCLBGJTSHXoLlgE) | 8:37 |
 | 36 | [Diaraby \(with Ry Cooder\)](https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 7:26 |
-| 37 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 |
+| 37 | [Tarhatazed](https://open.spotify.com/track/7uY3z3xwpGM2sOdiElpQAU) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/6HbPDJQcg8ms0PpOERZmXH) | 7:27 |
 | 38 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
 | 39 | [Koroso](https://open.spotify.com/track/5PYkrbKgSbD9dIN8U8E1jf) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 4:33 |
 | 40 | [Eghass Malan](https://open.spotify.com/track/79ewF7kpGeCwdZBuj8I8KN) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Eghass Malan](https://open.spotify.com/album/3ri5Fj0vI09Dhex4hnGxfn) | 4:49 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38snDqzaVVW.md) - [plain]
 | 55 | [Dimming of the Day](https://open.spotify.com/track/4SWme0PjIFPTwXLyVWGgOI) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Acoustic Classics](https://open.spotify.com/album/0jCVyzxYUUOyKYYlBUjGV0) | 3:18 |
 | 56 | [Hum Allah Hum Allah Hum Allah](https://open.spotify.com/track/71DfiueMJMIs8D0djEgiyz) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Jewels Of Thought](https://open.spotify.com/album/4eqjbUVRGuA1iM9Gt1UhaV) | 15:10 |
 
-Snapshot ID: `MCxkMzAwZjRmMDgzODdmMjE4NDU4ZjY2YTYzZjEwMGVhZmFiYThhNDMw`
+Snapshot ID: `MCwwZDE5NjFhMmY5NWFhNzBmZDYxNjM4NWM2YjdlZDZiNzNiMzE5Y2Vk`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDA5YTc4ZWQ2ZGZjNTg5YWMzY2JmZjVmYWMxZmZmMDZlNw==",
+  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDBjYmZiNDk4YjIxYjE3YjFlNDA4MDA5YTA5OWY3ODkzMA==",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
-      },
-      "artists": [
-        {
-          "name": "King Reign",
-          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "In a sentimental mood",
         "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 404375,
       "name": "In a sentimental mood",
       "url": "https://open.spotify.com/track/6uasGTRvjhX99lF921NDx0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
+      },
+      "artists": [
+        {
+          "name": "King Reign",
+          "url": "https://open.spotify.com/artist/2NBqojWIwPlNQC5yKru1OJ"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -211,30 +211,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Beach",
-        "url": "https://open.spotify.com/album/25yH1h8nWDbzjbbc3IfIlZ"
-      },
-      "artists": [
-        {
-          "name": "Advik Singh",
-          "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
-        },
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/7a4G35vQ0vHNNNk1SUiUZ6"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Beach",
-      "url": "https://open.spotify.com/track/5EGDvIfhcp8xmas20uQhRa"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Koala (secs on the beach Remix)",
         "url": "https://open.spotify.com/album/3s5BeXQUZh7bZrdCjLNd0Y"
       },
@@ -255,26 +231,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Our Time",
-        "url": "https://open.spotify.com/album/5u5XHO2brM8KxhP0ESUh1z"
+        "name": "FIESTA",
+        "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
       },
       "artists": [
         {
-          "name": "Norenot",
-          "url": "https://open.spotify.com/artist/5JJ7m73uymUpamsCJHzH8I"
+          "name": "Advik Singh",
+          "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
         },
         {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
         },
         {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
         }
       ],
-      "duration_ms": 200961,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/27LzPy4zTQYQzJMQrVbue8"
+      "duration_ms": 189500,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -335,22 +311,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Bushwick Cowboy",
-        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 243980,
-      "name": "Bushwick Cowboy",
-      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/6CcokXL3Z0k0ja95TqQmPY"
       },
@@ -371,18 +331,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
+        "name": "Bushwick Cowboy",
+        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
+      "duration_ms": 243980,
+      "name": "Bushwick Cowboy",
+      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -396,9 +356,25 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 287446,
-      "name": "Skyfall (Metal Version)",
-      "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
+      "duration_ms": 260495,
+      "name": "Dirty Diana (Metal Version)",
+      "url": "https://open.spotify.com/track/5lQQGw4qIhNpHP6pmViE4i"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1v4Ph9n95YfwzMXtKbc4mB"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -624,9 +600,9 @@
           "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Un bon son brut pour les truands - Live Studio",
-      "url": "https://open.spotify.com/track/6BtuNyPRCYyuWYoLE6T9TJ"
+      "duration_ms": 278333,
+      "name": "Je danse le mia - Live Studio",
+      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -663,42 +639,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Good Brother",
-        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
-      },
-      "artists": [
-        {
-          "name": "Justus West",
-          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 193390,
-      "name": "Good Brother",
-      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 612361,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "She Listen To Trap",
         "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
       },
@@ -723,6 +663,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Good Brother",
+        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
+      },
+      "artists": [
+        {
+          "name": "Justus West",
+          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 193390,
+      "name": "Good Brother",
+      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Le d\u00e9part",
         "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
       },
@@ -739,6 +699,22 @@
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Reveal",
+        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
+      },
+      "artists": [
+        {
+          "name": "Micah Thomas",
+          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
+        }
+      ],
+      "duration_ms": 482744,
+      "name": "Denardirn",
+      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

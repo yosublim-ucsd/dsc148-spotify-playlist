@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Chase. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Fariis. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 106032,
       "name": "103",
       "url": "https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1"
+    },
+    {
+      "album": {
+        "name": "3 Shoroot",
+        "url": "https://open.spotify.com/album/4ltpcjb8jfevv5AmQDQuKq"
+      },
+      "artists": [
+        {
+          "name": "Kokym",
+          "url": "https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "3 Shoroot",
+      "url": "https://open.spotify.com/track/3nISIjEGMkx6gddsXOcImZ"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 240705,
       "name": "Barcelona (End of the Line)",
       "url": "https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C"
@@ -362,6 +380,24 @@
       "duration_ms": 214000,
       "name": "Bashbah Emmbareh",
       "url": "https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq"
+    },
+    {
+      "album": {
+        "name": "Beginning of a New Chapter",
+        "url": "https://open.spotify.com/album/49TtcdL0qT6JF1zQg6FRbv"
+      },
+      "artists": [
+        {
+          "name": "FARIIS",
+          "url": "https://open.spotify.com/artist/0bqarDKT8KpH0DatC4k6vY"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167971,
+      "name": "Beginning of a New Chapter",
+      "url": "https://open.spotify.com/track/7HcPxC0zycaBSQxN6jwLVN"
     },
     {
       "album": {
@@ -1112,10 +1148,32 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 159661,
       "name": "FO2 YA 3BIT",
       "url": "https://open.spotify.com/track/2z3q0My73fl8nE1VEncMBU"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6mg20a2OSXxuajccPWGVm8"
+      },
+      "artists": [
+        {
+          "name": "KATARYA",
+          "url": "https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV"
+        },
+        {
+          "name": "Nouran",
+          "url": "https://open.spotify.com/artist/493Q4UpvdIsh3u2D4zSvP6"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182934,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7ptstvvTmIBlhEqWmWTDiH"
     },
     {
       "album": {
@@ -1554,7 +1612,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 235057,
       "name": "I Ask Nothing Of You",
       "url": "https://open.spotify.com/track/7LrMz49Z4NeadIuUA6Gtgn"
@@ -2919,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "perfect lover",
+        "url": "https://open.spotify.com/album/25fJxrWp75Ff5phaObqeBo"
+      },
+      "artists": [
+        {
+          "name": "Moelex",
+          "url": "https://open.spotify.com/artist/6vXFJ4s8h7xHmbLKMBUJU8"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213142,
+      "name": "perfect lover",
+      "url": "https://open.spotify.com/track/3jK3KsVbAtrBtTYtlucfoz"
+    },
+    {
+      "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k"
       },
@@ -3504,7 +3580,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 211048,
       "name": "Summa Song",
       "url": "https://open.spotify.com/track/2dTo3ReCWQ1mWrtMjlNd9B"
@@ -3526,6 +3602,24 @@
       "duration_ms": 168562,
       "name": "Summer Falls",
       "url": "https://open.spotify.com/track/3t7Y0G3ouDolA344PslWTh"
+    },
+    {
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/5KknXtIzlHmYtfTffhWVm4"
+      },
+      "artists": [
+        {
+          "name": "Nora Toutain",
+          "url": "https://open.spotify.com/artist/7LXP2eZLFZYdpUi29xOF1A"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204571,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/5Y6f8jUkusHxnKK1ILHG4e"
     },
     {
       "album": {
@@ -4072,7 +4166,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 151000,
       "name": "you know",
       "url": "https://open.spotify.com/track/5R6AgUJDrWay0cuO8enMez"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,952 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,070 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 20 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 21 | [Mahmouma](https://open.spotify.com/track/3miLA8urFK78rpi4sHb5te) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W) | [Mahmouma](https://open.spotify.com/album/0B1kHxnsb0xVsu2zee5U2u) | 2:22 |
 | 22 | [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 |
-| 23 | [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Matthyeux](https://open.spotify.com/artist/6oE1rW4wI9y4lISZ5NvyDp) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 |
+| 23 | [Amour plastique](https://open.spotify.com/track/0HDO6JFfplYPrSWuufUosZ) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF) | [Euphories](https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg) | 3:47 |
 | 24 | [Je la connais](https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Anarchie](https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5) | 3:39 |
 | 25 | [Chou Daddy](https://open.spotify.com/track/0k8BfK43wucvEDpvVpU2Py) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Chou Daddy](https://open.spotify.com/album/7gk1ye4LIJ3WwJTVK2G1gR) | 1:28 |
 | 26 | [Banlieusards](https://open.spotify.com/track/0yFCrb2x6KTwZjY90Z7iIP) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle) | [À l'ombre du show business](https://open.spotify.com/album/7MgKD8DNqHdWDWJlcscMSU) | 7:49 |

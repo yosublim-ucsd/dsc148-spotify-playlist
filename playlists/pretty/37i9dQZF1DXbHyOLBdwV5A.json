@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 114887,
+  "num_followers": 114941,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzExMGQ1NTYxN2RmNWIwOTFlZmJlMTRhZGQ1MDBlNjc4OTEwOTFk",
+  "snapshot_id": "MCxmOGUzMmRkM2U5ZDMxZWYzZmY0MDRhM2NhMDFlMGZiYjJhYjUxMTcx",
   "tracks": [
     {
       "added_at": "2023-09-15 22:07:17",
@@ -167,8 +167,8 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "Pode Morar Aqui (Remix)",
-        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
+        "name": "S\u00f3 o Come\u00e7o (Remix)",
+        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
       },
       "artists": [
         {
@@ -176,17 +176,13 @@
           "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "M\u00cbDNA",
-          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Pode Morar Aqui - Remix",
-      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
+      "duration_ms": 243750,
+      "name": "S\u00f3 o Come\u00e7o - Remix",
+      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
     },
     {
       "added_at": "2023-09-15 22:07:17",
@@ -339,26 +335,6 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Val\u00e9ria Amanaj\u00e1z",
-          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
-        }
-      ],
-      "duration_ms": 160818,
-      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
-      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
-    },
-    {
-      "added_at": "2023-09-15 22:07:17",
-      "album": {
         "name": "Eu Confio Em Ti (Remix)",
         "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
@@ -383,8 +359,28 @@
     {
       "added_at": "2023-09-15 22:07:17",
       "album": {
-        "name": "S\u00f3 o Come\u00e7o (Remix)",
-        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
+        "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+        "url": "https://open.spotify.com/album/7uOOb6I4j5v2J65kWjRrKS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Val\u00e9ria Amanaj\u00e1z",
+          "url": "https://open.spotify.com/artist/2cjN4qvOzLumg97QS0ZCPM"
+        }
+      ],
+      "duration_ms": 160818,
+      "name": "Vivo Est\u00e1s (feat. Val\u00e9ria Amanaj\u00e1z)",
+      "url": "https://open.spotify.com/track/61PHeyXdbZnXkd1oKkrdQL"
+    },
+    {
+      "added_at": "2023-09-15 22:07:17",
+      "album": {
+        "name": "Pode Morar Aqui (Remix)",
+        "url": "https://open.spotify.com/album/1VinOknA5ejR8imqhUsbYP"
       },
       "artists": [
         {
@@ -392,13 +388,17 @@
           "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         },
         {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "M\u00cbDNA",
+          "url": "https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd"
         }
       ],
-      "duration_ms": 243750,
-      "name": "S\u00f3 o Come\u00e7o - Remix",
-      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
+      "duration_ms": 186666,
+      "name": "Pode Morar Aqui - Remix",
+      "url": "https://open.spotify.com/track/6pTd7vUXSGW19gGXuESNgE"
     },
     {
       "added_at": "2023-09-15 22:07:17",

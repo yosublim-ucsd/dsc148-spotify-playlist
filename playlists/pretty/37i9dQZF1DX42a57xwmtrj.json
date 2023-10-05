@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 150303,
+  "num_followers": 150391,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzVmNjg4YmJmYWUzMzFkZGE5M2JmNjVhZGFlMGQzZTJjYmNiMWUw",
+  "snapshot_id": "MCw3ODNhODAwYmI1ZTI5YTgzMGQ2MzgyN2ZjZjZmNWJiOWIzM2VjZDVi",
   "tracks": [
     {
       "added_at": "2023-09-08 23:25:31",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 265589,
-      "name": "No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 265589,
+      "name": "No Tengo Tiempo",
+      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
-      },
-      "artists": [
-        {
-          "name": "Karatula",
-          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Al Final Llor\u00e9",
-      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 202666,
       "name": "Te Vas a Acordar de M\u00ed",
       "url": "https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
+      },
+      "artists": [
+        {
+          "name": "Karatula",
+          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Al Final Llor\u00e9",
+      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -475,38 +475,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 418795,
-      "name": "Barco Azul - Remastered",
-      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
-      },
-      "artists": [
-        {
-          "name": "Sur 16",
-          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "En Dos",
-      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Cuando t\u00fa no est\u00e1s",
         "url": "https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
         "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188373,
       "name": "Ahora Que No Vives Conmigo",
       "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
+      },
+      "artists": [
+        {
+          "name": "Sur 16",
+          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "En Dos",
+      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Inhalando Amor",
-        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
-      },
-      "artists": [
-        {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Inhalando Amor",
-      "url": "https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Lo Mejor de Tex Tex",
-        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+        "name": "Inhalando Amor",
+        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
       },
       "artists": [
         {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
         }
       ],
-      "duration_ms": 254275,
-      "name": "Un Toque M\u00e1gico",
-      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
+      "duration_ms": 244160,
+      "name": "Inhalando Amor",
+      "url": "https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -667,6 +651,22 @@
       "duration_ms": 254466,
       "name": "Viajero",
       "url": "https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Lo Mejor de Tex Tex",
+        "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 254275,
+      "name": "Un Toque M\u00e1gico",
+      "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 168948,
-      "name": "Fue en un Caf\u00e9",
-      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Todos Estos A\u00f1os, Vol. 1",
         "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 256394,
       "name": "Vaquero Rockanrolero",
       "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 168948,
+      "name": "Fue en un Caf\u00e9",
+      "url": "https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 203685,
-      "name": "Asalto Chido",
-      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/48SFSSTFxF8Hlih5D2t5Jb"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 261038,
       "name": "Como Dona a Su Agujero",
       "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 203685,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Los Nopales Tienen la Fuerza",
-        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
       "artists": [
         {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
         }
       ],
-      "duration_ms": 389863,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
+      "duration_ms": 287986,
+      "name": "Tlatelolco 68",
+      "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
-      },
-      "artists": [
-        {
-          "name": "Banda Bostik",
-          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Tlatelolco 68",
-      "url": "https://open.spotify.com/track/0IpAufJEjttMegWQvxcI2i"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "Inhalando Amor",
         "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 291426,
       "name": "Que Ser\u00e1 de M\u00ed",
       "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Los Nopales Tienen la Fuerza",
+        "url": "https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 389863,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Los Versos de la Catrina",
-        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 247453,
-      "name": "Los Versos de la Catrina",
-      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 255053,
       "name": "Dolor de Madre",
       "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Los Versos de la Catrina",
+        "url": "https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "duration_ms": 247453,
+      "name": "Los Versos de la Catrina",
+      "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
     },
     {
       "added_at": "2023-09-08 23:25:31",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-09-08 23:25:31",
       "album": {
-        "name": "Botellita De Jerez",
-        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Alarmala De Tos",
-      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
-    },
-    {
-      "added_at": "2023-09-08 23:25:31",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+    },
+    {
+      "added_at": "2023-09-08 23:25:31",
+      "album": {
+        "name": "Botellita De Jerez",
+        "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Alarmala De Tos",
+      "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
     },
     {
       "added_at": "2023-09-08 23:25:31",

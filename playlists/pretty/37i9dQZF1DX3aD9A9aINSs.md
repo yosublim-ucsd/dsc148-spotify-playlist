@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Cumhuriyetin 100\. yılında Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Müzeyyen Senar
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,247 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,483 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 39 | [histeri](https://open.spotify.com/track/0XyQFlJPmUiL1B9YE4ijF2) | [Hazel](https://open.spotify.com/artist/5uSR40kJGxuUln9hTSN62C) | [histeri](https://open.spotify.com/album/1Hdpifqlp3qynu2tIso42C) | 2:03 |
 | 40 | [Ne Huysuz Adam](https://open.spotify.com/track/7yP7c3iX7sROrI5BuKoXHT) | [Damla Eker](https://open.spotify.com/artist/4Fno7dc6IkYTkUpkRgN5fy) | [Ne Huysuz Adam](https://open.spotify.com/album/7G34lcr1LCmQJ0zGcsUTqt) | 3:30 |
 | 41 | [Adın Tövbe](https://open.spotify.com/track/4NJUGSlg5HKjqtO15Rfzq1) | [Elvan Günaydın](https://open.spotify.com/artist/0mNxtGmbl3R6xfgb4JjdrK) | [Adın Tövbe](https://open.spotify.com/album/1m7wNs3T1BvvX4LWNU99ae) | 2:58 |
-| 42 | [A Slice Of Dreamscape](https://open.spotify.com/track/69EE9wcxPLUaqpgdv6Rs8A) | [Yağmur Sarıgül](https://open.spotify.com/artist/2kX1EHkYJef0HT2iuGnIaH) | [A Slice Of Dreamscape](https://open.spotify.com/album/1MimwcoMubEpgJyh2YiFdy) | 3:29 |
-| 43 | [Sev Hadi](https://open.spotify.com/track/3SxgyzdkCOiVw3juEgq6SV) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Sev Hadi](https://open.spotify.com/album/6kklyS7xjISdalwSAyT5Dk) | 2:57 |
-| 44 | [Bil İstedim](https://open.spotify.com/track/56iXpLbiW7muYzm9ChnPyC) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Bil İstedim](https://open.spotify.com/album/1P71zlHMXE9HUNghsZWnEq) | 2:26 |
-| 45 | [Biology](https://open.spotify.com/track/3bYX2k2anibCs00oLsyVE3) | [Hiss](https://open.spotify.com/artist/3G5xL8UA1bD6a2i4o1AvwF) | [Biology](https://open.spotify.com/album/4UIzi2r8ZsIYYHAfFOqHxx) | 2:59 |
-| 46 | [Bu Gece](https://open.spotify.com/track/3f6i4orMTDvsVq86mAZEk9) | [Tuğçe Şenoğul](https://open.spotify.com/artist/0BSQ8y2wIx6pK8bjisf30l) | [Bu Gece](https://open.spotify.com/album/3ZkyUkmTu3pQmI6qT3wzzR) | 3:36 |
-| 47 | [Ağam Da Ben Sivaslıyam](https://open.spotify.com/track/01p8pspso9VeuEH5Aehkzl) | [Aylin Demir](https://open.spotify.com/artist/6ZEvuMWAUu9h7TmSbQKcPZ) | [Ağam Da Ben Sivaslıyam](https://open.spotify.com/album/0IqV38yT40AaTZoD8whJRc) | 3:24 |
+| 42 | [Sev Hadi](https://open.spotify.com/track/3SxgyzdkCOiVw3juEgq6SV) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Sev Hadi](https://open.spotify.com/album/6kklyS7xjISdalwSAyT5Dk) | 2:57 |
+| 43 | [Bil İstedim](https://open.spotify.com/track/56iXpLbiW7muYzm9ChnPyC) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Bil İstedim](https://open.spotify.com/album/1P71zlHMXE9HUNghsZWnEq) | 2:26 |
+| 44 | [Biology](https://open.spotify.com/track/3bYX2k2anibCs00oLsyVE3) | [Hiss](https://open.spotify.com/artist/3G5xL8UA1bD6a2i4o1AvwF) | [Biology](https://open.spotify.com/album/4UIzi2r8ZsIYYHAfFOqHxx) | 2:59 |
+| 45 | [Bu Gece](https://open.spotify.com/track/3f6i4orMTDvsVq86mAZEk9) | [Tuğçe Şenoğul](https://open.spotify.com/artist/0BSQ8y2wIx6pK8bjisf30l) | [Bu Gece](https://open.spotify.com/album/3ZkyUkmTu3pQmI6qT3wzzR) | 3:36 |
+| 46 | [Ağam Da Ben Sivaslıyam](https://open.spotify.com/track/01p8pspso9VeuEH5Aehkzl) | [Aylin Demir](https://open.spotify.com/artist/6ZEvuMWAUu9h7TmSbQKcPZ) | [Ağam Da Ben Sivaslıyam](https://open.spotify.com/album/0IqV38yT40AaTZoD8whJRc) | 3:24 |
+| 47 | [Beni Duy](https://open.spotify.com/track/6xRkTn8XHQ9mit9LRcqC42) | [Burcu Furtun](https://open.spotify.com/artist/2srKU1zT0M4hVbgqwkYTtJ) | [Beni Duy](https://open.spotify.com/album/1fICnGdZoHLtxexjH4oF10) | 3:11 |
 | 48 | [Deniz Tuzu](https://open.spotify.com/track/3YbfQE4x4sSW9IUB7BF5c4) | [Eda Atlas](https://open.spotify.com/artist/7evFI1HE86akQXdNhdWJVd) | [Deniz Tuzu](https://open.spotify.com/album/6sBbY0HIxxMPDkz82kv9Rc) | 2:28 |
 | 49 | [Gece Kal](https://open.spotify.com/track/7oQmMYl1XCeUcDxstnWBbw) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Gece Kal](https://open.spotify.com/album/6YOuhbpjklmP2QBbEgSagE) | 2:26 |
 | 50 | [Aşka İnandık](https://open.spotify.com/track/4U9GY1WAmfIUnbgbzSy820) | [Cevher](https://open.spotify.com/artist/5jUaU1L6PePJadPjzKYFXf) | [Aşka İnandık](https://open.spotify.com/album/6opFBGhv7ESX7xkwmwDrKK) | 4:28 |
 
-Snapshot ID: `MCxlZjRlYTUzOTQzNDFmMWRjODNhMGZiOTM5NmVhNTZlOWU4NTkyN2Nh`
+Snapshot ID: `MCxjZGYyNTE5YjEzOTViOWFkYjJlZjQxODJjNjQ5NjYzMjgzODM3NTYw`

@@ -4,7 +4,7 @@
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-173 songs - 9 hr 55 min
+174 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Hold Me Up](https://open.spotify.com/track/7DfIDN6rPq46vu648YhlT6) | [Velvet Crush](https://open.spotify.com/artist/3d1zFz2gPJbDaQDTsyNmbZ) | [Teenage Symphonies To God](https://open.spotify.com/album/6N2CirqrRo0J3yrSR59ZJG) | 2:58 | 2023-03-21 |  |
 | [I Don't Like Your Face](https://open.spotify.com/track/6sSXlaw3tSUNhETDlG5WoQ) | [The Heats](https://open.spotify.com/artist/0duYKsd7JEqkxQtXsqnTnP) | [Have an Idea \(Bonus Tracks\)](https://open.spotify.com/album/5Eh7ajjvP7ExrsCe1QAFhg) | 2:24 | 2023-03-21 |  |
 | [I Go Wild](https://open.spotify.com/track/0EN1NBUVjdYCuU0qxtz91d) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/7CTdTktHffHXyuQsOupDf6) | 2:49 | 2023-03-21 | 2023-04-29 |
-| [I Go Wild](https://open.spotify.com/track/4mipXE0NSZwqGkqv7ZoRth) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/1JVVrK1m0XY19jutSoGC1Z) | 2:49 | 2023-03-21 |  |
+| [I Go Wild](https://open.spotify.com/track/2hytg2cgAoXQXZV1YrNGcH) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [The Hidden World Revealed](https://open.spotify.com/album/1RNmCxEYGhAqUu9voIhbRw) | 2:49 | 2023-03-21 |  |
+| [I Go Wild](https://open.spotify.com/track/4mipXE0NSZwqGkqv7ZoRth) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/1JVVrK1m0XY19jutSoGC1Z) | 2:49 | 2023-03-21 | 2023-10-05 |
 | [I Got You](https://open.spotify.com/track/3KOPorZiKeW6gFeIViqMoq) | [Split Enz](https://open.spotify.com/artist/0Upmz8QvuLAkKAfRlJYWTL) | [True Colours](https://open.spotify.com/album/5UjwQ3co1TWY9458ojqjAj) | 3:29 | 2023-03-21 |  |
 | [I Live](https://open.spotify.com/track/3D4gFGqqytH7NP5R9gkned) | [Jason Falkner](https://open.spotify.com/artist/5DSSaD2HBvTDwGTsxLGjHb) | [Presents Author Unknown](https://open.spotify.com/album/3hJb5LZwOEPs42JChnkVO5) | 3:11 | 2023-03-21 |  |
 | [I Melt with You](https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 4:11 | 2021-12-16 | 2023-03-22 |

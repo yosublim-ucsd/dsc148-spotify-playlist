@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 299328,
+  "num_followers": 299473,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDA0YjNhNjAxNjI5MzljOGU4MDM1ZGIzMzc5YmQ3MzM0ZGJkZjM1",
+  "snapshot_id": "MCwwMGMwYzhlMmZmN2QxMWY2NWFhZjRhNWIyNmFiYjhjODZmMTRmYjZj",
   "tracks": [
     {
       "added_at": "2023-09-29 18:57:01",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
+        "name": "Yggdrasil",
+        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
+      },
+      "artists": [
+        {
+          "name": "Erdling",
+          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Blizzard",
+      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
         "name": "Merchant of the Void",
         "url": "https://open.spotify.com/album/4DpUdsgqbQekAluRjffr08"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 212814,
       "name": "Merchant of the Void",
       "url": "https://open.spotify.com/track/3BIQ9Y3WCwRWZju6jHXHuA"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
-        "name": "Yggdrasil",
-        "url": "https://open.spotify.com/album/7vQ4OHJ5VSq6M4M3bLKoAa"
-      },
-      "artists": [
-        {
-          "name": "Erdling",
-          "url": "https://open.spotify.com/artist/1YbFcjdUGqumvNIWLVGcJK"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "Blizzard",
-      "url": "https://open.spotify.com/track/2n0lbf90sDwDXqLiZP1j2j"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Re-Industrialized",
-        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Recharger",
-      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
         "name": "Angst",
         "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 215000,
       "name": "A Drug Against War",
       "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Re-Industrialized",
+        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Recharger",
+      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+        "name": "www.pitchshifter.com",
+        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
       },
       "artists": [
         {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+          "name": "Pitchshifter",
+          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
         }
       ],
-      "duration_ms": 216840,
-      "name": "The Thing I Hate",
-      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
+      "duration_ms": 246506,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1043,34 +1043,18 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
       },
       "artists": [
         {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 316701,
-      "name": "Into the Void",
-      "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
+      "duration_ms": 216840,
+      "name": "The Thing I Hate",
+      "url": "https://open.spotify.com/track/4ibsb2epoSHZzDCeoZEluQ"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1087,6 +1071,22 @@
       "duration_ms": 201293,
       "name": "Verr\u00fcckt - Original Version",
       "url": "https://open.spotify.com/track/6gHB5QPToHSrbWA2Vy5LON"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 316701,
+      "name": "Into the Void",
+      "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
+        "name": "Termination Bliss",
+        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
+      },
+      "artists": [
+        {
+          "name": "Deathstars",
+          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
+        }
+      ],
+      "duration_ms": 246160,
+      "name": "Blitzkrieg",
+      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
         "name": "Hengit\u00e4",
         "url": "https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
-        "name": "Termination Bliss",
-        "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
-      },
-      "artists": [
-        {
-          "name": "Deathstars",
-          "url": "https://open.spotify.com/artist/4Tg06Sex4LzwcgVdfRrHlp"
-        }
-      ],
-      "duration_ms": 246160,
-      "name": "Blitzkrieg",
-      "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Eurotrash",
-        "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
-      },
-      "artists": [
-        {
-          "name": "Zeromancer",
-          "url": "https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Doctor Online",
-      "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
         "name": "Linger Ficken' Good...And Other Barnyard Oddities",
         "url": "https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 337226,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Eurotrash",
+        "url": "https://open.spotify.com/album/63o4mkCR9nAyiAsKA1UlxI"
+      },
+      "artists": [
+        {
+          "name": "Zeromancer",
+          "url": "https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Doctor Online",
+      "url": "https://open.spotify.com/track/0aZQyZyQ41fb12tJdYVa5H"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Come Back to Life",
-        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
-      },
-      "artists": [
-        {
-          "name": "Lock The Basement",
-          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Come Back to Life",
-      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
         "name": "Prey & Obey",
         "url": "https://open.spotify.com/album/2ybC8wJprmJBBbZHJtzGJr"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 286974,
       "name": "Prey & Obey",
       "url": "https://open.spotify.com/track/010zNby24HBoMyMZClgViJ"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Come Back to Life",
+        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
+      },
+      "artists": [
+        {
+          "name": "Lock The Basement",
+          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
     },
     {
       "added_at": "2023-09-29 18:57:01",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-09-29 18:57:01",
       "album": {
-        "name": "Killer Quinn",
-        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
-      },
-      "artists": [
-        {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Killer Quinn",
-      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
-    },
-    {
-      "added_at": "2023-09-29 18:57:01",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/6YlEOQA5byMK5kM6CbZGXA"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 187422,
       "name": "Justice Way",
       "url": "https://open.spotify.com/track/22YDeLoN7Oe4t6OKKOLRz2"
+    },
+    {
+      "added_at": "2023-09-29 18:57:01",
+      "album": {
+        "name": "Killer Quinn",
+        "url": "https://open.spotify.com/album/3WRtHLiv4uw6pkxx0Bbddd"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        }
+      ],
+      "duration_ms": 179178,
+      "name": "Killer Quinn",
+      "url": "https://open.spotify.com/track/0nuPTlaHKknCMqwkiIgqSf"
     },
     {
       "added_at": "2023-09-29 18:57:01",

@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Dance in Silence",
+        "url": "https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229931,
+      "name": "Dance in Silence",
+      "url": "https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x"
+    },
+    {
+      "album": {
         "name": "Dance like a monkey feat. \u68ee",
         "url": "https://open.spotify.com/album/6o0QkzbPh2a7UsmOuEm7EP"
       },
@@ -6435,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "Memai",
+        "url": "https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz"
+      },
+      "artists": [
+        {
+          "name": "Mei Watanabe",
+          "url": "https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221029,
+      "name": "Memai",
+      "url": "https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG"
+    },
+    {
+      "album": {
         "name": "CHAPTER I: MEMENTO MOLLY",
         "url": "https://open.spotify.com/album/6D3UFoo05uS97YwuW8En48"
       },
@@ -7340,7 +7376,7 @@
     {
       "album": {
         "name": "Toy box",
-        "url": "https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN"
+        "url": "https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo"
       },
       "artists": [
         {
@@ -7351,6 +7387,24 @@
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 230053,
+      "name": "No.11",
+      "url": "https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7"
+    },
+    {
+      "album": {
+        "name": "Toy box",
+        "url": "https://open.spotify.com/album/3l2UAoF305fKigFWyUiUaN"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
       "duration_ms": 230053,
       "name": "No.11",
       "url": "https://open.spotify.com/track/5k476EgU88agg4tU6ZRWxE"
@@ -7488,7 +7542,7 @@
     {
       "album": {
         "name": "nYc",
-        "url": "https://open.spotify.com/album/1cJabE1Ju2RUnFNRAGxsXQ"
+        "url": "https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7"
       },
       "artists": [
         {
@@ -7499,6 +7553,24 @@
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262267,
+      "name": "nYc",
+      "url": "https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3"
+    },
+    {
+      "album": {
+        "name": "nYc",
+        "url": "https://open.spotify.com/album/1cJabE1Ju2RUnFNRAGxsXQ"
+      },
+      "artists": [
+        {
+          "name": "Nephew",
+          "url": "https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
       "duration_ms": 262267,
       "name": "nYc",
       "url": "https://open.spotify.com/track/4tsZ5Ye3Y6wdoj37dIQtrR"
@@ -14476,7 +14548,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 229931,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
@@ -19670,7 +19742,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 221029,
       "name": "\u7729\u6688",
       "url": "https://open.spotify.com/track/5BStl4Oz3RLf598O9Emx18"

@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 7 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 |
 | 8 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 |
 | 9 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
-| 10 | [Grind](https://open.spotify.com/track/2wN5MOqC1C9UeUjw4Z4DPo) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Grind](https://open.spotify.com/album/59IqtbSMonpFQaM1WngQig) | 3:47 |
+| 10 | [Grind](https://open.spotify.com/track/7Dj32Xs4kkH7MUvtaM6Jum) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Grind](https://open.spotify.com/album/7wVLW2LJ6hCYuUUpLqzGoZ) | 3:53 |
 | 11 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 12 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 13 | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Yung C](https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW) | [Wiase \(Y3d3 Remix\)](https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 49 | [Kilofeshe](https://open.spotify.com/track/78OD9RZjAyQcfsAigmRuGs) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kilofeshe](https://open.spotify.com/album/4rcjl8nuXNh4cZDaavVoib) | 2:45 |
 | 50 | [Feeling](https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/7HUbrb8z5gdwm9OoPEDh5A) | 3:44 |
 
-Snapshot ID: `MCxkY2Y2MjBhYmY5M2I1ZWM3NDI4OGZiYTcwY2IxOGQ0NDI5Njg2YmNi`
+Snapshot ID: `MCw4MzIwM2I4M2E1Njc2YWQ3MDRkM2I0Y2YxOWFkMWFjOTVmNmEzZjNj`

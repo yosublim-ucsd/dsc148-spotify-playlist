@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Fre\_nky
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,954 likes - 55 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,982 likes - 55 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [HUSTLE](https://open.spotify.com/track/2GA2X9ppNsPpcMgBfpszA8) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [HUSTLE](https://open.spotify.com/album/5OtNvzXxBQFKp4J63xwoRX) | 2:17 |
 | 55 | ["Bisiness"](https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0) | [Totó Valentino](https://open.spotify.com/artist/4TR1rLViZ0TMo5gdvSVVZr), [Nessuno](https://open.spotify.com/artist/7BMPwaB9s6d7J33bIPp8Z5) | ["Bisiness"](https://open.spotify.com/album/1VvBBQLEK5qmoXtTsOtCrh) | 2:39 |
 
-Snapshot ID: `MCxlMDRmODIyYTE4YjcxOGQ4YTJiYmMzNjRlZmE1ZGM4MGNkNjIwMDZm`
+Snapshot ID: `MCxlY2ExYmUwMmI2YTMzNGFiODAxZTc2YmU5ZTFkN2NjOWUxZmYyNTBk`

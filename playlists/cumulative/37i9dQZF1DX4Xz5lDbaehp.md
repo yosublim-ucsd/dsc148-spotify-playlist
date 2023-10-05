@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-178 songs - 9 hr 14 min
+179 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Deep Blue](https://open.spotify.com/track/1c6xkwwhc0T5JdU2oiTFkH) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Deep Blue](https://open.spotify.com/album/7f9VlhNeNi5zc0URre6H6I) | 2:58 | 2021-12-01 |  |
 | [Desert Star](https://open.spotify.com/track/4uiF1V2eIPSMgR2V4smhCC) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Desert Star](https://open.spotify.com/album/68dJWfmQ7tPR3hXiWGIqCt) | 3:44 | 2021-12-01 |  |
 | [Desert Star](https://open.spotify.com/track/69YmUuwCxVvz7bVTmD6rwI) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Dance Party: Dusk to Dawn](https://open.spotify.com/album/55uuQhOQI0ErVaUSBBBQkT) | 3:44 | 2021-12-01 | 2022-11-13 |
-| [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 | 2021-12-01 |  |
+| [Different Ways To Love You](https://open.spotify.com/track/3c8F53GrfpggDi0rReqzz9) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/3kFYBRP7LCkRioKnu1KlUV) | 3:51 | 2021-12-01 |  |
+| [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 | 2021-12-01 | 2023-10-05 |
 | [do you](https://open.spotify.com/track/1d1cjO1tT6hg2CoQrGUYkO) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [do you](https://open.spotify.com/album/0kVSCxhSeQl5tam2CrJUt4) | 2:28 | 2021-12-01 |  |
 | [Dragonfly](https://open.spotify.com/track/1hjAmj9H76OpPHs02Fbb5g) | [Fauness](https://open.spotify.com/artist/14nslvWjmuHwa9mEG4gGip) | [Dragonfly](https://open.spotify.com/album/0s2LAkNYxMlMgjTsLWUNoE) | 3:19 | 2021-12-01 |  |
 | [Drive](https://open.spotify.com/track/2zqHx2d8a0NfhoE7wVJqqK) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/3IbZgaXPhwowfAOCudOkwa) | 3:34 | 2021-12-01 |  |

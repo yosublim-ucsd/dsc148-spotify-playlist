@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,422 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,459 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 53 | [Go All The Way](https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy) | [Raspberries](https://open.spotify.com/artist/7Kkx4dACo6kFSeT9wjfVA5) | [Raspberries](https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv) | 3:25 |
 | 54 | [I Think We're Alone Now](https://open.spotify.com/track/7hvoyetcJ26N0123e9lhkf) | [The Rubinoos](https://open.spotify.com/artist/0ShV0veaBj1NvWRORhuwlI) | [The Rubinoos](https://open.spotify.com/album/0drPiWHpiLmSaycxwc41T6) | 2:56 |
 | 55 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
-| 56 | [I Go Wild](https://open.spotify.com/track/4mipXE0NSZwqGkqv7ZoRth) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [Baroque Hoedown](https://open.spotify.com/album/1JVVrK1m0XY19jutSoGC1Z) | 2:49 |
+| 56 | [I Go Wild](https://open.spotify.com/track/2hytg2cgAoXQXZV1YrNGcH) | [The Three O'Clock](https://open.spotify.com/artist/3iayA3QkB3jfkUgcXqsL7C) | [The Hidden World Revealed](https://open.spotify.com/album/1RNmCxEYGhAqUu9voIhbRw) | 2:49 |
 | 57 | [Another Girl Another Planet](https://open.spotify.com/track/0PDZ4Rgj36MxVgvoMv3sk5) | [The Only Ones](https://open.spotify.com/artist/16VudBYGOd9sMpOtA0szfp) | [Another Girl Another Planet The Best Of](https://open.spotify.com/album/5G4f8hTTzGH0QGqGeQjsS1) | 3:00 |
 | 58 | [She Goes out with Everybody](https://open.spotify.com/track/4wLASW3FebRjyPPlNpK0NP) | [The Spongetones](https://open.spotify.com/artist/2kDyODn1VxVZXZQxsEvHFG) | [Beat & Torn](https://open.spotify.com/album/4bCRz96o1dE2pG9mTo5YUU) | 2:26 |
 | 59 | [Cynical Girl](https://open.spotify.com/track/1PXH8AAA8xFxcUJp9sbX2q) | [Marshall Crenshaw](https://open.spotify.com/artist/73YLmyaazO66GncUVHP0KV) | [Marshall Crenshaw](https://open.spotify.com/album/72Xq9V0lCN12Ml84PeLHOl) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 69 | [Boys Don't Lie](https://open.spotify.com/track/3r4zJhOS92RECuCXKyCcO2) | [Shoes](https://open.spotify.com/artist/1SyCQtKtDtMfJBBKGm0A8B) | [Black Vinyl Shoes](https://open.spotify.com/album/0wOTP7wVEQqYwIVaPWqQNo) | 1:57 |
 | 70 | [Erica's Word](https://open.spotify.com/track/3zPnLX5UZgXX6eaAtSROHt) | [Game Theory](https://open.spotify.com/artist/3aCS3JvkoSr84i7ge9pA9o) | [The Big Shot Chronicles](https://open.spotify.com/album/2XauMPQuWJF0QAMBYU1kzV) | 3:54 |
 
-Snapshot ID: `MCw5ZDNlNjA3NWRhZDAyMTMyZWFiOGIwNjliZjE0MDY0NDE1YmM5Mjgy`
+Snapshot ID: `MCxmNmZhZjdkZTE1Mjk1ZmNjZWJiNTZiNjVkNjYwZTg5ZDkyYTUyYzZh`

@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nRIP Mohbad",
-  "num_followers": 23086,
+  "num_followers": 23283,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDlhNTg5NDhkZmEzN2FhYzFlMWZlYTY0NjQzYjg0ZDMxMzliNzI1",
+  "snapshot_id": "MCwxNTI2NDM2ZDdmOWIxMDQzMjQ4NDIzMDJlNTE5ZjJiNjgwYmY1NDNj",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Jaboti",
-        "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 153341,
-      "name": "Jaboti",
-      "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "ZaZoo Zehh",
         "url": "https://open.spotify.com/album/7JktjrthMuYVUBB5DU0SwO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 214533,
       "name": "ZaZoo Zehh",
       "url": "https://open.spotify.com/track/5CfdJYNGyd9ri674WxZIMt"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Jaboti",
+        "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 153341,
+      "name": "Jaboti",
+      "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
     },
     {
       "added_at": "2023-09-29 00:01:00",

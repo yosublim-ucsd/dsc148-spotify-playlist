@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
@@ -688,6 +688,24 @@
       "duration_ms": 216625,
       "name": "Balboa Son",
       "url": "https://open.spotify.com/track/7Lbd9uhPYTnMHwxRTIUPbU"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3MrbhneTc5FlTuTG9KMkcA"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243385,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/47uQXeaECAQoht2YCYGK3i"
     },
     {
       "album": {
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/4j7jkCdab3vYmw0suZnt0X"
@@ -5438,6 +5456,24 @@
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
+    },
+    {
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254120,
+      "name": "Rocket Skates",
+      "url": "https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP"
     },
     {
       "album": {

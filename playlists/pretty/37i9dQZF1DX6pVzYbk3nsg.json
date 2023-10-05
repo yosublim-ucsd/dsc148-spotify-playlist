@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2953,
+  "num_followers": 2959,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDdiNjRlMTIwNTc5YTM4OWJmZGFmZmI2ZGMzNDEzYjU4NDBjYThh",
+  "snapshot_id": "MCw4ZjM3MTc4NmRiZWNkMGRjNTdkZTg2ZTQ1YzBhNjNjMTMwNDVjYjBk",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
-      },
-      "artists": [
-        {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Bomba para Afincar",
-      "url": "https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Distinto Y Diferente",
         "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 451500,
       "name": "Plenazo Callejero 2",
       "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+      },
+      "artists": [
+        {
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Bomba para Afincar",
+      "url": "https://open.spotify.com/track/4CJwiynberc8SHwRaDaMaU"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Otro Formato de M\u00fasica",
-        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
       "artists": [
         {
-          "name": "La Tribu de Abrante",
-          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 289213,
-      "name": "Mi Maria Luisa",
-      "url": "https://open.spotify.com/track/0igorIl2Os6lbeiwX6AU1v"
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+        "name": "Otro Formato de M\u00fasica",
+        "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
       },
       "artists": [
         {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+          "name": "La Tribu de Abrante",
+          "url": "https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO"
         }
       ],
-      "duration_ms": 331102,
-      "name": "Plenazo Callejero 1",
-      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+      "duration_ms": 289213,
+      "name": "Mi Maria Luisa",
+      "url": "https://open.spotify.com/track/0igorIl2Os6lbeiwX6AU1v"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bombazo",
         "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 270226,
       "name": "El Galo Canta",
       "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
-      },
-      "artists": [
-        {
-          "name": "Plena Adentro",
-          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Timba Timbo",
-      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 213106,
       "name": "Gua\u00f1eco pi\u00e9",
       "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
+      },
+      "artists": [
+        {
+          "name": "Plena Adentro",
+          "url": "https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Timba Timbo",
+      "url": "https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA"
     },
     {
       "added_at": "2023-06-13 22:15:19",

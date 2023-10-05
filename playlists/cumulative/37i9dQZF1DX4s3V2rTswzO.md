@@ -2,7 +2,7 @@
 
 ### [Classical Romance](https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO)
 
-> Set the scene for romance with beautiful classical music.
+> Para ese momento especial, escucha estas piezas clásicas que van directo al corazón.
 
 99 songs - 7 hr 17 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [10 Preludes, Op\. 23: No\. 4 in D Major: Andante cantabile](https://open.spotify.com/track/1eDakTwjrRye994xVnQXAE) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Rustem Hayroudinoff](https://open.spotify.com/artist/6uzEfVDOARGZSMZffkz7nP) | [Rachmaninov: Complete Piano Preludes](https://open.spotify.com/album/5roxOmqcxWIK0KswUN37sh) | 5:14 | 2021-12-20 | 2022-07-29 |
 | [6 Consolations, S\. 172: No\. 3 in D\-Flat Major \(Lento, placido\)](https://open.spotify.com/track/1L4NadMj3Jj7YgGaikyhfr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase](https://open.spotify.com/album/7bn0er8NwppxxoDfQbkbNr) | 4:14 | 2021-12-20 |  |
-| [6 Pezzi, P\. 44: No\. 6\. Internmezzo\-serenata](https://open.spotify.com/track/5fVw7TjMRqG183RyPIUoba) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Konstantin Scherbakov](https://open.spotify.com/artist/6f4LXqcGifD364sFBKFfoN) | [Respighi: Piano Music](https://open.spotify.com/album/2Nm7vx01wJA7fNH6askGry) | 2:26 | 2023-03-28 | 2023-10-04 |
+| [6 Pezzi, P\. 44: No\. 6\. Internmezzo\-serenata](https://open.spotify.com/track/5fVw7TjMRqG183RyPIUoba) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Konstantin Scherbakov](https://open.spotify.com/artist/6f4LXqcGifD364sFBKFfoN) | [Respighi: Piano Music](https://open.spotify.com/album/2Nm7vx01wJA7fNH6askGry) | 2:26 | 2023-03-28 |  |
 | [A Chloris \(Arr\. For Cor Anglais & Orchestra\)](https://open.spotify.com/track/0PIsEQ6Z7wMvhL2nNMHZD3) | [Reynaldo Hahn](https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Mathias Mönius](https://open.spotify.com/artist/4EzLpGogNPoWpjOp6TAfc5) | [CAT RELAX 猫猫放鬆音樂](https://open.spotify.com/album/57MMCRcUpJySscWlwWWem5) | 4:05 | 2022-01-27 | 2022-11-13 |
 | [A Chloris \(Arr\. For Cor Anglais & Orchestra\)](https://open.spotify.com/track/5YmNpuasEtEP2DmFNpE37x) | [Reynaldo Hahn](https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Mathias Mönius](https://open.spotify.com/artist/4EzLpGogNPoWpjOp6TAfc5) | [Bonjour Paris](https://open.spotify.com/album/6jcQdndeu7DBoZ0fctrqaG) | 4:15 | 2021-12-20 | 2022-07-29 |
 | [A Chloris \(Arr\. For Cor Anglais & Orchestra\)](https://open.spotify.com/track/6kielg9pAlREPv4fnFaT91) | [Reynaldo Hahn](https://open.spotify.com/artist/6Eu8djOGFxGaykaqJlbzEf), [Albrecht Mayer](https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Mathias Mönius](https://open.spotify.com/artist/4EzLpGogNPoWpjOp6TAfc5) | [Bonjour Paris](https://open.spotify.com/album/7d2oaThuS8kBribDXhg4s0) | 4:15 | 2022-01-27 |  |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:4eIjSDb64R18sJaNlOGaFH">James Fortune<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,543 likes - 99 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,690 likes - 99 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Worth It](https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Worth It](https://open.spotify.com/album/1dGFBtHnXUlxrtrZlVWTzt) | 4:59 |
 | 2 | [I Love You](https://open.spotify.com/track/14eJGzC2IWvU1H4d1UzuZ9) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 3:33 |
-| 3 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/1W7DATOf6IUurjV5M5ZWyC), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
+| 3 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/6qUzD1Leqwhz94dwG4IKmn), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
 | 4 | [Holy Hands](https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Holy Hands](https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x) | 3:24 |
 | 5 | [Needs](https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Needs](https://open.spotify.com/album/0gRF9GgWiZyRQeBoPgucGi) | 3:27 |
 | 6 | [Yes I Do](https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 98 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 |
 | 99 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCwwN2MwNzEwZjU5NjFlYjkyODE1NDJhMzAzNjFmNDkyMmI4NWE5MWFm`
+Snapshot ID: `MCw3MmJhNjVkN2QyMDc5ZTgyYjIxMmNlYWIxZWRmM2QyOTVmODJjNDM5`

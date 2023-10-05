@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 26 | [Electric Slide](https://open.spotify.com/track/0VhsAybZAPC1O1oEpmOTvU) | [Electric Slide Music Makers](https://open.spotify.com/artist/1VCtMJoDuOXAqX0rVG8xCe) | [Electric Slide: with friends...](https://open.spotify.com/album/0OP47i79jrKw8XcUaEDxn8) | 3:57 |
 | 27 | [Dance Mode](https://open.spotify.com/track/6jy21QZaTpS9UgXnWW0ADd) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 1:58 |
 | 28 | [Macarena \(Bayside Boys Remix\) \- Remasterizado](https://open.spotify.com/track/1IDOgGgrZuXIFOluTTI2Fs) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Macarena Christmas \(Remasterizado\)](https://open.spotify.com/album/0szlmT0E1lm7ybTjwxhkOx) | 3:47 |
-| 29 | [Animal Dance and Freeze](https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Kids Birthday Party](https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2) | 2:30 |
-| 30 | [Cotton Eyed Joe](https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe) | [Macarena Party Kids](https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d) | [Macarena Kids](https://open.spotify.com/album/3O4JZycOK2GcM079we6urz) | 4:13 |
+| 29 | [Cotton Eyed Joe](https://open.spotify.com/track/3G5XnbFJVy3phaq8H5iSMe) | [Macarena Party Kids](https://open.spotify.com/artist/6TIUqmj115LWdwTqJVGx9d) | [Macarena Kids](https://open.spotify.com/album/3O4JZycOK2GcM079we6urz) | 4:13 |
+| 30 | [Animal Dance and Freeze](https://open.spotify.com/track/4HHMUL4cOZq21NJ6XjErfZ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Kids Birthday Party](https://open.spotify.com/album/1qO9LlASyxxmYqxssdUJa2) | 2:30 |
 | 31 | [Musical Statues \- Party Version](https://open.spotify.com/track/7LC0vo7r0iDIuu61YwUXld) | [Toddler Fun Learning](https://open.spotify.com/artist/6J7tunc4bHIFmzTevQ2J6Q), [Gecko's Garage](https://open.spotify.com/artist/2xHbxPlwNRVcJR3P3vjtX7) | [Kids Dance Party](https://open.spotify.com/album/7JiXOAemvmJARf7w9WvbsT) | 3:08 |
 | 32 | [Do as I'm Doing](https://open.spotify.com/track/7J6pdbrX4gG1AfIM4qCUcK) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Do as I'm Doing](https://open.spotify.com/album/169CIBnpB6WtwZWCDgyMgN) | 1:56 |
 | 33 | [Shake Your Body Down](https://open.spotify.com/track/41YMpUOoIl9pjM2Hd6kNwr) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 3:06 |
 | 34 | [Dance, Dance, Freeze](https://open.spotify.com/track/6C5XRlRzxkW4KKionxl8j6) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Birthday Party](https://open.spotify.com/album/4WWj00FI8McY157nn4B2OZ) | 2:10 |
 | 35 | [Chickie Chickie Beat](https://open.spotify.com/track/3q8cnD3gDuHRtu0aMBr4f8) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [Chickie Chickie Beat](https://open.spotify.com/album/0BalfnIrBDKxym7lPHtF7d) | 1:39 |
-| 36 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
-| 37 | [Do Your Own Dance](https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 2:31 |
+| 36 | [Do Your Own Dance](https://open.spotify.com/track/5DGIcwi5oNWxrzOnD4IRGE) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 2:31 |
+| 37 | [Let's Shake About!](https://open.spotify.com/track/2py4vXQSKtDmYYe98p4Do6) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:01 |
 | 38 | [Hand Jive](https://open.spotify.com/track/7kslM5r0WXSOBpoZuFlKir) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Jump, Wiggle and Hop](https://open.spotify.com/album/4uJG3vSCOT155ZdrfOsljQ) | 2:59 |
 | 39 | [Happy Feet!](https://open.spotify.com/track/2pdM6c8v8ffUq6PBBnPmJa) | [Ashley Mills Monaghan](https://open.spotify.com/artist/3gTG7Lc7QV8tmYk9sSaeZm), [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Happy Feet!](https://open.spotify.com/album/0pwxpuimvtMPrprGYEw3Dr) | 3:04 |
 | 40 | [Stomp & Clap Dance](https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Stomp & Clap Dance](https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd) | 2:30 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 42 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 | 43 | [Let's Samba](https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 2:41 |
 
-Snapshot ID: `MCwxNTkwMWJmYTFkNDRlODE2ZGQ3NmZkMzNmMjVlMzZiMmM0MzllNDdi`
+Snapshot ID: `MCxhNjdmNmY1OWI3YTZiYjllYzI2MzA5Zjc1NDE3YmQzYTk4YTZjYTE2`

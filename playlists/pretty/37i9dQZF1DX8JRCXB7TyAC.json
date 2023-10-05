@@ -1,12 +1,12 @@
 {
   "description": "Workout with Haryanvi Songs. Cover: Yudhveer Dagar",
-  "num_followers": 20948,
+  "num_followers": 21072,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGQ2YjFjYzAzYzk1MDY4MjJhNWNjMjdmYWZhMjI0Nzg2YjNkNGVm",
+  "snapshot_id": "MCwxMmVjZTMwNmU4ZTI0OTY3MzQ4YWEwNTEyNjA1MmRmMTM2MzkxZGI4",
   "tracks": [
     {
       "added_at": "2023-10-03 18:06:24",
@@ -386,6 +386,10 @@
         {
           "name": "Pranjal Dahiya",
           "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        },
+        {
+          "name": "Crush Wale Yaar",
+          "url": "https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL"
         }
       ],
       "duration_ms": 154500,

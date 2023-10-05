@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGRmMGUwZWRkNmIxMTYyZTlmNGUwZjc1NzA3MTQ2MWE4Mzc4ZjQw",
+  "snapshot_id": "MCwxNTUxN2ZiNzMyMjFkOTlhZGY0YzQzNzljMTNkNWZhYTA2MTFmYzEx",
   "tracks": [
     {
       "added_at": "2023-01-27 10:00:00",
@@ -167,6 +167,38 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
+        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
+      },
+      "artists": [
+        {
+          "name": "Julie and the Phantoms Cast",
+          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
+        },
+        {
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
+        },
+        {
+          "name": "Charlie Gillespie",
+          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
+        },
+        {
+          "name": "Owen Patrick Joyner",
+          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
+        },
+        {
+          "name": "Jeremy Shada",
+          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
+        }
+      ],
+      "duration_ms": 181322,
+      "name": "Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
+      "url": "https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
         "name": "Teen Titans Go! To The Movies (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0JjBO2WnSE6pjK4TC9Jci2"
       },
@@ -199,38 +231,6 @@
       "duration_ms": 97973,
       "name": "Go! (feat. Greg Cipes, Scott Menville, Khary Payton, Tara Strong & Hynden Walch)",
       "url": "https://open.spotify.com/track/4AORpy9kuI37FvgTF3BWrd"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
-        "name": "Julie and the Phantoms: Season 1 (From the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/3rxj1eHjamXQyJHLVPOpHm"
-      },
-      "artists": [
-        {
-          "name": "Julie and the Phantoms Cast",
-          "url": "https://open.spotify.com/artist/52OQXvCMAJ0zqE2ZQrBTqC"
-        },
-        {
-          "name": "Madison Reyes",
-          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
-        },
-        {
-          "name": "Charlie Gillespie",
-          "url": "https://open.spotify.com/artist/2HJ4hedICRfMlEQCCNPdyz"
-        },
-        {
-          "name": "Owen Patrick Joyner",
-          "url": "https://open.spotify.com/artist/2jLTy8ur5VewqDyKUZohXa"
-        },
-        {
-          "name": "Jeremy Shada",
-          "url": "https://open.spotify.com/artist/5wcXTMooUetMp8uUNqC03W"
-        }
-      ],
-      "duration_ms": 181322,
-      "name": "Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
-      "url": "https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv"
     },
     {
       "added_at": "2023-01-27 10:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
-        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
-      },
-      "artists": [
-        {
-          "name": "StoryBots",
-          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
-        }
-      ],
-      "duration_ms": 60098,
-      "name": "Ask The StoryBots Theme",
-      "url": "https://open.spotify.com/track/3HN39lt79CHXdsDMKPBc4X"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "My First Album",
         "url": "https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 145240,
       "name": "It's Peppa Pig",
       "url": "https://open.spotify.com/track/7K8zUaZX1v6kJzFwA4mt31"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "Ask the StoryBots: Season 1 (Music from the Original Series)",
+        "url": "https://open.spotify.com/album/4BPIzaB3Y7sFFC7cEXCPHv"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "duration_ms": 60098,
+      "name": "Ask The StoryBots Theme",
+      "url": "https://open.spotify.com/track/3HN39lt79CHXdsDMKPBc4X"
     },
     {
       "added_at": "2023-01-27 10:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Blue's Clues & You Theme Song",
-        "url": "https://open.spotify.com/album/4JTzi9TBFwIbQAtXIHAHRQ"
-      },
-      "artists": [
-        {
-          "name": "Blue's Clues & You",
-          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
-        }
-      ],
-      "duration_ms": 93195,
-      "name": "Blue's Clues & You Theme Song",
-      "url": "https://open.spotify.com/track/73vWnvPaf0yNifYIkadY9N"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "Songs from That's So Raven",
         "url": "https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 50933,
       "name": "That's So Raven (Theme Song)",
       "url": "https://open.spotify.com/track/02sVnwa4wVikUfBh6PN8u7"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "Blue's Clues & You Theme Song",
+        "url": "https://open.spotify.com/album/4JTzi9TBFwIbQAtXIHAHRQ"
+      },
+      "artists": [
+        {
+          "name": "Blue's Clues & You",
+          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
+        }
+      ],
+      "duration_ms": 93195,
+      "name": "Blue's Clues & You Theme Song",
+      "url": "https://open.spotify.com/track/73vWnvPaf0yNifYIkadY9N"
     },
     {
       "added_at": "2023-01-27 10:00:00",

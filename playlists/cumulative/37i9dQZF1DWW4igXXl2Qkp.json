@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:1WaFQSHVGZQJTbf0BdxdNo\">Tommy Richman</a>",
+  "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:4bOqkIGQCcuZgjfDxNuX1I\">Anycia</a>",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1118,6 +1118,24 @@
       "duration_ms": 99709,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/1IV6iZ3OzhRgcosTrW7uXI"
+    },
+    {
+      "album": {
+        "name": "ANYCIA",
+        "url": "https://open.spotify.com/album/6okuA3J3nELszcvyGYJxC9"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113609,
+      "name": "ANYCIA",
+      "url": "https://open.spotify.com/track/4yYtvbpIlsBujDgvzS5nA6"
     },
     {
       "album": {
@@ -2513,6 +2531,36 @@
     },
     {
       "album": {
+        "name": "Infinite Victory Loop",
+        "url": "https://open.spotify.com/album/6R6nmUMgL2vAzwcHGoYihc"
+      },
+      "artists": [
+        {
+          "name": "Roper Williams",
+          "url": "https://open.spotify.com/artist/3IbBDWFU62Ffx84oPtkec8"
+        },
+        {
+          "name": "YL",
+          "url": "https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr"
+        },
+        {
+          "name": "AKAI SOLO",
+          "url": "https://open.spotify.com/artist/4BqOTaVacNL8CyDxxgiMjB"
+        },
+        {
+          "name": "Fatboi Sharif",
+          "url": "https://open.spotify.com/artist/5HJ4w3pMArwtZi7xywAEWj"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0DK34Cbp17a2U8XnyXkd0n"
+    },
+    {
+      "album": {
         "name": "Plenty Type of Flavours",
         "url": "https://open.spotify.com/album/2RU9xTyXN94atxlwIjSruS"
       },
@@ -3704,7 +3752,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 255785,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/6gq40IgCyxDxR9BxuzRlCz"
@@ -5224,7 +5272,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 118235,
       "name": "Even Angels Cry",
       "url": "https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO"
@@ -5685,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "feels",
+        "url": "https://open.spotify.com/album/2hHkaE8c3S2BriJeuH3buZ"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110142,
+      "name": "feels",
+      "url": "https://open.spotify.com/track/6TzJPBFGx8J3K9RenKUscg"
+    },
+    {
+      "album": {
         "name": "THE RUSH",
         "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
       },
@@ -5754,6 +5820,24 @@
       "duration_ms": 127638,
       "name": "First Day In (Cheatcode)",
       "url": "https://open.spotify.com/track/7sflVMFqFip5szn0Hq9aqp"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/7DQBlKL7Xh9iu4RBTsKrlz"
+      },
+      "artists": [
+        {
+          "name": "Lil Rae",
+          "url": "https://open.spotify.com/artist/3mBgj6uh2YjNocaBRGJumA"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/4ugBcRZrdGnCQZ10uDCHVN"
     },
     {
       "album": {
@@ -6412,6 +6496,24 @@
       "duration_ms": 183076,
       "name": "Get Out (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4CnJqlLWZDkSZIuG0DAySk"
+    },
+    {
+      "album": {
+        "name": "Get To The Money",
+        "url": "https://open.spotify.com/album/5dYzqulF9YAAA84Q5vSQAO"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127488,
+      "name": "Get To The Money",
+      "url": "https://open.spotify.com/track/2AD5G2RpbBR7wdJuX8KUfg"
     },
     {
       "album": {
@@ -7254,7 +7356,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 142417,
       "name": "HNL",
       "url": "https://open.spotify.com/track/0zxpRRpS5SZQyiTW3sP2Tk"
@@ -9554,7 +9656,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 127200,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB"
@@ -9912,6 +10014,24 @@
       "duration_ms": 174656,
       "name": "MASTIFF!",
       "url": "https://open.spotify.com/track/2vdzHoQXipWY0vLf4Z491r"
+    },
+    {
+      "album": {
+        "name": "YES!",
+        "url": "https://open.spotify.com/album/0iQkWd6YzQf0kYkdD8eE3H"
+      },
+      "artists": [
+        {
+          "name": "Jelani Imani",
+          "url": "https://open.spotify.com/artist/1sw7TGYqyXeem3njQQQFBM"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "matcha",
+      "url": "https://open.spotify.com/track/1SEoIPEYkjzMsz9d9HxAhr"
     },
     {
       "album": {
@@ -13636,7 +13756,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 134452,
       "name": "Rush",
       "url": "https://open.spotify.com/track/6Y1nNd6fuIFcbOvTYWhQ2K"
@@ -13662,6 +13782,24 @@
       "duration_ms": 158571,
       "name": "S3 X",
       "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
+    },
+    {
+      "album": {
+        "name": "Sad to Say",
+        "url": "https://open.spotify.com/album/2dnOaO3TNWofZSH5bOmf6H"
+      },
+      "artists": [
+        {
+          "name": "ST 6IX7EVEN",
+          "url": "https://open.spotify.com/artist/3wyLQtk1GI2PVL6aB7LdzM"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205531,
+      "name": "Sad to Say",
+      "url": "https://open.spotify.com/track/4KC4uZYZGArgozGhchVDBS"
     },
     {
       "album": {
@@ -14370,7 +14508,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 202031,
       "name": "Sleep It Off",
       "url": "https://open.spotify.com/track/6PZ3Ylsj9D8Jy85hxduUI6"
@@ -16507,6 +16645,24 @@
     },
     {
       "album": {
+        "name": "Typa day",
+        "url": "https://open.spotify.com/album/6VgntwHvrDbBSfUl7jYfEW"
+      },
+      "artists": [
+        {
+          "name": "10cellphones",
+          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111986,
+      "name": "Typa day",
+      "url": "https://open.spotify.com/track/1t2kdmGv9myqqcOeEN0X0s"
+    },
+    {
+      "album": {
         "name": "WHYSOSIRIUS",
         "url": "https://open.spotify.com/album/0fZAeI5kqwYpJei6BBcrhX"
       },
@@ -16536,7 +16692,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 95468,
       "name": "ugly as fuck fr",
       "url": "https://open.spotify.com/track/0B6n9KAQMHyq4mqJXuj3NJ"
@@ -17655,6 +17811,28 @@
     },
     {
       "album": {
+        "name": "EASTSIDE FEV",
+        "url": "https://open.spotify.com/album/5sIMqR6FtXhggVii57NTv0"
+      },
+      "artists": [
+        {
+          "name": "UFO Fev",
+          "url": "https://open.spotify.com/artist/1m4NqUSiXZj5qY83vwvoMA"
+        },
+        {
+          "name": "Red Inf",
+          "url": "https://open.spotify.com/artist/68HnRzCW3oW6v4QR1L6HQL"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192728,
+      "name": "WRITERS BLOCK",
+      "url": "https://open.spotify.com/track/70NMSWQteFO0Bokccyhi9L"
+    },
+    {
+      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/5OaohkvXwsVZXcBy7uhAdW"
       },
@@ -17916,7 +18094,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 161648,
       "name": "Your The One",
       "url": "https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG"

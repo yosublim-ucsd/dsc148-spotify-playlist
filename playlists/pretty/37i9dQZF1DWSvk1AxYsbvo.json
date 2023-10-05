@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10556,
+  "num_followers": 10581,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTBiNzZiYTNlZGM3MDE3NTM3NDViNDMzZmVjMWVlMTYwOGMzMmM2",
+  "snapshot_id": "MCwyMjUxNzhhMzNjZjc2OTk3N2E1MjNjYmE5YjE1YTU4MDE2ZmY1ZGQ5",
   "tracks": [
     {
       "added_at": "2023-09-19 10:08:17",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "\uc548\ubd80 Greeting",
         "url": "https://open.spotify.com/album/1RLEVogJMDuU5CJgfaj371"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 400870,
       "name": "\uc548\ub155 Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4jZ17ywLPwRyu0B0gkCPiV"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Summer Festa",
         "url": "https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
       "artists": [
         {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
         }
       ],
-      "duration_ms": 233284,
-      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
-      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -443,6 +427,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "\uae30\ub9c9\ud78c \uc720\uc0b0 (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 233284,
+      "name": "\ub0b4 \uc0ac\ub791 \ub0b4 \uacc1\uc5d0",
+      "url": "https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
+        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "duration_ms": 186441,
+      "name": "\uc9c0\ucce4\uc5b4 Burned out",
+      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "\uac74\uac15\ud558\uc138\ubaa8 Take care",
-        "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
+        "name": "\uc2dc\uc18c",
+        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
       },
       "artists": [
         {
-          "name": "IMSEMO",
-          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+          "name": "KiTak",
+          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
         }
       ],
-      "duration_ms": 186441,
-      "name": "\uc9c0\ucce4\uc5b4 Burned out",
-      "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
+      "duration_ms": 163000,
+      "name": "\uc2dc\uc18c",
+      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -779,22 +795,6 @@
       "duration_ms": 193039,
       "name": "To You",
       "url": "https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "\uc2dc\uc18c",
-        "url": "https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR"
-      },
-      "artists": [
-        {
-          "name": "KiTak",
-          "url": "https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "\uc2dc\uc18c",
-      "url": "https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J"
     },
     {
       "added_at": "2023-09-19 10:08:17",

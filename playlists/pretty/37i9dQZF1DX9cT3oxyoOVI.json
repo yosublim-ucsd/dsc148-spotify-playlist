@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 127502,
+  "num_followers": 127572,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzUyYTU5MDQ0YzM4YTVjNDQ4YTE3ZGQ1ODExOTNjMDFkOTVkNDRh",
+  "snapshot_id": "MCxkYzA1MTQxZWEzOGVjNWIwMWI3Y2UyZDQzMWFlZjA1YzA2MmExMGUw",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "COCONUT PERFUME",
+        "url": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "COCONUT PERFUME",
+      "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Impatience",
         "url": "https://open.spotify.com/album/5EHlNWLkGeSSpWkKpDNptJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "COCONUT PERFUME",
-        "url": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "COCONUT PERFUME",
-      "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
     },
     {
       "added_at": "2023-01-30 15:22:38",

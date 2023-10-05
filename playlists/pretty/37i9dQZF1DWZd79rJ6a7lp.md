@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,096,918 likes - 286 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,098,134 likes - 285 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,13 +286,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 276 | [Goa Nova](https://open.spotify.com/track/5wOcMlOLztxvP8EtoUIgqj) | [magic air\_](https://open.spotify.com/artist/4RgUVFZKgZjBTLoEr4nVhC) | [Time To See](https://open.spotify.com/album/23NMoQoPwXeQlGpB1q2zM2) | 3:18 |
 | 277 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 |
 | 278 | [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 |
-| 279 | [Colour Me](https://open.spotify.com/track/0uy2agXCETXM1UVxAwNAhl) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:10 |
-| 280 | [A Peaceful Place](https://open.spotify.com/track/2a0W014tci7C4cZTOnD1Xc) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [A Peaceful Place](https://open.spotify.com/album/5lmAvBlenIM7MOOhIuj035) | 2:09 |
-| 281 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
-| 282 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 |
-| 283 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 |
-| 284 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 |
-| 285 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 |
-| 286 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 |
+| 279 | [A Peaceful Place](https://open.spotify.com/track/2a0W014tci7C4cZTOnD1Xc) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [A Peaceful Place](https://open.spotify.com/album/5lmAvBlenIM7MOOhIuj035) | 2:09 |
+| 280 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
+| 281 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 |
+| 282 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 |
+| 283 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 |
+| 284 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 |
+| 285 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 |
 
-Snapshot ID: `MCw0ZjE1ZjkzMjBhMjRhODEyZGI3YTAyNjFiOTEzOGM3MWE4NmI1N2Rj`
+Snapshot ID: `MCxmZGVmZTNjZGZlYWE4NTQ2MjkxMWViYWU3MTkyZjIyNmE1NzQ1NmU2`

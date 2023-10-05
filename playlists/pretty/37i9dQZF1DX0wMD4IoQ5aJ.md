@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,802 likes - 140 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,881 likes - 138 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 136 | [Aurora](https://open.spotify.com/track/6wHt80ii2pZjjffzLfM1mg) | [Penga Scain](https://open.spotify.com/artist/5A7ldCfxlH3KQLsqAFzhF2) | [Aurora](https://open.spotify.com/album/6K3FYQWAQcANDZjQgcxaCM) | 4:34 |
 | 137 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 |
 | 138 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 |
-| 139 | [Serpent](https://open.spotify.com/track/21e5TcrNrF04HBcc3dalpB) | [Cloode](https://open.spotify.com/artist/0QvInajilVJw8If75PeAH8) | [Serpent](https://open.spotify.com/album/3dFxy73ajfYdf8CJdIhA8D) | 1:53 |
-| 140 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 |
 
-Snapshot ID: `MCw3ZDYxODFjMThlZWQ5ZmRiNjZhZDY3YTYyOTkzYWZmN2RiODZmODU4`
+Snapshot ID: `MCw0NWIyNjgwNjg3YmQ5NDEzZDQ5YzY4NTYxOTM5ODkyM2U1ZDFhNTMw`

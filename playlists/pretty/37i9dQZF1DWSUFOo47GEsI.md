@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,323 likes - 252 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,333 likes - 252 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 65 | [Apricus](https://open.spotify.com/track/0W3znYfIVP37kJl4InZ9lp) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Apricus](https://open.spotify.com/album/2rk6uIsjnpHpOFYHmx8Emk) | 2:39 |
 | 66 | [Undulating](https://open.spotify.com/track/77X5JEYLRwx9G3DCJ3PVsn) | [Joseff Shields](https://open.spotify.com/artist/3k3jeStlJRgFKEWvcbJuy3) | [Undulating](https://open.spotify.com/album/3I5IxqeLnS2yNYZD4z8l00) | 3:07 |
 | 67 | [Nightrain](https://open.spotify.com/track/3qNtyx6HFRRFsj4wF5vslr) | [Ronja Mair](https://open.spotify.com/artist/6ZUyQlJPTDM23KGIdnivNH) | [Fauna](https://open.spotify.com/album/300oF5rPceFBu1MQQsLQjv) | 2:36 |
-| 68 | [Sky Kissed Dreams](https://open.spotify.com/track/1ptiRc6sCWNKkEwLOS36vU) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Sky Kissed Dreams](https://open.spotify.com/album/4jQLB7E72UHMOPE4bBWFAI) | 2:29 |
-| 69 | [Cumbre](https://open.spotify.com/track/79YtzS8PtQlSgRnn1Z8Pni) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Cumbre](https://open.spotify.com/album/3mZkf1eqF4gNLPyQ4iLJdh) | 2:18 |
-| 70 | [Crystals](https://open.spotify.com/track/1YpXhScYe8acVxMPtAaj89) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [Crystals](https://open.spotify.com/album/2OJofztg1QQ3J6RFEvRHrl) | 3:02 |
-| 71 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 |
-| 72 | [The Hands Of Time](https://open.spotify.com/track/2etpMgKM1SbJLOXJQ4bexE) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [The Hands Of Time](https://open.spotify.com/album/1kbHxrCOM0F14VekC7QMga) | 2:31 |
-| 73 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 |
-| 74 | [Nightbird](https://open.spotify.com/track/2b0Sl3lyI3p4qZSYlVaGKg) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Nightbird](https://open.spotify.com/album/0vkqn39TjZcoEINbXXQkOp) | 3:19 |
-| 75 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 |
-| 76 | [Fading Memories](https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz) | [Zawar Hagano](https://open.spotify.com/artist/4sZQU2cNVFvCzZ3GK3n0S5) | [Fading Memories](https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM) | 2:55 |
-| 77 | [Maravilla](https://open.spotify.com/track/0lLKmZbkORVUbxlRDrVVXB) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Maravilla](https://open.spotify.com/album/27EJk20V3NGiphJpEexh3Z) | 2:27 |
-| 78 | [Down by the Ocean](https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 2:57 |
+| 68 | [Down by the Ocean](https://open.spotify.com/track/3RYqhN2wn4Qg5fwLRbCinW) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Down by the Ocean](https://open.spotify.com/album/0bTZu5D0Z4u6q6h1Rpz91b) | 2:57 |
+| 69 | [Sky Kissed Dreams](https://open.spotify.com/track/1ptiRc6sCWNKkEwLOS36vU) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Sky Kissed Dreams](https://open.spotify.com/album/4jQLB7E72UHMOPE4bBWFAI) | 2:29 |
+| 70 | [Cumbre](https://open.spotify.com/track/79YtzS8PtQlSgRnn1Z8Pni) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Cumbre](https://open.spotify.com/album/3mZkf1eqF4gNLPyQ4iLJdh) | 2:18 |
+| 71 | [Crystals](https://open.spotify.com/track/1YpXhScYe8acVxMPtAaj89) | [Meadowsweet](https://open.spotify.com/artist/2LvDYoVgXkWs04t60YxK9z) | [Crystals](https://open.spotify.com/album/2OJofztg1QQ3J6RFEvRHrl) | 3:02 |
+| 72 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 |
+| 73 | [The Hands Of Time](https://open.spotify.com/track/2etpMgKM1SbJLOXJQ4bexE) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [The Hands Of Time](https://open.spotify.com/album/1kbHxrCOM0F14VekC7QMga) | 2:31 |
+| 74 | [Stepping Into A Dream](https://open.spotify.com/track/0bsBttoH3LrYa60QZB201X) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [Stepping Into A Dream](https://open.spotify.com/album/4ocaDhqsCxZJcAxA5zWfFO) | 2:28 |
+| 75 | [Nightbird](https://open.spotify.com/track/2b0Sl3lyI3p4qZSYlVaGKg) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Nightbird](https://open.spotify.com/album/0vkqn39TjZcoEINbXXQkOp) | 3:19 |
+| 76 | [Conversant](https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8) | [Doris Melwin](https://open.spotify.com/artist/6vlkP5Ni1u9YysGdVz16XX) | [Conversant](https://open.spotify.com/album/3fq3wucSSjzqUYDkSAPeEI) | 2:31 |
+| 77 | [Fading Memories](https://open.spotify.com/track/4lw6ynpAuGIWETp0eHb0Lz) | [Zawar Hagano](https://open.spotify.com/artist/4sZQU2cNVFvCzZ3GK3n0S5) | [Fading Memories](https://open.spotify.com/album/5HDOEz26OImWk4MhBpTLCM) | 2:55 |
+| 78 | [Maravilla](https://open.spotify.com/track/0lLKmZbkORVUbxlRDrVVXB) | [Waqar Jachin](https://open.spotify.com/artist/2JrcIKr4EduwMg6DJdvnKu) | [Maravilla](https://open.spotify.com/album/27EJk20V3NGiphJpEexh3Z) | 2:27 |
 | 79 | [Winter](https://open.spotify.com/track/26aVqLHRrWVeWkeDF7BcnS) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 3:20 |
 | 80 | [Endelig](https://open.spotify.com/track/3NUwa9esOC8gpVzWVV9xW4) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Endelig](https://open.spotify.com/album/37uRrJ3uV7tAazUMMfTAnR) | 2:39 |
 | 81 | [Nights and days](https://open.spotify.com/track/17ZevRUkVXijuNzOAgFuRF) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Nights and days](https://open.spotify.com/album/6yOQqeCvRke4pduA6D9q3X) | 2:33 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 251 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
 | 252 | [Volg mij](https://open.spotify.com/track/5AGw6j8iKs4DbgEsvSqt6c) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Volg mij](https://open.spotify.com/album/1BkTxkapTckd7hkQDHggAC) | 3:27 |
 
-Snapshot ID: `MCwzMjEyODZmMDlhOTU4YjQ0ZWM2OGE0ZjI0YjlkN2U3OWIzNzNjZTA4`
+Snapshot ID: `MCxiNzVhNmNhNDFkOTkyOGM4M2YxZThiMjQ2ODRlOWUyZmNkZDhmODA2`

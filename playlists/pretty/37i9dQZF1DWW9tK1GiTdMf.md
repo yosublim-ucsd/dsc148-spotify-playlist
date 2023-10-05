@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ NASKA in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,421 likes - 77 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,437 likes - 77 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 76 | [20ANNI](https://open.spotify.com/track/0ejBROtdr2qNMXTYgnekeT) | [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [20ANNI](https://open.spotify.com/album/0ANTzWRUSfkA8yswIKAlts) | 2:55 |
 | 77 | [Le Mie Pare](https://open.spotify.com/track/24cpNZZgqTvfW8ukeLYB04) | [Holy](https://open.spotify.com/artist/7rKhniAoTGdu1IFQFxEajZ) | [Le Mie Pare](https://open.spotify.com/album/5bD4LuGx7Ik3jDZtP7KJ1e) | 2:07 |
 
-Snapshot ID: `MCw1YmFhMDVmNmI4NzI1MWNmMGEyMzA0NWU2ZjViMWE4MWIxYThiODdl`
+Snapshot ID: `MCw3N2NjNzcwN2QxNTk3NmYxNDYwN2M1MWFkMzE5MDQ0ODBiMjExMDAx`

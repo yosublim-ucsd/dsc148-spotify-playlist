@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: ZENE THE ZILLA\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: YongYong\(용용\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-646 songs - 1 day 11 hr 4 min
+647 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Mart Invader](https://open.spotify.com/track/0dCKPWSmorx6OEW1PLcTF5) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 2:42 | 2022-06-13 | 2022-07-11 |
 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 | 2022-04-01 |  |
 | [Me Like Yuh \(K\) \(Feat\. Hoody\)](https://open.spotify.com/track/4FOZlvdQutqRNcQQRefA7T) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:43 | 2022-07-24 |  |
+| [Me wit u 4eva …](https://open.spotify.com/track/4Mh4Aeg20cET04G9NI1pyL) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [Me wit u 4eva …](https://open.spotify.com/album/1J1Ja75sV6wsnXrsntpJuW) | 3:03 | 2023-10-04 |  |
 | [meet me in Toronto](https://open.spotify.com/track/2kAoncETVbwALgilqVYLOi) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:23 | 2022-04-01 | 2022-07-29 |
 | [meet me in Toronto](https://open.spotify.com/track/6gnkpiuVtm2b5hzUNnXtQd) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:23 | 2022-07-24 | 2022-11-29 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2022-04-01 |  |
@@ -612,7 +613,7 @@
 | [Way \(Feat\. CHOILB, GIRIBOY, BIG Naughty, Kvsh, Kim Seungmin, OLNL, Kid Milli, THAMA\)](https://open.spotify.com/track/0WHUg5Z0NZkeuPt5l4uMB9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [DEMOTAPE](https://open.spotify.com/album/1bt1wd9Pyihm15Jl3LzwwJ) | 4:21 | 2022-04-21 | 2022-07-25 |
 | [Weather report](https://open.spotify.com/track/5d3gS49jJRainBEemo7OF3) | [한다윗](https://open.spotify.com/artist/73NR9Q1xVKjoNJqyzstJuY) | [Negative 2 Positive 1](https://open.spotify.com/album/4FXKSSC4RCh6ueCSKxKOd9) | 3:46 | 2022-07-24 | 2022-07-29 |
 | [What U Wanna Do](https://open.spotify.com/track/2rQaFBnhmQWML20DPtZy7u) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO), [Ruddie Miller](https://open.spotify.com/artist/2hQyQHnEx894E4Xw6fuGam) | [What U Wanna Do](https://open.spotify.com/album/2xqHWKwd6eOTt7VhccA2PC) | 3:17 | 2022-05-05 | 2022-07-29 |
-| [What′s Love? \(Feat\. Rakon\)](https://open.spotify.com/track/6s9ygHPj98H7LptAk3SCqo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [What′s Love?](https://open.spotify.com/album/3EoTcBxiy2ZiHaoP7zOTuh) | 3:20 | 2023-09-27 |  |
+| [What′s Love? \(Feat\. Rakon\)](https://open.spotify.com/track/6s9ygHPj98H7LptAk3SCqo) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [What′s Love?](https://open.spotify.com/album/3EoTcBxiy2ZiHaoP7zOTuh) | 3:20 | 2023-09-27 | 2023-10-05 |
 | [When I fall in love](https://open.spotify.com/track/0ugyxS9JdWbMuZXGqyTO3F) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [3\-PAKTORY02](https://open.spotify.com/album/4NKBipzIWnHjQAmk3mH2jD) | 4:17 | 2022-04-01 | 2022-07-29 |
 | [When I fall in love](https://open.spotify.com/track/24kQoMnicTBAYZzHUozStq) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [3\-PAKTORY02](https://open.spotify.com/album/12jnTSyfUouBKTiOSyPBj6) | 4:17 | 2022-07-24 |  |
 | [when i was your man \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6XKKfWOUqyx3HpEKvIF6Vy) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:33 | 2022-04-21 | 2022-07-23 |

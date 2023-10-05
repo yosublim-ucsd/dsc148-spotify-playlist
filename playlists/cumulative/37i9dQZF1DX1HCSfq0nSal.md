@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Bad Bunny
+> Si está pegao, está aquí\. Feat\. Darell
 
 445 songs - 1 day 0 hr 41 min
 

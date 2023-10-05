@@ -2,7 +2,7 @@
 
 ### [IVE WORLD TOUR \[SHOW WHAT I HAVE\]](https://open.spotify.com/playlist/37i9dQZF1DX89eFqyQeAQP)
 
-> 아이브의 \[SHOW WHAT I HAVE\] 콘서트를 기대하며 아이브의 대표곡들을 만나보세요!
+> 아이브의 \[SHOW WHAT I HAVE\]  <a href="https://www.instagram.com/p/Cx67uaupTWw/?utm\_source=ig\_web\_copy\_link&igshid=MzRlODBiNWFlZA==">콘서트 이벤트 참여</a>는 클립스를 확인하세요! 콘서트를 기다리며 아이브의 대표곡들을 감상해보세요.
 
 29 songs - 1 hr 20 min
 

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 348543,
+  "num_followers": 348557,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjNlODM1MWU3MWY2N2Q3ODY2ODgyYWRhMzU5MThmMDg3Yjc5OGM2",
+  "snapshot_id": "MCxlMmZlYWZkZDUzZDcyYTY1MDllNGEwMGIwN2EyZWMxYWE5N2ZiZDg5",
   "tracks": [
     {
       "added_at": "2023-08-25 14:04:15",
@@ -995,26 +995,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Angels By My Side (feat. Pauline Taylor)",
-        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
-      },
-      "artists": [
-        {
-          "name": "Sophie Lloyd",
-          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
-        },
-        {
-          "name": "Pauline Taylor",
-          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
-      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
       },
@@ -1031,22 +1011,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Disco Hearts",
-        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
+        "name": "Angels By My Side (feat. Pauline Taylor)",
+        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
       },
       "artists": [
         {
-          "name": "Illyus & Barrientos",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
         },
         {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+          "name": "Pauline Taylor",
+          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Disco Hearts",
-      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
+      "duration_ms": 217606,
+      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
+      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+        "name": "Disco Hearts",
+        "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
         }
       ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+      "duration_ms": 181500,
+      "name": "Disco Hearts",
+      "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
+        "name": "Back Tae Ayr",
+        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
       },
       "artists": [
         {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 277600,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
+      "duration_ms": 332931,
+      "name": "Back Tae Ayr",
+      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Ghetto Rock",
+      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
     }
   ],
   "unique_name": "Groove Theory",

@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 252915,
+  "num_followers": 253156,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTQ0MTVlNmY4N2Q3ZWU1Mzk1NTIzZjQ5ZDNhMGI2OWNjYTUwOGE5",
+  "snapshot_id": "MCxkZjZlZmU4NzM3MmVjZTU2MmQ0ZTE2ZjM3ZWU4YWUzMmRlZGZhZmNl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Adue\u00f1arme",
-        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 183762,
-      "name": "Adue\u00f1arme",
-      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "No Eres La Oficial",
         "url": "https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 200449,
       "name": "No Eres La Oficial",
       "url": "https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Adue\u00f1arme",
+        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "Adue\u00f1arme",
+      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+      "duration_ms": 219000,
+      "name": "Tristeza Y Traicion",
+      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "El Due\u00f1o De Tu Amor",
+      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "El Due\u00f1o De Tu Amor",
-      "url": "https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Desde El Cant\u00f3n (en Vivo)",
         "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 182380,
       "name": "Una Mentirosa",
       "url": "https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
+        "name": "Malandro Enamorado",
+        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "Alejandroo",
-          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
         }
       ],
-      "duration_ms": 141199,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+      "duration_ms": 216980,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1187,6 +1183,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        }
+      ],
+      "duration_ms": 141199,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Ya Te Super\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 185173,
       "name": "Ya Te Super\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Malandro Enamorado",
-        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Y Su Equipo Escoltado",
-          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
-        }
-      ],
-      "duration_ms": 216980,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "komo llego el final",
-        "url": "https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 185549,
-      "name": "komo llego el final",
-      "url": "https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Las Preferidas, Vol. 1",
         "url": "https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 174106,
       "name": "Te Voy a Olvidar - En Vivo Desde Culican 2013",
       "url": "https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "komo llego el final",
+        "url": "https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 185549,
+      "name": "komo llego el final",
+      "url": "https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf"
     },
     {
       "added_at": "2023-07-28 04:00:00",

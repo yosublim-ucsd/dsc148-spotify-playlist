@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,637 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,652 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 45 | [CAOTICA](https://open.spotify.com/track/5Vh7cwTM43jfQHq8iMFtZc) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [CAOTICA](https://open.spotify.com/album/48Uk2Z5KiJK9CmNUQt4ODM) | 3:11 |
 | 46 | [PUGNI ALLO STOMACO](https://open.spotify.com/track/7rZfTAWWCDYt49dY1bYZFC) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [PUGNI ALLO STOMACO](https://open.spotify.com/album/6sEngoRFNdplYWTPH5aAZ9) | 2:02 |
 
-Snapshot ID: `MCxjMGVjNDUwNGRkOTQ0NDAwMzk0OGNkMWJiYzRkZTk1NjUzMzYzYzY2`
+Snapshot ID: `MCw1Y2VlOWRmZmU3YzgxMGZiMWE3Y2U5NDNiYTQxMTE0ZjkxMjUwZDBk`

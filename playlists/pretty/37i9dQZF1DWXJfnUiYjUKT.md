@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,601 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,603 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [let u in](https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [let u in](https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a) | 2:55 |
 | 100 | [VIDEO GAME](https://open.spotify.com/track/2dPgrDsNTN2tTUQMn3vWW5) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [VIDEO GAME](https://open.spotify.com/album/5byaS0rosm6QwgVwtRPoeb) | 2:08 |
 
-Snapshot ID: `MCw3ZDM1NGM2ZDkzZTU2ZGIxOWRiZWVmYjg4NWNiYmM3MDQwZTI1NjJh`
+Snapshot ID: `MCxkOGM1ZTEwZTNhZmZmYmJiN2I4ZTY5ZjYwNzdlNDdmNWY3YWQ2MWNh`

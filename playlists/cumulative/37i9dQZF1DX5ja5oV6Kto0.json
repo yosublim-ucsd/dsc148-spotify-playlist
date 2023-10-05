@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/5yZYueTEidoFv3aGlC2luG"
+      },
+      "artists": [
+        {
+          "name": "Waye",
+          "url": "https://open.spotify.com/artist/4xB0OZoxh4Kv0dbn4YDT4v"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/7wvFFjFIfQbwk0enwlTc8p"
+    },
+    {
+      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -6487,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "LoveChild the Album (Deluxe)",
+        "url": "https://open.spotify.com/album/6rXdUESZWO1ixpEYqZBsep"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183844,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5tZHp4exyRvqXDan0TZFi1"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/0u1jNMcDzXqgFU8aYpmCeh"
       },
@@ -8050,7 +8086,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 211807,
       "name": "Soak Garri",
       "url": "https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ"
@@ -8068,7 +8104,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 185434,
       "name": "Sober",
       "url": "https://open.spotify.com/track/2HhiRTcthQdlrKvYBcnVQ0"
@@ -8086,7 +8122,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 168205,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
@@ -8162,6 +8198,28 @@
       "duration_ms": 157722,
       "name": "Someone",
       "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
+    },
+    {
+      "album": {
+        "name": "Something Special",
+        "url": "https://open.spotify.com/album/5pHSz7BQnbY0Sw3jkQ1X6h"
+      },
+      "artists": [
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        },
+        {
+          "name": "Begho",
+          "url": "https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/4vW1HwzceCsO8EWA8YJSBu"
     },
     {
       "album": {
@@ -9200,7 +9258,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 166493,
       "name": "Us",
       "url": "https://open.spotify.com/track/1CbhFk1ayCQqg9AxgPjDCF"
@@ -9544,6 +9602,24 @@
       "duration_ms": 186433,
       "name": "WHISTLE (feat. Lojay & Amaarae)",
       "url": "https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB"
+    },
+    {
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "album": {

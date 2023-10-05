@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,881 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,889 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Chaser 2.0](https://open.spotify.com/track/2HGsCutOKv0mC7R0EoiSfP) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Chaser 2.0](https://open.spotify.com/album/1dvm9UdT2HzJeEZzR1HDUz) | 3:00 |
 | 70 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 |
 
-Snapshot ID: `MCwxYTEyMGQ5NmQxYzQwMmI5M2RkNTc2MzhlNWJhODc0NTZjNmQ4NDU3`
+Snapshot ID: `MCw1ZWUxYTEwNGE4MzdjMWFiODM3NWY2Y2ZmNWZmMjllNjYwMzIwNWY2`

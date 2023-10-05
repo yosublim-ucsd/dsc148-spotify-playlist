@@ -1,12 +1,12 @@
 {
   "description": "Relax with this mix of peaceful, ambient, indie music.",
-  "num_followers": 425507,
+  "num_followers": 425575,
   "original_name": "Peaceful Ambient Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTdiYWU3MDljOWZiNzgxZDVhMzJiNjc1ZDc2ZjM3NmUwZTRkM2Mz",
+  "snapshot_id": "MCwyYWU5OTc4YThiYmFiZDNhNDM3ZDg3ZDc1NDIzNDZkMTk1ZTgwOWU0",
   "tracks": [
     {
       "added_at": "2023-09-29 20:18:50",
@@ -819,38 +819,18 @@
     {
       "added_at": "2023-09-29 20:18:50",
       "album": {
-        "name": "My Brilliant Friend, Season 2 (TV Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6c3eJ2tcnkLN1BuJpjtRit"
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Ben Russell",
-          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
-        },
-        {
-          "name": "Yuki Numata",
-          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
-        },
-        {
-          "name": "Caleb Burhans",
-          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        },
-        {
-          "name": "Brian Snow",
-          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 640430,
-      "name": "Richter: Moth-like Stars - Edit",
-      "url": "https://open.spotify.com/track/0wo2oXRCQmuzbJBhG2s564"
+      "duration_ms": 250850,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
     }
   ],
   "unique_name": "Peaceful Ambient Indie",

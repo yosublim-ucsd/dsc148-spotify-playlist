@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4edDD3HJMv.md) - [plain]
 
 > para cuándo el collab? coming soon??? 👀🤞
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,543 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,685 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4edDD3HJMv.md) - [plain]
 | 39 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 |
 | 40 | [Bejeweled](https://open.spotify.com/track/0jvo9CjnbR0lYUDTSNTMiu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:14 |
 
-Snapshot ID: `MCw4OTBkZGZiOTRiNTQzYWNhMDExYWE1MzczMzRlOTQ5Mjc1Mzc3MTIw`
+Snapshot ID: `MCw3ZTRkNzRhMzJmNzRlNWEzYjYwMDliYjdlNzJiZjM5MTA5ODBmNjRk`

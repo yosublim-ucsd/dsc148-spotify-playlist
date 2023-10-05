@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Dance in Silence",
+        "url": "https://open.spotify.com/album/4QhWnXvzZzYDmsOT3koCd9"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229931,
+      "name": "Dance in Silence",
+      "url": "https://open.spotify.com/track/1xpCDlzfOoe3T1q5RlXO3x"
+    },
+    {
+      "album": {
         "name": "FINE LINE",
         "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
       },
@@ -852,10 +870,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 257000,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E"
+    },
+    {
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
     },
     {
       "album": {
@@ -1724,6 +1760,24 @@
       "duration_ms": 210346,
       "name": "Odo",
       "url": "https://open.spotify.com/track/37bNBNB332HXbSy6079cws"
+    },
+    {
+      "album": {
+        "name": "odoriko",
+        "url": "https://open.spotify.com/album/5GYj8Dv4xReZAEA8sp4S5y"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230109,
+      "name": "odoriko",
+      "url": "https://open.spotify.com/track/1uK4zAdMcBRyinAOArUA5X"
     },
     {
       "album": {
@@ -2966,7 +3020,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 229931,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u3067\u8e0a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/2xUjXwtVV3arfXHr0At5D1"
@@ -3852,7 +3906,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9"

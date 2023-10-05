@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Martin Kartenjer",
-  "num_followers": 4076,
+  "num_followers": 4087,
   "original_name": "Radar Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmM2YmVhZTYxODlhNDFlOTVlNjRiNjBhZjRjZWQ2ZTYwN2NiNDQ3",
+  "snapshot_id": "MCwwYTdkYzE1MGIyOThjMDhlOTM2ZDZjNjU3NjVlNDk1MDM3MGUzYzU0",
   "tracks": [
     {
       "added_at": "2023-07-26 13:04:53",
@@ -265,6 +265,34 @@
       "url": "https://open.spotify.com/track/517mBtRX7D3fnQDcDPQXY4"
     },
     {
+      "added_at": "2023-10-04 10:34:28",
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/6RnOCuDGOqsPR2vy9aQ9D2"
+      },
+      "artists": [
+        {
+          "name": "Keshore Kumarr",
+          "url": "https://open.spotify.com/artist/5BD7bGKYa8EtnwRpEjYd2f"
+        },
+        {
+          "name": "RK Vilasini",
+          "url": "https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy"
+        },
+        {
+          "name": "GKV",
+          "url": "https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD"
+        },
+        {
+          "name": "Anbu",
+          "url": "https://open.spotify.com/artist/1hY1gCaCr5crn9Dznsg6GJ"
+        }
+      ],
+      "duration_ms": 163999,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/21Ce5TcQah2Irg2HjBLtGP"
+    },
+    {
       "added_at": "2023-08-04 15:42:32",
       "album": {
         "name": "Un Kaadhalaal (From \"MM Originals\") (Original Soundtrack)",
@@ -343,6 +371,26 @@
       "duration_ms": 179483,
       "name": "Story Rewrite",
       "url": "https://open.spotify.com/track/7jQHimJTn5joGqtUXFnTvA"
+    },
+    {
+      "added_at": "2023-10-04 10:34:28",
+      "album": {
+        "name": "Vizhigalil Aasa",
+        "url": "https://open.spotify.com/album/5Sb2VNYMrRVWAcO1KtOsso"
+      },
+      "artists": [
+        {
+          "name": "RAJ-RIZ",
+          "url": "https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d"
+        },
+        {
+          "name": "Surabhi Vimala",
+          "url": "https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT"
+        }
+      ],
+      "duration_ms": 242271,
+      "name": "Vizhigalil Aasa",
+      "url": "https://open.spotify.com/track/0M3vAjj63SOIIlfBr3Ts7M"
     },
     {
       "added_at": "2023-08-31 05:41:46",

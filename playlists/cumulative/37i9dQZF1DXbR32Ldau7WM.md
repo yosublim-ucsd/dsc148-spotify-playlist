@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: QURULI\(くるり\)
 
-819 songs - 2 day 6 hr 43 min
+821 songs - 2 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [ETA](https://open.spotify.com/track/0XeyTwIqd2GPPcIFpM10IX) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 4:47 | 2022-05-31 | 2022-06-23 |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-14 |
 | [EYE to EYE](https://open.spotify.com/track/0ApdoPhuDTvDBhxlidntLz) | [SHOW\-YA](https://open.spotify.com/artist/1GLStwjGJcUvkHGeCVgBEp) | [EYE to EYE](https://open.spotify.com/album/36m3Q9JB4eguQdVAMsS18O) | 5:04 | 2022-05-19 | 2022-06-08 |
+| [fake drama](https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [saigoni nokorumono](https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ) | 3:47 | 2023-10-03 |  |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-06-09 | 2022-06-12 |
 | [FALLING](https://open.spotify.com/track/7ms5u8VD4iHQLjRGh73IRG) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [FALLING](https://open.spotify.com/album/39CHUE0HBfOR5d65BPD6Pv) | 5:22 | 2022-05-10 | 2022-05-18 |
 | [Fantasista](https://open.spotify.com/track/6wpnmcKRbWoasdvEDJPoRJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Fantasista](https://open.spotify.com/album/49AoDaw0LfL2mzYV6hMXb6) | 4:32 | 2023-02-21 | 2023-10-03 |
@@ -481,6 +482,7 @@
 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-14 | 2023-05-10 |
 | [wana \(Rearrange\)](https://open.spotify.com/track/3EEKmMjaOYQAv7dEIoTb5f) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [wana \(Rearrange\)](https://open.spotify.com/album/7wj4X7jRgxVCsgocGM7ITj) | 4:57 | 2023-05-23 | 2023-05-31 |
 | [Wander Wraith](https://open.spotify.com/track/7nOUXBAT9xF3PaPZQlprxG) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Wander Wraith](https://open.spotify.com/album/5sFfxKiqoQ45I8oCYHTWHL) | 2:44 | 2022-05-12 | 2022-07-28 |
+| [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 | 2023-10-03 |  |
 | [We Will Never Give Up](https://open.spotify.com/track/3JiRL0aueGceNcM0lH2rtt) | [WANDS](https://open.spotify.com/artist/4iaPh4BzUKBQuunyMKVxU7) | [We Will Never Give Up](https://open.spotify.com/album/47q1dJtdX5WL2GVlSGCOaN) | 4:10 | 2023-08-15 | 2023-08-23 |
 | [Weekend](https://open.spotify.com/track/2FWDTbucnvUDT2pv3HR5Jl) | [Penpals](https://open.spotify.com/artist/4V8diCpPPWb4X7qav0BCNM) | [Weekend](https://open.spotify.com/album/1K5jez1Rj40wTRegT4BK15) | 3:55 | 2022-06-21 | 2022-07-14 |
 | [WeTube～夏やろうの夏～](https://open.spotify.com/track/3UGOzOlwGSZZw2kzNLFGL1) | [TUBE](https://open.spotify.com/artist/3PbLpi4wzurD94SXDhVQmQ) | [WeTube～夏やろうの夏～](https://open.spotify.com/album/2SIfgYJiD843A2GUQq8NxS) | 3:51 | 2023-08-15 | 2023-09-06 |
@@ -632,7 +634,7 @@
 | [ビートとベースとスクラッチ](https://open.spotify.com/track/5HcdlZaChx26a85DeBF4PO) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD) | [ビートとベースとスクラッチ](https://open.spotify.com/album/5JjZ6SGj9QdpNIqINYryDJ) | 3:21 | 2022-05-24 | 2022-05-28 |
 | [ピグマリオン](https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 4:38 | 2022-08-16 | 2022-10-12 |
 | [フェアウェル](https://open.spotify.com/track/29eO1P0Pl8yD6oyrnvUNNw) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [ファースト・ディケイド](https://open.spotify.com/album/4afJmYTlxOPCQ7NlOJyZsc) | 3:47 | 2022-10-05 | 2022-10-12 |
-| [フェイクドラマ](https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [最後に残るもの](https://open.spotify.com/album/7EgengpE1IcBrCnlN04J3r) | 3:47 | 2023-10-03 |  |
+| [フェイクドラマ](https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [最後に残るもの](https://open.spotify.com/album/7EgengpE1IcBrCnlN04J3r) | 3:47 | 2023-10-03 | 2023-10-05 |
 | [フェノメナルマン](https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [フェノメナルマン](https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq) | 3:00 | 2023-04-18 | 2023-04-20 |
 | [ブラッドサーキュレーター](https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma) | 3:42 | 2023-06-27 | 2023-07-12 |
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
@@ -653,7 +655,7 @@
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-07-04 |  |
 | [三叉路のふたり](https://open.spotify.com/track/2dxI9SqqEO00D4RyHeCKEz) | [Moonriders](https://open.spotify.com/artist/01o8KYRik9Eb3RbAm4T2hh) | [It's the moooonriders](https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc) | 2:56 | 2022-05-12 | 2022-05-18 |
 | [世界の真昼](https://open.spotify.com/track/7CvhO8yF4Xw0mbrBLQXrSB) | [割礼](https://open.spotify.com/artist/4BrmvqrDvcagflvt6lFNJ1) | [セカイノマヒル](https://open.spotify.com/album/7keZGSUJVc4X1Dbfcxro6m) | 4:12 | 2022-05-12 | 2022-06-06 |
-| [世界はこのまま変わらない](https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [感覚は道標](https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz) | 4:14 | 2023-10-03 |  |
+| [世界はこのまま変わらない](https://open.spotify.com/track/5LWAMBZqkfFzZ4lJvI4pNP) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [感覚は道標](https://open.spotify.com/album/0ueyYjPqJg4dWaDDTlnPfz) | 4:14 | 2023-10-03 | 2023-10-05 |
 | [世界は変わる](https://open.spotify.com/track/6uUXrI5TQTnrDgWj08OuoL) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [世界は変わる](https://open.spotify.com/album/5LdgdWiTXcrbTI5qkUh244) | 3:22 | 2022-06-09 | 2022-07-14 |
 | [今日の続きを](https://open.spotify.com/track/6eJqGKAaGIWQZ4zHZwhmI0) | [Scoobie Do](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/0kl03FkY6GYsty7uak2aJz) | 3:32 | 2022-08-23 | 2022-08-25 |
 | [会いに行く](https://open.spotify.com/track/1WAl0QDIFiNELLu2ecJdBs) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:04 | 2022-06-14 | 2022-06-22 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Deephouse in the mix for your delight.",
-  "name": "Deephouse Delight",
+  "description": "get into the groove",
+  "name": "Deep House Grooves",
   "tracks": [
     {
       "album": {
@@ -510,6 +510,24 @@
       "duration_ms": 373333,
       "name": "CODA",
       "url": "https://open.spotify.com/track/1hrRNhEG0ES4OC5rBCU1F8"
+    },
+    {
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/70tVPmDsLmLUNBhDHPMMCs"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270050,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/0xe11VQcc5L55QJiqNJV3l"
     },
     {
       "album": {
@@ -1345,6 +1363,28 @@
     },
     {
       "album": {
+        "name": "Half Pure (Da Poet Remix)",
+        "url": "https://open.spotify.com/album/0Pdad48zhthfLwDTBNBJnB"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Da Poet",
+          "url": "https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235142,
+      "name": "Half Pure - Da Poet Remix",
+      "url": "https://open.spotify.com/track/4bEmk2J9qhIlj0yJa8S8qN"
+    },
+    {
+      "album": {
         "name": "Harlem Hustle",
         "url": "https://open.spotify.com/album/3DtDxzORqwKZOqHjwvK6mx"
       },
@@ -1894,7 +1934,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 302022,
       "name": "Learn to Love",
       "url": "https://open.spotify.com/track/6tyREpqBKbEfkUeYTlH4nX"
@@ -2576,7 +2616,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 381000,
       "name": "Paradiso Mediterraneo",
       "url": "https://open.spotify.com/track/0RJLVVhJea15CzJTcMZ1ML"
@@ -3008,6 +3048,32 @@
       "duration_ms": 325289,
       "name": "Shadows of the Lost - Remix",
       "url": "https://open.spotify.com/track/6pvvX1TZ1guOwMYmutumcY"
+    },
+    {
+      "album": {
+        "name": "Shenkin (Remixes)",
+        "url": "https://open.spotify.com/album/0K33p5RA9r3pX8imhF76dp"
+      },
+      "artists": [
+        {
+          "name": "Iris Ell",
+          "url": "https://open.spotify.com/artist/0Sk1qaUGMbaLJ6bStLeXdm"
+        },
+        {
+          "name": "Frida Melando",
+          "url": "https://open.spotify.com/artist/534ZY7H55kjUhBSk0Ln5vh"
+        },
+        {
+          "name": "pi-c",
+          "url": "https://open.spotify.com/artist/3ME6Xrst3i91iKU61wcjZo"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288430,
+      "name": "Shenkin (pi-c remix)",
+      "url": "https://open.spotify.com/track/57pHVJns05fr1dB8rckLbn"
     },
     {
       "album": {
@@ -3520,7 +3586,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 316874,
       "name": "These Changes",
       "url": "https://open.spotify.com/track/3UCArpyMo2NeLSJxUskh54"

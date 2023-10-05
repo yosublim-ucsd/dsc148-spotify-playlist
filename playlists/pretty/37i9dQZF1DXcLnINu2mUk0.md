@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Domingues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,822 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,855 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 37 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 38 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 39 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
-| 40 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
-| 41 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
+| 40 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
+| 41 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 42 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 43 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 44 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
 | 60 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
 | 61 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
-| 62 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
-| 63 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 |
-| 64 | [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 |
-| 65 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
-| 66 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
+| 62 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 |
+| 63 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
+| 64 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
+| 65 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
+| 66 | [Oh My God](https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Oh My God](https://open.spotify.com/album/73jc5vFY5fpRamIdJNQ97G) | 2:45 |
 | 67 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 |
 | 68 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
-| 69 | [Run For You](https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [Run For You](https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9) | 2:49 |
-| 70 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
+| 69 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
+| 70 | [Run For You](https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [Run For You](https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9) | 2:49 |
 
-Snapshot ID: `MCw4ODUxOTE0Zjg2YzNhODM0NjE0MTgwODIwZDUzNTlhZTQ3NGJiZmM2`
+Snapshot ID: `MCw3MGFlNTQwNmY5M2E2ZmQyYmFkOGU5NzdiM2JkZWY0MGEwNDZhODU1`

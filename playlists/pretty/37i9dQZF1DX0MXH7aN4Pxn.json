@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 690182,
+  "num_followers": 690192,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzlkZWY1NWM2YzVlZmI1YjdlYzRjODBmNWIyYTVmNjdhZTJmMmVk",
+  "snapshot_id": "MCw0YWU1OTVlYTdkYzg2ZWFiMGQyNTNhYjVlYmZlYjY0YTYyOGUwMzZl",
   "tracks": [
     {
       "added_at": "2023-09-22 00:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        }
-      ],
-      "duration_ms": 256406,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
         }
       ],
-      "duration_ms": 167998,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -679,6 +659,26 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Freedom 2",
-        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
-      },
-      "artists": [
-        {
-          "name": "Kwengface",
-          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
-        },
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 206931,
-      "name": "Freedom 2",
-      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
         "url": "https://open.spotify.com/album/1XTzHBeO7yYUnkkYN6i0V1"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 160000,
       "name": "Essex Girls (feat. Jaykae, Silky & Janice Robinson)",
       "url": "https://open.spotify.com/track/3PIFmXwdhCKITMmWQqXhef"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Freedom 2",
+        "url": "https://open.spotify.com/album/2vMoaiAWsGENn1oCI2EWXN"
+      },
+      "artists": [
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        },
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 206931,
+      "name": "Freedom 2",
+      "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Blow Out",
-        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 216070,
-      "name": "Blow Out",
-      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Blow Out",
+        "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 216070,
+      "name": "Blow Out",
+      "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Sextacy",
         "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 153600,
       "name": "Sextacy",
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
+        "name": "Settle (Deluxe)",
+        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
         "name": "Black Hole (Goodboys Remix)",
         "url": "https://open.spotify.com/album/6tule1mz3fhX8MwY1k7rAn"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Settle (Deluxe)",
-        "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 284026,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE"
+      "duration_ms": 181662,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 151436,
       "name": "So Sick",
       "url": "https://open.spotify.com/track/6ee7GQEkmWld8pGIl0E19Z"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
-        "name": "Middle",
-        "url": "https://open.spotify.com/album/2KEqAvo0SNgh8IkvfFD15f"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 181662,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/2UtatN3L6WIB7fultoOKra"
     },
     {
       "added_at": "2023-09-22 00:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-09-22 00:00:00",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 147987,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
-    },
-    {
-      "added_at": "2023-09-22 00:00:00",
-      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/6HCH2cdZK9JAAbgDeijTJR"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 153412,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/7GxgdE0yni4IKu8DSg5ibQ"
+    },
+    {
+      "added_at": "2023-09-22 00:00:00",
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 147987,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
     },
     {
       "added_at": "2023-09-22 00:00:00",

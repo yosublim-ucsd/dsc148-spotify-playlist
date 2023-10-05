@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 
 > The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,716 likes - 24 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25,726 likes - 24 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyQamatDptq.md) - [plain]
 | 23 | [Ride \- Mixed](https://open.spotify.com/track/7ffdDoyugMNyplWKXNY2px) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Ori Rose](https://open.spotify.com/artist/3MWVJObrsu2HA6XGO1sTdn) | [Ride \(Mixed\)](https://open.spotify.com/album/7dtFnjxB5o9la4oWSc595H) | 2:50 |
 | 24 | [No Sleep Til MTL \- Mixed](https://open.spotify.com/track/4ucoiL4jKdF1aMW6UQP615) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m) | [No Sleep Til MTL \(Mixed\)](https://open.spotify.com/album/6ZxeYA3nBnZGckdncnC5yu) | 5:02 |
 
-Snapshot ID: `MCxiOTVhODc0YmQzOWI0OTAyZmNiOWUxYTc1YWJkMGM2YjFkNjdlODRj`
+Snapshot ID: `MCwxZDdkMTc4N2E4ZmVhNzI4OTU4YTkzNjlmYjZiNWY0ZTk1NmVjNmIw`

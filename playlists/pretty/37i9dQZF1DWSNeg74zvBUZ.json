@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 19143,
+  "num_followers": 19149,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ2YmIxYWVmNzBlMWZiYjFkNTFkOTdiMDcxNmE3MzFkYWExZmIw",
+  "snapshot_id": "MCw2NzU1MTU4NDJjOTBkNGVmNjUwODc3NjJiYzE5MzM4YWFkN2M2ZmY2",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 347466,
-      "name": "Chromakey Dreamcoat",
-      "url": "https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP"
-    },
-    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -355,6 +339,22 @@
       "duration_ms": 273117,
       "name": "It Was 9:30 and You Were Beautiful",
       "url": "https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/6ebsOJuLxaE2ArKhm1DMqP"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Antiphonals",
+        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 188697,
+      "name": "Gradual of Image",
+      "url": "https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Mixing Colours",
         "url": "https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Antiphonals",
-        "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 188697,
-      "name": "Gradual of Image",
-      "url": "https://open.spotify.com/track/5m2Tets6QqS5IMuL0v8pf4"
     },
     {
       "added_at": "2021-09-10 04:35:25",

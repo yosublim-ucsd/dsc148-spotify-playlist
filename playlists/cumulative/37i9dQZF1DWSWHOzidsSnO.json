@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Shakira.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Briella.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -3527,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT"
+      },
+      "artists": [
+        {
+          "name": "Briella",
+          "url": "https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd"
+    },
+    {
+      "album": {
         "name": "Solterona",
         "url": "https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4"
       },
@@ -4020,7 +4038,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 276300,
       "name": "Unidas",
       "url": "https://open.spotify.com/track/6GHaBE6agqqTithZth0rkk"

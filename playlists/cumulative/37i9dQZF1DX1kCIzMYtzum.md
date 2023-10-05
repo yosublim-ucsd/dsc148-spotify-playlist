@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-509 songs - 1 day 2 hr 33 min
+510 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx) | 3:35 | 2021-06-04 | 2023-03-11 |
 | [Best Of Me](https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Best Of Me](https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v) | 2:26 | 2023-07-28 | 2023-09-08 |
 | [Better Now](https://open.spotify.com/track/0iF6QJbS6FRPokpyVHVkKt) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Better Now](https://open.spotify.com/album/1sxLfxxH97kfONHW76WRgL) | 3:01 | 2022-10-28 | 2023-02-04 |
+| [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 | 2023-09-29 |  |
 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 | 2023-02-24 |  |
 | [Bifrost](https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Bifrost](https://open.spotify.com/album/0Phjy3NVF9RjzqPBA59y31) | 2:35 | 2022-10-07 | 2022-12-06 |
 | [Big Love \(with Wrabel\)](https://open.spotify.com/track/0PGpWcKIlayTwPdz6Qstol) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Big Love \(with Wrabel\)](https://open.spotify.com/album/65E5WecAFom4a3rFAM3J2S) | 3:02 | 2021-06-02 | 2022-04-10 |
@@ -219,7 +220,7 @@
 | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/track/5IztgoHg3NQGep7SjbI5W7) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ) | 3:02 | 2022-07-15 | 2023-02-10 |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2022-03-18 | 2022-04-19 |
 | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 | 2022-11-29 | 2023-07-17 |
-| [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-21 |  |
+| [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-21 | 2023-10-05 |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-17 | 2023-02-18 |
 | [Kong](https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Kong](https://open.spotify.com/album/3bBQi7fx59FjnpFBWOxgPq) | 2:13 | 2022-03-18 | 2022-04-06 |
 | [La Danse](https://open.spotify.com/track/0NkOrQXPqhUe7tIfjenEIi) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [La Danse](https://open.spotify.com/album/7A6UFmhuy01DsjNIMckhPl) | 4:08 | 2022-12-16 | 2023-04-16 |

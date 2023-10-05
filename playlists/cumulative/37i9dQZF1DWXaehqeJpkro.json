@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fancy belting out your favourite Korean songs? (Cover: Tei(\ud14c\uc774)) (\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Fancy belting out your favourite Korean songs? (Cover: Parc Jae Jung(\ubc15\uc7ac\uc815)) (\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Sing Along K-Pop (\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694)",
   "tracks": [
     {
@@ -320,6 +320,24 @@
       "duration_ms": 208863,
       "name": "BBoom BBoom",
       "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     },
     {
       "album": {
@@ -1209,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+    },
+    {
+      "album": {
         "name": "MSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C"
       },
@@ -1629,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
+    },
+    {
+      "album": {
         "name": "HeeJae (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wqchZ5AFWr6akPCH6h74O"
       },
@@ -1716,6 +1770,24 @@
       "duration_ms": 179026,
       "name": "Hype Boy",
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
       "album": {
@@ -2260,6 +2332,42 @@
       "duration_ms": 210024,
       "name": "Let's Have a Drink",
       "url": "https://open.spotify.com/track/26GfPMUuBToGLUlEmjE2Go"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
+      },
+      "artists": [
+        {
+          "name": "Parc Jae Jung",
+          "url": "https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "Let's Say Goodbye",
+      "url": "https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Well (My love X Roy Kim)",
+        "url": "https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "Let's Stay Well (My love X Roy Kim)",
+      "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
     },
     {
       "album": {
@@ -3347,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
         "name": "DON\u2019T MESS UP MY TEMPO \u2013 The 5th Album",
         "url": "https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D"
       },
@@ -3983,6 +4109,24 @@
     },
     {
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "album": {
         "name": "Your Regards",
         "url": "https://open.spotify.com/album/3GGd74l9qQz3nu8nWnntAs"
       },
@@ -4239,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Yarn's Best Vol.1",
+        "url": "https://open.spotify.com/album/43fHwMitZWvkOAN4aeI4jP"
+      },
+      "artists": [
+        {
+          "name": "Yarn",
+          "url": "https://open.spotify.com/artist/3226f2U0gI31nf1pUdNO8t"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264646,
+      "name": "\uadf8\ub798\uc11c \uadf8\ub300\ub294",
+      "url": "https://open.spotify.com/track/5aVuzoktGBQRedWuHqRhLC"
+    },
+    {
+      "album": {
         "name": "SBS Archive K - K-POP",
         "url": "https://open.spotify.com/album/0wQi0RmbvIZIEkLDjjE5x5"
       },
@@ -4392,6 +4554,24 @@
       "duration_ms": 339837,
       "name": "\ub208\uc758 \uaf43",
       "url": "https://open.spotify.com/track/2fRFwWwZG7Qfkui7GcxTMy"
+    },
+    {
+      "album": {
+        "name": "Mask Singer 47th (Live Version)",
+        "url": "https://open.spotify.com/album/1bgMYNZHBOxr8iFd3IQPIK"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242391,
+      "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4\uba74 (\ub2c8\uae00\ub2c8\uae00 \ubc84\ud130\ud50c\ub77c\uc774)",
+      "url": "https://open.spotify.com/track/3UGHBnuq4cFToHy3JfbFcB"
     },
     {
       "album": {
@@ -4738,6 +4918,24 @@
       "duration_ms": 226548,
       "name": "\uc751\uae09\uc2e4",
       "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
+    },
+    {
+      "album": {
+        "name": "Wear To Healing",
+        "url": "https://open.spotify.com/album/2AnkRwvtuLl5DwmrwSRndo"
+      },
+      "artists": [
+        {
+          "name": "\uc57c\ub2e4",
+          "url": "https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243908,
+      "name": "\uc774\ubbf8 \uc2ac\ud508 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/4OKJVnIyO8KRq182dstNOI"
     },
     {
       "album": {

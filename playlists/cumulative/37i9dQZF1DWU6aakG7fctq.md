@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Camilo Séptimo
 
-466 songs - 1 day 1 hr 56 min
+467 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Everlasting](https://open.spotify.com/track/3wuVrvfmeiRx9kxXnGc95b) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Everlasting](https://open.spotify.com/album/2PQOF8sJwxJODZ4MZ97mYn) | 3:36 | 2022-01-10 | 2022-06-02 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/3cChN0lUEGVlJSGcMKyAsx) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [Everybody Wants to Rule the World](https://open.spotify.com/album/4N1Ji6AB9p3FW2xY5hDkRk) | 3:58 | 2021-11-18 | 2022-08-12 |
 | [Fall For You](https://open.spotify.com/track/6YMGAqoovESxBp0SKFghOb) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Fall For You](https://open.spotify.com/album/1hbfRi8UEWfUnp43K0vm2b) | 3:04 | 2023-03-31 | 2023-04-15 |
-| [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 | 2023-09-22 |  |
+| [Falling](https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Young In California](https://open.spotify.com/album/1reYO7vImj6L4ZshyK9qZP) | 3:45 | 2023-09-22 | 2023-10-05 |
 | [Fantasmas](https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:43 | 2021-11-18 | 2022-08-12 |
 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-01-27 | 2023-08-05 |
 | [Flores](https://open.spotify.com/track/7KWDvbAWboTeiv88krkdLR) | [Werio](https://open.spotify.com/artist/68C2TcobW47veMxXfdGGOm) | [Flores](https://open.spotify.com/album/7M9NCzlNxeDsW8kiIZzaW4) | 3:22 | 2021-11-18 | 2022-07-28 |
@@ -181,6 +181,7 @@
 | [Insurgentes](https://open.spotify.com/track/51fZQgHPcn6IZVxkzaYtwd) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/2KAixjSEqmUfFSydwMjcqo) | 2:11 | 2023-05-12 | 2023-05-14 |
 | [Insurgentes](https://open.spotify.com/track/55dWedr5JIwHvQHtLVLwJF) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Insurgentes](https://open.spotify.com/album/5sEEdxOd9g4kTHPBvqgM6h) | 2:13 | 2023-05-12 | 2023-07-10 |
 | [Insurgentes](https://open.spotify.com/track/6ADCLS1XOCRC1ZK66TlXyH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:13 | 2023-08-04 |  |
+| [INVISIBLE](https://open.spotify.com/track/3OlK094z1LQdceoqsyQlhv) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [INVISIBLE](https://open.spotify.com/album/2ydcEadqA3CdrPGreJnZ3R) | 2:22 | 2023-09-22 |  |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2021-11-18 | 2022-08-12 |
 | [Jugo de Guayaba](https://open.spotify.com/track/3CNfhlYS0BPlbSUULODzb6) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Jugo de Guayaba](https://open.spotify.com/album/5wGmJjNKp3kuxlGwKN10Iw) | 2:56 | 2023-06-23 |  |
 | [Junto a Ti](https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [777](https://open.spotify.com/album/1ycyPY7nsBl0ijtskuAiAP) | 3:52 | 2021-11-18 | 2022-07-29 |

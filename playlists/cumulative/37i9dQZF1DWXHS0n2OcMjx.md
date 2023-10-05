@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-506 songs - 19 hr 9 min
+509 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Buzz](https://open.spotify.com/track/6OYZJdCCyKO4QWx6aKzFmp) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO) | [Buzz](https://open.spotify.com/album/1KWOSd5beQnwGJsw3FdRmh) | 1:56 | 2023-09-22 |  |
 | [by my side](https://open.spotify.com/track/14E6QhRJWOv2yvwLmUMZkJ) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [withdrawn vol.2](https://open.spotify.com/album/371yrARxg3TjHiBxOTHNC5) | 2:35 | 2022-07-08 | 2023-09-09 |
 | [by my side](https://open.spotify.com/track/3gdl12CFiK1DRFK3d330Sj) | [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [The Essentials : ihaveaface](https://open.spotify.com/album/6Oyr9oQT8ERPIhjonTDrHW) | 2:35 | 2022-04-08 | 2022-07-29 |
-| [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2023-09-22 |  |
+| [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2023-09-22 | 2023-10-05 |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2023-09-22 |  |
 | [c ya soon](https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [c ya soon](https://open.spotify.com/album/19LWNsp8XImmOBygYPQXCS) | 2:07 | 2023-09-22 |  |
 | [Call It A Day](https://open.spotify.com/track/6CY9Zcmxx1ejM8zLZ6zZt2) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Call It A Day](https://open.spotify.com/album/2lHULC9ckQqgTD9SQki0yZ) | 2:19 | 2023-09-22 |  |
@@ -73,7 +73,7 @@
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [Change Ain't Bad](https://open.spotify.com/track/1GLHd8HvaMTaul0CR0YlYo) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Lagom](https://open.spotify.com/album/4k7Eh3WH907ikJlxC5B0C4) | 2:06 | 2022-04-08 | 2023-09-23 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-04-08 | 2023-09-23 |
-| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-09-22 |  |
+| [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-09-22 | 2023-10-05 |
 | [Cherries and Blossoms](https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV) | [Aiko Ai](https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby) | [Cherries and Blossoms](https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW) | 1:43 | 2023-09-22 |  |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2023-09-22 |  |
 | [Chilled.](https://open.spotify.com/track/1EU15pwaX4T8xrHD3w5ove) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Chilled.](https://open.spotify.com/album/1HYraiL1W5J9idv5RgidTr) | 1:34 | 2022-07-08 |  |
@@ -84,6 +84,7 @@
 | [city signs](https://open.spotify.com/track/2pbNxwPO7CIgRTiwiuEvTN) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [city signs](https://open.spotify.com/album/6K7wrCG1xu2oJ1NsOnm5Fy) | 1:59 | 2023-09-22 |  |
 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 | 2023-09-22 |  |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-22 |  |
+| [Close Your Eyes](https://open.spotify.com/track/0DC95ThOGhL8F1jIhcXmrp) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Close Your Eyes](https://open.spotify.com/album/6EYYGetEziBvVnSK5TbiPh) | 2:54 | 2023-09-29 |  |
 | [Closure](https://open.spotify.com/track/7KB7RLhbzmqStS1SEo2NSW) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Closure](https://open.spotify.com/album/3LRewjQy7glNhpdgzl3VS3) | 1:51 | 2023-09-22 |  |
 | [Cold](https://open.spotify.com/track/52ySoNs47RPsBJEEjUvnQe) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [Cold](https://open.spotify.com/album/6EXP2j4i43fQjPy1qdIecE) | 2:15 | 2023-09-22 |  |
 | [Color Code](https://open.spotify.com/track/6ZnnfBbGg3OzhAm6G1aGXe) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Code](https://open.spotify.com/album/0pFkWTWSTo2hNqC4gfbYlP) | 1:52 | 2022-04-08 | 2023-09-09 |
@@ -244,6 +245,7 @@
 | [Life Rent](https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 2:01 | 2022-04-08 | 2023-09-23 |
 | [Lift You Up](https://open.spotify.com/track/0EfQpTq8NDJG40Llhg411d) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Lift You Up](https://open.spotify.com/album/4uvtK9zrNy3GBQ9BVgKAXi) | 2:51 | 2023-09-22 |  |
 | [Listen](https://open.spotify.com/track/7qw7kzv9dioHte3XY5MVnJ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Listen](https://open.spotify.com/album/3LsLzJIgkNTN7ZlelPGvj8) | 2:24 | 2023-09-22 |  |
+| [Lizards and Lattes](https://open.spotify.com/track/3WF6J4P4ozwQ1hbQMzGtID) | [Wruce Billis](https://open.spotify.com/artist/4EhDrnqEaFfNnjJkljUmRx) | [Lizards and Lattes](https://open.spotify.com/album/6MFXbVjc0gexy3Qvv3WuLb) | 1:59 | 2023-09-29 |  |
 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 | 2023-09-22 |  |
 | [Load Game \(Stardew Valley\)](https://open.spotify.com/track/35C8hj4I6JNY2nYbTrFrrc) | [Coffee Date](https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Load Game \(Stardew Valley\)](https://open.spotify.com/album/6amw5ydhWMZJ68Hnw5CmNd) | 2:27 | 2022-05-13 | 2023-09-23 |
 | [Loafing About](https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Loafing About](https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi) | 2:48 | 2023-09-22 | 2023-10-04 |
@@ -323,8 +325,9 @@
 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 | 2023-09-22 |  |
 | [Pacific Parc](https://open.spotify.com/track/1tDZO0ohKGDhKSYO1Ng1UI) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Pacific Parc](https://open.spotify.com/album/7uHn7k5MAbF4yjoPWbBJZZ) | 1:41 | 2022-04-08 | 2023-09-09 |
 | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/track/3N0FWBeTdzCNL6N0idBqqG) | [Mik](https://open.spotify.com/artist/5rQt28kugM2JTzkJtgNovi), [Chill Astronaut](https://open.spotify.com/artist/6QjN6GM0FYKcviJrQoAsbD) | [Padmé's Destiny \(Star Wars Lofi\)](https://open.spotify.com/album/43zKBAbB6apBO0SyJ4GWaT) | 1:35 | 2023-09-22 |  |
-| [pan au chocolat + cappuccino](https://open.spotify.com/track/2YXVBCH7FV1tPJ8sqTzbIx) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [pan au chocolat + cappuccino](https://open.spotify.com/album/0MBNo9eQbqiFdy5Sp3hVnP) | 1:53 | 2023-09-22 |  |
+| [pan au chocolat + cappuccino](https://open.spotify.com/track/2YXVBCH7FV1tPJ8sqTzbIx) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [pan au chocolat + cappuccino](https://open.spotify.com/album/0MBNo9eQbqiFdy5Sp3hVnP) | 1:53 | 2023-09-22 | 2023-10-05 |
 | [Parallax](https://open.spotify.com/track/2wtAveNu0CDS788jUw9vT1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Parallax](https://open.spotify.com/album/2REZP9taA539SwDMnWd8TZ) | 2:57 | 2023-09-22 | 2023-10-04 |
+| [Past Bedtime](https://open.spotify.com/track/4kCS9oguhIvt2d50M0Gj3Q) | [HollyDave](https://open.spotify.com/artist/0fwfq3m3px40mSeOdDPVnJ) | [Past Bedtime](https://open.spotify.com/album/3qZ3lO3W6gWE1004dR6zky) | 2:05 | 2023-09-29 |  |
 | [Paths](https://open.spotify.com/track/6WnOk6l8nfYrGKWwO2JHuz) | [N.Musicbeatz](https://open.spotify.com/artist/2M86Cziok8vbyZdioTtLtw) | [Paths](https://open.spotify.com/album/5VksEj9dhemS3fRLqs27Mz) | 2:47 | 2022-04-08 | 2022-04-22 |
 | [patience](https://open.spotify.com/track/581rS6GEc0dfjRtCZVWuIt) | [Blue Bag](https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar) | [patience](https://open.spotify.com/album/1xTdPMruyTcfBsp53Ot5ch) | 2:05 | 2023-09-22 |  |
 | [Patio](https://open.spotify.com/track/0OaFl9EiO0GTPE7FCqFJAa) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Patio](https://open.spotify.com/album/2ti0MLxyo7TrDZi5r1mheh) | 1:33 | 2023-09-22 | 2023-10-01 |

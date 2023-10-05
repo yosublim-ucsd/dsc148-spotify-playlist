@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/2ncIJGdJ3qP4sus8MJRZDE"
+      },
+      "artists": [
+        {
+          "name": "Yvon Brosseau",
+          "url": "https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183583,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/010Fakb9MSuX7JKJXpYdMn"
+    },
+    {
+      "album": {
         "name": "Covers of Popular Love Songs on Harp",
         "url": "https://open.spotify.com/album/2bliklpSIhmoyXBcIpEVF3"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 86086,
       "name": "All your dreams",
       "url": "https://open.spotify.com/track/0M3V23JVlV6YtaOigHn8xV"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 113752,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7D974yUD17vx2AMIx0xw0d"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 89061,
       "name": "An alarc'h Celtic Harp Music",
       "url": "https://open.spotify.com/track/7KkzxHONrs8jGmto2R1kSl"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 107116,
       "name": "Angelic Harp",
       "url": "https://open.spotify.com/track/6veBbD4BqHpjRg6Il27Wd9"
@@ -142,7 +160,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 77414,
       "name": "Atardecer",
       "url": "https://open.spotify.com/track/0FWNmkCXKuB7hjIQFdrWiq"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 113957,
       "name": "Aurelia's Mermaid",
       "url": "https://open.spotify.com/track/7lSMV8D3zNIM42rxNce0EH"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 112432,
       "name": "Come Along",
       "url": "https://open.spotify.com/track/0sTXG5pN6SNmIeldiAS5PX"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 83624,
       "name": "Cuando Duermes",
       "url": "https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 68347,
       "name": "Down the River",
       "url": "https://open.spotify.com/track/6IcLI0Fo5egePIjWt05mUp"
@@ -546,7 +564,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 102782,
       "name": "Feeling Happy",
       "url": "https://open.spotify.com/track/6YemG0JU5lTv7X3Qc5UajS"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 96756,
       "name": "Friday Siesta",
       "url": "https://open.spotify.com/track/3yjLKa8yVi6lLlNS0kl9mL"
@@ -636,7 +654,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 108884,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/7CwUf0NzKiRlxnMKpQqmEz"
@@ -845,6 +863,24 @@
     },
     {
       "album": {
+        "name": "High Winds",
+        "url": "https://open.spotify.com/album/7BiSDta5reW3jBCzJJ9O1F"
+      },
+      "artists": [
+        {
+          "name": "Zaid Kharal",
+          "url": "https://open.spotify.com/artist/51C9KR7C0MbdzUwQ7uRiLj"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201454,
+      "name": "High Winds",
+      "url": "https://open.spotify.com/track/1WOnU5JOwaUudohBX1lCbg"
+    },
+    {
+      "album": {
         "name": "Il Nostro Viaggio",
         "url": "https://open.spotify.com/album/4hwlkbgRByzifZq01kkERi"
       },
@@ -910,7 +946,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 420000,
       "name": "Journey to Infinity",
       "url": "https://open.spotify.com/track/4fvW97Q9pTAE1wX2Jwl8YG"
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 97500,
       "name": "Little Flower",
       "url": "https://open.spotify.com/track/5GxaNI9vlgxHnogjQjjZm2"
@@ -1250,10 +1286,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 78750,
       "name": "Maryanne's Song",
       "url": "https://open.spotify.com/track/62EvyXd17LzHEBXPZurMHj"
+    },
+    {
+      "album": {
+        "name": "Meditation Harp",
+        "url": "https://open.spotify.com/album/4SMGGC98ipuBNc2FpBthzT"
+      },
+      "artists": [
+        {
+          "name": "Aden Cloud",
+          "url": "https://open.spotify.com/artist/1X13YqlCwaDIj1uvC36gln"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183583,
+      "name": "Meditation Harp",
+      "url": "https://open.spotify.com/track/2801TTsALcH1rpE9fRJJRb"
     },
     {
       "album": {
@@ -1272,6 +1326,24 @@
       "duration_ms": 235800,
       "name": "Medley : Limerick Is Beautiful / Kilcash",
       "url": "https://open.spotify.com/track/3VbAEIOn8oV2BnBimhPbFo"
+    },
+    {
+      "album": {
+        "name": "Moonstone",
+        "url": "https://open.spotify.com/album/6QkElOpqM7hw4KPKziIybX"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/45Vp8l2HUsIANJm4T6izXF"
     },
     {
       "album": {
@@ -1416,7 +1488,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 102000,
       "name": "Never Ending",
       "url": "https://open.spotify.com/track/0QlCNcvRFubwx80V6niKK8"
@@ -1518,7 +1590,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 121963,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/2nXVRLcHudM8fJfOVnOIoU"
@@ -1572,7 +1644,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 99250,
       "name": "Pajama Time",
       "url": "https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT"
@@ -1608,7 +1680,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 82105,
       "name": "Pluie",
       "url": "https://open.spotify.com/track/6vrUEVa0bxM0R9jIeksjKt"
@@ -1698,7 +1770,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 419400,
       "name": "Quantum Energy",
       "url": "https://open.spotify.com/track/5xJOr6LpapHIKGNxhhZR1s"
@@ -1930,7 +2002,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 71351,
       "name": "Scale of Dreams",
       "url": "https://open.spotify.com/track/57q0DJRzvwzW7zjpqi5E0w"
@@ -1973,6 +2045,24 @@
     },
     {
       "album": {
+        "name": "Sightings",
+        "url": "https://open.spotify.com/album/3Ye1KGMTXPw0TBMkUAHYD0"
+      },
+      "artists": [
+        {
+          "name": "Ala Paracha",
+          "url": "https://open.spotify.com/artist/1v9HyVz3cXUbEpK9QONJ8D"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sightings",
+      "url": "https://open.spotify.com/track/5ySWIRF32lNet9eAGwjJna"
+    },
+    {
+      "album": {
         "name": "Search For The Light",
         "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
       },
@@ -2002,7 +2092,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 103826,
       "name": "Singing for You",
       "url": "https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa"
@@ -2135,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Stationary",
+        "url": "https://open.spotify.com/album/35R9NuEjzygzFFoEqS05lH"
+      },
+      "artists": [
+        {
+          "name": "Caiharice",
+          "url": "https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Stationary",
+      "url": "https://open.spotify.com/track/0rfgpx592J4Ed7NVuzNSmL"
+    },
+    {
+      "album": {
         "name": "Strings Of Serenity",
         "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
       },
@@ -2164,7 +2272,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 103324,
       "name": "S\u00edoch\u00e1in",
       "url": "https://open.spotify.com/track/6FUMrOxk7rMqh9aIaWfuWc"
@@ -2182,7 +2290,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 100623,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/1UURN4ELzsR583TwuuZ91E"
@@ -2218,7 +2326,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 106508,
       "name": "The Dark Island",
       "url": "https://open.spotify.com/track/6GObXHn5R6SCO3sbwGKRLR"
@@ -2276,7 +2384,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 65500,
       "name": "The Ice Cream King",
       "url": "https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d"
@@ -2312,7 +2420,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 92778,
       "name": "The Quiet Land of Erin",
       "url": "https://open.spotify.com/track/3L30p2tIeHnQ8kQouiCfcR"
@@ -2366,7 +2474,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 112555,
       "name": "The Whirling Ways of Stars that Pass",
       "url": "https://open.spotify.com/track/1VWYKR91K0WYMxyBHNaYxt"
@@ -2420,7 +2528,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 91500,
       "name": "Two Thumbs Up",
       "url": "https://open.spotify.com/track/4ZMewuctVgUDOar3FNNgjC"
@@ -2438,10 +2546,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 439745,
       "name": "Under the Milky Way",
       "url": "https://open.spotify.com/track/4c35Nwjx5YnGwleLeSLfMR"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5iLPFFFKwQlFmWevEn3E3S"
+      },
+      "artists": [
+        {
+          "name": "Sanguinus",
+          "url": "https://open.spotify.com/artist/0qf4Rq4omzrxX03ZttRH3P"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/5ILgooP7x12Gl8NBfzRgEP"
     },
     {
       "album": {
@@ -2492,7 +2618,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 115804,
       "name": "Without me",
       "url": "https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb"

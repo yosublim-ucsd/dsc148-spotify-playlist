@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Onestar\(임한별\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:Kassy\(케이시\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,011 songs - 2 day 17 hr 34 min
+1,014 songs - 2 day 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [One Small Day](https://open.spotify.com/track/0yWidm1JpKns67r0W3oTUc) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House 2](https://open.spotify.com/album/24cIjlP36dlt3XsERLqrrE) | 4:12 | 2023-01-10 | 2023-02-25 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 |  |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2021-12-23 | 2022-07-01 |
+| [Only You](https://open.spotify.com/track/3MODKrKhGJHI8pRP9Ih5k0) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Only You](https://open.spotify.com/album/0HZOGEkR6cFL6qXnlC4Vun) | 3:45 | 2023-10-04 |  |
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-01 | 2022-11-23 |
 | [Only You](https://open.spotify.com/track/6ubmkHNAPgJnqHUVb0qZ2M) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Only You](https://open.spotify.com/album/0Si3voeOstMVmSawqW9NJs) | 4:33 | 2023-03-15 | 2023-07-08 |
 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 | 2023-06-15 |  |
@@ -694,6 +695,7 @@
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-12-20 | 2022-03-07 |
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-03-31 | 2022-06-21 |
 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2023-05-05 | 2023-05-16 |
+| [Sad Day](https://open.spotify.com/track/4dM8ymy2J1mxQ5VY2s2lFC) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3), [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Sad Day](https://open.spotify.com/album/0HfQVaIoJO3MeMUbzU7Rig) | 4:06 | 2023-10-04 |  |
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |
 | [Save Me](https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Save Me](https://open.spotify.com/album/3NuWeE7Zroxt50f1c3Z45g) | 3:45 | 2022-11-07 | 2023-01-21 |
@@ -702,6 +704,7 @@
 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2021-12-20 | 2022-07-08 |
 | [Say You Love Me, Please](https://open.spotify.com/track/2j4wvCivrFmYCJdCVXnAeI) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Say You Love Me, Please](https://open.spotify.com/album/2OmpCFrEM7MlskEEBbrOA2) | 4:34 | 2023-02-24 | 2023-04-27 |
 | [Scars leave beautiful trace](https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Alchemy of Souls, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR) | 3:33 | 2022-07-07 | 2022-09-30 |
+| [Scented Things](https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Unfading Sense \- The 5th Mini Album](https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw) | 4:19 | 2023-10-04 |  |
 | [Sea embrace](https://open.spotify.com/track/7Mq7FFRRSTK0AsfJ3L6Iio) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [sea embrace](https://open.spotify.com/album/0J0JusNg8kl65dkkLV1JOK) | 4:20 | 2022-07-07 | 2022-09-06 |
 | [Season that doesn't exist](https://open.spotify.com/track/1v8XwbN8dIcDfTSOondTJT) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Season that doesn't exist](https://open.spotify.com/album/7CWzdLS0zw8drF8L5Ss4W7) | 4:32 | 2023-02-14 | 2023-03-28 |
 | [See you in the evening](https://open.spotify.com/track/2lV347jDNzJz2OwCVaDhJi) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [See you in the evening](https://open.spotify.com/album/3llkSnfUdej1mQdDxnyZQj) | 3:44 | 2022-07-07 | 2022-07-12 |

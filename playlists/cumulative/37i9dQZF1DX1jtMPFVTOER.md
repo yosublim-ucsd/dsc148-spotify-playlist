@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-496 songs - 1 day 5 hr 34 min
+497 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Let's Never Stop Growin' Up](https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc) | [Lillian Blue Makin](https://open.spotify.com/artist/69NqHAYlZQ6ueRawGqqINh) | [Let's Never Stop Growin' Up](https://open.spotify.com/album/1HIfrxDU5QmimT5JTNFUXG) | 3:08 | 2022-04-22 | 2022-09-10 |
 | [Let's Talk About Sex](https://open.spotify.com/track/4hphboJQdphT27cfn9A0qp) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Maiya Blaney](https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl), [Goodwerks](https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM) | [Broken Glass, Vol\. 2](https://open.spotify.com/album/71Y9CNBSIPw6SXN83wtvmy) | 2:46 | 2023-07-14 |  |
 | [LIGHTER FLUID](https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [LIGHTER FLUID](https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ) | 2:13 | 2023-04-14 |  |
-| [Like A Trap](https://open.spotify.com/track/02MZHCU9oBqxtqEB369fD9) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Like A Trap / Runway \[Ticket\] / Crystal Ball Room](https://open.spotify.com/album/1U5yo9uoLUJsw62K9lUqFq) | 3:14 | 2023-04-28 |  |
+| [Like A Trap](https://open.spotify.com/track/02MZHCU9oBqxtqEB369fD9) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Like A Trap / Runway \[Ticket\] / Crystal Ball Room](https://open.spotify.com/album/1U5yo9uoLUJsw62K9lUqFq) | 3:14 | 2023-04-28 | 2023-10-05 |
+| [Like A Trap](https://open.spotify.com/track/2hfkuNjCb2taJLSPYAWC3s) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 3:14 | 2023-04-28 |  |
 | [Lila's Theme](https://open.spotify.com/track/3YQRELjxAeVd4SPxVo7AoN) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Lila's Theme](https://open.spotify.com/album/1BnNxLd5vbkaxvEU8x5a3N) | 3:28 | 2022-10-14 | 2023-04-01 |
 | [Listen To The Sky](https://open.spotify.com/track/1SBnGYwfPHo89L5iVt6yNT) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Listen To The Sky](https://open.spotify.com/album/3G9hrfPSpBsvBwcgLT4i7u) | 2:52 | 2023-09-15 |  |
 | [Lookin' at the World](https://open.spotify.com/track/248XESwp5QmNsE0YsMVOGN) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [So So Topic](https://open.spotify.com/artist/01c1PKupQuh194xNZWMCV9) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 4:04 | 2021-11-12 | 2022-02-19 |

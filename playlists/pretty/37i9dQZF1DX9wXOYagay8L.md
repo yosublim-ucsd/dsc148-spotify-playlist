@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5?si=yL5BGjYkRlWFri8pmu05Fg">Azana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,132 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,279 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 23 | [Sbong'Amazulu](https://open.spotify.com/track/0WHnfk4UEbaR2U0jDa7e0c) | [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Sbong'Amazulu](https://open.spotify.com/album/6vRQNI0wqC86l2syCGW7DG) | 3:15 |
 | 24 | [Hamba Naye](https://open.spotify.com/track/6hKfk07KnmzaShGS33ITy6) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sukulila](https://open.spotify.com/album/3xbC7NEhRzkRVuGZK4P1aM) | 3:54 |
 | 25 | [Wa Nkutlwa Na](https://open.spotify.com/track/4Y9p2y8QnCxBlMnJ56rvas) | [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Wa Nkutlwa Na](https://open.spotify.com/album/19Cc36zy5O9APFjEw1HZFU) | 4:42 |
-| 26 | [Ingunaphakade](https://open.spotify.com/track/6nkevgvV6dWJQ5GUGnJzFA) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ingunaphakade](https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo) | 4:06 |
+| 26 | [Ingunaphakade](https://open.spotify.com/track/6nkevgvV6dWJQ5GUGnJzFA) | [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ingunaphakade](https://open.spotify.com/album/4Lp6BLJxkFi1PaELz9tFEo) | 4:07 |
 | 27 | [Ngiyatisola](https://open.spotify.com/track/28ct4TYD21H6TxGjPJwLFY) | [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Ngiyatisola](https://open.spotify.com/album/3AKvurqxhEhOhTuiM8VlNu) | 4:27 |
 | 28 | [Forever Yena](https://open.spotify.com/track/0Nz8E9XQGIrbYLzfLxfezE) | [Boyzin Bee](https://open.spotify.com/artist/0RU8XphQbWwo1jxy1QCOiE) | [Forever Yena](https://open.spotify.com/album/5bhO7IsgYb5fpcxuP6oyg1) | 2:56 |
 | 29 | [Enza Kwenzeke](https://open.spotify.com/track/7Jw6ETWgWSyffa8AGNdap0) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Sane](https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Luthando](https://open.spotify.com/track/4AsLvBX0FwCBvaN5GDGz42) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sandile](https://open.spotify.com/artist/5mApcr740y6tGusKPPNkb4) | [Bandlase](https://open.spotify.com/album/0pjabAOKogpe019KUyPiSe) | 4:46 |
 | 50 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 |
 
-Snapshot ID: `MCxmYTc0NTFhYzYxZmU4YmE3OWYzN2M2ZmFiZGUyNmY2NGExYzhiMmJj`
+Snapshot ID: `MCwyMzdiOTM3NTRkZTczOTc2NDczOGU1NjEwN2FlYWFmYzEzNDM3ODM2`

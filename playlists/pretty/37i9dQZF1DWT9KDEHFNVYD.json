@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10945,
+  "num_followers": 10947,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2",
+  "snapshot_id": "MCw4ZjZlYTU5MjU4NmU4NDU0MWVlN2M2MDYwZjJhMmQ3ZDYzMWU2YjUw",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -447,18 +447,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+        "name": "Now Here Is Nowhere",
+        "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
       },
       "artists": [
         {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+          "name": "Secret Machines",
+          "url": "https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn"
         }
       ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+      "duration_ms": 253466,
+      "name": "Nowhere Again",
+      "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Now Here Is Nowhere",
-        "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
-      },
-      "artists": [
-        {
-          "name": "Secret Machines",
-          "url": "https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Nowhere Again",
-      "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
         "url": "https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 330708,
       "name": "A Haze Of Patriotic Fervor",
       "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Love Builds Up",
-      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
-    },
-    {
       "added_at": "2023-01-25 02:05:47",
       "album": {
         "name": "Blackouts",
@@ -839,6 +823,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Love Builds Up",
+      "url": "https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Empty Estate",
         "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 205586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
-      },
-      "artists": [
-        {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
-        }
-      ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -883,6 +867,22 @@
       "duration_ms": 221701,
       "name": "Asteroid Witch",
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -949,6 +949,22 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "NEU! 75",
@@ -967,22 +983,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1029,20 +1045,20 @@
       "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1063,22 +1079,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
-      },
-      "artists": [
-        {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "II",
@@ -1209,6 +1193,22 @@
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
     },
     {
+      "added_at": "2022-03-04 01:55:34",
+      "album": {
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+      },
+      "artists": [
+        {
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+    },
+    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Ficci\u00f3n",
@@ -1223,22 +1223,6 @@
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
-    },
-    {
-      "added_at": "2023-03-23 20:53:14",
-      "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1259,6 +1243,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2023-03-23 20:53:14",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
-      },
-      "artists": [
-        {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
-        }
-      ],
-      "duration_ms": 587333,
-      "name": "Negativland",
-      "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Blood Drums",
         "url": "https://open.spotify.com/album/4GU8N1Ox4qcy2CMdQOT9wK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 139162,
       "name": "irradiated dream mouth",
       "url": "https://open.spotify.com/track/2PYURplSmYmIPT3yrFS557"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
+      },
+      "artists": [
+        {
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+        }
+      ],
+      "duration_ms": 587333,
+      "name": "Negativland",
+      "url": "https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm"
     },
     {
       "added_at": "2021-07-30 14:56:06",

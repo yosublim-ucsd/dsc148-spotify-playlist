@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 13568,
+  "num_followers": 13591,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxOGViYjEzODE5NWEyMzJmNDI2Njk0OTk2YTg3ZGIyZGM0ODlk",
+  "snapshot_id": "MCwzMjk3MzRiYWU4NzE4NjRjNDg4Nzk3OTE2YzYzZmU5YzNjNDI3ZjFm",
   "tracks": [
     {
       "added_at": "2023-09-20 06:38:49",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
-        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
-      },
-      "artists": [
-        {
-          "name": "Lee Moon Sae",
-          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 237217,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
     },
     {
       "added_at": "2023-09-20 06:38:49",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "Sun Shower (A Business Proposal OST Part.3)",
-        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
-      },
-      "artists": [
-        {
-          "name": "MOVNING",
-          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "Sun Shower",
-      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
+        "name": "Sun Shower (A Business Proposal OST Part.3)",
+        "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
     },
     {
       "added_at": "2023-09-20 06:38:49",

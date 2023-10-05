@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Sleep Theory
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,850 likes - 129 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,992 likes - 129 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 128 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 129 | [Dead Weight](https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Dead Weight](https://open.spotify.com/album/7HuFADTbWIytpxrDfpKTwc) | 3:22 |
 
-Snapshot ID: `MCwxMmU2ZTU1NDBlZDA5YjUwMDA1ZTBlNWNiYmRiZDkzNDNmOGI1ZTZi`
+Snapshot ID: `MCw4ZGQyZGI3NzMxYmZlMDdhODQ5OGU4MjBiMzE5OTlkOGI4OTJlNjQ0`

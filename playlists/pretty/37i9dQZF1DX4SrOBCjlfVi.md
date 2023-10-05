@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Wayne, Latto, and more\. Cover: Meek Mill & Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,838 likes - 52 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,977 likes - 52 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 51 | [4AM in Miami](https://open.spotify.com/track/53zp3bXa0GrDknzYMjDiXm) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [4AM in Miami](https://open.spotify.com/album/0ur4FG7jZEUpt7q9YO0Pjr) | 2:28 |
 | 52 | [Denim Tears](https://open.spotify.com/track/6qljxbTtNxBckK5bKPfuHV) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [I Know Everybody but Myself](https://open.spotify.com/album/2nht9BSr5I7DcF154xmlcd) | 2:28 |
 
-Snapshot ID: `MCwyNGU3NDVlYjBjZDA4NmNlMjdmYzYwMGZhMTZlYjEzY2FlMjZlMTdl`
+Snapshot ID: `MCwxMTdiMzE5M2JjNzU2YjBmZmM1NDZiODU5MTUzNmNjNGYxNzdmYzM0`

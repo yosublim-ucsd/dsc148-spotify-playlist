@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Laura Misch",
-  "num_followers": 297796,
+  "num_followers": 297847,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNkNGUxMGZiZmQ3NWI1NDRjZDBlM2U0MWUwNTVlYzA2ZmYxYzI3",
+  "snapshot_id": "MCw0YzY4NGExOTVmMTNmMDY2NWY0OTIzNTkyNzVlNWQxM2UzM2NmMDA1",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Magnolia II",
-        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        },
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Corey Fonville",
-          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Magnolia II",
-      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Better Worlds",
         "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
       },
@@ -595,6 +571,30 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Magnolia II",
+        "url": "https://open.spotify.com/album/4TohzEm1l1RRwCFxFNMU0u"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Magnolia II",
+      "url": "https://open.spotify.com/track/6FG0RYmtPG4UKRpLG2Syu7"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -607,38 +607,6 @@
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Far Too Much (Edit)",
-        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 195945,
-      "name": "Far Too Much - Edit",
-      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -663,6 +631,38 @@
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Far Too Much (Edit)",
+        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 195945,
+      "name": "Far Too Much - Edit",
+      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -780,17 +780,13 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
         }
       ],
-      "duration_ms": 319040,
-      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -948,29 +944,17 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Bahia Dayes",
-          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "The Light (feat. Bahia Dayes)",
-      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
         }
       ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -987,6 +971,22 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "The Morning Side of Love",
         "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 233120,
       "name": "The Morning Side of Love",
       "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/73sqtnhstOOj2fiqVGCA4X"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1203,6 +1203,38 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Latency",
+        "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 226332,
+      "name": "Latency",
+      "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Just The Same",
         "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
       },
@@ -1231,34 +1263,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+        "name": "Lovestruck in London",
+        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Latency",
-        "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 226332,
-      "name": "Latency",
-      "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
+      "duration_ms": 174764,
+      "name": "If You Love The Moon",
+      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Lovestruck in London",
-        "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
-      },
-      "artists": [
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
-        }
-      ],
-      "duration_ms": 174764,
-      "name": "If You Love The Moon",
-      "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/2Duy6YtXSEmkUCW9mLby8V"
       },
@@ -1323,6 +1323,26 @@
       "duration_ms": 213851,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0SlsuBILHxJwfzboGXIufK"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Love Theme For Leisure Trip",
+        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
+      },
+      "artists": [
+        {
+          "name": "Hemai",
+          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
+        },
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Love Theme For Leisure Trip",
+      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Love Theme For Leisure Trip",
-        "url": "https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT"
-      },
-      "artists": [
-        {
-          "name": "Hemai",
-          "url": "https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz"
-        },
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Love Theme For Leisure Trip",
-      "url": "https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Statue",
-        "url": "https://open.spotify.com/album/4wFr0pQoS4kiBXugi8eaTF"
+        "name": "INA CRUELER",
+        "url": "https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5"
       },
       "artists": [
         {
-          "name": "Tilly Valentine",
-          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
         }
       ],
-      "duration_ms": 204254,
-      "name": "Statue",
-      "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+      "duration_ms": 214062,
+      "name": "ina crueler",
+      "url": "https://open.spotify.com/track/435lsRWOBWySRYcJ03DX4X"
     },
     {
       "added_at": "2023-09-28 23:00:00",

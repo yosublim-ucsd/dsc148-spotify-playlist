@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 370064,
+  "num_followers": 370161,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi",
+  "snapshot_id": "MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Country Way",
-        "url": "https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "Does My Ring Hurt Your Finger",
-      "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 176360,
       "name": "Almost Persuaded",
       "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Country Way",
+        "url": "https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 137120,
+      "name": "Does My Ring Hurt Your Finger",
+      "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
       },
       "artists": [
         {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+          "name": "Floyd Cramer",
+          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+      "duration_ms": 146760,
+      "name": "Last Date - Instrumental",
+      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+      },
+      "artists": [
+        {
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G"
-      },
-      "artists": [
-        {
-          "name": "Floyd Cramer",
-          "url": "https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "Last Date - Instrumental",
-      "url": "https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Very Best of\u2026",
         "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
       },
@@ -1375,22 +1375,6 @@
       "duration_ms": 123360,
       "name": "Chug-A-Lug",
       "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "All-Time Greatest Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/2sXUW22os4AVVSTn2L1nn8"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Love's Gonna Live Here",
-      "url": "https://open.spotify.com/track/2uDr0EFaBvnA31ZzPavw1I"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 148400,
+      "name": "Together Again",
+      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "It Keeps Right On A-Hurtin'",
         "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 148400,
-      "name": "Together Again",
-      "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Porter Wagoner",
         "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 169200,
       "name": "The Carroll County Accident",
       "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
+      },
+      "artists": [
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Timber I'm Falling",
+      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0olpLTTyf5mFEpgNcdJzJ9"
-      },
-      "artists": [
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Timber I'm Falling",
-      "url": "https://open.spotify.com/track/6tYRg3XkDpjlST4XBMcnjX"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 129240,
       "name": "A Six Pack To Go",
       "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Son Of The South",
+        "url": "https://open.spotify.com/album/2pIrOaistT1kxYfqUdlLd8"
+      },
+      "artists": [
+        {
+          "name": "Del Reeves",
+          "url": "https://open.spotify.com/artist/2rTgolMbO5tyXZvD26bO8e"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Girl On The Billboard",
+      "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
     }
   ],
   "unique_name": "60s Country",

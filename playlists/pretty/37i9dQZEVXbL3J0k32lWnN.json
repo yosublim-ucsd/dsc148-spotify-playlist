@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 204531,
+  "num_followers": 204561,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ5Njk3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5Nzg0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Je Ka Jo",
         "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "2 Kanoner",
         "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Et Sted Herude",
         "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "F\u00f8les Godt",
         "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Som Forleden",
         "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Tilf\u00e6ldigt (feat. D1MA)",
         "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -365,7 +365,39 @@
       "url": "https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "BENZIN ILD ' GLASSK\u00c5R",
+        "url": "https://open.spotify.com/album/76OMFhPwb87l1b2F4iX1UJ"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "BENZIN ILD ' GLASSK\u00c5R",
+      "url": "https://open.spotify.com/track/6uamUi6hLfIZm30g9TcQ6p"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "Vi 1",
+        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 169599,
+      "name": "Vi 1",
+      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -389,10 +421,10 @@
       "url": "https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
-        "name": "Vi 1",
-        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
+        "name": "D\u00d8DINDENI",
+        "url": "https://open.spotify.com/album/79wlho5i8loOvZEpsCxAHu"
       },
       "artists": [
         {
@@ -400,28 +432,12 @@
           "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 169599,
-      "name": "Vi 1",
-      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
+      "duration_ms": 233260,
+      "name": "D\u00d8DINDENI",
+      "url": "https://open.spotify.com/track/48s2ywFmPi9EJOv76TDiHO"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "BENZIN ILD ' GLASSK\u00c5R",
-        "url": "https://open.spotify.com/album/76OMFhPwb87l1b2F4iX1UJ"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 182868,
-      "name": "BENZIN ILD ' GLASSK\u00c5R",
-      "url": "https://open.spotify.com/track/6uamUi6hLfIZm30g9TcQ6p"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Tessas H\u00e6vn (Igen Bitch)",
         "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "smugryger",
         "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -489,7 +505,27 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 182816,
+      "name": "STOR MAND (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Under Radar",
         "url": "https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu"
@@ -517,27 +553,7 @@
       "url": "https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 182816,
-      "name": "STOR MAND (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
@@ -553,39 +569,7 @@
       "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "10% mere",
-        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
-      },
-      "artists": [
-        {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
-        }
-      ],
-      "duration_ms": 109462,
-      "name": "10% mere",
-      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -601,7 +585,39 @@
       "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "10% mere",
+        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 109462,
+      "name": "10% mere",
+      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Terrier",
         "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Infinity Action: Kult & B-sider",
         "url": "https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A"
@@ -689,23 +705,7 @@
       "url": "https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "Kronisk Skeptisk",
-        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 140089,
-      "name": "Gode Dage, Gode Drinks",
-      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -721,7 +721,23 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 140089,
+      "name": "Gode Dage, Gode Drinks",
+      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "For Altid",
         "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
@@ -737,7 +753,23 @@
       "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Suave World",
         "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
@@ -757,59 +789,7 @@
       "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
-      "album": {
-        "name": "LEVENDE LEGENDE",
-        "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        },
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 250060,
-      "name": "LEVENDE LEGENDE",
-      "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
-    },
-    {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "BOYBAND",
         "url": "https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot"
@@ -829,7 +809,7 @@
       "url": "https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
@@ -845,7 +825,23 @@
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
+      "album": {
+        "name": "Sindssyge Ting",
+        "url": "https://open.spotify.com/album/5ZV4OMZ6uOFjhTiqqDM2h0"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Gonzo",
+      "url": "https://open.spotify.com/track/0RcrxkcFT5FJpDgaXmzIEF"
+    },
+    {
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "Ny Sejr",
         "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
@@ -865,23 +861,27 @@
       "url": "https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
-        "name": "Sindssyge Ting",
-        "url": "https://open.spotify.com/album/5ZV4OMZ6uOFjhTiqqDM2h0"
+        "name": "LEVENDE LEGENDE",
+        "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
       },
       "artists": [
         {
-          "name": "Suspekt",
-          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
         }
       ],
-      "duration_ms": 172506,
-      "name": "Gonzo",
-      "url": "https://open.spotify.com/track/0RcrxkcFT5FJpDgaXmzIEF"
+      "duration_ms": 250060,
+      "name": "LEVENDE LEGENDE",
+      "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
     },
     {
-      "added_at": "2023-10-03 10:49:19",
+      "added_at": "2023-10-04 08:54:22",
       "album": {
         "name": "V\u00e5gen (Artigeardit X Lamin)",
         "url": "https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR?si=NCDLeoLkTPiSgYtBdEOq\-Q"> Afroto </a> : عشان تثبتلي انك ليبرو تيجي تسمع ملوك السين\. غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,779 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,111 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 40 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 41 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCwyNjhkNmZmYjczYzUxYzM3MGNhZjYyMzdiZGZjMmU4YmFiNWRjM2Zj`
+Snapshot ID: `MCxlNTI1OWYyNDg2OTkwNTZiZWI0MDMxMmRlZTczMDY3NWE4MWI5OTFk`

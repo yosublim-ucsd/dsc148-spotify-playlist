@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
-> Podcasts you need to have on your RADAR: GIRL CODE, Goes Alright and Out of  Character with Millie.
+> Podcasts you need to have on your RADAR: Half\-Arsed History, We Don't Have Time For This and The Tom and Frenchy Podcast.
 
 9 songs - 6 hr 21 min
 

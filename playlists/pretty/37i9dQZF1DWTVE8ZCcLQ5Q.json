@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 421184,
+  "num_followers": 421175,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzVkNDYxYjRiMTc3Y2ZjZjNmYTc1MWM4NGQ0MDRmOGU2ZWFhZDY2",
+  "snapshot_id": "MCxhYzg2YTc0OWM3NDFiNGI2Y2QzMWQ2MDc2OGVmYTY3MzA0MzkxNmFm",
   "tracks": [
     {
       "added_at": "2023-10-03 20:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-03 20:00:00",
       "album": {
+        "name": "alice (s\u00f3 que sem as maravilhas)",
+        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "alice (s\u00f3 que sem as maravilhas)",
+      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
+    },
+    {
+      "added_at": "2023-10-03 20:00:00",
+      "album": {
         "name": "VideoChamada (Facetime)",
         "url": "https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 226666,
       "name": "VideoChamada (Facetime)",
       "url": "https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0"
-    },
-    {
-      "added_at": "2023-10-03 20:00:00",
-      "album": {
-        "name": "alice (s\u00f3 que sem as maravilhas)",
-        "url": "https://open.spotify.com/album/4XmvZFL27XoT4ghFQG1Wrg"
-      },
-      "artists": [
-        {
-          "name": "lalalaura",
-          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "alice (s\u00f3 que sem as maravilhas)",
-      "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
     },
     {
       "added_at": "2023-10-03 20:00:00",

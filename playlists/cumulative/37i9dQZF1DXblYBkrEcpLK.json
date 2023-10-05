@@ -1488,10 +1488,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 274893,
       "name": "Fly with You!!",
       "url": "https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274893,
+      "name": "Fly with You!!",
+      "url": "https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp"
     },
     {
       "album": {
@@ -1708,6 +1726,24 @@
       "duration_ms": 221162,
       "name": "GREEN PEPPER CALISTHENICS",
       "url": "https://open.spotify.com/track/17zGEIVV4tSkvqZNUOcuFR"
+    },
+    {
+      "album": {
+        "name": "Guitar, Loneliness and Blue Planet - From CrosSing",
+        "url": "https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV"
+      },
+      "artists": [
+        {
+          "name": "ZAQ",
+          "url": "https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229133,
+      "name": "Guitar, Loneliness and Blue Planet - From CrosSing",
+      "url": "https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy"
     },
     {
       "album": {
@@ -4177,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Sukini Nattewa Ikenai Riyuu",
+        "url": "https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280064,
+      "name": "Sukini Nattewa Ikenai Riyuu",
+      "url": "https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI"
+    },
+    {
+      "album": {
         "name": "Sun Is Coming Up",
         "url": "https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp"
       },
@@ -6018,7 +6072,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 229133,
       "name": "\u30ae\u30bf\u30fc\u3068\u5b64\u72ec\u3068\u84bc\u3044\u60d1\u661f - from CrosSing",
       "url": "https://open.spotify.com/track/5svgIVYpZuUZZgQbhWDQ0G"
@@ -7792,7 +7846,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 280064,
       "name": "\u597d\u304d\u306b\u306a\u3063\u3066\u306f\u3044\u3051\u306a\u3044\u7406\u7531",
       "url": "https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq"

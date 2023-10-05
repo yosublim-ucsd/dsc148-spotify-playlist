@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 264640,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO"
@@ -1532,6 +1532,24 @@
       "duration_ms": 179026,
       "name": "SUMMER PLANNING",
       "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
+    },
+    {
+      "album": {
+        "name": "kimitokurashinomannakade",
+        "url": "https://open.spotify.com/album/4Wvy3DcHA9g5jLg3VIXzaL"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u304d\u3054\u3068",
+          "url": "https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221079,
+      "name": "Taikutubiyori",
+      "url": "https://open.spotify.com/track/3GSpbokIBEIb0taXmL5O1d"
     },
     {
       "album": {
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 207555,
       "name": "\u82b1\u5360\u3044",
       "url": "https://open.spotify.com/track/2PlbwoIVr25oita35jg9ht"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 221079,
       "name": "\u9000\u5c48\u65e5\u548c",
       "url": "https://open.spotify.com/track/1SANS0ANduqRipbtBBozqk"

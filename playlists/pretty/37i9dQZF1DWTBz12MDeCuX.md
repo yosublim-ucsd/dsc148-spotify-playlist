@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ski Aggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,012 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,416 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 100 | [Du hast mich nie geliebt </3…](https://open.spotify.com/track/6aoadZIaPyAvIpfdkmonBX) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Du hast mich nie geliebt </3…](https://open.spotify.com/album/0EzmmuePkY1VrvGEpxyzuU) | 1:21 |
 
-Snapshot ID: `MCxmMDEwOGVhMjA5M2UxZDY2YWJmYTUwNjA5ZmE2ZDNkM2M4MWY3Yzc1`
+Snapshot ID: `MCxhMmMzNzcyZDUwY2E4OWIzOGM2MzYwZmNhODc5YmM3MmE2Mzg0OGRj`

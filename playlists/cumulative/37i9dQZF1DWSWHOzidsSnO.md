@@ -2,9 +2,9 @@
 
 ### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
-> ¡Mujeres de los Andes, a todo volumen! En portada Shakira.
+> ¡Mujeres de los Andes, a todo volumen! En portada Briella.
 
-233 songs - 12 hr 59 min
+234 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2022-01-05 | 2023-01-05 |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 | 2023-01-04 | 2023-07-02 |
 | [Si Quieres Tenerme](https://open.spotify.com/track/5caEzP9gGdBdZ0cubtw3Sk) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/74MVgBaaOYNEgx93ZiIfNM) | 3:27 | 2023-06-30 |  |
+| [Solo Tú](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [Solo Tú](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 | 2023-10-04 |  |
 | [Solterona](https://open.spotify.com/track/7wqZ2hFlSkZMzmAY8fJeXJ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Solterona](https://open.spotify.com/album/6uVqxMvijsXhcNXqtuCiv4) | 2:59 | 2023-01-04 |  |
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-04-05 | 2023-07-01 |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-05 | 2022-03-05 |
@@ -222,7 +223,7 @@
 | [Uh yeah](https://open.spotify.com/track/1PaH6xUsycYE68nsXL4j3I) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Uh yeah](https://open.spotify.com/album/1ofnoofcnmiI5N1cGeXqJD) | 3:32 | 2022-10-21 | 2023-01-05 |
 | [Un Reflejo Breve](https://open.spotify.com/track/7yIGfIHePWeHCDGA97Qorp) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Un Reflejo Breve](https://open.spotify.com/album/3NrGokjjouRQlWe0g1BxVT) | 3:00 | 2022-05-31 |  |
 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 | 2022-01-05 | 2023-01-05 |
-| [Unidas](https://open.spotify.com/track/6GHaBE6agqqTithZth0rkk) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Naysha](https://open.spotify.com/artist/3twpCez0hiCslbriudLrxQ) | [Unidas](https://open.spotify.com/album/2UuopgokCMe4KDooWHzFeh) | 4:36 | 2023-08-02 |  |
+| [Unidas](https://open.spotify.com/track/6GHaBE6agqqTithZth0rkk) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Naysha](https://open.spotify.com/artist/3twpCez0hiCslbriudLrxQ) | [Unidas](https://open.spotify.com/album/2UuopgokCMe4KDooWHzFeh) | 4:36 | 2023-08-02 | 2023-10-05 |
 | [Usted Ya Perdió](https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Los Cumbia Stars](https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t) | [Usted Ya Perdió](https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ) | 3:00 | 2023-08-02 |  |
 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 | 2022-01-05 |  |
 | [Vente pa' cá](https://open.spotify.com/track/0OxasKT5YFWggCIeepem9L) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm), [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [Vente pa' cá](https://open.spotify.com/album/6xXPuXBOAlGtbA2jJMfQvo) | 3:28 | 2023-02-01 | 2023-04-06 |

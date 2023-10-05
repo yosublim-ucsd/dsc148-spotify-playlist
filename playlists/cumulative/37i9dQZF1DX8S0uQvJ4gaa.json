@@ -15942,10 +15942,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 198053,
       "name": "Killed The Cowboy",
       "url": "https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ"
+    },
+    {
+      "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Killed The Cowboy",
+      "url": "https://open.spotify.com/track/7KzKQGfTsZfhAWCFoG5acX"
     },
     {
       "album": {

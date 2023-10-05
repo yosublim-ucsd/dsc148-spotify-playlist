@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 
 > Gentle ambient for a calm baby between bath time and bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,343 likes - 135 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,363 likes - 135 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 45 | [Vyer](https://open.spotify.com/track/13KZml3pNzGfrd0CA3z6YQ) | [Tuva Lindelöf](https://open.spotify.com/artist/38zR3xZGlQhocD5wizPqFy) | [Vyer](https://open.spotify.com/album/0lR0zTcwgRDACdTdwVIz4X) | 2:02 |
 | 46 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 |
 | 47 | [Windless](https://open.spotify.com/track/6fIG5NvcmuBGcHgweSi072) | [Softstone](https://open.spotify.com/artist/3DNoZjqVYNsFyUJ4fczCyo) | [Windless](https://open.spotify.com/album/4NWnsUt3Vo2cd2Ky9W6NLn) | 2:50 |
-| 48 | [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 |
+| 48 | [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 |
 | 49 | [Massive Star](https://open.spotify.com/track/6vGv1sWN9fjEycbX2LUEAh) | [Charmayanne Heart](https://open.spotify.com/artist/13nuvqJex4tgWPY8Rb8H9H) | [Hypnotic Energy](https://open.spotify.com/album/7tB3dez6h6ijKqKlSm1RWH) | 3:34 |
 | 50 | [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 |
 | 51 | [Lay Down](https://open.spotify.com/track/4PIdLxret66FcX5mMyTyga) | [Danielle Walker](https://open.spotify.com/artist/5wAnMmOnMIA0EGNUIYkLRr) | [Lay Down](https://open.spotify.com/album/6Pc9x79guaH7ahJduO7iFW) | 2:29 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 134 | [Shinrabansho](https://open.spotify.com/track/6S1cvapi9HH9tr1uX9clVb) | [Eira Cloud](https://open.spotify.com/artist/6BvyFmg49l8pJToLeGKmi9) | [Shinrabansho](https://open.spotify.com/album/0Q9X3pgupHIP5LGyDkInOr) | 2:54 |
 | 135 | [The Arrival](https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq) | [Kaleido Young](https://open.spotify.com/artist/4c4Y540mQ31qDu85OrbURi) | [The Gentle Wait](https://open.spotify.com/album/1iET0lk71G9Y0wVvpn24DX) | 2:32 |
 
-Snapshot ID: `MCxiMzU0N2I2NTI4OTFiZGQ4MTZhMmZmNjUxODFkYTk0ZWI3ZjBmMWE4`
+Snapshot ID: `MCxlNGI4MTU0MmY2NDFhMTA4MWJmZGJiZTg4Y2I1ZjVhZTJjODNiZjQ4`

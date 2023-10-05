@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,021 songs - 2 day 7 hr 37 min
+1,022 songs - 2 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Anything](https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Anything](https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL) | 3:46 | 2020-11-27 | 2021-10-05 |
 | [Anytime](https://open.spotify.com/track/4pAxG2OEh4LSNuZFzDRUbN) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Anytime](https://open.spotify.com/album/6eDNIUfe63AsdaFw3R4abu) | 2:28 | 2021-05-15 | 2021-09-11 |
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2021-10-05 | 2022-03-12 |
+| [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 | 2023-10-02 |  |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-06-30 |  |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-07-14 |  |
 | [Astro](https://open.spotify.com/track/0cN1HSqR8CEtlj17sVyOvP) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Astro](https://open.spotify.com/album/1BU2DMquHPhBw77JgEU3e7) | 2:57 | 2020-09-21\* | 2021-01-23 |
@@ -341,7 +342,7 @@
 | [GO](https://open.spotify.com/track/386HYzADE7k5zhM6ZLM1On) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [GO](https://open.spotify.com/album/1yZNhpqPc5JOXyQL5KIQnA) | 3:23 | 2020-09-21\* | 2021-02-20 |
 | [Go Head](https://open.spotify.com/track/1XUM16N9IFPKb5RA0bRHmf) | [Ryden](https://open.spotify.com/artist/1Y5qZuVu8BdlAcTRInoT4B) | [Go Head](https://open.spotify.com/album/5Ryo4aP0ruj6kONX3bsVcB) | 3:07 | 2021-10-23 | 2022-03-12 |
 | [God is A DJ](https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [God Is a DJ](https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE) | 2:35 | 2022-04-01 | 2023-02-16 |
-| [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 |  |
+| [God On The Weekend](https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [God On The Weekend](https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb) | 3:00 | 2023-01-06 | 2023-10-05 |
 | [Going Dumb](https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:48 | 2021-03-27 | 2021-09-18 |
 | [Gold \- DubVision Remix](https://open.spotify.com/track/6cZk2cg2H9XgWUcRaeRStT) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Gold \(Remixes\)](https://open.spotify.com/album/7Ind88GGJrY1KtDu07D06v) | 3:29 | 2021-07-07 | 2021-09-18 |
 | [Golden \(feat\. Blondfire\)](https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3) | [Golden \(feat\. Blondfire\)](https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv) | 3:29 | 2021-03-11 | 2021-07-24 |

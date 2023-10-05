@@ -266,7 +266,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 172640,
       "name": "De Norte a Sur",
       "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Espejo De Cantina",
+      "url": "https://open.spotify.com/track/3LHpnhGY56DtMv7Byfd1ix"
+    },
+    {
+      "album": {
         "name": "Espejo De Cantina",
         "url": "https://open.spotify.com/album/7xo92d1dGj5xkpkXlemwOr"
       },
@@ -356,7 +374,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 222266,
       "name": "Espejo De Cantina",
       "url": "https://open.spotify.com/track/02ztB2ejMQ6MHoCorzd2A8"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 199226,
       "name": "La Baraja",
       "url": "https://open.spotify.com/track/7aSViAPKH02L542Dzezdg1"
@@ -644,7 +662,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-11",
+      "date_removed": null,
       "duration_ms": 193186,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/39jp91yfW61L2bBjpucX1D"
@@ -756,7 +774,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 182266,
       "name": "No Me Quieras Enga\u00f1ar",
       "url": "https://open.spotify.com/track/4ZNui70b3TVS1Q5V4VF8S4"

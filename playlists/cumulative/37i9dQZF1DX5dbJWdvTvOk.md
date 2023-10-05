@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-597 songs - 1 day 1 hr 19 min
+598 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Origins](https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/0aI9XXnV0o6d5d6qvLFIrG) | 2:03 | 2023-04-21 |  |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2023-04-21 |  |
 | [Pacifiquement](https://open.spotify.com/track/5Ge0efczeqLMSLW7PuYezG) | [Antoine Gasquet](https://open.spotify.com/artist/1fXaIo98PufpTCJsXLtRVt) | [Pacifiquement](https://open.spotify.com/album/3zmOaoYfYtYtsZXPYJKmmn) | 2:26 | 2023-04-21 |  |
+| [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 |  |
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2023-04-21 | 2023-06-03 |
 | [Passing Rain](https://open.spotify.com/track/3DsShklw3Th0y25Xm66L2d) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Passing Rain](https://open.spotify.com/album/3JxVyJJEMbFr7XV2SkhyUM) | 3:02 | 2022-07-15 |  |
 | [Passing Through](https://open.spotify.com/track/1y4XIS1dYvAfxjVjYeO7Jt) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Passing Through](https://open.spotify.com/album/2ByVknXLBoYoXVP8hzGQ5s) | 2:06 | 2023-03-31 | 2023-04-22 |
@@ -461,7 +462,7 @@
 | [Serengeti](https://open.spotify.com/track/4yoILdPVTyiwWkJQfXqshB) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Serengeti](https://open.spotify.com/album/4fEskCIrZkg9C4yPWn7XsZ) | 2:34 | 2023-05-12 |  |
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2023-04-21 |  |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2023-04-21 | 2023-06-09 |
-| [Severance](https://open.spotify.com/track/3SvIZwX1Stka524urG0qsN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Severance](https://open.spotify.com/album/08L90myPC5HtYTr6RvSMlC) | 2:26 | 2023-04-21 |  |
+| [Severance](https://open.spotify.com/track/3SvIZwX1Stka524urG0qsN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Severance](https://open.spotify.com/album/08L90myPC5HtYTr6RvSMlC) | 2:26 | 2023-04-21 | 2023-10-05 |
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |

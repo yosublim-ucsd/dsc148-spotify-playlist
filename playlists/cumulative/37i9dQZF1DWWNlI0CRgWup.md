@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez notre sélection des artistes à suivre\. Photo : Maureen
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Anaïs MVA
 
-116 songs - 6 hr 5 min
+120 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [BMW BOYZ](https://open.spotify.com/track/1oBSDxr6s8mVZPf1vcF6J9) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [BMW BOYZ](https://open.spotify.com/album/1q7JfRmk5FoF8XGlCaY0r2) | 1:58 | 2022-02-03 | 2022-04-15 |
 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 | 2022-03-01 | 2023-01-25 |
 | [Bonita](https://open.spotify.com/track/5YkXkfXWTE1pk6l2m78JnH) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Bonita](https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E) | 3:07 | 2021-12-02 | 2022-02-04 |
+| [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-10-04 |  |
 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 | 2022-06-17 | 2023-01-25 |
 | [C'est comme le Soleil](https://open.spotify.com/track/6FLq3GelXxESTfa85EXgix) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [C'est comme le Soleil](https://open.spotify.com/album/1kcynhYaNJNSAsE7rkrNs9) | 3:21 | 2022-04-14 | 2022-09-30 |
 | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/track/6vnFX4F6QdMX8LN1pwsrfE) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/album/3RYuX3dqqAsDsvenKA75TF) | 3:30 | 2022-02-03 | 2022-04-15 |
@@ -46,6 +47,7 @@
 | [Fous](https://open.spotify.com/track/76SdXXI996exZt00GiO5Co) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 2:31 | 2023-09-08 |  |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-01-24 |  |
 | [Génération](https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Génération](https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh) | 2:52 | 2023-03-10 |  |
+| [HINATA](https://open.spotify.com/track/1TJyY6XPwaprBSFT2owEG6) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:55 | 2023-10-04 |  |
 | [HLM en papier](https://open.spotify.com/track/1H2XgIWqSYq0hNGEBjoslV) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [HLM en papier](https://open.spotify.com/album/7oJAgG54spaDSF0oyD8OFH) | 2:45 | 2022-11-24 | 2023-03-11 |
 | [Horizon](https://open.spotify.com/track/0IhP65g9X82qPRb2bYGunO) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Horizon](https://open.spotify.com/album/3J9bxDC6kdRXJDopIvb9cQ) | 3:18 | 2022-05-16 | 2022-06-18 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-07 |  |
@@ -95,6 +97,7 @@
 | [Roméo&Juliette](https://open.spotify.com/track/2tIWSnNLyD2EdGgcnkyzl3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Roméo&Juliette](https://open.spotify.com/album/59WxYXTPmlmd2Y1aZWM6eP) | 3:52 | 2022-09-29 | 2022-11-25 |
 | [Rue des Pervenches](https://open.spotify.com/track/3UcIv7IH3RFHKOVOAJEgiz) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Rue des Pervenches](https://open.spotify.com/album/1vULaCp3YiTYTzgUdPemW5) | 3:39 | 2022-03-01 |  |
 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 | 2022-06-17 | 2022-11-25 |
+| [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-10-04 |  |
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 | 2023-01-25 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-17 | 2022-09-30 |
 | [Solo](https://open.spotify.com/track/3bfW2D6xj3mspwxwi3ieyl) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:15 | 2023-01-24 | 2023-09-09 |
@@ -120,6 +123,7 @@
 | [vivre](https://open.spotify.com/track/0GIZezqLlyi4QpsQAPemU8) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [La grande désillusion](https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS) | 3:58 | 2023-04-11 |  |
 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 | 2022-11-24 | 2023-03-11 |
 | [Vue sur la mer](https://open.spotify.com/track/6YkaP9iPyhk4tqZ6GcnTuU) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Enfant roi](https://open.spotify.com/album/6zz44IeTCesmYEWHPhMgkI) | 2:34 | 2022-02-07 | 2022-09-30 |
+| [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-10-04 |  |
 | [y'a rien de plus chiant que la joie](https://open.spotify.com/track/2qpfUuhooMWT7m3o6Jg0CB) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [y'a rien de plus chiant que la joie](https://open.spotify.com/album/1ApHah4ETKmbD3pSpO9mBB) | 2:13 | 2023-01-24 | 2023-03-11 |
 | [Ça me va](https://open.spotify.com/track/5IrSaHFfKuSzG6pv6jWXJS) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va](https://open.spotify.com/album/3Zv13w5LwijoudLshMtkRc) | 3:09 | 2023-03-10 | 2023-09-09 |
 | [Été brûlant](https://open.spotify.com/track/5ZYNSdAGH1znlbUXqt8T84) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x), [Sandra Nicolle](https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll) | [Été brûlant](https://open.spotify.com/album/3H7feFG23ok09jr6Mby8MY) | 2:54 | 2022-02-03 | 2022-02-08 |

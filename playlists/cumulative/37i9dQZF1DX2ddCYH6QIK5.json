@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: soffie, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Jon Darc, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/4hkyiq4Dssk41PIVm2vNm8"
+      },
+      "artists": [
+        {
+          "name": "Jon Darc",
+          "url": "https://open.spotify.com/artist/7B3k7OSCrhg6IrBCswX4v6"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/5bwZZwlwLmCB2lf2WuFe9l"
+    },
+    {
+      "album": {
         "name": "Blicke",
         "url": "https://open.spotify.com/album/2EjsSRhwwxv1sVlmWiJu3r"
       },
@@ -2406,6 +2424,24 @@
       "duration_ms": 195148,
       "name": "Buchstabiere Leonie",
       "url": "https://open.spotify.com/track/1BkNxB6qDnbgHRjHXy9pj3"
+    },
+    {
+      "album": {
+        "name": "Build a home",
+        "url": "https://open.spotify.com/album/1AIg4j1RNQFjNjNALSjKJ4"
+      },
+      "artists": [
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181276,
+      "name": "Build a home",
+      "url": "https://open.spotify.com/track/2HQXMaMUL5dTVwQmLClzE2"
     },
     {
       "album": {
@@ -3710,7 +3746,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 175253,
       "name": "Detox",
       "url": "https://open.spotify.com/track/2sm65RQx1yhBofJOv5xNSN"
@@ -3822,7 +3858,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 164183,
       "name": "Dinge",
       "url": "https://open.spotify.com/track/5xHHgnItfPKSoYXEUxALC0"
@@ -4752,7 +4788,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 206293,
       "name": "Es geht mir gut",
       "url": "https://open.spotify.com/track/1urzJp8Pw15po84Bh1x4Nh"
@@ -5634,7 +5670,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 138692,
       "name": "F\u00fcr immer jung",
       "url": "https://open.spotify.com/track/7Jx8bguKv0bYJR3e4M3Z8v"
@@ -8413,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "kkiosk",
+        "url": "https://open.spotify.com/album/4jtkT3kaZq1ETLr4gpyLoH"
+      },
+      "artists": [
+        {
+          "name": "SQF2000",
+          "url": "https://open.spotify.com/artist/6KHWeZDPxz0eH7l7Z4ZMNR"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "kkiosk",
+      "url": "https://open.spotify.com/track/7DbIPcKMWbqdc7X7OtCvBx"
+    },
+    {
+      "album": {
         "name": "Kommst du mit?",
         "url": "https://open.spotify.com/album/6A8F9XM9ASRnUnqSq6abqX"
       },
@@ -8428,6 +8482,24 @@
       "duration_ms": 167567,
       "name": "Kommst du mit?",
       "url": "https://open.spotify.com/track/0CdXC4Jg7ZBaDplObNSedz"
+    },
+    {
+      "album": {
+        "name": "K\u00f6lle am Meer",
+        "url": "https://open.spotify.com/album/4PK1mgSWTQE3wg1cnpOIgI"
+      },
+      "artists": [
+        {
+          "name": "STRESS",
+          "url": "https://open.spotify.com/artist/0v8izqyNv1dc7FN7xEyLJb"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "K\u00f6lle am Meer",
+      "url": "https://open.spotify.com/track/2wXYWJuAF5ZmnBLjFbKipb"
     },
     {
       "album": {
@@ -8568,7 +8640,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 214000,
       "name": "Lately",
       "url": "https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB"
@@ -9524,6 +9596,24 @@
       "duration_ms": 134244,
       "name": "Mein derzeitiges Leben in Kurzform",
       "url": "https://open.spotify.com/track/0xr2QqkYP5Nb8l5naWyQfn"
+    },
+    {
+      "album": {
+        "name": "Meine Rose",
+        "url": "https://open.spotify.com/album/4o80uT63pLh3Tmey64smRo"
+      },
+      "artists": [
+        {
+          "name": "Kitti Ciao",
+          "url": "https://open.spotify.com/artist/0UE7B3yCMnx5xUKjfe9oJk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191351,
+      "name": "Meine Rose",
+      "url": "https://open.spotify.com/track/6Z1Rs9XbrROuCAL54anKnK"
     },
     {
       "album": {
@@ -11312,7 +11402,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 208119,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/7u2vG9dSC949AhtM7Sns08"
@@ -12066,6 +12156,24 @@
       "duration_ms": 224562,
       "name": "Red Skies",
       "url": "https://open.spotify.com/track/2uqEb0nbmGsjg9RBhM49AP"
+    },
+    {
+      "album": {
+        "name": "Red Wine & Cigarettes",
+        "url": "https://open.spotify.com/album/7bqQsZtXYTGhb1vlOMUfmH"
+      },
+      "artists": [
+        {
+          "name": "POLA",
+          "url": "https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175197,
+      "name": "Red Wine & Cigarettes",
+      "url": "https://open.spotify.com/track/1OqpBTZGtKnSWfNGHiXbNG"
     },
     {
       "album": {
@@ -13270,7 +13378,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 220979,
       "name": "SOLEIL",
       "url": "https://open.spotify.com/track/4tBUnbGTacAUeIt1y3KK5e"
@@ -14035,6 +14143,28 @@
     },
     {
       "album": {
+        "name": "Surreal",
+        "url": "https://open.spotify.com/album/1ZYEv5MBwHzokFbC42U0oz"
+      },
+      "artists": [
+        {
+          "name": "Lazy",
+          "url": "https://open.spotify.com/artist/1tR5tstHZ3h0J5pi5jX5kA"
+        },
+        {
+          "name": "Mahi",
+          "url": "https://open.spotify.com/artist/49Ovq0GspSd8KXMomyUkOi"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168888,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/7nK4XY3bTTb3LI5wbaoMVu"
+    },
+    {
+      "album": {
         "name": "Kaboodhism",
         "url": "https://open.spotify.com/album/3kOR6reCn7tPt1TgfvU10D"
       },
@@ -14140,6 +14270,24 @@
       "duration_ms": 346049,
       "name": "Talk About This Love",
       "url": "https://open.spotify.com/track/1TqPdNicnHyymKObNKuDYu"
+    },
+    {
+      "album": {
+        "name": "Tanqueray",
+        "url": "https://open.spotify.com/album/4wd2BkKEaGkMGv6dWXjkH0"
+      },
+      "artists": [
+        {
+          "name": "FALSE LEFTY",
+          "url": "https://open.spotify.com/artist/6Bv1h5MJ10Du3GJK04wDBL"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Tanqueray",
+      "url": "https://open.spotify.com/track/3hE0sM7MAuQHff2t0Le2dK"
     },
     {
       "album": {
@@ -14270,7 +14418,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 201469,
       "name": "Tesa",
       "url": "https://open.spotify.com/track/5taeIR1mGmEgBWbXEcYWBY"

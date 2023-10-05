@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-667 songs - 1 day 13 hr 50 min
+668 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Oulo Lelly Sab](https://open.spotify.com/track/7mMKakGmTepcWPiQd1TosA) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Oulo Lelly Sab](https://open.spotify.com/album/0ue1Fe0WglapZpWvcoMgZ5) | 3:16 | 2022-11-17 | 2023-02-02 |
 | [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 | 2022-07-21 |
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |
+| [Raha](https://open.spotify.com/track/0epZMFP9yDZP4imm5whVvO) | [Mahmoud Siam](https://open.spotify.com/artist/5qTGPUX2P4ShWiUyIoWCo9), [Hala Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Red Bull Sika](https://open.spotify.com/album/4Lo5BDtGFVcT1OOCu4Qp4b) | 2:32 | 2023-10-04 |  |
 | [Ramo Tobty](https://open.spotify.com/track/1fMfO3xpg1OGfmNBXow57n) | [Mostafa Shawky](https://open.spotify.com/artist/69HsaYqqbiG8d3LxNdlvM7) | [Ramo Tobty](https://open.spotify.com/album/0CKqgpYnHAetUCjrn74BvQ) | 2:41 | 2023-06-22 | 2023-07-28 |
 | [Ramy El Hemoul](https://open.spotify.com/track/6zIvLt0jU08Nb6OnxLDelm) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:25 | 2022-02-16 | 2022-05-19 |
 | [Rawa2any](https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Rawa2any](https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS) | 3:11 | 2023-09-27 |  |
@@ -635,7 +636,7 @@
 | [مش تمام](https://open.spotify.com/track/2xP4vYERTZ6og3AGzWwlTm) | [Papa Guede](https://open.spotify.com/artist/4wwTMtuuuhkPxvKKQKArSW) | [مش تمام](https://open.spotify.com/album/2JgdGwxxg97Zq95d6TSJOx) | 3:26 | 2023-05-18 | 2023-07-10 |
 | [مش كفاية فراق](https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [مش كفاية فراق](https://open.spotify.com/album/6pUq5K38plrNVoJ7shbzb5) | 4:34 | 2023-08-10 |  |
 | [مش مهم](https://open.spotify.com/track/6E28o3lYVr0MkkxV6pYJtU) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مش مهم](https://open.spotify.com/album/3bWf1DzJ9xSiZuCh5oJQSx) | 3:46 | 2023-06-15 | 2023-06-24 |
-| [مش هتغير عشان حد](https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [مش هتغير عشان حد](https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR) | 2:53 | 2023-07-26 |  |
+| [مش هتغير عشان حد](https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [مش هتغير عشان حد](https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR) | 2:53 | 2023-07-26 | 2023-10-05 |
 | [مصلحتك](https://open.spotify.com/track/3zNFE3WvCQmtIqQYLxBcoH) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [مصلحتك](https://open.spotify.com/album/2n0YMCPqZLwtR3Y4she3fz) | 2:41 | 2023-09-14 |  |
 | [مفيش فلوس](https://open.spotify.com/track/3oJaOYkZzHG3OTkJUFvhWP) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [مفيش فلوس](https://open.spotify.com/album/2LzNtDlCHJZQqC17EEy0xF) | 4:10 | 2023-05-11 | 2023-06-16 |
 | [ملك الفرفشة](https://open.spotify.com/track/1kQRL3taxrcisyzV8IQoj1) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [ملك الفرفشة](https://open.spotify.com/album/45urWO1EZCOYFsWFWQrf4S) | 3:16 | 2023-07-07 | 2023-08-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > Música para insubordinados\. Vondré en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,482 likes - 104 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,491 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 26 | [Luces Azules](https://open.spotify.com/track/7K4YSopo7UhoGqMCey0N4W) | [Animales Muertos](https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ) | [Luces Azules](https://open.spotify.com/album/2FLfZfDsmFQy4JDdfviYf1) | 2:39 |
 | 27 | [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 |
 | 28 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
-| 29 | [No Estoy](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [No Estoy](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 |
+| 29 | [NO ESTOY](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [NO ESTOY](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 |
 | 30 | [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 |
 | 31 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 32 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 103 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 104 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCwyNTRkNTI2MjIyNjUwZjIyZWFkZGFiMmVkNWFiNjUxOGVmYmI0MDJh`
+Snapshot ID: `MCxkNTdlM2UxODRmODg0YzQzMDgwYWM0NDIzYzhiNzRhNjgwOGNhMjQ5`

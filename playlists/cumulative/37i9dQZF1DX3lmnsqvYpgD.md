@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-97 songs - 6 hr 2 min
+98 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [深夜之後](https://open.spotify.com/track/4KPVvdXUECWemNy0GB40NR) | [Rosy Sea](https://open.spotify.com/artist/0YST7KLN9Qt4qxBTXQM6c2) | [深夜之後](https://open.spotify.com/album/2eWm1O3MyfAk2NB4T4gQsQ) | 3:30 | 2022-09-20 |  |
 | [深夜告別練習](https://open.spotify.com/track/4FMwwmXVBycsaVxCK85rzq) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [深夜告別練習](https://open.spotify.com/album/1H7MG0QmCKhbfubBBZjYZi) | 3:35 | 2022-04-11 |  |
 | [港女的幸福星期日](https://open.spotify.com/track/3wqYAd3KE8pUpeVuEcba55) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:14 | 2022-04-11 |  |
-| [燕尾蝶](https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [The Best Of Shine](https://open.spotify.com/album/342p3f9MbhdfZZa7OdnbMI) | 3:48 | 2022-04-11 |  |
+| [燕尾蝶](https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [The Best Of Shine](https://open.spotify.com/album/342p3f9MbhdfZZa7OdnbMI) | 3:48 | 2022-04-11 | 2023-10-05 |
+| [燕尾蝶](https://open.spotify.com/track/5pZNATW9HcyYi1HTNMeGQM) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [120分鐘90後回憶錄](https://open.spotify.com/album/2gP64JjKYnWA6gmBvuKINC) | 3:48 | 2022-11-03 |  |
 | [生活與生存](https://open.spotify.com/track/4XAsHwu1AWmh6psScMWd5v) | [Robynn & Kendy](https://open.spotify.com/artist/3NFZHFNSDK0Q8k3k38ysTp) | [CURATIONS](https://open.spotify.com/album/0Hxhz3uR4niGUnu3Y1mhWs) | 3:44 | 2022-04-11 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-04-11 |  |
 | [眼睛不能沒眼淚](https://open.spotify.com/track/5EPLxu9q3RXTnRjXofzmNc) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ) | [Guitar Fever](https://open.spotify.com/album/0prFuv04VjAH6r311SIU3n) | 4:17 | 2022-04-11 |  |

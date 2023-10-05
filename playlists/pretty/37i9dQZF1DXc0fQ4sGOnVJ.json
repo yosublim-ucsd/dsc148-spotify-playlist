@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150430,
+  "num_followers": 150442,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
+  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -823,38 +823,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
-      },
-      "artists": [
-        {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
-        "name": "Blood Red",
-        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
-      },
-      "artists": [
-        {
-          "name": "Katie Noel",
-          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Muddy Days Drunken Nights",
         "url": "https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 192214,
       "name": "Rippin It up (feat. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz)",
       "url": "https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Blood Red",
+        "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+      },
+      "artists": [
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
-      },
-      "artists": [
-        {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        }
-      ],
-      "duration_ms": 192101,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "STOMP YOUR BOOTS",
         "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 151651,
       "name": "STOMP YOUR BOOTS",
       "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/045KdMFUDzWbFjxwwPmwnn"
+      },
+      "artists": [
+        {
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+        }
+      ],
+      "duration_ms": 192101,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/7LjenQM99kDj7iwTHdjBg8"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Redneck Rich",
-        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
-      },
-      "artists": [
-        {
-          "name": "Cody Parks and The Dirty South",
-          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
-        }
-      ],
-      "duration_ms": 282462,
-      "name": "Redneck Rich",
-      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Roll With Me (feat. Chris Hurt)",
         "url": "https://open.spotify.com/album/0Z9gSWFPbpjJ9HlADRXnFE"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 235416,
       "name": "Roll With Me (feat. Chris Hurt)",
       "url": "https://open.spotify.com/track/4QnytqrOi9fZdqydZIaFDG"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
+        "name": "Redneck Rich",
+        "url": "https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q"
+      },
+      "artists": [
+        {
+          "name": "Cody Parks and The Dirty South",
+          "url": "https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk"
+        }
+      ],
+      "duration_ms": 282462,
+      "name": "Redneck Rich",
+      "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
     },
     {
       "added_at": "2023-08-21 15:41:01",

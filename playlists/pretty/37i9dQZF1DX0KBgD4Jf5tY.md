@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0VvyCsUWH9s7uqcb24Yv7I">Margherita Principi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,442 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,451 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 54 | [Solo parole](https://open.spotify.com/track/69P1OW0psO2Eab4tA5M9B4) | [Derido](https://open.spotify.com/artist/2qvE9K3dR5BgiaytuaxPID) | [Solo parole](https://open.spotify.com/album/47QcCOPRDOvzGDR00yMiEv) | 2:43 |
 | 55 | [Waves](https://open.spotify.com/track/0zuoe4IlRz1yZ9wQXsBfz5) | [The Magic Portal](https://open.spotify.com/artist/6v87BTpvjjedqoIjwOiV3d) | [Waves](https://open.spotify.com/album/45uF0shcLfrUUM7Z6GaARF) | 3:57 |
 
-Snapshot ID: `MCwxYmI0ODg0OTk3OGJlNDM4ZWQxNjdjYTdiYmI4YjEwNTdlNDRlNjky`
+Snapshot ID: `MCwwN2U0ZDMyNWQ1ZDAwYzFiNGM0ZTBkYWY0M2RhMWY3M2QyNDY2ZjM1`

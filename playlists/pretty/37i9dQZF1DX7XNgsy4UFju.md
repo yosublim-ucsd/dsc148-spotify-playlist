@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,807 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,822 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Friends in Bed](https://open.spotify.com/track/2gxRDXknHioKAiids3TskK) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [Doom](https://open.spotify.com/album/6PczSjXvfPn904DxMCInHg) | 2:48 |
 | 100 | [What I Wouldn't Give](https://open.spotify.com/track/2jZ2NZAr4eYdiKFBdnLnUy) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [What I Wouldn't Give](https://open.spotify.com/album/3HE99KDQkRdkklFMCQEOdb) | 4:40 |
 
-Snapshot ID: `MCwwZjZhZWU3NGUwYTdjOGEyOWRkYjcwNTBhOTYwNTEzYmZkMWQ5Njc3`
+Snapshot ID: `MCwwNjhiZTMwMDhhN2U2MzQyZTMyMGFmYWZkZGI5MTIwOTQ0MGM0ZmJj`

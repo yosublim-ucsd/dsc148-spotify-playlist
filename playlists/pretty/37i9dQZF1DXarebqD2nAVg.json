@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 440335,
+  "num_followers": 440419,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4",
+  "snapshot_id": "MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "In My Eyes",
-        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
-      },
-      "artists": [
-        {
-          "name": "Beow\u00fclf",
-          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "In My Eyes",
-      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Growing Up, Vol. 1",
         "url": "https://open.spotify.com/album/1qxLJGTmKJZVXzqKwLdzxD"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 96026,
       "name": "The Burn Marks on My Epiano Wont Go Away",
       "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "In My Eyes",
+        "url": "https://open.spotify.com/album/0AN836ptcBD1Ob3fGqx7Di"
+      },
+      "artists": [
+        {
+          "name": "Beow\u00fclf",
+          "url": "https://open.spotify.com/artist/4owATw6JCMuUxeWdh3eiyg"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "In My Eyes",
+      "url": "https://open.spotify.com/track/20uZlOriIFYJt21nCwyAah"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -623,38 +623,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "in.the.forest.we.are.wizards",
-        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
       "artists": [
         {
           "name": "Kupla",
           "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "emerald",
-      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "LIGHTER",
-        "url": "https://open.spotify.com/album/0zLmk30hF1RcoDCNXmFMU4"
-      },
-      "artists": [
-        {
-          "name": "Formalite",
-          "url": "https://open.spotify.com/artist/2fPfY8Q8qi3VhTWAbk7HNw"
         },
         {
-          "name": "paydak",
-          "url": "https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx"
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
         }
       ],
-      "duration_ms": 96200,
-      "name": "MEMORIES OF YOU",
-      "url": "https://open.spotify.com/track/2hnWQzIH4J8y3Y2MCDh5NI"
+      "duration_ms": 147474,
+      "name": "Memories Fade",
+      "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -763,26 +747,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
-      },
-      "artists": [
-        {
-          "name": "Kupla",
-          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        }
-      ],
-      "duration_ms": 147474,
-      "name": "Memories Fade",
-      "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
       },
@@ -795,6 +759,22 @@
       "duration_ms": 173426,
       "name": "Behind",
       "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "in.the.forest.we.are.wizards",
+        "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "emerald",
+      "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -895,6 +875,22 @@
       "duration_ms": 120215,
       "name": "mangos",
       "url": "https://open.spotify.com/track/2d2ZOEYuXYnvdW7ZA3ZyRS"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
     }
   ],
   "unique_name": "sad lofi",

@@ -2059,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "Dumes",
+        "url": "https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        },
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Dumes",
+      "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
+    },
+    {
+      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -7510,7 +7532,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 237863,
       "name": "Tertawan Hati",
       "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"

@@ -4,7 +4,7 @@
 
 > Una selezione speciale a cura di <a href="spotify:artist:6jLkAhKbd3toZ58ri9NQrV">Francesca Gaza</a>!
 
-354 songs - 1 day 2 hr 36 min
+355 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Gomorra](https://open.spotify.com/track/4TPhRoIPxaRrEkpFSHiqUU) | [Francesca Remigi](https://open.spotify.com/artist/0XBpvcUWlPH7130Am8ivZD), [Niran Dasika](https://open.spotify.com/artist/0ao7KN4CauhB0OMvoCeC8D), [Claire Parsons](https://open.spotify.com/artist/5tL0bDRrekt8XwWnFSvvYx), [Federico Calcagno](https://open.spotify.com/artist/6fejDlo0knbJLVEMCDDQzh) | [Il Labirinto dei Topi](https://open.spotify.com/album/4fWmsQbCZ2EV9fuXUnmIXF) | 6:42 | 2022-11-02 | 2022-12-06 |
 | [Greenarp](https://open.spotify.com/track/4sHTSXAklnVPGTDNOvunVL) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb) | [Forest City](https://open.spotify.com/album/1tEe3UAUaaqkGutB94Jsiw) | 3:34 | 2023-09-17 |  |
 | [Groovy](https://open.spotify.com/track/7dsgdcIu2Pby6wnbsjRqSy) | [Andrea Biondi](https://open.spotify.com/artist/2rf3CCkBInxeMdrIUnczNP), [Jacopo Ferrazza](https://open.spotify.com/artist/6JQTj3KJJullWlmszH1VbJ) | [Aut Aut](https://open.spotify.com/album/0QBw8PAScglDL7C4957qy9) | 6:40 | 2022-11-02 | 2022-12-06 |
-| [Habibi Baby](https://open.spotify.com/track/5xEBVm5ySgpzvru7Fghhtm) | [Rosa Brunello](https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN), [Maurice Louca](https://open.spotify.com/artist/1yworXPrFusfsg4bz5Sx7K), [Marco Frattini](https://open.spotify.com/artist/6kad5fHYNR3iXDjLCAogn0) | [Sounds Like Freedom](https://open.spotify.com/album/5xuldo0UpDBmdDFTpyvvMw) | 4:59 | 2023-09-17 |  |
+| [Habibi Baby](https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF) | [Rosa Brunello](https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI), [Marco Frattini](https://open.spotify.com/artist/6kad5fHYNR3iXDjLCAogn0), [Maurice Louca](https://open.spotify.com/artist/1yworXPrFusfsg4bz5Sx7K), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Sounds Like Freedom](https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc) | 4:59 | 2023-09-17 |  |
+| [Habibi Baby](https://open.spotify.com/track/5xEBVm5ySgpzvru7Fghhtm) | [Rosa Brunello](https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN), [Maurice Louca](https://open.spotify.com/artist/1yworXPrFusfsg4bz5Sx7K), [Marco Frattini](https://open.spotify.com/artist/6kad5fHYNR3iXDjLCAogn0) | [Sounds Like Freedom](https://open.spotify.com/album/5xuldo0UpDBmdDFTpyvvMw) | 4:59 | 2023-09-17 | 2023-10-05 |
 | [hajar](https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD) | [Iosonouncane](https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW) | [IRA](https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL) | 11:02 | 2022-11-02 | 2022-12-06 |
 | [Hana\-bi](https://open.spotify.com/track/0905xQkLbHlEl2ThjXUcth) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 1:54 | 2022-09-30 | 2022-11-03 |
 | [Hangover](https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Alchimia](https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po) | 3:45 | 2022-11-02 | 2022-12-06 |

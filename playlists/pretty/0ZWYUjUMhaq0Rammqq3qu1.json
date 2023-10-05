@@ -1,12 +1,12 @@
 {
   "description": "Dance hits in 2023. Cover: Swedish House Mafia",
-  "num_followers": 115984,
+  "num_followers": 115981,
   "original_name": "Dance Hits 2023",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "NDY3MSxhOWUyOTE4MjJjM2U3M2Y0YmQ2ZjJjYmJiNGY1MGUwYzQwMzkzYmUw",
+  "snapshot_id": "NDY3Myw2MDRlOTE5NWUyNmQ1ZDBmYTVlODVjN2YxZmIxZjdiNWVmOGEyY2Y4",
   "tracks": [
     {
       "added_at": "2023-10-02 07:17:10",
@@ -503,6 +503,46 @@
       "duration_ms": 192604,
       "name": "Run",
       "url": "https://open.spotify.com/track/3UIBmd8J87KiTBuALIXeGL"
+    },
+    {
+      "added_at": "2023-10-05 00:26:49",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-10-05 00:26:52",
+      "album": {
+        "name": "Keep Going Up",
+        "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
+      "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
     },
     {
       "added_at": "2023-10-02 07:17:10",

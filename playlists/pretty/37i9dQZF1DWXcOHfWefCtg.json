@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTkwYWI2MWNjNjVjMjBhM2YwN2U3NGVjMzQ1NWY0MDY1OTU2MDI5",
+  "snapshot_id": "MCwyODkwOWY1ZDBmNjA3OGZhOTIwMjFjODVhZWUwMmI3YTczN2QzODcy",
   "tracks": [
     {
       "added_at": "2021-11-12 16:13:57",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
-        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "One Little Christmas Tree",
-      "url": "https://open.spotify.com/track/1QGJ4tts3Owl4lnOU2bFJQ"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
         "name": "Merry Christmas Baby / White Christmas",
         "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "One Little Christmas Tree",
+      "url": "https://open.spotify.com/track/1QGJ4tts3Owl4lnOU2bFJQ"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/5TICk0rfgLn67MEIHWjur2"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Sunshine for Christmas",
-        "url": "https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 310783,
-      "name": "Sunshine for Christmas",
-      "url": "https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4"
-    },
-    {
       "added_at": "2021-11-12 16:13:57",
       "album": {
         "name": "James Brown's Funky Christmas",
@@ -503,6 +487,22 @@
       "duration_ms": 189133,
       "name": "Soulful Christmas",
       "url": "https://open.spotify.com/track/1DPsX971DJx0ntFazxzL6B"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Sunshine for Christmas",
+        "url": "https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 310783,
+      "name": "Sunshine for Christmas",
+      "url": "https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -575,6 +575,22 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
+        "name": "James Brown's Funky Christmas",
+        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Tit For Tat (Ain't No Taking Back)",
+      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "James Brown's Funky Christmas",
-        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
+        "name": "Christmas In Soulsville",
+        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Tit For Tat (Ain't No Taking Back)",
-      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
+      "duration_ms": 215426,
+      "name": "I'll Be Your Santa Baby",
+      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -639,22 +655,6 @@
       "duration_ms": 201200,
       "name": "Stone Soul Christmas",
       "url": "https://open.spotify.com/track/6n6OFj4obq9cyfNCODUp8m"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
-        "name": "Christmas In Soulsville",
-        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 215426,
-      "name": "I'll Be Your Santa Baby",
-      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -687,22 +687,6 @@
       "duration_ms": 184111,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Everyday Will Be Like a Holiday",
-        "url": "https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ"
-      },
-      "artists": [
-        {
-          "name": "Kyla Jade",
-          "url": "https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0"
-        }
-      ],
-      "duration_ms": 236712,
-      "name": "Everyday Will Be Like a Holiday",
-      "url": "https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -739,6 +723,22 @@
       "duration_ms": 202064,
       "name": "Christmas, Christmas",
       "url": "https://open.spotify.com/track/2TQArDxjfRt7GZCtDZn8eZ"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Everyday Will Be Like a Holiday",
+        "url": "https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ"
+      },
+      "artists": [
+        {
+          "name": "Kyla Jade",
+          "url": "https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0"
+        }
+      ],
+      "duration_ms": 236712,
+      "name": "Everyday Will Be Like a Holiday",
+      "url": "https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Merry Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62"
+        "name": "Christmas Songs Xmas Tunes Festive Favourites",
+        "url": "https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3"
       },
       "artists": [
         {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+          "name": "Margie Joseph",
+          "url": "https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc"
         }
       ],
-      "duration_ms": 161493,
-      "name": "It Won't Be Long 'Til Christmas - Bonus Track / 2015 Mix",
-      "url": "https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I"
+      "duration_ms": 208306,
+      "name": "Christmas Gift",
+      "url": "https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D"
     }
   ],
   "unique_name": "Soulful Christmas",

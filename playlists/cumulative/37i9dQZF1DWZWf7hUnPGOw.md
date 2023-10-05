@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-257 songs - 15 hr 40 min
+258 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Time After Time](https://open.spotify.com/track/6vSmNysHIlALPOg2fk37PX) | [Phillip LaRue and The Wildwoods](https://open.spotify.com/artist/4ax5Muh1D7VX3aYWPR3g8K) | [Virgin River \(Music from the Netflix Series\)](https://open.spotify.com/album/1yP98guPImv2LUdjTSV461) | 3:35 | 2022-07-22 |  |
 | [Tomorrow Is Coming](https://open.spotify.com/track/4kB4Nupn6vML2gWnNW5s9T) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Stealing Time](https://open.spotify.com/album/7oNtY0xPnxNc6oAXoOFrs9) | 5:59 | 2022-07-22 |  |
 | [Too Much Talking](https://open.spotify.com/track/31YQmk5YBQFa7GTIzZ0iAP) | [Grain Thief](https://open.spotify.com/artist/1s72KWoPysNDIrYfiysfxv) | [Animal](https://open.spotify.com/album/2RwrWQFIc7Ql7IeaqvIc8n) | 2:45 | 2022-07-22 |  |
-| [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 | 2022-07-22 |  |
+| [Troubled Roads](https://open.spotify.com/track/25SP3wsvCo6o2E05K8nmxr) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/0DKWJKgu5DZGKCth0wIrS8) | 3:26 | 2023-09-25 |  |
+| [Troubled Roads](https://open.spotify.com/track/2zqMo4kHxWmmJwtYKCIVVz) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Devil on the Loose](https://open.spotify.com/album/5cq1i2qocdtAG0hAyWneju) | 3:26 | 2022-07-22 | 2023-10-05 |
 | [Troubles](https://open.spotify.com/track/7kwJKz6246G9HUAREqLAw7) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Eternal Reach](https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61) | 6:24 | 2022-07-22 |  |
 | [Tunnels and Lines](https://open.spotify.com/track/0wI6oSiCPq1nfG0vvUPX1r) | [Ocha la Rocha](https://open.spotify.com/artist/3aYqKgh8yPcgHgvGrtiKbG) | [Ocha Scores](https://open.spotify.com/album/5neD4cM7aAEPaSv0pTDPZF) | 4:10 | 2022-07-22 |  |
 | [Turn](https://open.spotify.com/track/1qXqofgrpHVmaQRvpjhbHM) | [Ben Wagner](https://open.spotify.com/artist/2XfzkL45NEnGaTUtUOo63D) | [Midwestern Comfort](https://open.spotify.com/album/4rKjsssuMEhPlCrfcbl8mx) | 4:05 | 2022-07-22 |  |

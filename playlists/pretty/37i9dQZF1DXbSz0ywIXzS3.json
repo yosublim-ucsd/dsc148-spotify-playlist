@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 142616,
+  "num_followers": 142677,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Yjk1YmFkY2E4NzdmMTU4MjU2Y2E4MjNjN2NjOTFkMDUzMmM5ZjYy",
+  "snapshot_id": "MCxiNDdlYjRmYTk2ZjdmODVlZWNhOTRkNmY1MTdhYmRiYjA5MzlkNTgw",
   "tracks": [
     {
       "added_at": "2023-09-28 08:25:22",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Broken Machine (Deluxe)",
         "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 214706,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Pull Me Through",
-        "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Pull Me Through",
-      "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Mer De Noms",
         "url": "https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 219640,
       "name": "3 Libras",
       "url": "https://open.spotify.com/track/5kHkaBN8OEQlmXfQkACxSt"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Pull Me Through",
+        "url": "https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Pull Me Through",
+      "url": "https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -795,6 +779,22 @@
       "duration_ms": 232998,
       "name": "Thick Skull",
       "url": "https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "Team Sleep (U.S. Release)",
+        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Team Sleep",
+          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         }
       ],
-      "duration_ms": 247773,
-      "name": "Northern Downpour",
-      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
+      "duration_ms": 171800,
+      "name": "Ever (Foreign Flag)",
+      "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Team Sleep (U.S. Release)",
-        "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
-      },
-      "artists": [
-        {
-          "name": "Team Sleep",
-          "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Ever (Foreign Flag)",
-      "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 204066,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Northern Downpour",
+      "url": "https://open.spotify.com/track/49SL9f1Kz73p0bzsNPTY4l"
     },
     {
       "added_at": "2023-09-28 08:25:22",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-09-28 08:25:22",
       "album": {
-        "name": "Lovely Little Lonely",
-        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 192825,
-      "name": "Don't Come Down",
-      "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
-    },
-    {
-      "added_at": "2023-09-28 08:25:22",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 157586,
       "name": "Oversized",
       "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
+    },
+    {
+      "added_at": "2023-09-28 08:25:22",
+      "album": {
+        "name": "Lovely Little Lonely",
+        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 192825,
+      "name": "Don't Come Down",
+      "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
     },
     {
       "added_at": "2023-09-28 08:25:22",

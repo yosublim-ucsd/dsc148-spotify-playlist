@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 61778,
+  "num_followers": 61836,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGE2OWMyMmEyYjFjZTVkOWExMTA3MDEzZWExYTA5NjI4YjZmOWE2",
+  "snapshot_id": "MCwwNjc3MDIxMDJlNDliMDQxZGY3OTVkZDAzMGM0OWJjNjMwMGMxOTFl",
   "tracks": [
     {
       "added_at": "2023-09-14 15:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+    },
+    {
+      "added_at": "2023-09-14 15:00:00",
+      "album": {
         "name": "Pierrepont",
         "url": "https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 270664,
       "name": "Pierrepont",
       "url": "https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs"
-    },
-    {
-      "added_at": "2023-09-14 15:00:00",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 502364,
-      "name": "Monotony",
-      "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
     },
     {
       "added_at": "2023-09-14 15:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-09-14 15:00:00",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
       "artists": [
         {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
+      "duration_ms": 502364,
+      "name": "Monotony",
+      "url": "https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1"
     },
     {
       "added_at": "2023-09-14 15:00:00",

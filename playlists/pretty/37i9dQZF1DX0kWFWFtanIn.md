@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 
 > The perfect soundtrack to your prenatal yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,356 likes - 258 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,362 likes - 258 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 | 44 | [quinessence](https://open.spotify.com/track/48pNnZkhPIWXRMfdMibeO8) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [quinessence](https://open.spotify.com/album/1L9up7hf1UwiU4Vu4Z8lEH) | 2:45 |
 | 45 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 |
 | 46 | [Valley Below](https://open.spotify.com/track/1HLt6MKMbg9TCFwBMBqf7l) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Valley Below](https://open.spotify.com/album/01W9ohHQbktMJTcthXMuQL) | 3:22 |
-| 47 | [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 |
+| 47 | [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 |
 | 48 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 |
 | 49 | [Eternity](https://open.spotify.com/track/1t4SmpsYd5S6XoCQN3p7vv) | [David Elo](https://open.spotify.com/artist/6j82CtAMpY8Oa3unyVmriF) | [Eternity](https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N) | 2:49 |
 | 50 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kWFWFtanIn.md) - [plain]
 | 257 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 |
 | 258 | [Empfidlich](https://open.spotify.com/track/2l4kkjxegUp9EdfxFfV5aq) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Empfidlich](https://open.spotify.com/album/0HiXGcnHWnMtdCTkhWFb0F) | 2:50 |
 
-Snapshot ID: `MCw0YTA0ZjZjZjJhOWZhMjcwNThkZjhkNDY1YTg2MTMxMjJmNDEwOGQx`
+Snapshot ID: `MCxhZGU2YmYyMTJjNzMyMzU0ZjIyNzA4NTQ4MWRlNzBiNWQ4MGYwOTll`

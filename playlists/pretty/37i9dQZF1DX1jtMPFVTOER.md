@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,367 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,435 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 93 | [Sacrifice](https://open.spotify.com/track/1QZ0trnp5lBt5rEvGX1kNk) | [Natalie Renoir](https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87), [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Sacrifice](https://open.spotify.com/album/5B0i9bLgYapWqaPy4i4KiJ) | 2:30 |
 | 94 | [Cusp](https://open.spotify.com/track/3lInJDgHSNOdetZy02Qi2J) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Romero](https://open.spotify.com/album/1iHV3TGZJTXnH5UyRYMwwz) | 4:31 |
 | 95 | [Inhale, Exhale](https://open.spotify.com/track/0ym3MgItsOpHT9q5DDpXLo) | [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Inhale, Exhale](https://open.spotify.com/album/70M8wlJqNIfDZzdW01FBb1) | 2:27 |
-| 96 | [Like A Trap](https://open.spotify.com/track/02MZHCU9oBqxtqEB369fD9) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Like A Trap / Runway \[Ticket\] / Crystal Ball Room](https://open.spotify.com/album/1U5yo9uoLUJsw62K9lUqFq) | 3:14 |
+| 96 | [Like A Trap](https://open.spotify.com/track/2hfkuNjCb2taJLSPYAWC3s) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Tell The Ghost Welcome Home](https://open.spotify.com/album/6nLjP3dReDXaVeBj86WJFp) | 3:14 |
 | 97 | [Bad Girls](https://open.spotify.com/track/1bYpricJVlO7D6kmjf8Whf) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [Bad Girls](https://open.spotify.com/album/6jeJZLPCFkSP0FbmC0X5CM) | 2:35 |
 | 98 | [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 |
 | 99 | [Shine](https://open.spotify.com/track/4ZVNCrYStmGn546kpAS1I2) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Shine](https://open.spotify.com/album/6RefKEwQv3tidPWBr4mBQ0) | 3:38 |
 | 100 | [you said...](https://open.spotify.com/track/2T8gjOM7DTgu7YtwLC0ddf) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [you said...](https://open.spotify.com/album/77L359klVW9v2ODUWvNPF5) | 2:14 |
 
-Snapshot ID: `MCwxMjVhNzBmMmQ5NDg5M2U1ZjQ4YmI1NTMxMGJhNDlkYjJhMmMzMzA3`
+Snapshot ID: `MCxmYjY0N2ViMzAyZjQzYTc5MTM3YWE0Zjc0NGQ1Y2UxY2UwZDIxM2U1`

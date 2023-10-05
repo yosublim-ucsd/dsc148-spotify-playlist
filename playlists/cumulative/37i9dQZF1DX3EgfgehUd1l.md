@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-257 songs - 11 hr 19 min
+258 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Chicka Boom](https://open.spotify.com/track/3cJgmYBjL9BHjqBe331L07) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Rock\-A\-Billy \- The Triad Sessions & More](https://open.spotify.com/album/6eMhNgB0h1J1gGMJTfLEwt) | 2:44 | 2020-07-08 | 2022-03-22 |
 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 | 2020-07-08 |  |
 | [Cindy Oh Cindy](https://open.spotify.com/track/1mbXUmzG184YuT72QSGDBW) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Backline Volume 62](https://open.spotify.com/album/51W0rYKefZgAhZmPEMmoxR) | 3:03 | 2020-07-08 | 2022-07-29 |
-| [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 | 2020-07-08 |  |
+| [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 | 2020-07-08 | 2023-10-05 |
 | [Dark Moon](https://open.spotify.com/track/4wP00KOVlbp6UZRtfY4aoY) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [Must Have](https://open.spotify.com/album/5tS3mnciRSD6nPw2HPqLny) | 2:35 | 2020-07-08 | 2022-07-28 |
 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 | 2020-07-08 |  |
 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 | 2020-07-08 |  |
@@ -204,6 +204,7 @@
 | [Stupid Cupid](https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/16HB1qo5ljAAhNB4KFcyvL) | 2:14 | 2020-07-08 | 2022-07-10 |
 | [Suddenly There's A Valley](https://open.spotify.com/track/5zOIwi0Q9SzFoM8NM9hWdt) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Backline Volume 59](https://open.spotify.com/album/3rEyJZuIPYOIel5BIVYknR) | 2:39 | 2020-07-08 | 2022-07-16 |
 | [Sugar Moon](https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 1:55 | 2020-07-08 | 2023-09-18 |
+| [Sugar Moon](https://open.spotify.com/track/6hc2AUvS54icf4z9qQHbaT) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone Sings \(Expanded Edition\)](https://open.spotify.com/album/5Btlm07VEQhfqvsTbkjL9H) | 1:55 | 2020-07-08 |  |
 | [Sugar Moon](https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Backline Volume 57](https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa) | 1:56 | 2020-07-08 | 2022-05-15 |
 | [Sway \(Quien Sera\)](https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:42 | 2020-07-08 |  |
 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 | 2020-07-08 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Kika Boom, Kaya Conky",
-  "num_followers": 224268,
+  "num_followers": 224288,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjAwYWFjYWFmNWNkYTgzZmY5OWFkY2Y4YmE3ZWVhOTA4MGQ1MGZl",
+  "snapshot_id": "MCxhZWQzYzU5NGUxNTcyYzg3ZjYyODZjODI4ODI3NmNmOTk2MWJmMTA3",
   "tracks": [
     {
       "added_at": "2023-09-02 00:04:15",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-09-02 00:04:15",
       "album": {
+        "name": "F\u00daRIA",
+        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp"
+    },
+    {
+      "added_at": "2023-09-02 00:04:15",
+      "album": {
         "name": "BOROGOD\u00d3 pt.1",
         "url": "https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 169411,
       "name": "S\u00f3cia",
       "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
-    },
-    {
-      "added_at": "2023-09-02 00:04:15",
-      "album": {
-        "name": "F\u00daRIA",
-        "url": "https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm"
-      },
-      "artists": [
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp"
     },
     {
       "added_at": "2023-09-02 00:04:15",

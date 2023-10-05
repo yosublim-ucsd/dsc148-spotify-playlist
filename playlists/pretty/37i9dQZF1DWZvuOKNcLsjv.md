@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Pink Pantheress
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,136 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,158 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
 | 100 | [Bad State](https://open.spotify.com/track/2V4vuCR0VyMyq2zyb0Ou0u) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [Bad State](https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R) | 2:23 |
 
-Snapshot ID: `MCw2MjEzYmZmMGI4YzNkOTY0ZDM2YTI0NjExNWJiNzE5YzE1ZmZlMjk3`
+Snapshot ID: `MCwwMDIxMTY4ZWZlZTkyMmJlMjkxMTQwNTM3YmU4MzhkYjkyNjBjNjFl`

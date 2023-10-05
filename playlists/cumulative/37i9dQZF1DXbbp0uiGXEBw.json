@@ -374,7 +374,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 190526,
       "name": "C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 278400,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4"
@@ -1836,6 +1836,24 @@
       "duration_ms": 179154,
       "name": "Ng\u01b0\u1eddi \u00d4m Ph\u00e1o Hoa",
       "url": "https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m"
+    },
+    {
+      "album": {
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147475,
+      "name": "ng\u01b0\u1eddi \u0111i\u00ean",
+      "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
     },
     {
       "album": {

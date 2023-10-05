@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-121 songs - 6 hr 32 min
+122 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 | 2023-07-11 |  |
 | [Badmos Chora](https://open.spotify.com/track/1J8WBxWTvYlmFSoQyQWoN9) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:24 | 2023-03-28 | 2023-07-16 |
 | [Bagdadi](https://open.spotify.com/track/56kDXRd6Yy2w7034LaOwJN) | [Semicolon](https://open.spotify.com/artist/1MWKy0Hucv9MInRiOf0Duh), [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Bagdadi](https://open.spotify.com/album/54VGUtzXIowOk9m3NPOCpW) | 2:50 | 2023-09-27 |  |
-| [Balak Gaama Ke](https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN) | [Hallu Mandiaala](https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy) | [Balak Gaama Ke](https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk) | 2:36 | 2023-09-08 |  |
+| [Balak Gaama Ke](https://open.spotify.com/track/1ze9e3pkjdU9z6R7jPKuvN) | [Hallu Mandiaala](https://open.spotify.com/artist/5hXwj2AU0GkQlBvj6rLPLE), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy) | [Balak Gaama Ke](https://open.spotify.com/album/4fPKkFkpNkPo7752kqqfbk) | 2:36 | 2023-09-08 | 2023-10-05 |
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 | 2023-06-17 |
@@ -64,6 +64,7 @@
 | [Hurr Hurr](https://open.spotify.com/track/3TdDp6r78i2pISrgW2QH6c) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Hurr Hurr](https://open.spotify.com/album/1T94tZ0ONkKt3e8A7OfN0d) | 3:40 | 2023-04-18 | 2023-09-28 |
 | [Hustle](https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG) | [Manni](https://open.spotify.com/artist/3xgot0UOXdbB02Nt7FXq1F) | [Hustle](https://open.spotify.com/album/0earK0NiGvRyupxyoXpusg) | 1:55 | 2023-03-28 | 2023-04-19 |
 | [Inform me](https://open.spotify.com/track/0ek0ApZzBwlLjhMDmxQG3N) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Inform me](https://open.spotify.com/album/47srYYfK2BMfgAiHh66Ozh) | 3:30 | 2023-04-03 | 2023-04-29 |
+| [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 |  |
 | [JagPal](https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [JagPal](https://open.spotify.com/album/067lRvGEDxtt6MwMSJyhpk) | 2:23 | 2023-03-28 | 2023-07-12 |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-03-28 | 2023-09-28 |
 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 | 2023-03-28 |  |

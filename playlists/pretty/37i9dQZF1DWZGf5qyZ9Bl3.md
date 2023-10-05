@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,319 likes - 101 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,395 likes - 101 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 100 | [Breath Of Eternal](https://open.spotify.com/track/0f43LSmKqevW1BOpF9TPvl) | [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Breath Of Eternal](https://open.spotify.com/album/0Amml1IYryuyFdzVzuDol0) | 2:12 |
 | 101 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
 
-Snapshot ID: `MCw2ZjExZWY4OGY3YmUwYzQ0YTAzMjQxMDRmMmRkZDNiNzFlYzYwMWE5`
+Snapshot ID: `MCwxNWU4YWQwYWJlZTM0NjJkNjJiNTk2N2UzZDEzNjAwY2FmNzc4NDY2`

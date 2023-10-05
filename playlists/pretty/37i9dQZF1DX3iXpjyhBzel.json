@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1001966,
+  "num_followers": 1002471,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjZmMDNmZWEzOTUwZmM5OTJmMGM0OTgxOTY5NDUzMDU0YzA0NTJh",
+  "snapshot_id": "MCwwODA2OThmOGFjNzIxZTYxNTIyNzUwNjNmMDhhOTE1MWVlMjViZjU2",
   "tracks": [
     {
       "added_at": "2023-09-25 14:52:37",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 372173,
-      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
         "name": "Minha Calmaria",
         "url": "https://open.spotify.com/album/7yEu4W8HFWye8SXWakWNeJ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 219240,
       "name": "Minha Calmaria",
       "url": "https://open.spotify.com/track/6ljL3K3Poa4le6P52a6bbJ"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 372173,
+      "name": "\u00c9 Tudo Sobre Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/47j8u38wfvxdQeRA7TBJrB"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        }
-      ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
         "name": "30 Anos Na Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 367349,
       "name": "Sonda-me Usa-me - Ao Vivo",
       "url": "https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Imagina",
-        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
+        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
       "artists": [
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
         },
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 318020,
-      "name": "Voc\u00ea N\u00e3o Imagina",
-      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
+      "duration_ms": 287120,
+      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1083,6 +1083,26 @@
       "duration_ms": 281666,
       "name": "Senhor dos Ex\u00e9rcitos - Ao Vivo",
       "url": "https://open.spotify.com/track/6zeA7gTkx0Cttexj4XOiHr"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
+        "name": "Voc\u00ea N\u00e3o Imagina",
+        "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 318020,
+      "name": "Voc\u00ea N\u00e3o Imagina",
+      "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1147,26 +1167,6 @@
       "duration_ms": 313141,
       "name": "Quebro Meu Vaso",
       "url": "https://open.spotify.com/track/6g88LTq36Dhe7Dgl3mRph3"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
-        "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
+        "name": "Ent\u00e3o Profetiza",
+        "url": "https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 259505,
+      "name": "Ent\u00e3o Profetiza",
+      "url": "https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
         "name": "Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 386420,
       "name": "Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
-        "name": "A Resposta",
-        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 268661,
       "name": "Deus Cuida De Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4C3JM08kRIAowxZJHuZ6Mk"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
-        "name": "Ent\u00e3o Profetiza",
-        "url": "https://open.spotify.com/album/5R9xXreLrZnG7fYGbeHPHs"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 259505,
-      "name": "Ent\u00e3o Profetiza",
-      "url": "https://open.spotify.com/track/0U7QgnQNNjC1WhcEOPm6xI"
     },
     {
       "added_at": "2023-09-25 14:52:37",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
+        "name": "Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 258109,
+      "name": "Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
         "name": "Ton Canta, Vol. 2",
         "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
       },
@@ -1603,6 +1623,22 @@
     {
       "added_at": "2023-09-25 14:52:37",
       "album": {
+        "name": "Cordeiro que Venceu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 410347,
+      "name": "Cordeiro que Venceu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
+    },
+    {
+      "added_at": "2023-09-25 14:52:37",
+      "album": {
         "name": "Eis-me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/3htXOXY0fw7xL2SQbM6asn"
       },
@@ -1619,42 +1655,6 @@
       "duration_ms": 304426,
       "name": "Eis-me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/30HIrYrqVauHKnGQKEavBS"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
-        "name": "Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2EgB2hkSzkIb1hl6ukjXgA"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 258109,
-      "name": "Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/5BRY9EOYsV2TtB8qm43GHf"
-    },
-    {
-      "added_at": "2023-09-25 14:52:37",
-      "album": {
-        "name": "Cordeiro que Venceu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 410347,
-      "name": "Cordeiro que Venceu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU"
     },
     {
       "added_at": "2023-09-25 14:52:37",

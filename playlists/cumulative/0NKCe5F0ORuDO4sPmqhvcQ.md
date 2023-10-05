@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-518 songs - 1 day 5 hr 3 min
+519 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2021-11-12 | 2022-01-08 |
 | [EYES LOW // YOU](https://open.spotify.com/track/2Jd3nVTSL52nXzEILa8bUM) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 5:03 | 2022-04-18 |  |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-19 | 2023-01-20 |
+| [F.M.T.D.](https://open.spotify.com/track/24wxQ6tO7NyFGV93TclK8k) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [F.M.T.D.](https://open.spotify.com/album/4CLUqPA3WTCfZ5As3nDBjN) | 6:41 | 2023-10-04 |  |
 | [Fa111en Angels](https://open.spotify.com/track/2nAVOPiURJ8CYwFEFq3HBU) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:47 | 2021-12-07 | 2022-01-08 |
 | [fade](https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [..\. Onward](https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk) | 2:49 | 2022-09-13 | 2023-07-20 |
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 | 2022-09-19 |

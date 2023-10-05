@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-114 songs - 7 hr 56 min
+115 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 | 2022-06-25 |  |
 | [First Love Again](https://open.spotify.com/track/6dctHGnTOybspx1pFQL3E7) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:25 | 2022-06-25 | 2022-07-29 |
 | [Fly into the sky](https://open.spotify.com/track/13js1LWsNrTSUomm4bYblW) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [THE SECRET NiGHT](https://open.spotify.com/album/0y0DKS9Ns0JS89ZbENujXd) | 4:09 | 2022-06-25 | 2022-07-29 |
-| [Fly with You!!](https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 4:34 | 2023-10-03 |  |
+| [Fly with You!!](https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA) | 4:34 | 2023-10-03 | 2023-10-05 |
+| [Fly with You!!](https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:34 | 2023-10-03 |  |
 | [Future Parade](https://open.spotify.com/track/5AlLFpe5yog2BzEhMQhRwF) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Future Parade](https://open.spotify.com/album/0fsS12IJNLCSxKhrE5920k) | 4:36 | 2022-07-26 |  |
 | [Go Our Way!](https://open.spotify.com/track/45vz21WtajNItybbjzNoxn) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Feel Alive / Go Our Way!](https://open.spotify.com/album/3URTuaSBGB0HUlXCo9mmEp) | 2:45 | 2023-06-27 |  |
 | [I'm Still...](https://open.spotify.com/track/4HQa0dUK1ViBURwCB8U1r3) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 4:06 | 2022-06-25 | 2022-07-29 |

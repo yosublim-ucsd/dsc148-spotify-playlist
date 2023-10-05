@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Brilletje",
+        "url": "https://open.spotify.com/album/2xmq2AcsQDHmSMRu6YGGsz"
+      },
+      "artists": [
+        {
+          "name": "Karashnikov",
+          "url": "https://open.spotify.com/artist/0H6wjgFfHI7vf5SaX2T14n"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174811,
+      "name": "Lets go",
+      "url": "https://open.spotify.com/track/4vmzFOCbjeV9cIvVqS3DKC"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
       },
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 115231,
       "name": "Say yes to heaven",
       "url": "https://open.spotify.com/track/6s5nJGUMS7g0tO8L1ejXA9"

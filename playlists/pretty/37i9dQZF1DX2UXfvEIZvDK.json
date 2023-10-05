@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 706398,
+  "num_followers": 706651,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmFhOWYzMjU4MjE3ZmRmNTUxNWEyMDNlY2E0ZWIzN2ExZWEzMzRk",
+  "snapshot_id": "MCw0YjRjYWFkZWVmYmI2NDg0OWJkNjRjMWQ0YTUxZjJjMjFjMWM5MzBh",
   "tracks": [
     {
       "added_at": "2023-09-24 19:18:19",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 261093,
       "name": "The Man Who Sold The World - Live",
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
     },
     {
       "added_at": "2023-09-24 19:18:19",
@@ -632,7 +632,7 @@
           "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
         }
       ],
-      "duration_ms": 230880,
+      "duration_ms": 230893,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g"
     },
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-24 19:18:19",
       "album": {
-        "name": "Way down We Go (Stripped)",
-        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Way down We Go - Stripped",
-      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
-    },
-    {
-      "added_at": "2023-09-24 19:18:19",
-      "album": {
         "name": "Era Vulgaris",
         "url": "https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 290493,
       "name": "Make It Wit Chu",
       "url": "https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH"
+    },
+    {
+      "added_at": "2023-09-24 19:18:19",
+      "album": {
+        "name": "Way down We Go (Stripped)",
+        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Way down We Go - Stripped",
+      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
     },
     {
       "added_at": "2023-09-24 19:18:19",

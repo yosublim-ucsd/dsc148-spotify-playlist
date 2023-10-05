@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-213 songs - 14 hr 47 min
+214 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Stepping Stone](https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:09 | 2023-09-15 |  |
 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 | 2022-07-08 |  |
 | [Stone Cold \(feat\. Tina Arena and Joe Bonamassa\)](https://open.spotify.com/track/71WRMHNIG0xQiCOWgbLT6d) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/7wR3QAlIKaPYPVoBFh25G3) | 6:52 | 2022-05-25 | 2022-07-29 |
+| [Storm a Comin'](https://open.spotify.com/track/2zekfUFBwfKIO3OK6NERsM) | [Pat Kenny](https://open.spotify.com/artist/5esMdiK9fCQMbzGOUytrRN) | [Storm a Comin'](https://open.spotify.com/album/61IJDksMxSMowgQA7iOtTq) | 3:13 | 2023-10-02 |  |
 | [Stormy Monday](https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs) | [Eva Cassidy](https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew) | [Live At Blues Alley](https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy) | 5:49 | 2022-05-25 |  |
 | [Sunday](https://open.spotify.com/track/6acPKN6yeFBa9vhME9RwIN) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:44 | 2022-10-03 | 2023-02-26 |
 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-04-07 |  |
@@ -215,7 +216,7 @@
 | [Underground Railroad](https://open.spotify.com/track/6LtBXwNr2MJboOD3w5Zt4R) | [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN), [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Underground Railroad](https://open.spotify.com/album/6ubhqCcDBYw0DabUMhxnIO) | 4:14 | 2023-04-21 |  |
 | [West Coast Eyes](https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [West Coast Eyes](https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC) | 4:05 | 2023-06-09 |  |
 | [What Am I To You?](https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:30 | 2022-05-25 |  |
-| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 |  |
+| [What Can I Do](https://open.spotify.com/track/1LVazB4PgKRwcQSHM9ZMvd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG), [Dexter Allen](https://open.spotify.com/artist/6UBESW5c8QXYUJ4AcFo0XE) | [I'm Just Getting Started!](https://open.spotify.com/album/3PdVX86oO0mDnceN43LKPr) | 2:52 | 2023-10-02 | 2023-10-05 |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-06-14 |  |
 | [Will o' the Wisp](https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Love, Death & In Between](https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2) | 3:23 | 2023-02-03 |  |
 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 | 2023-03-16 |  |

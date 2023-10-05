@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,114 likes - 128 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,120 likes - 128 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 127 | [4 to 5 \(With Future\)](https://open.spotify.com/track/30UAaS7gWwNTcO1axpAB5g) | [Ghostluvme](https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [4 to 5 \(With Future\)](https://open.spotify.com/album/3EmtxZ9WCjoNZmhQVwSlvS) | 3:19 |
 | 128 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 |
 
-Snapshot ID: `MCxlNzZkMTUzNjQ1ZDlmNzgxYjY1MjY0OTgxY2U1MDRlNmQwNDJkZTQw`
+Snapshot ID: `MCw4MGNjZTg4NzZjODQ0MGE1OTI5NGNlOWFhNmQ3ZjgyZGZkMDQ0MGVh`

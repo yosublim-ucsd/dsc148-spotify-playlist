@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 
 > Chill instrumental ambient for slow, focused movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,290 likes - 176 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,293 likes - 176 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 49 | [Within Reach](https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Within Reach](https://open.spotify.com/album/3wMJEOI1QZm6yFxjrXWbPR) | 2:15 |
 | 50 | [Anirual](https://open.spotify.com/track/5X3UiiOUn1REPps2Gq4Cv2) | [Mark Davey](https://open.spotify.com/artist/5G9p1AfkWTDCfOrqwDv9L5) | [Anirual](https://open.spotify.com/album/1hR00aoNRj0k7bXa7oKzLR) | 3:28 |
 | 51 | [Profundo](https://open.spotify.com/track/2iDQ2TInzIp61VSUk0Iqm7) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:52 |
-| 52 | [Altaria](https://open.spotify.com/track/6U0VDBci8VNH2vOl9ABfxe) | [Lisa de Permen](https://open.spotify.com/artist/1H0Dzd2Z3BdF0I53KpNx1R) | [Altaria](https://open.spotify.com/album/5u42VT6iwtReZsCN2ijWr6) | 3:28 |
+| 52 | [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 |
 | 53 | [Lliw](https://open.spotify.com/track/3dCdGk4tP6pqWOlfjuzeEE) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Lliw](https://open.spotify.com/album/0GTv1Y6grHgTgFcqKiOWDS) | 2:39 |
 | 54 | [Sanyog](https://open.spotify.com/track/4jS79eUku1DjatFHoM06Xd) | [Aasmi Jayavant](https://open.spotify.com/artist/0zbmKsf2YJoS2aT0uDEmaS) | [Sanyog](https://open.spotify.com/album/5lPSlwtiIcumCGlF2SL3CB) | 2:31 |
 | 55 | [Straight Ahead](https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Frictionless](https://open.spotify.com/album/0MUMMXAt41woVXxQ5BssVh) | 2:56 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdejmG21jbny.md) - [plain]
 | 175 | [Forever After](https://open.spotify.com/track/0R2ei7TiPZZWqAqlXlbjQ9) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Forever After](https://open.spotify.com/album/737BhS9CjJXHKSz0PbtpVg) | 2:59 |
 | 176 | [Calming Seas](https://open.spotify.com/track/6fAmC1bZzVgA9E5gNrdy5k) | [Grant Murdoch](https://open.spotify.com/artist/69MHZfuz6RQx3JpGl1OXB0) | [Calming Seas](https://open.spotify.com/album/6RZEo3ZuNrZadQxwmxbtra) | 2:50 |
 
-Snapshot ID: `MCw1MjcxYzM4NTk4MjU1YTFmNTVjOTcxNDA4OTU1ZmQ1MjIyZTYzZmFm`
+Snapshot ID: `MCw5Yzc1MWE5ZWVkMzM1ODcwMjQ1NDY5N2E2MzhhNWU5YzU1NDU1ZTI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 
 > Trapperz Brasil apresenta..\. O Melhor do Hip Hop 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,905 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,034 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 30 | [202](https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202](https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6) | 2:50 |
 | 31 | [Relógio](https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Relógio](https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN) | 2:40 |
 | 32 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
-| 33 | [Sigo na Fé do Pai](https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Sigo na Fé do Pai](https://open.spotify.com/album/5goTGEm2ey7n2DEa2tIcm8) | 4:24 |
+| 33 | [Sigo na Fé do Pai](https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [BielZin](https://open.spotify.com/artist/26jDqgJjuHie3MyFRXJuxg) | [Sigo na Fé do Pai](https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ) | 4:24 |
 | 34 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 | 35 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 |
 | 36 | [Mini Game](https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ) | [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [DJ BRUNO PRADO](https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3) | [Mini Game](https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULHbs82dshJ.md) - [plain]
 | 49 | [Oi, Como Ce Tá?](https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Oi, Como Ce Tá?](https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou) | 2:36 |
 | 50 | [Posturadão](https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Posturadão](https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO) | 2:42 |
 
-Snapshot ID: `MCw4NGU1ZDY1ZmVmZTMzOTZlY2M2NzU0MWIzNTE4MGEyYTllNTBjOGRl`
+Snapshot ID: `MCw4Mzk3Y2U3ZmUxZjNmZjg4NWExN2FkMTgxZDc5YTU2YTcyOGM4NGQ5`

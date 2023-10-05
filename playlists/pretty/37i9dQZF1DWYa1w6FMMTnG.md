@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,980 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,951 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 29 | [My Kind of Monster \- From "Under Wraps 2"](https://open.spotify.com/track/0nLDu7ifW9COai1r1sDToe) | [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [Christian J Simon](https://open.spotify.com/artist/70LSoaix7XNY9avQhubMZO), [Sophia Hammons](https://open.spotify.com/artist/4QJfrqcHIzoFwiP90qmWvF), [Under Wraps 2 \- Cast](https://open.spotify.com/artist/7tAKbZwXOesm4BBjLc7dLe) | [My Kind of Monster \(From "Under Wraps 2"\)](https://open.spotify.com/album/0N1bvCohphMqymhEulIRic) | 2:39 |
 | 30 | [Tie the Knot Tango](https://open.spotify.com/track/23c50sgUoawToa6LvPmWuO) | [Taraji P\. Henson](https://open.spotify.com/artist/7DHnqpyebuZan18T1diaio), [Pepé the King Prawn](https://open.spotify.com/artist/1iMTLjdRyIo58maQgO0F1a) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 1:43 |
 | 31 | [The Nightmare Before Christmas Medley](https://open.spotify.com/track/6v0TPuaVg0qHP9qdtYFup4) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [The Nightmare Before Christmas Medley](https://open.spotify.com/album/431nyvLvgL7izW9XQHQcTF) | 3:05 |
-| 32 | [Welcome To The Forty Thieves \- Soundtrack](https://open.spotify.com/track/4fWMjJzPmLGkmoMVF7nqcQ) | [Chorus \- Aladdin And The King Of Thieves](https://open.spotify.com/artist/3RCg2I3QQqOinllMoXWYHx) | [Aladdin and the King of Thieves](https://open.spotify.com/album/62EL4ZfXVeQJuxQ6fUIu7A) | 1:50 |
+| 32 | [Welcome To The Forty Thieves \- From "The Return of Jafar"/Soundtrack Version](https://open.spotify.com/track/4fWMjJzPmLGkmoMVF7nqcQ) | [Chorus \- Aladdin And The King Of Thieves](https://open.spotify.com/artist/3RCg2I3QQqOinllMoXWYHx) | [Aladdin and the King of Thieves](https://open.spotify.com/album/62EL4ZfXVeQJuxQ6fUIu7A) | 1:50 |
 | 33 | [Jack's Lament](https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:14 |
 | 34 | [Main Title](https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 1:31 |
 | 35 | [Life Hereafter](https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 3:37 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 97 | [The Suspension Is Killing Me](https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 0:44 |
 | 98 | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/track/2m4RlNsMUbxChac9kX1Cu2) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Monsters After Dark](https://open.spotify.com/album/2OpuXAttHxigr3ChNOzN3U) | 2:40 |
 
-Snapshot ID: `MCxhODUyMjA5ODZmMjY2NTgxZTExMWFlNjFjNjZkZDA4ZTQ1ZDE5NGQw`
+Snapshot ID: `MCw0ZGRjYWVmZTJkMGZmNzFiYmNkOTMxYWFlYWNkYTcxOWY0Y2Y0MWI3`

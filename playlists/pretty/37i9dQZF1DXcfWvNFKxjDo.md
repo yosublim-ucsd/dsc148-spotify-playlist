@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Jax Jones, D.O.D, Ina Wroldsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,390 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,460 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Safe & Sound](https://open.spotify.com/track/2cHXFZElaXZ8G74JMxraAj) | [Chany Dakota](https://open.spotify.com/artist/5oN5sCm0yGqy2EhMnfNxYf) | [Safe & Sound](https://open.spotify.com/album/6m5S1TNKQGtXCKGLuIFQy9) | 2:10 |
 | 74 | [Enjoy The Feeling](https://open.spotify.com/track/4eda4ZywzP27RWiiezjt4N) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [SPACE POP VOL\. 1](https://open.spotify.com/album/6sd80tk9Qw2kc7cQ6xnhTT) | 2:54 |
 
-Snapshot ID: `MCxhMjZlNDFlOWUzMDU2NGY3MTY5Y2U5YzJhODhlNDVhMGNjMzJhODE1`
+Snapshot ID: `MCwwMzhjMDg5ZjNmMWUxMGI0YWE0ZGU2OTBmNTA2ODIyZmIwYjllMmMx`

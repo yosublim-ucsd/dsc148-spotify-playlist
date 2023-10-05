@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6816\)
+## Playlists \(6817\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1497,6 +1497,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Deep Dive: 90s Rock](/playlists/pretty/37i9dQZF1DX6YTj07PjLwE.md)
 - [Deep Focus](/playlists/pretty/37i9dQZF1DWZeKCadgRdKQ.md)
 - [Deep House Blend](/playlists/pretty/37i9dQZF1DX5xiztvBdlUf.md)
+- [Deep House Grooves](/playlists/pretty/37i9dQZF1DWUbycBFSWTh7.md)
 - [Deep House Relax](/playlists/pretty/37i9dQZF1DX2TRYkJECvfC.md)
 - [Deep House Session](/playlists/pretty/37i9dQZF1DWXRzAsbxGrBZ.md)
 - [Deep Listening](/playlists/pretty/37i9dQZF1DX5y2yPmGqrG8.md)
@@ -1504,7 +1505,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Deep Rhythm Focus](/playlists/pretty/37i9dQZF1DX7UrwvHIj5b1.md)
 - [Deep Sleep](/playlists/pretty/37i9dQZF1DWYcDQ1hSjOpY.md)
 - [Deep Study](/playlists/pretty/37i9dQZF1DWVtHcSjp0LID.md)
-- [Deephouse Delight](/playlists/pretty/37i9dQZF1DWUbycBFSWTh7.md)
 - [Defqon.1's Warrior Workout DJ Mix](/playlists/pretty/37i9dQZF1DX6WRXrAIn41I.md)
 - [Delta Blues](/playlists/pretty/37i9dQZF1DWSTHVqvNCwNq.md)
 - [Dembow Pegao](/playlists/pretty/37i9dQZF1DWWWpEY2WZLnS.md)
@@ -2968,7 +2968,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Le Hit Del 2016](/playlists/pretty/37i9dQZF1DX92LuBHmd192.md)
 - [Le Hit Del 2017](/playlists/pretty/37i9dQZF1DWXunlM9audKP.md)
 - [Le meilleur du rap québécois 2022](/playlists/pretty/37i9dQZF1DXcTuHVFoulvZ.md)
-- [League of Legends Lil Nas X Takeover](/playlists/pretty/37i9dQZF1DWVi45nh2EuPP.md)
+- [League of Legends NewJeans Takeover](/playlists/pretty/37i9dQZF1DWVi45nh2EuPP.md)
 - [Learn Chinese](/playlists/pretty/37i9dQZF1DX60lVXkfYly8.md)
 - [Learn French](/playlists/pretty/37i9dQZF1DWTJSgpZmw7H2.md)
 - [Learn German](/playlists/pretty/37i9dQZF1DWVrSKB2Pc3PY.md)
@@ -3877,6 +3877,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Pride Party](/playlists/pretty/37i9dQZF1DX59HcpGmPXYR.md)
 - [Princess Power Official Playlist](/playlists/pretty/37i9dQZF1DWWkukBI0VSzg.md)
 - [Princesses Disney](/playlists/pretty/37i9dQZF1DX2IIQJM8tkyy.md)
+- [Privadito](/playlists/pretty/37i9dQZF1DXe66p0GtkYj3.md)
 - [Productive Morning](/playlists/pretty/37i9dQZF1DX6T5dWVv97mp.md)
 - [Prog Jazz](/playlists/pretty/37i9dQZF1DX9NNVWdU83m6.md)
 - [Prog Rock](/playlists/pretty/37i9dQZF1DWXgtgITTKvYl.md)

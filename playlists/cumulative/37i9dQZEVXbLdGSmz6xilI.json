@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 162545,
       "name": "3D (Alternate Ver.)",
       "url": "https://open.spotify.com/track/5BKiMkWucQVb7wrFi29VtX"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -3896,6 +3896,24 @@
       "duration_ms": 177684,
       "name": "C\u1ea2M NH\u1eacN (feat. Seachains)",
       "url": "https://open.spotify.com/track/2sUJxpZyYIAtJjy4ptfTK2"
+    },
+    {
+      "album": {
+        "name": "C\u1eaft \u0110\u00f4i N\u1ed7i S\u1ea7u",
+        "url": "https://open.spotify.com/album/7nzSwNbqVyu8leqBImvzEz"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "C\u1eaft \u0110\u00f4i N\u1ed7i S\u1ea7u",
+      "url": "https://open.spotify.com/track/1ZgiJ8fiSEwd07OpB9ZuRz"
     },
     {
       "album": {
@@ -14488,7 +14506,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Two Door Cinema Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,641 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,659 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 43 | [Miami Baby](https://open.spotify.com/track/0BhMGTZ32kho286pz0mJxq) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Miami Baby](https://open.spotify.com/album/7xCHhK4CCxyT70MaKqIMsF) | 4:53 |
 | 44 | [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 |
 | 45 | [Street Rat](https://open.spotify.com/track/6QEXgIEYghZjsFcQPohZ9q) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Street Rat](https://open.spotify.com/album/1dSWDvAoExxAwJj2Hf7kTB) | 3:30 |
-| 46 | [I Couldn't Care](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 |
+| 46 | [I COULDN'T CARE](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 |
 | 47 | [103](https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [103](https://open.spotify.com/album/7ulxN5uW4dwBArYASh5g2i) | 4:05 |
 | 48 | [Nudge](https://open.spotify.com/track/18XvbzuW5P1hMfqK1K3T5w) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Nudge](https://open.spotify.com/album/0aGszdyg3w2WCRtqZk9zYC) | 2:31 |
 | 49 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 | 50 | [State of Mind](https://open.spotify.com/track/0YVdOpuH9zsSK2kIVzyCc2) | [Ben Gillies](https://open.spotify.com/artist/0gTHS3bd46X6RA57hTv6AH) | [State of Mind](https://open.spotify.com/album/140X4UQ5siuUi309cOQQ6Y) | 3:18 |
 
-Snapshot ID: `MCw2NDIyOTliZGM4ZWRjYzc2MmY1OWNlYTNmMWRkZWJhN2YyNGIxYTNk`
+Snapshot ID: `MCxlOTliMzcxYjE2YWU5ODA1MTU1MjYxZDhhOGI4NGY3ZjEyMDA3NjJi`

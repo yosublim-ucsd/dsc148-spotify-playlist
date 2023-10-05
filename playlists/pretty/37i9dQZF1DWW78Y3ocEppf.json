@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Byron Juane",
-  "num_followers": 42970,
+  "num_followers": 42975,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTUxNjBjZjc3ZjgzNjA5ZGE1ZWMxZmQ0YzM4MGRkMzQ5YmZkNzNi",
+  "snapshot_id": "MCxhZWI2OWMzNTI4YzkzOWUxYTVjYWIyZjMwNjYyNmQ5Mjc5OGY4NGU2",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3NaYHkZmo48PEkbRQMyXAT"
     },
     {
-      "added_at": "2023-09-08 05:11:32",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Bout Mine",
@@ -803,6 +787,22 @@
       "duration_ms": 147613,
       "name": "Bout Mine",
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
+    },
+    {
+      "added_at": "2023-09-08 05:11:32",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/5c5WpahqfyGJ7ZibFt8Es7"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
-    },
-    {
       "added_at": "2023-03-03 05:16:10",
       "album": {
         "name": "Swerve",
@@ -1259,6 +1243,22 @@
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/3qnBJIsT0jCcTtRVAUMGTv"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/3RS5YuY2AD0Fbz9VxLd9zj"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1441,6 +1441,26 @@
       "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     },
     {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "On Mine",
+        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 143986,
+      "name": "On Mine",
+      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
+    },
+    {
       "added_at": "2023-07-28 08:00:10",
       "album": {
         "name": "Just Like Me",
@@ -1479,26 +1499,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "On Mine",
-        "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
-      },
-      "artists": [
-        {
-          "name": "Imani Williams",
-          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 143986,
-      "name": "On Mine",
-      "url": "https://open.spotify.com/track/3wbV0PBJKj24jEcVuSHZoX"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "I'M THE PROBLEM",
         "url": "https://open.spotify.com/album/6Ke3MYjGU7CCv6x530tdm4"
       },
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
-    },
-    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Tripolar 3",
@@ -1563,6 +1547,22 @@
       "duration_ms": 219500,
       "name": "Strip for You (feat. Vedo)",
       "url": "https://open.spotify.com/track/5KyaW4SQOARjggwgcSvcrI"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
     },
     {
       "added_at": "2023-09-01 04:55:52",
@@ -1745,20 +1745,24 @@
       "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
     },
     {
-      "added_at": "2023-07-28 08:00:10",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "Bands On You",
-        "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
+        "name": "RollBack",
+        "url": "https://open.spotify.com/album/298ehDYTKeUklRTxCBjgdc"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+          "name": "FIFTEENAFTER",
+          "url": "https://open.spotify.com/artist/3c6du62jWz8v0jfv24Eye3"
+        },
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Bands On You",
-      "url": "https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL"
+      "duration_ms": 139760,
+      "name": "RollBack",
+      "url": "https://open.spotify.com/track/5CeVK0aXJyPKr5O9tlyCs9"
     }
   ],
   "unique_name": "Some Kinda Way",

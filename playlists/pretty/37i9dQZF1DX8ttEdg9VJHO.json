@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 345922,
+  "num_followers": 345978,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
+  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
   "tracks": [
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Remember Roses",
-        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
-      },
-      "artists": [
-        {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Wishing Girl",
-      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Keep It Low",
         "url": "https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 172000,
       "name": "Keep It Low",
       "url": "https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "Remember Roses",
+        "url": "https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Wishing Girl",
+      "url": "https://open.spotify.com/track/2iawlVRHk4Q9aPg0OgG20D"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
-        "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
+        "name": "How Many Moons",
+        "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
       },
       "artists": [
         {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "LUI HILL",
+          "url": "https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS"
         }
       ],
-      "duration_ms": 208692,
-      "name": "Let\u2019s Go Home Together",
-      "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
+      "duration_ms": 183635,
+      "name": "How Many Moons",
+      "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
     }
   ],
   "unique_name": "Feelgood Pop",

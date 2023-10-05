@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,120 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,155 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Matriarchy](https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD) | 2:44 |
 | 80 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 |
 
-Snapshot ID: `MCwwYTc5MmE2NzQ2NmRlMTA1NTM5ZjU0NjhlMDZhMTQ3OTcxYzc1ZjZm`
+Snapshot ID: `MCw1OGRhZjgzZWEyODA3ZDZjNTNlMzQ5YjkzMDg5YmY1MGI2OTMzZTRj`

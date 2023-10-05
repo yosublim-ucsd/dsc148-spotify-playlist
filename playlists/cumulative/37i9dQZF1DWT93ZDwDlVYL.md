@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters Italia](https://open.spotify.com/playlist/37i9dQZF1DWT93ZDwDlVYL)
 
-> Podcast che devi avere sul tuo RADAR: Bouquet of Madness, Dear Alice, Caffè Design.<br/>Foto: Caffè Design.
+> Podcast che devi avere sul tuo RADAR: Questo Podcast NON ESISTE, Brivido Coatto, Power Pizza, CineFacts, POV il podcast
 
 9 songs - 6 hr 14 min
 

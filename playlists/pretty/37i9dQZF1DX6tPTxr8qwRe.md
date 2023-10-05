@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: sad alex
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,469 likes - 66 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,591 likes - 66 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 65 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 |
 | 66 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCw3MDNjYjc0OTBkNTJlMTA3ZmYzYjkxNjJiOGQ2MThjMWQ0Y2FlNTVl`
+Snapshot ID: `MCxhNzEyZGUxZTMzY2YxZTA4ZWY0Y2IxNWRiMGZkZjA1YmY1OGY0OGZk`

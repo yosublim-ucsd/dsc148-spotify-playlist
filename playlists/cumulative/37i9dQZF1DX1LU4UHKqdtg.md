@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: IVE
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NewJeans
 
-754 songs - 1 day 17 hr 17 min
+755 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Girls’ Capitalism](https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [LOVElution <ↀ>](https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf) | 3:38 | 2023-08-18 |  |
 | [Glitch](https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Color](https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03) | 3:44 | 2022-04-04 | 2022-06-17 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-03-29 | 2022-06-22 |
+| [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-04 |  |
 | [Goes on](https://open.spotify.com/track/2Y9KdZldoTAXBfy5P9IcdU) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Goes on](https://open.spotify.com/album/5AhqIXtThzlDFpdLlBZhgw) | 3:30 | 2022-08-16 | 2022-09-28 |
 | [Golden Age](https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE) | [NCT 2023](https://open.spotify.com/artist/7e0ruktNBO8etVJ5rjvhbG) | [Golden Age](https://open.spotify.com/album/2PCdWOGSx5Xt8rBE5wD8Bu) | 3:38 | 2023-08-24 |  |
 | [Good & Great](https://open.spotify.com/track/51oDOYN8AOyzvOpcvRGyI8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Good & Great \- The 2nd Mini Album](https://open.spotify.com/album/262TLn6YLogOz3Vn7CVRYo) | 3:19 | 2023-09-11 |  |

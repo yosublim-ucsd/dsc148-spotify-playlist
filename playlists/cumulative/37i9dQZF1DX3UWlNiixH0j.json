@@ -9682,6 +9682,32 @@
     {
       "album": {
         "name": "The Out of Africa Hypothesis",
+        "url": "https://open.spotify.com/album/3tGPmRJlRvjfEYTSbUt28r"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        },
+        {
+          "name": "Zo Zhit",
+          "url": "https://open.spotify.com/artist/4G0afFvUmwf6FMVm7DoEwx"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "The Out of Africa Hypothesis",
+      "url": "https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3"
+    },
+    {
+      "album": {
+        "name": "The Out of Africa Hypothesis",
         "url": "https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4"
       },
       "artists": [
@@ -9700,7 +9726,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 282857,
       "name": "The Out of Africa Hypothesis",
       "url": "https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60"
@@ -10392,7 +10418,7 @@
     {
       "album": {
         "name": "WABISABI",
-        "url": "https://open.spotify.com/album/0sk0LboSOCSWowAjmYoALm"
+        "url": "https://open.spotify.com/album/5zUFysUWNY9NId9QB5WFLp"
       },
       "artists": [
         {
@@ -10403,6 +10429,24 @@
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208100,
+      "name": "WABISABI",
+      "url": "https://open.spotify.com/track/24VnIHZn36lqgWU8sRctn3"
+    },
+    {
+      "album": {
+        "name": "WABISABI",
+        "url": "https://open.spotify.com/album/0sk0LboSOCSWowAjmYoALm"
+      },
+      "artists": [
+        {
+          "name": "nikiie",
+          "url": "https://open.spotify.com/artist/3TOoTfdVrwDi68aAnrPu7Z"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
       "duration_ms": 208100,
       "name": "WABISABI",
       "url": "https://open.spotify.com/track/4rDSi6jw4qPQyyjOMCAOOm"

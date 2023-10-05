@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 57855,
+  "num_followers": 57874,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2M2ZmQ2YzRlYTFlZDY2MTFlOWIxMjA5ZWYxN2JjZDhlZTBkMjFh",
+  "snapshot_id": "MCwzMzhhODFlYTQ3MTgzYmI2YmJjMmQ4MjFhYjVhMmQ1ZThjNDBkYzJj",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -555,22 +555,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Paisaje Gris",
-        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
       },
       "artists": [
         {
-          "name": "Jenny Beaujean",
-          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
-        },
-        {
-          "name": "Benjam\u00edn Garc\u00eda",
-          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Paisaje Gris",
-      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -619,18 +615,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "\u00a1Oh! Mi Amor",
-        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
+        "name": "Paisaje Gris",
+        "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
       "artists": [
         {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+          "name": "Jenny Beaujean",
+          "url": "https://open.spotify.com/artist/6ex3zdLBHsbn07VkD3Nnq3"
+        },
+        {
+          "name": "Benjam\u00edn Garc\u00eda",
+          "url": "https://open.spotify.com/artist/25pBtHDlplMjQ9FrFoMcuE"
         }
       ],
-      "duration_ms": 318122,
-      "name": "Trato De Asimilar",
-      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+      "duration_ms": 259133,
+      "name": "Paisaje Gris",
+      "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
     },
     {
       "added_at": "2021-07-28 16:44:28",

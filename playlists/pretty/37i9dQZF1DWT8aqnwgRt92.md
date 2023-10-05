@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,347,436 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,349,015 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 6 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 7 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
 | 8 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
-| 9 | [ギターと孤独と蒼い惑星 \- from CrosSing](https://open.spotify.com/track/5svgIVYpZuUZZgQbhWDQ0G) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ギターと孤独と蒼い惑星 \- from CrosSing](https://open.spotify.com/album/22MgLVsrqOAHW8dBiLFWoH) | 3:49 |
+| 9 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 |
 | 10 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 11 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 |
 | 12 | [WILDER \- feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/45ox7i49tAE2cyJHhHYK6C) | [UPSTART](https://open.spotify.com/artist/4PLPwM88KIwvLnDqSt5S6M), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [WILDER \(feat\. Hiro from MY FIRST STORY\)](https://open.spotify.com/album/7hipmZB6fH7K44ZUHtydc2) | 3:18 |
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 21 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
 | 22 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 23 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
-| 24 | [Skyline](https://open.spotify.com/track/5Y7I67xCLNaPTHvUP78AI2) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6oKA6EIqSIXyFiDwPnVqwM) | 3:57 |
-| 25 | [Hyper](https://open.spotify.com/track/2gjcKUENc1b3CkBEWjSL1E) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/1SVGVA68dbU3oTG8nRISM4) | 4:17 |
+| 24 | [Skyline](https://open.spotify.com/track/4eKbNMZEejC4lWxkRaDyan) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Skyline](https://open.spotify.com/album/6MiQuUPf4xQK3QaVC2f7uO) | 3:57 |
+| 25 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 |
 | 26 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
 | 27 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 |
 | 28 | [In the Core of My Heart](https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [「アリスとテレスのまぼろし工場」オリジナルサウンドトラック](https://open.spotify.com/album/2uz6oICkcSVEE0QQaboneg) | 5:28 |
 | 29 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 | 30 | [Stereo Sunset \- Prod\. AmPm \-TV size ver.](https://open.spotify.com/track/4gkkoaQSQa9JGBL6AdXvLD) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm \-TV size ver.\)](https://open.spotify.com/album/1to3b7J3yUYWid6EVQPkk0) | 1:34 |
-| 31 | [好きになってはいけない理由](https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [好きになってはいけない理由](https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry) | 4:40 |
+| 31 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC) | 4:40 |
 | 32 | [空飛ぶペンギン](https://open.spotify.com/track/5rDH4z9tnXrSSDLUXUPTAt) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [空飛ぶペンギン](https://open.spotify.com/album/0kKe4lYB2uwxmwTZWqDbAe) | 4:13 |
 | 33 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 |
 | 34 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 |
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 43 | [Tailwind](https://open.spotify.com/track/5zF2p0QeKLWGjcmF8D25ik) | [Kanae](https://open.spotify.com/artist/14iTK9oNk2bqL8k5rUQLll) | [Tailwind](https://open.spotify.com/album/3jAeeZ772d3RsqCsOkmiGd) | 3:51 |
 | 44 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 45 | [HELP](https://open.spotify.com/track/5fTk6RfTbySiEyjRnrpHNV) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [HELP](https://open.spotify.com/album/2hJ603Bso9KCAAHwQD606w) | 3:47 |
-| 46 | [ユウマガドキ（TV Size ver.）](https://open.spotify.com/track/6ii1KiewZ3hiPqrUguejoo) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [TVアニメ『ミギとダリ』オープニング主題歌「ユウマガドキ」](https://open.spotify.com/album/1hUJLrJuuMCNvAdqvWFOeZ) | 1:29 |
+| 46 | [Yumagadoki\(TV Size ver.\)](https://open.spotify.com/track/5XpyuBdbX8Pn4nArmEcPGm) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [TV Anime "Migi & Dali" Opening Theme "Yumagadoki"](https://open.spotify.com/album/5b4tdpeo3ZQXQZRHlm4CCd) | 1:29 |
 | 47 | [TRANSFORMERS\-Earthspark!!](https://open.spotify.com/track/03JEwdYpFd63utphXDqy3k) | [サイキックラバー](https://open.spotify.com/artist/3RzP9wHS4d0hAFOqbvkEMs) | [TRANSFORMERS\-Earthspark!!](https://open.spotify.com/album/3OBm1szR6Iqe7M4BAG4Ub8) | 4:15 |
 | 48 | [ROAR](https://open.spotify.com/track/6uivVGH9afiQOD9AbZatrq) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [ROAR](https://open.spotify.com/album/09wcj80hhbm5MghpXgZmtn) | 3:23 |
 | 49 | [ムスビメ](https://open.spotify.com/track/0pkVxyrTqqlv3moOEA2wOt) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [ムスビメ](https://open.spotify.com/album/3PRUbUlarV6rpompdRENpr) | 4:50 |
 | 50 | [RED](https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:54 |
-| 51 | [tailwind](https://open.spotify.com/track/4eWA4UcHed1NTE8kdTVL7U) | [katagiri](https://open.spotify.com/artist/0ncQh2zi1V4dWyYO1XdQKn) | [tailwind](https://open.spotify.com/album/3OUb3n5zuO0taxE6h29fl6) | 4:02 |
-| 52 | [秘密](https://open.spotify.com/track/1sY7Loshp5UXmBioLDC0nq) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [秘密](https://open.spotify.com/album/7mgvVMjKAxuLAMbbPFqCHP) | 3:27 |
+| 51 | [Tailwind](https://open.spotify.com/track/3cco1SyVp3QgkOsrVnVGhA) | [Katagiri](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS) | [Tailwind](https://open.spotify.com/album/47L5KBCqVmyFBLr7MU2C2M) | 4:02 |
+| 52 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 |
 | 53 | [レイジョアハンズ!! ～Raise Y/Our Hands!!～ <TVアニメ「私の推しは悪役令嬢。」OP主題歌>](https://open.spotify.com/track/4KLnCJ5Jb0KegqgmGYtj0O) | [レイ\(CV.芹澤優\)](https://open.spotify.com/artist/7lASCV34WzEVlaueaflV6q), [クレア\(CV.奈波果林\)](https://open.spotify.com/artist/60S3tmlIQt6Kn8HPIicBFe) | [レイジョアハンズ!! ～Raise Y/Our Hands!!～ <TVアニメ「私の推しは悪役令嬢。」OP主題歌>](https://open.spotify.com/album/3zFQ66NGGCKQ9zvakCESqW) | 4:05 |
 | 54 | [ハピネス オブ ザ デッド](https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ハピネス オブ ザ デッド](https://open.spotify.com/album/2qUA9ZKcJgOmGkWRbnqCsV) | 2:54 |
 | 55 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 74 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 |
 | 75 | [1000 Nen Ai](https://open.spotify.com/track/7kL3uCeXIukUkX7c7zZpMr) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000 Nen Ai](https://open.spotify.com/album/15Ou8v4P4vzddeH1mJ1uYa) | 5:18 |
 
-Snapshot ID: `MCw2ZGI2ZDIzNGRmZmM4OWUwZWZjNjBiMjU4OTJlZmRlNjlhM2ZjOWJh`
+Snapshot ID: `MCxlOTlmODNlZDU5MDk4NmNhMjRhODMyNjI0Mjg5OTc3NDM0MDg3Y2Y2`

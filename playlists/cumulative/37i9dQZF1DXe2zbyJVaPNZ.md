@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-184 songs - 12 hr 9 min
+185 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 | 2022-11-11 |  |
 | [Billions and Billions](https://open.spotify.com/track/34jk6E3JeCxxDscKMtDKcU) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [A Moment of Stillness](https://open.spotify.com/album/4Lm6SgVaPvXDRQOSpqfafA) | 5:14 | 2022-08-05 |  |
 | [Blis](https://open.spotify.com/track/7pVau53NvKbQ02gKoDgxJi) | [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U), [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Naer](https://open.spotify.com/album/46gUlev9vSy4mLtR9Ec5Vl) | 3:30 | 2022-10-14 |  |
-| [Blue Airglow](https://open.spotify.com/track/2mugkR92BaadnDA00Y01uV) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Blue Airglow](https://open.spotify.com/album/5xF8V7En6VnqmL3IIO7ZER) | 3:53 | 2022-08-05 |  |
+| [Blue Airglow](https://open.spotify.com/track/2mugkR92BaadnDA00Y01uV) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Blue Airglow](https://open.spotify.com/album/5xF8V7En6VnqmL3IIO7ZER) | 3:53 | 2022-08-05 | 2023-10-05 |
 | [Bodh Gaya](https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:01 | 2022-11-22 |  |
 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 | 2022-08-05 | 2023-01-21 |
 | [Boundless](https://open.spotify.com/track/0vzxsI3KIPY4lyhI0m0EAH) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Boundless](https://open.spotify.com/album/0yXGrxSC7CMIFXY1zHhB7p) | 3:18 | 2023-03-09 |  |
@@ -143,6 +143,7 @@
 | [Reflections](https://open.spotify.com/track/1Qm7N6tQUcg7RubLr7o1nq) | [Dorian Gray](https://open.spotify.com/artist/27bwOnqrkHPk4sJtNpUn2r) | [Randomly Generated](https://open.spotify.com/album/2yjIsMdeY9TFeTGqqcZO9z) | 6:35 | 2022-08-05 | 2023-08-19 |
 | [Reflector](https://open.spotify.com/track/7KReeqzDWnzpz1jma5q5GM) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Parallel](https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX) | 8:22 | 2022-08-19 |  |
 | [Restful Petal](https://open.spotify.com/track/2TPxRTo03wfcB62GUiUjmK) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:18 | 2023-03-24 |  |
+| [Restful Thoughts](https://open.spotify.com/track/289UBtfTyC6mGbKKHRZ5Q2) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Restful Thoughts](https://open.spotify.com/album/0Y33c6BitKdEpxiR6ZydMC) | 3:13 | 2023-10-02 |  |
 | [Sea Angel](https://open.spotify.com/track/0NJTbN4WsbZvEJAtXFuvfW) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [Dream Vibes](https://open.spotify.com/album/3UIy1t5U2AUDF22IvmKuPD) | 5:04 | 2022-12-20 |  |
 | [Second Sleep](https://open.spotify.com/track/27czMd5PkUmbowhIj70e52) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj) | [The Sleep Project](https://open.spotify.com/album/25ZJSTznISJssjpVmDu1hK) | 4:00 | 2022-08-05 | 2023-09-26 |
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-08-05 |  |

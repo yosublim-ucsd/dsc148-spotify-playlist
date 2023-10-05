@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 52438,
+  "num_followers": 52457,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2",
+  "snapshot_id": "MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -759,22 +759,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy"
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
+        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        },
-        {
-          "name": "Nigel Hall",
-          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Do It Like You Do",
-      "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
+      "duration_ms": 362733,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -795,18 +791,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
-        "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3xkP2jcNDvuo7ZfNjl22Vy"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
         }
       ],
-      "duration_ms": 362733,
-      "name": "Yes We Can Can",
-      "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
+      "duration_ms": 251293,
+      "name": "Do It Like You Do",
+      "url": "https://open.spotify.com/track/7cnWNeQIQutKJmL3MZSfr6"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Confident (feat. The MB's)",
+        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
+      },
+      "artists": [
+        {
+          "name": "Cliff Beach",
+          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
+        },
+        {
+          "name": "The MB's",
+          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "Confident (feat. The MB's)",
+      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 211988,
       "name": "Take It Back (feat. Doc Brown)",
       "url": "https://open.spotify.com/track/1ENj6P8jaXJgURajSJCsIL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Confident (feat. The MB's)",
-        "url": "https://open.spotify.com/album/0dnIxietsEIhuml8hJKopn"
-      },
-      "artists": [
-        {
-          "name": "Cliff Beach",
-          "url": "https://open.spotify.com/artist/66gjb8G6USA4sI4bZPrJ3Z"
-        },
-        {
-          "name": "The MB's",
-          "url": "https://open.spotify.com/artist/4adlPXwO2sPi7h6Rgz3krz"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "Confident (feat. The MB's)",
-      "url": "https://open.spotify.com/track/28YkfGOg7FmjJpokMe9wS6"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
       "artists": [
         {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+      "duration_ms": 224832,
+      "name": "Losin' Streak (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Daniel Merriweather",
-          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
         }
       ],
-      "duration_ms": 224832,
-      "name": "Losin' Streak (feat. Daniel Merriweather)",
-      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 165450,
       "name": "F.y.g",
       "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

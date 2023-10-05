@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 571217,
+  "num_followers": 571384,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTZkZDVkYmY5ZTljMTFmOTgyZjIzNDdhNTQ1NTNmYzkwMWJmZmNm",
+  "snapshot_id": "MCw4N2UzNDBhNjYwZjk1MmQ1NTAwMTkwMjJlOTY5ZjdlZThmMmM0N2I3",
   "tracks": [
     {
       "added_at": "2023-09-20 04:45:11",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
-      },
-      "artists": [
-        {
-          "name": "Maudy Ayunda",
-          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Perahu Kertas",
-      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "Kereta Kencan",
         "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 218426,
       "name": "Remaja",
       "url": "https://open.spotify.com/track/3O9OibrJm0vSYxZjz3Pooe"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Dunia Batas",
-        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
       },
       "artists": [
         {
-          "name": "Payung Teduh",
-          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
         }
       ],
-      "duration_ms": 240882,
-      "name": "Resah",
-      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
+      "duration_ms": 204293,
+      "name": "Mata Ke Hati (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Kereta Kencan",
-        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+        "name": "Dunia Batas",
+        "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
       "artists": [
         {
-          "name": "Hivi!",
-          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+          "name": "Payung Teduh",
+          "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 204293,
-      "name": "Mata Ke Hati (Acoustic Version)",
-      "url": "https://open.spotify.com/track/4p5UcsOpnSYwqYnThBpDjD"
+      "duration_ms": 240882,
+      "name": "Resah",
+      "url": "https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Rasa Cinta Ini",
-        "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
+        "name": "Menari Dengan Bayangan",
+        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
       "artists": [
         {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        },
+        {
+          "name": "Rara Sekar",
+          "url": "https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl"
         }
       ],
-      "duration_ms": 241294,
-      "name": "Rasa Cinta Ini",
-      "url": "https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7"
+      "duration_ms": 373824,
+      "name": "Membasuh",
+      "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -723,22 +727,18 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Menari Dengan Bayangan",
-        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        "name": "Rasa Cinta Ini",
+        "url": "https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        },
-        {
-          "name": "Rara Sekar",
-          "url": "https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl"
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
         }
       ],
-      "duration_ms": 373824,
-      "name": "Membasuh",
-      "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
+      "duration_ms": 241294,
+      "name": "Rasa Cinta Ini",
+      "url": "https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
+        "name": "1st Special Edition",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
         "name": "happy",
         "url": "https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "1st Special Edition",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "The 2000's Greatest",
         "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "Tolong",
         "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 250322,
       "name": "Tolong",
       "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2023-09-20 04:45:11",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-20 04:45:11",
       "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Gajah",
-      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
-    },
-    {
-      "added_at": "2023-09-20 04:45:11",
-      "album": {
         "name": "Perspektif Bodoh, Vol. 2",
         "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 308349,
       "name": "Pegang Tanganku",
       "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+    },
+    {
+      "added_at": "2023-09-20 04:45:11",
+      "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Gajah",
+      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
     }
   ],
   "unique_name": "Kopikustik",

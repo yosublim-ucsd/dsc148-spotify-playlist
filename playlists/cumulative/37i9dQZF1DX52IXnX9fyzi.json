@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181913,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP"
+    },
+    {
+      "album": {
         "name": "Arkata (Munich Session)",
         "url": "https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk"
       },
@@ -614,6 +632,24 @@
       "duration_ms": 178000,
       "name": "Ballade",
       "url": "https://open.spotify.com/track/78zPgh3hoMj0RvhQUMl2t4"
+    },
+    {
+      "album": {
+        "name": "Be Calm",
+        "url": "https://open.spotify.com/album/2NTfS4IQKkFAWkfWIPFZCM"
+      },
+      "artists": [
+        {
+          "name": "Henriette Wieder",
+          "url": "https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145387,
+      "name": "Be Calm",
+      "url": "https://open.spotify.com/track/6wiLWEodqWGK2ycSuW4kkl"
     },
     {
       "album": {
@@ -3941,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/4tradG5YoXryCru3ftThli"
+      },
+      "artists": [
+        {
+          "name": "Jacob Hall",
+          "url": "https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132132,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY"
+    },
+    {
+      "album": {
         "name": "Now That You're Gone",
         "url": "https://open.spotify.com/album/4Y4chbdc4rcDnHFdCyz5WA"
       },
@@ -4370,7 +4424,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 215894,
       "name": "Precious",
       "url": "https://open.spotify.com/track/4EClxlrWsb5gmv3A24J0Cv"
@@ -4857,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "Saved at last",
+        "url": "https://open.spotify.com/album/0QXSfe9Ie3lZikLvagePtk"
+      },
+      "artists": [
+        {
+          "name": "Koral Banko",
+          "url": "https://open.spotify.com/artist/77POcMr56NHorl74QoH1Lj"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Saved at last",
+      "url": "https://open.spotify.com/track/6hHHRjlekyS8g9kd74lzJV"
+    },
+    {
+      "album": {
         "name": "Sea Change",
         "url": "https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S"
       },
@@ -5272,7 +5344,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 128907,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE"
@@ -6457,6 +6529,24 @@
     },
     {
       "album": {
+        "name": "Watching North",
+        "url": "https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136118,
+      "name": "Watching North",
+      "url": "https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO"
+    },
+    {
+      "album": {
         "name": "Wayfarer",
         "url": "https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v"
       },
@@ -6583,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "wolkenlos",
+        "url": "https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144474,
+      "name": "wolkenlos",
+      "url": "https://open.spotify.com/track/6bBI9q6jMKZPt5Bth1pxnV"
+    },
+    {
+      "album": {
         "name": "Yesterday's Waltz",
         "url": "https://open.spotify.com/album/3fiQkkJkBzgWWUGJDuJxw0"
       },
@@ -6616,6 +6724,24 @@
       "duration_ms": 159414,
       "name": "Yesterdays Answer",
       "url": "https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/05ivnxOIaNNAj3zBFFNnpO"
+      },
+      "artists": [
+        {
+          "name": "Eric de Jot\u00e9",
+          "url": "https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145876,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0NVVI7x68BZqFXWsNkfNMv"
     },
     {
       "album": {

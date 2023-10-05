@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,424 likes - 88 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,427 likes - 88 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 54 | [寂寞的星期五](https://open.spotify.com/track/6BNIr9tmuut9nP895ByjOB) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:16 |
 | 55 | [Forever Friends](https://open.spotify.com/track/3oGUAoSggTuEAl4cHloh47) | [曲奇](https://open.spotify.com/artist/1sY4rzR1wpEYef57boBcPO) | [All The Best \(新曲+精選\)](https://open.spotify.com/album/5upmPHTE6pbTvTRq64lzOv) | 4:00 |
 | 56 | [風見志郎](https://open.spotify.com/track/63BmyHGriuoXWKmBxJDHCZ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Ten Days in the Madhouse](https://open.spotify.com/album/3m1ICo6YYBwPxCLjWx5CI0) | 3:40 |
-| 57 | [燕尾蝶](https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [The Best Of Shine](https://open.spotify.com/album/342p3f9MbhdfZZa7OdnbMI) | 3:48 |
+| 57 | [燕尾蝶](https://open.spotify.com/track/5pZNATW9HcyYi1HTNMeGQM) | [Shine](https://open.spotify.com/artist/4NtDRhFDqdfyTiahAuBbCt) | [120分鐘90後回憶錄](https://open.spotify.com/album/2gP64JjKYnWA6gmBvuKINC) | 3:48 |
 | 58 | [向孩子說愛情](https://open.spotify.com/track/3kupd39uh2YL7uAVsCIwXP) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [再次心跳](https://open.spotify.com/album/1aU3bXT5CzYZzQcN9Fjxo5) | 3:47 |
 | 59 | [心亂如麻](https://open.spotify.com/track/6Ntvb49Mctg777yOvGwsNc) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [My Love](https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL) | 4:06 |
 | 60 | [上次坐飛機](https://open.spotify.com/track/2FjHXXLeTrPMTwnOxFDK9q) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Ten Most Wanted](https://open.spotify.com/album/4Cr4UCSJJz19vPDssJzfTs) | 4:04 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 87 | [出走](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [出走](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 |
 | 88 | [I Will Be Alright](https://open.spotify.com/track/2EBZ815zoE0He8Bae7ygyy) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [I Will Be Alright](https://open.spotify.com/album/0sD2ptJBBX6aoivZWu3m03) | 3:28 |
 
-Snapshot ID: `MCw1YmY2MGEzY2M0MWQ5MDVjYmZlOWFiMzZiMzhmMDAxMGJmNmE2ZTY3`
+Snapshot ID: `MCxjMzNiODhjMmVlYTkzZGM0Y2VkOWMzNWVjNTFlYThhMjFjZDdmMjM5`

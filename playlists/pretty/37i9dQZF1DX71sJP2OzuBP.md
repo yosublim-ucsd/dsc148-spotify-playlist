@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,824 likes - 105 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,828 likes - 105 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [想見就能相見](https://open.spotify.com/track/1vXpQw0Ie7ivVni6NpgyoY) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [想見就能相見](https://open.spotify.com/album/42I7cjGVwobPBzOTCpJHTM) | 4:44 |
 | 105 | [r u happy now?](https://open.spotify.com/track/4G2avvdC2denJm9d244fez) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [r u happy now?](https://open.spotify.com/album/6HBnBlT0skv0BgIE4lcY16) | 2:55 |
 
-Snapshot ID: `MCxmNjY1MDYwZjZhOTVjMjViYjNlNDMwYzM1Y2YyNzdhMWM2OTJmNTdl`
+Snapshot ID: `MCwyZGUyMGE4MzM2ZjFjMDIwYzY5YjVhZTViYTk1MGJmMzAzM2M2MjVh`

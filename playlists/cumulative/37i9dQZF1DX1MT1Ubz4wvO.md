@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Austin TV en portada.
 
-1,789 songs - 4 day 9 hr 26 min
+1,790 songs - 4 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [El Pasado Fue Mejor \(feat\. Don Tetto\)](https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic) | 3:00 | 2022-09-16 | 2022-10-08 |
 | [El pasaje del terror](https://open.spotify.com/track/06MKL53dE9u0V0C054BFcH) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [El pasaje del terror](https://open.spotify.com/album/3N4jrdoyKnBzI0LlicVzoG) | 5:05 | 2022-09-16 | 2022-10-08 |
 | [El Peor](https://open.spotify.com/track/47cmtOUoVxWBSDzm4YqIRE) | [Jamaram](https://open.spotify.com/artist/1ZorPJMjMj569PdFp8Ildc), [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM) | [El Peor](https://open.spotify.com/album/4pp9XzzVAoDNoYo7u5odNo) | 3:18 | 2022-12-09 | 2023-01-06 |
+| [El Perro Andaluz](https://open.spotify.com/track/1T1xpspDLWHMWLCFGjOmWg) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6) | [El Perro Andaluz](https://open.spotify.com/album/6pNLM5Stx65uRl0ao3WsS2) | 3:26 | 2023-09-29 |  |
 | [El Piojo](https://open.spotify.com/track/5ZoTIN88zwMsiYEBF2sPmu) | [Toro de Oro](https://open.spotify.com/artist/3QjfhrTadkfAmuSPaGcTnh) | [El Piojo](https://open.spotify.com/album/5kS2EYPkrxxDqZU8CziXHI) | 3:27 | 2023-06-02 | 2023-06-10 |
 | [El piso es lava](https://open.spotify.com/track/7qbzTM4Vl02UfrB8Oq5K6y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [El piso es lava](https://open.spotify.com/album/3V2UVfnQpccVj661MB97Bm) | 4:05 | 2023-04-14 | 2023-04-22 |
 | [El Poder Nuestro Es](https://open.spotify.com/track/0hncXV2N7nGC4X4mHIbA57) | [ESTOP](https://open.spotify.com/artist/4nS5iDdjLS8TtR25U7m3hs) | [El Poder Nuestro Es](https://open.spotify.com/album/67jIml2STRKarPoSFAH4pS) | 3:05 | 2023-08-11 | 2023-08-26 |

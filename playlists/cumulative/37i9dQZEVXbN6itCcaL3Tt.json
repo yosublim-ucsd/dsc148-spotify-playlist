@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 51509,
       "name": "#3 - TUTTO PASSA",
       "url": "https://open.spotify.com/track/5Jhl2xxtIk1n9xINPT5UDl"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 55764,
       "name": "#4 - NESESER",
       "url": "https://open.spotify.com/track/5k8mKI1zDQ6Q3Ngs0hpEww"
@@ -17131,6 +17131,32 @@
     },
     {
       "album": {
+        "name": "Sextape / MTW",
+        "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106975,
+      "name": "MUSZ\u0118 TO WYKRZYCZE\u0106",
+      "url": "https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b"
+    },
+    {
+      "album": {
         "name": "Diamentowy Las",
         "url": "https://open.spotify.com/album/6g3muQtUCpAByNLWl4eFRs"
       },
@@ -18708,6 +18734,14 @@
         {
           "name": "Doda",
           "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        },
+        {
+          "name": "Filip Leon",
+          "url": "https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
         }
       ],
       "date_added": "2023-08-11",
@@ -24182,6 +24216,40 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
+        "name": "Sextape / MTW",
+        "url": "https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Sextape",
+      "url": "https://open.spotify.com/track/77zPD9o9tBR5hhsxdDZJeV"
     },
     {
       "album": {

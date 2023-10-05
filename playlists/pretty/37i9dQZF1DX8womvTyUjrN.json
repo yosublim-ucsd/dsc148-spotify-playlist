@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Manuel Medrano ",
-  "num_followers": 285867,
+  "num_followers": 285924,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjIyNjdkZDg0NTliYTgzYTI0YjhjY2NlNDNlOTg4MzEzMDY2ODNh",
+  "snapshot_id": "MCw3MGQ4ZDlhMmJmYzAwNjZlYThlN2Q1OGYzMGJjMjBhOWQ2ODc4MzE5",
   "tracks": [
     {
       "added_at": "2023-09-29 15:55:35",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-29 15:55:35",
       "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 172685,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "added_at": "2023-09-29 15:55:35",
+      "album": {
         "name": "solo x ti (Remix)",
         "url": "https://open.spotify.com/album/7xVcOKGRAPLBUk2uLzqk0W"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 188380,
       "name": "solo x ti - Remix",
       "url": "https://open.spotify.com/track/4SHCYN7oI5bMzMFUF4RrNj"
-    },
-    {
-      "added_at": "2023-09-29 15:55:35",
-      "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 172685,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
     },
     {
       "added_at": "2023-09-29 15:55:35",

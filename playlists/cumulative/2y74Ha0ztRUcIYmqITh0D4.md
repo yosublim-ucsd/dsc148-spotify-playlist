@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [A Rush of Blood](https://open.spotify.com/track/4semBrqop202J6V0iU0NRc) | [Coasts](https://open.spotify.com/artist/5OgSr6wQteRu9jek5JvnDQ) | [A Rush of Blood](https://open.spotify.com/album/62Qm8QDeud7z6DFbkxeXCW) | 4:07 | 2015-06-08 |  |
 | [Bad Blood](https://open.spotify.com/track/4VYpW7AZnPftcuJqCwW70L) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 3:32 | 2015-06-08 |  |
-| [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:46 | 2015-06-08 |  |
+| [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:44 | 2015-06-08 |  |
 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 | 2015-06-08 |  |
 | [Blood](https://open.spotify.com/track/26V1ssqRbZG7exTGfAst8z) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Baby Darling Doll Face Honey](https://open.spotify.com/album/324BTvXR9NMitN9KndHLKA) | 4:14 | 2015-06-08 |  |
 | [Blood](https://open.spotify.com/track/104mgrd5IU1W33TeNyFcf8) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [The Back Room](https://open.spotify.com/album/52vGTQxM383qjR008OnWRu) | 3:27 | 2015-06-08 |  |

@@ -850,7 +850,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 173106,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5LRhz7ACO25w0sa1BXF6Av"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 174133,
       "name": "CHEEKY",
       "url": "https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr"
@@ -966,6 +966,24 @@
       "duration_ms": 159053,
       "name": "Chico malo",
       "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
+    },
+    {
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "album": {
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 166946,
       "name": "Either Way",
       "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
@@ -3710,7 +3728,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 197930,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
@@ -5080,7 +5098,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 181262,
       "name": "Respect",
       "url": "https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt"
@@ -5736,7 +5754,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo"

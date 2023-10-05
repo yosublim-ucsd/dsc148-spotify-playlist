@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,944 likes - 241 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,066 likes - 241 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 240 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 |
 | 241 | [So Good](https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [So Good](https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd) | 2:43 |
 
-Snapshot ID: `MCxkMTk0MGQ0MTU1MzQ1NDBlN2NmMmZiY2QyOWRiYTZjMDU0NDcyNzRi`
+Snapshot ID: `MCw2NzIyZDQzNzA4YWFkZGRhMjM4ZmU2Y2JkYTkzMDhlNzIwMDE5Zjg0`

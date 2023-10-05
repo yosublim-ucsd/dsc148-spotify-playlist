@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 ### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:4jLWtcGrESS5YvRip2ATmL">Niko Eme</a>
+> Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:6n6D2g1FuTmnFiMDD4RT42">Madiel Lara</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,504 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,560 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Libre](https://open.spotify.com/track/1CYi5ZlZyscOKa2mvFvaVY) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Caribeño](https://open.spotify.com/album/3EYX2ghdMCIrm7SUZM5TRV) | 3:58 |
 | 100 | [Diccionario](https://open.spotify.com/track/7xXKf603uv2ih4vt8RsLcY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [Diccionario](https://open.spotify.com/album/4CuBXwhaOixyOGBAlJFN0y) | 3:14 |
 
-Snapshot ID: `MCw1YzdjZTIyYmFkNmQ1OTE1YzI0MzNjNWM1MTQ1NWE5YjAzMmYzZTAz`
+Snapshot ID: `MCxkODA2YzVhNWRlN2UyOTE5NTM3NDc1NTY2NzZlNmY3NzUzMTE1MGYw`

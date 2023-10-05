@@ -3721,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/73Gxbtmp88NmzlFLIRyIyk"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "BIGMOO",
+          "url": "https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111468,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4YujIh7PVMnNHjBQoqzqw3"
+    },
+    {
+      "album": {
         "name": "Run With Me",
         "url": "https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL"
       },

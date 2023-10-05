@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 995512,
+  "num_followers": 995849,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZThmMzM5NzJhOWE1YWQ0ZDg0NDhlOTY3OTgyMmVkN2E1MTAzODAy",
+  "snapshot_id": "MCw1YzFhMTQ3NWM1NjA3YTgzNDM1MDc0MDg2ZmFiMjhlZjQ2ZGU3N2Vh",
   "tracks": [
     {
       "added_at": "2023-10-03 08:57:27",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/6LPHNbAIcp1ZBujtZ0QqkZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201044,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2q3rW2AraFNeMCpOsqKRRB"
-    },
-    {
-      "added_at": "2023-10-03 08:57:27",
-      "album": {
         "name": "Nunca Volvieron",
         "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
       },
@@ -375,18 +359,18 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/6LPHNbAIcp1ZBujtZ0QqkZ"
       },
       "artists": [
         {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 165855,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
+      "duration_ms": 201044,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2q3rW2AraFNeMCpOsqKRRB"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -407,6 +391,22 @@
       "duration_ms": 232795,
       "name": "2NDO CHANCE",
       "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
+    },
+    {
+      "added_at": "2023-10-03 08:57:27",
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/68WN58KU9vJg23y9P15Rwa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "PORTARSE MAL",
-        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 192126,
-      "name": "PORTARSE MAL",
-      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
-    },
-    {
-      "added_at": "2023-10-03 08:57:27",
-      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
+    },
+    {
+      "added_at": "2023-10-03 08:57:27",
+      "album": {
+        "name": "PORTARSE MAL",
+        "url": "https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 192126,
+      "name": "PORTARSE MAL",
+      "url": "https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -743,26 +743,18 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "En el mismo bar",
-        "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
+        "name": "Me Siento Vivo",
+        "url": "https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD"
       },
       "artists": [
         {
-          "name": "De Rancho",
-          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
-        },
-        {
-          "name": "H Roto",
-          "url": "https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL"
-        },
-        {
-          "name": "GARZI",
-          "url": "https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m"
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
         }
       ],
-      "duration_ms": 162500,
-      "name": "En el mismo bar",
-      "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
+      "duration_ms": 222955,
+      "name": "Me Siento Vivo",
+      "url": "https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -783,18 +775,26 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "Me Siento Vivo",
-        "url": "https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD"
+        "name": "En el mismo bar",
+        "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
       "artists": [
         {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+          "name": "De Rancho",
+          "url": "https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k"
+        },
+        {
+          "name": "H Roto",
+          "url": "https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL"
+        },
+        {
+          "name": "GARZI",
+          "url": "https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m"
         }
       ],
-      "duration_ms": 222955,
-      "name": "Me Siento Vivo",
-      "url": "https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7"
+      "duration_ms": 162500,
+      "name": "En el mismo bar",
+      "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
     },
     {
       "added_at": "2023-10-03 08:57:27",

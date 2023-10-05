@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in Rock this week\. Cover: Fefe Dobson 💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,034 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,117 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/18qLKmBYHFZpJdqdOVCeoM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6EIeFIxDn5mM9Z2AEYfh9t) | 3:19 |
 | 100 | [40th Floor](https://open.spotify.com/track/2JDbDplDb8mhqfffR0Ml10) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Deep in the Fade](https://open.spotify.com/album/0mI4x2DuWE71kRUPC4SNvy) | 3:28 |
 
-Snapshot ID: `MCxkZWZkZTBjZmYxZjM3NWI3Y2ZiY2Q4OWVhZmM4NzUxZDEwMGYxZDUx`
+Snapshot ID: `MCw4ZGFmMDQ0YjA1ZWJhMmM2YTE2NGUxNWQ3NjE1NzljOWQzYWFjNGEw`

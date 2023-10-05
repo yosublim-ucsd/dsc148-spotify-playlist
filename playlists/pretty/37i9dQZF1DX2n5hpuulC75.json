@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 258904,
+  "num_followers": 258939,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
+  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -319,6 +319,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
+      },
+      "artists": [
+        {
+          "name": "MELVV",
+          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Daydream feat. Joba",
         "url": "https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 200838,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2qTYTA1clU0UK3Ai5hhvRy"
-      },
-      "artists": [
-        {
-          "name": "MELVV",
-          "url": "https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/3WbkPwphjmI2nMKFyRfbjy"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Therapy Phase 01",
+        "url": "https://open.spotify.com/album/1NaV4Mf4OGmDakvCA7PdIh"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 508601,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/6UmJo8SsHylk0Uc3kecKsf"
+    },
+    {
       "added_at": "2019-09-16 15:44:25",
       "album": {
         "name": "Baby You Can Free Your Mind",
@@ -587,22 +603,6 @@
       "duration_ms": 335180,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
-        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
-      },
-      "artists": [
-        {
-          "name": "Common Tiger",
-          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -623,18 +623,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Therapy Phase 01",
-        "url": "https://open.spotify.com/album/1NaV4Mf4OGmDakvCA7PdIh"
+        "name": "Boom Boom On The Roof, Boom Boom In Your Ears",
+        "url": "https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Common Tiger",
+          "url": "https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi"
         }
       ],
-      "duration_ms": 508601,
-      "name": "Ayahuasca",
-      "url": "https://open.spotify.com/track/6UmJo8SsHylk0Uc3kecKsf"
+      "duration_ms": 175412,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
       "added_at": "2019-03-18 20:29:35",
       "album": {
         "name": "Never Meant to Call",
@@ -795,6 +779,22 @@
       "duration_ms": 177600,
       "name": "Never Meant To Call",
       "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",

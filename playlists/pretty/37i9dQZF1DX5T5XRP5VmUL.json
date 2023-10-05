@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
-  "num_followers": 132975,
+  "num_followers": 132968,
   "original_name": "Christmas in Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjBkMzcxNjgyYTc2N2FiNjIyNDdjN2ZiMjRlYjE5M2Y3NTA2MGMx",
+  "snapshot_id": "MCxiOTIwM2FmNjM3OTI4MmZmMDFlMjk5MGVjMjBiMjZjYmMxYWMxYzU3",
   "tracks": [
     {
       "added_at": "2022-12-16 16:34:09",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Christmas Together",
-        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
-      },
-      "artists": [
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 140765,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/2Txst52kJxfvQjVgbCcE2N"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Christmas Together",
+        "url": "https://open.spotify.com/album/63InM75DVlosWE1xlS5m0t"
+      },
+      "artists": [
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/6kFbRqjzc2XnkGuV79pKGT"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
+        "name": "Coming Home (For Christmas)",
+        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
+      },
+      "artists": [
+        {
+          "name": "Scott Helman",
+          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
+        }
+      ],
+      "duration_ms": 207792,
+      "name": "Coming Home (For Christmas)",
+      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Coming Home (For Christmas)",
-        "url": "https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT"
-      },
-      "artists": [
-        {
-          "name": "Scott Helman",
-          "url": "https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg"
-        }
-      ],
-      "duration_ms": 207792,
-      "name": "Coming Home (For Christmas)",
-      "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Driving Home for Christmas (feat. Corey Hart)",
         "url": "https://open.spotify.com/album/0uhfBwTtiMVQQh8kxNsdCl"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "The Ballad of Mrs. Claus",
-        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "The Ballad of Mrs. Claus",
-      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "O Holy Night (feat. The Tenors)",
         "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 259397,
       "name": "O Holy Night (feat. The Tenors)",
       "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "The Ballad of Mrs. Claus",
+        "url": "https://open.spotify.com/album/234O5BvrrM3XnrXFmekPCs"
+      },
+      "artists": [
+        {
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "The Ballad of Mrs. Claus",
+      "url": "https://open.spotify.com/track/08SKJFfIM6U2WosDXoovv6"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Our Christmas",
-        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 218461,
-      "name": "Our Christmas",
-      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "All We Need",
         "url": "https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182702,
       "name": "All We Need",
       "url": "https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Our Christmas",
+        "url": "https://open.spotify.com/album/7L84oGpxhno7o6vEHteELQ"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 218461,
+      "name": "Our Christmas",
+      "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "Someday at Christmas",
-        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 186890,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "What Are You Doing New Year's Eve",
         "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 115375,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "Someday at Christmas",
+        "url": "https://open.spotify.com/album/4GCGTddfqvUhDk2UcXzOW0"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 186890,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-16 16:34:09",
       "album": {
-        "name": "River City Christmas",
-        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
-      },
-      "artists": [
-        {
-          "name": "Crash Test Dummies",
-          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
         "name": "Spirit Of Christmas",
         "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 134360,
       "name": "Little Toy Trains",
       "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "River City Christmas",
+        "url": "https://open.spotify.com/album/1WWl9CJH1VdPtFhCQCaodg"
+      },
+      "artists": [
+        {
+          "name": "Crash Test Dummies",
+          "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4WHYb4wG1nPmMTauYbL93p"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1619,6 +1619,22 @@
       "duration_ms": 139840,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
+    },
+    {
+      "added_at": "2022-12-16 16:34:09",
+      "album": {
+        "name": "All I Want for Christmas Is You",
+        "url": "https://open.spotify.com/album/4JddaIse1rg3jZCbuQDHiE"
+      },
+      "artists": [
+        {
+          "name": "Dave Thomas Junior",
+          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG"
     },
     {
       "added_at": "2022-12-16 16:34:09",
@@ -1671,22 +1687,6 @@
       "duration_ms": 226950,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni"
-    },
-    {
-      "added_at": "2022-12-16 16:34:09",
-      "album": {
-        "name": "All I Want for Christmas Is You",
-        "url": "https://open.spotify.com/album/4JddaIse1rg3jZCbuQDHiE"
-      },
-      "artists": [
-        {
-          "name": "Dave Thomas Junior",
-          "url": "https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG"
     },
     {
       "added_at": "2022-12-16 16:34:09",

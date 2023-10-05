@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Jacob Forever en portada.",
-  "num_followers": 2744,
+  "num_followers": 2779,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjkzMjIwNjU5ZmNiYmJjMjQ4NjhhMDMyZGVhNTI4YWZiMjJhOGVh",
+  "snapshot_id": "MCxmNWI1M2JiNWU3YzlkNjUwNjY0OGQxYmYzMjk3OTVlYWQ0YTUwM2Iy",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Toxica",
+        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Toxica",
+      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Habla Matador",
         "url": "https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 163551,
       "name": "Habla Matador",
       "url": "https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Toxica",
-        "url": "https://open.spotify.com/album/50hq1KRf3UZf4dgnoS9rpO"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Toxica",
-      "url": "https://open.spotify.com/track/49Y4IUSVqCB0v7QBoYOdg1"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "El Gavilan",
+        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "El Gavilan",
+      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Dicelo",
         "url": "https://open.spotify.com/album/65akUfK8vk8Nc4i6IM4igH"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 153563,
       "name": "Dicelo",
       "url": "https://open.spotify.com/track/5asyOj4gG21a2pKzqBIMOk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "El Gavilan",
-        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "El Gavilan",
-      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
     },
     {
       "added_at": "2023-09-08 04:00:00",

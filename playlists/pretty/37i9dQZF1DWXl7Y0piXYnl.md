@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,015 likes - 70 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,022 likes - 70 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 69 | [Dark Wing](https://open.spotify.com/track/5t2iOfBwpSkAUqdSkr8tNt) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:37 |
 | 70 | [Naked to the Light](https://open.spotify.com/track/0UN98DwrzC832dPsv8xmkw) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 4:19 |
 
-Snapshot ID: `MCwyMjUwMTI3MzRhNTU4MzVjMTMzNTBhMjUzMzRhNTk1YTUyM2RlYTdh`
+Snapshot ID: `MCxmMTBjN2FjYzhjYTk4OTljNzczZmQ4NTM0MjFkODZmOWRiODM3ZThl`

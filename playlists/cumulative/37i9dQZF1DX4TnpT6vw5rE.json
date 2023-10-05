@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Majestic Skies",
+        "url": "https://open.spotify.com/album/6UWVbHia1jaslWQsYncErQ"
+      },
+      "artists": [
+        {
+          "name": "Harper Rems",
+          "url": "https://open.spotify.com/artist/3veRAXXPy3m69dx4ZtZJCP"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Majestic Skies",
+      "url": "https://open.spotify.com/track/4FSvEXjDOKDLhBV93H3XOq"
+    },
+    {
+      "album": {
         "name": "Mission at Beccles",
         "url": "https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS"
       },
@@ -3160,7 +3178,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 255000,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J"

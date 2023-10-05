@@ -6605,6 +6605,24 @@
     },
     {
       "album": {
+        "name": "Sovereignty",
+        "url": "https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "Sovereignty",
+      "url": "https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg"
+    },
+    {
+      "album": {
         "name": "SPACE COWBOY",
         "url": "https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX"
       },
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 190144,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G"

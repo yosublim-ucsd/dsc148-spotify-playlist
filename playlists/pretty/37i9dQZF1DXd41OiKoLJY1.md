@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Hero  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,294 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,307 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Di Nila Alam](https://open.spotify.com/track/66D77u8TyWWP2DhBWf9Vpx) | [Ekai](https://open.spotify.com/artist/4cdeWvG36PBYIk0Q8kWmwo) | [Di Nila Alam](https://open.spotify.com/album/3nvMEu783MT0Z3wtMbBoGI) | 4:43 |
 | 75 | [SIGE SUMABAY](https://open.spotify.com/track/68Mq0WuufOCHhrrXe8xzQ4) | [No Boys Please](https://open.spotify.com/artist/457xF0tijqFkLW4d4hxqrC) | [SIGE SUMABAY](https://open.spotify.com/album/1qJn8VDB3qpwhGgxsOmVcM) | 2:42 |
 
-Snapshot ID: `MCwwZWZmYjQzYTlmYzg4OWZjYzY4ZGE5Y2I5NmMyYzcyOTdiZTM0MGVl`
+Snapshot ID: `MCxlNzkyYjIzNmFhN2MxYTFjNmM3OWVkZWM0ZDAwZWI4NmMxMDc4MmI4`

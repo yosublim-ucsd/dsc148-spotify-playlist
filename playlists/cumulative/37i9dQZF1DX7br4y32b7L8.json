@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "songs voor je playlist! #voorjou #rihanna #noano7k #prada #koekje #joost",
+  "description": "songs voor je playlist! #voorjou #wiebenjij #rihanna #noano7k #koekje #joost",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Iets Anders",
+        "url": "https://open.spotify.com/album/2zC0P0NYaua4D13ymmsvXM"
+      },
+      "artists": [
+        {
+          "name": "Fous",
+          "url": "https://open.spotify.com/artist/56TuyDjYJfwFFxxnnjZYAF"
+        },
+        {
+          "name": "Ayoub",
+          "url": "https://open.spotify.com/artist/3qS3ibXxArdVpvaUUyTLRp"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "Iets Anders",
+      "url": "https://open.spotify.com/track/0vPSKmA4YufwMiwyMYYXBh"
+    },
+    {
+      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -2310,6 +2332,28 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "Loco Loco (feat. Sluwe Ollie)",
+        "url": "https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy"
+      },
+      "artists": [
+        {
+          "name": "Alessio",
+          "url": "https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj"
+        },
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165694,
+      "name": "Loco Loco (feat. Sluwe Ollie)",
+      "url": "https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl"
     },
     {
       "album": {

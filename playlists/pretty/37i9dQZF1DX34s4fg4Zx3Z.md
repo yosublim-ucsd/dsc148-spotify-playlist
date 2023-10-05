@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,810 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,823 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 30 | [Sẽ Có Ai Yêu Anh](https://open.spotify.com/track/1lNwI6zv1og07wDdLnVs0n) | [ICM](https://open.spotify.com/artist/6kuERXgoQuYGDs0onogMvZ), [Quân Han](https://open.spotify.com/artist/3bn2ShZbl8WxdwJzyOlkbd) | [Sẽ Có Ai Yêu Anh](https://open.spotify.com/album/0tZzSOtZYbhm3jTshWVdvH) | 3:28 |
 | 31 | [Youth!](https://open.spotify.com/track/5tLWI9qQk2EtTXkU9dhaEC) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [GiGi Hương Giang](https://open.spotify.com/artist/2NYFphd3cUQ5pLEVLaBP9L) | [Youth!](https://open.spotify.com/album/4PKVteQfn028dYc5jefBY3) | 3:20 |
 | 32 | [All you gotta do \(feat\. Wansentai\)](https://open.spotify.com/track/6pYGoYSJFXQU956kfK1PJ0) | [Jayden](https://open.spotify.com/artist/2pqK5DP6YLy2JOxYME8pHp), [Wansentai](https://open.spotify.com/artist/6mFA5OZanTiNrlG3A2RGsP) | [BEDROOM the EP \(feat\. Wansentai\)](https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh) | 2:36 |
-| 33 | [Run Dis Street](https://open.spotify.com/track/6xVV6favDPwygLsKhrL7kP) | [Vsplifff](https://open.spotify.com/artist/0VoZgCD5fTS8JDmMPu0bX3), [MinhLai](https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ), [Pineradise](https://open.spotify.com/artist/6HvmfMAIgsbkg9u9KE3Zut) | [Run Dis Street](https://open.spotify.com/album/2NhwwkyEVfPr9U3tl102aP) | 2:34 |
+| 33 | [Run Dis Street 2](https://open.spotify.com/track/6xVV6favDPwygLsKhrL7kP) | [Vsplifff](https://open.spotify.com/artist/0VoZgCD5fTS8JDmMPu0bX3), [MinhLai](https://open.spotify.com/artist/3L2ohE2NX2W5hAauL16VuQ), [Pineradise](https://open.spotify.com/artist/6HvmfMAIgsbkg9u9KE3Zut) | [Run Dis Street 2](https://open.spotify.com/album/2NhwwkyEVfPr9U3tl102aP) | 2:34 |
 | 34 | [Yêu Hong?](https://open.spotify.com/track/5uxDvh4wz7dbCC6QwjHGyO) | [Franky](https://open.spotify.com/artist/1xBmajyIaIl9fMde48bhSa), [Trịnh Sang](https://open.spotify.com/artist/6ed4zbF6Rj3TUhdpOzQWQ1) | [Yêu Hong?](https://open.spotify.com/album/3wTDK8qVR2yNwKCdc4cF5D) | 3:14 |
 | 35 | [Đúng Gu](https://open.spotify.com/track/6KyxXemKzIU0gsoMh9H5Dq) | [T.A.P](https://open.spotify.com/artist/7okFENkbWsP3c46QDUmFPg), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Đúng Gu](https://open.spotify.com/album/4IhZ8MPAVS9cXOLTSsX6Wh) | 2:55 |
 | 36 | [Khách mời \- lofi](https://open.spotify.com/track/35ejNOxcwIR1qkdUYEJX0U) | [\#SSdaRealest](https://open.spotify.com/artist/10wPOKgSR6fBgohk23b226) | [Khách mời \(lofi\)](https://open.spotify.com/album/5AsMzIvengLU7DsxCbQzQA) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [3 Con Cá Mập](https://open.spotify.com/track/0dC0esais79QzRcdX7R64y) | [DmK Is Real](https://open.spotify.com/artist/0IQJ8w7FbPj2EiiGcGbuFQ), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [3 Con Cá Mập](https://open.spotify.com/album/7HISCu7JnTHQeduJXUMIzB) | 2:53 |
 | 100 | [em lai di dau day?](https://open.spotify.com/track/1JZUgjMN8onMfdCAQxb0xb) | [Cáu](https://open.spotify.com/artist/79RDZmnftJOANOKbYtEo5e) | [em lai di dau day?](https://open.spotify.com/album/1mXPFMkwnS8WP19cgIO0oy) | 2:51 |
 
-Snapshot ID: `MCw4N2ZjZTcxNTlhZjhlYzNkMWZhNjg1ZGJiMjc3YTY2NzMzNGY3YTRk`
+Snapshot ID: `MCw5ZWUyNzVhYjA4NjhlOGJkMDBkNjMzZTRiMTM0YTQ3ODUwMGU4MmYz`

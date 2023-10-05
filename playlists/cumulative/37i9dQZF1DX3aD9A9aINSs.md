@@ -4,14 +4,14 @@
 
 > Cumhuriyetin 100\. yılında Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Müzeyyen Senar
 
-978 songs - 2 day 3 hr 42 min
+979 songs - 2 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [''sevgili''olmayız](https://open.spotify.com/track/5gv8GyPNssjxd27k3V5RK1) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [''sevgili''olmayız](https://open.spotify.com/album/1nZ6F0wEQWQjtOCGX4bV2L) | 2:36 | 2023-01-31 | 2023-04-05 |
 | [1 Hafta](https://open.spotify.com/track/2v7ouEYQokJ9LrrV0elbOm) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS) | [1 Hafta](https://open.spotify.com/album/4chIqOwSTztEWtClE6Nmxn) | 2:49 | 2023-05-02 | 2023-07-05 |
 | [10.000 Parça](https://open.spotify.com/track/2GHXhJopDCWRdq9jEPKz0O) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [10.000 Parça](https://open.spotify.com/album/0NqPEg5RKcFl0J7cn5h6j7) | 2:21 | 2023-04-04 | 2023-05-03 |
-| [A Slice Of Dreamscape](https://open.spotify.com/track/69EE9wcxPLUaqpgdv6Rs8A) | [Yağmur Sarıgül](https://open.spotify.com/artist/2kX1EHkYJef0HT2iuGnIaH) | [A Slice Of Dreamscape](https://open.spotify.com/album/1MimwcoMubEpgJyh2YiFdy) | 3:29 | 2023-10-03 |  |
+| [A Slice Of Dreamscape](https://open.spotify.com/track/69EE9wcxPLUaqpgdv6Rs8A) | [Yağmur Sarıgül](https://open.spotify.com/artist/2kX1EHkYJef0HT2iuGnIaH) | [A Slice Of Dreamscape](https://open.spotify.com/album/1MimwcoMubEpgJyh2YiFdy) | 3:29 | 2023-10-03 | 2023-10-05 |
 | [Abbas](https://open.spotify.com/track/6USpLMtQEtS5TAp9WyMDKE) | [Selen Görgüzel](https://open.spotify.com/artist/6bVaa6KTaSw9OL2nY81B8k) | [Abbas](https://open.spotify.com/album/0AFkZPu9UohFd6psthR7zB) | 2:12 | 2022-05-31 | 2022-07-06 |
 | [Abidin](https://open.spotify.com/track/1TLWBnCAsIlgrIC0kf2OtV) | [Defne Samyeli](https://open.spotify.com/artist/1BRZppvuk0dM9dG7S3cTxS) | [Abidin](https://open.spotify.com/album/7LhexShAbwjSvUdK2Hn8Ua) | 2:24 | 2022-09-06 | 2022-10-05 |
 | [Acımam](https://open.spotify.com/track/1YxvFceNvcykNq2QAHpn6m) | [Idyl](https://open.spotify.com/artist/06y318eaH7JHOfd4u3THV0) | [Acımam](https://open.spotify.com/album/7nS4SLsDpddvNi0ELXZhCL) | 2:05 | 2023-05-02 | 2023-06-07 |
@@ -149,6 +149,7 @@
 | [Beni Ben Kurtardım Zalimlerin Elinden](https://open.spotify.com/track/5XDYDUKi9qpwa6L5RgJJzy) | [Mehtap Meral](https://open.spotify.com/artist/5ewR8iCyKrFfRTt2Kg3G9w) | [Beni Ben Kurtardım Zalimlerin Elinden](https://open.spotify.com/album/7c0Zks3esE5ujpQZlmT9gX) | 2:36 | 2023-09-05 | 2023-10-04 |
 | [Beni Böyle Sevme](https://open.spotify.com/track/4Hu4hKOA1AnCxKyxX3m3We) | [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Beni Böyle Sevme](https://open.spotify.com/album/25FLNDg2VrSnKwYu0ryes2) | 2:52 | 2022-11-30 | 2023-01-04 |
 | [Beni Dinle](https://open.spotify.com/track/66kK6loXq2CbcPjviAjhtI) | [Özge Şafak](https://open.spotify.com/artist/5dOcJTlBOadLXvablIpZCi) | [Beni Dinle](https://open.spotify.com/album/0hwrAddEmyp7BvXQlVPzZs) | 2:07 | 2023-09-05 | 2023-10-04 |
+| [Beni Duy](https://open.spotify.com/track/6xRkTn8XHQ9mit9LRcqC42) | [Burcu Furtun](https://open.spotify.com/artist/2srKU1zT0M4hVbgqwkYTtJ) | [Beni Duy](https://open.spotify.com/album/1fICnGdZoHLtxexjH4oF10) | 3:11 | 2023-10-04 |  |
 | [Beni Hatırlarsın](https://open.spotify.com/track/0HlWL6N7rRxLMpcGv4qfhR) | [Jale](https://open.spotify.com/artist/1vhZOpEwZ7kwQJ50EmFZOh) | [Beni Hatırlarsın](https://open.spotify.com/album/0Pa2sYf0pkNcJ1eQ1RQisA) | 3:35 | 2023-07-04 | 2023-08-02 |
 | [Benim Gibi Olmayacak](https://open.spotify.com/track/2uFFLGtsSizQP6DjJVAVHe) | [Aydan Kahraman](https://open.spotify.com/artist/5aiJ9MriDzctBz7VuQVgyj) | [Benim Gibi Olmayacak](https://open.spotify.com/album/1KMVQqXUGnKCWXP4h1poCv) | 2:57 | 2022-08-02 | 2022-08-10 |
 | [Benim İçin Öldün Artık \(Selami Şahin Şarkıları 1\)](https://open.spotify.com/track/6rTf2Xin7wAMwF0pjzRFwg) | [Elif Sanchez](https://open.spotify.com/artist/74v3N39tiIzpUsDLpHGz2B) | [Benim İçin Öldün Artık \(Selami Şahin Şarkıları 1\)](https://open.spotify.com/album/04rKIypHkuGHR6tiL2vXsN) | 3:29 | 2023-08-01 | 2023-09-06 |

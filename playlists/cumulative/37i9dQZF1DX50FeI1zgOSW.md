@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-147 songs - 8 hr 23 min
+149 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-03-21 | 2023-09-26 |
 | [FLYHIGH](https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [FLYHIGH \- Tamil](https://open.spotify.com/album/4jSkcXuCqfl9fJ1rpOEQ7w) | 3:55 | 2023-06-29 |  |
 | [Gang Hood](https://open.spotify.com/track/7D0R0Uvg629nn7oejhsMR2) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Ice Roy](https://open.spotify.com/artist/6DQkxcm0dnMxOHybgePB7r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Gang Hood](https://open.spotify.com/album/36airy06GYpsfs4FStuLDI) | 3:00 | 2023-07-17 |  |
+| [Gangster](https://open.spotify.com/track/21Ce5TcQah2Irg2HjBLtGP) | [Keshore Kumarr](https://open.spotify.com/artist/5BD7bGKYa8EtnwRpEjYd2f), [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy), [GKV](https://open.spotify.com/artist/0836tZWcZRyLXpyyHqi3oD), [Anbu](https://open.spotify.com/artist/1hY1gCaCr5crn9Dznsg6GJ) | [Gangster](https://open.spotify.com/album/6RnOCuDGOqsPR2vy9aQ9D2) | 2:43 | 2023-10-04 |  |
 | [Girls Variya](https://open.spotify.com/track/3ymBS2QW1VMZo3s0C942vP) | [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Harishma Jebarajah](https://open.spotify.com/artist/4VURaYz0DYkH0zsiwCtaen), [Dhikshi Baskaran](https://open.spotify.com/artist/2XuIe5HofW12NbqpHPL1yA), [Sashini](https://open.spotify.com/artist/5CbKLD3eINVbIkPTxppWZr) | [Girls Variya](https://open.spotify.com/album/3pyS14ZOyYVSfTX2dWqH5G) | 3:24 | 2023-06-29 |  |
 | [Gramathu Mayile](https://open.spotify.com/track/2cnOogJYYd7YuL7ZeMWlWf) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Gramathu Mayile](https://open.spotify.com/album/0zS8HM9OOBiW4SgfUaIGfD) | 3:36 | 2023-06-09 |  |
 | [Hey Baby](https://open.spotify.com/track/62vCoiT650UeTvL3cq4Tud) | [Vithun Gopal](https://open.spotify.com/artist/1aFooHTtn9P4VBcBFIlVRe), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Hey Baby](https://open.spotify.com/album/1jhgVqj4Kq3ra5pxP8MEYr) | 3:38 | 2023-03-21 | 2023-06-20 |
@@ -153,6 +154,7 @@
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 | 2023-10-04 |
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 |  |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 | 2023-09-26 |
+| [Vizhigalil Aasa](https://open.spotify.com/track/0M3vAjj63SOIIlfBr3Ts7M) | [RAJ\-RIZ](https://open.spotify.com/artist/6OAMNxGZwWZAuYqRhh4Y5d), [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT) | [Vizhigalil Aasa](https://open.spotify.com/album/5Sb2VNYMrRVWAcO1KtOsso) | 4:02 | 2023-10-04 |  |
 | [Without You](https://open.spotify.com/track/4vsmUOSYq1RkeSKJXRKr7S) | [Parth Sapphire](https://open.spotify.com/artist/5m3eU2BVDTAKz6Lm9MBpDr), [Niriksha Manoj](https://open.spotify.com/artist/2ZShEPlbOdm7sfbKuPIuaZ), [Vaaheesan Rasaiya](https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye) | [Without You](https://open.spotify.com/album/5i75qd9PvfHvZlSZwaQs20) | 3:07 | 2023-07-25 |  |
 | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/track/2fuTKZlkfYox0kst02bAEA) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [பெண்ணே..\. பெண்ணே...](https://open.spotify.com/album/4Rxs9oN8ofjCQYFFUHFqQo) | 4:26 | 2023-07-31 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,967 likes - 101 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,961 likes - 101 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:44 |
 | 101 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 
-Snapshot ID: `MCw0YmMyNzI3OTUyOTMwNjZmOTJiZjliMjE2MjhhOGViMWNlNzExNzQ2`
+Snapshot ID: `MCwyMGY4MWRkMTJlMWNlOGFjZmU5ZjFkYjIyOGFkYTliODlkMDZlNGJl`

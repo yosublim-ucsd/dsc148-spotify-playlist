@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 175263,
+  "num_followers": 175323,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -871,30 +871,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Palpitaciones (Remix)",
-        "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        },
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "Palpitaciones (Remix)",
-      "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "On (Deluxe)",
         "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 254000,
       "name": "La M\u00fasica",
       "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Palpitaciones (Remix)",
+        "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "Palpitaciones (Remix)",
+      "url": "https://open.spotify.com/track/5Lg5iLWcrkuL0EYwvroDqS"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "El Hijo del Borracho",
+        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
+      },
+      "artists": [
+        {
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
+        }
+      ],
+      "duration_ms": 200636,
+      "name": "Ma' Na",
+      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 160979,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Hijo del Borracho",
-        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
-      },
-      "artists": [
-        {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
-        }
-      ],
-      "duration_ms": 200636,
-      "name": "Ma' Na",
-      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "La Media Vuelta",
         "url": "https://open.spotify.com/album/7I1JDxUD83LUK2KRrI76Km"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 197500,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/7r96T3LmNTt7ieA9ovEo2R"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Yo Te Mir\u00e9",
         "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 246000,
       "name": "Yo Te Mire",
       "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Fuego",
-        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
-      },
-      "artists": [
-        {
-          "name": "Sarah La Profeta",
-          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 190095,
-      "name": "El Fuego",
-      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Relevantes",
         "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 210370,
       "name": "Humillado",
       "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "El Fuego",
+        "url": "https://open.spotify.com/album/32gxyKrCEHuLdixBXby5Dh"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Profeta",
+          "url": "https://open.spotify.com/artist/7oSuYRjBK40aiakDdYUvCL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 190095,
+      "name": "El Fuego",
+      "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
     },
     {
       "added_at": "2022-08-27 05:04:45",

@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "A Time for Love",
+        "url": "https://open.spotify.com/album/6mSGavp5NvJ0pa1msu7HTr"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457993,
+      "name": "A Time for Love",
+      "url": "https://open.spotify.com/track/2T271QHz5y3nzjKY5Inu85"
+    },
+    {
+      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/7DVu6ayiZhHKQudrW114A5"
       },
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 202590,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3oQq33GGhk7odIXW1j6Oe6"
@@ -6012,6 +6030,44 @@
       "duration_ms": 163936,
       "name": "Dove On The Ocean",
       "url": "https://open.spotify.com/track/2USgpDloDXzM1MJ9ALA0OT"
+    },
+    {
+      "album": {
+        "name": "Dragon, Bull, Vulture, Giant",
+        "url": "https://open.spotify.com/album/6duUzoQsHWbdDYKoUiJsG7"
+      },
+      "artists": [
+        {
+          "name": "Selcouth Quartet",
+          "url": "https://open.spotify.com/artist/31hqkmemFoStnD4fHejCGM"
+        },
+        {
+          "name": "Joe Russo",
+          "url": "https://open.spotify.com/artist/6IBqjWy0ZvqhVTBjtLJgYV"
+        },
+        {
+          "name": "Floki Sessions",
+          "url": "https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj"
+        },
+        {
+          "name": "Stuart Bogie",
+          "url": "https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf"
+        },
+        {
+          "name": "Jonathan Goldberger",
+          "url": "https://open.spotify.com/artist/2pdwy6njmmsAWNJ7RH0xdw"
+        },
+        {
+          "name": "Jon Shaw",
+          "url": "https://open.spotify.com/artist/3TGjZSKe6jw2tqnrqYSSEI"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494656,
+      "name": "Dragon, Bull, Vulture, Giant",
+      "url": "https://open.spotify.com/track/0CP78VAJasbsfyMVVaeCfu"
     },
     {
       "album": {
@@ -6172,7 +6228,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 232440,
       "name": "Drum of Stories (feat. Gr\u00e9gory Privat; Chris Jennings)",
       "url": "https://open.spotify.com/track/1IgapmQrpvvFDjdNjcSSdx"
@@ -7870,7 +7926,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 283953,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/0Zfxv0tCAxVFTHgeXA42U8"
@@ -12252,7 +12308,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 384287,
       "name": "Lessonlearned.",
       "url": "https://open.spotify.com/track/24avbxBHzoXBCoAgNlHIw2"
@@ -12858,7 +12914,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 244153,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/2yy21cjv5ZPgYvUaFfZASZ"
@@ -17535,6 +17591,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7b607glTYc3E06eB9hQusa"
+      },
+      "artists": [
+        {
+          "name": "First Beige",
+          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265885,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/70NoGzQstw0zYukOY2PVBl"
+    },
+    {
+      "album": {
         "name": "Mind's Eye",
         "url": "https://open.spotify.com/album/0ylam1ogRqe7n0Q8RbSAuo"
       },
@@ -21223,6 +21297,24 @@
     },
     {
       "album": {
+        "name": "Teo",
+        "url": "https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215482,
+      "name": "Teo",
+      "url": "https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES"
+    },
+    {
+      "album": {
         "name": "Terra",
         "url": "https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV"
       },
@@ -22258,6 +22350,24 @@
       "duration_ms": 413213,
       "name": "The Unknown - Rework",
       "url": "https://open.spotify.com/track/45qxOEcnwOClF2dmMBArtQ"
+    },
+    {
+      "album": {
+        "name": "FO(U)RTH",
+        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332948,
+      "name": "The Upside Down",
+      "url": "https://open.spotify.com/track/0tpxvQlXSZgUclg7QSTdXs"
     },
     {
       "album": {
@@ -24620,10 +24730,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 249586,
       "name": "What About?",
       "url": "https://open.spotify.com/track/40jaosNsS1V06x5u18jBuN"
+    },
+    {
+      "album": {
+        "name": "What Do You Do",
+        "url": "https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq"
+      },
+      "artists": [
+        {
+          "name": "Nia Wyn",
+          "url": "https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "What Do You Do",
+      "url": "https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f"
     },
     {
       "album": {
@@ -24850,7 +24978,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 179402,
       "name": "Why Does",
       "url": "https://open.spotify.com/track/1AwNNpDDwp4vAx5EQPE5jE"
@@ -25084,6 +25212,28 @@
       "duration_ms": 403607,
       "name": "Withers",
       "url": "https://open.spotify.com/track/5l0Sf5Zfd9nEk9T71q1PuM"
+    },
+    {
+      "album": {
+        "name": "Nearsighted",
+        "url": "https://open.spotify.com/album/3jSKzgdVhibhHz3pg7VKyk"
+      },
+      "artists": [
+        {
+          "name": "David Linard",
+          "url": "https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l"
+        },
+        {
+          "name": "Alphonso Horne",
+          "url": "https://open.spotify.com/artist/3PbH3WWURteT2zFnOi6QFO"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336243,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5SYrOk208g64XNcy0ACHI6"
     },
     {
       "album": {

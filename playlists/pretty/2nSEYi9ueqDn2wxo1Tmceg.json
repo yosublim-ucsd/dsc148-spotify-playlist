@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78583,
+  "num_followers": 78584,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "Mzc4OCwxZDA3MzQwYzgwMjIyNWUzMzhlNWIwYTY2YjFmYWI3NjA2MjU4MGNl",
+  "snapshot_id": "Mzc4OSwxYjBiYWU1NGRiN2ZlZjQyN2U4YTk5ODRlMjMxMzIwMWM2ZTk1ZTc1",
   "tracks": [
+    {
+      "added_at": "2023-10-04 10:29:59",
+      "album": {
+        "name": "It\u2019s Sin That's Got Its Hold Upon Us",
+        "url": "https://open.spotify.com/album/1Nvsd1tvlaVTWtlMCxC7Zi"
+      },
+      "artists": [
+        {
+          "name": "King Creosote",
+          "url": "https://open.spotify.com/artist/5SP6T04F8Ic9oftMVfdKkp"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "It\u2019s Sin That's Got Its Hold Upon Us",
+      "url": "https://open.spotify.com/track/1DoaT0yUuf9vtLO7cn7eYe"
+    },
     {
       "added_at": "2023-09-29 16:18:34",
       "album": {

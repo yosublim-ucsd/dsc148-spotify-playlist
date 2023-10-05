@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-222 songs - 11 hr 29 min
+223 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 |  |
 | [Rule The World](https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Mbush](https://open.spotify.com/artist/6oi7xPIPaIqg9yChAS52Bf), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Rule The World](https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59) | 2:26 | 2023-07-13 |  |
 | [Run \- Robin Aristo Remix](https://open.spotify.com/track/0pWHRz5OB9SpW2A0PZJbq8) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Run \(Robin Aristo Remix\)](https://open.spotify.com/album/55Ov61Tv5oMcQ3EhLUIsR4) | 3:11 | 2023-08-25 |  |
+| [Run It Up](https://open.spotify.com/track/4YujIh7PVMnNHjBQoqzqw3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [BIGMOO](https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe) | [Run It Up](https://open.spotify.com/album/73Gxbtmp88NmzlFLIRyIyk) | 1:51 | 2023-10-04 |  |
 | [Run With Me](https://open.spotify.com/track/2x0RRQ1lmdqrCFywGAOwYK) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Run With Me](https://open.spotify.com/album/7IghrCqj9oyUEaOPla8VRL) | 3:14 | 2023-04-28 |  |
 | [Sally](https://open.spotify.com/track/5Ph7rbBvW3MZrP4xp1a2uc) | [ZYNØX](https://open.spotify.com/artist/3Nc1RtEZe9VXTAjR8yZVdY), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sally](https://open.spotify.com/album/0QG1rYChZFp2aB9JgMvbuD) | 3:12 | 2023-08-31 |  |
 | [Satellite](https://open.spotify.com/track/0LclEzidZbH3ZHInpUHjvF) | [DANÊL](https://open.spotify.com/artist/26MIVWfxQSZ80SjQBbwJ6o), [LUX](https://open.spotify.com/artist/1xNeaOaf8khvhnxCU4TWcJ) | [Satellite](https://open.spotify.com/album/5M27nB3jfyVIpkoYEuvkEB) | 2:18 | 2022-11-18 | 2023-02-11 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 31835,
+  "num_followers": 31846,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ5Njk3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ5Nzg0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/5EdywpzXePN2J6F5ZsECOH"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/05zxU4ZY8mMfJJsiVH1Sjg"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Ciocolata",
         "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "GEME",
         "url": "https://open.spotify.com/album/2PCfHV4wUKSgJ69FbYF6eK"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/6fhOjFfcxRKvzdtNw46KGr"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Bonnie & Clyde",
-        "url": "https://open.spotify.com/album/4QAyFKSjgOz5UrotwPgJOq"
-      },
-      "artists": [
-        {
-          "name": "911",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 145001,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Spune-mi",
         "url": "https://open.spotify.com/album/6ExhcyktIuSixEHvyYIr0q"
@@ -93,7 +77,23 @@
       "url": "https://open.spotify.com/track/3Eo2NoBVlS4nk6fONJUTa1"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Bonnie & Clyde",
+        "url": "https://open.spotify.com/album/4QAyFKSjgOz5UrotwPgJOq"
+      },
+      "artists": [
+        {
+          "name": "911",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 145001,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "8 Culcat",
         "url": "https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss"
@@ -113,43 +113,7 @@
       "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Bun Venit Acasa",
-        "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "Nutu",
-          "url": "https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Stai nu fugi",
-      "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
@@ -189,7 +153,23 @@
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -205,7 +185,27 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Bun Venit Acasa",
+        "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "Nutu",
+          "url": "https://open.spotify.com/artist/2DVHeB86M05t7mBTvvsEVF"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Stai nu fugi",
+      "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "MARATON (From \"Haita De Ac\u021biune\" The Movie)",
         "url": "https://open.spotify.com/album/5lp3Xg2wFExOHdVP05qM6L"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Pe un pat",
         "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
@@ -257,7 +257,23 @@
       "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
@@ -293,23 +309,7 @@
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/4lBWYCHPIOlMZuztnnVQ5s"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4FQ6Mw7EkwP2AtwF6dmAFY"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Opri\u021bi planeta",
         "url": "https://open.spotify.com/album/56Mr9nzTuivD1viwbWdrzZ"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/60786D8cN9UQntKlwEngaG"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Toca",
         "url": "https://open.spotify.com/album/7mPRpvW7oksptaJumbTUC8"
@@ -373,7 +373,39 @@
       "url": "https://open.spotify.com/track/2b6iksHOJYwowL2R5OXwPl"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 76460,
+      "name": "Timeout",
+      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -393,23 +425,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 76460,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Sir PartyPackz al III-lea",
         "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
@@ -425,75 +441,7 @@
       "url": "https://open.spotify.com/track/1Thvmk8eDQm9ytwNzGUkHk"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
-        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        }
-      ],
-      "duration_ms": 148238,
-      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
-      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
-      },
-      "artists": [
-        {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
-        }
-      ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Bax Banii",
-        "url": "https://open.spotify.com/album/65tPn95OnSnEhZaHlqzFZT"
-      },
-      "artists": [
-        {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Bax Banii",
-      "url": "https://open.spotify.com/track/1dPknjdo45m6D2Fl3miAwN"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Tati, vreau",
         "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
@@ -513,7 +461,79 @@
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Bax Banii",
+        "url": "https://open.spotify.com/album/65tPn95OnSnEhZaHlqzFZT"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bax Banii",
+      "url": "https://open.spotify.com/track/1dPknjdo45m6D2Fl3miAwN"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
+        "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 148238,
+      "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
+      "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+      },
+      "artists": [
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/5una74bZSAFh9inUlejrr3"
+      },
+      "artists": [
+        {
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 166764,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "SUNETE 2",
         "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
@@ -537,87 +557,7 @@
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Cariceps",
-        "url": "https://open.spotify.com/album/5l1fdRvWGtwBNl0abkohxb"
-      },
-      "artists": [
-        {
-          "name": "Dani Mocanu",
-          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
-        },
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        }
-      ],
-      "duration_ms": 146307,
-      "name": "Cariceps",
-      "url": "https://open.spotify.com/track/51E7KRgoeTzCJeilsoS2Cg"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Skinny",
-        "url": "https://open.spotify.com/album/5una74bZSAFh9inUlejrr3"
-      },
-      "artists": [
-        {
-          "name": "Jador",
-          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 166764,
-      "name": "Skinny",
-      "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Bun Venit Acasa",
-        "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
-      },
-      "artists": [
-        {
-          "name": "Mgk666",
-          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
-        },
-        {
-          "name": "AlbertNbn",
-          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Telefon la Parnaie",
-      "url": "https://open.spotify.com/track/6kXwLlAVQPLhwbHbI3gN3Z"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "BULIBA$HA (Deluxe)",
-        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Iustin",
-          "url": "https://open.spotify.com/artist/6DLSa5TygaSHU61aI2TPYY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "IN LIPSA TA",
-      "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/1d98QAKQbTW1FgbCmEDXsJ"
@@ -641,7 +581,7 @@
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -661,7 +601,27 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Cariceps",
+        "url": "https://open.spotify.com/album/5l1fdRvWGtwBNl0abkohxb"
+      },
+      "artists": [
+        {
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "duration_ms": 146307,
+      "name": "Cariceps",
+      "url": "https://open.spotify.com/track/51E7KRgoeTzCJeilsoS2Cg"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "\u00cenapoi La Via\u021b\u0103",
         "url": "https://open.spotify.com/album/3wkTpN9RolhAhQkIYrPhTi"
@@ -677,47 +637,7 @@
       "url": "https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Inim\u0103 de aur (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/0SPpEUGu67Yf3I7tMN2nCt"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        },
-        {
-          "name": "Gheboas\u0103",
-          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Colegi de apartament",
-        "url": "https://open.spotify.com/album/2FvbWAGk9ve3pwIshtDciE"
-      },
-      "artists": [
-        {
-          "name": "Vescan",
-          "url": "https://open.spotify.com/artist/5V5qYIV17KGvP5vSMaoY4Y"
-        },
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
-        }
-      ],
-      "duration_ms": 237705,
-      "name": "Colegi de apartament",
-      "url": "https://open.spotify.com/track/3NP3h1rnq4cksYTAhLrmx0"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Ap\u0103 \u0219i Foc",
         "url": "https://open.spotify.com/album/7sPz5efI6kA1Z7XlZuJrlM"
@@ -737,7 +657,7 @@
       "url": "https://open.spotify.com/track/6nIDYdHTS2o3IMlTEccCm2"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Nu mai consum (cu Tata Vlad)",
         "url": "https://open.spotify.com/album/2pt8BlwgpihrD39PNK2TRO"
@@ -757,7 +677,99 @@
       "url": "https://open.spotify.com/track/7rtfvO1nwxgm5mtiDOJuYx"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Bun Venit Acasa",
+        "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
+      },
+      "artists": [
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        },
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Telefon la Parnaie",
+      "url": "https://open.spotify.com/track/6kXwLlAVQPLhwbHbI3gN3Z"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "BULIBA$HA (Deluxe)",
+        "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Iustin",
+          "url": "https://open.spotify.com/artist/6DLSa5TygaSHU61aI2TPYY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "IN LIPSA TA",
+      "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "duration_ms": 145617,
+      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Sweet Talk",
+        "url": "https://open.spotify.com/album/3YdIeguoqu8B2m1BeffKVw"
+      },
+      "artists": [
+        {
+          "name": "DZWS",
+          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
+        }
+      ],
+      "duration_ms": 140010,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/4qYIoc9oI6E95LfAyxy3iu"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Papusa Barbie",
+        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 210811,
+      "name": "Papusa Barbie",
+      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Bun Venit Acasa",
         "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
@@ -781,23 +793,59 @@
       "url": "https://open.spotify.com/track/711VB0IoKmoVMzW0AEgEH3"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+        "name": "Inim\u0103 de aur (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/0SPpEUGu67Yf3I7tMN2nCt"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
         }
       ],
-      "duration_ms": 200178,
-      "name": "Urgen\u021be",
-      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
+      "duration_ms": 152142,
+      "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Aia e",
+        "url": "https://open.spotify.com/album/4s0J0btBWf0rBRV62rdp0C"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "duration_ms": 172192,
+      "name": "Aia e",
+      "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Am tras draperiile (Live)",
+        "url": "https://open.spotify.com/album/0hnchdHiheewxgUgOYMYYs"
+      },
+      "artists": [
+        {
+          "name": "Leo de la Rosiori",
+          "url": "https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6"
+        }
+      ],
+      "duration_ms": 226128,
+      "name": "Am tras draperiile - Live",
+      "url": "https://open.spotify.com/track/68U6uwfsa0W9dZKZYo1uL6"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -821,23 +869,23 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
-        "name": "Regina Nop\u021bii",
-        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
+        "name": "Am tras draperiile",
+        "url": "https://open.spotify.com/album/3E6IR2BuqRmRelX4z08S3w"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Leo de la Rosiori",
+          "url": "https://open.spotify.com/artist/1jA2b2NGlnvvoENpJt7To6"
         }
       ],
-      "duration_ms": 193588,
-      "name": "Regina Nop\u021bii",
-      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
+      "duration_ms": 239040,
+      "name": "Am tras draperiile",
+      "url": "https://open.spotify.com/track/0Gibm0X4wffHEPJXsSqhSm"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
         "name": "Emirate",
         "url": "https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc"
@@ -857,108 +905,56 @@
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
     },
     {
-      "added_at": "2023-10-03 10:49:20",
+      "added_at": "2023-10-04 08:54:24",
       "album": {
-        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
       "artists": [
         {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 200178,
+      "name": "Urgen\u021be",
+      "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Regina Nop\u021bii",
+        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 193588,
+      "name": "Regina Nop\u021bii",
+      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
+    },
+    {
+      "added_at": "2023-10-04 08:54:24",
+      "album": {
+        "name": "Colegi de apartament",
+        "url": "https://open.spotify.com/album/2FvbWAGk9ve3pwIshtDciE"
+      },
+      "artists": [
+        {
+          "name": "Vescan",
+          "url": "https://open.spotify.com/artist/5V5qYIV17KGvP5vSMaoY4Y"
         },
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
         }
       ],
-      "duration_ms": 145617,
-      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Papusa Barbie",
-        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
-      },
-      "artists": [
-        {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
-        }
-      ],
-      "duration_ms": 210811,
-      "name": "Papusa Barbie",
-      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Sweet Talk",
-        "url": "https://open.spotify.com/album/3YdIeguoqu8B2m1BeffKVw"
-      },
-      "artists": [
-        {
-          "name": "DZWS",
-          "url": "https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV"
-        }
-      ],
-      "duration_ms": 140010,
-      "name": "Sweet Talk",
-      "url": "https://open.spotify.com/track/4qYIoc9oI6E95LfAyxy3iu"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Ping Pong",
-        "url": "https://open.spotify.com/album/6vpnkFh7VxD3GMPhOunnm1"
-      },
-      "artists": [
-        {
-          "name": "Andrei G",
-          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Hitana",
-        "url": "https://open.spotify.com/album/11WSvWVNkU7HL4OYqerYnL"
-      },
-      "artists": [
-        {
-          "name": "Bogdan De La Ploiesti",
-          "url": "https://open.spotify.com/artist/1uRZ4uQbQbzWAHozLnUxIj"
-        }
-      ],
-      "duration_ms": 182959,
-      "name": "Hitana",
-      "url": "https://open.spotify.com/track/5ad1dak323elhUk1w99Bui"
-    },
-    {
-      "added_at": "2023-10-03 10:49:20",
-      "album": {
-        "name": "Aia e",
-        "url": "https://open.spotify.com/album/4s0J0btBWf0rBRV62rdp0C"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
-        }
-      ],
-      "duration_ms": 172192,
-      "name": "Aia e",
-      "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
+      "duration_ms": 237705,
+      "name": "Colegi de apartament",
+      "url": "https://open.spotify.com/track/3NP3h1rnq4cksYTAhLrmx0"
     }
   ],
   "unique_name": "Top 50 - Romania",

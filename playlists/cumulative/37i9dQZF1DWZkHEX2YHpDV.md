@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Games We Play
 
-1,028 songs - 2 day 6 hr 19 min
+1,029 songs - 2 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [April 7th](https://open.spotify.com/track/4QPQbk6HkNkszBnHQALb9o) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [April 7th](https://open.spotify.com/album/5g90vd8iTZrA3H8A4eo0mY) | 3:16 | 2021-12-10 | 2022-05-20 |
 | [April In Houston](https://open.spotify.com/track/4sx0VBcGm3TSIwfTcmFOgc) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [April In Houston / Berkeley's On Fire](https://open.spotify.com/album/4DVSu8zwhHxqYdJWqdI7Xf) | 3:05 | 2022-03-25 | 2022-04-19 |
 | [Apt\. 438](https://open.spotify.com/track/1NdtS7tLnCPWm84r7tlF7T) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:28 | 2022-03-25 | 2022-04-17 |
+| [Are You Impressed?](https://open.spotify.com/track/0maaBh5icICjXYfY0urTnU) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 3:07 | 2023-09-22 |  |
 | [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 | 2023-07-26 |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
 | [Artorias](https://open.spotify.com/track/2Wtxf69QyhLU9fswgoD6Hd) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:11 | 2022-02-04 | 2022-04-27 |
@@ -851,7 +852,7 @@
 | [Swiss Army Romance \(Dashboard Confessional Cover\)](https://open.spotify.com/track/0qnme3DQsIWQjCBp938ZnD) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Swiss Army Romance \(Dashboard Confessional Cover\)](https://open.spotify.com/album/2u3iKgrTVrQsoOqLDcNMJ5) | 3:18 | 2021-12-10 | 2022-07-25 |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-09-15 |  |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-10 | 2022-10-08 |
-| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-04-10 |  |
+| [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 | 2023-04-10 | 2023-10-05 |
 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 | 2023-09-15 |  |
 | [Talking In Your Sleep](https://open.spotify.com/track/2I8IEJxcTDJpNszohSbnb6) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Talking In Your Sleep](https://open.spotify.com/album/0NNmXVhEmeyEE3EWSKo6lx) | 3:45 | 2022-02-04 | 2022-06-15 |
 | [Tattoo](https://open.spotify.com/track/7rIa6qgEMBCsYkvEDNlcZf) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [Tattoo](https://open.spotify.com/album/2GNOnmStAcHi9TbvkoZ3TQ) | 2:39 | 2021-12-10 | 2022-05-20 |

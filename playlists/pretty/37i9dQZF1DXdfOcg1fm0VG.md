@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,377 likes - 120 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,504 likes - 120 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 119 | [Fabula Nova Crystallis \(From "Final Fantasy XIII"\)](https://open.spotify.com/track/0jJwod2HN9wpPEv6Io1wfa) | [Masashi Hamauzu](https://open.spotify.com/artist/63aGIPDyyk7J6s68Yy8vf5) | [Distant Worlds III: More Music from Final Fantasy](https://open.spotify.com/album/0jQi3Ed1ujzx8K12u9DIr6) | 2:54 |
 | 120 | [Get To Potions](https://open.spotify.com/track/3Wc0JpVHqMjXV5W9VNiWIn) | [James Hannigan](https://open.spotify.com/artist/6kfhASNYuazU444iSF4iuI) | [Ea Music Composer Series: James Hannigan, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/234mcpdkR9lNkLt3TrPtkZ) | 1:46 |
 
-Snapshot ID: `MCw0ZTVkNjUzM2NjYjVhMmI4OWVkMjUxYjUzMDA2MmMwZDNhZDgzMmIw`
+Snapshot ID: `MCwzMzk4NzYyODA5YWVlZWQzOWNmZTljODAwOTc0MWFmZTU4YWUxZGRi`

@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-05",
       "duration_ms": 218282,
       "name": "Corre das Notas",
       "url": "https://open.spotify.com/track/5lKdcZZsmSFIDtbNINXxkP"
@@ -434,6 +434,32 @@
       "duration_ms": 222128,
       "name": "FALC\u00c3O",
       "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+    },
+    {
+      "album": {
+        "name": "favela venceu - cita\u00e7\u00e3o \"Rap das Armas\" (MC Junior / MC Leonardo) [Remix]",
+        "url": "https://open.spotify.com/album/7vvSwqUZEexMXew07XfEhx"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "BAKKARI",
+          "url": "https://open.spotify.com/artist/0vWsNWKmv6lXgRQa9L2vld"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222464,
+      "name": "favela venceu - cita\u00e7\u00e3o \"Rap das Armas\" (MC Junior / MC Leonardo) - Remix",
+      "url": "https://open.spotify.com/track/54wceMXtQFk0PXorm1qNrX"
     },
     {
       "album": {

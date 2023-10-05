@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JIHYO x 24kGoldn\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: TOMORROW X TOGETHER, Anitta\)
 
 142 songs - 7 hr 39 min
 

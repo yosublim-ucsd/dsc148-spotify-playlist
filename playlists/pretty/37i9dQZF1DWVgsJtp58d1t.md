@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:78rUTD7y6Cy67W1RVzYs7t">PinkPantheress</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,311 likes - 120 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,415 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
 | 120 | [OMW](https://open.spotify.com/track/7EdcolEtRspiP5UqfRLp1U) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 1:17 |
 
-Snapshot ID: `MCxkMjAyMTRiMDFjODllMmRlNzIzNWI0ZjE3OGYxNWIxNTgwMDQ4NmNm`
+Snapshot ID: `MCxlMGFlMjk0MTlhMWEyNTk1MjU5NzhiZTUzMWZlODAzZDI2MzU5ZTU3`

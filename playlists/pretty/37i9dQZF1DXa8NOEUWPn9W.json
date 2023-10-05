@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Shermanology.",
-  "num_followers": 1902953,
+  "num_followers": 1903294,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDJiMWExMDUyOGE2MzkyZmE2MjgzYmQ3MzQ0OWY0N2Q2ZTZmOTky",
+  "snapshot_id": "MCw0NjQ1OTViMDJiMWFmZDU0ZTc4OWNiOTIyZTRhNDQ3MWY2NzgzNjcz",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Dance No More (with Kaleena Zanders)",
         "url": "https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 202657,
       "name": "Dance No More (with Kaleena Zanders)",
       "url": "https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Your Mind Is Dirty",
-        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Your Mind Is Dirty",
-      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/6re4JcyBsSuYZNm6V3Jl1m"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 195241,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Your Mind Is Dirty",
+        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Your Mind Is Dirty",
+      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "U Ok?",
-        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 154176,
-      "name": "U Ok?",
-      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/3reZq1pI5fbX7h724Bjoz2"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 127734,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1LoGrm5coC2yXhofVni5Cp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "U Ok?",
+        "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 154176,
+      "name": "U Ok?",
+      "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Feel It Deep Inside",
-        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
-      },
-      "artists": [
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 153825,
-      "name": "Feel It Deep Inside",
-      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 221202,
       "name": "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/7lhNCZG9JWxhoJSGkJa2AS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Feel It Deep Inside",
+        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 153825,
+      "name": "Feel It Deep Inside",
+      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 138725,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Make Me Happy (feat. Might Delete Later)",
         "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 163250,
       "name": "Giodisco",
       "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "One Of A Kind",
-        "url": "https://open.spotify.com/album/2xpSf5fa0lJ04r8Ya6g1J0"
-      },
-      "artists": [
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 138725,
-      "name": "One Of A Kind",
-      "url": "https://open.spotify.com/track/0GL2DIZoRorbVbsRejFCaW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Complete Collection",
-        "url": "https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "Shadow Child",
-          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
-        }
-      ],
-      "duration_ms": 304615,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Dancing At The Disco",
         "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Complete Collection",
+        "url": "https://open.spotify.com/album/2ooyO0Krh2H87j4hJbPQiE"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Shadow Child",
+          "url": "https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9"
+        }
+      ],
+      "duration_ms": 304615,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0t7ahpke8UKi61ikrSh5sd"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Love Me Right",
-        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Lady (Hear Me Tonight)",
         "url": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB"
       },
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Love Me Right",
+        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Do You Feel It",
         "url": "https://open.spotify.com/album/42hJe9FM2aEdJzngH9fb6y"
       },
@@ -2307,6 +2307,26 @@
       "duration_ms": 186625,
       "name": "Do You Feel It",
       "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "I Don't Wanna Work",
+        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "duration_ms": 155544,
+      "name": "I Don't Wanna Work",
+      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2347,6 +2367,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Throw Your Hands",
+        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Throw Your Hands",
+      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Stars (feat. Steve Winwood)",
         "url": "https://open.spotify.com/album/1bBHCZYXWRAsms3zk0ecaU"
       },
@@ -2367,22 +2403,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Throw Your Hands",
-        "url": "https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191408,
-      "name": "Throw Your Hands",
-      "url": "https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "NO GUEST LIST",
         "url": "https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx"
       },
@@ -2395,26 +2415,6 @@
       "duration_ms": 162562,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/6HWy1YDfSdPvJJ7DTDp8AP"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "I Don't Wanna Work",
-        "url": "https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 155544,
-      "name": "I Don't Wanna Work",
-      "url": "https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv"
     }
   ],
   "unique_name": "Housewerk",

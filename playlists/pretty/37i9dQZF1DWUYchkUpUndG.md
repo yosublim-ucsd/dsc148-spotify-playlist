@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2?si=yj0Rw4oPTMC94Vmys0xD5g">Benjamin Dube</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,177 likes - 106 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 106 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 44 | [Find Me](https://open.spotify.com/track/4sa3WLNnJlxI4lINc3udgB) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Find Me](https://open.spotify.com/album/2vjjgX7x4Xm0y2xuhL0gYx) | 2:34 |
 | 45 | [Grace \(JustOneVerse Series, Vol\. 1\)](https://open.spotify.com/track/20ESHWKVqYj0ZCFuAEXp4s) | [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Grace \(JustOneVerse Series, Vol\. 1\)](https://open.spotify.com/album/28R34u91HoGcyqQ4aWsOBI) | 2:39 |
 | 46 | [Wonderful Love](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 |
-| 47 | [Evidence!](https://open.spotify.com/track/6cJWCaR7Chr7RKBIDdVImY) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT) | [The Special Tape](https://open.spotify.com/album/7dkHyw536yw2WoHcnIZRah) | 4:05 |
+| 47 | [Evidence!](https://open.spotify.com/track/6cJWCaR7Chr7RKBIDdVImY) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [The Special Tape](https://open.spotify.com/album/7dkHyw536yw2WoHcnIZRah) | 4:05 |
 | 48 | [Getaway \(Bring Your Burdens\)](https://open.spotify.com/track/0n2ib05PwBIvRbBpt0e6Bv) | [IBKinsprz](https://open.spotify.com/artist/6DTtiX7QUhk6do5CThy8iz), [Gil Joe](https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h) | [Getaway \(Bring Your Burdens\)](https://open.spotify.com/album/1Bont56jabJnsYBLSi8AOx) | 2:48 |
 | 49 | [You Waited](https://open.spotify.com/track/3PuDorjK22jMStk6PtypaQ) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [God over Everything](https://open.spotify.com/album/7gRcd0ddbcIUHBExgg1qkf) | 3:31 |
 | 50 | [The Presence of the Lord](https://open.spotify.com/track/1MeEh8SgukklJlYjagWUU4) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [The Presence of the Lord](https://open.spotify.com/album/4TBi27DgVl3TVCprZQ3Gm4) | 7:15 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 105 | [Cry For Help](https://open.spotify.com/track/6u2pB0spXZwWY4JbkCqY65) | [Crystal Clare](https://open.spotify.com/artist/5kCAOcVhDOIBSPsyEKjUfJ), [Danzil MK](https://open.spotify.com/artist/3awFhTmBXgF99aDMJ5S5k4) | [Cry For Help](https://open.spotify.com/album/6Wp8rr4ID2A3VptO6wvKON) | 2:42 |
 | 106 | [Merci](https://open.spotify.com/track/5H2l5H8U8vaY3h2Imu7fuX) | [A\-J](https://open.spotify.com/artist/5P8BHOOgVQIhQ3lE7RtTW3) | [Merci](https://open.spotify.com/album/6k8M1n5lHwqJfE6K5cxsIh) | 3:39 |
 
-Snapshot ID: `MCw4MDc1MmE5MDM1MzM1YTA5MWMwOTU3OGU5MzA2YzRmYzM0YTExYmRk`
+Snapshot ID: `MCwwYjUwMGU2NzdiZjE1Y2MzMTQ5NmRjNjkzN2Q2ZTdmNDM4N2I1OWNl`
