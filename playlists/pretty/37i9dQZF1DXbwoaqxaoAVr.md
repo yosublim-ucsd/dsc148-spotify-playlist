@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,579 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,728 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 54 | [In Your Eyes](https://open.spotify.com/track/7EsmODnH1vcwBkjl8DYKTO) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Right Right Time](https://open.spotify.com/album/4qSLLP8DAOmvy1oPBvzIto) | 5:26 |
 | 55 | [IRL](https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [IRL](https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ) | 3:30 |
 | 56 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/track/3NURF3IznpXjSnfSHySTmM) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/1cujDxjZaAtJXnvyW7sl3U) | 3:25 |
-| 57 | [Close To Me](https://open.spotify.com/track/4BstuGRgFLQM4Z5OJ1MAwS) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy) | [Burden of Love](https://open.spotify.com/album/66X9aTvptSH64whP0cixuJ) | 4:12 |
+| 57 | [Close To Me](https://open.spotify.com/track/4BstuGRgFLQM4Z5OJ1MAwS) | [SunDub](https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy), [Joanna Teters](https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp) | [Burden of Love](https://open.spotify.com/album/66X9aTvptSH64whP0cixuJ) | 4:12 |
 | 58 | [Let Me Down \- Shy FX Remix](https://open.spotify.com/track/4Qt4enkYft1kDnQOqeNLjK) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Let Me Down \(Shy FX Remix\)](https://open.spotify.com/album/2lURx5NdDYmaksMwZLxDKV) | 3:28 |
 | 59 | [Starman](https://open.spotify.com/track/2tBxr3tpXRKwK8ebUSi4b5) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [Ziggy Stardub](https://open.spotify.com/album/213d5Et8RNepC1sYgAQQRx) | 4:19 |
 | 60 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 63 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 |
 | 64 | [Magic Potion \(with Lion Rezz\)](https://open.spotify.com/track/2J3SINtTF2idrk1SwXsFtC) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [The Feels & Groove EP](https://open.spotify.com/album/7oRRh1N2z8ZWFogGfIVgsM) | 4:12 |
 
-Snapshot ID: `MCxjNWYxMzQxYjFhMjVlMWQwNzA5MDE2NjYyZGQ0OGU3Njk2MzY1NDFl`
+Snapshot ID: `MCxkNTJjZjE3N2EwNWVkNGVhZTgxOTczYWNkNWI2ZWMyMzg0ZWFlZjU4`

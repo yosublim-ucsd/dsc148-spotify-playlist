@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 777082,
+  "num_followers": 777118,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTNkY2M3OGM5YzhkODhlNzIxNDFkODBmZGM5N2FmODNkNjliZGU0",
+  "snapshot_id": "MCwxMjFhODJlMjk0YTk5ZDRhZGE1NGFiZDE3YjM4Y2EyN2Y3YWJkYTZl",
   "tracks": [
     {
       "added_at": "2023-10-04 13:25:12",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2"
-      },
-      "artists": [
-        {
-          "name": "Sleepless Eye",
-          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "Gemoedsrust",
         "url": "https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 137142,
       "name": "Gemoedsrust",
       "url": "https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2"
+      },
+      "artists": [
+        {
+          "name": "Sleepless Eye",
+          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "As it is At Night",
-        "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
-      },
-      "artists": [
-        {
-          "name": "Elder Tones",
-          "url": "https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU"
-        }
-      ],
-      "duration_ms": 135964,
-      "name": "As It Is At Night",
-      "url": "https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 223010,
       "name": "Djupet",
       "url": "https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
+        "name": "As it is At Night",
+        "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
+      },
+      "artists": [
+        {
+          "name": "Elder Tones",
+          "url": "https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU"
+        }
+      ],
+      "duration_ms": 135964,
+      "name": "As It Is At Night",
+      "url": "https://open.spotify.com/track/59NK1uiTWnRLNKmtUf4Uw1"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Aether Talk",
-        "url": "https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC"
-      },
-      "artists": [
-        {
-          "name": "Mei Wyatt",
-          "url": "https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Aether Talk",
-      "url": "https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "Sobre las Nubes",
         "url": "https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
+        "name": "Aether Talk",
+        "url": "https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC"
+      },
+      "artists": [
+        {
+          "name": "Mei Wyatt",
+          "url": "https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Aether Talk",
+      "url": "https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Neda",
-        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
-      },
-      "artists": [
-        {
-          "name": "Xiada",
-          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
-        }
-      ],
-      "duration_ms": 155426,
-      "name": "Neda",
-      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
-      },
-      "artists": [
-        {
-          "name": "The Destination",
-          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "N\u00e4ra",
         "url": "https://open.spotify.com/album/7DHth5BUleoXVm7lBBwUWH"
       },
@@ -1375,6 +1343,22 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
+      },
+      "artists": [
+        {
+          "name": "The Destination",
+          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 125000,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
+        "name": "Neda",
+        "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
+      },
+      "artists": [
+        {
+          "name": "Xiada",
+          "url": "https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc"
+        }
+      ],
+      "duration_ms": 155426,
+      "name": "Neda",
+      "url": "https://open.spotify.com/track/09h39o0t13MWKIkLRuzAOE"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Aphelion",
-        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 200555,
-      "name": "Aphelion",
-      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "Partly Cloudy",
         "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
       },
@@ -1807,18 +1791,18 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
+        "name": "Aphelion",
+        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
       },
       "artists": [
         {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
+      "duration_ms": 200555,
+      "name": "Aphelion",
+      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -1835,6 +1819,22 @@
       "duration_ms": 136041,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/3jmU2oX5JSzv8QzYSTJgxN"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6taDFAXweffThoQFq4Fqbh"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4FYcbfaiOgOGgbFALqOjrK"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
+        "name": "Kshanon",
+        "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
+      },
+      "artists": [
+        {
+          "name": "Hashree",
+          "url": "https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Kshanon",
+      "url": "https://open.spotify.com/track/64tHlBxl55HXyOE2ZsDamu"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
         "name": "Inevitably",
         "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 201219,
       "name": "Brise Apaisante",
       "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
-        "name": "Kshanon",
-        "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
-      },
-      "artists": [
-        {
-          "name": "Hashree",
-          "url": "https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Kshanon",
-      "url": "https://open.spotify.com/track/64tHlBxl55HXyOE2ZsDamu"
     },
     {
       "added_at": "2023-10-04 13:25:12",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
+        "name": "Floating Time",
+        "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
+      },
+      "artists": [
+        {
+          "name": "Somaya Kudri",
+          "url": "https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Floating Time",
+      "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
+    },
+    {
+      "added_at": "2023-10-04 13:25:12",
+      "album": {
         "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
         "url": "https://open.spotify.com/album/4eZeLgfdABfj3mjL5JMIQb"
       },
@@ -2127,26 +2143,6 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
-    },
-    {
-      "added_at": "2023-10-04 13:25:12",
-      "album": {
         "name": "Incondizionatamente",
         "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
       },
@@ -2163,18 +2159,22 @@
     {
       "added_at": "2023-10-04 13:25:12",
       "album": {
-        "name": "Floating Time",
-        "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
       "artists": [
         {
-          "name": "Somaya Kudri",
-          "url": "https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Floating Time",
-      "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2023-10-04 13:25:12",

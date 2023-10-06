@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Lefar in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. MV Killa in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 154653,
       "name": "ATM (feat. MV Killa)",
       "url": "https://open.spotify.com/track/6jV1tdQXiQ87WPO5uqjSyq"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 169076,
       "name": "INDELEBILE",
       "url": "https://open.spotify.com/track/1TsR4hMOkIDcACwtmoo7JB"
@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Naples",
+        "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Naples",
+      "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -3320,7 +3338,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 177843,
       "name": "Pane e miseria",
       "url": "https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx"
@@ -4292,6 +4310,58 @@
       "duration_ms": 147169,
       "name": "SOUTH",
       "url": "https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL"
+    },
+    {
+      "album": {
+        "name": "Spaccio di Verit\u00e0 1",
+        "url": "https://open.spotify.com/album/0y6naxXBamBcpSA71AmOhf"
+      },
+      "artists": [
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198949,
+      "name": "Spaccio di Verit\u00e0 1",
+      "url": "https://open.spotify.com/track/4vy5oJXsNPFuDPNt1CzE4g"
+    },
+    {
+      "album": {
+        "name": "Stanotte",
+        "url": "https://open.spotify.com/album/6ZPAN5vDv8tVQMxzd4Dh3D"
+      },
+      "artists": [
+        {
+          "name": "Fuossera",
+          "url": "https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb"
+        },
+        {
+          "name": "O'Iank",
+          "url": "https://open.spotify.com/artist/5KxgFHN3bRQ1a9cure6jpN"
+        },
+        {
+          "name": "OJey",
+          "url": "https://open.spotify.com/artist/6onsxkCnKgm25b6wEigYVg"
+        },
+        {
+          "name": "Sir Fernandez",
+          "url": "https://open.spotify.com/artist/6eANGDdsFQJGMu7Msx8zm2"
+        },
+        {
+          "name": "Dj Fresella",
+          "url": "https://open.spotify.com/artist/2bYcvGtjyd7pu0Pue7e6XD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206229,
+      "name": "Stanotte",
+      "url": "https://open.spotify.com/track/1rml3IGJ7U3PZMSAYkntiS"
     },
     {
       "album": {

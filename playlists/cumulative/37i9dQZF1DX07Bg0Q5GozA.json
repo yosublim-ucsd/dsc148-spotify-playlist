@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Young Franco",
+  "description": "New music off the beaten track. Cover: Polo & Pan",
   "name": "OFF POP",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 153473,
       "name": "Black Pegasus",
       "url": "https://open.spotify.com/track/0Zx8UHVhUqjuDHoW9khZla"
@@ -1242,6 +1242,24 @@
       "duration_ms": 414193,
       "name": "Casualities - YAME Remix",
       "url": "https://open.spotify.com/track/0pAX8suClIReqkFfrA5TsV"
+    },
+    {
+      "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Chamallow",
+      "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
     },
     {
       "album": {
@@ -2411,6 +2429,28 @@
     },
     {
       "album": {
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
+    },
+    {
+      "album": {
         "name": "Temple Of Dreams",
         "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
       },
@@ -3281,6 +3321,28 @@
     },
     {
       "album": {
+        "name": "Gimme Some More (feat. Shungudzo)",
+        "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225558,
+      "name": "Gimme Some More (feat. Shungudzo)",
+      "url": "https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf"
+    },
+    {
+      "album": {
         "name": "Girlfriend / Damn, dis-moi (feat. D\u00e2m-Funk) [Remixes]",
         "url": "https://open.spotify.com/album/4v89sPqV3R11XnlY2TLIqi"
       },
@@ -3474,7 +3536,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 201500,
       "name": "Haus It Going",
       "url": "https://open.spotify.com/track/3rB9sNH5ZKX6h3M9yrB0sx"
@@ -4006,7 +4068,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 229083,
       "name": "i can see",
       "url": "https://open.spotify.com/track/6WjkYAbXEYGDT8O0wmCRVr"
@@ -5046,7 +5108,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
@@ -5298,7 +5360,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 237218,
       "name": "Loverboy - Edit",
       "url": "https://open.spotify.com/track/4Cdxm2MlmBVYrrKAlkMytY"
@@ -6530,6 +6592,24 @@
       "duration_ms": 345310,
       "name": "Peach",
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+    },
+    {
+      "album": {
+        "name": "Personal Effects",
+        "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Personal Effects",
+      "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
     },
     {
       "album": {
@@ -8365,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/2mkAIECa1rpTjtX5ZqgTPS"
+      },
+      "artists": [
+        {
+          "name": "Paper Idol",
+          "url": "https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249822,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/4H8LXYMF0OABJpjL4wD4mb"
+    },
+    {
+      "album": {
         "name": "The Order of the Rain",
         "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
       },
@@ -9297,6 +9395,28 @@
     },
     {
       "album": {
+        "name": "What Is",
+        "url": "https://open.spotify.com/album/73KSYqiJC3u0UdkslT9lHc"
+      },
+      "artists": [
+        {
+          "name": "Biljana Pais",
+          "url": "https://open.spotify.com/artist/54hMzUSwvZ8usarv0mHXaA"
+        },
+        {
+          "name": "Null",
+          "url": "https://open.spotify.com/artist/1KSQpTzlMeDLlqMo0zm84t"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547334,
+      "name": "What Is",
+      "url": "https://open.spotify.com/track/11zDGt3Mhbz7Sb9lJldLUN"
+    },
+    {
+      "album": {
         "name": "What Not To Do (Moodymann Remix)",
         "url": "https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY"
       },
@@ -9316,7 +9436,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 316000,
       "name": "What Not To Do - Moodymann Remix",
       "url": "https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK"

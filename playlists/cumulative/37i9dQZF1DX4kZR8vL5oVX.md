@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Nej
 
-1,012 songs - 2 day 4 hr 29 min
+1,019 songs - 2 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A l'envers](https://open.spotify.com/track/3XigyV5rY8uYa6PkONvQgJ) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [A l'envers](https://open.spotify.com/album/1KRzO5D5wViSagqcQxVmx2) | 3:05 | 2022-01-05 | 2022-02-02 |
 | [A l'unité](https://open.spotify.com/track/4TbK8MOtzPj1SdWerHdkGO) | [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Grande](https://open.spotify.com/album/4qz9mg45ugo0PxWSBxSdR7) | 3:06 | 2023-04-04 | 2023-05-03 |
 | [A Place Where I Belong](https://open.spotify.com/track/7ai5SN91E6X2ps4VeZaVMu) | [Norma](https://open.spotify.com/artist/64W7eG9PeOeb07AsgllbZV) | [A Place Where I Belong](https://open.spotify.com/album/0Eu6w71fErIA4zNcNBztrX) | 2:16 | 2022-05-03 | 2022-06-01 |
+| [A quoi tu penses vraiment](https://open.spotify.com/track/2WnU5xzBjLg9waNoHAiSi2) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 2:55 | 2023-10-05 |  |
 | [Abyssal](https://open.spotify.com/track/7mUdUu75AfRWoxthhBJFkt) | [Julia Pertuy](https://open.spotify.com/artist/5kG7vNPBANAzHPWIuHwZ4D) | [Abyssal](https://open.spotify.com/album/2v8brQYnFf5pODegprhom7) | 4:36 | 2022-05-31 | 2022-07-06 |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-07-05 | 2022-08-03 |
 | [Adieu Tristesse](https://open.spotify.com/track/4vDZNA7oy26cMtjMir1LAy) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Adieu Tristesse](https://open.spotify.com/album/48EYNhLry7GJJGbnZCsUgX) | 2:46 | 2023-05-02 | 2023-06-07 |
@@ -88,6 +89,7 @@
 | [Beautiful Boy](https://open.spotify.com/track/5SJ65Czk8acHNz6mKKuoBI) | [Roxaane](https://open.spotify.com/artist/6wzDxKSspmUkXSTAdP3lNO) | [Vertige](https://open.spotify.com/album/0qKnXS1rXGwWjjprvhMNnu) | 2:48 | 2023-01-03 | 2023-02-01 |
 | [bedroom walls](https://open.spotify.com/track/1omSysxGnYHVI081Eet53i) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 2:23 | 2022-11-30 | 2023-01-04 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-03-07 | 2022-04-08 |
+| [Belek](https://open.spotify.com/track/1K1I5LLhJe3xqJnOHGNIwC) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Belek](https://open.spotify.com/album/1YCTpIGZUrRagjF2hsOVxd) | 3:21 | 2023-10-05 |  |
 | [Belladonna](https://open.spotify.com/track/2R54g6Hs3JIjAvm8xwgQQ7) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Belladonna](https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z) | 2:34 | 2022-07-05 | 2022-08-03 |
 | [Belle](https://open.spotify.com/track/02MJ7tsWDTcZSADrruVhIV) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Belle](https://open.spotify.com/album/3g5nDsYn2YjfR37RPYSVzG) | 2:38 | 2022-11-08 | 2022-12-01 |
 | [Belle pour une renoie](https://open.spotify.com/track/14UChneY1Dj9AqlhaxGxh6) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Belle pour une renoie](https://open.spotify.com/album/3jOKcUX2Bi1R2kKD5tURNB) | 2:27 | 2022-05-05 | 2022-06-01 |
@@ -128,6 +130,7 @@
 | [C'est si bon](https://open.spotify.com/track/3PzUIxx0PqeuVFzaVzyio9) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [C'est si bon](https://open.spotify.com/album/3KqtqlxrGOsHrc0nkoVTVp) | 3:47 | 2022-01-05 | 2022-02-02 |
 | [C'est toi](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 | 2023-08-01 | 2023-09-06 |
 | [C'est trop tard](https://open.spotify.com/track/0aKOyZFQOCkuR8Aq4eoCXU) | [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [C'est trop tard](https://open.spotify.com/album/3jtCfRdUOzixckT0QgRzS1) | 2:34 | 2023-08-01 | 2023-09-06 |
+| [CADEAU D'ADIEU](https://open.spotify.com/track/1oWKNBZYotw4jojhwUIVHV) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0) | [CADEAU D'ADIEU](https://open.spotify.com/album/4dQwdyz5Vf7t8Lj6lLPaUK) | 3:21 | 2023-10-05 |  |
 | [Café](https://open.spotify.com/track/3VUx8QNifEyi4PgIl0pelw) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [37 degrés](https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP) | 2:31 | 2022-08-02 | 2022-09-07 |
 | [Call Me](https://open.spotify.com/track/3wPNXRgvJI35uIXxlPriv2) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/3Mp4ACnaRCKzMy8XmaT2iI) | 4:23 | 2023-01-03 | 2023-02-01 |
 | [Calma](https://open.spotify.com/track/2jll0FYneJFAFcJaZm2GmQ) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [Calma](https://open.spotify.com/album/1NK1v7nfbyeEPt18ZbxpFi) | 3:04 | 2022-08-02 | 2022-09-07 |
@@ -139,6 +142,7 @@
 | [Cassandra](https://open.spotify.com/track/6gspNJTYQYS9ynsN87MU0J) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [This Too Shall Pass](https://open.spotify.com/album/2cQYNZcTP8bD02QwiFCS2i) | 3:44 | 2023-02-28 | 2023-04-05 |
 | [Cauchemar](https://open.spotify.com/track/0Ij0pDXdEf9Pju3qYgLykJ) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Cauchemar](https://open.spotify.com/album/6a2Qctwzb8j4H9NZDcxRBs) | 3:01 | 2023-04-04 | 2023-05-03 |
 | [Cauchemars](https://open.spotify.com/track/5pVuRzvyRiRq4oMGnU6WPl) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Cauchemars](https://open.spotify.com/album/3mKYIkjNT5rb6T8pwKPTGN) | 3:06 | 2022-05-31 | 2022-07-06 |
+| [CC SAVA](https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [CC SAVA](https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S) | 3:07 | 2023-10-05 |  |
 | [Cerveau Droit](https://open.spotify.com/track/4A0gHh5hdegO8fs1KJqvFQ) | [Le Paon](https://open.spotify.com/artist/2JGuBoiuoXvEI3A7CF1buF) | [Dans La Neige](https://open.spotify.com/album/7jSTSXVv1JGw753WIg9cZ3) | 2:42 | 2022-11-08 | 2022-12-01 |
 | [Chamboule tout](https://open.spotify.com/track/4yKVObbJXnHITCqVYi5kDO) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Chamboule tout](https://open.spotify.com/album/30VUENVtUXPiT8cYw9Ph0l) | 2:55 | 2023-07-04 | 2023-09-06 |
 | [Chanel 5](https://open.spotify.com/track/7HV2gortBkLgQfjFseEwjI) | [Illa](https://open.spotify.com/artist/0aRBiwxscsF4yfu14Hs55O) | [Chanel 5](https://open.spotify.com/album/4vRRJpysG0h2cNqaBPq7Na) | 2:57 | 2023-04-04 | 2023-05-03 |
@@ -508,6 +512,7 @@
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-02-28 | 2023-04-05 |
 | [Les sunlights des tropiques](https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les sunlights des tropiques](https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6) | 3:40 | 2023-06-06 | 2023-07-05 |
 | [Les Traces](https://open.spotify.com/track/4DTEf3j7bs8V0ZB9u0nCuy) | [Dorely](https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl) | [Les Traces](https://open.spotify.com/album/67do5W87semb1sFauFfADA) | 2:01 | 2022-01-05 | 2022-02-02 |
+| [Les trois cloches](https://open.spotify.com/track/2SBxcfrksjtTo2OQImz9fx) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Chimène chante Piaf : L'intégrale](https://open.spotify.com/album/0BZymYCCYSkkXsruTfH1gC) | 3:53 | 2023-10-05 |  |
 | [Les voiles](https://open.spotify.com/track/5sEC7iaiegqDh3GtxRfyyd) | [Elodie Rama](https://open.spotify.com/artist/7szuplhzxUcgWSPs2CXys3) | [Les voiles](https://open.spotify.com/album/1OBpGQvMbeMzrPNKBOVo2r) | 4:50 | 2022-10-04 | 2022-11-09 |
 | [Let It Shine \- Radio Edit](https://open.spotify.com/track/0ZbBeFnuQZWcGLVFTwlF4N) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Let It Shine \(Radio Edit\)](https://open.spotify.com/album/1JBDgLSZqtkLIz0MvyyHzJ) | 2:54 | 2022-07-05 | 2023-01-04 |
 | [Let's Go](https://open.spotify.com/track/4Ti6OKJX2LTq4psyJfm1LY) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/0sUPXql6mFYywKIUYBkXr1) | 3:02 | 2023-09-05 | 2023-10-04 |
@@ -617,6 +622,7 @@
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-07-05 | 2022-08-03 |
 | [Mélange](https://open.spotify.com/track/3uFkAtpf4t3ZtVS46KYMvr) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [Mélange](https://open.spotify.com/album/2CPTswCeepsG1lrhWZv8zU) | 2:44 | 2023-06-06 | 2023-06-13 |
 | [Mélodie \(Tatami\)](https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:20 | 2022-02-01 | 2022-03-08 |
+| [Mélomaniac](https://open.spotify.com/track/4LFNJUz6dBmfLCbvXSblEw) | [Petite Gueule](https://open.spotify.com/artist/7la2T8qrs8wq7oSSGf9tPs) | [Gronde](https://open.spotify.com/album/4YyF7XlTQHAyO4O0r5SvgU) | 2:51 | 2023-10-05 |  |
 | [Métronome](https://open.spotify.com/track/0dxyOV8IwymS1rowB4d6x1) | [Natya](https://open.spotify.com/artist/39naexMjzJivy1HDb9zhSK) | [Angovo](https://open.spotify.com/album/7IK6TA67x0mBU8qMdqsf7F) | 2:04 | 2023-08-01 | 2023-09-06 |
 | [Météo](https://open.spotify.com/track/0Ynw7RXjW3LMNN5niLnIBb) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Météo](https://open.spotify.com/album/4QTDFBSQCU6BLq5NHR3lXS) | 2:32 | 2022-05-03 | 2022-06-01 |
 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 | 2023-06-06 | 2023-07-05 |
@@ -745,7 +751,7 @@
 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 | 2023-09-05 | 2023-10-04 |
 | [Pum Fat](https://open.spotify.com/track/22woBfokG4WRalwDO5wlKh) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Pum Fat](https://open.spotify.com/album/2op5l53glUAbULyN4YulfW) | 2:23 | 2023-10-03 |  |
 | [Punchline](https://open.spotify.com/track/7GRlpszQrFiDwmX5SD17rt) | [Louisadonna](https://open.spotify.com/artist/6KeEXdNCF2wHQ1kT3seHO1) | [Punchline](https://open.spotify.com/album/4yEbVx3cuveoG5Y34ZwR1d) | 3:00 | 2023-06-06 | 2023-07-05 |
-| [Pyromanes](https://open.spotify.com/track/4U6SsSNef5oAGA0eMfvMDR) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:05 | 2023-10-03 |  |
+| [Pyromanes](https://open.spotify.com/track/4U6SsSNef5oAGA0eMfvMDR) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:05 | 2023-10-03 |  |
 | [Pépite](https://open.spotify.com/track/5sJrcw7rjaQv5ybf9wucnx) | [Popi Mendez](https://open.spotify.com/artist/3dPuvi6zVeWuCtqLzyv36H) | [Pépite](https://open.spotify.com/album/2muk2aadSRURjBHyeGYbdp) | 3:02 | 2023-09-05 | 2023-10-04 |
 | [Q](https://open.spotify.com/track/5hGUYAw9wrOpRBank5mIV9) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 2:36 | 2022-10-04 | 2022-11-09 |
 | [QLT](https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT) | [sheng](https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn) | [QLT](https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9) | 2:37 | 2023-05-02 | 2023-06-02 |
@@ -781,6 +787,7 @@
 | [Regrets](https://open.spotify.com/track/7vVr5S1IiJAnNr1DQ1Pzcx) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Regrets](https://open.spotify.com/album/6gQjMSxtHKyYPc38PSNbJv) | 3:15 | 2022-11-08 | 2022-12-01 |
 | [Reine](https://open.spotify.com/track/1SUfdtIVo9XVD5fsvO9O3B) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Equinoxe](https://open.spotify.com/album/01yl9d56dX4QTmwevTXXYV) | 2:33 | 2023-05-02 | 2023-06-07 |
 | [Reine](https://open.spotify.com/track/5pjXyEOWYQrP4MStq5NoNf) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Reine](https://open.spotify.com/album/7qxvI9ndLeIPAS6RP62Qjn) | 3:15 | 2023-10-03 |  |
+| [Remia](https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt) | [Tessa B](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Remia](https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so) | 3:14 | 2023-10-05 |  |
 | [Remède](https://open.spotify.com/track/5qTYTsLD40ERvWHH2UFCbo) | [Rina DG](https://open.spotify.com/artist/6qdPhiETWhn1Jhx4AyIUZ4) | [Remède](https://open.spotify.com/album/45E7z2XT0Y4dbwQK6TJAHC) | 2:41 | 2023-06-06 | 2023-07-05 |
 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 | 2022-08-02 | 2022-09-07 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-06-06 | 2023-07-05 |

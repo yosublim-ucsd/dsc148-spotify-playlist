@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-101 songs - 3 hr 51 min
+102 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Elephants Dream Just Like I Used To](https://open.spotify.com/track/3qgChLC3sVRyW3J4l31pDk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Elephants Dream Just Like I Used To](https://open.spotify.com/album/4ncZnNTKo2WVxugkN21aEP) | 2:41 | 2023-09-22 |  |
 | [Fallen Down](https://open.spotify.com/track/4qc5uJs4lah9YnvCoIyKMh) | [FMBLL](https://open.spotify.com/artist/2w6778RfoCOsdjVH2wNkC8) | [Fallen Down](https://open.spotify.com/album/5JeWglXjfrRjSzAIF3LnJA) | 2:13 | 2023-09-22 |  |
 | [First Light](https://open.spotify.com/track/2BRki9AJwsZp0iaN4qqMpF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [First Light](https://open.spotify.com/album/4FN8hl1pynMrgb2GqIApEw) | 1:59 | 2023-09-22 |  |
+| [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2023-10-06 |  |
 | [Get up](https://open.spotify.com/track/00GPpPXXRNgnfLN89pYNqX) | [Moondoe And His Fox](https://open.spotify.com/artist/6q3JOEdKg0t7udVnPeUtGT) | [Get up](https://open.spotify.com/album/1bNYmG1mvFW3brv0P2BCoC) | 1:04 | 2023-09-22 |  |
 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 | 2023-09-22 |  |
 | [Granular Road](https://open.spotify.com/track/2TpPzyADjLMge83lyG7H0o) | [Morris Hardin](https://open.spotify.com/artist/5WzMpvVEVIAwBzvtHCHSMt) | [The Last Trip](https://open.spotify.com/album/4RSk852mbcyiY12mHp5bGX) | 2:42 | 2023-09-22 |  |

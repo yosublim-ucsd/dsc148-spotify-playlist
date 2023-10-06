@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u674e\u4f73\u6b61 (Kaia Lee)",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u67cf\u9716 (PoLin)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 215000,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0TIyJ5FEqtwwW8HFPFI328"
@@ -376,6 +376,24 @@
       "duration_ms": 195000,
       "name": "Changing",
       "url": "https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA"
+    },
+    {
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3UsruFkybIk53R1DQf5o75"
+      },
+      "artists": [
+        {
+          "name": "Edisong",
+          "url": "https://open.spotify.com/artist/0RhNindPw9ZrA5KmSr6ASN"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "Cold Dream",
+      "url": "https://open.spotify.com/track/0cwSPWIRLf0nJjvCOwmV5w"
     },
     {
       "album": {
@@ -978,7 +996,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 174375,
       "name": "HIGHLIGHT",
       "url": "https://open.spotify.com/track/27umyRyWYx4CCiMPtlhXbG"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 215275,
       "name": "I Love U So",
       "url": "https://open.spotify.com/track/6vdEahxBwLid3eXOQXYGow"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 231397,
       "name": "Room247",
       "url": "https://open.spotify.com/track/6iFn69S297cgPduLovu9D6"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 229772,
       "name": "Tangerine Dream",
       "url": "https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E"
@@ -3384,7 +3402,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 196750,
       "name": "\u4f60\u8aaa\u9019\u53eb\u5929\u79e4\u5ea7\u4f46\u4f60\u559c\u6b61",
       "url": "https://open.spotify.com/track/5vYF35h9hdvYWfCL3Zb8Xj"
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 224149,
       "name": "\u53f0\u5317\u5bb5\u591c\u6307\u5357",
       "url": "https://open.spotify.com/track/0eLiTFv7m8O6ScxJVQZyCR"
@@ -4226,13 +4244,13 @@
       },
       "artists": [
         {
-          "name": "\u5f35\u82e5\u51e1",
+          "name": "\u5f35\u82e5\u51e1RuoFan",
           "url": "https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk"
         }
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-25",
+      "date_removed": null,
       "duration_ms": 298346,
       "name": "\u5982\u4f55\u5fd8\u8a18\u4f60 - \u6232\u5287<\u7db2\u7d05\u7684\u760b\u72c2\u4e16\u754c>\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/7nZhXTJKFFKF49vRFKgSCz"
@@ -5193,6 +5211,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
+    },
+    {
+      "album": {
         "name": "\u6211\u7684\u611b\u4eba (\u539f\u5275\u5f71\u96c6\u300a\u706b\u795e\u7684\u773c\u6dda\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/6Jy8AwFKc37C3EJrFD9evH"
       },
@@ -5258,7 +5294,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 209500,
       "name": "\u6211\u966a\u4f60\u597d\u55ce - bilibili & Disney\u300a\u6b63\u7fa9\u7684\u7b97\u6cd5\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/0dkP7JE3rTjiPhNIuNVAPz"
@@ -5518,7 +5554,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 215999,
       "name": "\u666f\u7f8e",
       "url": "https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80"
@@ -5616,7 +5652,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 246132,
       "name": "\u6709\u500b\u5ff5\u982d",
       "url": "https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE"
@@ -5822,7 +5858,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 300383,
       "name": "\u6a5f\u5834",
       "url": "https://open.spotify.com/track/6FeEzoxcZmfy8kDplfP9Py"
@@ -6784,7 +6820,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 192000,
       "name": "\u8774\u8776 - \u300a\u57fa\u56e0\u6c7a\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ"
@@ -6994,7 +7030,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 265000,
       "name": "\u8d70\u6563",
       "url": "https://open.spotify.com/track/5fpUpJyan6L055gFMRDUjG"
@@ -7135,6 +7171,24 @@
     },
     {
       "album": {
+        "name": "Be a Lover",
+        "url": "https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "\u8f38\u4e86\u600e\u6a23",
+      "url": "https://open.spotify.com/track/1blwKOFiCQxtTG0yA7kuA3"
+    },
+    {
+      "album": {
         "name": "\u8f38\u4e86\u600e\u6a23",
         "url": "https://open.spotify.com/album/64wfH7ifhnBn8YM9yiPUrx"
       },
@@ -7146,7 +7200,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 212233,
       "name": "\u8f38\u4e86\u600e\u6a23",
       "url": "https://open.spotify.com/track/5CdiPjubMoVfyG08Bczktk"

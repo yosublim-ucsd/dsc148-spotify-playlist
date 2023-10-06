@@ -3779,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "It's All Happening Now",
+        "url": "https://open.spotify.com/album/1FrQGwymQK3vfXS6Z1NBHK"
+      },
+      "artists": [
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "It's All Happening Now",
+      "url": "https://open.spotify.com/track/0z5mi9793H8u6JLO5u2mSf"
+    },
+    {
+      "album": {
         "name": "It's Cool",
         "url": "https://open.spotify.com/album/4v3u2TGpmZHpv1xYMLPbsw"
       },
@@ -5606,7 +5624,7 @@
       ],
       "date_added": "2019-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 224360,
       "name": "Peach Fuzz",
       "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"

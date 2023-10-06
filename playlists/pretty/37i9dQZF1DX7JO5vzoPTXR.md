@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd"> Fanny Hultman</a>, <a href="spotify:artist:44pv88VpkRu39v0lupR2gZ">Maria Hazell</a> & <a href="spotify:artist:7AzjETXRUKNRSJHMW9GIqd">Nina Nesbitt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,279 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,322 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 2 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
 | 3 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 |
 | 4 | [Sin](https://open.spotify.com/track/5KAIkUj2rSnIm4CIZZupCp) | [Anine Bing](https://open.spotify.com/artist/6PPTVZAoUPxV5fSP0LwBfV) | [Sin](https://open.spotify.com/album/5PrkRn9O1qZM8p1ltdjitO) | 2:41 |
-| 5 | [In Spades](https://open.spotify.com/track/6V9tFC30jGHFlgQADPoNnw) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [In Spades](https://open.spotify.com/album/5d3dV3zkyxZmSoda2ESiDn) | 3:10 |
+| 5 | [I've Made Mistakes](https://open.spotify.com/track/1tV3FthY6AyomujuaAxEFg) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [I've Made Mistakes](https://open.spotify.com/album/0D6TevsmnsuGE3rUgPMnAj) | 4:20 |
 | 6 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 |
 | 7 | [The Mess](https://open.spotify.com/track/3LYHDM11CDhhJdbRW9LfkL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Rivals EP](https://open.spotify.com/album/6swJmmREo7UyeIMuELVzr0) | 1:08 |
 | 8 | [What if my heart beats faster?](https://open.spotify.com/track/4ia44V8FHR5GtRukYPQVOh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 4:52 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [99 Bottles](https://open.spotify.com/track/5zLW82dCjRf026PYvDgPmQ) | [Aria Lisslo](https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl) | [99 Bottles](https://open.spotify.com/album/2d4r9zI6jfm98wYSktbv0R) | 2:31 |
 | 40 | [Final Warning](https://open.spotify.com/track/6LoTdUBOWRHpKlXL06glRc) | [Demi Jordanae](https://open.spotify.com/artist/1KxYTEoVRJJrunEDMlYQm5) | [Final Warning](https://open.spotify.com/album/3Jfj0vVvCz7c4TjubMT55z) | 3:15 |
 
-Snapshot ID: `MCw4ODg1ZWEzNjM1MjAwYzQ4YzU3OGY4NDRkOTZlYmU1YWYzZmU4YzFm`
+Snapshot ID: `MCwxNWZiMjczMDM0MmViZDdiZjdiOGRhYzI5ODk5OTQ5NTFkOGJkOWQ2`

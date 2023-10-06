@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-477 songs - 1 day 13 hr 59 min
+478 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Background Story](https://open.spotify.com/track/0sTMFrBYAPSMQ1kBkkI6kf) | [Tetsu Inoue](https://open.spotify.com/artist/48xy52hexfHntZtDNtIoNy) | [Ambient Systems 3](https://open.spotify.com/album/1FfRPZPKk1j7WQbHMZnj2k) | 8:12 | 2022-04-28 | 2022-07-22 |
 | [Bananatron](https://open.spotify.com/track/03CbUuPxmE1hvo5fuCs86N) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 7:40 | 2022-03-31 | 2022-07-29 |
 | [bange](https://open.spotify.com/track/0Wk92DsrnKU66J9QWjcVT0) | [satohyoh](https://open.spotify.com/artist/5QBheYDpOzg6vFsqIpXcSa), [kota okuyama](https://open.spotify.com/artist/5l4Diy8NmKJBI5j5u1rlAE) | [feel like, feel right](https://open.spotify.com/album/56JN7oiUArYYVkUZWN2w4p) | 3:04 | 2022-04-07 | 2022-07-28 |
+| [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-05 |  |
 | [Beacon](https://open.spotify.com/track/1SoBz2y4CJuu0VK88JcSnL) | [Hiroto Kudo](https://open.spotify.com/artist/4HoS8lqkRngSNsSBn4mCvx) | [Beacon](https://open.spotify.com/album/0Ap7Elqyj1PhaHKiNgM3Wl) | 4:40 | 2022-03-31 | 2022-04-14 |
 | [Beautiful World](https://open.spotify.com/track/6SjkPjVF3D4dyvS29J7Ln2) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Akashic Records](https://open.spotify.com/album/3ZsJCJXgkwVEwoeHTpMtHx) | 5:34 | 2022-04-07 | 2022-07-28 |
 | [Beige](https://open.spotify.com/track/5ZssX5LKaeWewcBPycp7oR) | [Ultrafog](https://open.spotify.com/artist/3erT0S0GYFrjPuDqK9AUgo) | [Surging Waves](https://open.spotify.com/album/0Mz7qmB0koWo1rYrcMvfAF) | 3:20 | 2022-03-31 | 2022-07-26 |
@@ -207,7 +208,7 @@
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 |  |
 | [koke](https://open.spotify.com/track/2dTFv9svbl63wUuuFcIE6e) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/5t2mle95HjGO6NVPqXn6wD) | 3:47 | 2022-03-31 | 2022-06-04 |
-| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 |  |
+| [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 | 2023-10-06 |
 | [konpeito](https://open.spotify.com/track/16kYco2zMu85zQQEOa4sn7) | [UYUNI](https://open.spotify.com/artist/456fQGAt00AiCfXhNdZVU2) | [Ecosystem](https://open.spotify.com/album/2qSWvmGxWRCs3fdlyuBH0Q) | 5:14 | 2022-03-31 | 2022-07-29 |
 | [Kyoto](https://open.spotify.com/track/1oNJN6FR9eQhDffdb8sUQN) | [Hiroki Okano](https://open.spotify.com/artist/5ZtBM3N7gMFDYynbIhlFfJ) | [19871990](https://open.spotify.com/album/0kLUxZ36sIIbDk5agwaUOv) | 5:30 | 2022-04-07 | 2022-05-26 |
 | [Lactoc Fuck \- Isan Remix](https://open.spotify.com/track/6ACwHSACfdqj1JqV8YONRg) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [Repainted](https://open.spotify.com/album/43ubCjI2XoymlQBK3JZj8N) | 4:09 | 2022-03-31 | 2022-04-05 |

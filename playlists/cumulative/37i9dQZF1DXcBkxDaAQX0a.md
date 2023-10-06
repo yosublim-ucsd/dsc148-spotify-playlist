@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-266 songs - 15 hr 45 min
+267 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/2SeJ9YrUC24fQKOlOUZVTG) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/49jzsX4L7SPtw9CZbPiLas) | 3:32 | 2021-02-08 | 2022-07-29 |
 | [In Spite of All My Worry](https://open.spotify.com/track/3FOs5UDA4aCIEXLaKVK6x2) | [Luke Rainsford](https://open.spotify.com/artist/5xZcFiTrlGiWZg4RVU28Ax) | [In Spite of All My Worry](https://open.spotify.com/album/3kAxlBuLYHAegflpfpu4kA) | 4:04 | 2022-04-04 | 2022-04-21 |
 | [In the End](https://open.spotify.com/track/06tEEh5HjpoTXs08JZKO8i) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [In the End](https://open.spotify.com/album/7wmC4xvcJfWrqwfzSGvybM) | 3:01 | 2021-02-08 | 2022-07-28 |
+| [In the End](https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:01 | 2022-04-04 |  |
 | [In Your Memory \- Acoustic](https://open.spotify.com/track/5sQMBTpxcEmBHlTlSJPseT) | [The Bottom Line](https://open.spotify.com/artist/2goF23SQwJH5I0njJ3TnH2) | [In Your Memory \(Acoustic\)](https://open.spotify.com/album/0WFkjD832XOJlqaK1hcWIi) | 3:18 | 2022-04-04 | 2022-04-16 |
 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 | 2021-02-08 |  |
 | [It Don't Exist](https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Acoustic Volume 2](https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD) | 3:35 | 2022-04-04 |  |
@@ -273,6 +274,6 @@
 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/0N5WGeoF3fhPONFm4Hk7BT) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/4XJR9eMAwiWUbLJSOUmNk0) | 3:11 | 2021-02-08 | 2022-07-29 |
 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 | 2022-04-04 |  |
 | [Young Heroes](https://open.spotify.com/track/3noGe3vbBe4XcqsKykNudA) | [Sam Russo](https://open.spotify.com/artist/35Ttuqkuxvx0dQydql5yBj) | [Back to the Party](https://open.spotify.com/album/2qmm2zKw58TvGzi0tCOpdM) | 2:55 | 2022-04-04 | 2022-04-19 |
-| [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 | 2021-02-08 |  |
+| [“sometimes you meet the right people at the wrong times” \- Revisited](https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [When the Dust Settles](https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U) | 3:08 | 2021-02-08 | 2023-10-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

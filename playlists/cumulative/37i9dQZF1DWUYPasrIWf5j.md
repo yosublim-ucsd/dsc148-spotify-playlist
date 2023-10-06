@@ -4,17 +4,19 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-135 songs - 7 hr 47 min
+137 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 | 2022-05-20 |  |
 | [abcdefu](https://open.spotify.com/track/6p0BJmOjL00JhsZ4UXiLbx) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [deja vu](https://open.spotify.com/album/1G3g26T1M3R0rK7QWBKei6) | 2:54 | 2022-12-01 | 2023-04-28 |
 | [Adore You \- Ukulele Version](https://open.spotify.com/track/2zO27QsWDlFWJuquK2I7T5) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele 2020 Hits! \(Ukulele Version\)](https://open.spotify.com/album/5SO7tllIFBT4ZqFbRgdEkk) | 3:18 | 2022-05-20 |  |
+| [All About That Bass](https://open.spotify.com/track/4yFXcoJlvPFG4te0WU6rMr) | [Jack Adeline](https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP) | [All About That Bass](https://open.spotify.com/album/47YEvoiygJcNNQ98vilQ22) | 2:52 | 2023-10-06 |  |
 | [All I Have To Do Is Dream](https://open.spotify.com/track/0uRUYZp0xw5AZsP6Pgpuk0) | [Leroy Tompkins](https://open.spotify.com/artist/6SgzLaR3cZph7TDQQjMl1X) | [All I Have To Do Is Dream](https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ) | 2:44 | 2023-01-11 |  |
 | [All Night Long \(All Night\) \- Ukulele Version](https://open.spotify.com/track/5MXq0MnYShJ3OTBgH4wZ3e) | [Acoustic Guitar Revival](https://open.spotify.com/artist/2UFdlp1s0QLPsmCIipe2jV) | [Ukulele Renditions of Summer Classic Hits! \(Ukulele Version\)](https://open.spotify.com/album/70F59XAmAhAwfdCn4usM0l) | 4:00 | 2022-05-20 | 2022-12-02 |
 | [All Of Me](https://open.spotify.com/track/0q27gc0LjAclgicdlnG182) | [Kelly Tindall](https://open.spotify.com/artist/4xD621j6OgUo2hQYeHAfZ6) | [All of Me](https://open.spotify.com/album/6HyyJzRp1wsqrTYUTB6mcW) | 3:51 | 2022-05-20 |  |
 | [Another Love](https://open.spotify.com/track/0NLQqEnyWUpsoSNuo7uqBE) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Another Love](https://open.spotify.com/album/1ooUrQVIUBFcKiSHbRRYf3) | 4:17 | 2023-04-27 |  |
+| [Anti\-Hero](https://open.spotify.com/track/7vsapg8FI5tIqjS7jRDaAe) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Anti\-Hero](https://open.spotify.com/album/0iE79PyYkLzqXyA3l6AR76) | 3:02 | 2023-10-06 |  |
 | [As It Was](https://open.spotify.com/track/52bisgAFJviSmF2xMgLEzM) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [As It Was](https://open.spotify.com/album/4VgShTmWU6OObjS68YdfpI) | 3:01 | 2022-12-01 |  |
 | [Bad Habit](https://open.spotify.com/track/7gRHfXvxtOg6xlEcht8GDI) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Bad Habit](https://open.spotify.com/album/7zYdKWwlhwpzJpmXyTMV7S) | 1:39 | 2023-02-17 | 2023-04-28 |
 | [Best Day Of My Life](https://open.spotify.com/track/4CPQ4IMccumGxOA5naSzN8) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:22 | 2022-05-20 | 2023-04-28 |

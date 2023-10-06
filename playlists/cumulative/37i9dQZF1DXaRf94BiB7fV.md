@@ -4,7 +4,7 @@
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Janaki Easwar , Artwork: Isu Kim
 
-946 songs - 2 day 8 hr 6 min
+947 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,8 @@
 | [Usne Kaha Tha](https://open.spotify.com/track/7EQEywBZaviBSgK4GlOJlC) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Qurbat](https://open.spotify.com/album/1pwQRDtIQYcSreN5EBI8xU) | 4:20 | 2022-11-30 | 2023-01-12 |
 | [Validation](https://open.spotify.com/track/4Geol9pXgkbXpBcHFddDtq) | [Prithvi Prajosh](https://open.spotify.com/artist/2yUsvzjSZohLO6cw1sR6RW) | [Validation](https://open.spotify.com/album/4tTBhnb4FjCpLt2mIgA6RI) | 2:49 | 2021-12-01 | 2022-01-13 |
 | [Varsaad \(Secret Sessions X Collab Stories\)](https://open.spotify.com/track/2vXx4eNuzlPNVOw470M0ts) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Jaysinh Gadhavi](https://open.spotify.com/artist/2j9NJOUFz8NgVPxtTpi9qb), [Munaf Luhar](https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ) | [Varsaad \(Secret Sessions X Collab Stories\)](https://open.spotify.com/album/1q8v1RbyMdVCzk2IcktOVf) | 2:08 | 2022-09-28 | 2023-02-09 |
-| [Vertigo](https://open.spotify.com/track/0ckGQ7VSRg4qYXEbkO2ZKN) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll) | [Vertigo](https://open.spotify.com/album/0feeawG2bWFFtQWqeb0R31) | 2:58 | 2023-10-04 |  |
+| [Vertigo](https://open.spotify.com/track/0ckGQ7VSRg4qYXEbkO2ZKN) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll) | [Vertigo](https://open.spotify.com/album/0feeawG2bWFFtQWqeb0R31) | 2:58 | 2023-10-04 | 2023-10-06 |
+| [Vertigo](https://open.spotify.com/track/36JdKkTMMajV8uufBTHicp) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll), [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI) | [Vertigo](https://open.spotify.com/album/05rrQ3KRxL9VxdyLn8iaqC) | 2:58 | 2023-10-04 |  |
 | [Vibin'](https://open.spotify.com/track/4uMeaY8lAraCV4glvExK8G) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Ann Pearson](https://open.spotify.com/artist/5rCx0VvnTYhOwp3yP0KYEC) | [Vibin'](https://open.spotify.com/album/12IC2WznXfPgoHXX7EDDJ6) | 4:24 | 2021-12-01 | 2022-01-13 |
 | [Visions](https://open.spotify.com/track/3DvXWSw1RsdRYOutyqMZ7n) | [Soham](https://open.spotify.com/artist/2VWlTHS1YfU7p9zMPPGw78) | [Visions](https://open.spotify.com/album/6L9UmJraKH1b9AU2eE03sD) | 3:04 | 2023-08-30 |  |
 | [Waari Waari](https://open.spotify.com/track/0hVivBHawpFkWdy01Onags) | [Reeshabh Purohit](https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E), [Nisha Satpute](https://open.spotify.com/artist/4F0EXuNCrBbH7l5F10jomr), [Shadaj Godkhindi](https://open.spotify.com/artist/5wnE1lyqXM60jZvrjqo8JB) | [Waari Waari](https://open.spotify.com/album/3osAV9Y5dJyZwSYN9q45YR) | 4:12 | 2023-04-19 | 2023-05-24 |

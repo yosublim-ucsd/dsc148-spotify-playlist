@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. Foto: Soui Uno.",
-  "name": "Radar Al Sur",
+  "description": "El futuro est\u00e1 ac\u00e1. Foto: Soui Uno",
+  "name": "RADAR Al Sur",
   "tracks": [
     {
       "album": {
@@ -644,6 +644,28 @@
       "duration_ms": 175781,
       "name": "City Girls",
       "url": "https://open.spotify.com/track/4m6hHJ9GlMAZO0w7IqDT6j"
+    },
+    {
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Cosa Suya",
+      "url": "https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95"
     },
     {
       "album": {
@@ -2594,7 +2616,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 225938,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
@@ -2718,7 +2740,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 191278,
       "name": "Rothmans",
       "url": "https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ"
@@ -2962,6 +2984,24 @@
       "duration_ms": 175933,
       "name": "Tira Pa Tra",
       "url": "https://open.spotify.com/track/7e3eBgoH6HuhYrNMQavcgf"
+    },
+    {
+      "album": {
+        "name": "Todo el Tiempo",
+        "url": "https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194237,
+      "name": "Todo el Tiempo",
+      "url": "https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8"
     },
     {
       "album": {

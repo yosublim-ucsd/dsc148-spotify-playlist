@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP?si=nMRvI74rSYGrOtv6uQqHpg">Zabron Singers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,751 likes - 79 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,748 likes - 79 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 78 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 |
 | 79 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 |
 
-Snapshot ID: `MCxjNzMxZjA5ZDc0OTljZjEyNzM4MTlhZmQyNTYyMjJjMjUzNDBjNTNl`
+Snapshot ID: `MCw1ZDg2NDRjZjM0OTgwZDllZTFlMzFhNGYwYTRmYmRmM2M2NGQyNzI4`

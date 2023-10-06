@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-274 songs - 19 hr 46 min
+275 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0GapIKOkapTtO6cR6IM31x) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/3Cb9NZFOkVRqUjvhcggkSA) | 4:11 | 2022-07-27 | 2022-07-29 |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/0zij3s5siX5jyS1Nbn2eil) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [KISS](https://open.spotify.com/album/4nruUov2XnxA0UU9vfkAvJ) | 4:11 | 2022-07-27 |  |
 | [DAYBREAK'S BELL](https://open.spotify.com/track/39CyCLU4O3I001A3vNeHCv) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [TWENITY 2000\-2010](https://open.spotify.com/album/5QxCzeCXsmcPOGf6PhuLRv) | 4:16 | 2022-10-17 | 2022-11-13 |
+| [Days of Birth](https://open.spotify.com/track/7hyh4lMONUqCxVGWylqxbT) | [LINKL PLANET](https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS) | [Days of Birth](https://open.spotify.com/album/1LaoRmMtteqQYQcWVaMwax) | 4:11 | 2023-10-05 |  |
 | [Distance](https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [『elemental』](https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id) | 4:07 | 2023-04-21 |  |
 | [Distance](https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz) | [Distance](https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl) | 4:07 | 2022-07-27 | 2023-06-16 |
 | [Don't Stop!Carry On!](https://open.spotify.com/track/24xNsj7P4uVRiibGBLJ2Np) | [RD](https://open.spotify.com/artist/4g7EG9jvj6IkGitrD2i5uH) | [Don't Stop!Carry On!](https://open.spotify.com/album/2ZRE2cQDCWOlqvsW8Gczpl) | 3:30 | 2023-04-21 |  |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 113576,
       "name": "125er",
       "url": "https://open.spotify.com/track/4FvJBGhXpW2DVq6JD9ZMFT"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 182969,
       "name": "Daddy's Eyes",
       "url": "https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198120,
       "name": "Egal (was passiert)",
       "url": "https://open.spotify.com/track/0kNkyLekrgYVDt6EPmslv2"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 151573,
       "name": "K\u00f6nig der Nachbarschaft",
       "url": "https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65"
@@ -2590,6 +2590,24 @@
       "duration_ms": 181880,
       "name": "mein Bestes",
       "url": "https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ"
+    },
+    {
+      "album": {
+        "name": "Also bin ich",
+        "url": "https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170051,
+      "name": "Mensch",
+      "url": "https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB"
     },
     {
       "album": {
@@ -4223,6 +4241,24 @@
     },
     {
       "album": {
+        "name": "Utopie",
+        "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "Utopie",
+      "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "album": {
         "name": "She's A Star",
         "url": "https://open.spotify.com/album/3YDJfL56ce6fcxL4tWxvg6"
       },
@@ -4519,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206014,
+      "name": "Wild Ones",
+      "url": "https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8"
+    },
+    {
+      "album": {
         "name": "Would Do It Again",
         "url": "https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl"
       },
@@ -4672,6 +4726,24 @@
       "duration_ms": 204367,
       "name": "Zwei Menschen",
       "url": "https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz"
+    },
+    {
+      "album": {
+        "name": "\u00dcber dem Himmel",
+        "url": "https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK"
+      },
+      "artists": [
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146616,
+      "name": "\u00dcber dem Himmel",
+      "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
     },
     {
       "album": {

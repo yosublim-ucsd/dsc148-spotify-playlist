@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-158 songs - 10 hr 5 min
+159 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
 | [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 | 2022-05-11 |
 | [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 | 2023-03-23 |
+| [Boomerang](https://open.spotify.com/track/04lqMwyxNNijODnl84A1Wq) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Boomerang](https://open.spotify.com/album/2ii5yi8SZ42Aq4J0q2FoCb) | 3:27 | 2023-10-05 |  |
 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-06-28 |  |
 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-04-26 | 2022-07-29 |
 | [Bossa Antigua](https://open.spotify.com/track/641OktsOvVkwt59DOisKZM) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Paul Desmond: The Best of the Complete RCA Victor Recordings](https://open.spotify.com/album/0KowjFC1x1qBFKVpc9RbXP) | 4:45 | 2022-11-09 | 2022-11-13 |

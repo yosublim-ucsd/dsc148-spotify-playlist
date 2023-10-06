@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Grant Gilbert, Artwork: Fanélie Muselier
 
-1,907 songs - 4 day 7 hr 43 min
+1,912 songs - 4 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Crazy](https://open.spotify.com/track/07DlFY6pnS648Vc7YbuvYF) | [Colt Graves](https://open.spotify.com/artist/26YgSVVJxvx1LQsollyBjQ) | [Crazy](https://open.spotify.com/album/0gq8bTb8rOlRdERUHfcBGd) | 3:34 | 2022-10-19 | 2022-12-01 |
 | [Crazy 'Bout Her](https://open.spotify.com/track/0GPHbbttjfsfjBPkbsbmg6) | [Payton Howie](https://open.spotify.com/artist/4jkH4JituXJ9PS9Xu18WtV) | [Crazy 'Bout Her](https://open.spotify.com/album/66HsMcXW2mnmnltxXBZC2q) | 3:07 | 2023-02-15 | 2023-03-16 |
 | [Crazy On Me](https://open.spotify.com/track/6sIwwpRqvcaJxpbxPQ76du) | [Cody Webb](https://open.spotify.com/artist/6vuwhnCHdyyNbMFWWZ1hNs) | [Crazy On Me](https://open.spotify.com/album/4qjqZEPTJ8NWOqc8flVf7C) | 3:25 | 2023-02-15 | 2023-03-23 |
+| [Crossed That Line](https://open.spotify.com/track/3POp61cc7DWj2sZSITj1UQ) | [Brennan Story](https://open.spotify.com/artist/7l1LpKcZ4ifOZz65pl20Xz) | [Crossed That Line](https://open.spotify.com/album/4O166IOZiQBCTCW4sy157E) | 2:32 | 2023-10-05 |  |
 | [Crush](https://open.spotify.com/track/5mqGsaVbv5wvTzTnaDGbZu) | [Heidi Pack](https://open.spotify.com/artist/6TZ7AaC4Qs2RNdaPorBiPD) | [Crush](https://open.spotify.com/album/1C4bzjf9llY2sD3MfXfZDV) | 2:49 | 2022-09-21 | 2022-12-01 |
 | [Cry Boy](https://open.spotify.com/track/2SBXLUgAAlFSI5Tb8edWgR) | [Averie Bielski](https://open.spotify.com/artist/676QIPEG5lmdat856mRPo7) | [Cry Boy](https://open.spotify.com/album/21Cfl4VL0RJ9ddMGnbnQ1p) | 4:11 | 2022-01-26 | 2022-03-10 |
 | [Cry for Cowboys](https://open.spotify.com/track/0Ja7wSkjDyv5pJJuUBTkRX) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Cry for Cowboys](https://open.spotify.com/album/3kAMLd35N91MBQfn6XTM0J) | 2:48 | 2023-09-27 |  |
@@ -745,6 +746,7 @@
 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 | 2023-08-09 |  |
 | [Hell Of A Heartbreak](https://open.spotify.com/track/1YtSJkaTnzV2TNkGo2045F) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Hell Of A Heartbreak](https://open.spotify.com/album/3JFCNlunpvtxLZiGO3OQ5Z) | 3:02 | 2023-08-30 |  |
 | [Hell of a Hometown](https://open.spotify.com/track/62GUW1nFv6ekfNyprziCvo) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Hell of a Hometown](https://open.spotify.com/album/0JjAkZAQcXjrSPBrLXrJ9c) | 3:03 | 2023-06-21 | 2023-08-18 |
+| [Hell on My Heart](https://open.spotify.com/track/3sXZExdTZQnBcyPRfzlyoP) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [The Long Way Home](https://open.spotify.com/album/6flZe9WaoJjVOF6ZS9824w) | 3:21 | 2023-10-05 |  |
 | [Hell You Go Through](https://open.spotify.com/track/54liFMsJKL9r7WTuvyt5h5) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Hell You Go Through](https://open.spotify.com/album/5gMDe0h9IAkIUnPO4ZxNp6) | 3:16 | 2022-01-12 | 2022-02-10 |
 | [HER](https://open.spotify.com/track/1WWWRzovrMoWWFbcLULarn) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [HER](https://open.spotify.com/album/3fS65mJawh8LWTBAbhDxyP) | 3:52 | 2022-08-10 | 2022-09-15 |
 | [Her On Out](https://open.spotify.com/track/2zP9v1DeorQeZx1Z3EA3pu) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [Her On Out](https://open.spotify.com/album/3pZeTBS3yxRyg8eBgpVR4S) | 3:09 | 2022-06-15 | 2023-01-12 |
@@ -806,6 +808,7 @@
 | [Hungover Enough](https://open.spotify.com/track/7w0cnL0bgqz6edtxVUkBZ3) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [Hungover Enough](https://open.spotify.com/album/0H01XYXQ9MAFsXvsqwT2E5) | 3:42 | 2022-05-11 | 2022-06-30 |
 | [Hungover You](https://open.spotify.com/track/6P1vG1UUQNytbGkUTWkytN) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Hungover You](https://open.spotify.com/album/55MUpXVDqwNeKKZgSGRCcy) | 2:45 | 2022-01-12 | 2022-02-17 |
 | [Hurts A Little Less](https://open.spotify.com/track/3XTtGVqNenHHdZLazqUtiP) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Hurts A Little Less](https://open.spotify.com/album/2mxU8rMna3ore8C16ttSFE) | 2:45 | 2023-07-26 | 2023-09-14 |
+| [Hurts the Best](https://open.spotify.com/track/1abnvxVAa8EEPS51JjuV9Q) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Hurts the Best](https://open.spotify.com/album/2BBS4o7myEVNl21JAzLXAk) | 2:50 | 2023-10-05 |  |
 | [Hush Little Baby](https://open.spotify.com/track/4cjBtjqjURxGPKpnefT1OF) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Hush Little Baby](https://open.spotify.com/album/21Kco6snU7yW9SJfYHhsAy) | 2:54 | 2023-02-01 | 2023-02-23 |
 | [Hypocrite](https://open.spotify.com/track/77VG4IhAmLpF7dcXO0y2e1) | [Ruthie Collins](https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV) | [Cold Comfort +](https://open.spotify.com/album/6l0ZA9usXFyDz2V3PejlYD) | 3:31 | 2022-01-12 | 2022-02-17 |
 | [I Ain't Like That](https://open.spotify.com/track/2bR7qp6lOMzzFYgKiz2TEL) | [Holiday State](https://open.spotify.com/artist/51yDa6ThQLeL4BOyQXFPOJ) | [I Ain't Like That](https://open.spotify.com/album/6i7xWmlzA2DQqprgjGL82z) | 3:04 | 2022-09-02 | 2022-10-13 |
@@ -1808,6 +1811,7 @@
 | [Where There's Smoke \(There's a Liar\)](https://open.spotify.com/track/1zMz8MwMGv4nsRcQ0L4dzH) | [Daisy Briggs](https://open.spotify.com/artist/4BwM3rkYK1NpkBDb9mikM3) | [Where There's Smoke \(There's a Liar\)](https://open.spotify.com/album/2CtkVCibzXumLsFKrVhRB6) | 2:53 | 2022-04-13 | 2022-05-26 |
 | [Where We Are](https://open.spotify.com/track/6h1SHWsJ81fkkgD7GQYpKu) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Where We Are](https://open.spotify.com/album/1felNBmqgzWA2hIX4NsyLy) | 2:57 | 2023-03-01 | 2023-04-06 |
 | [Where's the Whiskey](https://open.spotify.com/track/0magsOYUA3wTRkqN1mxBTW) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Where's the Whiskey](https://open.spotify.com/album/5NLUd756rA6pnqBxdKeEQ5) | 3:12 | 2023-01-11 | 2023-02-16 |
+| [Whiskey & Me](https://open.spotify.com/track/6aIrYA3RLnaER75fmSWBJt) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Whiskey & Me](https://open.spotify.com/album/4U394NR9rGzbD4OtM6EexK) | 2:52 | 2023-10-05 |  |
 | [Whiskey and You](https://open.spotify.com/track/4OV3UQwaTCjKJjCqoI6FN8) | [Taylor Ingle](https://open.spotify.com/artist/5Y89Lian0H5o3KAyFysG35) | [Whiskey and You](https://open.spotify.com/album/41LxH8SZoqhpjdyHv7X9i3) | 3:44 | 2022-02-02 | 2022-03-17 |
 | [Whiskey Burns](https://open.spotify.com/track/4JnNWYp18rUF4ZSrxBOQQO) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Whiskey Burns](https://open.spotify.com/album/29FwqJ8oxRq0prtUNhJATy) | 3:25 | 2023-06-28 | 2023-08-10 |
 | [Whiskey In Me](https://open.spotify.com/track/4yL95hJslKc975ny7MYDUU) | [Brandon Whitley](https://open.spotify.com/artist/5DM5pNmK7uJIp7o7dvUDqO) | [Whiskey In Me](https://open.spotify.com/album/1GxVgEalTi7Bmlti8b5JFq) | 3:02 | 2022-09-21 | 2023-01-12 |
@@ -1828,6 +1832,7 @@
 | [Wholly](https://open.spotify.com/track/6Xg1rmRgThaAwPp0X6G2Ac) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Jordana Bryant](https://open.spotify.com/album/4o5OaeZhpYO99VbVUwpkiZ) | 3:24 | 2023-04-26 | 2023-05-24 |
 | [Why](https://open.spotify.com/track/5aD00KGEBKHn46G2NC9Jd7) | [Nathan Leazer](https://open.spotify.com/artist/0bR6kitztiUpuYnnTjDrYe) | [Why](https://open.spotify.com/album/0CjQLVffqKR9jAqZDjyvJ8) | 4:27 | 2022-08-10 | 2022-09-22 |
 | [Why Do I](https://open.spotify.com/track/1eZLNmuiIbmMkVA2DOfyO5) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Why Do I](https://open.spotify.com/album/147ujlHWCPdKRDVgfR47p3) | 2:52 | 2022-08-17 | 2022-09-29 |
+| [Why Do You Break My Heart](https://open.spotify.com/track/2Yvqw9ZukwR1KDt5NV4uSH) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG) | [Why Do You Break My Heart](https://open.spotify.com/album/3rXyitsmY08kpttLgR2Dgu) | 3:04 | 2023-10-05 |  |
 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 | 2021-12-01 | 2022-01-13 |
 | [Why I Called](https://open.spotify.com/track/4ea0sVdiH8GrFgm5yvMvKZ) | [Lathan Bryant](https://open.spotify.com/artist/19kwPHar3aRaydbCozFr5d) | [Why I Called](https://open.spotify.com/album/2UoDJFsF8SQngbTJhks8kf) | 4:43 | 2022-08-17 | 2022-09-29 |
 | [Why We Broke Up](https://open.spotify.com/track/6kd5baO6SfzrL8Jc23JSYr) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Why We Broke Up](https://open.spotify.com/album/7j1tsKIEf8epSilZ65cJ11) | 2:56 | 2022-06-08 | 2022-06-30 |

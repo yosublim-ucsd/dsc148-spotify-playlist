@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Gentle Christmas Mood",
+        "url": "https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt"
+      },
+      "artists": [
+        {
+          "name": "Lea van der Eule",
+          "url": "https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132124,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU"
+    },
+    {
+      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3"
       },
@@ -1012,6 +1030,24 @@
       "duration_ms": 194666,
       "name": "Let It Snow Let It Snow Let It Snow",
       "url": "https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl"
+    },
+    {
+      "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/23nkhkP3QpkgOncjxjfLqM"
+      },
+      "artists": [
+        {
+          "name": "Claire Pasteur",
+          "url": "https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/3bdI1ZM5nteHRupb6cqHYx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-183 songs - 8 hr 54 min
+185 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [La paloma](https://open.spotify.com/track/1SFkmsya6AYHk9xv3wvz1G) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Double d'or : du Paso au Tango](https://open.spotify.com/album/7BKj5gALmgvZZM4qvPsYsi) | 2:52 | 2022-11-25 | 2023-04-28 |
 | [La Parisienne](https://open.spotify.com/track/3RKt4BWo6MAmGd9LtlFwrZ) | [Corinne Lesage & Her Accordion](https://open.spotify.com/artist/5RxEmNfnXn9wlZxH6SuT6E) | [Souvenir From Paris Vol\. 3](https://open.spotify.com/album/2Cqf5TCoyaAC2oteGVa91i) | 2:11 | 2022-11-25 | 2023-05-19 |
 | [La pastourelle \(valse\)](https://open.spotify.com/track/0VnaFfaJKoivoa8DzJE6Cs) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Dansez maintenant](https://open.spotify.com/album/2n844853yULEG5qbGNR2Io) | 2:06 | 2022-02-18 |  |
+| [La Valse Des Lilas](https://open.spotify.com/track/1pO5SHUmtDJFMI0eoY7zUW) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [La Valse Des Lilas](https://open.spotify.com/album/4VOZymoJz9MfpfVoNXrahF) | 3:24 | 2023-10-06 |  |
 | [La Valse Des Niglos](https://open.spotify.com/track/0M4bg3q6Cjb1kVIfQJEBUR) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 3:11 | 2022-11-25 |  |
 | [La vie en rose](https://open.spotify.com/track/5nMtd6QVWMv8tiYkPlPuD7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 2:14 | 2022-02-18 | 2023-03-22 |
 | [La Vie En Rose](https://open.spotify.com/track/2U0WWWzYhnFieMhO9ONB1F) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [La Vie En Rose](https://open.spotify.com/album/3OG7njGt1Efjfyy1T1wwEs) | 3:02 | 2023-03-21 |  |
@@ -112,6 +113,7 @@
 | [Matin Calme](https://open.spotify.com/track/08fs9mOg7lKMvHumsUFVCQ) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 1:55 | 2023-03-21 | 2023-06-21 |
 | [Memories of Paris](https://open.spotify.com/track/7rPh14GzS3khcedkGjqAax) | [Dan Newton](https://open.spotify.com/artist/0Qtew6RxM1Q84UH2fX3tJA) | [Afternoon in Paris](https://open.spotify.com/album/3zluMWEr6bDzPdYn5S5KsV) | 2:32 | 2023-03-07 |  |
 | [Menage a Trois](https://open.spotify.com/track/6U2gPk43Wjx7uLEUqM1QFD) | [Gypsy Jazz Caravan](https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7) | [Sinister Amusement](https://open.spotify.com/album/0Ub9C7sPAcsgwuPeJkpBuk) | 4:54 | 2023-03-07 | 2023-04-14 |
+| [Michelle](https://open.spotify.com/track/73R24DdWcKKjyhncpVpHwN) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Michelle](https://open.spotify.com/album/6fYwfroKgX3TmiJNtcUtO2) | 2:18 | 2023-10-06 |  |
 | [Milou de Paname](https://open.spotify.com/track/6bzB2JPrAjwSHwNwasbkzS) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Germaine](https://open.spotify.com/album/0Uol4Z9p4oDWXY39jm9Z3p) | 2:49 | 2023-03-07 | 2023-08-19 |
 | [Mon amant de Saint\-Jean](https://open.spotify.com/track/6wsyd1VUuZjHZkXiHNHWhT) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:18 | 2022-02-18 |  |
 | [Mon Tournesol](https://open.spotify.com/track/3xWy7j5HeruNwzEACKLEav) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 2:15 | 2023-03-21 |  |

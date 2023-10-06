@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Koyo",
+  "description": "The best new music from the wide world of punk. Cover: blink-182",
   "name": "All New Punk",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 172283,
       "name": "A Sad Sad Song",
       "url": "https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G"
@@ -960,6 +960,24 @@
       "duration_ms": 168150,
       "name": "ALL ALONE",
       "url": "https://open.spotify.com/track/1Yc4MMQczqQLrnh4IgI1Am"
+    },
+    {
+      "album": {
+        "name": "All Grown Up",
+        "url": "https://open.spotify.com/album/6B4dV1pfLU5sUESOyMrE5i"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160806,
+      "name": "All Grown Up",
+      "url": "https://open.spotify.com/track/2Q9nOFPxxmgFULakzB3UXg"
     },
     {
       "album": {
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 109431,
       "name": "BISEXUAL AWAKENING",
       "url": "https://open.spotify.com/track/4LPZOecTVsIliFuUlRPSNd"
@@ -5033,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
+    },
+    {
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -5817,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "Diritto Di Obbedire",
+        "url": "https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ"
+      },
+      "artists": [
+        {
+          "name": "Golpe",
+          "url": "https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74990,
+      "name": "Diritto Di Obbedire",
+      "url": "https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh"
+    },
+    {
+      "album": {
         "name": "Touch the Ground",
         "url": "https://open.spotify.com/album/2xXpM9gsq5sTaUw7RhSyr6"
       },
@@ -6406,6 +6460,24 @@
       "duration_ms": 164965,
       "name": "dumb (feat. Tom The Mail Man)",
       "url": "https://open.spotify.com/track/1q5ooychN0b2PkpHQ2aQsq"
+    },
+    {
+      "album": {
+        "name": "Dysphoria Hoodie",
+        "url": "https://open.spotify.com/album/2eRNpPskxaHcCWGhtojJi2"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154396,
+      "name": "Dysphoria Hoodie",
+      "url": "https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17"
     },
     {
       "album": {
@@ -7181,6 +7253,24 @@
     },
     {
       "album": {
+        "name": "FATHER JOHN",
+        "url": "https://open.spotify.com/album/06kZNBKAs1Yfv8Z6Sdc4rQ"
+      },
+      "artists": [
+        {
+          "name": "Family Man",
+          "url": "https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200401,
+      "name": "FATHER JOHN",
+      "url": "https://open.spotify.com/track/6QaakLNuvBzzd7vMT50xMS"
+    },
+    {
+      "album": {
         "name": "FTHC",
         "url": "https://open.spotify.com/album/22KVoZ7EmeN7pAbWjb5FeH"
       },
@@ -7686,7 +7776,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 169059,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP"
@@ -9048,7 +9138,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 177168,
       "name": "Hand Grenade",
       "url": "https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0"
@@ -9608,6 +9698,24 @@
       "duration_ms": 192415,
       "name": "Here In Your Bedroom (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/0eOKxLySILR9x85cknejae"
+    },
+    {
+      "album": {
+        "name": "Here's Looking At You, Kid!",
+        "url": "https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY"
+      },
+      "artists": [
+        {
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Here's Looking At You, Kid!",
+      "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
     },
     {
       "album": {
@@ -10524,7 +10632,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 174333,
       "name": "I See My Body Through You",
       "url": "https://open.spotify.com/track/1fJqi8yj4bXUqVMTUWP8Yg"
@@ -11390,7 +11498,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 139875,
       "name": "JUST A MESS",
       "url": "https://open.spotify.com/track/70m0eHUsYW3Kgc9J5Ij3zL"
@@ -12216,7 +12324,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 139549,
       "name": "Let's Do Drugs",
       "url": "https://open.spotify.com/track/7uqSewRrClPQP3yc8Wpszh"
@@ -14746,7 +14854,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 168490,
       "name": "Nevergreen (with Kellin Quinn)",
       "url": "https://open.spotify.com/track/6KbVLikzxejsjnnU6Aalcd"
@@ -17941,6 +18049,28 @@
     },
     {
       "album": {
+        "name": "ring in ur ear",
+        "url": "https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT"
+      },
+      "artists": [
+        {
+          "name": "HUNNY",
+          "url": "https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh"
+        },
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198042,
+      "name": "ring in ur ear",
+      "url": "https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy"
+    },
+    {
+      "album": {
         "name": "Cult Classic",
         "url": "https://open.spotify.com/album/4ktqy9EW0cDMzcJjLguyk3"
       },
@@ -19508,7 +19638,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 135682,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45"
@@ -19837,6 +19967,28 @@
     },
     {
       "album": {
+        "name": "Sometimes (My Brain Doesn't Work) [feat. Between You & Me]",
+        "url": "https://open.spotify.com/album/2190fsTvxqbk4pYE2DgG33"
+      },
+      "artists": [
+        {
+          "name": "Somber Hills",
+          "url": "https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P"
+        },
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168263,
+      "name": "Sometimes (My Brain Doesn't Work) [feat. Between You & Me]",
+      "url": "https://open.spotify.com/track/0jDdAhIgHkzImkLzLw3J9S"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/3fbNnJvFuqLdhcYhYxgvPC"
       },
@@ -20126,6 +20278,24 @@
       "duration_ms": 130173,
       "name": "Spunky!",
       "url": "https://open.spotify.com/track/5grysZI4yqvJC0cpahuMsw"
+    },
+    {
+      "album": {
+        "name": "SSX Trickmont",
+        "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198566,
+      "name": "SSX Trickmont",
+      "url": "https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf"
     },
     {
       "album": {
@@ -20530,7 +20700,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118838,
       "name": "STRAP!",
       "url": "https://open.spotify.com/track/2qkf8hc9iDQPtJrin3CPiN"
@@ -21082,7 +21252,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd"
@@ -21917,6 +22087,40 @@
     },
     {
       "album": {
+        "name": "THE OUTSIDE (OUTSIDERS VERSION)",
+        "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        },
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        },
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        },
+        {
+          "name": "The Ready Set",
+          "url": "https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244648,
+      "name": "THE OUTSIDE - OUTSIDERS VERSION",
+      "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "album": {
         "name": "The Rent",
         "url": "https://open.spotify.com/album/7ctFtUf0RzsBUNzOIkl1kL"
       },
@@ -22130,7 +22334,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 130184,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/4YDcAzBJoWUPciONTYeWDv"
@@ -22686,7 +22890,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 199385,
       "name": "too young.",
       "url": "https://open.spotify.com/track/3odZxZFIrKMcYxH86UonVn"
@@ -22950,7 +23154,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 191574,
       "name": "Tunnel Vision Alibi",
       "url": "https://open.spotify.com/track/2nXRw3r7QhOAIiXmcH2lY6"
@@ -24073,6 +24277,24 @@
     },
     {
       "album": {
+        "name": "Weird Punx",
+        "url": "https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154582,
+      "name": "Weird Punx",
+      "url": "https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz"
+    },
+    {
+      "album": {
         "name": "Welcome To Hell",
         "url": "https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3"
       },
@@ -24742,6 +24964,24 @@
       "duration_ms": 172014,
       "name": "Would You Even",
       "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
+    },
+    {
+      "album": {
+        "name": "Hand Signals",
+        "url": "https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Would You Tell Picasso To Sell His Guitars?",
+      "url": "https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT"
     },
     {
       "album": {

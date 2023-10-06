@@ -1,15 +1,47 @@
 {
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Hoody(\ud6c4\ub514))",
-  "num_followers": 41012,
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Milena(\ubc00\ub808\ub098))",
+  "num_followers": 41114,
   "original_name": "K-R&B Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjE5YTFlY2IwMzNkYjRmODNmMzE2YTU4MDM5NTE0M2Q5ZmQ1ODBi",
+  "snapshot_id": "MCxmMGM2MTMzMmI4MDM2M2QwYjU3MzNhOTlmMjkxYmE3NTJmNWIzYzkw",
   "tracks": [
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "Mean",
+        "url": "https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
@@ -65,7 +97,75 @@
       "url": "https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "CAKE (Feat. TRADE L)",
+        "url": "https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "CAKE (Feat. TRADE L)",
+      "url": "https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "To you",
+        "url": "https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us"
+      },
+      "artists": [
+        {
+          "name": "XAVII",
+          "url": "https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh"
+        }
+      ],
+      "duration_ms": 172682,
+      "name": "To you",
+      "url": "https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "DAY N NIGHT",
+        "url": "https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "DAY N NIGHT",
+      "url": "https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
+      "album": {
+        "name": "NIGHT DRIVER",
+        "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
+      },
+      "artists": [
+        {
+          "name": "LIMZY",
+          "url": "https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Don't you know",
+      "url": "https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs"
+    },
+    {
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "A Love Supreme",
         "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
@@ -81,7 +181,7 @@
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U"
@@ -101,7 +201,7 @@
       "url": "https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -117,7 +217,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
@@ -133,7 +233,7 @@
       "url": "https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "I wanna be your deepest heart",
         "url": "https://open.spotify.com/album/7INMtslivPf4Op0LaJ8X6T"
@@ -161,7 +261,7 @@
       "url": "https://open.spotify.com/track/1L9RCVv1btqs0A75MKVmHP"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "NEWRNBERA",
         "url": "https://open.spotify.com/album/1EWG73KSFYGrnZ3InrANPo"
@@ -181,7 +281,7 @@
       "url": "https://open.spotify.com/track/2kPXxMK07nUGTL2eQdVM3O"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -197,7 +297,7 @@
       "url": "https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Comely",
         "url": "https://open.spotify.com/album/6yjwtup5l6X1YFEGfXtxNk"
@@ -213,7 +313,7 @@
       "url": "https://open.spotify.com/track/6loqQEv0DKuPc4ztKG4gAR"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "HEY",
         "url": "https://open.spotify.com/album/3deaJiF50MG6IWqj2t3qjZ"
@@ -229,7 +329,7 @@
       "url": "https://open.spotify.com/track/0DRqPbwXeljwRUK1VF6lta"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Hongdae R&B",
         "url": "https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb"
@@ -245,7 +345,7 @@
       "url": "https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
@@ -261,7 +361,7 @@
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Trello",
         "url": "https://open.spotify.com/album/1TSNJCcZXubDO54usy3hQ6"
@@ -281,7 +381,7 @@
       "url": "https://open.spotify.com/track/2canhObXy3qADDzIDMqtf5"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "NEWRNBERA",
         "url": "https://open.spotify.com/album/7CcYqPAWRlyOA5oXBOi8Zi"
@@ -301,7 +401,7 @@
       "url": "https://open.spotify.com/track/6AVagUXzjPGjXGaqHilS9Q"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Up Late",
         "url": "https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf"
@@ -317,7 +417,7 @@
       "url": "https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "SUNNY SIDE UP",
         "url": "https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl"
@@ -333,7 +433,7 @@
       "url": "https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -349,7 +449,7 @@
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Horizon - NCT LAB",
         "url": "https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "WONDERLAND",
         "url": "https://open.spotify.com/album/5DOF1qqnKtb9RAFuH6RJJA"
@@ -385,7 +485,7 @@
       "url": "https://open.spotify.com/track/5oEqqlCFYDivgrCabSoaiW"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "No.5",
         "url": "https://open.spotify.com/album/7sTaCC9hyAjG93JoQb9OR6"
@@ -401,7 +501,7 @@
       "url": "https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -417,7 +517,7 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "YOUR TIME",
         "url": "https://open.spotify.com/album/6vkd9JWoW9yyyewCfs8dBY"
@@ -433,7 +533,7 @@
       "url": "https://open.spotify.com/track/4dSp0RtgeLkoZpjgN8f9Lb"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "karaoke love",
         "url": "https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM"
@@ -453,7 +553,7 @@
       "url": "https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "B.T",
         "url": "https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1"
@@ -469,7 +569,7 @@
       "url": "https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "I Know (feat. Jayroh)",
         "url": "https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1"
@@ -489,7 +589,7 @@
       "url": "https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "insomnia (feat. KURO)",
         "url": "https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs"
@@ -509,7 +609,7 @@
       "url": "https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "NEW TEETH",
         "url": "https://open.spotify.com/album/6rvgvS5UBHKyehCptlQOga"
@@ -525,7 +625,7 @@
       "url": "https://open.spotify.com/track/0JHkSP9Qdc8MXrF7TN05pT"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "compromise (feat. Soo-Yeony & bluewoods)",
         "url": "https://open.spotify.com/album/2x7ql8FguTwmA6PhesCUOS"
@@ -549,7 +649,7 @@
       "url": "https://open.spotify.com/track/5Uy0nfGGfNP3NN6ElzJi5f"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "A Heartbreaking Story",
         "url": "https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0"
@@ -569,7 +669,7 @@
       "url": "https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Answer Answer",
         "url": "https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP"
@@ -589,7 +689,7 @@
       "url": "https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "For you",
         "url": "https://open.spotify.com/album/0Q4mZDKAmY6bMajZJ9Vsrc"
@@ -605,7 +705,7 @@
       "url": "https://open.spotify.com/track/23mLrZO5Ff4UJYvJoTSu58"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
@@ -621,7 +721,7 @@
       "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/52WFtZNiJmDRxWHzEYYYnP"
@@ -637,7 +737,7 @@
       "url": "https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "BAD TRIP",
         "url": "https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc"
@@ -657,7 +757,7 @@
       "url": "https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd"
@@ -673,7 +773,7 @@
       "url": "https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Purple Love (Feat. Leellamarz)",
         "url": "https://open.spotify.com/album/7su3q5pR0XgyW0TZR2vau9"
@@ -689,7 +789,7 @@
       "url": "https://open.spotify.com/track/0Jo0mDbEb7eJYf4H13M2az"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Andrea\u2032s Song",
         "url": "https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8"
@@ -709,7 +809,7 @@
       "url": "https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Emotional Train",
         "url": "https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59"
@@ -729,7 +829,7 @@
       "url": "https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "What i can't forget is",
         "url": "https://open.spotify.com/album/7Fcsm6kJuA3N2EVZ4ExNm3"
@@ -745,7 +845,7 @@
       "url": "https://open.spotify.com/track/1LRGV6MpzodcHHw6CTIcLR"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz"
@@ -761,23 +861,7 @@
       "url": "https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "You Are The Sea",
-      "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
@@ -793,91 +877,7 @@
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
     },
     {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "Yooou (Feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga"
-      },
-      "artists": [
-        {
-          "name": "PARK HYEON JIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Yooou (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "Safely arrived \u2708",
-        "url": "https://open.spotify.com/album/6bW8E912AETQyFdtB6OD14"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 180040,
-      "name": "airplane-mode",
-      "url": "https://open.spotify.com/track/1q4FmOZDVNqozyHHHF5Qef"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "Love Tree",
-        "url": "https://open.spotify.com/album/0kvZ99xBCsYUGZqMCNTiD1"
-      },
-      "artists": [
-        {
-          "name": "JUNJE",
-          "url": "https://open.spotify.com/artist/6cJKMYIKYbO8MSNEYLg0PB"
-        }
-      ],
-      "duration_ms": 224229,
-      "name": "Love Tree",
-      "url": "https://open.spotify.com/track/4NBC72liv5nVfBAq8icUK6"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "FRR",
-      "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
+      "added_at": "2023-10-05 13:09:11",
       "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M"
@@ -891,46 +891,6 @@
       "duration_ms": 244546,
       "name": "Why",
       "url": "https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "You are my spring",
-        "url": "https://open.spotify.com/album/3r6HeTeQd7JlGmuhhiGwGe"
-      },
-      "artists": [
-        {
-          "name": "merrymerryseoul",
-          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
-        },
-        {
-          "name": "JoOhA",
-          "url": "https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX"
-        },
-        {
-          "name": "Still",
-          "url": "https://open.spotify.com/artist/6IbdxPqmhxU87FC6GneXxX"
-        }
-      ],
-      "duration_ms": 166281,
-      "name": "Lay me by your side (feat. JoOhA & Still)",
-      "url": "https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq"
-    },
-    {
-      "added_at": "2023-10-02 12:44:09",
-      "album": {
-        "name": "Tonite",
-        "url": "https://open.spotify.com/album/60TEBgKHLlYS86WTewsbuZ"
-      },
-      "artists": [
-        {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Tonite",
-      "url": "https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ"
     }
   ],
   "unique_name": "K-R&B Now",

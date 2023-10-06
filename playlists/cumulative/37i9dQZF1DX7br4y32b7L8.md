@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#wiebenjij \#rihanna \#noano7k \#koekje \#joost
 
-248 songs - 12 hr 24 min
+249 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Voilà](https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [On n’enferme pas les oiseaux](https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD) | 2:57 | 2023-08-11 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-07 |  |
 | [Volg Je Niet](https://open.spotify.com/track/4gfHKRWnz0TJUNodIOv1tw) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VIER](https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy) | 3:14 | 2023-07-04 | 2023-09-07 |
+| [Voor Onze Club](https://open.spotify.com/track/2yMBGJ1w5pKuHXador97HD) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Voor Onze Club](https://open.spotify.com/album/3tpdKW8lJbZJJLEc05JtPB) | 2:22 | 2023-10-05 |  |
 | [Vraagtekens](https://open.spotify.com/track/1HMV4HV1r7icaylIaadle6) | [Vxlious](https://open.spotify.com/artist/0Bzf7UfWcqZ7ATMQ1Mx6sf) | [Vraagtekens](https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH) | 2:07 | 2023-09-06 | 2023-10-03 |
 | [Vreemde Eend](https://open.spotify.com/track/0GV0lD9rGpwjfcSjkjLagj) | [Lisanne Dijkstra](https://open.spotify.com/artist/0wIu2ctLBUxffORP0R84bk) | [Vreemde Eend](https://open.spotify.com/album/2jbfrnX63Zbfg3lOeKIoOm) | 2:28 | 2023-07-04 |  |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |

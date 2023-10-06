@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DTF",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -496,6 +496,24 @@
       "duration_ms": 154758,
       "name": "Audrey Tautou",
       "url": "https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/7khYQ0rYRwrJlkwvFtYggc"
+      },
+      "artists": [
+        {
+          "name": "Tensei",
+          "url": "https://open.spotify.com/artist/4l8e0PM8xxd2dbm74mGsQn"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247936,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/6qOuClqwGnHV9GSlp6zCJa"
     },
     {
       "album": {
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 223636,
       "name": "Dans le sang",
       "url": "https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 178468,
       "name": "EVIDEMMENT",
       "url": "https://open.spotify.com/track/3fj5hmowVufbUNFjumf53c"
@@ -2154,6 +2172,24 @@
       "duration_ms": 209453,
       "name": "High",
       "url": "https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F"
+    },
+    {
+      "album": {
+        "name": "HUMAIN",
+        "url": "https://open.spotify.com/album/7Hb4JKkGuZNwUQJviSMSsN"
+      },
+      "artists": [
+        {
+          "name": "MPablo",
+          "url": "https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196389,
+      "name": "HUMAIN",
+      "url": "https://open.spotify.com/track/79cnH6HnZT0dJ3muUl6VgZ"
     },
     {
       "album": {
@@ -3750,7 +3786,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 195720,
       "name": "Pi\u00e8ces manquantes",
       "url": "https://open.spotify.com/track/5qo6jFaycYDFdMxoSz5NWA"
@@ -4638,6 +4674,24 @@
       "duration_ms": 155155,
       "name": "Southside",
       "url": "https://open.spotify.com/track/3u7O99o8DB5D3r1AL37v0g"
+    },
+    {
+      "album": {
+        "name": "MIROIR",
+        "url": "https://open.spotify.com/album/4ZtlOqJwGEBc5t9umPxWtP"
+      },
+      "artists": [
+        {
+          "name": "YUME",
+          "url": "https://open.spotify.com/artist/7IgkOITmhunwpVY5EbvXlu"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "SOUVENIRS",
+      "url": "https://open.spotify.com/track/070rxSgfnTVjn9kikhGLU2"
     },
     {
       "album": {

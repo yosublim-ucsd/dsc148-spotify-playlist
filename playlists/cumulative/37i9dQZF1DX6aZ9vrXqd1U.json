@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Days of Birth",
+        "url": "https://open.spotify.com/album/1LaoRmMtteqQYQcWVaMwax"
+      },
+      "artists": [
+        {
+          "name": "LINKL PLANET",
+          "url": "https://open.spotify.com/artist/6sCkG9HLpaMHNATMZhHseS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Days of Birth",
+      "url": "https://open.spotify.com/track/7hyh4lMONUqCxVGWylqxbT"
+    },
+    {
+      "album": {
         "name": "\u300eelemental\u300f",
         "url": "https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id"
       },

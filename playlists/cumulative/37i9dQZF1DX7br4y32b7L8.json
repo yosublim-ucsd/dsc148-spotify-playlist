@@ -4633,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Voor Onze Club",
+        "url": "https://open.spotify.com/album/3tpdKW8lJbZJJLEc05JtPB"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Voor Onze Club",
+      "url": "https://open.spotify.com/track/2yMBGJ1w5pKuHXador97HD"
+    },
+    {
+      "album": {
         "name": "Vraagtekens",
         "url": "https://open.spotify.com/album/5LiHaTVav0xAbZRAWUwqGH"
       },

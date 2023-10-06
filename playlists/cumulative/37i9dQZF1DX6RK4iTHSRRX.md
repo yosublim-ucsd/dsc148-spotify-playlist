@@ -4,10 +4,11 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-94 songs - 3 hr 48 min
+97 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/05nDWMKbb0Kr39EazJlCbw) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/album/6XTqe4kwzC01JL9xxEa74L) | 2:01 | 2023-10-06 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/3OnuxZ7Z5V1G9CHERUYRAa) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [All I Want For Christmas Is You](https://open.spotify.com/album/2iccMKcXHKvS9ufO5gpcoY) | 3:28 | 2021-12-22 |  |
 | [Amazing Grace](https://open.spotify.com/track/7CyEcDgxs2blfkeCQFTF7P) | [Leonardo Paul](https://open.spotify.com/artist/4LE7Z7AiUvkJDoTw2a0N0b) | [Classic Christmas Songs on Guitar](https://open.spotify.com/album/7kaACQqMxim6x99s3WSJ4B) | 2:43 | 2021-12-22 |  |
 | [Angels from the Realms of Glory](https://open.spotify.com/track/1poGqy9YVP0mfu7NUhryCU) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [O Little Town of Bethlehem: Christmas Miniatures for Classical Guitar](https://open.spotify.com/album/6qiHGxAMfUzMkqaA9OAvtK) | 1:11 | 2021-12-22 |  |
@@ -25,6 +26,7 @@
 | [Christmas Love](https://open.spotify.com/track/6eNcbP82DP0tLKSZV0ZA7L) | [Sarah Songbourn](https://open.spotify.com/artist/1oefGJtzFrnJGtxr0WCHD6) | [Coldest Winter](https://open.spotify.com/album/4rU7Fcx5T2WCgV52RqV71M) | 2:59 | 2022-11-11 |  |
 | [Christmas Lullaby \- Instrumental Version](https://open.spotify.com/track/14D278IdrUJIececBqGfO8) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Christmas Lullaby \(Instrumental Version\)](https://open.spotify.com/album/208VQeA3OFkJay3odbdQqc) | 3:02 | 2022-11-11 |  |
 | [Christmas Time is Here](https://open.spotify.com/track/2r1v0uJmuLHfKHMpGtzJTu) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 1:58 | 2021-12-22 |  |
+| [Cold December Night](https://open.spotify.com/track/0Qf7ZmXDdrl7xpxud2O5vh) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Cold December Night](https://open.spotify.com/album/4GDSvwB4IvoIBWGE1hLvWC) | 2:00 | 2023-10-06 |  |
 | [Come All Ye Faithful](https://open.spotify.com/track/22igCA5r3MM4M2POVWyxG5) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Come All Ye Faithful](https://open.spotify.com/album/4mfcjLitpc2dxr3H6xrZs1) | 2:14 | 2021-12-22 |  |
 | [Coventry Carol](https://open.spotify.com/track/2E58NGSvZRVE94PY8fpCHZ) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:26 | 2021-12-22 |  |
 | [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 | 2021-12-22 |  |
@@ -46,6 +48,7 @@
 | [Home for the Holidays \(Instrumental Version\)](https://open.spotify.com/track/2w2pafEMaKxEmK2K3eZYEo) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Christmas Background Music on Ukulele](https://open.spotify.com/album/7bdbRsExh8aNCkNRdSvEDr) | 2:37 | 2021-12-22 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4ZmAbnW3w6YUymH6QkzsuE) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Jingle Bell Rock](https://open.spotify.com/album/7gEXzGjALzCSU1Jbx6cXg3) | 2:24 | 2021-12-22 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/5GsWzzGYFaw1mrW3WwkGlk) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [I Saw Three Ships](https://open.spotify.com/album/2yhYfuNKEbUqWzmuZHnclf) | 1:44 | 2022-11-11 |  |
+| [I Want A Hippopotamus For Christmas](https://open.spotify.com/track/1WZfN51Ppajwbb1CHb7ymQ) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Want A Hippopotamus For Christmas](https://open.spotify.com/album/1OK1lQUpD4Hqy9tgJDwoFF) | 2:13 | 2023-10-06 |  |
 | [I Wonder as I Wander](https://open.spotify.com/track/4TYBwJ5fGKnPqin8qozC8A) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 1:04 | 2021-12-22 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 | 2021-12-22 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/2yYTQ6Jjz9lSIcytWrdbTq) | [Ernie Rissmann](https://open.spotify.com/artist/6jc0zP2sIU3iDeJBYcH8jt) | [Silent Night \(Christmas Carols on Acoustic Guitar\)](https://open.spotify.com/album/5a8rDCGZi82Uo1mcAF9Oq7) | 2:09 | 2021-12-22 |  |

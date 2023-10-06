@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 176346,
       "name": "Feel Alright",
       "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 199938,
       "name": "Forever a Prisoner",
       "url": "https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
@@ -772,6 +772,24 @@
       "duration_ms": 279919,
       "name": "Home Is Where...",
       "url": "https://open.spotify.com/track/3joE5kBQ4R85LrU8NG4SdZ"
+    },
+    {
+      "album": {
+        "name": "Huddle by the Fire",
+        "url": "https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Dimes",
+          "url": "https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161033,
+      "name": "Huddle by the Fire",
+      "url": "https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB"
     },
     {
       "album": {
@@ -1025,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Love to See You Cry",
+        "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
+      },
+      "artists": [
+        {
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262286,
+      "name": "Love to See You Cry",
+      "url": "https://open.spotify.com/track/1OyaisllB9RSnmKa6tcPzY"
+    },
+    {
+      "album": {
         "name": "Love You So",
         "url": "https://open.spotify.com/album/5NHEVyO1PSXb0F1n1gjH55"
       },
@@ -1054,7 +1090,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 220880,
       "name": "Made Up Mind",
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
@@ -1618,7 +1654,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
@@ -1640,7 +1676,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 244060,
       "name": "Times",
       "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 208733,
       "name": "Tomorrow Me",
       "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198722,
       "name": "Wild Palomino",
       "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"

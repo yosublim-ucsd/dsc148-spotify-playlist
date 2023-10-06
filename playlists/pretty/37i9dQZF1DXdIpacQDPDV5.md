@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,675 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,677 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 22 | [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 |
 | 23 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 |
 | 24 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
-| 25 | [Lose This Feeling](https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State of Trance Radio Top 50 \- 2023, Vol\. 2](https://open.spotify.com/album/2ZuGymmpNiLS8xsNJPQRFi) | 2:26 |
+| 25 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 |
 | 26 | [Fade Out \(with MKLA\)](https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Fade Out \(with MKLA\)](https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE) | 3:50 |
 | 27 | [Ishq Hua \(Love Happened\)](https://open.spotify.com/track/5ocxKvCTMUeqjrECZaSgOt) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Ishq Hua \(Love Happened\)](https://open.spotify.com/album/0lz6TWytsI9SKtENs2A4ue) | 2:54 |
 | 28 | [Shooting Star](https://open.spotify.com/track/4cyv7rbelIKE0pewkG86Zn) | [Vito V](https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg) | [Shooting Star](https://open.spotify.com/album/4jRF0Mv4hVtcn96a1AFIfO) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 59 | [Follow You](https://open.spotify.com/track/11BhlNPxHSFl2vz0sIgrqQ) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Follow You](https://open.spotify.com/album/4bfLExHNoTVZhmpdJPyLUQ) | 3:52 |
 | 60 | [The Oracle](https://open.spotify.com/track/7lzd3UcJS2rHrBThYKLXJ6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [The Oracle](https://open.spotify.com/album/01jQoXxIg3KlnPLKBZZCLR) | 6:49 |
 
-Snapshot ID: `MCw1MzU5NmJhZTJjZWI2ZmEyY2NhNmNhMzUzYTIzZDNlMTFjOTMwNDcx`
+Snapshot ID: `MCxmZWI4Mzg5MTdhZmRhNjk2NDhhNmY1MGFjZGQ4MTc0MzI5ZDRlN2U4`

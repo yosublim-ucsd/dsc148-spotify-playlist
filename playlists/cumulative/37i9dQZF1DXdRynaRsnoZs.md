@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-91 songs - 3 hr 35 min
+93 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1rRppTsaEXtYqqQ8ZtzgoM) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 4:55 | 2021-12-22 | 2022-10-15 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 | 2022-10-14 |  |
 | [Hark! The Herald Angels Sing \- Piano](https://open.spotify.com/track/6kE9hyVw6pX9BMuI6PHYfY) | [Anders Roy](https://open.spotify.com/artist/0GLWOkUqKDMF6foWDMzOy0) | [Holiday Piano Classics](https://open.spotify.com/album/0ZRzneVliO3pRj1qTLOlo8) | 2:24 | 2021-12-22 | 2022-10-15 |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Gentle Christmas Mood](https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt) | 2:12 | 2023-10-06 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-22 |  |
 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 | 2022-10-14 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4lywk6avy47Pfa0z6z65wR) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO) | 1:44 | 2022-10-14 |  |
@@ -63,6 +64,7 @@
 | [Joy to the World](https://open.spotify.com/track/1ZWIyUI8An10AbGznyAJS5) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 1:48 | 2022-12-16 |  |
 | [Joy to the World \(Instrumental\)](https://open.spotify.com/track/2XG2tfepUFV6ujKSLFmL7u) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:56 | 2021-12-22 | 2022-12-17 |
 | [Let It Snow Let It Snow Let It Snow](https://open.spotify.com/track/15a8V1kcwfqimlHRe5n6Yl) | [Universe Mind](https://open.spotify.com/artist/2awxN1MZogaVe4XxP4NNjG) | [Christmas Lullabies](https://open.spotify.com/album/5gcFtGz8MFUST69lxrvVol) | 3:14 | 2021-12-22 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/3bdI1ZM5nteHRupb6cqHYx) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [Little Drummer Boy](https://open.spotify.com/album/23nkhkP3QpkgOncjxjfLqM) | 2:08 | 2023-10-06 |  |
 | [Lo, How a Rose E'er Blooming \(Instrumental Version\)](https://open.spotify.com/track/3sDAasJyBhCo7swSa9MHrk) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 2:37 | 2021-12-22 |  |
 | [Mary’s Boy child](https://open.spotify.com/track/61VQF7MNKpHtCBZRr3TePx) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:26 | 2022-09-22 |  |
 | [När Juldagsmorgon glimmar](https://open.spotify.com/track/02zxsFUsoxirgTvDzB1aAn) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Vaggvisor Vid Jul](https://open.spotify.com/album/4gzft6hAT4tnZqZGjxFgh7) | 1:37 | 2022-10-14 | 2023-09-15 |

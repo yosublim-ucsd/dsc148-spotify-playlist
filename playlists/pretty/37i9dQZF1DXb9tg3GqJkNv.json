@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Charmaine",
-  "num_followers": 8014,
+  "num_followers": 8068,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGE4ZWM1NGIwM2E0YTVmMzQxOTE5MWMwYTUwMjhlYzRhNTU0OTBm",
+  "snapshot_id": "MCwwOGI2ZWExYjFiMjFkZDA1ODA3ZDNmZmI1NzhjYzExNjQ1NGM5ZThl",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Pause Play",
-        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
-      },
-      "artists": [
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Pause Play",
-      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Griselda Blanco",
         "url": "https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 207293,
       "name": "Griselda Blanco",
       "url": "https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Pause Play",
+        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Pause Play",
+      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 166000,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198383,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Til The Morning",
         "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 151310,
       "name": "KING OF THE TOWN",
       "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198383,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+      },
+      "artists": [
+        {
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+        }
+      ],
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Northside Jane",
         "url": "https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
       },
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Alejandro Sosa",
-        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
       },
       "artists": [
         {
-          "name": "Pengz",
-          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
-        },
-        {
-          "name": "6ixbuzz",
-          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Alejandro Sosa",
-      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

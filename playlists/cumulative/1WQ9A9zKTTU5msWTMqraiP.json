@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Flicker Of Life",
+        "url": "https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3"
+      },
+      "artists": [
+        {
+          "name": "The Voynich Code",
+          "url": "https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261032,
+      "name": "A Flicker Of Life",
+      "url": "https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1"
+    },
+    {
+      "album": {
         "name": "A Plague",
         "url": "https://open.spotify.com/album/1A2X5gwjWtJug5Q9knlhMO"
       },
@@ -386,8 +404,12 @@
           "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
         },
         {
-          "name": "Aversions Crown",
-          "url": "https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc"
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        },
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/4SfGXpHSewqIj7QZU8ZstL"
         }
       ],
       "date_added": "2022-09-17",

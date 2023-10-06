@@ -2,13 +2,14 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Arco.
+> Lo mejor del rock de aquí, como Los Zigarros.
 
-333 songs - 21 hr 38 min
+334 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(incontrolable\)](https://open.spotify.com/track/5fpiMcL81I9166vrKkKTBJ) | [30s40s50s](https://open.spotify.com/artist/0Gmn8HDAKgkkvxdsAiwzve), [Bely Basarte](https://open.spotify.com/artist/6akDfyocmsREgR5eUXZt3I), [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [INCONTROLABLE](https://open.spotify.com/album/0AOsTlwaNyRYbf4p80nygq) | 2:36 | 2023-03-02 | 2023-03-18 |
+| [100.000 bolas de cristal](https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [Acantilados](https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A) | 4:37 | 2023-10-05 |  |
 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 | 2022-05-19 |  |
 | [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 | 2022-07-07 | 2022-07-29 |
 | [A Dios](https://open.spotify.com/track/6M5XPLlWAFUAPX6wG5dmSR) | [Malonda](https://open.spotify.com/artist/4Abn3coCPVGkBP3hfPJIgG), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [A Dios](https://open.spotify.com/album/1IM9qP37UMdPwir6SX5d9T) | 3:50 | 2023-05-11 | 2023-06-02 |
@@ -322,7 +323,7 @@
 | [Tómalo](https://open.spotify.com/track/2iNJLWve5nchk4PJZQMevq) | [O'Funk'illo](https://open.spotify.com/artist/3GaVCQ4OFLD0BdrXoCKKh8), [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Tómalo](https://open.spotify.com/album/60us7zkHW1FYUCy0ppS1Gz) | 3:33 | 2023-06-22 | 2023-06-30 |
 | [Tú ya lo sabes](https://open.spotify.com/track/40u2FUHUMV8oX1lifP6w49) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Tú ya lo sabes](https://open.spotify.com/album/5bWkiHpl38kYEn2a3r1peb) | 4:30 | 2022-09-08 | 2022-09-23 |
 | [Un Poco de Amor](https://open.spotify.com/track/59gm4EA48jXDNrvfDGNlj4) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Un Poco de Amor](https://open.spotify.com/album/3kZtuPCnTQAy9IgTmxqi98) | 3:24 | 2022-05-19 | 2022-06-24 |
-| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 |  |
+| [Una noche de amor desesperada](https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un mal sueño](https://open.spotify.com/album/0OwAywS8ge5KRakvqnOVmw) | 4:53 | 2022-05-26 | 2023-10-06 |
 | [Una Noche Sin Ti](https://open.spotify.com/track/3oUITstGqQVTlFyF32H1Un) | [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Burning \(Singles Collection\)](https://open.spotify.com/album/1mq9A7RUXMO88fontI2jCN) | 4:19 | 2022-06-09 | 2022-07-13 |
 | [Urgente](https://open.spotify.com/track/6skMg3jxXmP2rYp5k7IIcY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Urgente](https://open.spotify.com/album/67ni11vAsCYVVuZgPkeigJ) | 4:19 | 2023-03-16 | 2023-03-31 |
 | [Uróboros](https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Uróboros](https://open.spotify.com/album/3VYt0Dcj9hPc9ztby9ykl9) | 3:37 | 2023-07-13 |  |

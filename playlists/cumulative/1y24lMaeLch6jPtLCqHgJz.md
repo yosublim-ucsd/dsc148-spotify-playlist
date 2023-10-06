@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-223 songs - 11 hr 31 min
+224 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Stay With You](https://open.spotify.com/track/5Vvp38zcvfJVGqnsaSgv3X) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay With You](https://open.spotify.com/album/7mEELkdCH45bqGdq3oCY1C) | 3:28 | 2022-07-29 | 2023-03-31 |
 | [Stockholm \- Sixth Sense Remix](https://open.spotify.com/track/4wtzoc7eVAEZa10XGnOFSM) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up) | [\#aparttogether \(The Remixes Part 1\)](https://open.spotify.com/album/0OeB4MQV2JLoX7JlIdKwvG) | 3:17 | 2022-08-26 | 2023-08-11 |
 | [Stolen Moments](https://open.spotify.com/track/6QYLbKqBAYsA6lXzwAfzLQ) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [WildVibes](https://open.spotify.com/artist/6BEqzY6INFaHKQ2mqWWuNs), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Stolen Moments](https://open.spotify.com/album/5ZZ1BPSf7ODvcdIsgQmBah) | 3:07 | 2022-07-29 | 2022-12-24 |
+| [Stuck On You](https://open.spotify.com/track/1Ap1yolBPHHY5bwCdunczS) | [Simon Miles](https://open.spotify.com/artist/3WiIsUJkLIbWjpIEF562dh), [Asish Nikhil](https://open.spotify.com/artist/7M8nOk20KqAFd5u7PaIjuy), [Natasha Samsara](https://open.spotify.com/artist/3ugWvdKIhgYix2oXWSFYe8) | [Stuck On You](https://open.spotify.com/album/4wwikw40hrgrQuUg02xs8R) | 2:49 | 2023-10-05 |  |
 | [Survivors](https://open.spotify.com/track/1Ip9YT9kPBC0rl7qCm3skS) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Philipp](https://open.spotify.com/artist/2P6LX2s7jHzyg6b8qL1R6Y), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Survivors](https://open.spotify.com/album/0O3ZeuYT26a0DY8fUvRVE1) | 3:16 | 2022-07-29 | 2022-12-03 |
 | [Sweet Escape](https://open.spotify.com/track/0vnE0t35MhE3xsrlh2fzKz) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Slake Slagger](https://open.spotify.com/artist/72tp31XqMIjIopAqxgD9H2), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sweet Escape](https://open.spotify.com/album/6lK6ilzbP802Ohuycny92o) | 3:04 | 2022-07-29 | 2023-08-11 |
 | [Sweet Mistake](https://open.spotify.com/track/1VYHeY9ulPnsMHKvXPyG5H) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Sweet Mistake](https://open.spotify.com/album/35I9B0MgtuaTmkOCunJp0L) | 3:33 | 2022-07-29 | 2023-07-29 |

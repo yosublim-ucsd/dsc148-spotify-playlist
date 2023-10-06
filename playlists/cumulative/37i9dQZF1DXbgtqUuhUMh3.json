@@ -5381,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "Lehqt Nafsy",
+        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199076,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
+    },
+    {
+      "album": {
         "name": "Marhaban",
         "url": "https://open.spotify.com/album/087Ek5lR2SpnQ0Yn5RQ641"
       },
@@ -6601,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Saahabit Saif",
+        "url": "https://open.spotify.com/album/1X2ySoDIHfDk2pVBoR8cTc"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177421,
+      "name": "Saahabit Saif",
+      "url": "https://open.spotify.com/track/6ftsJkHUh93b1VEFDKVmSy"
+    },
+    {
+      "album": {
         "name": "Saet Ramel",
         "url": "https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ"
       },
@@ -6902,7 +6938,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180384,
       "name": "Shi Makan",
       "url": "https://open.spotify.com/track/7izL60kS8YDwvuUdqMzmXM"
@@ -7086,7 +7122,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 209454,
       "name": "Siahak Tarab",
       "url": "https://open.spotify.com/track/7ludZiL5pdp3QKDjEEmMt0"
@@ -7796,7 +7832,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 207058,
       "name": "Wesh El Sobh",
       "url": "https://open.spotify.com/track/07XdJBtcMX89IbRmVyMQ7Q"
@@ -9048,6 +9084,24 @@
       "duration_ms": 195750,
       "name": "\u062d\u0628\u0643 \u0631\u0628\u062d",
       "url": "https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0636\u0646 \u0627\u0628\u0648\u064a\u0627",
+        "url": "https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8"
+      },
+      "artists": [
+        {
+          "name": "Mai Kassab",
+          "url": "https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "\u062d\u0636\u0646 \u0627\u0628\u0648\u064a\u0627",
+      "url": "https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7"
     },
     {
       "album": {

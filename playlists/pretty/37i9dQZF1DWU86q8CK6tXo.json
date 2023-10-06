@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:5GGJosGMs08YEmKTZJe1fL\u201d>Suki Waterhouse</a> ",
-  "num_followers": 43397,
+  "num_followers": 43422,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWFjNjgwNTE0MGY3OTIzNWFkZmM3MzU4YTBmNjU3YzExNjQ0Y2Rk",
+  "snapshot_id": "MCxjNjA3NTUzNTFiOTYxNjJlMjEyNTllZTBkNzNjMjExODgwNmVmZjIy",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -391,18 +391,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "I Got Heaven",
-        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
       "artists": [
         {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 178933,
-      "name": "I Got Heaven",
-      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+      "duration_ms": 171334,
+      "name": "PATRAS",
+      "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -423,6 +427,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/7AcTyeT0AnB9CmNdi0Tq3l"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "I Got Heaven",
+      "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Big Mad (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/04jIgr8btAumWJzTRIhrxl"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 110781,
       "name": "Big Mad (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6UliIDFULJHvJpSfQ61zu5"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 171334,
-      "name": "PATRAS",
-      "url": "https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Bitch Imma Star",
+        "url": "https://open.spotify.com/album/1Oi6OOxpwlDmEYXfKA80nY"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 112887,
+      "name": "Bitch Imma Star",
+      "url": "https://open.spotify.com/track/2UrYTtcWsZNlkwXdLp0ZHY"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "BUCKLE BUNNY (DELUXE)",
         "url": "https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 194423,
       "name": "Dancing At The Disco",
       "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Bitch Imma Star",
-        "url": "https://open.spotify.com/album/1Oi6OOxpwlDmEYXfKA80nY"
-      },
-      "artists": [
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 112887,
-      "name": "Bitch Imma Star",
-      "url": "https://open.spotify.com/track/2UrYTtcWsZNlkwXdLp0ZHY"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Bigger Than The Song",
+        "url": "https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 189156,
+      "name": "Bigger Than The Song",
+      "url": "https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 264809,
       "name": "Jealous Moon",
       "url": "https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Bigger Than The Song",
-        "url": "https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 189156,
-      "name": "Bigger Than The Song",
-      "url": "https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8"
     },
     {
       "added_at": "2023-10-04 04:00:00",

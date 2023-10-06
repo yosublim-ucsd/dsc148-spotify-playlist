@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-374 songs - 23 hr 44 min
+375 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Louder](https://open.spotify.com/track/2iNcHD6FFL6yPsOa2rFMA7) | [Katéa](https://open.spotify.com/artist/0cGkk9StiitJk2vVzpBRn5) | [Louder](https://open.spotify.com/album/2krEk2t0eIjugo82H4Jyvt) | 3:40 | 2021-09-01 |  |
 | [Love In Motion](https://open.spotify.com/track/0dJ0pX1MohcF33LpFssliC) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 3:05 | 2022-11-24 |  |
 | [Lunatic Moon](https://open.spotify.com/track/5ak3uXRWMo9IegBSVaGjHb) | [Pisces](https://open.spotify.com/artist/0BGNUG45FxpWbjvuhRRbJA) | [Pisces](https://open.spotify.com/album/4dkbl2hosIqWW3iDMTAx5u) | 3:22 | 2021-09-01 |  |
-| [Lungs](https://open.spotify.com/track/3sz5yb4kagmhw1r9n8brHz) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/1O8S8tIdS9oNPbgFb5U1bA) | 3:52 | 2021-09-01 |  |
+| [Lungs](https://open.spotify.com/track/118mlHvsJSKCOdzaCRxGq4) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/7afeJYkCyceUQL01j05ZIw) | 3:52 | 2021-09-01 |  |
+| [Lungs](https://open.spotify.com/track/3sz5yb4kagmhw1r9n8brHz) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/1O8S8tIdS9oNPbgFb5U1bA) | 3:52 | 2021-09-01 | 2023-10-06 |
 | [Mala Mujer](https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Mala Mujer](https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe) | 3:42 | 2021-09-01 |  |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/5zOAudPQIs5U8zP6LQGHmH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MALAMENTE \(Cap.1: Augurio\)](https://open.spotify.com/album/2O7Zu2OPZzqehwh1wiO764) | 2:29 | 2021-09-01 |  |
 | [Mar el poder del mar](https://open.spotify.com/track/6ocEqJbiybvhxfpBTUHBc1) | [Facto Delafe y las flores azules](https://open.spotify.com/artist/5D5oIuHtOHSaU5alV1HNXF) | [Facto Delafe y las flores azules vs\. El monstruo de las ramblas](https://open.spotify.com/album/0DFm88WlNKVWXWivWX6fFU) | 3:45 | 2021-09-01 |  |

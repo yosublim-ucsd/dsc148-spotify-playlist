@@ -4,11 +4,12 @@
 
 > Deathcore Playlist
 
-245 songs - 17 hr 0 min
+246 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [028 Hate](https://open.spotify.com/track/3KWrC3SPmV1VBpypRG8Ewh) | [Chamber Of Malice](https://open.spotify.com/artist/7jnmvaLEcIJPW9yraK1Q7z) | [ZEROTWENTYEIGHTHATE](https://open.spotify.com/album/3EcdSmX34jubB2E251aUo2) | 3:32 | 2018-07-22 |  |
+| [A Flicker Of Life](https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1) | [The Voynich Code](https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj) | [A Flicker Of Life](https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3) | 4:21 | 2023-10-05 |  |
 | [A Plague](https://open.spotify.com/track/7wxxMhZlxGkcxwB4KkhtLK) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [A Plague](https://open.spotify.com/album/1A2X5gwjWtJug5Q9knlhMO) | 3:07 | 2020-07-02 |  |
 | [A Summoning](https://open.spotify.com/track/7DfFQy2iADhaqMszQrpUij) | [Salem Burning](https://open.spotify.com/artist/1NXCFGk5cmtx5ByORVtuCI) | [Pagan Moon](https://open.spotify.com/album/2Ed27Ubo2pb7f3qa3iZXgN) | 2:54 | 2020-08-23 |  |
 | [Al Wahn](https://open.spotify.com/track/4ZfSyO3oMHGHIt5BFCsHtH) | [Sonorous Grim](https://open.spotify.com/artist/4PoUBUSnk2clM6i6FtsBBK) | [Al Wahn](https://open.spotify.com/album/0MVYWjErq7rQ5RctbqCi2K) | 4:28 | 2021-03-29 |  |
@@ -26,7 +27,7 @@
 | [Autophagia](https://open.spotify.com/track/5uB202EdBAq3iX9zv1QfLo) | [Xenobiotic](https://open.spotify.com/artist/2u1BlwLG9qYtUH6KU6xiNJ) | [Autophagia](https://open.spotify.com/album/5UcNqAy5k9pO1w0At6AN27) | 3:47 | 2022-08-14 |  |
 | [Avarice](https://open.spotify.com/track/5UHmdE56RGE1yiLNZ8OJkH) | [WATCHLIST](https://open.spotify.com/artist/6xjPWlyX9WcVCVjVl4IC9b) | [Avarice](https://open.spotify.com/album/6puhZhHAFEpwd9BFPv31yY) | 3:35 | 2023-08-22 |  |
 | [B.H.C.F.H.C.](https://open.spotify.com/track/7wLejPhqqbTHjOuf98I5YH) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [B.H.C.F.H.C.](https://open.spotify.com/album/63Pp7bEkfFdNitCHHxohGV) | 3:51 | 2023-03-04 |  |
-| [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 | 2022-09-17 |  |
+| [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM), [Tyler Miller](https://open.spotify.com/artist/4SfGXpHSewqIj7QZU8ZstL) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 | 2022-09-17 |  |
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2020-05-12 |  |
 | [Become None](https://open.spotify.com/track/5dSVzGjVwfYgTMVLsrnS76) | [Planetkiller](https://open.spotify.com/artist/1yYAKAk30vQtm6Kixzqlkd) | [Become None](https://open.spotify.com/album/1U35VEAlxoEaFjSkazdIM3) | 3:11 | 2020-07-01 |  |
 | [Black Chasm](https://open.spotify.com/track/4HNibRjaAVjzM6pA3BIebC) | [Bite The Goat](https://open.spotify.com/artist/11PF4sDTX6EID3WZZAellu) | [Black Chasm](https://open.spotify.com/album/63Ji0arWMkCQUT5KsygR5e) | 4:07 | 2020-07-06 |  |

@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 187225,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/2hrlDOytJk8qOIXi9l6O5e"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 136000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 170434,
       "name": "Feel Your Love - Tomorrowland Mix",
       "url": "https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156384,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4"
+    },
+    {
+      "album": {
         "name": "Go Stupid",
         "url": "https://open.spotify.com/album/0OWesUsZENcbp2rabvV9aD"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 199111,
       "name": "Guns Out",
       "url": "https://open.spotify.com/track/1rPu3XMTv9MzAbo0xt32yS"
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 183115,
       "name": "Hurricane (feat. SHIBUI) - Festival Mix",
       "url": "https://open.spotify.com/track/3oAioabSUIFV7nCLUD2oI4"
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 179017,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/2iVNnBKIRIvl7VtA5iAZhr"
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 131428,
       "name": "LFG",
       "url": "https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 195068,
       "name": "Maria Maria",
       "url": "https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ"
@@ -5432,7 +5450,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 166285,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17"
@@ -5770,7 +5788,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 162923,
       "name": "Shake The Building",
       "url": "https://open.spotify.com/track/24Fvsa3e7tf6ladJsbpUlI"
@@ -5840,6 +5858,28 @@
     {
       "album": {
         "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
+    },
+    {
+      "album": {
+        "name": "Shotgun (It Ain't Over)",
         "url": "https://open.spotify.com/album/5JFAjoXxZkVw35HA8PvWgE"
       },
       "artists": [
@@ -5854,10 +5894,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 155909,
       "name": "Shotgun (It Ain't Over)",
       "url": "https://open.spotify.com/track/3ZWElZZvOyyZ745FLyHp1T"
+    },
+    {
+      "album": {
+        "name": "Revealed Recordings presents ADE Sampler 2023",
+        "url": "https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192916,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0OuQY7KJpP1QCLqJnKLpy9"
     },
     {
       "album": {
@@ -6113,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233587,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
+    },
+    {
+      "album": {
         "name": "Spitfire",
         "url": "https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG"
       },
@@ -6348,7 +6428,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 205217,
       "name": "Take Me Away Again",
       "url": "https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j"
@@ -6585,6 +6665,24 @@
     },
     {
       "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
+    },
+    {
+      "album": {
         "name": "The Chase",
         "url": "https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq"
       },
@@ -6652,7 +6750,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
@@ -6850,6 +6948,28 @@
       "duration_ms": 168281,
       "name": "The Soulcatcher",
       "url": "https://open.spotify.com/track/3Q4CHVn8Gln5uhTFiPuTnn"
+    },
+    {
+      "album": {
+        "name": "The Wave (Legacy Edit)",
+        "url": "https://open.spotify.com/album/4FueCgISobfwBlgXwsOBQy"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "X-TOF",
+          "url": "https://open.spotify.com/artist/04XgEt5RkgdF4EM9lZyKCE"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "The Wave - Legacy Edit",
+      "url": "https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF"
     },
     {
       "album": {

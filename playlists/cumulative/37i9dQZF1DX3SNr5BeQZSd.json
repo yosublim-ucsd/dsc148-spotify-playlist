@@ -1883,6 +1883,32 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/1OZC9hlFyfYyKEm8JPUvMU"
+      },
+      "artists": [
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+        },
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/4IZ2rWTNq3Epsle01hHEau"
+    },
+    {
+      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/7gu80MIH4OgeDM9BVZ47ye"
       },
@@ -7090,32 +7116,6 @@
       "duration_ms": 126857,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/4nmVeSILoxYbWHKhgtMvHZ"
-    },
-    {
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/1OZC9hlFyfYyKEm8JPUvMU"
-      },
-      "artists": [
-        {
-          "name": "Idyllic",
-          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
-        },
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
-        },
-        {
-          "name": "Shou",
-          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
-        }
-      ],
-      "date_added": "2023-09-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116000,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/4IZ2rWTNq3Epsle01hHEau"
     },
     {
       "album": {

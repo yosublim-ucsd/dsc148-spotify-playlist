@@ -4,7 +4,7 @@
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-118 songs - 8 hr 27 min
+119 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Kanno: 花は咲く](https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i), [Yukari Miyake](https://open.spotify.com/artist/5pjQssgpo08YK8ETdMRpu9), [Sawako Ota](https://open.spotify.com/artist/0SYT5bioDVNiUQEHeVqY94) | [祈り～未来への歌声](https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw) | 5:16 | 2022-02-28 |  |
 | [KIDS ON THE SLOPE](https://open.spotify.com/track/2EjybI8rM8udIMC0mvX2dS) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/194Lk1nnWAcJh4pbWDbR99) | 2:29 | 2022-02-28 |  |
 | [KIDS ON THE SLOPE](https://open.spotify.com/track/0Nt5XEkIzexUFPPEbhd6Oe) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [アニメ「坂道のアポロン」オリジナル・サウンドトラック](https://open.spotify.com/album/0c0o6oCdk5RmvmEEENpQs2) | 2:29 | 2022-02-28 | 2023-06-18 |
+| [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 |  |
 | [Labyrinth of Time](https://open.spotify.com/track/2dHEkaG1pyxIplZkki01K2) | [Ranka Lee = Megumi Nakajima](https://open.spotify.com/artist/3JODQ7XeLxOZtG9cGuVPUw), [Sheryl Nome starring May'n](https://open.spotify.com/artist/5U8dcKsZ0mmeiUgbM0jvFC) | [the MACROSS F \- Labyrinth of Time theatrical short \- Theme song "Labyrinth of Time"](https://open.spotify.com/album/4hDesPved6WVlXmnDHeQEn) | 7:51 | 2022-02-28 |  |
 | [Lion](https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6), [Megumi Nakajima](https://open.spotify.com/artist/26ZuiIbHV0OGNX3EYsYeES) | [MACROSS FRONTIER Opening Theme Lion](https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0) | 5:03 | 2022-02-28 |  |
 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX O.S.T.+](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 | 2022-02-28 |  |

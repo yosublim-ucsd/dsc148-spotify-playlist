@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 178064,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI"
@@ -2962,6 +2962,28 @@
       "duration_ms": 203076,
       "name": "far away - Crankdat Remix",
       "url": "https://open.spotify.com/track/4fj1ITLZ06PioSOZK8rhUc"
+    },
+    {
+      "album": {
+        "name": "Feel Nothing",
+        "url": "https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2"
+      },
+      "artists": [
+        {
+          "name": "Kozmoz",
+          "url": "https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4"
+        },
+        {
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
     },
     {
       "album": {

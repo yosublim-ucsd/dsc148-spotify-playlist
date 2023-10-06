@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,074 songs - 3 day 13 hr 30 min
+1,075 songs - 3 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,7 +790,8 @@
 | [Secret Visions](https://open.spotify.com/track/4SzoSc4xr0k9ljSrCMPKlE) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Secret Visions](https://open.spotify.com/album/4YQenlZBc8c2b2SpZq8J5q) | 6:13 | 2023-01-20 | 2023-03-04 |
 | [Sept Douleurs](https://open.spotify.com/track/5GSNoH2SvGgdeV7QuPmXhw) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Play Echoes](https://open.spotify.com/album/5hLbP2i4QeWU8twh9L9u6w) | 3:54 | 2022-12-31 | 2023-03-04 |
 | [Sept Douleurs](https://open.spotify.com/track/6zSgxMKXxBeIXRobh5EcBa) | [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp), [Her Ensemble](https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z) | [Sept Douleurs](https://open.spotify.com/album/7oJy1UYW8iVVmWJvGJ9jA9) | 3:54 | 2022-11-12 | 2022-11-25 |
-| [september](https://open.spotify.com/track/214fyxesiPi2S9AxPpAPrk) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [september](https://open.spotify.com/album/4hs7MG8Rp5K2ofZCEQPuLl) | 6:52 | 2023-09-01 |  |
+| [september](https://open.spotify.com/track/0sO5zlws114dX6meNAMrcb) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [october](https://open.spotify.com/album/1iEjhoi66AQOTBzrMUEffc) | 6:52 | 2023-09-29 |  |
+| [september](https://open.spotify.com/track/214fyxesiPi2S9AxPpAPrk) | [ILIVEHERE.](https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro) | [september](https://open.spotify.com/album/4hs7MG8Rp5K2ofZCEQPuLl) | 6:52 | 2023-09-01 | 2023-10-06 |
 | [Sequoia](https://open.spotify.com/track/3uGqtW7R02zPpi9DiDUvv3) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Selvascapes](https://open.spotify.com/album/5VzrVTOrMGsPD0Igu3KF16) | 6:08 | 2021-12-24 | 2022-01-04 |
 | [Serenity](https://open.spotify.com/track/4PE18K21iBZ21BhAkMKuXx) | [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Serenity](https://open.spotify.com/album/54EJoYtWdVl2SJEwJgiLUc) | 3:52 | 2022-07-08 | 2023-03-04 |
 | [Shadows & Color](https://open.spotify.com/track/4F4W9P2vmL9pQefIIYdc9D) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI) | [Shadows & Color](https://open.spotify.com/album/3z4aBhwNLnjXqDsn0lT7Gl) | 5:49 | 2023-08-24 |  |

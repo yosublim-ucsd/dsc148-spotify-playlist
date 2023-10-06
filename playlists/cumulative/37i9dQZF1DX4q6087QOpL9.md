@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-163 songs - 18 hr 52 min
+164 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Cascades of Colour](https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n) | [Ananda Project](https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c), [Gaelle Adisson](https://open.spotify.com/artist/7nGw9P67X1POjUDuf8ofFo) | [Release](https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq) | 6:42 | 2022-09-13 |  |
 | [Change for Me \- Joey Negro Radio Edit](https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5) | [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Joey Negro presents 30 Years of Z Records](https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o) | 4:31 | 2022-09-13 |  |
 | [Changes \(feat\. Haze\)](https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH) | [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Hayze](https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L) | [Trouble](https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs) | 3:55 | 2022-09-13 |  |
-| [Church Lady \(feat\. Danil Wright\)](https://open.spotify.com/track/2npWYEYy7Q1qwgV2bPnxDy) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Danil Wright](https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA) | [Church Lady \(feat\. Daniele\)](https://open.spotify.com/album/2ciELtLCSotxvDGCu7M2zM) | 7:19 | 2022-09-13 |  |
+| [Church Lady](https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Danil Wright](https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA) | [The World As I See It](https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg) | 7:29 | 2023-09-14 |  |
+| [Church Lady \(feat\. Danil Wright\)](https://open.spotify.com/track/2npWYEYy7Q1qwgV2bPnxDy) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Danil Wright](https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA) | [Church Lady \(feat\. Daniele\)](https://open.spotify.com/album/2ciELtLCSotxvDGCu7M2zM) | 7:19 | 2022-09-13 | 2023-10-06 |
 | [Closer \- Original Mix](https://open.spotify.com/track/2aWKUNDJI9dpEGQY2BVtjb) | [Risksoundsystem](https://open.spotify.com/artist/4OpU2Yc6oQQKLgvOyO2JLc), [Marc Evans](https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d) | [Closer](https://open.spotify.com/album/4FQ6GPr9THpyZh2AlbHB26) | 6:54 | 2022-09-13 |  |
 | [Colouration](https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [Atmosfear](https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz) | 5:10 | 2022-09-13 |  |
 | [Come Home \- Kerri's Mmmh Mix](https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Wilma Beckford](https://open.spotify.com/artist/0dipYURBztCNS2iEHjl4wV) | [Mix The Vibe: Kaoz On King Street](https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd) | 6:49 | 2022-09-13 |  |

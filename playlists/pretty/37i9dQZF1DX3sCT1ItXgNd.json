@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 995849,
+  "num_followers": 995983,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzFhMTQ3NWM1NjA3YTgzNDM1MDc0MDg2ZmFiMjhlZjQ2ZGU3N2Vh",
+  "snapshot_id": "MCw5ZThmMzM5NzJhOWE1YWQ0ZDg0NDhlOTY3OTgyMmVkN2E1MTAzODAy",
   "tracks": [
     {
       "added_at": "2023-10-03 08:57:27",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "Olvid\u00e9 Olvidarte",
-        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Olvid\u00e9 Olvidarte",
-      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
-    },
-    {
-      "added_at": "2023-10-03 08:57:27",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 180000,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+    },
+    {
+      "added_at": "2023-10-03 08:57:27",
+      "album": {
+        "name": "Olvid\u00e9 Olvidarte",
+        "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Olvid\u00e9 Olvidarte",
+      "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
+        "name": "cuando salto me duele",
+        "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 189913,
+      "name": "cuando salto me duele",
+      "url": "https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd"
+    },
+    {
+      "added_at": "2023-10-03 08:57:27",
+      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/0Ye07YKpMKTynGPopYcVNQ"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
-        "name": "cuando salto me duele",
-        "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 189913,
-      "name": "cuando salto me duele",
-      "url": "https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd"
+      "duration_ms": 164351,
+      "name": "Me Enamoro",
+      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -687,22 +703,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2023-10-03 08:57:27",
-      "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Me Enamoro",
-      "url": "https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp"
     },
     {
       "added_at": "2023-10-03 08:57:27",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-03 08:57:27",
       "album": {
+        "name": "Nunca Volver\u00e1s",
+        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Nunca Volver\u00e1s",
+      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
+    },
+    {
+      "added_at": "2023-10-03 08:57:27",
+      "album": {
         "name": "Frenes\u00ed",
         "url": "https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
-    },
-    {
-      "added_at": "2023-10-03 08:57:27",
-      "album": {
-        "name": "Nunca Volver\u00e1s",
-        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Nunca Volver\u00e1s",
-      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
     },
     {
       "added_at": "2023-10-03 08:57:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales ! Photo : La Rue Ketanou
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,612 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,655 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 59 | [Vivant](https://open.spotify.com/track/0khmGOdZlWxnB6hKLeE2y4) | [Collectif 13](https://open.spotify.com/artist/3i55ORsQQWzrt0Z9jqXqOs) | [13](https://open.spotify.com/album/4xXPBiX2FKkajqrfGvUO6w) | 2:57 |
 | 60 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |
 
-Snapshot ID: `MCxjOGUzMTYxOGZkN2E3ZmZhYzllMjc0M2Y5ZmIxODZhMmEzZThjMDlk`
+Snapshot ID: `MCwyZDBkYmU5ZjY4NWM3MmNjODZkMWE5YmQ0OTM2ZjU1NmZhMzYzN2Vh`

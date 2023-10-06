@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Rocky Aur Rani Kii Prem Kahaani
+> Let these songs be the background score to your love story\. Cover \- Kabir Singh
 
 193 songs - 13 hr 28 min
 

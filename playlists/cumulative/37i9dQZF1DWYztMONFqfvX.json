@@ -391,6 +391,32 @@
     },
     {
       "album": {
+        "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
+        "url": "https://open.spotify.com/album/5oE93LulpFrlhUJqCGq9HX"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Epr Iyer",
+          "url": "https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179955,
+      "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
+      "url": "https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp"
+    },
+    {
+      "album": {
         "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
         "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
       },
@@ -854,7 +880,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 215347,
       "name": "Doriyaan",
       "url": "https://open.spotify.com/track/3ZNY9KaznDbVY518pumhEJ"

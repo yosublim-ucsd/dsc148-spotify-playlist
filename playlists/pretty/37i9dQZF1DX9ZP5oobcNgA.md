@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,133 likes - 61 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,166 likes - 61 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZP5oobcNgA.md) - [plain]
 | 60 | [Water Music Suite No\. 1 in F, HWV 348: 3b\. Andante](https://open.spotify.com/track/4UwwMfQVuDqTCdI7oSS8M0) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Concertgebouw Chamber Orchestra](https://open.spotify.com/artist/254914edb11tMrw8vCDjut), [Simon Preston](https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0) | [Handel: Water Music; Music For The Royal Fireworks](https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4) | 4:42 |
 | 61 | [Oboe Concerto No\. 3 in G Minor, HWV 287: III\. Sarabande: Largo](https://open.spotify.com/track/375eVZkpa9bfZmx7khLebT) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Anthony Camden](https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73), [City of London Sinfonia](https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL), [Nicholas Ward](https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2) | [Handel: Oboe Concertos Nos\. 1\- 3 / Suite in G Minor](https://open.spotify.com/album/3TjxqWoMqsVNKOyCcw09jb) | 3:02 |
 
-Snapshot ID: `MCw5ZWEyNzAwM2RmNjc0ZGY2NDIxM2E1MjBjYmZlNTNmZmNhZjI2OTA5`
+Snapshot ID: `MCxiN2UxNjA4YzExYmFhNjQ5NzBmNzJlMDY3ZmVhNjkyZWI0NDYyNDEz`

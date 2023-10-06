@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Asteria
 
-754 songs - 1 day 13 hr 52 min
+758 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,11 @@
 | [123 medicine](https://open.spotify.com/track/0fJDKTN2SEeSmkoRchjwBE) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [123 medicine](https://open.spotify.com/album/1Mum8oYRSWSRbYR3JsKjnd) | 2:19 | 2022-06-02 | 2022-07-06 |
 | [14 maglioni](https://open.spotify.com/track/33Ndf9fuy6Kc9Zwta2wKUE) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [14 maglioni](https://open.spotify.com/album/0zo6gjnu4amNEtB7fmXSlL) | 3:22 | 2022-04-05 | 2022-05-04 |
 | [17 anni \(PANICO\)](https://open.spotify.com/track/5nlJwV1jDu4hhQdY3YsG8W) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [17 anni \(PANICO\)](https://open.spotify.com/album/06CnNoCSq9iwCseD2KDGcK) | 3:01 | 2023-07-05 | 2023-10-04 |
+| [2 vite in 1 minuto](https://open.spotify.com/track/54vG6nk5bN1C6ohD22wbon) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [2 vite in 1 minuto](https://open.spotify.com/album/1XI2p80TbQBJpPl5a5FOyv) | 3:01 | 2023-10-05 |  |
 | [26 modi](https://open.spotify.com/track/3E7QmXDtooIiTwERTy9mQU) | [Federica\_](https://open.spotify.com/artist/75CdCbwT6Q6eGmtO1ya04g) | [26 modi](https://open.spotify.com/album/5cwb5WacM5mr8mASyaTe4Y) | 3:06 | 2023-02-09 | 2023-03-01 |
 | [7lettere](https://open.spotify.com/track/7lPWmTSU58LrU94FGOz0r7) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [7lettere](https://open.spotify.com/album/7A7x0ugL9hnQMBO6voWcUb) | 2:54 | 2023-04-04 | 2023-05-03 |
 | [A carte scoperte](https://open.spotify.com/track/5MIhOIJeFG5dLF9JrbL3KG) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [A carte scoperte](https://open.spotify.com/album/4JR205wi45AfKS72yPPrC2) | 1:32 | 2023-07-05 | 2023-08-02 |
+| [A Fari Spenti](https://open.spotify.com/track/7Ggmq6P4cTVReTVyyxfLPP) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [A Fari Spenti](https://open.spotify.com/album/3J1c80dg2FWqUMsn4q0fRq) | 3:18 | 2023-10-05 |  |
 | [A me](https://open.spotify.com/track/7ts4D5Eey45IIa8E1FsNe0) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [A me](https://open.spotify.com/album/3yAFLbKi8ZVWoekvG5L1ZK) | 3:48 | 2022-02-02 | 2022-04-06 |
 | [A MEZZANOTTE \(Christmas Song\)](https://open.spotify.com/track/4PZLS9rnCcbAK1Yc8XKItN) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [A MEZZANOTTE \(Christmas Song\)](https://open.spotify.com/album/2OOGtxQBoxR0UbuMgT6Lrc) | 3:13 | 2021-12-07 | 2022-01-05 |
 | [a testa in giù](https://open.spotify.com/track/0Qw9b17ytvHawDikkRBo62) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [a testa in giù](https://open.spotify.com/album/3zSubsTvoP88pWVEHg1umR) | 2:45 | 2023-06-07 | 2023-07-06 |
@@ -266,6 +268,7 @@
 | [fiori sul prato](https://open.spotify.com/track/5yIIVLBUQXNWUcZSPAjYED) | [MANDORLA](https://open.spotify.com/artist/2uqOHBl4qhPz787NIOXg2I) | [fiori sul prato](https://open.spotify.com/album/4q3QdcKhcZzATlM7Yyriyj) | 2:38 | 2023-06-07 | 2023-07-06 |
 | [Fire](https://open.spotify.com/track/6AFLZvSZxVXoKefV834aoi) | [L I M](https://open.spotify.com/artist/6TGrYfNonLf6yO3RGiM4EF) | [GLOWING](https://open.spotify.com/album/1KGOSKwi6fR084NBICBrKr) | 6:04 | 2022-02-17 | 2022-04-06 |
 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 | 2022-05-03 | 2022-06-03 |
+| [Flashback](https://open.spotify.com/track/3iOt1cHCNr8bbUkmOsOIIs) | [Etta Jungle](https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR) | [Flashback](https://open.spotify.com/album/565Jcbq35xeUIwonq4H6Gr) | 4:18 | 2023-10-05 |  |
 | [Flights](https://open.spotify.com/track/4FslTQ5N4gZwQ35gj8A7Sj) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Flights](https://open.spotify.com/album/0OD4Qz4bRci84q4JXlOYbV) | 3:07 | 2021-12-07 | 2022-02-03 |
 | [Floating Sauna](https://open.spotify.com/track/1KrEOCTPGSk49Z1dZStt7X) | [Valeria Corso](https://open.spotify.com/artist/0vraX4cmV84RNHNEbUARmd) | [Floating Sauna](https://open.spotify.com/album/0pfaXSA0o9xXeB2YnoXc72) | 2:05 | 2022-07-05 | 2022-08-03 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-28 | 2023-04-05 |
@@ -466,6 +469,7 @@
 | [Mostri](https://open.spotify.com/track/0Gz9IzvwXRQRGYoUJ9mbdF) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW) | [Mostri](https://open.spotify.com/album/2XET1mEckoj6EoJWkbD0OQ) | 2:47 | 2022-07-05 | 2022-08-03 |
 | [Mostri](https://open.spotify.com/track/7kLdAM0vmvZhsx9nZb6ePk) | [Letizya](https://open.spotify.com/artist/0SGqPFl7AJj1wopvJltvdv) | [Mostri](https://open.spotify.com/album/2hSbpU4BfzMnFAxQTZftSY) | 3:22 | 2022-03-07 | 2022-04-06 |
 | [Movin'](https://open.spotify.com/track/3j6MsAwOw5FemCn8CIn20l) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt) | [Movin'](https://open.spotify.com/album/2iFD6M0bUR77zQIm6kVZ1s) | 1:51 | 2023-04-04 | 2023-05-03 |
+| [My Best](https://open.spotify.com/track/6IJXxt8NCCjiBIIoNEWeCG) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [My Best](https://open.spotify.com/album/5kzMtLRcuNtHU3Hwr09qoG) | 2:41 | 2023-10-05 |  |
 | [N.M.W.](https://open.spotify.com/track/7DoPIA4uhxPXycGwKxleRk) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [N.M.W.](https://open.spotify.com/album/0vwlRoCO1yN1H11f6Ixxhk) | 3:02 | 2023-02-28 | 2023-04-05 |
 | [Naraworld](https://open.spotify.com/track/5yzo31TEOacdUzDomFiJ5r) | [NARA](https://open.spotify.com/artist/2QwnSHVij7aOFnIb1UVAF6) | [Naraworld](https://open.spotify.com/album/5ZkWvrDpXSkpAA5YcxwKmd) | 2:30 | 2023-04-04 | 2023-05-03 |
 | [Narghilè](https://open.spotify.com/track/4N7qD2Dy0uryKSBweYgwmK) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [Narghilè](https://open.spotify.com/album/36upnbVaS6x0NOngtToQMh) | 2:46 | 2023-07-05 | 2023-08-02 |

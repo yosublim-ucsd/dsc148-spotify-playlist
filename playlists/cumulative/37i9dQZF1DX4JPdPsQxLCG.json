@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 167979,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0"
@@ -4422,6 +4422,24 @@
       "duration_ms": 346533,
       "name": "Sinking Like A Sunset",
       "url": "https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM"
+    },
+    {
+      "album": {
+        "name": "Laundry Pile",
+        "url": "https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl"
     },
     {
       "album": {

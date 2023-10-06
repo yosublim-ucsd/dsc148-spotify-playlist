@@ -4,13 +4,14 @@
 
 > <a href="spotify:artist:6nxWCVXbOlEVRexSbLsTer">Flume</a>'s favourite tracks\. Updated regularly\. Curated by Flume\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-67 songs - 4 hr 28 min
+68 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [And Groove](https://open.spotify.com/track/3I6CFUDMLzSTZTm6GLU545) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [And Groove](https://open.spotify.com/album/4GhTjZLhittgWgSzN65sYt) | 5:04 | 2022-05-24 |  |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2022-05-24 |  |
-| [Aquarium](https://open.spotify.com/track/6qp8QKv42nmSrLNQ0VvJin) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Aquarium](https://open.spotify.com/album/5d8YtHIUeuN2TsIDtTp8Ao) | 4:01 | 2022-05-24 |  |
+| [Aquarium](https://open.spotify.com/track/4ZNd0qIzp0j2gD3mYn33v1) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Aquarium](https://open.spotify.com/album/3jLCSQSZ3yyxi2z07qQdUv) | 4:01 | 2022-05-24 |  |
+| [Aquarium](https://open.spotify.com/track/6qp8QKv42nmSrLNQ0VvJin) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Aquarium](https://open.spotify.com/album/5d8YtHIUeuN2TsIDtTp8Ao) | 4:01 | 2022-05-24 | 2023-10-06 |
 | [At First Sight](https://open.spotify.com/track/2N23G2u90HZs4wD2HrK0GT) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 3:27 | 2022-05-24 |  |
 | [B O D Y](https://open.spotify.com/track/0Uwq5TKfVfanVZzoVCz620) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 5:05 | 2022-05-24 |  |
 | [Blue \- Flume Remix](https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Blue \(Flume Remix\)](https://open.spotify.com/album/0jihZJEz7ZnvQVN6WBj5RC) | 2:46 | 2022-05-24 |  |

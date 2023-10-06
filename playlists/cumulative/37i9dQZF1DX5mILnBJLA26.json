@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=CT9m_h55RvWIGeCups0QKA\">DJ Maphorisa</a>,  <a href=\"https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx?si=TbJbGQH7QHuxsgs4CL6xRg\">Tman Xpress</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn?si=zy6XF6VVT_WDW63y8OWVRg\">Daliwonga</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -3798,6 +3798,44 @@
       "duration_ms": 343146,
       "name": "Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)",
       "url": "https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE"
+    },
+    {
+      "album": {
+        "name": "Bhebha 2.0",
+        "url": "https://open.spotify.com/album/3ubQdbYFYW158FRpBoBAJ0"
+      },
+      "artists": [
+        {
+          "name": "Ocean Biller",
+          "url": "https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9"
+        },
+        {
+          "name": "Omaannn",
+          "url": "https://open.spotify.com/artist/0L8Bj0Xpl7gjTfi4iybsmj"
+        },
+        {
+          "name": "Tskay",
+          "url": "https://open.spotify.com/artist/1DSSY6nF8Y22sSmQW8lSIM"
+        },
+        {
+          "name": "Bepa",
+          "url": "https://open.spotify.com/artist/1MbEbzobxWfhwH22l05eXb"
+        },
+        {
+          "name": "Double D",
+          "url": "https://open.spotify.com/artist/1nqjDKD9k9Sld01i0SBu0z"
+        },
+        {
+          "name": "Jazzy Avenue",
+          "url": "https://open.spotify.com/artist/3rv7ln4sXTpazZvVPx6Nk6"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385800,
+      "name": "Bhebha 2.0",
+      "url": "https://open.spotify.com/track/56V2lvh4aYSEF7hyCcd5F6"
     },
     {
       "album": {
@@ -8753,7 +8791,7 @@
     },
     {
       "album": {
-        "name": "Hayi Baleka (feat. Riky Lenyora & Tman Xpress)",
+        "name": "Hayi Baleka (feat. Ricky Lenyora & Tman Xpress)",
         "url": "https://open.spotify.com/album/4zagb2cqNnooGqXeHqvOHw"
       },
       "artists": [
@@ -8770,15 +8808,15 @@
           "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
         },
         {
-          "name": "Riky Lenyora",
-          "url": "https://open.spotify.com/artist/27gE77IpEy2fJgWB1sW9UD"
+          "name": "Ricky Lenyora",
+          "url": "https://open.spotify.com/artist/2yS4gQUMlSvFIVZRLySfCZ"
         }
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 402853,
-      "name": "Hayi Baleka (feat. Riky Lenyora & Tman Xpress)",
+      "name": "Hayi Baleka (feat. Ricky Lenyora & Tman Xpress)",
       "url": "https://open.spotify.com/track/0HAawzskNEhW90xDhQ02nW"
     },
     {
@@ -13695,6 +13733,28 @@
     },
     {
       "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/2Q85SIvAsPEG1y6qYgI36d"
+      },
+      "artists": [
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416454,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/69aZGQs6CvW11zgeofty60"
+    },
+    {
+      "album": {
         "name": "Langa Elihle",
         "url": "https://open.spotify.com/album/5xq1asll3chTkXF5ggDGEf"
       },
@@ -16060,6 +16120,28 @@
       "duration_ms": 351450,
       "name": "Mpolaye",
       "url": "https://open.spotify.com/track/0TVYnw5g6Dz7Prt9qbrpa8"
+    },
+    {
+      "album": {
+        "name": "DALI DALI",
+        "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
+      },
+      "artists": [
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "LeeMccrazy",
+          "url": "https://open.spotify.com/artist/6wW021CPQBQdYFVDwIWgA5"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385731,
+      "name": "Mratata (feat. LeeMccrazy)",
+      "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
       "album": {
@@ -20318,7 +20400,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 411428,
       "name": "Seduce Me (feat. Nkosazana Daughter & Happy JazzMan)",
       "url": "https://open.spotify.com/track/5qBjngrx4Fdr5uNBSBQ5GR"
@@ -21530,7 +21612,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 397594,
       "name": "Skoloto",
       "url": "https://open.spotify.com/track/4OiMaanKDueqpgtfBvU65n"
@@ -26344,7 +26426,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 424834,
       "name": "Ungiphethe Kahle (feat. Nokwazi, Mawhoo, Mashudu & LeeArt)",
       "url": "https://open.spotify.com/track/7KwYLXSSMH8h5kVS3amYEj"

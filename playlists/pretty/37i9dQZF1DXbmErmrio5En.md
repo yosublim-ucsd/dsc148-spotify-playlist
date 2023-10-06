@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > cool music ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,788 likes - 101 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,877 likes - 101 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 40 | [COMEDOWN](https://open.spotify.com/track/5uYViosjAmKH1Auq3zvZL1) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [COMEDOWN](https://open.spotify.com/album/1IqxYZcc2DxAaOyqEOdGnR) | 2:09 |
 | 41 | [June 17th](https://open.spotify.com/track/6DmOUU5qGAK28eXy1E1bHz) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [June 17th](https://open.spotify.com/album/6EFFFv8G2WZOsSYQR9ncPu) | 2:29 |
 | 42 | [FALLING DOWN](https://open.spotify.com/track/2B5TeT7cCgvKOrpORd6f4k) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [FALLING DOWN](https://open.spotify.com/album/5FnohciwH81y7LwEZFT1Jx) | 2:49 |
-| 43 | [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 |
+| 43 | [money body](https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/3LtPIBWo8MYD5jqJIClfe8) | 3:22 |
 | 44 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 |
 | 45 | [as long as i'm by your side](https://open.spotify.com/track/2LHrjE4VT99HBa9LdkSBT3) | [Endie](https://open.spotify.com/artist/3B7lDutNv1vGrqkujRx78O) | [as long as i'm by your side](https://open.spotify.com/album/0TXtUdpJzaovSnMfADYPE1) | 3:03 |
 | 46 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 100 | [cherry](https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [cherry](https://open.spotify.com/album/32bC46BdtyzmMkNlKPlfGA) | 3:06 |
 | 101 | [GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 3:06 |
 
-Snapshot ID: `MCw4NzA1YjkzMzNlMDg1OTk3ZjNkYjIyNTA1MjYwNjdlMzhjOTllMmZh`
+Snapshot ID: `MCxkY2ZkYmZiNzBiNjg0NTZhMTk0NTQ5NDlmZTk4NTExZjY5MmFkYTY5`

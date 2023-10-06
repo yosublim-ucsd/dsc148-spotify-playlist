@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,360 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,422 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 14 | [Burden](https://open.spotify.com/track/17JBaKcILsLf5uSVMU7CXZ) | [Drift](https://open.spotify.com/artist/5As4J0NBaerSYQNuKgVuXi) | [Burden](https://open.spotify.com/album/1tSCIsiQV1aQo85Zbb5MdK) | 4:27 |
 | 15 | [Creature](https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Creature](https://open.spotify.com/album/2mQj1BmUj9HVQwDlEUTXWe) | 3:23 |
 | 16 | [Victim](https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 3:44 |
-| 17 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
+| 17 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
 | 18 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
 | 19 | [All I Ever Wanted Was A Chance To Know Myself \(feat\. Max Bemis\)](https://open.spotify.com/track/3P80Qhd1KG6puSSY9va4de) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj), [Max Bemis](https://open.spotify.com/artist/2yX0YULtA4uv8x649DFekZ) | [All I Ever Wanted Was A Chance To Know Myself \(feat\. Max Bemis\)](https://open.spotify.com/album/2T7GVxIF8HYpZ2cwUIlkeP) | 3:43 |
 | 20 | [Everything Blu](https://open.spotify.com/track/6VHRK7snwupgniSGeORQCt) | [Day Aches](https://open.spotify.com/artist/6fKJtGQ4ACpLgs1cqOMx3H) | [Everything Blu](https://open.spotify.com/album/0CWPNy15VAmkYMX8BpnR1R) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 |
 | 50 | [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 |
 
-Snapshot ID: `MCxhMzJhNTZlNmYzYTllZjkyYzAwMTIwMTU0OWUzZmIzZjAxY2IxZDg2`
+Snapshot ID: `MCw1ZmE3OWI0Y2Y1MzJlZTRlYjc5NGQ4ZjNkMTExN2VhMjE3MmM0OGE4`

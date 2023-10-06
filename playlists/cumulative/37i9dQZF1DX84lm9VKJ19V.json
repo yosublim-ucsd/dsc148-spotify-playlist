@@ -42,7 +42,7 @@
     {
       "album": {
         "name": "Aquarium",
-        "url": "https://open.spotify.com/album/5d8YtHIUeuN2TsIDtTp8Ao"
+        "url": "https://open.spotify.com/album/3jLCSQSZ3yyxi2z07qQdUv"
       },
       "artists": [
         {
@@ -53,6 +53,24 @@
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZNd0qIzp0j2gD3mYn33v1"
+    },
+    {
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/5d8YtHIUeuN2TsIDtTp8Ao"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
       "duration_ms": 241832,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6qp8QKv42nmSrLNQ0VvJin"

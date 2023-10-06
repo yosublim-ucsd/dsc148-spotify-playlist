@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-252 songs - 12 hr 41 min
+257 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2022-12-23 |  |
 | [Hold on](https://open.spotify.com/track/0Wv0qxxnHhOiuvVhwNnqDv) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Hold on](https://open.spotify.com/album/6CnnqRJSFe5N2xWyfTaLip) | 3:23 | 2022-05-20 |  |
 | [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-13 | 2023-06-03 |
+| [Home](https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Home](https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O) | 2:49 | 2023-10-06 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/6WaePja4uzj9uw3TrZFdpM) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [How Deep Is Your Love](https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop) | 3:21 | 2022-05-20 |  |
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2022-05-20 |  |
 | [Höstvisa](https://open.spotify.com/track/0mzIHWDRo3GNCE24OxU5Cn) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Höstvisa](https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6) | 2:42 | 2022-05-20 | 2023-08-25 |
@@ -135,6 +136,7 @@
 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 | 2022-05-20 | 2023-05-05 |
 | [James](https://open.spotify.com/track/5SJVQcy3KMrvth7gnE0ffV) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 4:19 | 2022-05-20 | 2023-08-11 |
 | [Jealous Guy](https://open.spotify.com/track/3SBrKjO3J5hK33LkFUT5qu) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Jealous Guy](https://open.spotify.com/album/204pbznQh5kpkFiY2vVTe6) | 2:07 | 2023-03-17 |  |
+| [Jolene](https://open.spotify.com/track/7wEeJdVXXIhxqUFU3RriOn) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Jolene](https://open.spotify.com/album/33RySmFjwLy1DUUmMHIYyQ) | 1:51 | 2023-10-06 |  |
 | [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 | 2022-07-29 |
 | [Just Like Heaven \- Guitar Solo](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 | 2022-07-26 |  |
 | [Killing Me Softly](https://open.spotify.com/track/2XEYHbrPjycqUAeCvzuYoC) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Killing Me Softly](https://open.spotify.com/album/7x4hRr0XZ5nzLTC9ut29rt) | 3:27 | 2022-12-02 | 2023-05-05 |
@@ -145,8 +147,9 @@
 | [Lift Me Up](https://open.spotify.com/track/5pfzrd9taKYygxPmahSWJ4) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Lift Me Up](https://open.spotify.com/album/34Y6YXNfsteVCYggBzBXyv) | 2:33 | 2022-12-02 |  |
 | [Light Switch](https://open.spotify.com/track/0gpE9hyrd3hjERocbNwW5A) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Light Switch](https://open.spotify.com/album/1UEfAxnaJrTiTWej5d1ihK) | 3:25 | 2022-06-15 |  |
 | [Love Me Like You Do](https://open.spotify.com/track/1nyxHNRjeyTlJQwsLMH7C0) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 3:18 | 2022-05-20 | 2023-06-03 |
-| [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 | 2023-05-05 |  |
+| [Love Me Tender](https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Love Me Tender](https://open.spotify.com/album/59tSdWVmOuJU2TGDmKpQk9) | 2:20 | 2023-05-05 | 2023-10-06 |
 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 | 2022-05-20 | 2022-09-09 |
+| [Love Yourself](https://open.spotify.com/track/3jv5OyK1aljpUBO3KbCgjU) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Love Yourself](https://open.spotify.com/album/0dD6L5lDzcrT44wMpZopLy) | 2:21 | 2023-10-06 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/4fYnPn3bHaT5X2MQ2S1OpC) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [Make You Feel My Love](https://open.spotify.com/album/7zic0sRHlU4yHJI08sIYn5) | 3:19 | 2022-05-20 |  |
 | [Man In The Mirror](https://open.spotify.com/track/5ACFr3JkSBYEBu3H4XLW1S) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Man In The Mirror](https://open.spotify.com/album/35lS2kcidLGiYuXx9L0s4D) | 2:24 | 2022-12-02 |  |
 | [Midnight Rain](https://open.spotify.com/track/2O0NykJV0XOkbHAsedN21s) | [Zion Houston](https://open.spotify.com/artist/3RRD1mgaBFYXz3NFGiuDGj) | [Midnight Rain](https://open.spotify.com/album/1IV7ToivCrCyOBoQMbKGok) | 2:09 | 2022-12-02 |  |
@@ -165,6 +168,7 @@
 | [Reflection](https://open.spotify.com/track/2L2QTOdjLXJ8sg0zF9JRa9) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Reflection](https://open.spotify.com/album/1b9Y5HENJ6zkmYNtrKsVms) | 2:50 | 2022-09-30 |  |
 | [Rewrite The Stars](https://open.spotify.com/track/6osJpF4LOPQx6Q7XkLoiKr) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Rewrite The Stars](https://open.spotify.com/album/6QcEbkz1ZSWiQ5OR4TS4lw) | 3:50 | 2023-02-10 |  |
 | [Riptide](https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [6 strings Guy](https://open.spotify.com/album/1TXKVK2Ss0EgQkGg1mEJAe) | 4:33 | 2022-05-20 | 2022-07-02 |
+| [Riptide](https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN) | [Liam Dunn](https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb) | [Riptide](https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k) | 2:12 | 2023-10-06 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/1crMg4ZtH1YqtHt0NJtiW2) | [Dalton Webster](https://open.spotify.com/artist/7JPYRAXuQJ80B5CTpoRkkR) | [Rolling in the Deep](https://open.spotify.com/album/687CxhjRYd6Ht42XUACOIJ) | 2:09 | 2023-02-24 |  |
 | [Roxanne](https://open.spotify.com/track/0bD02USbthuiIWVEjlGUlI) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Roxanne](https://open.spotify.com/album/2PxHELBN7MScNb6p6KAB6T) | 2:27 | 2023-04-14 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1AT0FoWtIgdfGTwBCeXIEt) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/album/0SsQ2kwzJx5Bdc5yvY7zF2) | 2:55 | 2022-12-02 |  |
@@ -217,6 +221,7 @@
 | [Theme From Forrest Gump](https://open.spotify.com/track/0XfY944ddsSwaGYWhLcMqu) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Theme From Forrest Gump](https://open.spotify.com/album/6b4sxLda1Z6RSiy8GPez36) | 3:05 | 2023-04-14 |  |
 | [Theme From Love Story](https://open.spotify.com/track/69u76zurQjRQHJT3RSqxqA) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Theme From Love Story](https://open.spotify.com/album/6H2J0nVhDlwffDOzcID19m) | 3:23 | 2022-12-02 | 2023-05-05 |
 | [There Will Never Be Another You](https://open.spotify.com/track/5yNwemxmSZtEXdUNDx9ctJ) | [Falcon Days](https://open.spotify.com/artist/2QNZ83aE2z5wtBlOfgeV9o) | [There Will Never Be Another You](https://open.spotify.com/album/5yaNPvhGLhrxwbHlouegLp) | 2:32 | 2022-12-23 | 2023-06-03 |
+| [Through The Fire](https://open.spotify.com/track/7E59DQ6k27g52Av9z4KEe6) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Through The Fire](https://open.spotify.com/album/6VMNvH3uJxczSKgqI3SOFJ) | 3:22 | 2023-10-06 |  |
 | [Time After Time](https://open.spotify.com/track/65zEpvMz472JlzqnskNhn1) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Time After Time](https://open.spotify.com/album/23WDOySnRgaPm2bSVL1TQE) | 2:17 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/6Pm1tdfNQdNuWOG0mDXImu) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/11IHpdLzDHfHbwgZCxWyoa) | 3:32 | 2022-09-30 | 2022-11-13 |

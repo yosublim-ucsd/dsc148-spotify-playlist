@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,254 songs - 2 day 22 hr 25 min
+1,255 songs - 2 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-07-27 | 2023-09-08 |
 | [God Breathed](https://open.spotify.com/track/1dPNJDYuW9QAtkOpK3eBvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:33 | 2021-08-31 | 2021-09-03 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-08-03 |
+| [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 | 2023-10-05 |  |
 | [GOLD DIGGA](https://open.spotify.com/track/3KxRODClwk7M5igQQXj1II) | [MITREVV](https://open.spotify.com/artist/29JDW7YBoYLyRs7mUg2Lzq), [NSG1](https://open.spotify.com/artist/0nsbUh9q9N6VMqHRZgImZl) | [GOLD DIGGA](https://open.spotify.com/album/5Yz9kAbdYwPGUzaCJqC6Sn) | 3:01 | 2023-03-14 | 2023-07-06 |
 | [GOLD STACKS](https://open.spotify.com/track/1Ijpng3ZLhTRcEd8iqh4p4) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:42 | 2022-04-30 | 2022-05-02 |
 | [GOLDWING](https://open.spotify.com/track/0FfqyjhB6Kspvit1oOo7ax) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:31 | 2021-08-01 | 2021-08-02 |
@@ -1257,7 +1258,7 @@
 | [Трябва да затварям](https://open.spotify.com/track/7qGX7gNBBoIeHzQRLLWIfT) | [Grigovor](https://open.spotify.com/artist/0zPqnt6HE9KMcndhYl0U9R), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT) | [Цех Депресия](https://open.spotify.com/album/76ARQ8ww7bG6Gi9VXYpMli) | 3:45 | 2021-09-12 | 2021-09-13 |
 | [Филм за нас](https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Филм за нас](https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV) | 3:01 | 2021-12-28 | 2023-10-05 |
 | [Харесва ти, признай](https://open.spotify.com/track/5VJYqzkoqgf5yXHNdsGv5b) | [Emrah](https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr) | [Харесва ти, признай](https://open.spotify.com/album/0e3JPQtq6EWfFkEpXPNZrp) | 3:04 | 2023-08-30 |  |
-| [Цялото време](https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Цялото време](https://open.spotify.com/album/6s7oGfomxLI0SevxWrfFrv) | 3:44 | 2023-05-20 |  |
+| [Цялото време](https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Цялото време](https://open.spotify.com/album/6s7oGfomxLI0SevxWrfFrv) | 3:44 | 2023-05-20 | 2023-10-06 |
 | [Честит Рожден Ден](https://open.spotify.com/track/5ucK6ohZZRTjiOQCJZzeJx) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Честит Рожден Ден](https://open.spotify.com/album/0Ux8IzLfEhphpH2STTvFLx) | 3:53 | 2022-12-20 | 2023-04-04 |
 | [Чисти сметки](https://open.spotify.com/track/6YH2SZWaLNmDMCBYIqjx39) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN) | [Чисти сметки](https://open.spotify.com/album/59Tlgm26biIvk2nonkuXkS) | 4:09 | 2022-01-26 | 2022-02-12 |
 | [Чупки в кръста](https://open.spotify.com/track/3FkA5BCzxB4SeQ7fSzUmJE) | [Fiki](https://open.spotify.com/artist/7JLPN5CklYCRotAvFGw4Q1) | [Чупки в кръста](https://open.spotify.com/album/4S8oWdBdBhTZvSCkTD1d94) | 4:55 | 2022-10-09 | 2023-02-14 |

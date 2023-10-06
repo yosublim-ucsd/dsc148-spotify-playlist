@@ -4224,7 +4224,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 201384,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/6SQg7kkKjkWqXvOCh95aku"
@@ -4528,7 +4528,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 228626,
       "name": "Don!!",
       "url": "https://open.spotify.com/track/1NmeWXhB73LNP1y9PtTEbk"
@@ -11457,6 +11457,28 @@
     },
     {
       "album": {
+        "name": "My Innocence (\u92ed\u5150 Remix)",
+        "url": "https://open.spotify.com/album/4xnLWHbnTo4uY3X3yUYar1"
+      },
+      "artists": [
+        {
+          "name": "TAMIW",
+          "url": "https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l"
+        },
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187495,
+      "name": "My Innocence - \u92ed\u5150 Remix",
+      "url": "https://open.spotify.com/track/6F7yBzSKA47zPmsmfjbKjo"
+    },
+    {
+      "album": {
         "name": "my life (Sing for you ver.)",
         "url": "https://open.spotify.com/album/4E02RUbvGZ5Ecqex16ug0O"
       },
@@ -14828,6 +14850,24 @@
       "duration_ms": 203588,
       "name": "Sentimental - Neon Mix",
       "url": "https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/0QuK4pxgzTWe2Yi6Tk6hKS"
+      },
+      "artists": [
+        {
+          "name": "Pii",
+          "url": "https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265226,
+      "name": "September",
+      "url": "https://open.spotify.com/track/4fLgIOfUJpw3FN9SIEWhDi"
     },
     {
       "album": {
@@ -19529,6 +19569,24 @@
     },
     {
       "album": {
+        "name": "With",
+        "url": "https://open.spotify.com/album/3H2UC7kPo1DNB4aVTiSNzE"
+      },
+      "artists": [
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "With",
+      "url": "https://open.spotify.com/track/3yYu68P1WYsGCevgip6w2G"
+    },
+    {
+      "album": {
         "name": "Without Love",
         "url": "https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71"
       },
@@ -20438,7 +20496,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 208566,
       "name": "\u3044\u3064\u306e\u307e\u306b",
       "url": "https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0"
@@ -20750,6 +20808,24 @@
       "duration_ms": 258600,
       "name": "\u304a\u8336",
       "url": "https://open.spotify.com/track/3jpE1IiRxKi25R05n0YIZo"
+    },
+    {
+      "album": {
+        "name": "\u304b\u3055\u3076\u305f",
+        "url": "https://open.spotify.com/album/70Q7yGtuFchWCiwwxuT9B1"
+      },
+      "artists": [
+        {
+          "name": "Fluffy",
+          "url": "https://open.spotify.com/artist/54B5YHHYlwS3GYJr7lz6px"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198992,
+      "name": "\u304b\u3055\u3076\u305f",
+      "url": "https://open.spotify.com/track/1kV0OjqIbJcZycHXRGa77O"
     },
     {
       "album": {
@@ -21916,7 +21992,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 205133,
       "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
       "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
@@ -22122,6 +22198,24 @@
       "duration_ms": 253493,
       "name": "\u307e\u3063\u3057\u308d",
       "url": "https://open.spotify.com/track/1UROqDjIRx4Hqk7rDzzVDg"
+    },
+    {
+      "album": {
+        "name": "\u307e\u3069\u308d\u307f",
+        "url": "https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263654,
+      "name": "\u307e\u3069\u308d\u307f",
+      "url": "https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX"
     },
     {
       "album": {
@@ -29093,6 +29187,24 @@
     },
     {
       "album": {
+        "name": "\u604b\u3060\u3068\u306f",
+        "url": "https://open.spotify.com/album/0U5Ngt5P22CZPHNhhnH0Tb"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226677,
+      "name": "\u604b\u3060\u3068\u306f",
+      "url": "https://open.spotify.com/track/2jI3IN3kyMDlWONkR6G3lc"
+    },
+    {
+      "album": {
         "name": "\u604b\u306b\u304a\u3061\u3066 -Fall in love-",
         "url": "https://open.spotify.com/album/35Tpz494g4I6Q5VDhpIme7"
       },
@@ -29396,7 +29508,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 314633,
       "name": "\u611b\u3092\u3042\u308a\u304c\u3068\u3046",
       "url": "https://open.spotify.com/track/5oDEAsNWeomAjcplALgqdw"
@@ -31374,7 +31486,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 191803,
       "name": "\u767d\u8272\u8709\u8763",
       "url": "https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF"

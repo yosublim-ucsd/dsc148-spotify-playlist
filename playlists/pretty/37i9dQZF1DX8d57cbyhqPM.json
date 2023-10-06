@@ -1,15 +1,35 @@
 {
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: KeBlack",
-  "num_followers": 26229,
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Gino J",
+  "num_followers": 26296,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWIyYmZiMjgwOTFkMTM5MzVmZjNhYzEzYTZlZDc1OWVlMGEwNWE5",
+  "snapshot_id": "MCxiYzNiYmExNTY4NDRmYzBkNmM3NjkzZDIzYWRhMzI3NGE2NTM0ZTVl",
   "tracks": [
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0wGVLoQ4igKEYOiTbMaEWr"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Guccima",
+          "url": "https://open.spotify.com/artist/5ZsfSFTF5DlQ8gRSe65Mhh"
+        }
+      ],
+      "duration_ms": 196579,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "LAISSE MOI",
         "url": "https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/2jhcUs6UTxBncqB02VZpyD"
@@ -57,27 +77,43 @@
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
-        "name": "BRUT4L",
-        "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
+        "name": "Bokoko (Extra Musica)",
+        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
       },
       "artists": [
         {
-          "name": "Ikaz Boi",
-          "url": "https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe"
+          "name": "Roga Roga",
+          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
         },
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Extra Musica",
+          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
         }
       ],
-      "duration_ms": 160306,
-      "name": "BALLE DANS LE COEUR",
-      "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+      "duration_ms": 252687,
+      "name": "Bokoko",
+      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Posa na bina",
+        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Posa na bina",
+      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
@@ -97,7 +133,27 @@
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "BRUT4L",
+        "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
+      },
+      "artists": [
+        {
+          "name": "Ikaz Boi",
+          "url": "https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "BALLE DANS LE COEUR",
+      "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "\u00c7a va !",
         "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
@@ -117,7 +173,7 @@
       "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "\u00c7ava",
         "url": "https://open.spotify.com/album/06C3kwzKTthzgogsGkdrGQ"
@@ -133,7 +189,7 @@
       "url": "https://open.spotify.com/track/3fXrGNa9JmqlgGMcSINIpo"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "D\u00e9bloquer",
         "url": "https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5"
@@ -153,75 +209,7 @@
       "url": "https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "\u00c7a va",
-        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "\u00c7a va",
-      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Mwinda",
-        "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
-      },
-      "artists": [
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 300094,
-      "name": "Mwinda",
-      "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Parcours",
-        "url": "https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 210642,
-      "name": "Parcours",
-      "url": "https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8"
-      },
-      "artists": [
-        {
-          "name": "DJ KEROZEN",
-          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
-        },
-        {
-          "name": "Koffi Olomide",
-          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl"
@@ -241,7 +229,271 @@
       "url": "https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "\u00c7a va",
+        "url": "https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 171853,
+      "name": "\u00c7a va",
+      "url": "https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Mwinda",
+        "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "duration_ms": 300094,
+      "name": "Mwinda",
+      "url": "https://open.spotify.com/track/3qSfVR5ujV1SaomRSARWim"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "LMDB",
+        "url": "https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Palav\u00e9 (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "El mayalove",
+        "url": "https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 219867,
+      "name": "Mbangu te",
+      "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Bloqu\u00e9",
+        "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Bloqu\u00e9",
+      "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Parcours",
+        "url": "https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "duration_ms": 210642,
+      "name": "Parcours",
+      "url": "https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "La guitare suit la m\u00e9lo",
+        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "La guitare suit la m\u00e9lo",
+      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Nouvelle \u00e8re",
+        "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
+      },
+      "artists": [
+        {
+          "name": "3 Heures prod",
+          "url": "https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "duration_ms": 195491,
+      "name": "Benda",
+      "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
+        "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
+      },
+      "artists": [
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        }
+      ],
+      "duration_ms": 361351,
+      "name": "On dit quoi",
+      "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Caresse",
+        "url": "https://open.spotify.com/album/3aZ3XICAdX8kD7lVOuxaYU"
+      },
+      "artists": [
+        {
+          "name": "SevMokonzi",
+          "url": "https://open.spotify.com/artist/0FXwUzwyrYyGJkYwAnpYp8"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "Caresse",
+      "url": "https://open.spotify.com/track/5gbz2cNy6onybV68m96GFD"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Dendisa",
+        "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 246101,
+      "name": "Dendisa",
+      "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "PO NA BISO",
+        "url": "https://open.spotify.com/album/4E2X4MOiMVHRYOv7DEp69W"
+      },
+      "artists": [
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        }
+      ],
+      "duration_ms": 212682,
+      "name": "PO NA BISO",
+      "url": "https://open.spotify.com/track/7aYNn7Ig8eX9x27Gu76hco"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/4rlPB2WMMA6uSGOVtr7DA8"
+      },
+      "artists": [
+        {
+          "name": "DJ KEROZEN",
+          "url": "https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W"
+        },
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Francophonie",
+        "url": "https://open.spotify.com/album/1fUTxzNduGKzq0sYo9CZN1"
+      },
+      "artists": [
+        {
+          "name": "Stone Komo",
+          "url": "https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Francophonie - Boko kabwana kaka",
+      "url": "https://open.spotify.com/track/3Cx4vtFSEVLtzs8fODoGBA"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Danger (RMX)",
         "url": "https://open.spotify.com/album/6Kchb3of3XRixZtMzpc5lc"
@@ -265,207 +517,7 @@
       "url": "https://open.spotify.com/track/1QBcLNVeXKU6Bzz3z5KPtD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Na Lola",
-        "url": "https://open.spotify.com/album/7GOZ2FqO0vmcifO5j4DMZk"
-      },
-      "artists": [
-        {
-          "name": "Fellow",
-          "url": "https://open.spotify.com/artist/7HpOY5zrYpo0PNR1OHqs0r"
-        },
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Na Lola",
-      "url": "https://open.spotify.com/track/3RLq8Pf4D4Yd8wdNXMUQkF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "La guitare suit la m\u00e9lo",
-        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "La guitare suit la m\u00e9lo",
-      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Danse",
-        "url": "https://open.spotify.com/album/1im21Oi225yO8IponkdVxi"
-      },
-      "artists": [
-        {
-          "name": "Omo Frenchie",
-          "url": "https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Danse",
-      "url": "https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/2G4C8evrYTOcMhWNSKSBoy"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Coup\u00e9 D\u00e9cal\u00e9 Zone (Sushiraw)",
-        "url": "https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ"
-      },
-      "artists": [
-        {
-          "name": "Kaysha",
-          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
-        }
-      ],
-      "duration_ms": 361351,
-      "name": "On dit quoi",
-      "url": "https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Bokoko (Extra Musica)",
-        "url": "https://open.spotify.com/album/6UQuvYAa0xee2V2Wh4W3o6"
-      },
-      "artists": [
-        {
-          "name": "Roga Roga",
-          "url": "https://open.spotify.com/artist/2L1TvC8zgIymRxaa32TWug"
-        },
-        {
-          "name": "Extra Musica",
-          "url": "https://open.spotify.com/artist/5b93AJQpEWNI8b1X6Nu99K"
-        }
-      ],
-      "duration_ms": 252687,
-      "name": "Bokoko",
-      "url": "https://open.spotify.com/track/1DSdM1nslwDn8JlHElw6Yc"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Posa na bina",
-        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
-      },
-      "artists": [
-        {
-          "name": "Hulk Van JMF",
-          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Posa na bina",
-      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Dendisa",
-        "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
-      },
-      "artists": [
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 246101,
-      "name": "Dendisa",
-      "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Half 5",
-        "url": "https://open.spotify.com/album/1cpB7QtgfL5NSTQZppLuYG"
-      },
-      "artists": [
-        {
-          "name": "RSG",
-          "url": "https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Half 5",
-      "url": "https://open.spotify.com/track/7dw9D4o2oRFrTBQI4NiXEA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Pole Pole",
-        "url": "https://open.spotify.com/album/1PfUsfBkYFoB2DaNAd516S"
-      },
-      "artists": [
-        {
-          "name": "Dj Bombe H",
-          "url": "https://open.spotify.com/artist/4tadTFe2ufQO2UNmGTXKpp"
-        },
-        {
-          "name": "Ninita",
-          "url": "https://open.spotify.com/artist/2ZmX8cUroZIB6r5koCeB0V"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Pole Pole",
-      "url": "https://open.spotify.com/track/6j9Zkg0EM7Z8kGBqTgxCh9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Francophonie",
-        "url": "https://open.spotify.com/album/1fUTxzNduGKzq0sYo9CZN1"
-      },
-      "artists": [
-        {
-          "name": "Stone Komo",
-          "url": "https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Francophonie - Boko kabwana kaka",
-      "url": "https://open.spotify.com/track/3Cx4vtFSEVLtzs8fODoGBA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Soldat",
         "url": "https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Linga Nga",
         "url": "https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Plus jamais",
         "url": "https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X"
@@ -525,43 +577,7 @@
       "url": "https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "LMDB",
-        "url": "https://open.spotify.com/album/7ywkrR5rlJ0Lj4jbsHVfU3"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Palav\u00e9 (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/7AVgv2DjAjyybEEJLAnd29"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Bloqu\u00e9",
-        "url": "https://open.spotify.com/album/5LZHW96lBwlzoqxYzEfVF8"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Bloqu\u00e9",
-      "url": "https://open.spotify.com/track/6L6lwZwGzn6WWqeLbONWZf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Ba zoba",
         "url": "https://open.spotify.com/album/48irBPBUAgsGiWByUeQ504"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/6Gu4tDlGVj9FSWCbPcwLo3"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Indess",
         "url": "https://open.spotify.com/album/4A4yPkRSHMDr0DMvehKUgR"
@@ -601,23 +617,7 @@
       "url": "https://open.spotify.com/track/6niNPp6rdlIQS61n95OQwo"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "El mayalove",
-        "url": "https://open.spotify.com/album/7ohx2s4LEDhFSlieYpVBLy"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 219867,
-      "name": "Mbangu te",
-      "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Bizorbi",
         "url": "https://open.spotify.com/album/6kVeYVPbvQ4WjmtzROIxXY"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/6IDHonEuHfYzjB3GqQDut5"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "TOUCHE MOI (Tindidi)",
         "url": "https://open.spotify.com/album/557ibuoURcCgf5uONft8el"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Afro Mbokalisation",
         "url": "https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Gentleman 2.0",
         "url": "https://open.spotify.com/album/71uxNnvLeDpn3vEHqdY1Mv"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Diamant",
         "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/3D0OJtFqBqjgfbsangQU2L"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/1YieXGaS4c81P4x02oUl61"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Maziwa",
         "url": "https://open.spotify.com/album/7wqLvH7cLXKw0YnVUoNyfz"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/09IfxlKqPL33hhPTfO6wfO"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Pretty Girl Pack",
         "url": "https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N"
@@ -801,39 +801,23 @@
       "url": "https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
-        "name": "C'EST MA VIE",
-        "url": "https://open.spotify.com/album/3gY9b5ikga7dt1mS5OfhA2"
+        "name": "Half 5",
+        "url": "https://open.spotify.com/album/1cpB7QtgfL5NSTQZppLuYG"
       },
       "artists": [
         {
-          "name": "ALBI X",
-          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+          "name": "RSG",
+          "url": "https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8"
         }
       ],
-      "duration_ms": 188000,
-      "name": "C'EST MA VIE",
-      "url": "https://open.spotify.com/track/4B2MFDkxTyCV3ek5hBIfZd"
+      "duration_ms": 198260,
+      "name": "Half 5",
+      "url": "https://open.spotify.com/track/7dw9D4o2oRFrTBQI4NiXEA"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Caresse",
-        "url": "https://open.spotify.com/album/3aZ3XICAdX8kD7lVOuxaYU"
-      },
-      "artists": [
-        {
-          "name": "SevMokonzi",
-          "url": "https://open.spotify.com/artist/0FXwUzwyrYyGJkYwAnpYp8"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Caresse",
-      "url": "https://open.spotify.com/track/5gbz2cNy6onybV68m96GFD"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Sans nouvelle",
         "url": "https://open.spotify.com/album/6B5ks4O0TDE0LP8PBBilhM"
@@ -849,7 +833,23 @@
       "url": "https://open.spotify.com/track/1wlksYa0f0F5IXEt4DOXHC"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Danse",
+        "url": "https://open.spotify.com/album/1im21Oi225yO8IponkdVxi"
+      },
+      "artists": [
+        {
+          "name": "Omo Frenchie",
+          "url": "https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Danse",
+      "url": "https://open.spotify.com/track/6QJotPdXRCSuHLdyD3QKZd"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Formule 7",
         "url": "https://open.spotify.com/album/4wIVgSLd2xKHdp3Bs6iVsf"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/2oswXAs7dpgNyJbjqUOZKB"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Nostalgie",
         "url": "https://open.spotify.com/album/6VPoJ7iW330fKJ1mJsg2pt"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/5Y6rAybIKWexRGx2DoLnmA"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Carr\u00e9 (feat. Fally Ipupa)",
         "url": "https://open.spotify.com/album/4oG5nKIyQXVKVozGUbOlnA"
@@ -901,31 +901,7 @@
       "url": "https://open.spotify.com/track/558wwMmRlaCXruzBg7s1QG"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Feux de l'amour",
-        "url": "https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF"
-      },
-      "artists": [
-        {
-          "name": "J.B. Mpiana",
-          "url": "https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX"
-        },
-        {
-          "name": "Wenge Musica",
-          "url": "https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP"
-        },
-        {
-          "name": "Papa Wemba",
-          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Ndombolo",
-      "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "DNK",
         "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
@@ -945,7 +921,7 @@
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Femme Africaine",
         "url": "https://open.spotify.com/album/2vNXcv6Pa0IBvs70onbDqr"
@@ -961,7 +937,7 @@
       "url": "https://open.spotify.com/track/3SMheBG25pe8icrKQOPZbY"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Mopacho Panama",
         "url": "https://open.spotify.com/album/5PmflLOf1xJZt1P7fAbA4D"
@@ -981,7 +957,7 @@
       "url": "https://open.spotify.com/track/7wbMzPQrM8HF5z5ouQNiZT"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Mondongo",
         "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
@@ -997,7 +973,7 @@
       "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Eloko",
         "url": "https://open.spotify.com/album/5BclOVLIHYhchoiRfRzA9A"
@@ -1013,7 +989,7 @@
       "url": "https://open.spotify.com/track/0bnOKQk43FZdLaCku0zSiR"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Maboko Milayi",
         "url": "https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw"
@@ -1033,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "MRTHN",
         "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
@@ -1057,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Amour & moi",
         "url": "https://open.spotify.com/album/2NAkbN7FQw4yTukP3NOvpb"
@@ -1073,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5J9dOEHLNPwfbFlWPTkm8S"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Nous deux",
         "url": "https://open.spotify.com/album/4P6ow8BZHDgWESXQMjUUzK"
@@ -1089,7 +1065,7 @@
       "url": "https://open.spotify.com/track/6APVzgDu9ni6rIcSubOZz3"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "One Leg (Kiki Ewing)",
         "url": "https://open.spotify.com/album/35LxfEK4UZIrJgoW12Toro"
@@ -1105,7 +1081,7 @@
       "url": "https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Quand j'y repense",
         "url": "https://open.spotify.com/album/6UajBxdtW2cxG1Do4hzhpF"
@@ -1125,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0sWCXDsedhClISQuKKMJcf"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "17%",
         "url": "https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z"
@@ -1145,7 +1121,31 @@
       "url": "https://open.spotify.com/track/4QAv7uyOwIgqOVgzczomOo"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Feux de l'amour",
+        "url": "https://open.spotify.com/album/2R1EfXW4P5627Q6qZqxPtF"
+      },
+      "artists": [
+        {
+          "name": "J.B. Mpiana",
+          "url": "https://open.spotify.com/artist/6ZZMaIylugRJgjP7CAg7DX"
+        },
+        {
+          "name": "Wenge Musica",
+          "url": "https://open.spotify.com/artist/196Mh2yrd4xaNupimhUmpP"
+        },
+        {
+          "name": "Papa Wemba",
+          "url": "https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Ndombolo",
+      "url": "https://open.spotify.com/track/2DzhQ5UXu8fDQaQ0WaMYHK"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
@@ -1161,7 +1161,27 @@
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
+      "album": {
+        "name": "Yo Pe (Remix)",
+        "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Yo Pe - Remix",
+      "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
+    },
+    {
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Dodo (Remix)",
         "url": "https://open.spotify.com/album/7E3aU7OQ0sWpAY46h3TRfh"
@@ -1181,7 +1201,7 @@
       "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Paka",
         "url": "https://open.spotify.com/album/5MkA3ZHGmPmfeUlZLjNM9F"
@@ -1197,7 +1217,7 @@
       "url": "https://open.spotify.com/track/1KbEjbFZlGJv37Lm6XCfbl"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
@@ -1217,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Fimbu",
         "url": "https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa"
@@ -1233,7 +1253,7 @@
       "url": "https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Waah! (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/4Jk9lFqW5Jubq6RblSowLj"
@@ -1253,7 +1273,7 @@
       "url": "https://open.spotify.com/track/0ceJAvjokFWwhh0nsOM9QD"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Ips\u00e9it\u00e9",
         "url": "https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt"
@@ -1269,7 +1289,7 @@
       "url": "https://open.spotify.com/track/6YuSiFqJP4MUo88RtUAfAX"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "ART",
         "url": "https://open.spotify.com/album/2UGjMioVdRsPg1lvm6dQnW"
@@ -1297,7 +1317,7 @@
       "url": "https://open.spotify.com/track/58v78PuisC6mzn7SUnEAjw"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
@@ -1313,7 +1333,7 @@
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Caler Son",
         "url": "https://open.spotify.com/album/0rOrnuEczPPCGMDM6fSToX"
@@ -1333,7 +1353,7 @@
       "url": "https://open.spotify.com/track/6O8ZZH9r6QRobAbf8xy3rN"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Ya Jean",
         "url": "https://open.spotify.com/album/06Mr2L6kIAbYyvdqAhWmF8"
@@ -1349,7 +1369,7 @@
       "url": "https://open.spotify.com/track/0pezTTL2fjRJUdAzfoQmTm"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Eloko",
         "url": "https://open.spotify.com/album/21U2ZROxX0JQiR91RQjt67"
@@ -1369,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4OXLcfffBxIt4uqwjFVI9N"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "Maison m\u00e8re",
         "url": "https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU"
@@ -1385,7 +1405,7 @@
       "url": "https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 00:36:39",
       "album": {
         "name": "7 jours de la semaine",
         "url": "https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy"
@@ -1399,26 +1419,6 @@
       "duration_ms": 331199,
       "name": "Diemba (Balan\u00e7oire) - G\u00e9n\u00e9rique",
       "url": "https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Yo Pe (Remix)",
-        "url": "https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV"
-      },
-      "artists": [
-        {
-          "name": "Innoss'B",
-          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
-        },
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Yo Pe - Remix",
-      "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
     }
   ],
   "unique_name": "Biso Na Biso",

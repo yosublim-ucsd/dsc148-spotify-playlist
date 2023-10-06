@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,232 songs - 2 day 9 hr 0 min
+1,233 songs - 2 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Infinite Tsukuyomi](https://open.spotify.com/track/1w6yKhAgRhIaZhsWEay2H3) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Tsukuyomi Dream](https://open.spotify.com/album/0XJ2GHflMl75zuofYfuARg) | 3:24 | 2021-03-27\* | 2022-01-08 |
 | [Internal](https://open.spotify.com/track/5VIR1O2q6JhcugcuOeYpO8) | [Rogue Dave](https://open.spotify.com/artist/5rfZwd1LcOIodLysmqlXGK) | [Internal](https://open.spotify.com/album/0mGkEKINzyXAHLWCZT0JAB) | 1:40 | 2022-01-11 | 2022-01-21 |
 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 | 2023-04-24 | 2023-05-06 |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-05 |  |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2022-01-01 | 2022-01-03 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2023-01-01 | 2023-01-03 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2022-01-01 | 2023-01-03 |
@@ -903,7 +904,7 @@
 | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/track/5SIWet1hcYBuPd6l36NlZG) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH), [104](https://open.spotify.com/artist/3Th60WEZwIWceINQVE4Ipx), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B), [BILIK](https://open.spotify.com/artist/3A4xVUf4pH2xCtIjctgdFd) | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/album/7buTJibChOq9YQAbXQu0Uh) | 2:55 | 2021-04-04 | 2021-04-11 |
 | [Ластівки](https://open.spotify.com/track/489WGIBYPf4nallnJOHpK6) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7) | [Ластівки](https://open.spotify.com/album/3CX7DQUapv7QJm75jjLzpR) | 2:55 | 2022-06-20 | 2022-12-22 |
 | [Лига Опасного Интернета](https://open.spotify.com/track/7B4napIhOn1s4qnwgcXBCl) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Лига Опасного Интернета](https://open.spotify.com/album/2BcD3y93sg63zQ8lJHCu3d) | 2:20 | 2023-08-13 | 2023-08-24 |
-| [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2021-10-20 |  |
+| [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2021-10-20 | 2023-10-06 |
 | [Лилия \(prod\. by DooMee\)](https://open.spotify.com/track/6oVJVkwrqYpbabgi39J49z) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [GHETTO GARDEN](https://open.spotify.com/album/3KCTalNYMYwD9LroSWFYrd) | 1:43 | 2021-03-31 | 2021-04-01 |
 | [Лирика](https://open.spotify.com/track/7eRQKOB4BcBa6wjp0DDsIY) | [Вектор А](https://open.spotify.com/artist/4z0OokRQUzur9rfy9KUiSf) | [Лирика](https://open.spotify.com/album/0itARJ8GmhjMt3oxsT2vDc) | 2:52 | 2022-02-19 | 2022-02-21 |
 | [Лифон](https://open.spotify.com/track/1vLBDj2hhzAVskV5OUQ5d2) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [SAGARA](https://open.spotify.com/artist/0XBTE6PRvo41LSvLffWItA) | [Лифон](https://open.spotify.com/album/1hplJZonvRSXIJxlN4jc7P) | 2:30 | 2021-11-28 | 2022-03-24 |

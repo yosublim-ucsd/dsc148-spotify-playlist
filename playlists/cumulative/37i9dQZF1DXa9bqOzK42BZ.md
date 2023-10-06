@@ -2,7 +2,7 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP?si=nMRvI74rSYGrOtv6uQqHpg">Zabron Singers</a>
 
 114 songs - 11 hr 2 min
 

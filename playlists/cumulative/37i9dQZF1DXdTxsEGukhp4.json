@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "doudemoii hanashiga shitai",
+        "url": "https://open.spotify.com/album/1XmBGaPoJeUzBlKLK8pns9"
+      },
+      "artists": [
+        {
+          "name": "Leina",
+          "url": "https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201411,
+      "name": "doudemoii hanashiga shitai",
+      "url": "https://open.spotify.com/track/7pbMb6wgeowLSl2ZoN5X31"
+    },
+    {
+      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 211226,
       "name": "Hey Song",
       "url": "https://open.spotify.com/track/0tjzgMwPAAkL4xAY3g74FS"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 163772,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/49Ea2kgsKwfTPlr1QNXflY"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 226489,
       "name": "Nagisa",
       "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
@@ -3129,6 +3147,28 @@
     },
     {
       "album": {
+        "name": "Speed Tape",
+        "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
+      },
+      "artists": [
+        {
+          "name": "KEIJU",
+          "url": "https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185034,
+      "name": "Wind Rise",
+      "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+    },
+    {
+      "album": {
         "name": "Boku",
         "url": "https://open.spotify.com/album/59W6AyzntW2vjcElppqce8"
       },
@@ -3384,6 +3424,24 @@
       "duration_ms": 126609,
       "name": "\u3055\u3088\u306a\u3089\u30d7\u30ea\u30f3\u30bb\u30b9",
       "url": "https://open.spotify.com/track/3rDpUjIlqllrgvZTq1DaVQ"
+    },
+    {
+      "album": {
+        "name": "\u305d\u3093\u306a\u4eba\u751f\u3092\u582a\u80fd\u3057\u305f\u3044",
+        "url": "https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5"
+      },
+      "artists": [
+        {
+          "name": "\u864e\u9df9",
+          "url": "https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234293,
+      "name": "\u305d\u3093\u306a\u4eba\u751f\u3092\u582a\u80fd\u3057\u305f\u3044",
+      "url": "https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr"
     },
     {
       "album": {
@@ -3866,7 +3924,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 138662,
       "name": "\u30d3\u30fc\u30c8DE\u30c8\u30fc\u30d2",
       "url": "https://open.spotify.com/track/5D4XpDNbB5WTFLQ8VA442k"
@@ -4514,6 +4572,24 @@
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
+    },
+    {
+      "album": {
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "album": {

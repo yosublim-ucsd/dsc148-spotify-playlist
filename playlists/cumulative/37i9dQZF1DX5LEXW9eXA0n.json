@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "As Autumn Brings Cold Wind",
+        "url": "https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259972,
+      "name": "As Autumn Brings Cold Wind",
+      "url": "https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN"
+    },
+    {
+      "album": {
         "name": "As much as I loved you",
         "url": "https://open.spotify.com/album/39XwH2QhrieyhZyiWMnogS"
       },

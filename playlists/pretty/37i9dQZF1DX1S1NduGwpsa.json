@@ -1,51 +1,87 @@
 {
-  "description": "The best jazz new releases. Cover: Gregory Porter",
-  "num_followers": 124962,
+  "description": "The best jazz new releases. Cover: Katie Melua",
+  "num_followers": 125085,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjg4ZGMwNjMzNThiNzUyNzZmZDQ0Y2YwMjQyMGQyNjI2MTVjNmJl",
+  "snapshot_id": "MCw0MTMyNTEyOWM0ZjA4MTRkMzI1MzY3Yzc3OGMxNjIwOTM5ZWEwOWE2",
   "tracks": [
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Everything\u2019s Not Lost",
-        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
+        "name": "Brexit Music",
+        "url": "https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB"
       },
       "artists": [
         {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 248689,
-      "name": "Everything\u2019s Not Lost",
-      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Stress Killer",
-        "url": "https://open.spotify.com/album/2h0W4dYtIysda9qgmm3jV7"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9on Phal",
-          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
         },
         {
-          "name": "Lorine Chia",
-          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+          "name": "Greg Hutchinson",
+          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
+        },
+        {
+          "name": "Matt Penmann",
+          "url": "https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr"
         }
       ],
-      "duration_ms": 192440,
-      "name": "Something Inside",
-      "url": "https://open.spotify.com/track/1f3KNJkqDaebhZNZBh5nKi"
+      "duration_ms": 188240,
+      "name": "Drive My Car",
+      "url": "https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Stings",
+        "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Stings",
+      "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Call Off The Search",
+        "url": "https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "duration_ms": 136307,
+      "name": "Call Off The Search - Demo",
+      "url": "https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Feel Good Music",
+        "url": "https://open.spotify.com/album/4zqHegtEjjOFhFg95YjQwi"
+      },
+      "artists": [
+        {
+          "name": "Endea Owens",
+          "url": "https://open.spotify.com/artist/632l8G3bwQHQcFDDbWVXAH"
+        }
+      ],
+      "duration_ms": 410600,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
@@ -61,7 +97,107 @@
       "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Third Times the Charm",
+        "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        }
+      ],
+      "duration_ms": 330480,
+      "name": "Scootin'",
+      "url": "https://open.spotify.com/track/0OnwVifjJwOvrPqRKQxdQt"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "La Gran Diversi\u00f3n",
+        "url": "https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        }
+      ],
+      "duration_ms": 203394,
+      "name": "Baila Mulata",
+      "url": "https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "I Could Write a Book (Live)",
+        "url": "https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 458458,
+      "name": "I Could Write a Book - Live",
+      "url": "https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Give Me A Reason",
+        "url": "https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 253389,
+      "name": "Give Me A Reason",
+      "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Everything\u2019s Not Lost",
+        "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 248689,
+      "name": "Everything\u2019s Not Lost",
+      "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Day In Day Out (Florian Pellissier Extended Version)",
         "url": "https://open.spotify.com/album/7urOxAlRsgKpA64cKZ6jWw"
@@ -85,7 +221,43 @@
       "url": "https://open.spotify.com/track/2HCLYRJnXDMQ9yfjHIiL60"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Stress Killer",
+        "url": "https://open.spotify.com/album/2h0W4dYtIysda9qgmm3jV7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Lorine Chia",
+          "url": "https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Something Inside",
+      "url": "https://open.spotify.com/track/1f3KNJkqDaebhZNZBh5nKi"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "L'alpagueur",
+        "url": "https://open.spotify.com/album/3elFUdRNF2mhWovGqzHsqd"
+      },
+      "artists": [
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "L'alpagueur",
+      "url": "https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
@@ -109,23 +281,27 @@
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "L'alpagueur",
-        "url": "https://open.spotify.com/album/3elFUdRNF2mhWovGqzHsqd"
+        "name": "Storyboard",
+        "url": "https://open.spotify.com/album/1fQxFXmN51ghwHl2AWsXga"
       },
       "artists": [
         {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+          "name": "Gwen Cahue",
+          "url": "https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO"
+        },
+        {
+          "name": "Baptiste Bailly",
+          "url": "https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS"
         }
       ],
-      "duration_ms": 242666,
-      "name": "L'alpagueur",
-      "url": "https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u"
+      "duration_ms": 263560,
+      "name": "La balade",
+      "url": "https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Love is Never Too Late",
         "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
@@ -141,39 +317,7 @@
       "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Give Me A Reason",
-        "url": "https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 253389,
-      "name": "Give Me A Reason",
-      "url": "https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Stings",
-        "url": "https://open.spotify.com/album/09easBrTbXjhnsqORAvkiK"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Stings",
-      "url": "https://open.spotify.com/track/7zdBfReMVQKgxO5Pa5O3Hf"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Deluxe Refuge",
         "url": "https://open.spotify.com/album/4bmmEf1HnNsp44VM8YKWbg"
@@ -189,75 +333,39 @@
       "url": "https://open.spotify.com/track/3fbRtTiwsr5cYyLvVMrWF3"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Angels & Queens (Deluxe)",
-        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
+        "name": "Mangrove",
+        "url": "https://open.spotify.com/album/52u1Jd1pll9AAnJeeOMa14"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Ma\u00eb Defays",
+          "url": "https://open.spotify.com/artist/0QytOJIXShUqZUANBDno3J"
         }
       ],
-      "duration_ms": 239533,
-      "name": "Great Wind",
-      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
+      "duration_ms": 225426,
+      "name": "Mangrove",
+      "url": "https://open.spotify.com/track/5jMErITrJizIjsGGUt3BDh"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Under Paris Skies",
-        "url": "https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP"
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj"
       },
       "artists": [
         {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+          "name": "Mathis Picard",
+          "url": "https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR"
         }
       ],
-      "duration_ms": 261319,
-      "name": "Under Paris Skies",
-      "url": "https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7"
+      "duration_ms": 257032,
+      "name": "Heat Of The Moment",
+      "url": "https://open.spotify.com/track/24eVMVDkDqLr1XGlnpOjtv"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Third Times the Charm",
-        "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
-        }
-      ],
-      "duration_ms": 330480,
-      "name": "Scootin'",
-      "url": "https://open.spotify.com/track/0OnwVifjJwOvrPqRKQxdQt"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Feel Good Music",
-        "url": "https://open.spotify.com/album/4zqHegtEjjOFhFg95YjQwi"
-      },
-      "artists": [
-        {
-          "name": "Endea Owens",
-          "url": "https://open.spotify.com/artist/632l8G3bwQHQcFDDbWVXAH"
-        }
-      ],
-      "duration_ms": 410600,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1I4hekWxSDBawYgh1AZuMg"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/7rh3PfTK0nrnjzyamfGvjU"
@@ -273,35 +381,95 @@
       "url": "https://open.spotify.com/track/2wQezSDg7fDhAxNr09E00Y"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi"
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
       "artists": [
         {
-          "name": "Thomas de Pourquery",
-          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
-        },
-        {
-          "name": "Laurent Bardainne",
-          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
-        },
-        {
-          "name": "Fabrice Martinez",
-          "url": "https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D"
-        },
-        {
-          "name": "Dr\u00f4les de Dames",
-          "url": "https://open.spotify.com/artist/2RqB2FUoiFLQF7vEsE9FCM"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 296761,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4"
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 323522,
+      "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Sunset Ballad",
+        "url": "https://open.spotify.com/album/6Wk5CDla9XNKvAJHdAGqJP"
+      },
+      "artists": [
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Sunset Ballad",
+      "url": "https://open.spotify.com/track/7krneDaWsDdXN2Qt5AHxMA"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Body of Mine",
+        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Ela E Carioca",
+        "url": "https://open.spotify.com/album/28ltl7z5ZfsZYijVumSgaJ"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Ela E Carioca",
+      "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Black and Blue",
         "url": "https://open.spotify.com/album/1qHnbYjfxFzX9ziUEjQNfa"
@@ -341,159 +509,7 @@
       "url": "https://open.spotify.com/track/1tbdcCfeGjibUJ0Et1qT9L"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj"
-      },
-      "artists": [
-        {
-          "name": "Mathis Picard",
-          "url": "https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR"
-        }
-      ],
-      "duration_ms": 257032,
-      "name": "Heat Of The Moment",
-      "url": "https://open.spotify.com/track/24eVMVDkDqLr1XGlnpOjtv"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/4JdmT4JJgQFP3dUgvpjx3H"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "?uestlove",
-          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 323522,
-      "name": "Why Am I Treated So Bad (with Questlove, Christian McBride) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/22OeSoWelZKWr5On4XIaKP"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Body of Mine",
-        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "La Gran Diversi\u00f3n",
-        "url": "https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        }
-      ],
-      "duration_ms": 203394,
-      "name": "Baila Mulata",
-      "url": "https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Ela E Carioca",
-        "url": "https://open.spotify.com/album/28ltl7z5ZfsZYijVumSgaJ"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Ela E Carioca",
-      "url": "https://open.spotify.com/track/7AzWgXu2tfrcNx9sQaCjBx"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Excess",
-        "url": "https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX"
-      },
-      "artists": [
-        {
-          "name": "Edouard Ferlet",
-          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "Excess",
-      "url": "https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Sunset Ballad",
-        "url": "https://open.spotify.com/album/6Wk5CDla9XNKvAJHdAGqJP"
-      },
-      "artists": [
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Sunset Ballad",
-      "url": "https://open.spotify.com/track/7krneDaWsDdXN2Qt5AHxMA"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Plays Mac Rebennack",
-        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 110226,
-      "name": "Beignet",
-      "url": "https://open.spotify.com/track/179Jr6fqOod5QM4vdyVgwN"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg"
@@ -509,23 +525,79 @@
       "url": "https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Seetu",
-        "url": "https://open.spotify.com/album/0fdAABWwycrJZzuBRNeX8y"
+        "name": "Excess",
+        "url": "https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX"
       },
       "artists": [
         {
-          "name": "African Jazz Roots",
-          "url": "https://open.spotify.com/artist/0jMEzO2Klfb1iPwAGkFJrU"
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
         }
       ],
-      "duration_ms": 296773,
-      "name": "Le jour des r\u00e9gates",
-      "url": "https://open.spotify.com/track/5b5PCqVD2atBc9MFLGXIuj"
+      "duration_ms": 229613,
+      "name": "Excess",
+      "url": "https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "SuperBlue: The Iridescent Spree",
+        "url": "https://open.spotify.com/album/5qMLFAqVK8IwPRcpuH88R8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        }
+      ],
+      "duration_ms": 298708,
+      "name": "Little Fairy Carpenter",
+      "url": "https://open.spotify.com/track/5K0V5WtaEJMYc3izrQ6vQV"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Teo",
+        "url": "https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 215482,
+      "name": "Teo",
+      "url": "https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Under Paris Skies",
+        "url": "https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 261319,
+      "name": "Under Paris Skies",
+      "url": "https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Transe",
         "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
@@ -541,7 +613,67 @@
       "url": "https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi"
+      },
+      "artists": [
+        {
+          "name": "Thomas de Pourquery",
+          "url": "https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe"
+        },
+        {
+          "name": "Laurent Bardainne",
+          "url": "https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw"
+        },
+        {
+          "name": "Fabrice Martinez",
+          "url": "https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D"
+        },
+        {
+          "name": "Dr\u00f4les de Dames",
+          "url": "https://open.spotify.com/artist/2RqB2FUoiFLQF7vEsE9FCM"
+        }
+      ],
+      "duration_ms": 296761,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Plays Mac Rebennack",
+        "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 110226,
+      "name": "Beignet",
+      "url": "https://open.spotify.com/track/179Jr6fqOod5QM4vdyVgwN"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Seetu",
+        "url": "https://open.spotify.com/album/0fdAABWwycrJZzuBRNeX8y"
+      },
+      "artists": [
+        {
+          "name": "African Jazz Roots",
+          "url": "https://open.spotify.com/artist/0jMEzO2Klfb1iPwAGkFJrU"
+        }
+      ],
+      "duration_ms": 296773,
+      "name": "Le jour des r\u00e9gates",
+      "url": "https://open.spotify.com/track/5b5PCqVD2atBc9MFLGXIuj"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Yesterday's Price",
         "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
@@ -569,7 +701,7 @@
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Vibing in Ay",
         "url": "https://open.spotify.com/album/0QPLC5ECGXuoqP9KQMLtwL"
@@ -585,55 +717,7 @@
       "url": "https://open.spotify.com/track/4gTHcR3JBdVIY1f9XPD77U"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "SuperBlue: The Iridescent Spree",
-        "url": "https://open.spotify.com/album/5qMLFAqVK8IwPRcpuH88R8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "SuperBlue",
-          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
-        }
-      ],
-      "duration_ms": 298708,
-      "name": "Little Fairy Carpenter",
-      "url": "https://open.spotify.com/track/5K0V5WtaEJMYc3izrQ6vQV"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Brexit Music",
-        "url": "https://open.spotify.com/album/4Syh9y7tKbCtkHRsSOjxNB"
-      },
-      "artists": [
-        {
-          "name": "Baptiste Trotignon",
-          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
-        },
-        {
-          "name": "Greg Hutchinson",
-          "url": "https://open.spotify.com/artist/7Fq1ZR135foUaxCHN1Ex8o"
-        },
-        {
-          "name": "Matt Penmann",
-          "url": "https://open.spotify.com/artist/11XVTuKY8lRxcrbbysWYLr"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Drive My Car",
-      "url": "https://open.spotify.com/track/2UqjB852n1IxWh2GDbyD9u"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Have A Talk With God",
         "url": "https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf"
@@ -653,7 +737,7 @@
       "url": "https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "One Week",
         "url": "https://open.spotify.com/album/5kCMg3tpv9Qu25zUFem5VI"
@@ -673,7 +757,7 @@
       "url": "https://open.spotify.com/track/3ILAN6s1hxqjRrhB6J5ron"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "September in the Rain",
         "url": "https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX"
@@ -693,7 +777,7 @@
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
@@ -713,7 +797,7 @@
       "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Jazz Hands (feat. CeeLo Green)",
         "url": "https://open.spotify.com/album/3womuEXUOjSxKvWvdmFgNv"
@@ -733,7 +817,7 @@
       "url": "https://open.spotify.com/track/5o0EnxQGxtzMH23QEiOsXL"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "How Did You Get In My Dreams?",
         "url": "https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7"
@@ -749,43 +833,7 @@
       "url": "https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Entre eux deux (The Paris Sessions)",
-        "url": "https://open.spotify.com/album/2UfbvrTEAQ7mupKd1bgOXy"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 283466,
-      "name": "Darling Fare Thee Well - The Paris Sessions",
-      "url": "https://open.spotify.com/track/3KAeMur76miJyksT51VP9x"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Safely Far",
-        "url": "https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn"
-      },
-      "artists": [
-        {
-          "name": "Ed Motta",
-          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
-        }
-      ],
-      "duration_ms": 185637,
-      "name": "Safely Far",
-      "url": "https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Third Times the Charm",
         "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
@@ -801,7 +849,79 @@
       "url": "https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E"
     },
     {
-      "added_at": "2023-10-04 10:15:29",
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 295899,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "D'une \u00e9vidence \u00e0 l'autre",
+        "url": "https://open.spotify.com/album/4L8MCEUCzf4U6Le18mnB3X"
+      },
+      "artists": [
+        {
+          "name": "African Jazz Roots",
+          "url": "https://open.spotify.com/artist/0jMEzO2Klfb1iPwAGkFJrU"
+        },
+        {
+          "name": "Simon Goubert",
+          "url": "https://open.spotify.com/artist/3YJ9naKHSdmtwlKbYvpfyd"
+        }
+      ],
+      "duration_ms": 293666,
+      "name": "D'une \u00e9vidence \u00e0 l'autre",
+      "url": "https://open.spotify.com/track/4sbVOd9hSB3rHxjQDlfIQX"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "California and Me",
+      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Because of You (2023)",
+        "url": "https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P"
+      },
+      "artists": [
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "duration_ms": 217247,
+      "name": "Because of You - 2023",
+      "url": "https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
       "album": {
         "name": "Apache Woman",
         "url": "https://open.spotify.com/album/2drFeRDhAXuzdccDxj40uw"
@@ -839,114 +959,6 @@
       "duration_ms": 440400,
       "name": "Apache Woman",
       "url": "https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/2aVYyjgHni7OpuNf53KUH0"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 295899,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0wEMhtUHRK1xlwGYpEfCHj"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "D'une \u00e9vidence \u00e0 l'autre",
-        "url": "https://open.spotify.com/album/4L8MCEUCzf4U6Le18mnB3X"
-      },
-      "artists": [
-        {
-          "name": "African Jazz Roots",
-          "url": "https://open.spotify.com/artist/0jMEzO2Klfb1iPwAGkFJrU"
-        },
-        {
-          "name": "Simon Goubert",
-          "url": "https://open.spotify.com/artist/3YJ9naKHSdmtwlKbYvpfyd"
-        }
-      ],
-      "duration_ms": 293666,
-      "name": "D'une \u00e9vidence \u00e0 l'autre",
-      "url": "https://open.spotify.com/track/4sbVOd9hSB3rHxjQDlfIQX"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Madrid",
-        "url": "https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1"
-      },
-      "artists": [
-        {
-          "name": "\u00d8DYSSEE",
-          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
-        },
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 132592,
-      "name": "Madrid",
-      "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "California and Me",
-      "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Because of You (2023)",
-        "url": "https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P"
-      },
-      "artists": [
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
-        }
-      ],
-      "duration_ms": 217247,
-      "name": "Because of You - 2023",
-      "url": "https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd"
-    },
-    {
-      "added_at": "2023-10-04 10:15:29",
-      "album": {
-        "name": "Teo",
-        "url": "https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4"
-      },
-      "artists": [
-        {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 215482,
-      "name": "Teo",
-      "url": "https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES"
     }
   ],
   "unique_name": "Jazz Club",

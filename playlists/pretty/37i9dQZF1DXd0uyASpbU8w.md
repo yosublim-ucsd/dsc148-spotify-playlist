@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z?si=m6cMnzOVQt2KHC0DMOmyQw">K.O</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,539 likes - 85 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,644 likes - 85 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 84 | [Ndilindile](https://open.spotify.com/track/7rLtep0hlUA6Gnt02RsFgY) | [Amu Classic](https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H), [Kappie](https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Vyno Keys](https://open.spotify.com/artist/3vWbrBxoOzcfiwskz0IsgS), [Sein](https://open.spotify.com/artist/1qu7L7ZKzxgxAHdADywXoB) | [School Of Excellence](https://open.spotify.com/album/0YRmcb8iBiZQY3E4IiZHjK) | 6:55 |
 | 85 | [Mama](https://open.spotify.com/track/6beR4GdeHc6XhWOS8Kyfqb) | [Mckenzie](https://open.spotify.com/artist/1kMgpTIY3ncxXYaE2vqAEE), [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg) | [Mama](https://open.spotify.com/album/1wYUllN2pLA9r67Jl5SFE3) | 3:59 |
 
-Snapshot ID: `MCw0ZDQ2NGMyYzFiOTZiYzQzMmY1MDkwMmZiZDZiMzUzNWYwMGNjNTEy`
+Snapshot ID: `MCw0ZGI3ZTU1ZTNjZWFiOWFlOTE0NjdiNzdmMGE3YTdhYTE5OWFkNTdl`

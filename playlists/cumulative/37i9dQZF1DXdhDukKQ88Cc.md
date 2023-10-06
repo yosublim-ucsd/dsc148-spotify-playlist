@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap holder det 100 lige nu 🚨  Merro8 tar forsiden
+> dk rap holder det 100 lige nu 🚨  ICEKIID tar forsiden
 
-52 songs - 2 hr 16 min
+53 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 |  |
 | [Rock with It](https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Rock with It](https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE) | 2:25 | 2023-09-29 |  |
 | [Run Away](https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Run Away](https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx) | 2:49 | 2023-09-21 |  |
-| [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 | 2023-09-29 |  |
+| [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 | 2023-09-29 | 2023-10-06 |
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 |  |
+| [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-05 |  |
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 |  |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 |  |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: C\u1ea7m",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Ph\u00ed Ph\u01b0\u01a1ng Anh",
   "name": "RADAR Vietnam",
   "tracks": [
     {
@@ -155,6 +155,32 @@
     },
     {
       "album": {
+        "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
+        "url": "https://open.spotify.com/album/6qt24jojUkZSSiVGgKAemp"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
+      "url": "https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY"
+    },
+    {
+      "album": {
         "name": "CH\u1eaeC L\u00c0 SAY \u00d2I",
         "url": "https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk"
       },
@@ -192,6 +218,24 @@
       "duration_ms": 198058,
       "name": "Ch\u1edd",
       "url": "https://open.spotify.com/track/4fSCE4KsyubWKT2hvSXmcn"
+    },
+    {
+      "album": {
+        "name": "Ch\u1edd Em \u0110\u1ebfn Bao Gi\u1edd?",
+        "url": "https://open.spotify.com/album/06V2HY4txDblD6b2BSMvDe"
+      },
+      "artists": [
+        {
+          "name": "Phong Max",
+          "url": "https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202461,
+      "name": "Ch\u1edd Em \u0110\u1ebfn Bao Gi\u1edd?",
+      "url": "https://open.spotify.com/track/0rGytGSktEAcsxOkELz9qZ"
     },
     {
       "album": {
@@ -958,6 +1002,28 @@
       "duration_ms": 210639,
       "name": "MOT NGUOI VI EM",
       "url": "https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO"
+    },
+    {
+      "album": {
+        "name": "my, my, my",
+        "url": "https://open.spotify.com/album/701FniKi8G2MPnpbryojrj"
+      },
+      "artists": [
+        {
+          "name": "tanny ng",
+          "url": "https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei"
+        },
+        {
+          "name": "juhye",
+          "url": "https://open.spotify.com/artist/3xjFSJEkVSZvWdhMK4aOPl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "my, my, my",
+      "url": "https://open.spotify.com/track/1W1SPIukViuTd6wPo7hWB6"
     },
     {
       "album": {

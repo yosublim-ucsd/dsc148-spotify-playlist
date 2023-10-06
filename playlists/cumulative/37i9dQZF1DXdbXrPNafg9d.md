@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Slow Pulp
 
-5,942 songs - 14 day 11 hr 39 min
+5,944 songs - 14 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1383,7 +1383,8 @@
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 | 2023-06-03 |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-11 | 2022-04-16 |
 | [Don't Look](https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 1:19 | 2021-12-10 | 2022-01-15 |
-| [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 |  |
+| [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 | 2023-10-06 |
+| [Don't Mind](https://open.spotify.com/track/5UhHAH9bAL900e3CnZpzPG) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/7ywnQEhl9Jw8zq2Tc8ISee) | 3:22 | 2023-09-29 |  |
 | [Don't Need You \- Remix](https://open.spotify.com/track/2q417j6tLiesXGaLg3moek) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Don't Need You \(Remix\)](https://open.spotify.com/album/54idTn2jECfHYnDnNpf8Sx) | 3:29 | 2021-03-26 | 2021-05-03 |
 | [Don't Panic](https://open.spotify.com/track/2cOepBHhnpzkubqz0PvRMt) | [Hoops](https://open.spotify.com/artist/12qS7lypMdpvASeNnFXtmN) | [English Breakfast](https://open.spotify.com/album/5bugbofry1luWWrWGrMbf1) | 2:28 | 2020-04-10 | 2020-04-24 |
 | [Don't Press Me](https://open.spotify.com/track/3snZmVX4C2BBsDvGBuggyq) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Don't Press Me](https://open.spotify.com/album/0aJVIbtBQh6UzJZEB88SCj) | 1:50 | 2022-06-17 | 2022-07-16 |
@@ -3417,7 +3418,8 @@
 | [Mommy](https://open.spotify.com/track/4E1PeFEoLqqbaeExw4FMed) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mommy](https://open.spotify.com/album/1MGBuGmrhdzOJtB5AY0Pby) | 3:07 | 2023-03-03 | 2023-04-09 |
 | [Mona](https://open.spotify.com/track/1B9Qu8ZjY2sV1Y7tBJeQIP) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [Seeing Other People](https://open.spotify.com/album/4dbLyPv4WsUm01DUUOJlhV) | 4:15 | 2019-05-26\* | 2019-06-15 |
 | [Money \(Hymn\)](https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Honeychurch](https://open.spotify.com/album/0c6eomNguQ6ymqB6ZFowUu) | 4:19 | 2021-01-23 | 2021-03-14 |
-| [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 | 2023-09-15 |  |
+| [money body](https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/3LtPIBWo8MYD5jqJIClfe8) | 3:22 | 2023-09-15 |  |
+| [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 | 2023-09-15 | 2023-10-06 |
 | [Money Is The One True God](https://open.spotify.com/track/6hJ11P5ojoMyBRBMQdjNcH) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Mutable Set](https://open.spotify.com/album/3WBhKuBk77KL4nUHkP2xaW) | 6:55 | 2020-05-08 | 2020-06-29 |
 | [Moneymaker \- Phantogram Remix](https://open.spotify.com/track/3my7cJz3T7iXwDbiWh553p) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Moneymaker \(Phantogram Remix\)](https://open.spotify.com/album/09FPpD9syTm2cwQWTTH5kn) | 3:14 | 2023-01-06 | 2023-02-11 |
 | [Monkey's Wedding](https://open.spotify.com/track/0Ef4S1O05TaWmzz8hm7mvD) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Monkey's Wedding](https://open.spotify.com/album/20Ts7qGLnrrS9Hz2r3PKkR) | 2:59 | 2023-07-21 | 2023-08-19 |

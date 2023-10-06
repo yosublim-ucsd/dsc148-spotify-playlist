@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "fam",
+        "url": "https://open.spotify.com/album/2WUdT0tdJaRCXzfCuuHUaf"
+      },
+      "artists": [
+        {
+          "name": "Yuyu",
+          "url": "https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236865,
+      "name": "fam",
+      "url": "https://open.spotify.com/track/1QRCIe2ViATfzwz37Fyfrm"
+    },
+    {
+      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/4cgG5W8JYUij1nLOekVBEZ"
       },
@@ -3212,6 +3230,24 @@
       "duration_ms": 219626,
       "name": "Gotoubun no Mirai",
       "url": "https://open.spotify.com/track/6p14PfSxvGcnylxuECeLxb"
+    },
+    {
+      "album": {
+        "name": "OPENING THEME FROM TV SERIES \u201dTHE EMINENCE IN SHADOW\u201d 2ND SEASON",
+        "url": "https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL"
+      },
+      "artists": [
+        {
+          "name": "OxT",
+          "url": "https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "GRAYSCALE DOMINATOR",
+      "url": "https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx"
     },
     {
       "album": {
@@ -4057,6 +4093,24 @@
     },
     {
       "album": {
+        "name": "Ikenai Etranger (TV Size)",
+        "url": "https://open.spotify.com/album/52acpP2vuRs1Im9taZcS59"
+      },
+      "artists": [
+        {
+          "name": "Yui Hizuki",
+          "url": "https://open.spotify.com/artist/2wtrCZG4SWwmzDng6PDSGC"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90933,
+      "name": "Ikenai Etranger - TV Size",
+      "url": "https://open.spotify.com/track/1NUNDPl0ImLjQJ0WGveIWo"
+    },
+    {
+      "album": {
         "name": "In the Back Room",
         "url": "https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw"
       },
@@ -4745,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191105,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "album": {
         "name": "Kyokansarenakutemoiijanai",
         "url": "https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p"
       },
@@ -4792,7 +4864,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 199026,
       "name": "Kyuseishu",
       "url": "https://open.spotify.com/track/1wXrIFdqheifq4ETjCpqoi"
@@ -5252,7 +5324,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 194716,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2aKlVurHnMwaeF4vJADyE2"
@@ -5959,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Naiteiinda",
+        "url": "https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Naiteiinda",
+      "url": "https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg"
+    },
+    {
+      "album": {
         "name": "The Girl I Like Forgot Her Glasses Opening Theme \"NAME\"",
         "url": "https://open.spotify.com/album/04Cozcb8KxpFD3kxVjj5sT"
       },
@@ -5970,7 +6060,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 209466,
       "name": "NAME",
       "url": "https://open.spotify.com/track/0hC6oGwPVaP3dTqyDf9h4G"
@@ -7182,7 +7272,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 234159,
       "name": "RED",
       "url": "https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv"
@@ -7580,7 +7670,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 188973,
       "name": "Sarracenia",
       "url": "https://open.spotify.com/track/1ZGqDkDwBr8APzB4inZ8RQ"
@@ -7999,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "SIN",
+        "url": "https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28"
+      },
+      "artists": [
+        {
+          "name": "MADKID",
+          "url": "https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "SIN",
+      "url": "https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI"
+    },
+    {
+      "album": {
         "name": "Sing a song together",
         "url": "https://open.spotify.com/album/4Qyz64zxLoI84Qq0vi6ONH"
       },
@@ -8280,7 +8388,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 213400,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
@@ -9174,6 +9282,24 @@
       "duration_ms": 236346,
       "name": "TRUE STORY",
       "url": "https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W"
+    },
+    {
+      "album": {
+        "name": "OPENING THEME FROM TV SERIES \u201dBULLBUSTER\u201d",
+        "url": "https://open.spotify.com/album/3u9T2psKK06Lztj5rYKAh4"
+      },
+      "artists": [
+        {
+          "name": "NORISTRY",
+          "url": "https://open.spotify.com/artist/3sXpaXq06MLtZIMPjeIBDU"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215956,
+      "name": "TRY-RY-RY",
+      "url": "https://open.spotify.com/track/51V0kJgPOEaGeIZRvN1In6"
     },
     {
       "album": {
@@ -10597,6 +10723,24 @@
     },
     {
       "album": {
+        "name": "\u3055\u3055\u304f\u308c",
+        "url": "https://open.spotify.com/album/4oHoW4jY2GC1WQr4RinCxa"
+      },
+      "artists": [
+        {
+          "name": "\u4e45\u4fdd\u3042\u304a\u3044",
+          "url": "https://open.spotify.com/artist/6tQv9pBC2QYU5InvkNoN0k"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233137,
+      "name": "\u3055\u3055\u304f\u308c",
+      "url": "https://open.spotify.com/track/2IggjcM8LKudTaoCDlCoJM"
+    },
+    {
+      "album": {
         "name": "\u3057\u308b\u3057",
         "url": "https://open.spotify.com/album/4MxZof46XxfA0UmmuY4HWM"
       },
@@ -11048,6 +11192,28 @@
       "duration_ms": 238039,
       "name": "\u3086\u305a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/64qoBPI0CpORq70mlVrXWr"
+    },
+    {
+      "album": {
+        "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
+        "url": "https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4"
+      },
+      "artists": [
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
+      "url": "https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV"
     },
     {
       "album": {
@@ -12838,7 +13004,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 174076,
       "name": "\u30cf\u30d4\u30cd\u30b9 \u30aa\u30d6 \u30b6 \u30c7\u30c3\u30c9",
       "url": "https://open.spotify.com/track/05IbSlTnKUcZ1vFyG3aUzQ"
@@ -13562,7 +13728,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 272036,
       "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
@@ -14414,7 +14580,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 211277,
       "name": "\u5207\u3063\u5148",
       "url": "https://open.spotify.com/track/771DJyi2gzuWI8ocuxldzQ"
@@ -15093,6 +15259,24 @@
     },
     {
       "album": {
+        "name": "\u5b58\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK"
+      },
+      "artists": [
+        {
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u5b58\u5728\u8a3c\u660e",
+      "url": "https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O"
+    },
+    {
+      "album": {
         "name": "\u5b9d\u77f3\u306e\u65e5\u3005",
         "url": "https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ"
       },
@@ -15224,7 +15408,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 260851,
       "name": "\u5e78\u305b",
       "url": "https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA"
@@ -16365,6 +16549,24 @@
     },
     {
       "album": {
+        "name": "\u7720\u3089\u3055\u308c\u305f\u30ea\u30cd\u30fc\u30b8\u30e5",
+        "url": "https://open.spotify.com/album/2Kd6rOFw49jWatAzMJKwIj"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268306,
+      "name": "\u7720\u3089\u3055\u308c\u305f\u30ea\u30cd\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/5A2K5W8s9v0MR594JMjDL5"
+    },
+    {
+      "album": {
         "name": "\u7834\u58ca\u524d\u591c\u306e\u3053\u3068",
         "url": "https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud"
       },
@@ -16926,7 +17128,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 245766,
       "name": "\u8ab0\u304c\u70ba",
       "url": "https://open.spotify.com/track/5WMxky8j2WtDQtVAHFwqyB"
@@ -16998,7 +17200,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 201500,
       "name": "\u8ecc\u8de1",
       "url": "https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W"

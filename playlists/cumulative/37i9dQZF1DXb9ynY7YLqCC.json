@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 246893,
       "name": "Andrajoso",
       "url": "https://open.spotify.com/track/3ibB1bUbvgHheGYlnSa9b9"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 126426,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 201960,
       "name": "El Templo de Momo",
       "url": "https://open.spotify.com/track/0v1Y8sDNSPC7FAgdVlDGAQ"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Tan (En Vivo)",
+        "url": "https://open.spotify.com/album/1H5MsrfzzoiznKp4jj8WWz"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Fuera De Control (En Vivo)",
+      "url": "https://open.spotify.com/track/6YNstobWK0Pio4NAumJkRH"
+    },
+    {
+      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247973,
       "name": "Imposible",
       "url": "https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 162360,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia"
@@ -1334,6 +1352,24 @@
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j"
+    },
+    {
+      "album": {
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/66ahnggrI4PDBJk5qYXw4m"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199573,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7JvKnVhM6qksNREXInCsXo"
     },
     {
       "album": {
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 199881,
       "name": "Monta\u00f1a Rusa Emocional",
       "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 258540,
       "name": "No Me Dejes Caer",
       "url": "https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd"
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
@@ -2018,7 +2054,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 186788,
       "name": "Rotos y Descocidos",
       "url": "https://open.spotify.com/track/03gBHAQqX65jxtnDdfPj5m"
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg"
@@ -2220,7 +2256,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 357093,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/1ELykgy7CVsJtEuwUcvCfq"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 302800,
       "name": "Silencio - En Vivo",
       "url": "https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f"
@@ -2598,7 +2634,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 244426,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6bVflf7QtkVdZH6ro5PKiX"
@@ -2616,7 +2652,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180146,
       "name": "Ultra Free",
       "url": "https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o"

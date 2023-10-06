@@ -1,12 +1,12 @@
 {
   "description": "Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo' ",
-  "num_followers": 11514,
+  "num_followers": 11630,
   "original_name": "Perreo de Dos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjE1YWI3OWYxYWI2MzY5Mzc1NmRlM2JmZWM3YWQ2MmUyMTcwNWVh",
+  "snapshot_id": "MCw2ZDJhZWVkMTQ0OTVkNGI4ZjIyZGU2YzJkZjlmNTE5OGU5MTcyZGJl",
   "tracks": [
     {
       "added_at": "2023-09-08 23:18:37",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
+        "name": "PUNTO G",
+        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 151324,
+      "name": "PUNTO G",
+      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
         "name": "Mi Lova",
         "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 220173,
       "name": "Mi Lova",
       "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "PUNTO G",
-        "url": "https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 151324,
-      "name": "PUNTO G",
-      "url": "https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "qu\u00e9 le pasa conmigo?",
-        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "qu\u00e9 le pasa conmigo?",
-      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "KrING",
         "url": "https://open.spotify.com/album/0UEG3km1FB7nGZHwiSun8x"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 229826,
       "name": "HASTA ABAJO",
       "url": "https://open.spotify.com/track/4PEfJZpVjdclfzZ9XO8uDw"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "AfroLOVA' 23",
-        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Solita y SueltAAA",
-      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+        "name": "AfroLOVA' 23",
+        "url": "https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+      "duration_ms": 155789,
+      "name": "Solita y SueltAAA",
+      "url": "https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "NOCHE PASAJERA II",
-        "url": "https://open.spotify.com/album/2pw0fy29GKTUZS30stt8J3"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "NOCHE PASAJERA II",
-      "url": "https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Trap Cake, Vol. 1",
         "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 224307,
       "name": "Encima De Mi",
       "url": "https://open.spotify.com/track/0hAxyVU6Nro3equjEQdFq2"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "NOCHE PASAJERA II",
+        "url": "https://open.spotify.com/album/2pw0fy29GKTUZS30stt8J3"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "NOCHE PASAJERA II",
+      "url": "https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "Bofff (Deluxe)",
         "url": "https://open.spotify.com/album/7Jdz8X95OCNLCNTgVoBHdl"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 441493,
       "name": "Hasta Abajo - Remix",
       "url": "https://open.spotify.com/track/1BNUggOzpb3EXfvJgIt7CS"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "VAQUERITA",
-        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
+        "name": "Apaga la Luz",
+        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
       },
       "artists": [
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Naked Geometry",
+          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
         }
       ],
-      "duration_ms": 152970,
-      "name": "VAQUERITA",
-      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
+      "duration_ms": 169684,
+      "name": "Apaga la Luz",
+      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1899,22 +1903,18 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "Apaga la Luz",
-        "url": "https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s"
+        "name": "VAQUERITA",
+        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "Naked Geometry",
-          "url": "https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 169684,
-      "name": "Apaga la Luz",
-      "url": "https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY"
+      "duration_ms": 152970,
+      "name": "VAQUERITA",
+      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
+        "name": "YSM Cap. 2",
+        "url": "https://open.spotify.com/album/4ysORPv6OI0DjqjS8z0SKt"
+      },
+      "artists": [
+        {
+          "name": "Cheka",
+          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
+        }
+      ],
+      "duration_ms": 237290,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/0RA29eVOn8cPy3aVXA7Hur"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
         "name": "Hickey",
         "url": "https://open.spotify.com/album/5CGooOr9Im1VwrCRj49yPg"
       },
@@ -2011,18 +2027,18 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "YSM Cap. 2",
-        "url": "https://open.spotify.com/album/4ysORPv6OI0DjqjS8z0SKt"
+        "name": "Ego\u00edsmo",
+        "url": "https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm"
       },
       "artists": [
         {
-          "name": "Cheka",
-          "url": "https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 237290,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/0RA29eVOn8cPy3aVXA7Hur"
+      "duration_ms": 180400,
+      "name": "Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -2043,6 +2059,22 @@
       "duration_ms": 242586,
       "name": "Insuficiente",
       "url": "https://open.spotify.com/track/7IgAyKjxPpLHqq4XkfOWLQ"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "De Vuelta Al Mundo",
+        "url": "https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0rrarGZv1ByDl0aootANBf"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -2071,38 +2103,6 @@
     {
       "added_at": "2023-09-08 23:18:37",
       "album": {
-        "name": "De Vuelta Al Mundo",
-        "url": "https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/0rrarGZv1ByDl0aootANBf"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "Ego\u00edsmo",
-        "url": "https://open.spotify.com/album/5spPdqGOFgKxVOMu4UnqCm"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Ego\u00edsmo",
-      "url": "https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
         "name": "KRACK",
         "url": "https://open.spotify.com/album/48jz9xkHGLp3X7dNq4Fljx"
       },
@@ -2119,22 +2119,6 @@
       "duration_ms": 214054,
       "name": "Kush",
       "url": "https://open.spotify.com/track/4dyhfLyhSLLzqe7qXdvrZL"
-    },
-    {
-      "added_at": "2023-09-08 23:18:37",
-      "album": {
-        "name": "RULAY",
-        "url": "https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "RULAY",
-      "url": "https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV"
     },
     {
       "added_at": "2023-09-08 23:18:37",
@@ -2159,6 +2143,22 @@
       "duration_ms": 239255,
       "name": "Entre Tantas",
       "url": "https://open.spotify.com/track/2YmfDsnIEfNyGwaYSAUZqX"
+    },
+    {
+      "added_at": "2023-09-08 23:18:37",
+      "album": {
+        "name": "RULAY",
+        "url": "https://open.spotify.com/album/3iYAQLMCjwrj4q8cS3I8d2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "RULAY",
+      "url": "https://open.spotify.com/track/5ITpOthZI6yuhF33ANi3UV"
     }
   ],
   "unique_name": "Perreo de Dos ",

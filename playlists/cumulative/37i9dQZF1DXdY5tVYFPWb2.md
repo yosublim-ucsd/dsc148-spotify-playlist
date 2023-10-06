@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-672 songs - 1 day 20 hr 23 min
+673 songs - 1 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,8 @@
 | [Seed](https://open.spotify.com/track/6lqxRu3b2EkoupvUpEXEmm) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/3zAxTb1VGHR5c6O6T6Jtvi) | 4:08 | 2022-12-06 | 2022-12-08 |
 | [Sentimental \- Neon Mix](https://open.spotify.com/track/7M2hoIlOzvuEzEETqRRQbn) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7) | [Sentimental \(Neon Mix\)](https://open.spotify.com/album/6hU2dcf1WpFtPX4EL1ybBr) | 3:23 | 2022-08-02 | 2023-07-04 |
 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 | 2022-05-24 |  |
-| [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-22 |  |
+| [September](https://open.spotify.com/track/4fLgIOfUJpw3FN9SIEWhDi) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [September](https://open.spotify.com/album/0QuK4pxgzTWe2Yi6Tk6hKS) | 4:25 | 2023-10-05 |  |
+| [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-22 | 2023-10-06 |
 | [Shinin' World, Ridin' Road](https://open.spotify.com/track/25YgZdoImkhYt1PaFc7qTT) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [サン・キスド・レディー](https://open.spotify.com/album/5fq9VwMtARVCoqj2f5TD8z) | 3:50 | 2022-07-05 | 2022-10-02 |
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-20 | 2023-07-26 |
 | [SHYNESS BOY](https://open.spotify.com/track/7KYzARBusZhyZ6jygZDmVr) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 3:16 | 2023-07-18 | 2023-09-06 |

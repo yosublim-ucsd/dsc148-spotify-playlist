@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 44982,
+  "num_followers": 45027,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmQ1YTg0NGI0ZmI1NTUxYjk5NGYxYWQwMTBkZjdlZWMyMWYyMGYw",
+  "snapshot_id": "MCxkMGZjYjFjN2Y3YjRiZTYwNDRjNzJlNDlmNTU4MGI1YjkzMmViM2Y4",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -823,18 +823,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge"
+        "name": "Jah Love",
+        "url": "https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG"
       },
       "artists": [
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+          "name": "Yami Bolo",
+          "url": "https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o"
+        },
+        {
+          "name": "Capleton",
+          "url": "https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf"
         }
       ],
-      "duration_ms": 203392,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
+      "duration_ms": 241333,
+      "name": "Put Down The Weapon (feat. Capleton)",
+      "url": "https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl"
     }
   ],
   "unique_name": "Legendary Labels: VP Records",

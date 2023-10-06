@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 260212,
       "name": "flowers(English version)",
       "url": "https://open.spotify.com/track/6lpSVuPXcCEXRVmivP4XAB"
@@ -6540,7 +6540,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 189893,
       "name": "merry-go-round",
       "url": "https://open.spotify.com/track/3HRJHwS62dexEaH8u1NzZQ"
@@ -9656,7 +9656,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180631,
       "name": "sister",
       "url": "https://open.spotify.com/track/6nhwWS4Avopq8rsdXMXbF0"
@@ -9826,6 +9826,28 @@
       "duration_ms": 231400,
       "name": "Soft",
       "url": "https://open.spotify.com/track/46kf0DQPAwyhDd23ZM2JEf"
+    },
+    {
+      "album": {
+        "name": "KILL VILL",
+        "url": "https://open.spotify.com/album/7ivszco4AiCituAcSaGrkF"
+      },
+      "artists": [
+        {
+          "name": "VILLSHANA",
+          "url": "https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo"
+        },
+        {
+          "name": "SALU",
+          "url": "https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176198,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/2KA5nmJhcWqOG7cjJjpqa4"
     },
     {
       "album": {
@@ -11614,7 +11636,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 206035,
       "name": "Umaikotodekiteru -That's How it Works-",
       "url": "https://open.spotify.com/track/0GT2Reu9UJxF3EUiwaXphW"
@@ -12866,6 +12888,32 @@
       "duration_ms": 255600,
       "name": "\u3042\u305f\u305f\u304b\u3044\u5149",
       "url": "https://open.spotify.com/track/1TUnvIVwD9PW5vcWf3ja1k"
+    },
+    {
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
+      },
+      "artists": [
+        {
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        },
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204119,
+      "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
     },
     {
       "album": {
@@ -17753,6 +17801,24 @@
     },
     {
       "album": {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/22x2l2obwaIYjJIx5qwi7l"
       },
@@ -18564,6 +18630,24 @@
       "duration_ms": 291016,
       "name": "\u6625\u306b\u6d41\u3055\u308c\u3066",
       "url": "https://open.spotify.com/track/6X6VC5EEcUgVsSH99VKWec"
+    },
+    {
+      "album": {
+        "name": "\u6669\u9910\u6b4c",
+        "url": "https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "\u6669\u9910\u6b4c",
+      "url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Dadju",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0HjyI7O830iye5BHTdRkQz"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ffn",
+          "url": "https://open.spotify.com/artist/4xqnWGU6MssJcPvMaVuZQF"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150465,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5cdWpC6rPjP1hroxlKYLKb"
+    },
+    {
+      "album": {
         "name": "Kass\u00efm",
         "url": "https://open.spotify.com/album/0piLBrEAXOs5eemYSguPTl"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 165517,
       "name": "Makelele",
       "url": "https://open.spotify.com/track/3LHgc025pXKdA57Wu7tCra"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 171733,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7"
@@ -3454,6 +3472,24 @@
       "duration_ms": 183683,
       "name": "Tenez-les",
       "url": "https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E"
+    },
+    {
+      "album": {
+        "name": "Ti ki Da",
+        "url": "https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "Ti ki Da",
+      "url": "https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU"
     },
     {
       "album": {
@@ -3609,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191416,
+      "name": "Warda",
+      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
+    },
+    {
+      "album": {
         "name": "WAVYSHAWTY",
         "url": "https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c"
       },
@@ -3642,7 +3696,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 157000,
       "name": "Yabibi (feat. Nej)",
       "url": "https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk"

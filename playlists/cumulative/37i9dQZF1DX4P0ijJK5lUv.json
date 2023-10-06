@@ -2499,6 +2499,32 @@
     },
     {
       "album": {
+        "name": "Jesus Christ the Apple Tree",
+        "url": "https://open.spotify.com/album/0V3GVnAugLSzwA6mNZ3FbN"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Poston",
+          "url": "https://open.spotify.com/artist/7M0wkA6tqTLE54EweP8JRl"
+        },
+        {
+          "name": "Armonico Consort",
+          "url": "https://open.spotify.com/artist/6pkQmg2GtB75nUYUVidpt3"
+        },
+        {
+          "name": "Christopher Monks",
+          "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Jesus Christ the Apple Tree",
+      "url": "https://open.spotify.com/track/40B8T4uFCugWsPEfRzlVJg"
+    },
+    {
+      "album": {
         "name": "Albert Becker: Joseph, lieber Joseph mein",
         "url": "https://open.spotify.com/album/3vBW1q80VqyBW0oeE6lVJj"
       },
@@ -2944,6 +2970,40 @@
       "duration_ms": 257906,
       "name": "Lully, Lulla, Lullay",
       "url": "https://open.spotify.com/track/5IH3g2BW7Jw5yRSMPyZTL4"
+    },
+    {
+      "album": {
+        "name": "Davis: Magnificat: IV. Deposuit",
+        "url": "https://open.spotify.com/album/2BOhUwNwp0gvFuf4vL2gQy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Scott Davis",
+          "url": "https://open.spotify.com/artist/4mplxaJIOZ7oGGjJxQPHqe"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "VOCES8 Foundation Choir",
+          "url": "https://open.spotify.com/artist/59TnBQKQMFLPbzzdl3mazu"
+        },
+        {
+          "name": "VOCES8 Foundation Orchestra",
+          "url": "https://open.spotify.com/artist/683DINqyaZutPw3bnMMmAx"
+        },
+        {
+          "name": "Barnaby Smith",
+          "url": "https://open.spotify.com/artist/7ejNaQI6qqhLCklGDuCpcm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Magnificat: IV. Deposuit (Version for Full Orchestra)",
+      "url": "https://open.spotify.com/track/4tHtiKngqX1w8tnUN5kCGb"
     },
     {
       "album": {

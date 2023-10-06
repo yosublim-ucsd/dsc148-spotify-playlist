@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93192,
+  "num_followers": 93240,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk0OTkzYjMyMzdhMDRjNTk4OWFhMjI2MTQ1ZTUzMWM5NzRiMWU4",
+  "snapshot_id": "MCxjNDJlMmY2MWFkYWViYTk1MzM5OWUxYmE2YjAxNjI2OTA0NGMxYTcx",
   "tracks": [
     {
       "added_at": "2023-10-02 03:15:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-02 03:15:25",
       "album": {
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
+    },
+    {
+      "added_at": "2023-10-02 03:15:25",
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 237473,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti"
-    },
-    {
-      "added_at": "2023-10-02 03:15:25",
-      "album": {
-        "name": "\u5de6\u8fb9",
-        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5305",
-          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "\u5de6\u8fb9",
-      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     },
     {
       "added_at": "2023-10-02 03:15:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-10-02 03:15:25",
       "album": {
+        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+        "url": "https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt"
+      },
+      "artists": [
+        {
+          "name": "\u9648\u4e00\u5f64",
+          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
+      "url": "https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm"
+    },
+    {
+      "added_at": "2023-10-02 03:15:25",
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 192272,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h"
-    },
-    {
-      "added_at": "2023-10-02 03:15:25",
-      "album": {
-        "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-        "url": "https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt"
-      },
-      "artists": [
-        {
-          "name": "\u9648\u4e00\u5f64",
-          "url": "https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
-      "url": "https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm"
     },
     {
       "added_at": "2023-10-02 03:15:25",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2023-10-02 03:15:25",
       "album": {
-        "name": "\u60f3\u8981\u548c\u4f60",
-        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
-      },
-      "artists": [
-        {
-          "name": "Marcus Lee",
-          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
-        },
-        {
-          "name": "MAD",
-          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "\u60f3\u8981\u548c\u4f60",
-      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
-    },
-    {
-      "added_at": "2023-10-02 03:15:25",
-      "album": {
         "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 226000,
       "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq"
+    },
+    {
+      "added_at": "2023-10-02 03:15:25",
+      "album": {
+        "name": "\u60f3\u8981\u548c\u4f60",
+        "url": "https://open.spotify.com/album/3XOXB0PHD6dFQyuIIZGI1o"
+      },
+      "artists": [
+        {
+          "name": "Marcus Lee",
+          "url": "https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "\u60f3\u8981\u548c\u4f60",
+      "url": "https://open.spotify.com/track/0yNpiYOgmQkNLO42IgRj6E"
     },
     {
       "added_at": "2023-10-02 03:15:25",

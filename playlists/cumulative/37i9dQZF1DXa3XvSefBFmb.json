@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Benefits",
+        "url": "https://open.spotify.com/album/5Goq5iRpqdEY6AnrFXNWim"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Miranda",
+          "url": "https://open.spotify.com/artist/1vuN1CY5qcr264dHXzS9N9"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170915,
+      "name": "Benefits",
+      "url": "https://open.spotify.com/track/66BcLySWrE63NgdE36ExM8"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/0WYvsQWwVEQw9VdzzFYqJe"
       },
@@ -3650,6 +3668,24 @@
       "duration_ms": 282802,
       "name": "Fazem na Vida",
       "url": "https://open.spotify.com/track/353P6DpNbYSRgxwYf97Kra"
+    },
+    {
+      "album": {
+        "name": "feita parva, mas tua",
+        "url": "https://open.spotify.com/album/003zgNzxSRpS2J6WLLEkIu"
+      },
+      "artists": [
+        {
+          "name": "Mariana Reis",
+          "url": "https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212445,
+      "name": "feita parva, mas tua",
+      "url": "https://open.spotify.com/track/7fSx8XAYuSkqwMcwuuwlHu"
     },
     {
       "album": {

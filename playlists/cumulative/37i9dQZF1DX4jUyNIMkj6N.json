@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 184000,
       "name": "Boy Tied In A Knot",
       "url": "https://open.spotify.com/track/0D6sECAN11gZwLV2LJWrKM"
@@ -938,6 +938,24 @@
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
+    },
+    {
+      "album": {
+        "name": "Darkest Night",
+        "url": "https://open.spotify.com/album/38Zutwd997e5hLl2565HfV"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165066,
+      "name": "Darkest Night",
+      "url": "https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF"
     },
     {
       "album": {
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 220080,
       "name": "Look At The Light",
       "url": "https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV"
@@ -4108,6 +4126,24 @@
       "duration_ms": 204181,
       "name": "You Don't Deserve Me",
       "url": "https://open.spotify.com/track/1tXGmAXn4cJXA2oE2XXVFV"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/4EeoeBGm4VyncHWSoX3gld"
+      },
+      "artists": [
+        {
+          "name": "Ellison",
+          "url": "https://open.spotify.com/artist/1pF3ZfKACJViikvLsIjELq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188953,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/4nm8FXnQSkdPgpJEmwpfVT"
     },
     {
       "album": {

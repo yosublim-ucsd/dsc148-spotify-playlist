@@ -150,6 +150,24 @@
     {
       "album": {
         "name": "Another Day",
+        "url": "https://open.spotify.com/album/1uLCEyYLskgtJNf0M4O82z"
+      },
+      "artists": [
+        {
+          "name": "Archie Taylor",
+          "url": "https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226088,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/2xmzcOWOdw7KlGDskvEsM5"
+    },
+    {
+      "album": {
+        "name": "Another Day",
         "url": "https://open.spotify.com/album/5Dps681nM2oHCn6EIW6oaE"
       },
       "artists": [

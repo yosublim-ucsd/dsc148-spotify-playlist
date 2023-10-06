@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-355 songs - 18 hr 55 min
+357 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [7 Years \- Piano Version](https://open.spotify.com/track/7HumU69n9DlGp6UdMkGw7W) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/4KlPbXSlaW03DnUXr4EqqR) | 2:43 | 2022-10-14 | 2023-06-14 |
 | [7 Years \- Piano Version](https://open.spotify.com/track/7h6t8EeriVNnB0TUAsBPFh) | [Sam Pellegrino](https://open.spotify.com/artist/77KLCgIKmA4UiRzQaY4ke5) | [Piano Stories](https://open.spotify.com/album/5iPmyMQet31uMvDLGPo9xf) | 2:43 | 2022-08-01 | 2022-10-20 |
 | [A Million Dreams](https://open.spotify.com/track/6s8eJYbzaALB1eLP1czQED) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [A Million Dreams](https://open.spotify.com/album/6uWAfzGxbcrppRNsj0LV0A) | 4:31 | 2022-08-01 | 2023-05-27 |
-| [A Sky Full Of Stars \- Piano Version](https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:35 | 2022-11-18 |  |
+| [A Sky Full Of Stars \- Piano Version](https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:35 | 2022-11-18 | 2023-10-06 |
 | [A Thousand Miles](https://open.spotify.com/track/77VP90xg3Sxi4CoxNmeQJc) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 3:37 | 2022-12-16 | 2023-02-25 |
 | [A Thousand Years](https://open.spotify.com/track/76UpEg41caDocHgeJKVBFw) | [Benji Noor](https://open.spotify.com/artist/2mOREdC2cTAtN4ErgjQcHC) | [A Thousand Years](https://open.spotify.com/album/0SO2tmZiqgP598lHIoWHI5) | 3:25 | 2022-10-28 | 2023-05-06 |
 | [A Thousand Years](https://open.spotify.com/track/5xWD5Oy72pgn54R5ERwyr8) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Anton Goosmann](https://open.spotify.com/artist/1fPzD56OchmMDTv12ZTWpv) | [A Thousand Years](https://open.spotify.com/album/0utb7TeZbh3M2NeXLzCL48) | 1:48 | 2022-08-01 | 2022-10-29 |
@@ -46,7 +46,7 @@
 | [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-22 |  |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-08-10 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-03-17 |  |
-| [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-11-18 |  |
+| [Bed of Roses \- Piano Version](https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Piano Covers no 1](https://open.spotify.com/album/1e92hWodKmzfDtXDaAyEiP) | 4:17 | 2022-11-18 | 2023-10-06 |
 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-08-01 |  |
 | [Blackbird](https://open.spotify.com/track/6cexWa8kKUHMvs77YamPPs) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Blackbird](https://open.spotify.com/album/3EDVscTRdrYrar4GWzCYNI) | 3:22 | 2023-06-22 |  |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2022-12-16 | 2023-06-23 |
@@ -236,6 +236,7 @@
 | [One Of Us](https://open.spotify.com/track/0I5mXZkU8DMMzNu7ezROna) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [One Of Us](https://open.spotify.com/album/3x7NKtgnNfaISOyoo75ycu) | 3:31 | 2023-03-17 |  |
 | [Only Girl \(In The World\)](https://open.spotify.com/track/4Ktd6FIeKfhXCvbqO5pVGD) | [Meghan Lauren](https://open.spotify.com/artist/3fiJ8b3r1FPdghfvoKHCzh) | [Only Girl \(In The World\)](https://open.spotify.com/album/7foKDpyH3BCnnWOxLv8HUU) | 2:56 | 2023-05-26 |  |
 | [Only You](https://open.spotify.com/track/6sbkYa0B9ofUkzk5MfUtPH) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Only You](https://open.spotify.com/album/7pGMB4zx8av3QODOfUVqy1) | 3:37 | 2023-04-14 |  |
+| [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 | 2023-10-06 |  |
 | [Paint It Black \(Piano Instrumental\)](https://open.spotify.com/track/1JIZyPwBqHje2dzKXoONSy) | [Playa Piano](https://open.spotify.com/artist/163PshEvNd3i3RdxHXGTii) | [Paint It Black \(Piano Instrumental\)](https://open.spotify.com/album/772xaFGzw2bjGQHJuqAru4) | 2:55 | 2022-09-30 | 2023-04-29 |
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-22 |  |
 | [Peaches](https://open.spotify.com/track/4txDrc8nQYtJToljhONZIe) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Save Your Tears](https://open.spotify.com/album/7j3YmhL0zAnbh7jKxHPqei) | 3:18 | 2022-10-28 | 2022-12-17 |
@@ -274,6 +275,7 @@
 | [Slipping Through My Fingers](https://open.spotify.com/track/2OkAHVd8rZLFcIYYqmqKGR) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Slipping Through My Fingers](https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29) | 2:41 | 2023-02-03 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/3DkCOtDoxR2HnwEO7quaqJ) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 2:43 | 2023-05-05 |  |
 | [SNAP](https://open.spotify.com/track/2Stqf14WZNFK9QwC3OHWFu) | [Catherine Collert](https://open.spotify.com/artist/0ZdVzP37pzMKNBnHiKodTc) | [SNAP](https://open.spotify.com/album/75wTUsZ315n5eIet6UpELs) | 3:10 | 2022-11-18 |  |
+| [Someone like you](https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Someone like you](https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC) | 3:38 | 2023-10-06 |  |
 | [Someone You Loved](https://open.spotify.com/track/1OUrhIEQpf5kfjuYHydFRr) | [Cookies and Juice](https://open.spotify.com/artist/76bACRohGinRhW4sCg0q6z) | [Truth Hurts](https://open.spotify.com/album/2YuLURbRt081gFcXO6p7w2) | 3:20 | 2022-08-01 | 2023-08-30 |
 | [Something Just Like This](https://open.spotify.com/track/2ITqS38JzeAoc9jMsFXeuY) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Lift Me Up](https://open.spotify.com/album/08gbtfj8eeJjEXFehorp3m) | 3:06 | 2023-02-24 | 2023-05-06 |
 | [Something Just Like This](https://open.spotify.com/track/372mqKuv9LTctBHVpD0XXP) | [Thomas Loof](https://open.spotify.com/artist/2but4cFAXYDfNPiR8iGVB3) | [Something Just Like This](https://open.spotify.com/album/4m2HH3fxP66hxxsYcxS6F2) | 4:00 | 2023-03-17 |  |

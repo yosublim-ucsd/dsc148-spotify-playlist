@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Hoody(\ud6c4\ub514))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Milena(\ubc00\ub808\ub098))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 171866,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180040,
       "name": "airplane-mode",
       "url": "https://open.spotify.com/track/1q4FmOZDVNqozyHHHF5Qef"
@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "CAKE (Feat. TRADE L)",
+        "url": "https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128332,
+      "name": "CAKE (Feat. TRADE L)",
+      "url": "https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN"
+    },
+    {
+      "album": {
         "name": "Are we still friends?",
         "url": "https://open.spotify.com/album/0HGTY8Zn3ubz3fROe0ZsFA"
       },
@@ -1141,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "DAY N NIGHT",
+        "url": "https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "DAY N NIGHT",
+      "url": "https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh"
+    },
+    {
+      "album": {
         "name": "mis",
         "url": "https://open.spotify.com/album/0465P7QwKvua7zSGNoH3NO"
       },
@@ -1156,6 +1196,24 @@
       "duration_ms": 166720,
       "name": "day off",
       "url": "https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
     },
     {
       "album": {
@@ -1258,6 +1316,24 @@
       "duration_ms": 178758,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "album": {
+        "name": "NIGHT DRIVER",
+        "url": "https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp"
+      },
+      "artists": [
+        {
+          "name": "LIMZY",
+          "url": "https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Don't you know",
+      "url": "https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs"
     },
     {
       "album": {
@@ -1660,7 +1736,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 220506,
       "name": "FRR",
       "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
@@ -2408,7 +2484,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 166281,
       "name": "Lay me by your side (feat. JoOhA & Still)",
       "url": "https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq"
@@ -2630,7 +2706,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 224229,
       "name": "Love Tree",
       "url": "https://open.spotify.com/track/4NBC72liv5nVfBAq8icUK6"
@@ -2670,6 +2746,24 @@
       "duration_ms": 210858,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y"
+    },
+    {
+      "album": {
+        "name": "Mean",
+        "url": "https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs"
+      },
+      "artists": [
+        {
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S"
     },
     {
       "album": {
@@ -3863,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "To you",
+        "url": "https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us"
+      },
+      "artists": [
+        {
+          "name": "XAVII",
+          "url": "https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "To you",
+      "url": "https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP"
+    },
+    {
+      "album": {
         "name": "Ocean like me (Original Web Drama Soundtrack, Pt. 3)",
         "url": "https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM"
       },
@@ -3910,7 +4022,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 189019,
       "name": "Tonite",
       "url": "https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ"
@@ -4486,7 +4598,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 244120,
       "name": "Yooou (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf"
@@ -4522,7 +4634,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 215653,
       "name": "You Are The Sea",
       "url": "https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb"

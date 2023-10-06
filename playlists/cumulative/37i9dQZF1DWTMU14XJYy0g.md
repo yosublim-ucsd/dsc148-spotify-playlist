@@ -4,7 +4,7 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari y Los Fundamentalistas del Aire Acondicionado
 
-216 songs - 13 hr 32 min
+217 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Galvanizado](https://open.spotify.com/track/2fuNZrprXsWj8MxzAblDhO) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w) | [Galvanizado](https://open.spotify.com/album/4csOppCBwphip5JnxwhL7Z) | 3:17 | 2022-06-24 | 2023-09-27 |
 | [Game Over](https://open.spotify.com/track/0A3EkkI3X1aprb7YKoD8oH) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Game Over](https://open.spotify.com/album/759aMTB254aQ8lo03rtOwI) | 3:28 | 2022-06-24 | 2023-08-26 |
 | [Gatitas y Ratones](https://open.spotify.com/track/5wCZXxCLl2pL0sGartRAQM) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Gatitas y Ratones](https://open.spotify.com/album/2gss5ZLfFetUYxZDDu2PK0) | 3:57 | 2022-06-24 | 2023-04-01 |
-| [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 |  |
+| [Goodbye Adiós](https://open.spotify.com/track/60Cohjy8lgh1jIkTpGz9S1) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Goodbye Adiós](https://open.spotify.com/album/72kYZH666UwSHVBTw0zL8f) | 3:31 | 2022-08-05 | 2023-10-06 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Home Sweet Home](https://open.spotify.com/track/1moo4754JGB02h0XqUC6Jn) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Home Sweet Home](https://open.spotify.com/album/1YR3ye2nVpjmXFSCHSsOdX) | 3:24 | 2022-06-24 |  |
 | [Impulsando El Encuentro](https://open.spotify.com/track/2La3j8YgEErCVBXWIopKym) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Impulsando El Encuentro](https://open.spotify.com/album/6aaFN44R7nF2J7uI6kiAKj) | 4:19 | 2023-03-31 | 2023-06-03 |
@@ -218,6 +218,7 @@
 | [VOID](https://open.spotify.com/track/7ezLEpE3Q50zpVARzgA00f) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:19 | 2023-06-02 |  |
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Vuelos](https://open.spotify.com/track/4UCKDmolB8SrPVGNAdeSTk) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Vuelos](https://open.spotify.com/album/6Iq6olWskzadve5s35Sdiq) | 5:46 | 2023-03-31 | 2023-06-03 |
+| [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 | 2023-10-05 |  |
 | [Ya Lo Sabés](https://open.spotify.com/track/3qml78xRFn8FOQmdfq3PVE) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Ya Lo Sabés](https://open.spotify.com/album/3jhXMrOIcE2PHpXq52mY25) | 3:28 | 2022-06-24 | 2022-10-15 |
 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2022-06-24 | 2022-09-24 |
 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 | 2022-11-02 |  |

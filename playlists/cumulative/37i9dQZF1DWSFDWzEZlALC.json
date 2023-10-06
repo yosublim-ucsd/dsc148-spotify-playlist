@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "Alles unter gro\u00df ist mir zu klein",
+        "url": "https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB"
+      },
+      "artists": [
+        {
+          "name": "KLAN",
+          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
+        },
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157744,
+      "name": "Alles unter gro\u00df ist mir zu klein",
+      "url": "https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y"
+    },
+    {
+      "album": {
         "name": "Anders heute",
         "url": "https://open.spotify.com/album/0BbRx8BkRL5s4H7Sv27B6s"
       },
@@ -742,7 +764,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 223010,
       "name": "Bar Royal",
       "url": "https://open.spotify.com/track/38zR4B1VcFqtSKOZWeQ5Mk"
@@ -1308,7 +1330,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 184762,
       "name": "Das Ende der Welt",
       "url": "https://open.spotify.com/track/2AGBN8LFzvKs3LTFR7wiE9"
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 191511,
       "name": "echt von unten / zo\u00e9 freestyle",
       "url": "https://open.spotify.com/track/5Y5F8yjB2ZnCS0E9kCFR2Y"
@@ -1979,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Endlich wieder da wo es beginnt",
+        "url": "https://open.spotify.com/album/4u9B1Yvly0s1OeTG6N9oG2"
+      },
+      "artists": [
+        {
+          "name": "OK KID",
+          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Endlich wieder da wo es beginnt",
+      "url": "https://open.spotify.com/track/7BGNum6Rn6W1e3sJgHXWPE"
+    },
+    {
+      "album": {
         "name": "Endlos_demo",
         "url": "https://open.spotify.com/album/1kMIcfGn8lMbLwrNAmpnEj"
       },
@@ -2044,7 +2084,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 121929,
       "name": "es ist sp\u00e4t",
       "url": "https://open.spotify.com/track/5eg2Kn2Z85VdZYX6mYkdkw"
@@ -3111,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/06uYdWI6Pho5YSKGuwf27b"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5tv97DXj6v30wMa30SsA3p"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6"
       },
@@ -3206,7 +3264,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 157733,
       "name": "Immer wieder geht die Sonne auf",
       "url": "https://open.spotify.com/track/2qv7ViwI2cM74PVpEamKfH"
@@ -3326,7 +3384,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 177240,
       "name": "Irgendwo",
       "url": "https://open.spotify.com/track/1yJgf4ImIanoAfQudI60N7"
@@ -4219,6 +4277,28 @@
     },
     {
       "album": {
+        "name": "Mann vom Fach",
+        "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "Mann vom Fach",
+      "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "album": {
         "name": "Maschinenmensch",
         "url": "https://open.spotify.com/album/64JsLSPoGhbMMgCirGTmFX"
       },
@@ -4259,6 +4339,24 @@
     },
     {
       "album": {
+        "name": "Also bin ich",
+        "url": "https://open.spotify.com/album/0HICsKReOoeoblyeiLClEd"
+      },
+      "artists": [
+        {
+          "name": "Dilla",
+          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170051,
+      "name": "Mensch",
+      "url": "https://open.spotify.com/track/1lBMr23YxosiMyKhVeRIJB"
+    },
+    {
+      "album": {
         "name": "MIESES LEBEN / WOLKEN (feat. Haiyti)",
         "url": "https://open.spotify.com/album/7dQJSvxjsFTyccNHvbsRQ5"
       },
@@ -4296,6 +4394,24 @@
       "duration_ms": 183419,
       "name": "Milliard\u00e4r",
       "url": "https://open.spotify.com/track/6JKkLoETnqXMe2OL17Waet"
+    },
+    {
+      "album": {
+        "name": "mir gef\u00e4llt",
+        "url": "https://open.spotify.com/album/1hcG8hOdreguxzmt9uakg3"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108111,
+      "name": "mir gef\u00e4llt",
+      "url": "https://open.spotify.com/track/1j6LYk5ABAgTTswEKDnhn6"
     },
     {
       "album": {
@@ -4404,7 +4520,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 163560,
       "name": "Mut",
       "url": "https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8"
@@ -5493,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Scooter",
+        "url": "https://open.spotify.com/album/0pu6Bt22v6J4S6ZqVUY50i"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "Scooter",
+      "url": "https://open.spotify.com/track/0iGfo2eIw23rv8djztx8tl"
+    },
+    {
+      "album": {
         "name": "Sekundenschlaf",
         "url": "https://open.spotify.com/album/58wvPo48VlBS9ySAYlUhGs"
       },
@@ -6427,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "Utopie",
+        "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163026,
+      "name": "Utopie",
+      "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "album": {
         "name": "Vampir",
         "url": "https://open.spotify.com/album/48qoR2gkEP5yqbkxfUSKko"
       },
@@ -7186,7 +7338,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 204413,
       "name": "Zerrissen",
       "url": "https://open.spotify.com/track/3X0nFQWGJw0FQp6A3uVhgl"

@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 215968,
       "name": "A Sky Full Of Stars - Piano Version",
       "url": "https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 257729,
       "name": "Bed of Roses - Piano Version",
       "url": "https://open.spotify.com/track/6Naow8IG97ZDZfHOFCrXFe"
@@ -4125,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD"
+      },
+      "artists": [
+        {
+          "name": "Sinead Fisher",
+          "url": "https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157301,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3"
+    },
+    {
+      "album": {
         "name": "Paint It Black (Piano Instrumental)",
         "url": "https://open.spotify.com/album/772xaFGzw2bjGQHJuqAru4"
       },
@@ -4806,6 +4824,24 @@
       "duration_ms": 190086,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/2Stqf14WZNFK9QwC3OHWFu"
+    },
+    {
+      "album": {
+        "name": "Someone like you",
+        "url": "https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Someone like you",
+      "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
     },
     {
       "album": {

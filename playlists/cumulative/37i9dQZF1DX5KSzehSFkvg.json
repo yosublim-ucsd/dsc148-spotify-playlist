@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 259591,
       "name": "Allo - \u0627\u0644\u0648",
       "url": "https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV"
@@ -164,6 +164,24 @@
       "duration_ms": 234382,
       "name": "Baqi",
       "url": "https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT"
+    },
+    {
+      "album": {
+        "name": "Beniya",
+        "url": "https://open.spotify.com/album/29DCRNBzkwiHXiP5tU4cCl"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239166,
+      "name": "Beniya",
+      "url": "https://open.spotify.com/track/0tqpU9lkMNcFXXAqKYyAof"
     },
     {
       "album": {
@@ -486,6 +504,24 @@
       "duration_ms": 246000,
       "name": "Hob Hyati",
       "url": "https://open.spotify.com/track/3vEhMhj065tdyugAB5UocD"
+    },
+    {
+      "album": {
+        "name": "Hyati",
+        "url": "https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155280,
+      "name": "Hyati",
+      "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
     },
     {
       "album": {
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 182666,
       "name": "Ya Bent Nass",
       "url": "https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B"

@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-488 songs - 14 hr 37 min
+493 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Down By The Bay](https://open.spotify.com/track/33vHl033oQ8m50wbAEc5jg) | [Ruby Barnes](https://open.spotify.com/artist/2kzymRA8IJ9cGwKYvRLiI8) | [Down By The Bay](https://open.spotify.com/album/27Gvpy7UBRrrSbDL1AYuEL) | 1:43 | 2021-10-07 | 2023-04-09 |
 | [Dreamland](https://open.spotify.com/track/13GKdhfHesxaGXTOS6y1Ui) | [Poppy Penguin](https://open.spotify.com/artist/70lc84qIQU7cNBmLtOQrt3) | [Dreamland](https://open.spotify.com/album/1T9Z7uWLpBdOA54sAlKhfP) | 1:39 | 2023-04-07 |  |
 | [Dreams of Us](https://open.spotify.com/track/20Fpq9gEh0oOPNapG27Ihv) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Dreams of Us](https://open.spotify.com/album/7vtj7hTrxhTMYOB9KV3u6w) | 1:52 | 2023-03-17 |  |
-| [Dreamslide](https://open.spotify.com/track/7xbXN5zQ89EwsU4Lcz6J3V) | [Curly Purples](https://open.spotify.com/artist/34BqjxKhJHCPhOJNfeGhDC) | [Dreamslide](https://open.spotify.com/album/0qv7ygBZbyKPyI5Q9LnkbH) | 1:35 | 2021-10-07 |  |
+| [Dreamslide](https://open.spotify.com/track/7xbXN5zQ89EwsU4Lcz6J3V) | [Curly Purples](https://open.spotify.com/artist/34BqjxKhJHCPhOJNfeGhDC) | [Dreamslide](https://open.spotify.com/album/0qv7ygBZbyKPyI5Q9LnkbH) | 1:35 | 2021-10-07 | 2023-10-06 |
 | [Drifting Off](https://open.spotify.com/track/08mDKHVrKDN7NeIXvZ1J33) | [Holly Doris](https://open.spotify.com/artist/4SqjCvakZzR5FMrHGba3L7) | [Drifting Off](https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz) | 2:33 | 2021-10-07 |  |
 | [Drømmenes verden](https://open.spotify.com/track/71tEUkRXpGDFEqAkVIcOkX) | [Demi Rasmussen](https://open.spotify.com/artist/6bYwWlhCzdXNlqFmwyZOTD) | [Drømmenes verden](https://open.spotify.com/album/34hkOMErIOW4N5Gp9o6gXj) | 2:17 | 2022-12-09 |  |
 | [Early in the morning](https://open.spotify.com/track/2VCNBuJor5UVnwomVvBpwk) | [Jeb Lucky](https://open.spotify.com/artist/1sHdqBnwuUJSz1fef6Jk0E) | [Early in the morning](https://open.spotify.com/album/6Ec37wWRMzqhSMAAHcTHTC) | 1:41 | 2021-10-07 |  |
@@ -135,6 +135,7 @@
 | [Farmer Star](https://open.spotify.com/track/2fCsfNGldSE9OUTi2aK3TE) | [Candy Dreamer](https://open.spotify.com/artist/0Hi8wmLjJz0yRhwPsy807q) | [Goodnight One, Two, Three](https://open.spotify.com/album/1wuFzY5aq1lhlbbWxfQMEk) | 1:43 | 2021-10-07 | 2022-02-11 |
 | [Featherbed](https://open.spotify.com/track/6DD5yye9hYp0LVEMjWpQBC) | [Maryam Hamilton](https://open.spotify.com/artist/4h2yYcUraRYD5IOF8WW7p1) | [Featherbed](https://open.spotify.com/album/2iXLVPdzkqIggVepDfZKNT) | 1:40 | 2022-01-21 | 2022-12-24 |
 | [Feeling Free](https://open.spotify.com/track/4kU5W6f7sTXMyRFXQZPd6x) | [Kameron Eaton](https://open.spotify.com/artist/19sBCdUL9oi4ameglzcBwE) | [Feeling Free](https://open.spotify.com/album/7ymXb7UUqHphUhISWLVE1r) | 1:40 | 2021-10-07 |  |
+| [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
 | [First Day Of School](https://open.spotify.com/track/3fNr7Xp74gVlpL6Dg0RErN) | [Ruben Lemay](https://open.spotify.com/artist/3kVgDlYpszYo5w9bM3tzmk) | [First Day Of School](https://open.spotify.com/album/5RoqM9UTBxaX7KZFgWXmv4) | 1:59 | 2021-10-07 |  |
 | [Five Little Speckled Frogs](https://open.spotify.com/track/5IyXmzh7GIQMwvWdPutYfU) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:23 | 2021-10-07 | 2022-10-08 |
 | [Flat Out Tired](https://open.spotify.com/track/3FUSlmcxGqDSrqg498rXhS) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Flat Out Tired](https://open.spotify.com/album/4WHUZ6mUIhKoeEOJeUi0gV) | 1:41 | 2022-07-27 |  |
@@ -311,6 +312,7 @@
 | [Når solen går ned](https://open.spotify.com/track/3tVLb1LdtL9kQ53v4tsPzr) | [Annelise Jeppesen](https://open.spotify.com/artist/6qrLlITCSuQojxy22qXUIp) | [Når solen går ned](https://open.spotify.com/album/0lK4DwN9p0wl7twTfOrGRN) | 1:37 | 2021-10-07 | 2023-03-18 |
 | [Night Boy](https://open.spotify.com/track/3GNI4cnUTmdVwuRZ7KInoz) | [Gregory Bevill](https://open.spotify.com/artist/2yaPTNekt9t1TtGhpFkzoY) | [Night Boy](https://open.spotify.com/album/3dYfPUkzN5rbaP7A65Uilz) | 1:36 | 2021-10-07 |  |
 | [Night Comfort \- Piano](https://open.spotify.com/track/3fPOBNNlM8cD2zzqpZNdN7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Night Comfort \(Piano\)](https://open.spotify.com/album/3pFMjiYRLoPcVir6Ipf9qR) | 3:14 | 2022-01-21 | 2023-02-10 |
+| [Nightingales Are Singing](https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Nightingales Are Singing](https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc) | 1:31 | 2023-10-06 |  |
 | [När Lillan Kom Till Jorden](https://open.spotify.com/track/5ecHn2F3nNYx0mMOSJvqSI) | [Roy Söderlund](https://open.spotify.com/artist/7KEsz1mNNgvyjdgjzAtW34) | [När Lillan Kom Till Jorden](https://open.spotify.com/album/5pkDvvSYc5xwAYx5AckMMD) | 2:37 | 2023-02-10 | 2023-02-24 |
 | [Når du holder hånden min](https://open.spotify.com/track/6N5gzMlSWIbGNLDJoMWph9) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Når du holder hånden min](https://open.spotify.com/album/2jN7REU2ZfHTpmehtJWoRB) | 2:05 | 2022-06-07 | 2023-06-03 |
 | [Ocean Lullaby](https://open.spotify.com/track/0n1Q3owF4MjejYHI95LjHU) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Ocean Lullaby](https://open.spotify.com/album/1adRvl9STHysdmmtpGMxPN) | 1:53 | 2021-10-07 | 2022-12-24 |
@@ -364,6 +366,7 @@
 | [Serene Slumber](https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Watching Over You](https://open.spotify.com/album/1hBdVtoMRo0QBbrloHZ1yk) | 1:59 | 2023-04-07 |  |
 | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/track/4RVbG2QUU8L8Fc1CUsYYWw) | [Irwin Boatwright](https://open.spotify.com/artist/0xi7Mc7fS0IL523uoVmdR8) | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/album/4v10QZ8geeKAbbRRa5Tysa) | 1:44 | 2021-10-07 |  |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-10-07 |  |
+| [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-10-06 |  |
 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 | 2021-10-07 |  |
 | [Skip To My Lou](https://open.spotify.com/track/6r1N2c0I9Q6CeXRlJ1IcdN) | [Mary Robertson](https://open.spotify.com/artist/7HR9rPFMZJ63cm01ia7QRW) | [This Land Is Your Land](https://open.spotify.com/album/1RFf5nn2xOnP9DWszeHHWr) | 2:03 | 2021-10-07 | 2022-08-11 |
 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 | 2021-10-07 |  |
@@ -470,6 +473,7 @@
 | [Two Little Puppies](https://open.spotify.com/track/4GlMPAwMs4zrQBoSKPtC2N) | [Elliott Spalding](https://open.spotify.com/artist/690gVgjN9rkeuiQvRNo4Ei) | [Two Little Puppies](https://open.spotify.com/album/4wg136q3fjaQjTiXhehZjh) | 1:35 | 2021-10-07 | 2022-12-24 |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 |  |
 | [Until morning light](https://open.spotify.com/track/4CqPp4KenTy68DLT9optnH) | [Mandy Hoyer](https://open.spotify.com/artist/72hFRyB2FYuPjblJ79UGDw) | [Until morning light](https://open.spotify.com/album/58FSNhzOxK0x494h7KmmFb) | 2:00 | 2021-10-07 |  |
+| [Up In The Curtains](https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Up In The Curtains](https://open.spotify.com/album/3Qibqlh4XXy33DBIAd7O8U) | 1:13 | 2023-10-06 |  |
 | [Us Two](https://open.spotify.com/track/13qSDvDmpnwghzIvIAbvmI) | [Laurie Finney](https://open.spotify.com/artist/6vB5cW7hsQg9L9k4vyT7TH) | [Us Two](https://open.spotify.com/album/7rZ1ZoICW7cLVETZwCZjrq) | 1:25 | 2021-10-07 |  |
 | [Vamos a contar ovejitas](https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI) | [Emelina Moreno](https://open.spotify.com/artist/2Ab8GKO7SbR91GngNUdC6O) | [Vamos a contar ovejitas](https://open.spotify.com/album/5Vc0hnygzWWIoFZSgavBNN) | 1:32 | 2021-10-07 |  |
 | [Var bor du lilla råtta?](https://open.spotify.com/track/4rbSsFJeWvZKjKgzLtkRf1) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [Blott en dag](https://open.spotify.com/album/7hqajrKD8OBtWD0fywQp6K) | 1:25 | 2022-10-28 | 2023-06-03 |
@@ -477,6 +481,7 @@
 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [Weightless Sleep](https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG) | [Goodnight sweetheart](https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp) | [Weightless Sleep](https://open.spotify.com/album/5yQCAsPHnjxMhaKGKLs8Ax) | 2:19 | 2022-09-02 | 2023-02-10 |
 | [What A Wonderful World](https://open.spotify.com/track/2rvH33qiSxBPYXB2nMeYGt) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Amazing Grace](https://open.spotify.com/album/7tSnOYZYhCkvt1k1l2vkKq) | 2:55 | 2021-10-07 | 2023-05-12 |
+| [Whatever Happens](https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY) | [Cosima Bradley](https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg) | [Whatever Happens](https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU) | 1:19 | 2023-10-06 |  |
 | [When A Child Is Born](https://open.spotify.com/track/1QZWQNbo6aupLs38M2M1bY) | [Charles Conte](https://open.spotify.com/artist/0To8dvXvNaBa5ucn97a1dS) | [Little Donkey](https://open.spotify.com/album/1hS0GhWKiFmZOWsqLnBeyM) | 2:16 | 2021-10-07 | 2022-02-11 |
 | [When It's Time for Bed](https://open.spotify.com/track/31pf9R0pj0HrwGRUDkMDiu) | [Holly Holiday](https://open.spotify.com/artist/7zuuBpzz0Y0GmcgCGP4UJe) | [When It's Time for Bed](https://open.spotify.com/album/6g7TcCuNLvGwACGaYWqdzF) | 1:46 | 2021-10-07 | 2022-01-22 |
 | [When It's Time To Sleep](https://open.spotify.com/track/4PCBKVU64WI9V4iFkT9qpV) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [When It's Time To Sleep](https://open.spotify.com/album/0RL5Zsit5GL9ljlBJ8wO5Z) | 1:15 | 2022-11-25 |  |

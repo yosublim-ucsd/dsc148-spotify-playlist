@@ -4,7 +4,7 @@
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd"> Fanny Hultman</a>, <a href="spotify:artist:44pv88VpkRu39v0lupR2gZ">Maria Hazell</a> & <a href="spotify:artist:7AzjETXRUKNRSJHMW9GIqd">Nina Nesbitt</a>
 
-729 songs - 1 day 16 hr 13 min
+730 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-03 | 2022-09-09 |
 | [i'm in new york tonight](https://open.spotify.com/track/1v5TMcyf4gbhHFfBn0AIaE) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i'm in new york tonight](https://open.spotify.com/album/1gYOkI0tBNRbkZpueJAUlp) | 3:36 | 2022-01-05 | 2022-12-16 |
 | [i've got a crazy idea](https://open.spotify.com/track/6lFNHNVCRrQxbkE4V3I6xh) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [i've got a crazy idea](https://open.spotify.com/album/6xUQI83LRIORArNV3GXJ00) | 3:06 | 2023-03-01 | 2023-04-06 |
+| [I've Made Mistakes](https://open.spotify.com/track/1tV3FthY6AyomujuaAxEFg) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [I've Made Mistakes](https://open.spotify.com/album/0D6TevsmnsuGE3rUgPMnAj) | 4:20 | 2023-10-05 |  |
 | [ibtc](https://open.spotify.com/track/6QtBzhRBv5nrIDYIAiS2gh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [ibtc](https://open.spotify.com/album/6c0qrNtQaaRbefPkSQIOvw) | 2:03 | 2022-10-05 | 2022-11-10 |
 | [If A Tree Falls](https://open.spotify.com/track/6QCCLu0KXi0t7HrvSQV1Im) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [If A Tree Falls](https://open.spotify.com/album/7lpc8C6BaQdf4mVsBxSg7N) | 3:01 | 2023-06-07 | 2023-07-06 |
 | [If He Wanted to He Would](https://open.spotify.com/track/7dORAUbJ8pGvB4SaH0KbUx) | [Sarah Catharine](https://open.spotify.com/artist/78iX5058y1HoOivCzmz8Av) | [If He Wanted to He Would](https://open.spotify.com/album/49fQeumi6IE0Dppm5JQbK6) | 3:47 | 2022-10-05 | 2022-11-10 |
@@ -358,7 +359,7 @@
 | [In a Stranger's Arms](https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:21 | 2022-10-05 | 2022-11-10 |
 | [In My Dreams](https://open.spotify.com/track/0xkJtyc4vuH20Jh2hBP2Cz) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [In My Dreams](https://open.spotify.com/album/4o5bjgOnRh30EGMBjHSJwZ) | 3:37 | 2022-02-02 | 2022-03-09 |
 | [In My Mind](https://open.spotify.com/track/0LpxBbp2ramuTRCuILtN3D) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [Don't Sleep](https://open.spotify.com/album/71vXspFj2kT6IQn1IuNpEd) | 2:56 | 2022-02-02 | 2023-01-05 |
-| [In Spades](https://open.spotify.com/track/6V9tFC30jGHFlgQADPoNnw) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [In Spades](https://open.spotify.com/album/5d3dV3zkyxZmSoda2ESiDn) | 3:10 | 2023-09-06 |  |
+| [In Spades](https://open.spotify.com/track/6V9tFC30jGHFlgQADPoNnw) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [In Spades](https://open.spotify.com/album/5d3dV3zkyxZmSoda2ESiDn) | 3:10 | 2023-09-06 | 2023-10-06 |
 | [in the now](https://open.spotify.com/track/22frz9pf8uVNdlPonqr4L6) | [So Wylie](https://open.spotify.com/artist/0O66QHPs08luarCKRfo5ys) | [in the now](https://open.spotify.com/album/3E5WHb3lW33cyL5jWJMfnZ) | 1:48 | 2023-10-04 |  |
 | [In Ur Hands](https://open.spotify.com/track/3QKxBY6NKDPWAFGkno3MYg) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [In Ur Hands](https://open.spotify.com/album/65lpMM2ywOlQ0MK3Sjp804) | 2:29 | 2023-08-02 | 2023-10-05 |
 | [In Ur Hands](https://open.spotify.com/track/7mf936YkBWMkWlpKAF9AeF) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [In Ur Hands](https://open.spotify.com/album/4GXn0NxyTVANqALltLfNhk) | 2:29 | 2022-06-01 | 2022-07-07 |

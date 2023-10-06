@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gregory Porter",
+  "description": "The best jazz new releases. Cover: Katie Melua",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Call Off The Search",
+        "url": "https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136307,
+      "name": "Call Off The Search - Demo",
+      "url": "https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc"
+    },
+    {
+      "album": {
         "name": "Can You Believe",
         "url": "https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 283466,
       "name": "Darling Fare Thee Well - The Paris Sessions",
       "url": "https://open.spotify.com/track/3KAeMur76miJyksT51VP9x"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 239533,
       "name": "Great Wind",
       "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
@@ -3259,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "I Could Write a Book (Live)",
+        "url": "https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458458,
+      "name": "I Could Write a Book - Live",
+      "url": "https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx"
+    },
+    {
+      "album": {
         "name": "I Feel Foolish",
         "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
       },
@@ -3448,6 +3484,24 @@
       "duration_ms": 184177,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
+    },
+    {
+      "album": {
+        "name": "If You Go Away / Ne me quitte pas",
+        "url": "https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295148,
+      "name": "If You Go Away",
+      "url": "https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT"
     },
     {
       "album": {
@@ -3862,6 +3916,28 @@
       "duration_ms": 242666,
       "name": "L'alpagueur",
       "url": "https://open.spotify.com/track/5Vz2c5K4uEAkweIBENQJ2u"
+    },
+    {
+      "album": {
+        "name": "Storyboard",
+        "url": "https://open.spotify.com/album/1fQxFXmN51ghwHl2AWsXga"
+      },
+      "artists": [
+        {
+          "name": "Gwen Cahue",
+          "url": "https://open.spotify.com/artist/40KKpmd5tQqNohkfjFF9hO"
+        },
+        {
+          "name": "Baptiste Bailly",
+          "url": "https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263560,
+      "name": "La balade",
+      "url": "https://open.spotify.com/track/23prDH0nwHcIi5YQ54Sl8l"
     },
     {
       "album": {
@@ -4346,7 +4422,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 132592,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
@@ -4368,6 +4444,24 @@
       "duration_ms": 134861,
       "name": "Man At Heart",
       "url": "https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ"
+    },
+    {
+      "album": {
+        "name": "Mangrove",
+        "url": "https://open.spotify.com/album/52u1Jd1pll9AAnJeeOMa14"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00eb Defays",
+          "url": "https://open.spotify.com/artist/0QytOJIXShUqZUANBDno3J"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Mangrove",
+      "url": "https://open.spotify.com/track/5jMErITrJizIjsGGUt3BDh"
     },
     {
       "album": {
@@ -5736,7 +5830,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 185637,
       "name": "Safely Far",
       "url": "https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y"

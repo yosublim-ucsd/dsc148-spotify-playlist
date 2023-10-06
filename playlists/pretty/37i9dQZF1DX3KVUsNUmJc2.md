@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Long live the king\. Listen to music from and inspired by Agent Elvis, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,740 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,802 likes - 78 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 61 | [\(Now and Then There's\) A Fool Such as I](https://open.spotify.com/track/6aKzxns1rGMjLSij4PuWhh) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 2:39 |
 | 62 | [American Trilogy \- Live](https://open.spotify.com/track/6CT7j3vaqT3KlnZEetnQqW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis: As Recorded at Madison Square Garden \(Live\)](https://open.spotify.com/album/3jEgFCvP4h9ENjnoyystsy) | 4:31 |
 | 63 | [Kentucky Rain](https://open.spotify.com/track/1dIChAQ6MLzIsXWl6vWAqX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 3:15 |
-| 64 | [\(Let Me Be Your\) Teddy Bear](https://open.spotify.com/track/57j9wUmiHxii7VpbAdSkPQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:47 |
+| 64 | [Mean Woman Blues](https://open.spotify.com/track/18eFeeErcRXRs7E173ZRWo) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 2:16 |
 | 65 | [Such a Night](https://open.spotify.com/track/1vGfZYrNSxT72PdgToMubU) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 2:58 |
 | 66 | [Blue Moon of Kentucky](https://open.spotify.com/track/18LwhRYqFsJjUH3Q4dMIr7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 2:06 |
 | 67 | [Crying In the Chapel](https://open.spotify.com/track/2inb1KNU2bGIkldLsuDb83) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [How Great Thou Art](https://open.spotify.com/album/7N1t7WzloZyMj95jk6CSCt) | 2:25 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 | 77 | [Memphis, Tennessee](https://open.spotify.com/track/4cLQusV6v3i6YLpl4QOJqN) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee), [Craig Robinson](https://open.spotify.com/artist/5KYG3pjlHT4zdP42vJsk6s) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 2:36 |
 | 78 | [Elvis In Hawaii](https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 0:57 |
 
-Snapshot ID: `MCw2ZDMyZjdiOWQxNTJjMGIzYmI2MzAyOWVlNjk3N2ZjMzFiNGQ1MWQ5`
+Snapshot ID: `MCxlZmQ5ODNiZTMyYWQ0NjQ4NWRiNGJhYmZjZjI5YTJhMDBlYzkyMzBk`

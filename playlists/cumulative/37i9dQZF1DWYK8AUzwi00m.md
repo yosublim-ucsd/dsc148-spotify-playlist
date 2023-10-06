@@ -4,7 +4,7 @@
 
 > have yourself a chill and lofi xmas
 
-294 songs - 11 hr 23 min
+295 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [The First Noel](https://open.spotify.com/track/25jBp6wKLVmwrEDtVNJ5Oz) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:28 | 2021-12-20 | 2022-11-12 |
 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 | 2022-11-11 |  |
 | [The Night Before](https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [The Night Before](https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp) | 1:51 | 2022-11-11 |  |
+| [This Christmas](https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [This Christmas](https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g) | 3:34 | 2023-10-06 |  |
 | [Togetherness](https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN) | [Jingle Feelz](https://open.spotify.com/artist/3IWqTmtQEwVejePSf3LXil) | [Togetherness](https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf) | 1:47 | 2022-11-11 |  |
 | [Under The Mistletoe](https://open.spotify.com/track/529eSxqoHAUFj9RJLcPDTG) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [Under The Mistletoe](https://open.spotify.com/album/5UnhWQflxrR1Gh0gNO7oG8) | 3:16 | 2022-11-11 |  |
 | [UNDER THE TREE](https://open.spotify.com/track/3iVLiS4wjwx31n8euW5al0) | [ihlma](https://open.spotify.com/artist/2cTdFCIVqw5WFSx28twB2P) | [UNDER THE TREE](https://open.spotify.com/album/50mpy8XlSyZJ7IncIn0DnR) | 2:15 | 2022-12-05 |  |

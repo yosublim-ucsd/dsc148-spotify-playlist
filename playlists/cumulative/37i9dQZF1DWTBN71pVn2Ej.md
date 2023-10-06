@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-457 songs - 1 day 2 hr 27 min
+458 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [Woohoo](https://open.spotify.com/track/10nd0tq8g3fFpCM4hkgHFR) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 3:44 | 2022-11-11 | 2023-02-03 |
 | [Words of Love](https://open.spotify.com/track/0dhg4pXHwcMw6OY6c1SESI) | [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [Words of Love](https://open.spotify.com/album/6d8qdVb81VvEc6XPWrdNgP) | 3:53 | 2023-02-02 | 2023-05-13 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/6Ggg9AKfFQpmIDHFv49y1r) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Yeah Yeah Yeah](https://open.spotify.com/album/17J3qSTLNBHWzwUFPwizZX) | 3:07 | 2021-12-16 | 2022-01-14 |
-| [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-07-28 |  |
+| [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-09-29 |  |
+| [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-07-28 | 2023-10-06 |
 | [Your Favourite Blade](https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 4:34 | 2022-02-17 | 2022-09-07 |
 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 | 2023-08-21 |  |
 | [Zero](https://open.spotify.com/track/49qf7uMixoBSbiUXzZg5zr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Zero](https://open.spotify.com/album/6PcI77cr793O8vr8X4gdbj) | 3:19 | 2022-06-09 | 2022-09-07 |

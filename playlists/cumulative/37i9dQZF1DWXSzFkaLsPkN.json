@@ -2199,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "Tham Jaa",
+        "url": "https://open.spotify.com/album/594GX28qQp7xBV1zPYsIqH"
+      },
+      "artists": [
+        {
+          "name": "Shriram Iyer",
+          "url": "https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw"
+        },
+        {
+          "name": "Mahesh Raghvan",
+          "url": "https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198172,
+      "name": "Tham Jaa",
+      "url": "https://open.spotify.com/track/7KVXJ1EW0yoKJiHFYAweYQ"
+    },
+    {
+      "album": {
         "name": "Tinka",
         "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
       },
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 208888,
       "name": "Tumhare Aane Se",
       "url": "https://open.spotify.com/track/6GvEjUmxUoVOMJMPK0STYZ"

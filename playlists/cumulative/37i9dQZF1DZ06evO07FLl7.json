@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "Preta",
+        "url": "https://open.spotify.com/album/4DTdTAABJ6pPmbLc3eTaJe"
+      },
+      "artists": [
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190408,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/5vr8UkemCFnCjIfQ4gbTj5"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3spera",
         "url": "https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK"
       },

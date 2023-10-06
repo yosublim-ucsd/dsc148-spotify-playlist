@@ -4,7 +4,7 @@
 
 > ATRIP's got the juice
 
-130 songs - 8 hr 23 min
+133 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Foundation](https://open.spotify.com/track/5RWVwqbnqaddD5832YgTtr) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Blue Breeze](https://open.spotify.com/album/6V0vITSPGYans9CoyHkkVi) | 3:56 | 2023-06-08 |  |
 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 | 2023-06-08 |  |
 | [Freak Me Now \(with Róisín Murphy\) \- Bklava Remix](https://open.spotify.com/track/7I0cR6u9gjN7Ua5Q8RVMAO) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Freak Me Now \(with Róisín Murphy\) \[Bklava Remix\]](https://open.spotify.com/album/05v6YXgPWPRIJv884rYtfQ) | 3:01 | 2023-08-24 |  |
+| [Freedom \(In Ur Mind\)](https://open.spotify.com/track/1eUW1kuvyCq6oFUXNLIumU) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Freedom \(In Ur Mind\)](https://open.spotify.com/album/3GRl72NOdFsZt7N55tGeS8) | 2:54 | 2023-10-05 |  |
 | [Freedom \- Sluggy Beats Remix](https://open.spotify.com/track/662qmoYrzemTWWrssVBom8) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Sluggy Beats](https://open.spotify.com/artist/44pEG0qie1KQHFr1VLUXVI) | [Freedom The Remixes](https://open.spotify.com/album/5SKnuvPKbrRDlqoLAtAlSO) | 3:43 | 2023-08-10 |  |
 | [Für Nimmer](https://open.spotify.com/track/6CX4j7F3kjIWzwgNUhIril) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Alts\)](https://open.spotify.com/album/713fivhX2Wyws2TqHAJ828) | 3:19 | 2023-08-17 |  |
 | [Für Nimmer](https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Für Nimmer](https://open.spotify.com/album/0P7b94OcydT0AQHFm9Quwa) | 3:19 | 2023-06-22 | 2023-08-19 |
@@ -73,6 +74,7 @@
 | [Long Ago](https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD) | 4:54 | 2023-09-06 |  |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2023-06-08 |  |
 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-08-03 |  |
+| [Looking For Love \- salute remix](https://open.spotify.com/track/3pbaa7YbnJLNif8TOONI9t) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Looking For Love \(salute remix\)](https://open.spotify.com/album/550Hl0NNiWdFJcIqaMGWuT) | 4:59 | 2023-10-05 |  |
 | [Love Me Back](https://open.spotify.com/track/7o1K0RtnM5cdvZrmgnta98) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Love Me Back](https://open.spotify.com/album/4W0FcfxQA688pFBQHfjcqY) | 3:15 | 2023-08-03 |  |
 | [Movin' On](https://open.spotify.com/track/5DQyoa8ZzJoM9hqfrln4Wd) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends](https://open.spotify.com/album/644q1QpzcCF4Ias6NUIqSR) | 2:31 | 2023-09-28 | 2023-09-30 |
 | [Movin' On](https://open.spotify.com/track/6KqwymhNktMbr0yGYe2L6f) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [My Friends EP](https://open.spotify.com/album/4YqagaNtz10JMCRFdLmkFI) | 2:31 | 2023-09-28 |  |
@@ -109,6 +111,7 @@
 | [Sleeves Touch My Elbows](https://open.spotify.com/track/5lkOxIIuYsTgzPanava5CQ) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Sleeves Touch My Elbows](https://open.spotify.com/album/4q6XVAVGss9uhxjFG42gNG) | 3:30 | 2023-06-15 |  |
 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 | 2023-06-08 |  |
 | [Sour Berry](https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Mosquito Love](https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V) | 3:15 | 2023-08-17 |  |
+| [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-10-05 |  |
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2023-06-08 |  |
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-13 |  |
 | [Talk On The Phone](https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 | 2023-08-03 |  |

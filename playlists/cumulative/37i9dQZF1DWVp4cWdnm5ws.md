@@ -2,7 +2,7 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2023.
+> Discover new artists on the horizon this 2023\. Cover: DENȲ
 
 151 songs - 9 hr 30 min
 

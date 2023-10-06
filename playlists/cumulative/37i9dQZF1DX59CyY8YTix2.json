@@ -10778,7 +10778,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 272277,
       "name": "\u304d\u3089\u304d\u3089",
       "url": "https://open.spotify.com/track/32lWfnbzsZTX02L3935VF7"
@@ -11682,6 +11682,24 @@
       "duration_ms": 143440,
       "name": "\u307e\u3061\u306e\u306a\u304b",
       "url": "https://open.spotify.com/track/7ujwXfDarMYApUCFYpyNwd"
+    },
+    {
+      "album": {
+        "name": "\u307e\u3069\u308d\u307f",
+        "url": "https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263654,
+      "name": "\u307e\u3069\u308d\u307f",
+      "url": "https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX"
     },
     {
       "album": {

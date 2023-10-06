@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 663 songs - 1 day 9 hr 25 min
+[skillstreet](https://open.spotify.com/user/skillstreet) - 2 likes - 665 songs - 1 day 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -671,5 +671,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 661 | [Scholarships](https://open.spotify.com/track/0B5OTb36fzLayn6XQHg5A1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:29 |
 | 662 | [Thought It Was a Drought](https://open.spotify.com/track/5ihDGnhQgMA0F0tk9fNLlA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 4:25 |
 | 663 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 3:57 |
+| 664 | [Nonstop](https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:58 |
+| 665 | [Blessings \- Extended Version](https://open.spotify.com/track/4UaWrzY75h1tAvlxa4NKP9) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Blessings \(Extended Version\)](https://open.spotify.com/album/5Isq5L9DWNCRfvFAG6WFN7) | 5:01 |
 
-Snapshot ID: `ODI2LDQwYjQ3NzQwMmE4NzRjZWI5Y2ZmNGUxYjIwNDU0MTkzMzUxYTgyMGU=`
+Snapshot ID: `ODI4LDAzYTQzYTY1NjMxODBiOWUxYWVlYWMzZjVlYTU5M2FlMWVkZGU0MTE=`

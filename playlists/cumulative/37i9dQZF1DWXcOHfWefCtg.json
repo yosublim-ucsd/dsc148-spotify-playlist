@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Hangin' On To Christmas",
+        "url": "https://open.spotify.com/album/60cXavBNBPKPGwGS9YNaRk"
+      },
+      "artists": [
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219159,
+      "name": "Hangin' On To Christmas",
+      "url": "https://open.spotify.com/track/1DgsLlwMxd4uywMIYfL1k6"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A"
       },
@@ -926,7 +944,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 162373,
       "name": "Xmas Twist",
       "url": "https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O"

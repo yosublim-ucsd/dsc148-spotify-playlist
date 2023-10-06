@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 303069,
+  "num_followers": 303142,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2ZmNGNiYjI0MzAyZTgyY2RiOGM2Mjc5NTkyZDlhMzhmMmQwMzc4",
+  "snapshot_id": "MCxlNDc2MDNiYzA1OWNkZmIyODdkODNjYzczODZhZDgzY2JkNmRlYThl",
   "tracks": [
     {
       "added_at": "2023-09-29 15:34:46",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-09-29 15:34:46",
       "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
+    },
+    {
+      "added_at": "2023-09-29 15:34:46",
+      "album": {
         "name": "Contato",
         "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
       },
@@ -1207,26 +1223,6 @@
       "duration_ms": 197494,
       "name": "Playlist Transante",
       "url": "https://open.spotify.com/track/2qCps28vIziXwOKmici1g7"
-    },
-    {
-      "added_at": "2023-09-29 15:34:46",
-      "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/7mX006mcnDcQgyT1VwbgVd"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 189850,
-      "name": "Um Dia Qualquer",
-      "url": "https://open.spotify.com/track/5yuENyM88tUfheNVoBoMo3"
     }
   ],
   "unique_name": "Rala e Rola",

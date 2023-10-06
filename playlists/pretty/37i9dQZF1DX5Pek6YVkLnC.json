@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 229338,
+  "num_followers": 229366,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA1ODJiNTlkN2I0NWU0MDk0OGU3YWUyNzIxMzE3NmI0NTA5ZWUx",
+  "snapshot_id": "MCwxZThkMjJlZmY2ZGYxZjg2NDE3OGU0NDdmMmYyMGUyMGNiZmU1ZDRj",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Right Thru",
+        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166615,
+      "name": "Right Thru",
+      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 188737,
       "name": "Porche Carrera",
       "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Right Thru",
-        "url": "https://open.spotify.com/album/2TjYnjPkhzKijobREcJ0wW"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166615,
-      "name": "Right Thru",
-      "url": "https://open.spotify.com/track/2YDIqBfYlDg9DfgtGziC9Y"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -571,26 +571,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Otra",
-        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
-      },
-      "artists": [
-        {
-          "name": "Chanell",
-          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
-        },
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Otra",
-      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Respeto X Respeto",
         "url": "https://open.spotify.com/album/24UJw0M1giFfL1APlORrar"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 182400,
       "name": "Respeto X Respeto",
       "url": "https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Otra",
+        "url": "https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f"
     },
     {
       "added_at": "2023-06-09 20:20:12",

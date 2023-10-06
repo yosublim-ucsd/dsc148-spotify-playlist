@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-1,352 songs - 2 day 21 hr 13 min
+1,353 songs - 2 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Facetime](https://open.spotify.com/track/65FrlVtZff0WmX9xqYhDOi) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Diho](https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY) | [Facetime](https://open.spotify.com/album/2n2Adl6ZzyKizdEgUD0KxV) | 2:31 | 2022-03-25 | 2022-04-03 |
 | [Faka](https://open.spotify.com/track/2Ei5fjJrwugA91fSaXsfA8) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 2:05 | 2021-10-03 | 2022-11-30 |
 | [FALA](https://open.spotify.com/track/4XZxxP6ilbl56BooNjq7Ki) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [PLEŚŃ](https://open.spotify.com/album/3LKHTl94vZ2yLDiusRJMQj) | 4:16 | 2021-03-27\* | 2022-01-01 |
-| [FALA](https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [PLEŚŃ](https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk) | 4:16 | 2023-04-27 |  |
+| [FALA](https://open.spotify.com/track/4pRmXzB5gkQXkfEOLfwJQx) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [PLEŚŃ](https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk) | 4:16 | 2023-04-27 | 2023-10-06 |
 | [Fatamorgana](https://open.spotify.com/track/35XEhELJFZ1wEN1a444t9t) | [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Afryka](https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz) | 2:59 | 2023-05-06 | 2023-07-06 |
 | [Fatamorgana](https://open.spotify.com/track/4C3MbWrKVjKjangZzAeL7z) | [Przemek.pro](https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE), [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Bartek Kubicki](https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo), [Trzech Króli](https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ) | [Fatamorgana](https://open.spotify.com/album/2JEOSXEvpCm8qMoYcMvyxr) | 2:59 | 2023-03-29 | 2023-05-07 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-09-18 |
@@ -390,6 +390,7 @@
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-07-01 | 2023-07-03 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-08-29 |
+| [Fluid](https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2) | [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [Fluid](https://open.spotify.com/album/5Pj4GxjmJvDvzhrCSJXZsT) | 2:22 | 2023-10-05 |  |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-06-09 | 2021-06-24 |
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-04-15 | 2023-09-05 |
 | [Forma](https://open.spotify.com/track/7CmzIQOpTVf7VHd1dnqPlU) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy) | [Jeszcze 5 minut](https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK) | 3:13 | 2021-11-17 | 2021-11-19 |

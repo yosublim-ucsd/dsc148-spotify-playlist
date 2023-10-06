@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 154500,
       "name": "You / Me",
       "url": "https://open.spotify.com/track/3yfCssNAKVRrIu8wWfqev3"
@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 190136,
       "name": "\u5979\u7684\u623f\u9593",
       "url": "https://open.spotify.com/track/22ZmJWPElKL5XVxcPFt9oM"
@@ -2514,6 +2514,24 @@
       "duration_ms": 249417,
       "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
       "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u6709\u4e00\u5929\u518d\u898b",
+        "url": "https://open.spotify.com/album/2LTxpfDYBqbi9iQDLBLomM"
+      },
+      "artists": [
+        {
+          "name": "Ariel Tsai",
+          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u5982\u679c\u6709\u4e00\u5929\u518d\u898b",
+      "url": "https://open.spotify.com/track/32fzm1b8Ivyyj9qKXjiMZw"
     },
     {
       "album": {
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
@@ -4139,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+    },
+    {
+      "album": {
         "name": "\u6811\u5c4b (2021)",
         "url": "https://open.spotify.com/album/3ymAY7rNpDVBzPZUe9ogfS"
       },
@@ -4684,7 +4720,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 222266,
       "name": "\u7aca\u7b11",
       "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
@@ -4980,6 +5016,24 @@
       "duration_ms": 196436,
       "name": "\u82f1\u96c4 (Heroes) - \u52d5\u756b\u96fb\u5f71\u300a\u8af8\u845b\u56db\u90ce-\u82f1\u96c4\u7684\u82f1\u96c4\u300b\u4e3b\u984c\u66f2 Acoustic Ver.",
       "url": "https://open.spotify.com/track/6k9i8zbLhbGRmlK5hqfkjy"
+    },
+    {
+      "album": {
+        "name": "\u83ab\u5fd8\u521d\u8877",
+        "url": "https://open.spotify.com/album/0YpUrt8Wo9SHdy3hF9BClV"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u82b7\u5a77",
+          "url": "https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237563,
+      "name": "\u83ab\u5fd8\u521d\u8877",
+      "url": "https://open.spotify.com/track/0jZse1d0sIzWEDQI74f9KB"
     },
     {
       "album": {

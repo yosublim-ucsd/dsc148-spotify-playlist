@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,775 likes - 83 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,305 likes - 83 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 82 | [CEREMONY](https://open.spotify.com/track/3hAQ3NalXLWjn0OAJtAnIl) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [CEREMONY](https://open.spotify.com/album/1BeyevFvnDDh7Zor3AZLf4) | 3:13 |
 | 83 | [CHO \- Japanese ver.](https://open.spotify.com/track/4JJZCcYn800GgmZDt78Znd) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [Feverse JAPAN 1st ALBUM \(CHO \-Japanese ver.\-\)](https://open.spotify.com/album/7fWY7Rr0Lc72XS13RfWuvo) | 3:24 |
 
-Snapshot ID: `MCw2MTMxYTNkYWNkZDk3YWUzN2ZhNGY5ZDAxNmExMTUyN2FkZjBhMTlk`
+Snapshot ID: `MCxmN2FmM2IzMjE1ZDdhNDNhMWIzYWUxYTdmNDcyZmM0MjNjNmNiNzA0`

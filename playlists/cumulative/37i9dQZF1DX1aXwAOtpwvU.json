@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5kH7ZateqBrrUv6u6snhnp\">ta Ukrainka</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:5ic8bWWvZHWf0dDBi9ThNk\">bambi</a>, <a href=\"spotify:artist:6W1NclX9rP93bkhQEOQtm4\">Frank Leen</a>, <a href=\"spotify:artist:4ccurDUZ48cXNrcrLsA9ub\">IGNACY</a>, <a href=\"spotify:artist:5RwiBwEEW5dOXGUlEVA0LT\">stickxr</a>, <a href=\"spotify:artist:5kH7ZateqBrrUv6u6snhnp\">ta Ukrainka</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 160481,
       "name": "365 Days",
       "url": "https://open.spotify.com/track/6YITon2rsFDlRrZilwMsRN"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198000,
       "name": "Czekam Na Znak",
       "url": "https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06"
@@ -827,6 +827,28 @@
     },
     {
       "album": {
+        "name": "Luksus",
+        "url": "https://open.spotify.com/album/59qNkAOwe8LEdKRqwocPD6"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        },
+        {
+          "name": "Trill Pem",
+          "url": "https://open.spotify.com/artist/0x4xJCGDyTlKr47RF2WXzu"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Luksus",
+      "url": "https://open.spotify.com/track/032wbCjB0T5yY6B1Sp7t5b"
+    },
+    {
+      "album": {
         "name": "Mam Ju\u017c Do\u015b\u0107",
         "url": "https://open.spotify.com/album/5ppmozRB4JkpmsEu5KHMVk"
       },
@@ -1207,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Niepewno\u015b\u0107",
+        "url": "https://open.spotify.com/album/7g9YalkkMEqvtfXweACsRd"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "Niepewno\u015b\u0107",
+      "url": "https://open.spotify.com/track/7rMtFn0tDxMB0WqN2DHKTd"
+    },
+    {
+      "album": {
         "name": "Nothin\u2019 to worry",
         "url": "https://open.spotify.com/album/1jnB1ZnjhNLSv6EZii6iRv"
       },
@@ -1218,7 +1258,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 162690,
       "name": "Nothin\u2019 to worry",
       "url": "https://open.spotify.com/track/2r9c6RIWi7elZWGDxQZC0n"
@@ -1468,7 +1508,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 255534,
       "name": "Promise",
       "url": "https://open.spotify.com/track/3keO1p1cfYkxgNGTIjAbMv"
@@ -1830,6 +1870,42 @@
       "duration_ms": 147200,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/4h2yewSuMOWwq1g7aCyxz4"
+    },
+    {
+      "album": {
+        "name": "The Letter",
+        "url": "https://open.spotify.com/album/7vafvLFZqrGoo8VsGDZMvf"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253298,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/04cOPYuvkcPdjhx8Km0EHw"
+    },
+    {
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/0tuj1xBC3aKWlNXtmpjhR8"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196405,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/5W6KWPUZBDYlK0KExEQEhb"
     },
     {
       "album": {

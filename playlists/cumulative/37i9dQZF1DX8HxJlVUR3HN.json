@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : FFF",
   "name": "VOLUME FRANCE",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 157608,
       "name": "Baise tout seul",
       "url": "https://open.spotify.com/track/5TE991wFPT4dLTlkvgJthg"
+    },
+    {
+      "album": {
+        "name": "Break Even",
+        "url": "https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Break Even",
+      "url": "https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40"
     },
     {
       "album": {
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 173017,
       "name": "De l'aventure - Single Version",
       "url": "https://open.spotify.com/track/7Gf7bWdlp2RE79kJAlSszu"
@@ -272,7 +290,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 170567,
       "name": "From Zero",
       "url": "https://open.spotify.com/track/2rBxyjJZPPSz7HHVBExEAW"
@@ -312,6 +330,24 @@
       "duration_ms": 207740,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/3plpIWQeDa8ptI5u0YOmDF"
+    },
+    {
+      "album": {
+        "name": "Ilion",
+        "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
     },
     {
       "album": {
@@ -380,7 +416,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 205480,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/18RSrhoUV3Zkrl14iTZfk7"
@@ -402,6 +438,24 @@
       "duration_ms": 222967,
       "name": "Knife Edge",
       "url": "https://open.spotify.com/track/6YPkB6TiX0ZPJPvlr5P3FV"
+    },
+    {
+      "album": {
+        "name": "Les magazines",
+        "url": "https://open.spotify.com/album/5m3D7pJBWUh8ybUjGQn9FQ"
+      },
+      "artists": [
+        {
+          "name": "F.F.F.",
+          "url": "https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214037,
+      "name": "Les magazines",
+      "url": "https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85"
     },
     {
       "album": {
@@ -434,7 +488,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 268720,
       "name": "Me Me and Mine",
       "url": "https://open.spotify.com/track/3Ddpsbd5xVSWZUYKdiKPj0"
@@ -452,7 +506,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 249013,
       "name": "Model",
       "url": "https://open.spotify.com/track/0PgfUO12sVy39a87M9J0rn"
@@ -567,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Powerback",
+        "url": "https://open.spotify.com/album/05dhsqbUKJoc6pvyfnY3dI"
+      },
+      "artists": [
+        {
+          "name": "Shady Fat Kats",
+          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225750,
+      "name": "Powerback",
+      "url": "https://open.spotify.com/track/4tXM3eS5yTpZXRRfCN5uby"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T"
       },
@@ -596,7 +668,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 294911,
       "name": "Real Countdown",
       "url": "https://open.spotify.com/track/3UDDYFwQpb073iwaO7oDa4"
@@ -711,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO"
+      },
+      "artists": [
+        {
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219359,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf"
+    },
+    {
+      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
       },
@@ -798,6 +888,24 @@
       "duration_ms": 273142,
       "name": "The Light In The Dark",
       "url": "https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9"
+      },
+      "artists": [
+        {
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy"
     },
     {
       "album": {

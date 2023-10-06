@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Troye Sivan
+> The hottest tracks with the freshest hits! Cover: Tate McRae
 
 99 songs - 5 hr 18 min
 

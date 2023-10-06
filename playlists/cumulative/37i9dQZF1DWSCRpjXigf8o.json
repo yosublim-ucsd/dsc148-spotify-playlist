@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "album": {
         "name": "A Strange Kind Of Beautiful",
         "url": "https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 254316,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/5h5CQwgjgQrBUacsqR2zR7"
+    },
+    {
+      "album": {
+        "name": "Adore You (Acoustic)",
+        "url": "https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Adore You - Acoustic",
+      "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
     },
     {
       "album": {
@@ -1852,7 +1888,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
       "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
@@ -3523,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Kinky Love (Demo)",
+        "url": "https://open.spotify.com/album/5YhYOUFiN2pXvKtZsn2axs"
+      },
+      "artists": [
+        {
+          "name": "Pale Saints",
+          "url": "https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "Kinky Love - Demo",
+      "url": "https://open.spotify.com/track/6Qlh48xAq1f5pSc5iLeWze"
+    },
+    {
+      "album": {
         "name": "Love seasons",
         "url": "https://open.spotify.com/album/19lqIHbFWDYmpIvwBpmLKl"
       },
@@ -4160,6 +4214,24 @@
     {
       "album": {
         "name": "money body",
+        "url": "https://open.spotify.com/album/3LtPIBWo8MYD5jqJIClfe8"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202433,
+      "name": "money body",
+      "url": "https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV"
+    },
+    {
+      "album": {
+        "name": "money body",
         "url": "https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9"
       },
       "artists": [
@@ -4170,7 +4242,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 202433,
       "name": "money body",
       "url": "https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE"
@@ -5134,7 +5206,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 271266,
       "name": "So am I",
       "url": "https://open.spotify.com/track/2JsVTIGU8AH4U0Z4LZY0II"
@@ -5940,7 +6012,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 249733,
       "name": "There's No Mountain",
       "url": "https://open.spotify.com/track/4ynFaUX7qRKXhkXh0fFtPz"
@@ -6934,6 +7006,24 @@
       "duration_ms": 261282,
       "name": "\u3084\u3048",
       "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+        "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209899,
+      "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+      "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
       "album": {

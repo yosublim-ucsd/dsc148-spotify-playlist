@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Pirlo",
+          "url": "https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e"
+    },
+    {
+      "album": {
         "name": "Somewhere only we know",
         "url": "https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx"
       },
@@ -3587,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O"
+      },
+      "artists": [
+        {
+          "name": "Nathan R. Edwards",
+          "url": "https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169926,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO"
+    },
+    {
+      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY"
       },
@@ -4448,6 +4484,24 @@
       "duration_ms": 191000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3Qy8L9VXIGqV51ZMqgqy8y"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/33RySmFjwLy1DUUmMHIYyQ"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111691,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7wEeJdVXXIhxqUFU3RriOn"
     },
     {
       "album": {
@@ -5819,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD"
+      },
+      "artists": [
+        {
+          "name": "Sinead Fisher",
+          "url": "https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157301,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3"
+    },
+    {
+      "album": {
         "name": "Over The Rainbow",
         "url": "https://open.spotify.com/album/4ewYdHP2TpZhrdxdCgFQCK"
       },
@@ -6143,6 +6215,24 @@
     },
     {
       "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k"
+      },
+      "artists": [
+        {
+          "name": "Liam Dunn",
+          "url": "https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132918,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN"
+    },
+    {
+      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx"
       },
@@ -6226,7 +6316,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147250,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/0bD02USbthuiIWVEjlGUlI"
@@ -6734,6 +6824,24 @@
       "duration_ms": 188954,
       "name": "Snow On The Beach",
       "url": "https://open.spotify.com/track/3g2mR39gD6HT8jM5igcTqS"
+    },
+    {
+      "album": {
+        "name": "Someone like you",
+        "url": "https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Someone like you",
+      "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
     },
     {
       "album": {
@@ -7868,6 +7976,24 @@
       "duration_ms": 254029,
       "name": "This I Promise You - Piano Version",
       "url": "https://open.spotify.com/track/1S6ml085sYS4rrHgTrsR90"
+    },
+    {
+      "album": {
+        "name": "Through The Fire",
+        "url": "https://open.spotify.com/album/6VMNvH3uJxczSKgqI3SOFJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Kitkowska",
+          "url": "https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/7E59DQ6k27g52Av9z4KEe6"
     },
     {
       "album": {

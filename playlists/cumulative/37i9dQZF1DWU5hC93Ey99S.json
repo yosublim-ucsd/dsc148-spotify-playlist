@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216247,
+      "name": "Alive - Edit",
+      "url": "https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj"
+    },
+    {
+      "album": {
         "name": "All Good (Jasper Tygner Remix)",
         "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
       },
@@ -893,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Dancing With A Ghost",
+        "url": "https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153904,
+      "name": "Dancing With A Ghost",
+      "url": "https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc"
+    },
+    {
+      "album": {
         "name": "Danielle (smile on my face)",
         "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
       },
@@ -1172,6 +1212,32 @@
       "duration_ms": 194106,
       "name": "Electrifying - NO\u00cbP Remix",
       "url": "https://open.spotify.com/track/3CB9fFOlO6CDq4FChUpcMY"
+    },
+    {
+      "album": {
+        "name": "Elysian Park",
+        "url": "https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        },
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Elysian Park",
+      "url": "https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64"
     },
     {
       "album": {
@@ -1666,6 +1732,24 @@
       "duration_ms": 169453,
       "name": "Have Fun Forgetting About Me",
       "url": "https://open.spotify.com/track/532tXrhlAGohExwprUgERu"
+    },
+    {
+      "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/5MfSs8fY5iP5UStD5jsBYu"
+      },
+      "artists": [
+        {
+          "name": "ALPHI",
+          "url": "https://open.spotify.com/artist/6TUS92w9xO24LS2EzuRR2M"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117052,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/0mPl4QxONecqNfG7XJEsZX"
     },
     {
       "album": {
@@ -3339,6 +3423,46 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "Jim",
+          "url": "https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq"
+    },
+    {
+      "album": {
+        "name": "Only In My Mind",
+        "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161137,
+      "name": "Only In My Mind",
+      "url": "https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7ByGfr10et7e5vZxGUVrlO"
       },
@@ -3995,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/50KKLoh0MofHPUqaJkYnVm"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187301,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/5kVwOShLwLmUq0s1NrsRvy"
+    },
+    {
+      "album": {
         "name": "Shake / In The Mood",
         "url": "https://open.spotify.com/album/6He6laSFhDHETaQaxulrtp"
       },
@@ -4628,6 +4770,28 @@
       "duration_ms": 160840,
       "name": "Tomorrow Never Comes",
       "url": "https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/7cJ8qKZ7JERLDpIEsZTDFv"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "syd B",
+          "url": "https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0J1UJG2vXr9CL2p7dppSjb"
     },
     {
       "album": {
@@ -5340,6 +5504,28 @@
       "duration_ms": 255047,
       "name": "yes 2 heaven",
       "url": "https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE"
+    },
+    {
+      "album": {
+        "name": "You & I (Mansionair Remix)",
+        "url": "https://open.spotify.com/album/63cTnK9bAANdtAryamtiJZ"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237116,
+      "name": "You & I - Mansionair Remix",
+      "url": "https://open.spotify.com/track/0t5WDA4jaAYWCacACgG0HK"
     },
     {
       "album": {

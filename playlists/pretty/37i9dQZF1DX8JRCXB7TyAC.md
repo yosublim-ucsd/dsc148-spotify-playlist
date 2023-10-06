@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,072 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,172 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 36 | [Don Dada](https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Don Dada](https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh) | 2:48 |
 | 37 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 |
 | 38 | [Farraar](https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD) | [Addy B](https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Farraar](https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc) | 3:30 |
-| 39 | [Aakhar Baat](https://open.spotify.com/track/43fQhX1yu8v42eQKgYKrBN) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Aakhar Baat](https://open.spotify.com/album/0LxwUs1lWQHZY96WsWfXFo) | 3:00 |
+| 39 | [Aakhar Baat](https://open.spotify.com/track/43fQhX1yu8v42eQKgYKrBN) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Aakhar Baat](https://open.spotify.com/album/0LxwUs1lWQHZY96WsWfXFo) | 3:00 |
 | 40 | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b) | 2:39 |
 | 41 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 42 | [Lala Lori](https://open.spotify.com/track/7r48j4khJzIT2uqcIU33ax) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Lala Lori](https://open.spotify.com/album/594NRt70OyoHOUljG5CBiy) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 |
 | 50 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 |
 
-Snapshot ID: `MCwxMmVjZTMwNmU4ZTI0OTY3MzQ4YWEwNTEyNjA1MmRmMTM2MzkxZGI4`
+Snapshot ID: `MCw4ZGQ2YjFjYzAzYzk1MDY4MjJhNWNjMjdmYWZhMjI0Nzg2YjNkNGVm`

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Ram Sam Sam",
+        "url": "https://open.spotify.com/album/1PZFZOpxv3QiF0jZdthMMH"
+      },
+      "artists": [
+        {
+          "name": "Tones From Samwell",
+          "url": "https://open.spotify.com/artist/6Iz6MEdFyo1ggJmBoPXaKD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158155,
+      "name": "A Ram Sam Sam",
+      "url": "https://open.spotify.com/track/624ysCV4lbaZ1xze4tSAXE"
+    },
+    {
+      "album": {
         "name": "A Secret Lullaby",
         "url": "https://open.spotify.com/album/7AMAfipQ02uwCbdZ22Z6Al"
       },
@@ -1136,6 +1154,24 @@
       "duration_ms": 68965,
       "name": "Beauty On a Cloud",
       "url": "https://open.spotify.com/track/1e5RjDtUar14hQo2NA4YNa"
+    },
+    {
+      "album": {
+        "name": "bed time",
+        "url": "https://open.spotify.com/album/5fR1HshvZCTlzHsEdB6Ya4"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Musicbox",
+          "url": "https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137555,
+      "name": "bed time",
+      "url": "https://open.spotify.com/track/0KZ1vXjd46nN3tC0MKTaVr"
     },
     {
       "album": {
@@ -3839,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi"
+      },
+      "artists": [
+        {
+          "name": "Axel Pedersen",
+          "url": "https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195718,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo"
+    },
+    {
+      "album": {
         "name": "Fields of Gold",
         "url": "https://open.spotify.com/album/0Wpnk7hAtae7Lbcvp7eJdW"
       },
@@ -3868,7 +3922,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147395,
       "name": "Fin Kanin",
       "url": "https://open.spotify.com/track/51fdlCVv9bV8t8SWaq6O0C"
@@ -4210,7 +4264,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 89217,
       "name": "Flying",
       "url": "https://open.spotify.com/track/1ZKCESOX3YPiti5ZCA55qL"
@@ -7547,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Lullaby of The Fairy",
+        "url": "https://open.spotify.com/album/0EHdwan6UPxCHjjQAEQBdW"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Perez Fuentes",
+          "url": "https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89262,
+      "name": "Lullaby of The Fairy",
+      "url": "https://open.spotify.com/track/0jMm4o1MyOQWuXU7EMYMJd"
+    },
+    {
+      "album": {
         "name": "Lykke",
         "url": "https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H"
       },
@@ -8138,6 +8210,24 @@
       "duration_ms": 115729,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/1o9wSgY433ioAFNZ8jU71C"
+    },
+    {
+      "album": {
+        "name": "Morning Serenade",
+        "url": "https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO"
+      },
+      "artists": [
+        {
+          "name": "Catherine Finch",
+          "url": "https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Morning Serenade",
+      "url": "https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz"
     },
     {
       "album": {
@@ -9077,6 +9167,24 @@
     },
     {
       "album": {
+        "name": "Nightingales Are Singing",
+        "url": "https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc"
+      },
+      "artists": [
+        {
+          "name": "Gil Sunniver",
+          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "Nightingales Are Singing",
+      "url": "https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq"
+    },
+    {
+      "album": {
         "name": "Nine Long Months",
         "url": "https://open.spotify.com/album/5crraVkoVvMTgjRhb34gF4"
       },
@@ -9110,6 +9218,24 @@
       "duration_ms": 94613,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0HvsoK5mb8X5R8SuRyM0zk"
+    },
+    {
+      "album": {
+        "name": "Now The Night Is Here",
+        "url": "https://open.spotify.com/album/6vXjAqFBvtxbztAH7flXLU"
+      },
+      "artists": [
+        {
+          "name": "Hampus I Backen",
+          "url": "https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125318,
+      "name": "Now The Night Is Here",
+      "url": "https://open.spotify.com/track/3YYIWnW0I3mmRJFBnLguL4"
     },
     {
       "album": {
@@ -9664,7 +9790,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 99452,
       "name": "Puff the magic dragon",
       "url": "https://open.spotify.com/track/4leWqNkAmWtG2YLzb2cT3q"
@@ -10319,6 +10445,24 @@
     },
     {
       "album": {
+        "name": "Sing a Song of Sixpence",
+        "url": "https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow"
+      },
+      "artists": [
+        {
+          "name": "Little Otis",
+          "url": "https://open.spotify.com/artist/3KQob5Z5mFfoercRYtE6m4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101037,
+      "name": "Sing a Song of Sixpence",
+      "url": "https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC"
+    },
+    {
+      "album": {
         "name": "Singing for You",
         "url": "https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG"
       },
@@ -10370,6 +10514,24 @@
       "duration_ms": 64322,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO"
+    },
+    {
+      "album": {
+        "name": "Six Little Ducks",
+        "url": "https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf"
+      },
+      "artists": [
+        {
+          "name": "Emily McQueen",
+          "url": "https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131753,
+      "name": "Six Little Ducks",
+      "url": "https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw"
     },
     {
       "album": {
@@ -11810,6 +11972,24 @@
       "duration_ms": 120000,
       "name": "Summer Sleep",
       "url": "https://open.spotify.com/track/54zBtM141AyCBeUZJPZX32"
+    },
+    {
+      "album": {
+        "name": "Summer Winds",
+        "url": "https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6"
+      },
+      "artists": [
+        {
+          "name": "My Karlsson",
+          "url": "https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68004,
+      "name": "Summer Winds",
+      "url": "https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz"
     },
     {
       "album": {
@@ -13703,6 +13883,24 @@
     },
     {
       "album": {
+        "name": "Up In The Curtains",
+        "url": "https://open.spotify.com/album/3Qibqlh4XXy33DBIAd7O8U"
+      },
+      "artists": [
+        {
+          "name": "Amos Green",
+          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73264,
+      "name": "Up In The Curtains",
+      "url": "https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta"
+    },
+    {
+      "album": {
         "name": "Ute Bl\u00e5ser Sommarvind",
         "url": "https://open.spotify.com/album/2wOUxDB0Gb3LPMSrYaN68I"
       },
@@ -13988,6 +14186,24 @@
       "duration_ms": 167124,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/2XVr13BzGAaRaeDSAiSN83"
+    },
+    {
+      "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79374,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY"
     },
     {
       "album": {

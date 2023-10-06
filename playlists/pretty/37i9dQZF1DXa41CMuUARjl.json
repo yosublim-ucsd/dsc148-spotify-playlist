@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Colyn.",
-  "num_followers": 453378,
+  "num_followers": 453433,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGYwZjZhMzYwM2JkYzhkOTdhMmY4MjcwMTRhNWFjNmZlMmE1ODdm",
+  "snapshot_id": "MCw3ZTZlMWFjNTIzNjIxZmQ1YmE1MTkwNzkyZTgzYWIzMjZlODUxY2Ji",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Shotgun (It Ain't Over)",
-        "url": "https://open.spotify.com/album/5JFAjoXxZkVw35HA8PvWgE"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 155909,
-      "name": "Shotgun (It Ain't Over)",
-      "url": "https://open.spotify.com/track/3ZWElZZvOyyZ745FLyHp1T"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/1jRulCRI6kVDGpQ5OC9uN6"
       },
@@ -883,26 +863,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/3atOx3iH2UKRDnRJDxNlRU"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 192604,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3UIBmd8J87KiTBuALIXeGL"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Just The Way I Feel",
         "url": "https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa"
       },
@@ -919,6 +879,26 @@
       "duration_ms": 186000,
       "name": "Just The Way I Feel",
       "url": "https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3atOx3iH2UKRDnRJDxNlRU"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
+        }
+      ],
+      "duration_ms": 192604,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3UIBmd8J87KiTBuALIXeGL"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -963,22 +943,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/37qLlJTk0KvPpL7GkHeARG"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 270150,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/1UFYl7DO2dIG9EFiObIUpv"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Paris to Milan",
         "url": "https://open.spotify.com/album/4t0TNMetsmutn7aErFG88U"
       },
@@ -995,6 +959,22 @@
       "duration_ms": 112380,
       "name": "Paris to Milan",
       "url": "https://open.spotify.com/track/5S8F1wQh1TW1l30eO6qJGD"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/37qLlJTk0KvPpL7GkHeARG"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 270150,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/1UFYl7DO2dIG9EFiObIUpv"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1043,22 +1023,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Wolks Vagon",
-        "url": "https://open.spotify.com/album/2PmVbQyu5unpOOweO8l6D1"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
-        }
-      ],
-      "duration_ms": 461630,
-      "name": "Wolks Vagon",
-      "url": "https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Clair de Lune (Dixon Remix)",
         "url": "https://open.spotify.com/album/3IyMS5EIioseqaBEsSDJxt"
       },
@@ -1079,6 +1043,22 @@
       "duration_ms": 414100,
       "name": "Clair de Lune (Dixon Remix)",
       "url": "https://open.spotify.com/track/3SiuvA43nkoW7go3PRQFDn"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Wolks Vagon",
+        "url": "https://open.spotify.com/album/2PmVbQyu5unpOOweO8l6D1"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 461630,
+      "name": "Wolks Vagon",
+      "url": "https://open.spotify.com/track/6T1DlbSvRKOtksXS7gVtel"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1107,6 +1087,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "let u in",
+        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
+      },
+      "artists": [
+        {
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+        }
+      ],
+      "duration_ms": 175504,
+      "name": "let u in",
+      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/3zbs0hi3rNrVNq8HGS4EiK"
       },
@@ -1127,38 +1123,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "let u in",
-        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "let u in",
-      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Grown On Me",
-        "url": "https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 236634,
-      "name": "Grown On Me",
-      "url": "https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/1bBfIPOmQ7cvgasq7pPSVi"
       },
@@ -1175,6 +1139,22 @@
       "duration_ms": 146557,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/39UBNCII5lTbMYOlXDvdno"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Grown On Me",
+        "url": "https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "duration_ms": 236634,
+      "name": "Grown On Me",
+      "url": "https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1275,22 +1255,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "archive 09-10",
-        "url": "https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 300547,
-      "name": "gr etiquette",
-      "url": "https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Need Your Love",
         "url": "https://open.spotify.com/album/3UxMb30QWQEcQLatgnxCyb"
       },
@@ -1327,6 +1291,22 @@
       "duration_ms": 150422,
       "name": "Wina (feat. Maline Aura)",
       "url": "https://open.spotify.com/track/2JSY6gNn13HFtKtrnNVPL5"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "archive 09-10",
+        "url": "https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 300547,
+      "name": "gr etiquette",
+      "url": "https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1463,6 +1443,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Dancing With You (SOHMI Fantasy Remix)",
         "url": "https://open.spotify.com/album/6hTiOVE83Guawgp0jEwT8C"
       },
@@ -1479,22 +1475,6 @@
       "duration_ms": 342857,
       "name": "Dancing With You - SOHMI Fantasy Remix",
       "url": "https://open.spotify.com/track/59M0mPbWpwHQbf6efpfe82"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1531,6 +1511,38 @@
       "duration_ms": 328303,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/70kdCSc2UPMeLebgLnRJ7e"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Aglio e olio",
+        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
+      },
+      "artists": [
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "duration_ms": 165018,
+      "name": "Aglio e olio",
+      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Peaceful Warrior",
+        "url": "https://open.spotify.com/album/6Au2XRVA00fntflRv7kjgS"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "duration_ms": 392217,
+      "name": "Peaceful Warrior",
+      "url": "https://open.spotify.com/track/431bgVTFlhvev9TcmMy0a4"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1599,34 +1611,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Peaceful Warrior",
-        "url": "https://open.spotify.com/album/6Au2XRVA00fntflRv7kjgS"
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
       },
       "artists": [
         {
-          "name": "Belocca",
-          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 392217,
-      "name": "Peaceful Warrior",
-      "url": "https://open.spotify.com/track/431bgVTFlhvev9TcmMy0a4"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Aglio e olio",
-        "url": "https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT"
-      },
-      "artists": [
-        {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
-        }
-      ],
-      "duration_ms": 165018,
-      "name": "Aglio e olio",
-      "url": "https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND"
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1667,18 +1663,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2T8MR3ZHFuvV6OTxiM6Mjq"
       },
       "artists": [
         {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+          "name": "Matrefakt",
+          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
         }
       ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+      "duration_ms": 317832,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/01s6BIvYPGZ7wHP2EvI2xA"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1815,22 +1811,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "WASH",
-        "url": "https://open.spotify.com/album/46nwevyvFgmAkqMuOBvloC"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 345477,
-      "name": "Don't Feel A Thing",
-      "url": "https://open.spotify.com/track/4GmfXiutjG47Dtl72KkoZH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Hooligans",
         "url": "https://open.spotify.com/album/6nfkGM6u9yAbSCQ9BPsg7x"
       },
@@ -1843,6 +1823,22 @@
       "duration_ms": 174374,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/7Mow5Lz2LdsDSmMrX92uz7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "WASH",
+        "url": "https://open.spotify.com/album/46nwevyvFgmAkqMuOBvloC"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 345477,
+      "name": "Don't Feel A Thing",
+      "url": "https://open.spotify.com/track/4GmfXiutjG47Dtl72KkoZH"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1899,6 +1895,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Rasta Man",
+        "url": "https://open.spotify.com/album/1xYGtXFxu13gBjjJrpPAdr"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 166919,
+      "name": "Rasta Man",
+      "url": "https://open.spotify.com/track/6voZD5npVSYcPaNOYvmAqk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Do That",
         "url": "https://open.spotify.com/album/3yT4zsBnRbOE4DZU133czO"
       },
@@ -1919,22 +1931,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Rasta Man",
-        "url": "https://open.spotify.com/album/1xYGtXFxu13gBjjJrpPAdr"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 166919,
-      "name": "Rasta Man",
-      "url": "https://open.spotify.com/track/6voZD5npVSYcPaNOYvmAqk"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "THE WAY U",
         "url": "https://open.spotify.com/album/2IaG85yNLIgsj4PnRWfwwj"
       },
@@ -1947,42 +1943,6 @@
       "duration_ms": 180895,
       "name": "THE WAY U",
       "url": "https://open.spotify.com/track/6Jr9hL05AlwXMmA7TADiHJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/2T8MR3ZHFuvV6OTxiM6Mjq"
-      },
-      "artists": [
-        {
-          "name": "Matrefakt",
-          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
-        }
-      ],
-      "duration_ms": 317832,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/01s6BIvYPGZ7wHP2EvI2xA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "FUEGO UNIVERSAL",
-        "url": "https://open.spotify.com/album/17bFSSeG8WL6zZevzIvGVO"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
-        },
-        {
-          "name": "Patrick Mason",
-          "url": "https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0"
-        }
-      ],
-      "duration_ms": 177929,
-      "name": "GIVE US THE NIGHT",
-      "url": "https://open.spotify.com/track/3d8hP5MsMN1MwrHYuVWKGC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2003,6 +1963,26 @@
       "duration_ms": 250750,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/73YYHlDGtYetZWkGem3nQk"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "FUEGO UNIVERSAL",
+        "url": "https://open.spotify.com/album/17bFSSeG8WL6zZevzIvGVO"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Patrick Mason",
+          "url": "https://open.spotify.com/artist/36TuJoh0o1hF6TsZIggHH0"
+        }
+      ],
+      "duration_ms": 177929,
+      "name": "GIVE US THE NIGHT",
+      "url": "https://open.spotify.com/track/3d8hP5MsMN1MwrHYuVWKGC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2047,6 +2027,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Inside a Blue Cube",
+        "url": "https://open.spotify.com/album/3YQBou0SLyDJ04MMOQMFB9"
+      },
+      "artists": [
+        {
+          "name": "DJ Counselling",
+          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Living in the Simulation",
+      "url": "https://open.spotify.com/track/5wSAB62hgkTeXwNxIF8wnX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "pacifica",
         "url": "https://open.spotify.com/album/1lJciLDGPZM9W3vPK9mhc7"
       },
@@ -2063,22 +2059,6 @@
       "duration_ms": 150455,
       "name": "pacifica",
       "url": "https://open.spotify.com/track/4WY2HHdXMXAkW85mCyV2p3"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Inside a Blue Cube",
-        "url": "https://open.spotify.com/album/3YQBou0SLyDJ04MMOQMFB9"
-      },
-      "artists": [
-        {
-          "name": "DJ Counselling",
-          "url": "https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Living in the Simulation",
-      "url": "https://open.spotify.com/track/5wSAB62hgkTeXwNxIF8wnX"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2119,6 +2099,26 @@
       "duration_ms": 227555,
       "name": "Wake Up Mr Stevens",
       "url": "https://open.spotify.com/track/0eDRqEKgCeMXumECpLG7Ot"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Shotgun (It Ain't Over)",
+        "url": "https://open.spotify.com/album/6TZ7ruGd9mOmsw1IvShUm5"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
+        }
+      ],
+      "duration_ms": 155909,
+      "name": "Shotgun (It Ain't Over)",
+      "url": "https://open.spotify.com/track/1VDALv89k5kHC0B3neBwru"
     }
   ],
   "unique_name": "New Music Friday Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,914 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,984 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 23 | [Hallo Herbst](https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Herbst](https://open.spotify.com/album/4r81ozTfTzYbaxmu4DV40s) | 2:43 |
 | 24 | [Fühl Mich So Gut](https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 2:02 |
 | 25 | [Der Herbst hat bunte Blätter](https://open.spotify.com/track/4mwmmoYfQX3zeV0Rvsm4kY) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:26 |
-| 26 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 |
-| 27 | [Bratkartoffellied](https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC) | [Max Richard Leßmann](https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:22 |
+| 26 | [Bratkartoffellied](https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC) | [Max Richard Leßmann](https://open.spotify.com/artist/69vPR9aR0CPLDKwTWxDXMG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 6](https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS) | 2:22 |
+| 27 | [Es regnet, es regnet](https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2) | [Frank und seine Freunde](https://open.spotify.com/artist/3suvpngo1bNM6i7vh4hy7y) | [Die 44 beliebtesten Kinderlieder](https://open.spotify.com/album/3ILmIMWpPWUhmm0pgR4urO) | 1:14 |
 | 28 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 29 | [Ihr kriegt uns nie mehr klein](https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob), [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3), [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp), [Massiv](https://open.spotify.com/artist/33Dtwad3snCG92mhmi17WM), [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng), [Suena](https://open.spotify.com/artist/0MDIbn7LYJFwsLO50xnzGS), [dikki](https://open.spotify.com/artist/3UN3myTd8RrbDbraxBlzpe) | [Boom Schakkalakka](https://open.spotify.com/album/21iU8QtgINaMWyCLZGX9Mq) | 3:37 |
 | 30 | [Die Biene maja](https://open.spotify.com/track/37Ya452sNHfucQVaKPM522) | [Karel Gott](https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM) | [Karel](https://open.spotify.com/album/4W2UDtKNsB7iGwKVFIDERR) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `MCw2ZWU2ZmMwMmI3YzRhNWZkNzc1N2UwZTk0NzI1NTI1MDU4MTA1NDVl`
+Snapshot ID: `MCw4ZTI4OGEzNjBmMmJkMDRmNzMwMWNhMWRmNjcxOTAyZTljMmJiMjRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89eFqyQeAQP.md) - [plain]
 
 > 아이브의 \[SHOW WHAT I HAVE\]  <a href="https://www.instagram.com/p/Cx67uaupTWw/?utm\_source=ig\_web\_copy\_link&igshid=MzRlODBiNWFlZA==">콘서트 이벤트 참여</a>는 클립스를 확인하세요! 콘서트를 기다리며 아이브의 대표곡들을 감상해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856 likes - 29 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003 likes - 29 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89eFqyQeAQP.md) - [plain]
 | 28 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/48xUzGT4qYI9vdnVCJZpmw), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 |
 | 29 | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/track/5xIBHVtjcxg2I86wodrj1d) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [ANYUJIN \(IVE\)](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE), [YUNA KIM](https://open.spotify.com/artist/5wBTXLKoAsiWsKn3ijyGPo) | [Move Like This \(Feat\. YUNA KIM\)](https://open.spotify.com/album/18zHgBBbSGZ90hu1mJmvFQ) | 3:16 |
 
-Snapshot ID: `MCxkMGRkMjc4NDU4ZDJlNGZmOGViYTUxYTRlMTZiYWU2MjA1MDlkNjY1`
+Snapshot ID: `MCwwZDE4N2Y5MTBkMWFlYmJkN2U1OGEwNzg0NTVlMWI0NzlmZGRjZjdk`

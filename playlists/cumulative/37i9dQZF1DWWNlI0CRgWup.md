@@ -2,7 +2,7 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Anaïs MVA
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Yamê
 
 120 songs - 6 hr 18 min
 

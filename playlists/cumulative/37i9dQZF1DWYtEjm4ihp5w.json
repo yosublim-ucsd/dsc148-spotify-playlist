@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Dollypran",
+  "description": "Playlist dial a7sen w akher ma kayn f rap mghribi. Cover: Inkonnu",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -3244,6 +3244,24 @@
       "duration_ms": 156595,
       "name": "\u0639\u064f\u0645\u0631 \u0627\u0644\u0645\u064f\u062e\u062a\u0627\u0631",
       "url": "https://open.spotify.com/track/1kTCib48ZJyIp66dgdZS9l"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0627\u0645\u0627",
+        "url": "https://open.spotify.com/album/3o1uJGm5FWz1nZThS1xB8o"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226720,
+      "name": "\u0645\u0627\u0645\u0627",
+      "url": "https://open.spotify.com/track/02JOIeE385aLgrUrMvOjGh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w"

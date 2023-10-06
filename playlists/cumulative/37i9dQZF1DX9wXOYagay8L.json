@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 351450,
       "name": "Fatela",
       "url": "https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV"
@@ -9116,6 +9116,24 @@
       "duration_ms": 221552,
       "name": "Ujabule",
       "url": "https://open.spotify.com/track/7mylOtThjvTXs7MbNFfgrG"
+    },
+    {
+      "album": {
+        "name": "Uk'lala Ngedwa",
+        "url": "https://open.spotify.com/album/17TfpUYAkmsk8ZWW8xcoec"
+      },
+      "artists": [
+        {
+          "name": "UManamathela",
+          "url": "https://open.spotify.com/artist/7qgiPTbqwr5avpxs8HpX1z"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246208,
+      "name": "Uk'lala Ngedwa",
+      "url": "https://open.spotify.com/track/5FwM6wb5RyxRXbKxU3fHKq"
     },
     {
       "album": {

@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 254875,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/0j9WK2XVJFFma8hXHlDpUL"
@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Quiet Music For Young People",
+        "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357709,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
+    },
+    {
+      "album": {
         "name": "MOONSHOTS",
         "url": "https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53"
       },
@@ -804,6 +822,32 @@
       "duration_ms": 261073,
       "name": "Ego",
       "url": "https://open.spotify.com/track/4pTY7fvhW6v0OtUGleAqUg"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/2q2XdDtowIYawqkKsPnokt"
+      },
+      "artists": [
+        {
+          "name": "CRFT",
+          "url": "https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM"
+        },
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        },
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142417,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL"
     },
     {
       "album": {
@@ -1131,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "IJ",
+        "url": "https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150712,
+      "name": "IJ",
+      "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
+    },
+    {
+      "album": {
         "name": "Hammarsdale",
         "url": "https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle"
       },
@@ -1193,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "KNOWER FOREVER",
+        "url": "https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "I\u2019m The President",
+      "url": "https://open.spotify.com/track/7H8mxTjF6Dhgvgx0LlhACG"
+    },
+    {
+      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/5FHbLW2ofN5Go7BlyPrno2"
       },
@@ -1248,7 +1328,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 179504,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
@@ -1420,7 +1500,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 297680,
       "name": "Mates",
       "url": "https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12"
@@ -1672,7 +1752,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 250750,
       "name": "On Land - Hugh B Dub",
       "url": "https://open.spotify.com/track/754xe1zYNdjnHjxFM3nInA"
@@ -2217,6 +2297,28 @@
     },
     {
       "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Haile Supreme",
+          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228220,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E"
+    },
+    {
+      "album": {
         "name": "Spin Cycle",
         "url": "https://open.spotify.com/album/4VOnuPVO8GGwjpkSJh1pNe"
       },
@@ -2330,7 +2432,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 384000,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/0kjPELR27yGGQlTQn9leFi"
@@ -2569,6 +2671,32 @@
     },
     {
       "album": {
+        "name": "edbl & friends \u2013 Jackson Mathod",
+        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172732,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
+    },
+    {
+      "album": {
         "name": "Too Much To Do",
         "url": "https://open.spotify.com/album/5EwrF90ghpRYaruRjJBXPD"
       },
@@ -2668,7 +2796,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 225495,
       "name": "Transient",
       "url": "https://open.spotify.com/track/62N67E5TS88XcWY5CmUZpD"
@@ -2818,6 +2946,24 @@
       "duration_ms": 269429,
       "name": "What A Love",
       "url": "https://open.spotify.com/track/6b4LYszRUj6fd5DR8yCs8u"
+    },
+    {
+      "album": {
+        "name": "What Do You Do",
+        "url": "https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq"
+      },
+      "artists": [
+        {
+          "name": "Nia Wyn",
+          "url": "https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193190,
+      "name": "What Do You Do",
+      "url": "https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f"
     },
     {
       "album": {
@@ -2972,7 +3118,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 216000,
       "name": "your intuition is your friend - radio edit",
       "url": "https://open.spotify.com/track/6rioSjyjKCmkM52gZjJluM"

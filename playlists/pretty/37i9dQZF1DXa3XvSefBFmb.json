@@ -1,12 +1,12 @@
 {
   "description": "Ouve estas extraordin\u00e1rias artistas, como Sara Correia, com o volume no m\u00e1ximo.",
-  "num_followers": 10603,
+  "num_followers": 10670,
   "original_name": "EQUAL Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2VlNmYzMTA4NWVmMWE0NDUxYjM4NjMyZTcwYTY4ZGQwMjI3ZjVi",
+  "snapshot_id": "MCxiZWU4MGZhZjlhNzRkMjVkOWZlNDU4ZjM3MWE0ZGYyM2EzODZiMDRi",
   "tracks": [
     {
       "added_at": "2023-10-03 23:00:00",
@@ -583,6 +583,38 @@
       "duration_ms": 116842,
       "name": "Amor",
       "url": "https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr"
+    },
+    {
+      "added_at": "2023-10-03 23:00:00",
+      "album": {
+        "name": "Benefits",
+        "url": "https://open.spotify.com/album/5Goq5iRpqdEY6AnrFXNWim"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Miranda",
+          "url": "https://open.spotify.com/artist/1vuN1CY5qcr264dHXzS9N9"
+        }
+      ],
+      "duration_ms": 170915,
+      "name": "Benefits",
+      "url": "https://open.spotify.com/track/66BcLySWrE63NgdE36ExM8"
+    },
+    {
+      "added_at": "2023-10-03 23:00:00",
+      "album": {
+        "name": "feita parva, mas tua",
+        "url": "https://open.spotify.com/album/003zgNzxSRpS2J6WLLEkIu"
+      },
+      "artists": [
+        {
+          "name": "Mariana Reis",
+          "url": "https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV"
+        }
+      ],
+      "duration_ms": 212445,
+      "name": "feita parva, mas tua",
+      "url": "https://open.spotify.com/track/7fSx8XAYuSkqwMcwuuwlHu"
     },
     {
       "added_at": "2023-10-03 23:00:00",

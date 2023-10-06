@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDBjYmZiNDk4YjIxYjE3YjFlNDA4MDA5YTA5OWY3ODkzMA==",
+  "snapshot_id": "MjgyNjYwMDAsMDAwMDAwMDA0MmM1NWNkZmJlM2M1YjI4YWY1ZDAwNDYwODYzMzY5Yg==",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -111,6 +111,30 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/0XXLvIOKk0PJMCSozQpRAc"
+      },
+      "artists": [
+        {
+          "name": "PUNIST",
+          "url": "https://open.spotify.com/artist/54wYhYIpRfgFDAp4FAJNYl"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "MABHATHU",
+          "url": "https://open.spotify.com/artist/6CNzpv64tVN5KGv00prLJw"
+        }
+      ],
+      "duration_ms": 280737,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/14suPeoNNh1CSWJsOIOzMj"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "In a sentimental mood",
         "url": "https://open.spotify.com/album/1Io8ZCinPYklU5J3KBTU4k"
       },
@@ -151,46 +175,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Sondela",
-        "url": "https://open.spotify.com/album/0XXLvIOKk0PJMCSozQpRAc"
-      },
-      "artists": [
-        {
-          "name": "PUNIST",
-          "url": "https://open.spotify.com/artist/54wYhYIpRfgFDAp4FAJNYl"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "MABHATHU",
-          "url": "https://open.spotify.com/artist/6CNzpv64tVN5KGv00prLJw"
-        }
-      ],
-      "duration_ms": 280737,
-      "name": "Sondela",
-      "url": "https://open.spotify.com/track/14suPeoNNh1CSWJsOIOzMj"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Have You Seen This Movie",
         "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Koala (secs on the beach Remix)",
         "url": "https://open.spotify.com/album/3s5BeXQUZh7bZrdCjLNd0Y"
       },
@@ -227,30 +227,6 @@
       "duration_ms": 131535,
       "name": "Koala - secs on the beach Remix",
       "url": "https://open.spotify.com/track/3Olln7bxVKHnfR1hePHYqH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "FIESTA",
-        "url": "https://open.spotify.com/album/6BJZICoGKwAp2QKx6FhDEz"
-      },
-      "artists": [
-        {
-          "name": "Advik Singh",
-          "url": "https://open.spotify.com/artist/44h6HbtmEnmiSrkY4RtWFi"
-        },
-        {
-          "name": "Gianluca",
-          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/48juEfmXe0vq0FT5GRecCi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -283,30 +259,6 @@
       "duration_ms": 223616,
       "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
-        "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
-      },
-      "artists": [
-        {
-          "name": "Nappyhigh",
-          "url": "https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 155003,
-      "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
-      "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -347,6 +299,30 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+        "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
+      },
+      "artists": [
+        {
+          "name": "Nappyhigh",
+          "url": "https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 155003,
+      "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
+      "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Leo Metal, Vol. 44",
         "url": "https://open.spotify.com/album/6bg7yvrUjIxcyWYI8svytn"
       },
@@ -356,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
         }
       ],
-      "duration_ms": 260495,
-      "name": "Dirty Diana (Metal Version)",
-      "url": "https://open.spotify.com/track/5lQQGw4qIhNpHP6pmViE4i"
+      "duration_ms": 287446,
+      "name": "Skyfall (Metal Version)",
+      "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -499,22 +475,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Doomsday Party",
-        "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 315964,
-      "name": "Doomsday Party",
-      "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "MICHAEL (Deluxe)",
         "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
       },
@@ -527,6 +487,22 @@
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Doomsday Party",
+        "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        }
+      ],
+      "duration_ms": 315964,
+      "name": "Doomsday Party",
+      "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -571,6 +547,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Warrior Tour (Live Studio)",
+        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
+      },
+      "artists": [
+        {
+          "name": "IAM",
+          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Je danse le mia - Live Studio",
+      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/67nEDeSnu6MLIm5Vr8UWwf"
       },
@@ -587,22 +579,6 @@
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Warrior Tour (Live Studio)",
-        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Je danse le mia - Live Studio",
-      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -712,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
         }
       ],
-      "duration_ms": 482744,
-      "name": "Denardirn",
-      "url": "https://open.spotify.com/track/4popyNacmTRK5gjVDb5mml"
+      "duration_ms": 612361,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

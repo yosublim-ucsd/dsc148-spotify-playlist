@@ -4,7 +4,7 @@
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-230 songs - 13 hr 42 min
+231 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [I'll Be There For You \- Bossa Version](https://open.spotify.com/track/2pk358uq0DksYK9zRxODej) | [Franco Sattamini](https://open.spotify.com/artist/4QNUm4TIC6WTlHxQzQf9BT) | [I'll Be There For You \(Bossa Version\)](https://open.spotify.com/album/6I0Rm1AT7MxYOTuAYARYaJ) | 3:49 | 2023-05-09 |  |
 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 | 2021-12-09 |  |
 | [I'm Not In Love](https://open.spotify.com/track/6B9hL79uAga4MbKPHlTEJ6) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [I'm Not In Love](https://open.spotify.com/album/7zQrgdNXkKwGUV0d1XjVkF) | 2:43 | 2023-04-20 |  |
+| [I'm On Fire](https://open.spotify.com/track/27OXWLEMK1JSNH2qJEwEED) | [Lady Monarda](https://open.spotify.com/artist/5AWmHfPfDnS8vTuYD4T4d2) | [I'm On Fire](https://open.spotify.com/album/7ryRXjOdfvLXEBSGhqfX5O) | 3:18 | 2023-10-06 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/1uUIoD7HOAN6qh8FKQAvKo) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [If You Leave Me Now](https://open.spotify.com/album/1ImEyP8L5Qc5UzUR5DEgUa) | 3:48 | 2021-12-09 |  |
 | [Intentions \- Bossa Nova](https://open.spotify.com/track/5A1otHjzRV8nNicKYeHD7h) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions \(Bossa Nova\)](https://open.spotify.com/album/5EnZCndm8Jg2XXi1o9WR3P) | 2:42 | 2021-12-09 |  |
 | [Into the Groove](https://open.spotify.com/track/4VwvUWkm08X60tUdG3Oq3L) | [Banda Do Sul](https://open.spotify.com/artist/1HfyFtXcke6aZDFJlQA2p6), [Natascha](https://open.spotify.com/artist/0xVoADEmOkmDTfmzopFoGK) | [Bossa N' Madonna](https://open.spotify.com/album/5QUaLhTntwRluOi1qiLv6m) | 3:51 | 2021-12-09 | 2022-05-05 |

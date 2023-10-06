@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Hi Nanna",
-  "num_followers": 110632,
+  "num_followers": 110695,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjVjZDFkY2YyYmE5YzMwYjExMzU1MWRkOThmYTA2MjU5OTgzNmM5",
+  "snapshot_id": "MCwwZGEwY2IxMGQ4OTliZjk4NDNjNWU3NDg2MDY4ZjhmOGFkMzlkNTE0",
   "tracks": [
     {
       "added_at": "2023-09-16 06:39:10",
@@ -61,6 +61,34 @@
       "url": "https://open.spotify.com/track/1Bw2vPShbMpG1icqIfsKlW"
     },
     {
+      "added_at": "2023-10-05 12:03:17",
+      "album": {
+        "name": "Maama Mascheendra",
+        "url": "https://open.spotify.com/album/5bkKpewMvnQ7plkUuwIPFW"
+      },
+      "artists": [
+        {
+          "name": "Chaitan Bharadwaj",
+          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 279711,
+      "name": "Gaalullona",
+      "url": "https://open.spotify.com/track/7m6QxmoYOjxyVQyLcIC3gX"
+    },
+    {
       "added_at": "2023-09-21 13:42:22",
       "album": {
         "name": "Ninnu Vadhali (From \"Narakasura\")",
@@ -88,21 +116,25 @@
       "added_at": "2023-10-04 10:57:04",
       "album": {
         "name": "Brundavanive (From \"Gam Gam Ganesha\")",
-        "url": "https://open.spotify.com/album/7M78EPYHc62WRKPSgy5ZXk"
+        "url": "https://open.spotify.com/album/27ZCOr7XzP0tLlGwcB4eOS"
       },
       "artists": [
         {
           "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/5LfHsZyY1QLwvbFIdvE53D"
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
           "name": "Chaitan Bharadwaj",
           "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        {
+          "name": "Vengi Sudhakar",
+          "url": "https://open.spotify.com/artist/5M9CzK9YQ9pc05uum7Ahhi"
         }
       ],
       "duration_ms": 218403,
       "name": "Brundavanive (From \"Gam Gam Ganesha\")",
-      "url": "https://open.spotify.com/track/3QHs3SIecmguLapP1R90Hs"
+      "url": "https://open.spotify.com/track/2vYL9HcUwJRenHwYSYhaqO"
     },
     {
       "added_at": "2023-09-21 12:52:55",

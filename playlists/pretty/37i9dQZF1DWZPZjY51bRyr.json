@@ -1,12 +1,12 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 16426,
+  "num_followers": 16529,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWRmMjM2YjYyYzQ3NGJlNWZkZmVlZWI2Mzc3MDY1YWI2NmM2ZjQ0",
+  "snapshot_id": "MCxiOWEyODc2OWU5MzQ3YjE4MjkwMmIwY2IwNWYzODdiZjg4OTY0MTkx",
   "tracks": [
     {
       "added_at": "2023-09-25 13:25:34",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Perfect State Of Mind",
-        "url": "https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b"
-      },
-      "artists": [
-        {
-          "name": "Pine River",
-          "url": "https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN"
-        }
-      ],
-      "duration_ms": 155774,
-      "name": "Perfect State Of Mind",
-      "url": "https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "528 Hz Well Being",
         "url": "https://open.spotify.com/album/2HejJv1SKHZGpglUpnYeyp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181587,
       "name": "528 Hz Well Being",
       "url": "https://open.spotify.com/track/1rvSKysJCFSkCWlLkQkJxb"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Perfect State Of Mind",
+        "url": "https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b"
+      },
+      "artists": [
+        {
+          "name": "Pine River",
+          "url": "https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN"
+        }
+      ],
+      "duration_ms": 155774,
+      "name": "Perfect State Of Mind",
+      "url": "https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
-      },
-      "artists": [
-        {
-          "name": "Aitana Bay\u00e1",
-          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Devine Minds",
         "url": "https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 194880,
       "name": "Devine Minds",
       "url": "https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Peace Within",
-        "url": "https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb"
-      },
-      "artists": [
-        {
-          "name": "Holly Summers",
-          "url": "https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es"
-        }
-      ],
-      "duration_ms": 136009,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Clear Mind - 432 Hz",
         "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 171750,
       "name": "Clear Mind - 432 Hz",
       "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Peace Within",
+        "url": "https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb"
+      },
+      "artists": [
+        {
+          "name": "Holly Summers",
+          "url": "https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es"
+        }
+      ],
+      "duration_ms": 136009,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1287,6 +1287,22 @@
       "duration_ms": 200706,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Harmonious Waves",
         "url": "https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6"
       },
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
-      },
-      "artists": [
-        {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Perceive",
         "url": "https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 173499,
       "name": "Perceive",
       "url": "https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+      },
+      "artists": [
+        {
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1451,38 +1451,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
-        "name": "Fond Memories",
-        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
-      },
-      "artists": [
-        {
-          "name": "Seeking Balance",
-          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Fond Memories",
-      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Testanaadee",
         "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
       },
@@ -1495,6 +1463,22 @@
       "duration_ms": 184512,
       "name": "Testanaadee",
       "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
+        "name": "Fond Memories",
+        "url": "https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Fond Memories",
+      "url": "https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
         "name": "Aethaerum",
         "url": "https://open.spotify.com/album/6n5YtNCZaQFCh6PndO9IhI"
       },
@@ -1527,38 +1527,6 @@
       "duration_ms": 186500,
       "name": "Aethaerum",
       "url": "https://open.spotify.com/track/1dEA7WCxIcfirzbNADvc7k"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
-        "name": "Starting Fresh",
-        "url": "https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Starting Fresh",
-      "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
-        "name": "Circle of Life",
-        "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
-      },
-      "artists": [
-        {
-          "name": "Lovisa Gulli",
-          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
-        }
-      ],
-      "duration_ms": 164302,
-      "name": "Circle of Life",
-      "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1579,6 +1547,22 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
+        "name": "Circle of Life",
+        "url": "https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT"
+      },
+      "artists": [
+        {
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
+        }
+      ],
+      "duration_ms": 164302,
+      "name": "Circle of Life",
+      "url": "https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
         "name": "Forest Birds (432 Hz)",
         "url": "https://open.spotify.com/album/5YnDpuAJC5i5twquxOngGg"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
+        "name": "Starting Fresh",
+        "url": "https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Starting Fresh",
+      "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 160759,
       "name": "Sakshi / Witness",
       "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
-        "name": "Descend",
-        "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Descend",
-      "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1691,6 +1675,38 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
+        "name": "Lotus Garden & Healing Serenade",
+        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Healing Serenade",
+      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Descend",
+        "url": "https://open.spotify.com/album/4alXFRYsK4de9Ee7J7Vg7n"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Descend",
+      "url": "https://open.spotify.com/track/50JAwhngZgAwl5WmmfuCpM"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
         "name": "Search For The Light",
         "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 377250,
       "name": "Captain Speaking",
       "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
-        "name": "Lotus Garden & Healing Serenade",
-        "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
-      },
-      "artists": [
-        {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Healing Serenade",
-      "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Let It Heal",
-        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "432hz Let It Heal - Studio Edit",
-      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "peaceful year calling",
         "url": "https://open.spotify.com/album/0zoMuyHG3z5aMtCFzjeXsf"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Arrivals",
-        "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
+        "name": "Let It Heal",
+        "url": "https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR"
       },
       "artists": [
         {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 162375,
-      "name": "Arrivals",
-      "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
+      "duration_ms": 220000,
+      "name": "432hz Let It Heal - Studio Edit",
+      "url": "https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1895,6 +1879,22 @@
       "duration_ms": 210000,
       "name": "Breakthrough (EMDR)",
       "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Arrivals",
+        "url": "https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Arrivals",
+      "url": "https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Rila",
-        "url": "https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun"
-      },
-      "artists": [
-        {
-          "name": "Nestos",
-          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "Rila",
-      "url": "https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Terrestrial",
         "url": "https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 183857,
       "name": "Terrestrial",
       "url": "https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Rila",
+        "url": "https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun"
+      },
+      "artists": [
+        {
+          "name": "Nestos",
+          "url": "https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "Rila",
+      "url": "https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Jenna\u2019s Lullaby",
-        "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
-      },
-      "artists": [
-        {
-          "name": "Nerum",
-          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
-        }
-      ],
-      "duration_ms": 235875,
-      "name": "Jenna\u2019s Lullaby",
-      "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Jenna\u2019s Lullaby",
+        "url": "https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp"
+      },
+      "artists": [
+        {
+          "name": "Nerum",
+          "url": "https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv"
+        }
+      ],
+      "duration_ms": 235875,
+      "name": "Jenna\u2019s Lullaby",
+      "url": "https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC"
     },
     {
       "added_at": "2023-09-25 13:25:34",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-09-25 13:25:34",
       "album": {
-        "name": "Astral Devotion",
-        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
-      },
-      "artists": [
-        {
-          "name": "FloatSpace",
-          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
-        }
-      ],
-      "duration_ms": 217274,
-      "name": "Astral Devotion - Spa 432Hz",
-      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
-    },
-    {
-      "added_at": "2023-09-25 13:25:34",
-      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/5xCUhWSMtOoyFtqfhYGnWS"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 226000,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/4X1FGVMr950FLVWP1BL7jY"
+    },
+    {
+      "added_at": "2023-09-25 13:25:34",
+      "album": {
+        "name": "Astral Devotion",
+        "url": "https://open.spotify.com/album/5Llatm2flQMgSbu4bcqGs8"
+      },
+      "artists": [
+        {
+          "name": "FloatSpace",
+          "url": "https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL"
+        }
+      ],
+      "duration_ms": 217274,
+      "name": "Astral Devotion - Spa 432Hz",
+      "url": "https://open.spotify.com/track/1uSZTZnhRpibJK605YhZch"
     },
     {
       "added_at": "2023-09-25 13:25:34",

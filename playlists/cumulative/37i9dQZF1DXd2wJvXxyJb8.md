@@ -4,7 +4,7 @@
 
 > algum não monogamico online? vem de dm
 
-323 songs - 14 hr 41 min
+324 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-05-26 | 2022-08-09 |
 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 | 2022-05-26 | 2022-12-09 |
 | [Insônia \- Ao Vivo](https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:01 | 2022-08-25 | 2023-03-28 |
-| [Iphone Fourteen](https://open.spotify.com/track/350rWAdB4UynfrNdIohP9Q) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só Pra Tu Lembrar de Mim](https://open.spotify.com/album/5GPtt0xJj5MSVOS155M7zU) | 2:30 | 2023-08-22 |  |
+| [Iphone Fourteen](https://open.spotify.com/track/350rWAdB4UynfrNdIohP9Q) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só Pra Tu Lembrar de Mim](https://open.spotify.com/album/5GPtt0xJj5MSVOS155M7zU) | 2:30 | 2023-08-22 | 2023-10-06 |
+| [Iphone Fourteen](https://open.spotify.com/track/0S9JEbBKzkPOqMgEgZxXXh) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Dj Serpinha](https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr) | [Só pra Tu Lembrar de Mim](https://open.spotify.com/album/4mjeyEOzmNpZmNTSDdXOEn) | 2:30 | 2023-10-02 |  |
 | [Joga na Cara](https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp) | [MC Braz](https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ), [MC Gabluca](https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8) | [Joga na Cara](https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC) | 1:49 | 2022-05-26 | 2022-10-20 |
 | [Jogadinha do Paqueta](https://open.spotify.com/track/3BCUqGVPvirkRa6g6ipBaF) | [Mc Rf](https://open.spotify.com/artist/21XypSEosIAo1NYqT0UKkc), [Dj Kaio VDM](https://open.spotify.com/artist/4Svhvvg0OdFm6zDqMqlTDN) | [Jogadinha do Paqueta](https://open.spotify.com/album/2dFhs1VeEnLYUjBEgd9GZF) | 2:25 | 2023-02-06 | 2023-09-13 |
 | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/track/46oPxSyS5ZZLg0EbqsKW4x) | [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Juliet E Chapelão \(Ao Vivo\)](https://open.spotify.com/album/152845bmhbpKy2v6Nb0l04) | 2:24 | 2022-05-26 | 2022-11-08 |

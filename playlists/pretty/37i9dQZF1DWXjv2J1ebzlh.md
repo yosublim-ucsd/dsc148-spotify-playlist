@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,501 likes - 1,189 songs - 3 day 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,542 likes - 1,189 songs - 3 day 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -826,7 +826,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 816 | [Cumbia del Este](https://open.spotify.com/track/2HjnxDwW0FJgsTEiFscWtP) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 4:03 |
 | 817 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 |
 | 818 | [Funky Calypso](https://open.spotify.com/track/16C9DArGeJysQx0RkEFhS2) | [Lancelot Layne](https://open.spotify.com/artist/6sb0k45MYwTr6ieMSTHtxt) | [Blow 'Way](https://open.spotify.com/album/4c4QCtLzzALf3L89S7KDfe) | 2:28 |
-| 819 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
+| 819 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 820 | [Acender As Velas](https://open.spotify.com/track/51WPyWMsRCsQL1rLd0D6EO) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Opinião De Nara](https://open.spotify.com/album/1ux284zEB97Vdxzfg6WN7r) | 2:07 |
 | 821 | [You've Got the Floor](https://open.spotify.com/track/0yfgbWLgDbj2Ax2puQ5SgY) | [Arthur Adams](https://open.spotify.com/artist/0eXscio89WRQMjamjHyUKZ) | [You've Got the Floor \- Single](https://open.spotify.com/album/5ttjBpSkvIv1fF3OGTB9yV) | 5:57 |
 | 822 | [Pangea](https://open.spotify.com/track/7temtwzguIVsHoT3ewhnxh) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:17 |
@@ -1096,7 +1096,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1086 | [Maita](https://open.spotify.com/track/0rqZWIhGrMaPSDlE31Ret1) | [Doris Monteiro](https://open.spotify.com/artist/5bQiwDxCWfLPAXOAshBFCa) | [Doris Monteiro Agora](https://open.spotify.com/album/7GegUpqaiQCDwjjgTH9sph) | 2:52 |
 | 1087 | [Você Fica Melhor Assim](https://open.spotify.com/track/2fslXV7PlX2XiQHtu5MTIj) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Lô Borges](https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I) | 2:08 |
 | 1088 | [Bons momentos](https://open.spotify.com/track/0O2fVxPj0IxLyDLAwVUWSR) | [Serginho Meriti](https://open.spotify.com/artist/6EH4BjCKPhFfbzFaErcbXI) | [Beach Diggin', Vol\. 4](https://open.spotify.com/album/5bmX2COfuCzWR44NTp85Nj) | 2:27 |
-| 1089 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 |
+| 1089 | [Dale Melón](https://open.spotify.com/track/6N5InQVKjsRlof8moRIv5I) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Dale Melón](https://open.spotify.com/album/4JaUBwYHmzxxqTiC7WOFJg) | 4:20 |
 | 1090 | [O Bode](https://open.spotify.com/track/7p3JW7s5Cg9oxlSDMGpKNY) | [Viva Brasil](https://open.spotify.com/artist/3Vn3pj4iWb3dv6OJCwL0CJ) | [Viva Brasil](https://open.spotify.com/album/5xFZhx9VaMUfQ4vv9i440j) | 3:28 |
 | 1091 | [Taximen](https://open.spotify.com/track/5VSZqBVwSTEMTxtTIOnM9U) | [Amadou Balaké](https://open.spotify.com/artist/1R3wyTMKl4aOXW9cbiFnME) | [Taximen](https://open.spotify.com/album/3kA2523zf1qFOTfrSbpJYi) | 7:42 |
 | 1092 | [Sabor de Rumba](https://open.spotify.com/track/7oVdPBfUArWx42x9HPNvbr) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE) | [Sabor de Rumba](https://open.spotify.com/album/7ePsCNGhGshj3b2hKbsxU5) | 2:52 |
@@ -1198,4 +1198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1188 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1189 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw1ODE1ZTk4NjlkMjBkMWJhMDFlMjViZDMwZjAxZWY1ZjA1YmM3ZGQ1`
+Snapshot ID: `MCw3YTg3YjJiNGI5MjJhNzBmZTJlODE5ODRmODllNWNhMTBkMzU5MzJj`

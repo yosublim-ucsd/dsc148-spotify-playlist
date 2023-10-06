@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Goo Chan",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Luna Is A Bep & Jonwl",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3460,6 +3460,28 @@
       "duration_ms": 217864,
       "name": "I've Been Waiting For So Long",
       "url": "https://open.spotify.com/track/2UOn7uM2hmqPaVee9yoDQL"
+    },
+    {
+      "album": {
+        "name": "idundomuchtalkingnow",
+        "url": "https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx"
+      },
+      "artists": [
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
+        },
+        {
+          "name": "Jonwl",
+          "url": "https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225504,
+      "name": "idundomuchtalkingnow",
+      "url": "https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI"
     },
     {
       "album": {
@@ -7875,6 +7897,24 @@
     },
     {
       "album": {
+        "name": "130k across the highway",
+        "url": "https://open.spotify.com/album/1Ce0uQijUbWZ130GVqGWif"
+      },
+      "artists": [
+        {
+          "name": "Gwyn",
+          "url": "https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "USE",
+      "url": "https://open.spotify.com/track/7qLc278qge2t34PrvsqhZr"
+    },
+    {
+      "album": {
         "name": "Walking Song",
         "url": "https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj"
       },
@@ -8936,6 +8976,24 @@
       "duration_ms": 240048,
       "name": "\u4e16\u754cFor Love (feat. Luna Is A Bep & CHANKA)",
       "url": "https://open.spotify.com/track/5LG7dFSp3X7WhaabnJLfXT"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u8584\u60c5\u4f46\u4f60\u6709\u71b1\u60c5",
+        "url": "https://open.spotify.com/album/2AaV73yXp43sIepmxDnoN7"
+      },
+      "artists": [
+        {
+          "name": "Slizznico",
+          "url": "https://open.spotify.com/artist/1f4DlxMF8s5JcELJ8vBImy"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140675,
+      "name": "\u4e16\u754c\u8584\u60c5\u4f46\u4f60\u6709\u71b1\u60c5",
+      "url": "https://open.spotify.com/track/0Y1Z3QVN4XxGgUk3wnXWAS"
     },
     {
       "album": {
@@ -11079,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "where i've been",
+        "url": "https://open.spotify.com/album/28OlURIftdVsnw0oGysFoZ"
+      },
+      "artists": [
+        {
+          "name": "5gjm999",
+          "url": "https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210494,
+      "name": "\u660e\u5e74\u4e0d\u60f3\u518d\u5de5\u4f5c",
+      "url": "https://open.spotify.com/track/52S15nFChya2OGE92pk5KB"
+    },
+    {
+      "album": {
         "name": "\u660e\u5e74\u660e\u6708",
         "url": "https://open.spotify.com/album/1pEfGasstmw9jxElalWmXY"
       },
@@ -11347,6 +11423,24 @@
     },
     {
       "album": {
+        "name": "\u672b\u4e16\u667a\u6167 Apocalypse",
+        "url": "https://open.spotify.com/album/1AhIKPjhIYzQwbafMB8OqD"
+      },
+      "artists": [
+        {
+          "name": "\u5be7\u82b1\u6708",
+          "url": "https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284430,
+      "name": "\u672b\u4e16\u667a\u6167 Apocalypse",
+      "url": "https://open.spotify.com/track/6KmbJH5XuXhL3w6OAmyR2A"
+    },
+    {
+      "album": {
         "name": "\u672c\u672b\u68c4\u7f6e Give It All Up",
         "url": "https://open.spotify.com/album/5htKajNDtwm7Lpn4fPcyS7"
       },
@@ -11572,6 +11666,24 @@
       "duration_ms": 213579,
       "name": "\u6bcf\u7576\u5e7b\u8b8a\u6642",
       "url": "https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0"
+    },
+    {
+      "album": {
+        "name": "\u6c89\u8239\u9910\u5ef3",
+        "url": "https://open.spotify.com/album/3fWrBfiO6BMJw3oLh0Ovvl"
+      },
+      "artists": [
+        {
+          "name": "FOOLYA \u864e\u7259",
+          "url": "https://open.spotify.com/artist/6okFqqvBQmOxtw8pxX43ui"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210112,
+      "name": "\u6c89\u8239\u9910\u5ef3",
+      "url": "https://open.spotify.com/track/4HabOX14Cckr3ZFWpAl37K"
     },
     {
       "album": {

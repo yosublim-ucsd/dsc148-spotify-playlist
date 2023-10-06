@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-579 songs - 17 hr 18 min
+584 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Family Photo](https://open.spotify.com/track/4pE9U2DrP0VFWKnT9pxcJq) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [Family Photo](https://open.spotify.com/album/2PEV2w4qjS58I0QNFodYPy) | 1:38 | 2022-04-25 |  |
 | [Fattig Bonddräng](https://open.spotify.com/track/2aip5Q4P1GZCBV6xiD8MeK) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Fattig Bonddräng](https://open.spotify.com/album/5ItMl2yGJUtIf2n9aghSw1) | 1:28 | 2022-12-23 |  |
 | [Feel Free to Sleep](https://open.spotify.com/track/0PbLyrTvEMn6ED9xo1LhXy) | [Charlton Mynatt](https://open.spotify.com/artist/0BhoCPIZlDHUMMC8mXpCqU) | [Feel Free to Sleep](https://open.spotify.com/album/33sXuQxHQVphqNA2P3NCFd) | 1:22 | 2022-02-10 | 2023-03-18 |
+| [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
 | [Find the Rabbit](https://open.spotify.com/track/2vjDdu0tysrnzHnauxWEKI) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [Find the Rabbit](https://open.spotify.com/album/3XRiAsdLak4P7VEIuobruI) | 1:56 | 2022-02-10 | 2023-01-13 |
 | [Fireflies](https://open.spotify.com/track/4CAjXJdCCKNFwS36BYoCf7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Fireflies](https://open.spotify.com/album/5saGQ3Qmy5blkuAdYCoFPY) | 1:56 | 2022-02-10 |  |
 | [First Birthday Card](https://open.spotify.com/track/5E9VsyUYrSaUzZ7Ihx3Get) | [Franklin Thomas](https://open.spotify.com/artist/0wG2VSPnC3ibwFceL20445) | [First Birthday Card](https://open.spotify.com/album/70KbLo599JZkpI8SJaBhtU) | 2:27 | 2022-02-10 | 2022-10-29 |
@@ -379,6 +380,7 @@
 | [New Shoes](https://open.spotify.com/track/58xDXVIn9GeEsrpM4HMHWJ) | [Claire Jefferson](https://open.spotify.com/artist/4Me95uok4JKgSj80CcNeis) | [Something New Each Day](https://open.spotify.com/album/4Xt2yVgHUci0Rjyq6VaPGv) | 2:19 | 2022-02-10 | 2023-04-07 |
 | [Nico's Night Kitchen](https://open.spotify.com/track/2dzJf8gFHlxwc2bKzHClsj) | [Lily Hodges](https://open.spotify.com/artist/4NNYjQ7N1R7TTNtcfTq8MS) | [Nico's Night Kitchen](https://open.spotify.com/album/2wlDbVDUZ76IyR0kNU2G49) | 2:12 | 2022-02-10 |  |
 | [Night Time](https://open.spotify.com/track/2iKC1AAADf2LGnJc73hZq5) | [Pete Carey](https://open.spotify.com/artist/0mF6vSw2nxPisTzaB1Zvz6) | [Night Time](https://open.spotify.com/album/7e7q7EN2MBZ3efkL9rcbYA) | 1:31 | 2022-02-10 | 2022-12-24 |
+| [Nightingales Are Singing](https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Nightingales Are Singing](https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc) | 1:31 | 2023-10-06 |  |
 | [Nighttime](https://open.spotify.com/track/63R8ub5HiMgKKAK5GIjDMt) | [Winnie Muller](https://open.spotify.com/artist/4GO1o00k2U510iiNja7SrR) | [Nighttime](https://open.spotify.com/album/4St8Bft3fkvFWDu4m9urpU) | 2:40 | 2022-02-10 | 2023-03-18 |
 | [Nine Long Months](https://open.spotify.com/track/60gFtCUUH6lbHd3RkMkGzq) | [Travis Marcelo](https://open.spotify.com/artist/7eUTZOzfHgHAJWV78ojFlu) | [Nine Long Months](https://open.spotify.com/album/5crraVkoVvMTgjRhb34gF4) | 2:08 | 2022-02-10 |  |
 | [No Monsters Here](https://open.spotify.com/track/32H9k365lmxbzQekfaD9Ik) | [Florian Faerber](https://open.spotify.com/artist/0WajMfwxqxEpvc8X2cK1P2) | [No Monsters Here](https://open.spotify.com/album/3cE0uAci6D1uTs7pKs7dnJ) | 1:30 | 2022-02-10 |  |
@@ -397,7 +399,7 @@
 | [One Finger One Thumb](https://open.spotify.com/track/0Q7qrERVYASf2UJDC7YXCf) | [Mauve Dream](https://open.spotify.com/artist/5qAdQ8ZpVTZAA0M3xEExBE) | [One Finger One Thumb](https://open.spotify.com/album/7MPA2j9lkjIDITSkNHOUl2) | 1:35 | 2022-12-23 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-06-15 |  |
 | [Only You](https://open.spotify.com/track/5AIPXMGHSrZ2qgQYTgro25) | [Maria Mangasson](https://open.spotify.com/artist/3Da8Sq3XlYqKsjuXfzImiJ) | [Only You](https://open.spotify.com/album/1FkfL7jiYEXdgFT7Pvbe24) | 1:39 | 2023-04-07 |  |
-| [Oppochnervisan](https://open.spotify.com/track/7dPGbc1cRDZMrrf2iL86I9) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Oppochnervisan](https://open.spotify.com/album/4iPlGm60B1JGQqnVcHj3hL) | 1:53 | 2022-12-23 |  |
+| [Oppochnervisan](https://open.spotify.com/track/7dPGbc1cRDZMrrf2iL86I9) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [Oppochnervisan](https://open.spotify.com/album/4iPlGm60B1JGQqnVcHj3hL) | 1:53 | 2022-12-23 | 2023-10-06 |
 | [Origami](https://open.spotify.com/track/5MIyzgrAUZ5TryLLF30hcY) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Origami](https://open.spotify.com/album/689hMeFt2wAkXJjLNsPfQF) | 1:46 | 2022-02-10 | 2022-10-08 |
 | [Papa Pop](https://open.spotify.com/track/1AibXNZT8pbhjnStJd63Fz) | [Lilac Snow](https://open.spotify.com/artist/7nGX5o9MYBSLmUc0P4Y1wo) | [Papa Pop](https://open.spotify.com/album/6beBtbPARAQydOip1yWfIM) | 1:57 | 2022-02-10 |  |
 | [Peaceful Night](https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI) | [Jonatan Järpehag](https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw) | [Peaceful Night](https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW) | 2:40 | 2023-09-22 |  |
@@ -438,6 +440,7 @@
 | [Shining over](https://open.spotify.com/track/5WRkETyno7YNyGZ23hKGep) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Shining over](https://open.spotify.com/album/1eLyjhFb8Hu4g6KmO0aJWd) | 1:44 | 2022-02-10 |  |
 | [Simple Gifts](https://open.spotify.com/track/48IbOf4xdUgNTezWIzRuxu) | [Claire Pasteur](https://open.spotify.com/artist/6uxwKpyg4gLxdvZIWzBrDy) | [Simple Gifts](https://open.spotify.com/album/4HNSWiRGJQEODdEUpB4Uof) | 2:00 | 2022-09-02 |  |
 | [Sing A Song Of Sixpence](https://open.spotify.com/track/1tJ5R1BMK0VgfiUzEQfNGC) | [Tristian Fitzmaurice](https://open.spotify.com/artist/19kUkTgm6469j8Pp2BKyav) | [Sing A Song Of Sixpence](https://open.spotify.com/album/0LnQGLVYIzsHMYqYGKnaCC) | 1:24 | 2022-02-10 | 2023-08-25 |
+| [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-10-06 |  |
 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 | 2022-02-10 | 2022-10-29 |
 | [Slaapliedje](https://open.spotify.com/track/3cjgdSOVY0j6czqRCpRATA) | [Peggie Vos](https://open.spotify.com/artist/6y8LXnKJmwVyDhFfwg8vhE) | [Slaapliedje](https://open.spotify.com/album/2CQYzsHZvjE3UPF5qJFSIx) | 1:46 | 2022-02-10 | 2022-09-23 |
 | [Sleep like a log](https://open.spotify.com/track/5JlKQR0lZzcY5QoehmKzes) | [Cameron Vigano](https://open.spotify.com/artist/4SIF6IBEyjMq1JBkUJjAYq) | [Sleep like a log](https://open.spotify.com/album/2Qsvm1TWogb06NgR1vyYuE) | 1:40 | 2022-02-10 |  |
@@ -554,6 +557,7 @@
 | [Under The Bright Stars](https://open.spotify.com/track/1Ak3G9Yx726c4oSOaowzgG) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Hush Little Baby](https://open.spotify.com/album/6HbLEgO2wXiT0fqxAh7Ohd) | 1:39 | 2023-03-17 |  |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 |  |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2022-02-10 |  |
+| [Up In The Curtains](https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [Up In The Curtains](https://open.spotify.com/album/3Qibqlh4XXy33DBIAd7O8U) | 1:13 | 2023-10-06 |  |
 | [Vamos a contar ovejitas](https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI) | [Emelina Moreno](https://open.spotify.com/artist/2Ab8GKO7SbR91GngNUdC6O) | [Vamos a contar ovejitas](https://open.spotify.com/album/5Vc0hnygzWWIoFZSgavBNN) | 1:32 | 2022-02-10 | 2022-10-29 |
 | [Vart ska du gå?](https://open.spotify.com/track/6aoI8F4a2DZ0iVBf9z7xuf) | [Elias Ståhle](https://open.spotify.com/artist/5w0kV4jCLLthNvZqe78yCV) | [Vart ska du gå?](https://open.spotify.com/album/27nkrDQIKxIj33BanwC97b) | 1:28 | 2022-10-28 | 2023-06-03 |
 | [Waiting for Mr\. Sandman](https://open.spotify.com/track/0ETtQkSsXmanxdgVlqBaSz) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Waiting for Mr\. Sandman](https://open.spotify.com/album/5k17EG5MoefhatMZKkUFtr) | 1:34 | 2022-02-10 |  |
@@ -563,6 +567,7 @@
 | [Warm Calm Bed](https://open.spotify.com/track/78dU1gM1haK1t75PB9pgaJ) | [Hartley Peter](https://open.spotify.com/artist/0wuQZyVvfkgYcB6o2lkT9v) | [Warm Calm Bed](https://open.spotify.com/album/6BVjIAKfRRvbk19vJFkgAR) | 1:29 | 2023-02-10 |  |
 | [We Are Three Musicians](https://open.spotify.com/track/6M0tKLVH56wlV7WEo9bgf1) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [We Are Three Musicians](https://open.spotify.com/album/1ststXxX5u4D6FXKAAEZMa) | 1:07 | 2023-08-31 |  |
 | [We'll Play Again Tomorrow](https://open.spotify.com/track/2mlIe6mQ6PT105w0sFsAuX) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [We'll Play Again Tomorrow](https://open.spotify.com/album/2Q9YW7Bn3rffxLvoUgzRh3) | 1:34 | 2022-04-25 |  |
+| [Whatever Happens](https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY) | [Cosima Bradley](https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg) | [Whatever Happens](https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU) | 1:19 | 2023-10-06 |  |
 | [When All Stars Twinkle](https://open.spotify.com/track/4HqQVrPQ1xEsVzxqE4bSqp) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [When All Stars Twinkle](https://open.spotify.com/album/6eP3L801NVxtdwB0i8M3Zl) | 1:26 | 2022-02-10 | 2022-10-08 |
 | [When I Can't Sleep](https://open.spotify.com/track/3WDqDFuKdClbEY0SgGyrFK) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [When I Can't Sleep](https://open.spotify.com/album/5QHMlIVdtZ4gI0I0HERVKh) | 1:29 | 2022-02-10 |  |
 | [When I See a Smiling Face](https://open.spotify.com/track/2TFM4euog31cKxuFN9jCdT) | [Tianna Dorsey](https://open.spotify.com/artist/2VsEJa7uhigAMojVKojMeg) | [When I See a Smiling Face](https://open.spotify.com/album/5UNbYlNn7GSqjYeHr5HEeZ) | 1:24 | 2022-02-10 |  |

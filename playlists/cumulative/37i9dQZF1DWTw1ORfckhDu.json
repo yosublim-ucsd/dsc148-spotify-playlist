@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcb6 Kannessa Turisti ja ibe.",
+  "description": "100 Suomi \ud83d\udcb6 Kannessa Elastinen ja Jami Faltin.",
   "name": "100 Suomi",
   "tracks": [
+    {
+      "album": {
+        "name": "3 Toivomusta",
+        "url": "https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142097,
+      "name": "3 Toivomusta",
+      "url": "https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz"
+    },
     {
       "album": {
         "name": "Sextape II",
@@ -20,6 +42,28 @@
       "duration_ms": 154767,
       "name": "40K",
       "url": "https://open.spotify.com/track/6WQihZyNHPQzaF7dx3Xmi6"
+    },
+    {
+      "album": {
+        "name": "Aaltoi p\u00e4in (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/6GqaytWhywXWN9XmiZkpTj"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Aaltoi p\u00e4in (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/66BrGVswrL7ZPlumgSLRSs"
     },
     {
       "album": {
@@ -104,7 +148,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 169627,
       "name": "Aminata",
       "url": "https://open.spotify.com/track/5aT7OMRbJ67AzZBMUdMUtm"
@@ -148,6 +192,28 @@
       "duration_ms": 135306,
       "name": "Bella (feat. ZUUZ)",
       "url": "https://open.spotify.com/track/34j24zkVLS2PssMqn1NDef"
+    },
+    {
+      "album": {
+        "name": "Bemari",
+        "url": "https://open.spotify.com/album/3fzH2nGPPIpxoe4hoxIGIa"
+      },
+      "artists": [
+        {
+          "name": "Yzzy",
+          "url": "https://open.spotify.com/artist/6zhABQrEaXCWh7L721KVPd"
+        },
+        {
+          "name": "Sicario Jr",
+          "url": "https://open.spotify.com/artist/1O0ExECljjW2DpLZE8EPrI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169095,
+      "name": "Bemari",
+      "url": "https://open.spotify.com/track/7qieHJQ1UTmYidnAq31rWx"
     },
     {
       "album": {
@@ -354,7 +420,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 200196,
       "name": "GALAXIS",
       "url": "https://open.spotify.com/track/7jdvq2vMztAFVV1lanuC39"
@@ -376,7 +442,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 140000,
       "name": "Helsingis on tulva (feat. Tupe.)",
       "url": "https://open.spotify.com/track/2wChCqIBwqiD84H5cn17kR"
@@ -487,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Just sillee",
+        "url": "https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158716,
+      "name": "Just sillee",
+      "url": "https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P"
+    },
+    {
+      "album": {
         "name": "J\u00e4lkeek\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/25OOeOTmMYldufcaw5vnLY"
       },
@@ -578,7 +662,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 162535,
       "name": "Karma",
       "url": "https://open.spotify.com/track/4r0DJ4mXg1UYVW08FfEKda"
@@ -600,6 +684,28 @@
       "duration_ms": 197649,
       "name": "Kertoimia Vastaan",
       "url": "https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi"
+    },
+    {
+      "album": {
+        "name": "Ket\u00e4 me huijataan (feat. Senya)",
+        "url": "https://open.spotify.com/album/75CFCfyYxbX6ZJmWndWoFu"
+      },
+      "artists": [
+        {
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167618,
+      "name": "Ket\u00e4 me huijataan (feat. Senya)",
+      "url": "https://open.spotify.com/track/3YI31cbeEQOA0OmMUOXZOK"
     },
     {
       "album": {
@@ -702,6 +808,28 @@
       "duration_ms": 235664,
       "name": "Kortteli (feat. Aste, EKI JA RAY & Becki)",
       "url": "https://open.spotify.com/track/2mCYmOIJxf7CxRVn7Pn4Pz"
+    },
+    {
+      "album": {
+        "name": "Kuka se on (feat. Isac Elliot)",
+        "url": "https://open.spotify.com/album/3Upc7moyLGcU372j9GGvfp"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156671,
+      "name": "Kuka se on (feat. Isac Elliot)",
+      "url": "https://open.spotify.com/track/5rJrd2aw3iCaGD87Ztdo4c"
     },
     {
       "album": {
@@ -818,7 +946,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158250,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/02TeEMxBwp0IrnA6Za7JNV"
@@ -836,7 +964,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 155588,
       "name": "Liian vanha",
       "url": "https://open.spotify.com/track/71TkfYYLCGEr7CoGngJ5vd"
@@ -901,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Lupaan",
+        "url": "https://open.spotify.com/album/0JAx9O0OwHRT9umeLnXxvm"
+      },
+      "artists": [
+        {
+          "name": "ROBIN",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Lupaan",
+      "url": "https://open.spotify.com/track/57zt0umbi4uSmoIOps4q77"
+    },
+    {
+      "album": {
         "name": "L\u00e4hteny pienest",
         "url": "https://open.spotify.com/album/5udX0HDxXMhlkrwsAnUvcI"
       },
@@ -938,6 +1084,24 @@
       "duration_ms": 134548,
       "name": "Mama sano",
       "url": "https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2"
+    },
+    {
+      "album": {
+        "name": "Menet\u00e4n mun j\u00e4rjen",
+        "url": "https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159260,
+      "name": "Menet\u00e4n mun j\u00e4rjen",
+      "url": "https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5"
     },
     {
       "album": {
@@ -1000,10 +1164,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198500,
       "name": "MONUMENTTI",
       "url": "https://open.spotify.com/track/1WLujCzEAIPcsfmzmVuZjy"
+    },
+    {
+      "album": {
+        "name": "Muut",
+        "url": "https://open.spotify.com/album/2RwqgdgKBboGjESQrvcKvO"
+      },
+      "artists": [
+        {
+          "name": "Rono",
+          "url": "https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4"
+        },
+        {
+          "name": "Rekami",
+          "url": "https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Muut",
+      "url": "https://open.spotify.com/track/2R1hmiYii3vtmSMCr9s05M"
     },
     {
       "album": {
@@ -1022,7 +1208,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 175150,
       "name": "M\u00e4 + S\u00e4",
       "url": "https://open.spotify.com/track/3EqXVoA4m7ZXwwH3rbnNXx"
@@ -1171,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Pelkk\u00e4\u00e4 <3",
+        "url": "https://open.spotify.com/album/7mMoM49QO9zGKdkxBTORs7"
+      },
+      "artists": [
+        {
+          "name": "NOTO",
+          "url": "https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131611,
+      "name": "Pelkk\u00e4\u00e4 <3",
+      "url": "https://open.spotify.com/track/5sQX0pAZ79MQioFTKL4zrS"
+    },
+    {
+      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/3SnViuxHGQTy8WFaXu8WW9"
       },
@@ -1194,7 +1398,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 130860,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/4fYhfbaSqq9U8ziRAUmqAj"
@@ -1216,7 +1420,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158987,
       "name": "Pimee (feat. BESS)",
       "url": "https://open.spotify.com/track/0HxPzvkpUhADgfRnXNF6zS"
@@ -1234,7 +1438,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198324,
       "name": "Puhu mulle",
       "url": "https://open.spotify.com/track/7stWqWHADHbNgFRZ93TSky"
@@ -1270,7 +1474,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 225986,
       "name": "P\u00f6yristytt\u00e4v\u00e4\u00e4",
       "url": "https://open.spotify.com/track/63ZFWUBY8qwgzcVYapH6Oj"
@@ -1364,7 +1568,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 196444,
       "name": "Seitsem\u00e4n kuolemansynti\u00e4",
       "url": "https://open.spotify.com/track/6LMBDEiiXFA87Sg73JRgaW"
@@ -1455,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "STARTED",
+        "url": "https://open.spotify.com/album/5zLrcqHBJNI0ciAdhj60YP"
+      },
+      "artists": [
+        {
+          "name": "Nick-E Maggz",
+          "url": "https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166993,
+      "name": "STARTED",
+      "url": "https://open.spotify.com/track/3mzR4sjEsW3dgIzFR8EbbA"
+    },
+    {
+      "album": {
         "name": "Starttaa",
         "url": "https://open.spotify.com/album/0v09NIc0OvPEKNveP5E3TC"
       },
@@ -1470,6 +1692,24 @@
       "duration_ms": 154906,
       "name": "Starttaa",
       "url": "https://open.spotify.com/track/0rWf0xkyuKaIqqd8zA2Aqt"
+    },
+    {
+      "album": {
+        "name": "Helsingis on tulva - EP",
+        "url": "https://open.spotify.com/album/2459H0Xc9lago9C1d1S3eE"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175536,
+      "name": "Sun vika",
+      "url": "https://open.spotify.com/track/2sQ2CJXifP3ydr5cM0v1EO"
     },
     {
       "album": {
@@ -1524,7 +1764,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 192192,
       "name": "Taiteilijael\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/3lEjNgLQHxbHxqjtSzTgZQ"
@@ -1568,6 +1808,24 @@
       "duration_ms": 166833,
       "name": "Tenho Nyman",
       "url": "https://open.spotify.com/track/1m9tFmJjK0aQwLiNIt2ILr"
+    },
+    {
+      "album": {
+        "name": "MINNESOTA",
+        "url": "https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW"
+      },
+      "artists": [
+        {
+          "name": "Pijall",
+          "url": "https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222607,
+      "name": "Tragedian Lyhyt Oppim\u00e4\u00e4r\u00e4",
+      "url": "https://open.spotify.com/track/6Vr8roAlaX2xFBV3juRJ5S"
     },
     {
       "album": {
@@ -1634,6 +1892,28 @@
       "duration_ms": 169462,
       "name": "T\u00e4\u00e4 ilta (feat. Senya)",
       "url": "https://open.spotify.com/track/3Q2AIM4SuTHcar4Wy1hAr2"
+    },
+    {
+      "album": {
+        "name": "Valemuisto",
+        "url": "https://open.spotify.com/album/0CNewSF0x0PKnUaXaChbWt"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4rmy",
+          "url": "https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi"
+        },
+        {
+          "name": "Opaali",
+          "url": "https://open.spotify.com/artist/1dk4PjZTvrWlSPhBFXy7VM"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Valemuisto",
+      "url": "https://open.spotify.com/track/3IUhwoOQwo1zuR0PJz6pFl"
     },
     {
       "album": {
@@ -1706,6 +1986,32 @@
       "duration_ms": 155040,
       "name": "Voita Munkaa",
       "url": "https://open.spotify.com/track/2xqXza0icbBk5AWOLF8r5M"
+    },
+    {
+      "album": {
+        "name": "Whatup (feat. Aste)",
+        "url": "https://open.spotify.com/album/4EfPiGnInJyfKPyjzImyRM"
+      },
+      "artists": [
+        {
+          "name": "Kimi Hendrix",
+          "url": "https://open.spotify.com/artist/70EDugmttoaPiyYPiGJOlt"
+        },
+        {
+          "name": "FORRESTER",
+          "url": "https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8"
+        },
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223437,
+      "name": "Whatup (feat. Aste)",
+      "url": "https://open.spotify.com/track/2cOWg7hp94ik52UukLOly1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu"

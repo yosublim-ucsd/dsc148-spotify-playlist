@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5?si=yL5BGjYkRlWFri8pmu05Fg">Azana</a>
 
-480 songs - 1 day 10 hr 39 min
+481 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Faith](https://open.spotify.com/track/2BdVXGDBqMBLF8PCEqfYrL) | [Viwe](https://open.spotify.com/artist/3Q0MK38M8FGQrpZ1dnh6k1) | [Ngoku](https://open.spotify.com/album/5EFVPzXx88teAhccDWYkWc) | 2:07 | 2022-02-03 | 2022-02-11 |
 | [FALL THRU](https://open.spotify.com/track/1R8gbq85RP1JPVslccj3g9) | [FLVME](https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r), [DaVionne](https://open.spotify.com/artist/0kQVtbYXplOdbRNlQ3RBOE) | [GERMANDER II](https://open.spotify.com/album/4Y0fBFvHUd7WKJnduASVUN) | 3:38 | 2022-09-09 | 2022-10-14 |
 | [Falling Down](https://open.spotify.com/track/0bcBHB3JTd529JBubx2ZLr) | [LAE](https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6) | [Falling Down](https://open.spotify.com/album/2IkncK5hJ3uwUEjEnkwS3b) | 4:19 | 2022-07-14 | 2022-09-10 |
-| [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 | 2023-08-31 |  |
+| [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 | 2023-08-31 | 2023-10-06 |
 | [Feelings](https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Feelings](https://open.spotify.com/album/2kN74xWPubjhrFnDtL2pHJ) | 2:54 | 2023-08-03 |  |
 | [Fetch Your Life II](https://open.spotify.com/track/2sNGPTctQVNBxHNXWdZSIR) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Fetch Your Life II](https://open.spotify.com/album/5OYCS95I7uk5MzjxbqRDgJ) | 5:07 | 2021-10-21 | 2022-08-16 |
 | [Fireworks](https://open.spotify.com/track/1VvaBNjT8xyUcX38SbHq5M) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Fireworks](https://open.spotify.com/album/5kQTGFFvwJpdgU13VpMggp) | 4:45 | 2022-09-01 | 2022-09-30 |
@@ -427,6 +427,7 @@
 | [uFuna Bani \(Sondela\)](https://open.spotify.com/track/2GPh9moTPizhhgXF2p8R1R) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX) | [uFuna Bani \(Sondela\)](https://open.spotify.com/album/3rfcYA4oVkNaIdJv4OHbvp) | 2:54 | 2022-09-15 | 2022-10-14 |
 | [Uhambo](https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Uhambo](https://open.spotify.com/album/26jzpEzvuSZH4t6Ucz3mzC) | 3:29 | 2021-10-21 | 2022-09-30 |
 | [Ujabule](https://open.spotify.com/track/7mylOtThjvTXs7MbNFfgrG) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Nlhonipho](https://open.spotify.com/artist/5c63jGw4e0s0QxkCrtn1YL), [Chukido](https://open.spotify.com/artist/1hvUej7iIM2qNgY2xIbI5X) | [Ujabule](https://open.spotify.com/album/69murzE4qzDxxIzNB8JQUY) | 3:41 | 2022-09-01 | 2022-09-10 |
+| [Uk'lala Ngedwa](https://open.spotify.com/track/5FwM6wb5RyxRXbKxU3fHKq) | [UManamathela](https://open.spotify.com/artist/7qgiPTbqwr5avpxs8HpX1z) | [Uk'lala Ngedwa](https://open.spotify.com/album/17TfpUYAkmsk8ZWW8xcoec) | 4:06 | 2023-10-05 |  |
 | [Ukukhanya](https://open.spotify.com/track/21zXbMOdDs7BterIteBmvU) | [Eves Manxeba](https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB), [May Jack](https://open.spotify.com/artist/5n1fHEdqrwWfXCJQI1wQnO) | [Ukukhanya](https://open.spotify.com/album/6qvWPfJ7gW3lddM6jdBo8D) | 3:43 | 2022-02-03 | 2022-07-01 |
 | [ukuthanda wena](https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ukuthanda wena](https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39) | 4:07 | 2023-03-02 | 2023-03-25 |
 | [Ukwenza Yenza](https://open.spotify.com/track/50AGGGpb9w9O7WvCvllZki) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Ukwenza Yenza](https://open.spotify.com/album/6QtJ8eJh0QJzFAO4kK5dTX) | 3:47 | 2022-11-17 | 2022-11-26 |

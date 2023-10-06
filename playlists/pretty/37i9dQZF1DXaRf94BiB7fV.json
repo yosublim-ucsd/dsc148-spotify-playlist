@@ -1,28 +1,32 @@
 {
   "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Janaki Easwar , Artwork: Isu Kim",
-  "num_followers": 46921,
+  "num_followers": 46955,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTFlMTg4OGMwMzA4YmM0ZDBkZjAzY2FjM2MwM2FlMDE2Yjk2MGVh",
+  "snapshot_id": "MCxlMTRlNGNiOTI0MDg5OGQ5OTYzMTAwMjYyMTNmYWQxMDliNmExZjAy",
   "tracks": [
     {
       "added_at": "2023-10-04 06:26:44",
       "album": {
         "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0feeawG2bWFFtQWqeb0R31"
+        "url": "https://open.spotify.com/album/05rrQ3KRxL9VxdyLn8iaqC"
       },
       "artists": [
         {
           "name": "Janaki Easwar",
           "url": "https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll"
+        },
+        {
+          "name": "Varkey",
+          "url": "https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI"
         }
       ],
       "duration_ms": 178783,
       "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0ckGQ7VSRg4qYXEbkO2ZKN"
+      "url": "https://open.spotify.com/track/36JdKkTMMajV8uufBTHicp"
     },
     {
       "added_at": "2023-10-04 06:26:44",

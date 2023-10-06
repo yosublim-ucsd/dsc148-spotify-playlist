@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "High Spirits",
       "url": "https://open.spotify.com/track/4InsvvBQTDAEiCGOh5MBH7"
@@ -2192,6 +2192,24 @@
       "duration_ms": 143333,
       "name": "Human Endeavors",
       "url": "https://open.spotify.com/track/34zPk8uBJblUkJVghXLfRg"
+    },
+    {
+      "album": {
+        "name": "Cosmic Bliss",
+        "url": "https://open.spotify.com/album/5s6ila6z4pWVwrnPDVOxzP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Night Music",
+          "url": "https://open.spotify.com/artist/3o4afy13rKHnQBOvWP1seP"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Human Endeavors",
+      "url": "https://open.spotify.com/track/3O2ErLKbR8ClnGgDFmPkZG"
     },
     {
       "album": {
@@ -3250,7 +3268,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 138698,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/1cOLJIEp1R1L21YwyXTOJC"
@@ -3380,7 +3398,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 300734,
       "name": "Om mani palme hum",
       "url": "https://open.spotify.com/track/0FtC15WLzcESeYps3uDcpP"
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 209347,
       "name": "Open Glade",
       "url": "https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP"
@@ -4494,7 +4512,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 178181,
       "name": "Sunrise.",
       "url": "https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x"
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 134693,
       "name": "The Crop Circle",
       "url": "https://open.spotify.com/track/5BdTEkSo1U4Tw0TPFLJxZH"
@@ -4746,7 +4764,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 160568,
       "name": "The Sapphire Waters of East Kalimantan",
       "url": "https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V"

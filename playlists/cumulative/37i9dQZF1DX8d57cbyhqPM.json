@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: KeBlack",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Gino J",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -565,6 +565,28 @@
     },
     {
       "album": {
+        "name": "Nouvelle \u00e8re",
+        "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
+      },
+      "artists": [
+        {
+          "name": "3 Heures prod",
+          "url": "https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195491,
+      "name": "Benda",
+      "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
+    },
+    {
+      "album": {
         "name": "BIBAMBA",
         "url": "https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW"
       },
@@ -753,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0wGVLoQ4igKEYOiTbMaEWr"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Guccima",
+          "url": "https://open.spotify.com/artist/5ZsfSFTF5DlQ8gRSe65Mhh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196579,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S"
+    },
+    {
+      "album": {
         "name": "Brakata (Remix)",
         "url": "https://open.spotify.com/album/6AFW8ZjnaZYGecazh9hEld"
       },
@@ -862,7 +906,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 188000,
       "name": "C'EST MA VIE",
       "url": "https://open.spotify.com/track/4B2MFDkxTyCV3ek5hBIfZd"
@@ -3450,7 +3494,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 196800,
       "name": "Na Lola",
       "url": "https://open.spotify.com/track/3RLq8Pf4D4Yd8wdNXMUQkF"
@@ -4245,6 +4289,24 @@
     },
     {
       "album": {
+        "name": "PO NA BISO",
+        "url": "https://open.spotify.com/album/4E2X4MOiMVHRYOv7DEp69W"
+      },
+      "artists": [
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212682,
+      "name": "PO NA BISO",
+      "url": "https://open.spotify.com/track/7aYNn7Ig8eX9x27Gu76hco"
+    },
+    {
+      "album": {
         "name": "Pole Pole",
         "url": "https://open.spotify.com/album/1PfUsfBkYFoB2DaNAd516S"
       },
@@ -4260,7 +4322,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 206250,
       "name": "Pole Pole",
       "url": "https://open.spotify.com/track/6j9Zkg0EM7Z8kGBqTgxCh9"

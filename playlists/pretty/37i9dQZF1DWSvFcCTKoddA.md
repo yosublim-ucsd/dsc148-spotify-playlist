@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 ### [RADAR Podcasters France](https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA)
 
-> Les podcasts que vous devriez avoir sur votre RADAR : Central Podcast, Inspiration Créative et  et Mamie dans les orties.
+> Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,661 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,650 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY1ODk4ODAwMCwwMDAwMDAwMGZjODJhZTIyZjhiNDA4ZDg0OTI2Yzc2YjgzYzRjMDU4`
+Snapshot ID: `MCxjYTUwNjhhNmViOTg4ZTA4MDFmYjZkYjc4MTIzMjgwYzMxYzFmNTY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: Hannah Diamond
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,588 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,741 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 |
 | 100 | [better outside](https://open.spotify.com/track/3mRcJdUeBCT3z3toRxnPh4) | [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [Chris Moon](https://open.spotify.com/artist/4kNKHF5Zxd8Ftq6Zq5iVP9) | [better outside](https://open.spotify.com/album/7vXvuhihgJ2eRcoOx5hocr) | 3:17 |
 
-Snapshot ID: `MCw0ZWNjYTIzODgzZDgwZDgwODU2ODY2OGFjMWVkYTEwYTVkOTk3MTQz`
+Snapshot ID: `MCxlNWI0YTlkNDkyOGUzN2I2NGM2ZmY3YTY4ODNiNzAxNjhjODZlNTY5`

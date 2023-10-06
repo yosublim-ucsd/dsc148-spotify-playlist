@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap holder det 100 lige nu \ud83d\udea8  Merro8 tar forsiden",
+  "description": "dk rap holder det 100 lige nu \ud83d\udea8  ICEKIID tar forsiden",
   "name": "100 DK",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 167945,
       "name": "Safari",
       "url": "https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD"
@@ -752,6 +752,24 @@
       "duration_ms": 121967,
       "name": "Settings",
       "url": "https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn"
+    },
+    {
+      "album": {
+        "name": "Skarpt Lys",
+        "url": "https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Skarpt Lys",
+      "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
     },
     {
       "album": {

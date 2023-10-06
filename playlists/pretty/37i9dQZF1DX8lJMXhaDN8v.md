@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lJMXhaDN8v.md) - [plain]
 
 > Music from "PRINCESS CONNECT！Re:Dive"\. 「プリンセスコネクト！Re:Dive」の楽曲を1つのプレイリストで。© Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,485 likes - 36 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,504 likes - 36 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8lJMXhaDN8v.md) - [plain]
 | 35 | [Peaceful\*ちゃんぷるー](https://open.spotify.com/track/02ew36AUcDUKe9RqH6BUyz) | [マホ \(CV: 内田真礼\)](https://open.spotify.com/artist/4sBXekyeS92U3PnGpcdjMK), [カオリ \(CV: 高森奈津美\)](https://open.spotify.com/artist/353OIK7NcB68bzsHNh7g7Y) | [プリンセスコネクト！Re:Dive PRICONNE CHARACTER SONG 09](https://open.spotify.com/album/0O8lsdwVZmKfYST3mpvQ4s) | 3:48 |
 | 36 | [Call Me Darling!](https://open.spotify.com/track/1CT4B6LPCOJAoDPTAuaTdm) | [ノゾミ \(CV: 日笠陽子\)](https://open.spotify.com/artist/2bVANXidQS76GEdwg0mfP3), [チカ \(CV: 福原綾香\)](https://open.spotify.com/artist/4HeJvCgKf5PUUfX268r19S), [ツムギ \(CV: 木戸衣吹\)](https://open.spotify.com/artist/20X99f33unz5xvS5dj1hc3) | [プリンセスコネクト!Re:Dive PRICONNE CHARACTER SONG 14](https://open.spotify.com/album/0KWmmM6kbjW3lBsvUg8Nia) | 3:24 |
 
-Snapshot ID: `MCw5ZjRkNTkyZjNmMTI0MzNkYjkyYmNkZWNiNGM0MTIxNmIwYjM5ZDgz`
+Snapshot ID: `MCwwNTRhMzBmYWFjNzdkOGFhNTdlNmIyYjk3ZGYxMmI2ZDM4NTY1MjAz`

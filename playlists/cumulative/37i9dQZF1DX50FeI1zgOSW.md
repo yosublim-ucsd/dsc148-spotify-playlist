@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX50FeI1zgOSW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX50FeI1zgOSW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX50FeI1zgOSW)
 
-### [Radar Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
+### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 

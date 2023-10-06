@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI?si=9U767o32QpWdJZviq\-frcw">Sibusiso Mashiloane</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=7f7EU7StRLafRZ1CMVjKcQ">Thandi Ntuli</a>
 
-129 songs - 13 hr 37 min
+130 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Ngexesha](https://open.spotify.com/track/541fIP8ikdk37qUJ8jT64e) | [Thembelihle Dunjana](https://open.spotify.com/artist/66IN29S48IuLZH1H0awi3I) | [Intyatyambo, Pt\. 2](https://open.spotify.com/album/4VxgltAZdjxGbVnsY9tVGB) | 7:01 | 2022-04-28 | 2023-05-13 |
 | [Ngovivi](https://open.spotify.com/track/5NBziFkYYVFLMx672wjBBE) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Martin Nodeland](https://open.spotify.com/artist/0GUciWp5KRR7pEYPavWKW3), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT), [Zöe Modiga](https://open.spotify.com/artist/7bTbLfgj2BwgMji8gp9RJC) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 9:00 | 2022-04-28 | 2023-08-26 |
 | [No Hope After 1](https://open.spotify.com/track/3sXTg8HJL6TdpNtADdlDIW) | [Fernando Damon](https://open.spotify.com/artist/33NVhommONkAqw8HnexI5K), [Robin Fassie](https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d) | [Surrender](https://open.spotify.com/album/4BB8QBZatr1sYCBeiXLzVg) | 3:25 | 2022-04-28 | 2023-04-12 |
+| [Nomayoyo \(Ingoma ka Mkhulu\)](https://open.spotify.com/track/37FQ84wNKmipnbUxstpTbG) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Nomayoyo \(Ingoma ka Mkhulu\)](https://open.spotify.com/album/10WxliCdK3RkTdJ2lg0b6H) | 5:34 | 2023-10-05 |  |
 | [Ntab'ezimnyama](https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 4:45 | 2022-04-28 | 2023-03-18 |
 | [Ntate Gwangwa's Stroll](https://open.spotify.com/track/4eM3xpiSyUFX1Of3EYyoM2) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [Ntate Gwangwa's Stroll](https://open.spotify.com/album/3D0v4FYzpWX2bpWcujxyBQ) | 7:02 | 2022-04-28 |  |
 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 | 2023-09-29 |  |

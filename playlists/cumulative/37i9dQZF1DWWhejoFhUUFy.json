@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "In Your Eyes Only",
+        "url": "https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189839,
+      "name": "In Your Eyes Only",
+      "url": "https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ"
+    },
+    {
+      "album": {
         "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
       },
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158832,
       "name": "Tera Mera Aasmaan",
       "url": "https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA"

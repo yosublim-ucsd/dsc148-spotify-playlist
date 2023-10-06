@@ -2,9 +2,9 @@
 
 ### [RADAR Nordics](https://open.spotify.com/playlist/37i9dQZF1DWV7gN1qBoBYg)
 
-> Welcome to RADAR: A space for storytelling going beyond the music featuring Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
+> Welcome to RADAR: A space for storytelling going beyond the music featuring Jaeger, Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-56 songs - 2 hr 45 min
+57 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bonsai Love](https://open.spotify.com/track/0g34K1VMsymkjGyPpeuL0x) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 2:59 | 2022-04-25 |  |
 | [CELEBRAR](https://open.spotify.com/track/5ZIU6eFkgCMiZX0ZdPtloV) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [$OLO MEMOS](https://open.spotify.com/album/1HEVveDgR4D3nJViD3q9Yq) | 2:29 | 2022-04-25 |  |
 | [Cheater \(feat\. LOVA\)](https://open.spotify.com/track/0eAY1xwwdnFv7JcRmgcEkW) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:47 | 2022-04-25 |  |
+| [Ciao](https://open.spotify.com/track/2tXILArq64JkwKB1G2wstD) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Ciao](https://open.spotify.com/album/6RqUuLYatToNg8HQuZoxgE) | 3:45 | 2023-10-05 |  |
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2022-04-25 |  |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-04-25 |  |
 | [Critical](https://open.spotify.com/track/5RLtXgDduEE3qU2184BYpC) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:10 | 2022-04-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pop style reggae for a sunny summer vibe!",
-  "num_followers": 769579,
+  "num_followers": 769728,
   "original_name": "Summer Sunshine Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYxMzQxYjFhMjVlMWQwNzA5MDE2NjYyZGQ0OGU3Njk2MzY1NDFl",
+  "snapshot_id": "MCxkNTJjZjE3N2EwNWVkNGVhZTgxOTczYWNkNWI2ZWMyMzg0ZWFlZjU4",
   "tracks": [
     {
       "added_at": "2023-09-13 12:21:39",
@@ -1090,6 +1090,10 @@
         {
           "name": "SunDub",
           "url": "https://open.spotify.com/artist/4PoPeXL1kTk7cVxVMRdGvy"
+        },
+        {
+          "name": "Joanna Teters",
+          "url": "https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp"
         }
       ],
       "duration_ms": 252633,

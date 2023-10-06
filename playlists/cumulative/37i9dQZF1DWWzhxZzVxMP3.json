@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/7ryRXjOdfvLXEBSGhqfX5O"
+      },
+      "artists": [
+        {
+          "name": "Lady Monarda",
+          "url": "https://open.spotify.com/artist/5AWmHfPfDnS8vTuYD4T4d2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198421,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/27OXWLEMK1JSNH2qJEwEED"
+    },
+    {
+      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },

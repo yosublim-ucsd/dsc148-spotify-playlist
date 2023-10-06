@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,046 likes - 102 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,231 likes - 102 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 20 | [Teri Deewani \- Lofi Flip](https://open.spotify.com/track/0Bfima51LTKrxuBYjv0Qwp) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE) | [Teri Deewani \(Lofi Flip\)](https://open.spotify.com/album/7slPAEKXiHSCOOQc6WhkoO) | 3:07 |
 | 21 | [Tujhe Kitna Chahein Aur Hum \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/track/6LnKF81ya983e07tTgAFql) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Tujhe Kitna Chahein Aur Hum \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/album/290HHvw24qTpvo7irhLjcv) | 4:12 |
 | 22 | [Be Intehaan \(Lofi Mix\)](https://open.spotify.com/track/5Ocj680ji44AtRXvjPbfIp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Be Intehaan \(Lofi Mix\)](https://open.spotify.com/album/1DGJ6xjiCm3bUMHMKSDvaC) | 4:31 |
-| 23 | [Subhanallah Lofi Mix](https://open.spotify.com/track/1pnC5d46tqFwjqGtbjJPn7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sreeram](https://open.spotify.com/artist/5iSzaah2lEZaCgm5f1bVQm), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X) | [Subhanallah Lofi Mix](https://open.spotify.com/album/4u3ZyzseFGYfZGP9XEbl4Q) | 3:19 |
+| 23 | [Subhanallah Lofi Mix](https://open.spotify.com/track/1pnC5d46tqFwjqGtbjJPn7) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sreeram](https://open.spotify.com/artist/49ZShkNeIwApYfMlvIUKTX), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X) | [Subhanallah Lofi Mix](https://open.spotify.com/album/4u3ZyzseFGYfZGP9XEbl4Q) | 3:19 |
 | 24 | [Raanjhanaa \- Lofi Flip](https://open.spotify.com/track/3TEpHcylaJDZyYOiBVzlwN) | [Silent Ocean](https://open.spotify.com/artist/1rpoUNG0STk0Vw4BNVaP17), [Jaswinder Singh](https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Raanjhanaa \(Lofi Flip\)](https://open.spotify.com/album/2wMqpfs8Jdxh6ouQdHM5et) | 3:10 |
 | 25 | [Ranjha \- Reprise](https://open.spotify.com/track/4tQeEHoii36QEGOEacAybz) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(Reprise\)](https://open.spotify.com/album/7nYGSTCbap9PwBCnsvRp2Z) | 3:44 |
 | 26 | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/track/1Y6uLf2pklzliCb8OFuxgZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/album/5W1hY7h9HRraLrgYwcC1ZO) | 4:04 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 101 | [Boondein Ye Barse \- Lofi](https://open.spotify.com/track/1pelGFBc8UiG8FKVHkYjsx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Boondein Ye Barse \- Lofi](https://open.spotify.com/album/4qYzHtTjU0S3rRXkasO1jS) | 4:02 |
 | 102 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 |
 
-Snapshot ID: `MCwxMTViZTIxYzdlNTExMTgyMDNiZGRhN2NjYzJmNDliOTk0ZmQ2MTU3`
+Snapshot ID: `MCxhYmEwNmEyOTYzMzMzNjE0N2JlMTc0YjM1MTc0MDBjMmE4ZjQxZTk2`

@@ -4713,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g"
+      },
+      "artists": [
+        {
+          "name": "Manamera",
+          "url": "https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214347,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv"
+    },
+    {
+      "album": {
         "name": "Togetherness",
         "url": "https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf"
       },

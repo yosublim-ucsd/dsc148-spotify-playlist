@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 104250,
       "name": "Aquarious",
       "url": "https://open.spotify.com/track/6g7keElPVodgBUw450CRWO"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 105956,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/7hYgGeMBarMRK5iGPqKGsb"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 191290,
       "name": "Buckle Up",
       "url": "https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 111500,
       "name": "cape",
       "url": "https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 112033,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU"
@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "october",
+        "url": "https://open.spotify.com/album/1iEjhoi66AQOTBzrMUEffc"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305390,
+      "name": "january",
+      "url": "https://open.spotify.com/track/0vXXGZStT6ksxuz00dwCQv"
+    },
+    {
+      "album": {
         "name": "september",
         "url": "https://open.spotify.com/album/4hs7MG8Rp5K2ofZCEQPuLl"
       },
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 305390,
       "name": "january",
       "url": "https://open.spotify.com/track/1V330yFk890DT0TDtqLPpk"
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 89448,
       "name": "marble",
       "url": "https://open.spotify.com/track/6RU0RohTCtw7UDMAsahgts"
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118072,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0vtabIK29LljzI0O5eG8Yw"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118695,
       "name": "Sea Level",
       "url": "https://open.spotify.com/track/7L8H804VF1JlDd97EYJ82M"
@@ -3550,7 +3568,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 137067,
       "name": "taming the tiger",
       "url": "https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc"
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118397,
       "name": "Trail Of Emptiness - Ambient Version",
       "url": "https://open.spotify.com/track/7soUChMHrOcBc80OPPVkbN"
@@ -4216,7 +4234,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118587,
       "name": "Vi G\u00e5r Mot H\u00f6st",
       "url": "https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75"
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 106290,
       "name": "you're just visiting",
       "url": "https://open.spotify.com/track/7rsRqxM1uneTiTKVjcxfPv"

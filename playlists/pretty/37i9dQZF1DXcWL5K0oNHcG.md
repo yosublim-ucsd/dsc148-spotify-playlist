@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sean Mason Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,744 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,852 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Look at the Birds](https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja) | [Micah Thomas](https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO) | [Look At The Birds](https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP) | 8:10 |
 | 75 | [The Valley](https://open.spotify.com/track/5ZLWcV2Vq1iiZD57J2OMGE) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W) | [The Valley](https://open.spotify.com/album/5IiU0HkRmMzNw0zEVsA4mK) | 4:45 |
 
-Snapshot ID: `MCw2N2I1NzZmODdkMjY1NTM3ZDA3Y2YwMTA1ZmQ1YTUzMTc2NjgxZmZl`
+Snapshot ID: `MCxkM2YzMDI0YmI0OTk1ZTZlZjY4YWM4ZmYxOWMyOTRhMzBhNzEzMDZi`

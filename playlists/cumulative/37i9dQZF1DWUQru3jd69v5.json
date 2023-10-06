@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Fre_nky",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Lefar",
   "name": "Raptopia",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 159000,
       "name": "\"Bisiness\"",
       "url": "https://open.spotify.com/track/5rd8GueEmsKWLgJhQOM8v0"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 138591,
       "name": "BICRAVE",
       "url": "https://open.spotify.com/track/1HysCrlm9lxpFdCxeKHw0c"
@@ -3577,6 +3577,32 @@
     },
     {
       "album": {
+        "name": "Contatto Romano (feat. Manali & Mescal Dom)",
+        "url": "https://open.spotify.com/album/3d10pi96nYto14V1DQR08x"
+      },
+      "artists": [
+        {
+          "name": "Sosa Priority",
+          "url": "https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc"
+        },
+        {
+          "name": "Manali",
+          "url": "https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh"
+        },
+        {
+          "name": "Mescal Dom",
+          "url": "https://open.spotify.com/artist/0Ybyxgq4ypFiGcoLAStiPr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199401,
+      "name": "Contatto Romano (feat. Manali & Mescal Dom)",
+      "url": "https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil"
+    },
+    {
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2"
       },
@@ -4008,7 +4034,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 207317,
       "name": "Delinquendo RMX (feat. Sapobully & Mingo MH)",
       "url": "https://open.spotify.com/track/22eON9q5Iq4WbqmXnovpAu"
@@ -5156,6 +5182,24 @@
       "duration_ms": 164571,
       "name": "FILM",
       "url": "https://open.spotify.com/track/5nPOa1NCVgZ55VmVoYYL6E"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA - Before and After",
+        "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "FINCH\u00c9 NON ARRIVA LA BELLA VITA",
+      "url": "https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR"
     },
     {
       "album": {
@@ -6624,7 +6668,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 137148,
       "name": "HUSTLE",
       "url": "https://open.spotify.com/track/2GA2X9ppNsPpcMgBfpszA8"
@@ -7223,6 +7267,28 @@
     },
     {
       "album": {
+        "name": "Khabib",
+        "url": "https://open.spotify.com/album/4ffFwzjCdbpwi2ZuqRg9Oz"
+      },
+      "artists": [
+        {
+          "name": "Daxter",
+          "url": "https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa"
+        },
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Khabib",
+      "url": "https://open.spotify.com/track/4lZ8j1DNJKW0Rvz3gSC0Qo"
+    },
+    {
+      "album": {
         "name": "KILI KILI",
         "url": "https://open.spotify.com/album/6CUBYWEmpFpyKa1RXnU2kk"
       },
@@ -7318,7 +7384,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 170232,
       "name": "Kurt Cobain",
       "url": "https://open.spotify.com/track/5MFOGxWCMMmYwYI1TXi4Qs"
@@ -9749,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "Naples",
+        "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Naples",
+      "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
+    },
+    {
+      "album": {
         "name": "NASTY",
         "url": "https://open.spotify.com/album/03x49jYtwYvQuvAsiOdcm2"
       },
@@ -10444,7 +10528,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 112131,
       "name": "OH MIO DIO",
       "url": "https://open.spotify.com/track/4oy0YfpS0jl68DD0QBNyzX"
@@ -12614,6 +12698,24 @@
       "duration_ms": 133103,
       "name": "SACRIFICIO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
+    },
+    {
+      "album": {
+        "name": "Salam Alaykum",
+        "url": "https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Salam Alaykum",
+      "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
     },
     {
       "album": {
@@ -14881,6 +14983,24 @@
     },
     {
       "album": {
+        "name": "UN'ALTRA NIGHT",
+        "url": "https://open.spotify.com/album/6Hz6Rn53dSKOIhjIsDN2z2"
+      },
+      "artists": [
+        {
+          "name": "Nira",
+          "url": "https://open.spotify.com/artist/005dicYm2vuN9fJ4Ey3Z4c"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165004,
+      "name": "UN'ALTRA NIGHT",
+      "url": "https://open.spotify.com/track/13X04wnewOCJCv6xLr9Cky"
+    },
+    {
+      "album": {
         "name": "Una Chance",
         "url": "https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy"
       },
@@ -15152,7 +15272,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147310,
       "name": "Victoria's Secret (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH"
@@ -15314,6 +15434,28 @@
       "duration_ms": 129882,
       "name": "Vita vera",
       "url": "https://open.spotify.com/track/04mKihaPiWG3zVOlu7qLC7"
+    },
+    {
+      "album": {
+        "name": "Ragazzi Persi",
+        "url": "https://open.spotify.com/album/7zvU2pt7mTW5FWcNFH7u8g"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154446,
+      "name": "Voglio",
+      "url": "https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK"
     },
     {
       "album": {

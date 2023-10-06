@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 42055,
+  "num_followers": 42075,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc4NTIyZDk1NjM1Nzg2YTg0YTUzN2UxOGQyZmE2ODk1ZjgxM2M2",
+  "snapshot_id": "MCwxNTQ0YjA3OTYyZDY5OGVhZTM2MjAzOTgzMjI2MzQzZjZjMjMxMTQ0",
   "tracks": [
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
-      },
-      "artists": [
-        {
-          "name": "Only The Poets",
-          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
-        }
-      ],
-      "duration_ms": 159239,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 171913,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0g0SrJn8HSEyvMSH9HKcwt"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "duration_ms": 159239,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/5zZ0Nn7XsH0lxmGMxLsagd"
     }
   ],
   "unique_name": "Wholesome",

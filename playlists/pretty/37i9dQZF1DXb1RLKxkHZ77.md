@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Masdo, Aisyah Aziz
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,078 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,130 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [SUDAH](https://open.spotify.com/track/5DpCt9HziSoGr6njdpd59d) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [SUDAH](https://open.spotify.com/album/0xjje8aNTXVWKI6GcsgUR2) | 3:46 |
 | 50 | [Harapan Tak Kunjung Usai](https://open.spotify.com/track/7AOC6CUZC5c7Xq85GdXkDN) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf), [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Harapan Tak Kunjung Usai](https://open.spotify.com/album/48flIDmuIAtwsLStGjHWdi) | 4:39 |
 
-Snapshot ID: `MCw5NTdjZDAwZDcxY2FjNWNkYjEyMmFiZmVlNjQ5ZDgwMjJjN2VkNTMx`
+Snapshot ID: `MCw2Nzk0OTU0OGU3ZjA1ZGRmODI2ODRjNmYzMGMxMmYyNjMyYTVkNzdl`

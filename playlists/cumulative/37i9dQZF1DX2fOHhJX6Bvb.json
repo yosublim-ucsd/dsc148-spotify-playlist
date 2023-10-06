@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Pirlo",
+          "url": "https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e"
+    },
+    {
+      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC"
       },
@@ -1157,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Out of Reach",
+        "url": "https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD"
+      },
+      "artists": [
+        {
+          "name": "Sinead Fisher",
+          "url": "https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157301,
+      "name": "Out of Reach",
+      "url": "https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3"
+    },
+    {
+      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt"
       },
@@ -1352,6 +1388,24 @@
       "duration_ms": 163750,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/3DkCOtDoxR2HnwEO7quaqJ"
+    },
+    {
+      "album": {
+        "name": "Someone like you",
+        "url": "https://open.spotify.com/album/2D59eKCt0eqXKutSEJbzJC"
+      },
+      "artists": [
+        {
+          "name": "Heather Riley",
+          "url": "https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218581,
+      "name": "Someone like you",
+      "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,243 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,274 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,7 +266,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 256 | [They Know](https://open.spotify.com/track/3FBfzFwT408wu5fYQmZwJ4) | [MOTTRON](https://open.spotify.com/artist/5AY0Rks5xEfIXALj5HBHeu) | [Giants](https://open.spotify.com/album/4dftSYwDzkJkeaG1OK5oCD) | 2:52 |
 | 257 | [Fun Fair](https://open.spotify.com/track/5iwpbwgbaNcdFA2MXZynXq) | [The Last Detail](https://open.spotify.com/artist/2TOQ5b0RlP66nGOKBK66cU), [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu), [Fugu](https://open.spotify.com/artist/4PwseIxW9scQG0S8ZxM5MK) | [The Last Detail](https://open.spotify.com/album/5mTpIa8cHVdqgxsqEpBCdH) | 2:38 |
 | 258 | [Juanita](https://open.spotify.com/track/1Ik5g1Fkqdi9S4qxanHfn9) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [That Place by the Thing with the Cool Name](https://open.spotify.com/album/3hrJBKVG1BaNyW7HLXKCok) | 3:21 |
-| 259 | [Lungs](https://open.spotify.com/track/3sz5yb4kagmhw1r9n8brHz) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/1O8S8tIdS9oNPbgFb5U1bA) | 3:52 |
+| 259 | [Lungs](https://open.spotify.com/track/118mlHvsJSKCOdzaCRxGq4) | [Endless Forms](https://open.spotify.com/artist/45qAYZp30YlU29wdDU5JWK), [Jessica Leben](https://open.spotify.com/artist/5fceH0rZiz4dyG3icctkZ3) | [If There Were Water](https://open.spotify.com/album/7afeJYkCyceUQL01j05ZIw) | 3:52 |
 | 260 | [Chacal](https://open.spotify.com/track/3UGWfnc7M0tDCPNdu1nUdl) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [Imperio, Vol\. 1](https://open.spotify.com/album/5MZ21uecyzhMeAzax6M2hv) | 4:26 |
 | 261 | [All About the Music](https://open.spotify.com/track/4ZYjeXb7idg3lSEKA1DHUI) | [WAS](https://open.spotify.com/artist/0Vy8ogc0toTWyui4W7FEB6) | [All About the Music](https://open.spotify.com/album/7wK6THr4RFx8DSSxHy9P0q) | 3:38 |
 | 262 | [Feelings](https://open.spotify.com/track/6ljsncathslMO7j041HwBF) | [Rush Week](https://open.spotify.com/artist/0OBjNPFO2EhBB5apG0s5Ur) | [Feelings](https://open.spotify.com/album/0fOCPxvNBLLyD6XdxJhD8L) | 3:27 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCw5YjcwNzkyMTg0ZWM5YjQwYjg1YjQ0NjcwNGQ3ZWQ3ODU0MWIxMzlk`
+Snapshot ID: `MCxhMjk2NGZkMTYwMDA5M2YxOTNhYzExYjYxNDYwMWFmNDRlNzZhYWU5`

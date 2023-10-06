@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Anna Lapwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,284 likes - 89 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,373 likes - 89 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Sonata, Op\. 1: No\. 1 in E\-Flat Major: I\. Allegro con comodo](https://open.spotify.com/track/18FduYlFQ8iMZiRB2DoQaS) | [Muzio Clementi](https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn), [Carlo Alberto Bacchi](https://open.spotify.com/artist/7oqn3W7F5wyFxz05YWFUGk) | [Clementi: Sonatas, Op\. 1 & Op\. 1A](https://open.spotify.com/album/4bK4wF3cqCqZFJAAtJSXPl) | 3:48 |
 | 89 | [Ouroboros: II\. Allegro infuriato](https://open.spotify.com/track/5qfg49Epjkzfw3zuhMioi8) | [Thomas Larcher](https://open.spotify.com/artist/03I64WdGqG6xrHN3HwaWr6), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Aaron Pilsan](https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt), [Munich Chamber Orchestra](https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU), [Clemens Schuldt](https://open.spotify.com/artist/5ikjgXxDsZmyPG97XVs1g0) | [Larcher: Ouroboros: II\. Allegro infuriato](https://open.spotify.com/album/0YFmw7vPkAlg1AdTEBkkxi) | 2:50 |
 
-Snapshot ID: `MCwzNDhhYzBjYTMwZGI2ZDVmYTg5NjczMGZiYmUyMTcyYjAwMWQyM2E0`
+Snapshot ID: `MCw4OTE3N2NjN2NjYTI5NjU4MTMyOTdjN2I5YzczMWRhY2QyMjQ0Nzcw`

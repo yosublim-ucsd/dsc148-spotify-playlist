@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Chesca",
-  "num_followers": 525642,
+  "num_followers": 525751,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTQ1NTkzN2EyOTYxNDg1YzNmYjMyZWE3Y2VhZTc2MzcwY2FkYzRm",
+  "snapshot_id": "MCxlODYzNjg3NzNjZWNjYjQ5NTk3MDlhMjI3MmRlMjBlZDVmZjhlY2M4",
   "tracks": [
     {
       "added_at": "2023-09-29 06:27:21",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "Narcotics (with Bryant Myers)",
+        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Narcotics (with Bryant Myers)",
+      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "Cora Roto",
         "url": "https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "Mi Lova",
-        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Mi Lova",
-      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -643,22 +643,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Narcotics (with Bryant Myers)",
-        "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
+        "name": "Mi Lova",
+        "url": "https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         },
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 173991,
-      "name": "Narcotics (with Bryant Myers)",
-      "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
+      "duration_ms": 220173,
+      "name": "Mi Lova",
+      "url": "https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "PLN",
+        "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "PLN",
+      "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "Cuerpo a Cuerpo",
         "url": "https://open.spotify.com/album/7jqGVZrtpQty4hCslVZJb9"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 244110,
       "name": "Cuerpo a Cuerpo",
       "url": "https://open.spotify.com/track/59cCMgCXQNLCk4AEnXr5GJ"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "PLN",
-        "url": "https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "PLN",
-      "url": "https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Andaluza",
-        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Andaluza",
-      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "Mi Juego",
         "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 167213,
       "name": "Mi Juego",
       "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "Andaluza",
+        "url": "https://open.spotify.com/album/1k0F8bRdT0klGyWqQa8IPy"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Andaluza",
+      "url": "https://open.spotify.com/track/2fhtNu3GpxpZZL669pbP1h"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Pa' Que Afinken",
-        "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 148504,
-      "name": "Pa' Que Afinken",
-      "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 168125,
       "name": "Ella Perrea",
       "url": "https://open.spotify.com/track/6BGjArXcJnxm5Uyp0O7050"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "Pa' Que Afinken",
+        "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 148504,
+      "name": "Pa' Que Afinken",
+      "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Ella Hace Vino",
-        "url": "https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt"
+        "name": "Bicha",
+        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
       },
       "artists": [
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 158314,
-      "name": "Ella Hace Vino",
-      "url": "https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9"
+      "duration_ms": 149696,
+      "name": "Bicha",
+      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Bicha",
-        "url": "https://open.spotify.com/album/2LhBFY1mquGDfrsIw0oPaS"
+        "name": "Ella Hace Vino",
+        "url": "https://open.spotify.com/album/2TKEmeQD9nxDVxkiKQ8OFt"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 149696,
-      "name": "Bicha",
-      "url": "https://open.spotify.com/track/3Xv4C3ZIpd1D0S9lUh4S1b"
+      "duration_ms": 158314,
+      "name": "Ella Hace Vino",
+      "url": "https://open.spotify.com/track/6ANymFCKuM24XvNxaHksH9"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
+        "name": "No Me Jalan",
+        "url": "https://open.spotify.com/album/3inIqwqlpPUfBSQl1A5rvf"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 140979,
+      "name": "No Me Jalan",
+      "url": "https://open.spotify.com/track/2lBCB5xzH0vN3SCETlIXep"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
         "name": "Romperte",
         "url": "https://open.spotify.com/album/545h3hKTymVcMJUOJ2VsIl"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 251034,
       "name": "Romperte",
       "url": "https://open.spotify.com/track/0jY1gqvXgX54bfuzgULjHW"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
-        "name": "No Me Jalan",
-        "url": "https://open.spotify.com/album/3inIqwqlpPUfBSQl1A5rvf"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 140979,
-      "name": "No Me Jalan",
-      "url": "https://open.spotify.com/track/2lBCB5xzH0vN3SCETlIXep"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1639,26 +1639,22 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "Mood (Remix)",
-        "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
       },
       "artists": [
         {
-          "name": "Yeruza",
-          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 247124,
-      "name": "Mood - Remix",
-      "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
+      "duration_ms": 175907,
+      "name": "Blam Blam",
+      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1679,22 +1675,26 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm"
+        "name": "Mood (Remix)",
+        "url": "https://open.spotify.com/album/2yNM7Di0fiM4T4uRSoiJ1L"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
         },
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 175907,
-      "name": "Blam Blam",
-      "url": "https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a"
+      "duration_ms": 247124,
+      "name": "Mood - Remix",
+      "url": "https://open.spotify.com/track/2rRXFhzzZ7uNvQTR54CTVk"
     },
     {
       "added_at": "2023-09-29 06:27:21",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-09-29 06:27:21",
       "album": {
-        "name": "DE LOS 90",
-        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 118762,
-      "name": "DE LOS 90",
-      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
-    },
-    {
-      "added_at": "2023-09-29 06:27:21",
-      "album": {
         "name": "LA DEMON",
         "url": "https://open.spotify.com/album/7utaYfVJx1dvBK8alfS6ju"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 230000,
       "name": "LA DEMON",
       "url": "https://open.spotify.com/track/4NutCGBuECzcpMtXrGIiRW"
+    },
+    {
+      "added_at": "2023-09-29 06:27:21",
+      "album": {
+        "name": "DE LOS 90",
+        "url": "https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 118762,
+      "name": "DE LOS 90",
+      "url": "https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd"
     },
     {
       "added_at": "2023-09-29 06:27:21",

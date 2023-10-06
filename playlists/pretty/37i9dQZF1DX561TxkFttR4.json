@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 337609,
+  "num_followers": 337663,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTMxMDAyZjhjZjBjOWIxYTA3Mjc4NzY5NzRhYTYwMjNhODM4NzQ5",
+  "snapshot_id": "MCw2OTczNDk2YzE0Mzc1OGI4ZDg2YTViZDY4MjZlZjk4MzBlYTIyZGYw",
   "tracks": [
     {
       "added_at": "2023-09-26 13:28:39",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Calm Wind",
-        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
-      },
-      "artists": [
-        {
-          "name": "Elfrieda",
-          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
-        }
-      ],
-      "duration_ms": 140102,
-      "name": "Calm Wind",
-      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Forevermore",
         "url": "https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 154311,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Calm Wind",
+        "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
+      },
+      "artists": [
+        {
+          "name": "Elfrieda",
+          "url": "https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t"
+        }
+      ],
+      "duration_ms": 140102,
+      "name": "Calm Wind",
+      "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "land in sight",
         "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 139515,
       "name": "Dreamt, far hope...",
       "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "When It\u00b4s Love",
-        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
-      },
-      "artists": [
-        {
-          "name": "Junie Oakes",
-          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
-        }
-      ],
-      "duration_ms": 162047,
-      "name": "When It\u00b4s Love",
-      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Wreszcie",
         "url": "https://open.spotify.com/album/68AlPgfClESbRVI28gvegI"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175825,
       "name": "Wreszcie",
       "url": "https://open.spotify.com/track/535EYYpCRKqg0Z9H0v3u1x"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "When It\u00b4s Love",
+        "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "duration_ms": 162047,
+      "name": "When It\u00b4s Love",
+      "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "heart pieces",
-        "url": "https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "heart pieces",
-      "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 120202,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "heart pieces",
+        "url": "https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "heart pieces",
+      "url": "https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "campfire",
-        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 186701,
-      "name": "campfire",
-      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Schatze",
         "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 155097,
       "name": "Schatze",
       "url": "https://open.spotify.com/track/21qsu8rj7gvICuv0P6ZzsW"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "campfire",
+        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 186701,
+      "name": "campfire",
+      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180061,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "I Still Miss You",
-        "url": "https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA"
-      },
-      "artists": [
-        {
-          "name": "Boil The Ocean",
-          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
-        }
-      ],
-      "duration_ms": 126285,
-      "name": "I Still Miss You",
-      "url": "https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Troms\u00f8",
         "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 131071,
       "name": "Troms\u00f8",
       "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "I Still Miss You",
+        "url": "https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA"
+      },
+      "artists": [
+        {
+          "name": "Boil The Ocean",
+          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
+        }
+      ],
+      "duration_ms": 126285,
+      "name": "I Still Miss You",
+      "url": "https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Piacenza",
-          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
-        }
-      ],
-      "duration_ms": 254528,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Along dammed rivers",
         "url": "https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 135310,
       "name": "Along dammed rivers",
       "url": "https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Piacenza",
+          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
+        }
+      ],
+      "duration_ms": 254528,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
     },
     {
       "added_at": "2023-09-26 13:28:39",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-09-26 13:28:39",
       "album": {
-        "name": "Felt Improv No. 31",
-        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
-      },
-      "artists": [
-        {
-          "name": "Niall Byrne",
-          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
-        }
-      ],
-      "duration_ms": 144042,
-      "name": "Felt Improv No. 31",
-      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
-    },
-    {
-      "added_at": "2023-09-26 13:28:39",
-      "album": {
         "name": "Passagio",
         "url": "https://open.spotify.com/album/3y5HHPF2VgKt5GOEKEIFzO"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 166000,
       "name": "Passagio",
       "url": "https://open.spotify.com/track/3vWbxJ46hMwj3XsiEnKH19"
+    },
+    {
+      "added_at": "2023-09-26 13:28:39",
+      "album": {
+        "name": "Felt Improv No. 31",
+        "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "duration_ms": 144042,
+      "name": "Felt Improv No. 31",
+      "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
     },
     {
       "added_at": "2023-09-26 13:28:39",

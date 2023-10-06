@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-460 songs - 17 hr 54 min
+462 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Centraal](https://open.spotify.com/track/5fQZSvFRYJpv5etKkAe7LW) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Centraal](https://open.spotify.com/album/4tIVNhQ7RcIEPtTqbGnPwm) | 2:10 | 2022-07-08 | 2022-09-03 |
 | [Chi\-town](https://open.spotify.com/track/6IlUL7y90tJ87q4f37egWZ) | [55 South](https://open.spotify.com/artist/6Fu4AVSoxW8zh9MB1yuotB) | [Chi\-town](https://open.spotify.com/album/4UswIixSDaHuBY5YdrBQi7) | 2:41 | 2021-11-11 | 2022-10-29 |
 | [Chill](https://open.spotify.com/track/6NGD01CPuqp51bQaqsFt7K) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Chill](https://open.spotify.com/album/2j97456R7s5j6CSjyFQYsQ) | 1:24 | 2022-09-02 |  |
-| [Chill Day](https://open.spotify.com/track/5OcOe5TzjRmq7c40QwD0Dz) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Chill Day](https://open.spotify.com/album/3s66orZ9ESKD4dWGEGKxze) | 2:40 | 2022-04-08 |  |
+| [Chill Day](https://open.spotify.com/track/5OcOe5TzjRmq7c40QwD0Dz) | [Tundra Beats](https://open.spotify.com/artist/5j4yh8KxZ3yfg1cHsD24qD) | [Chill Day](https://open.spotify.com/album/3s66orZ9ESKD4dWGEGKxze) | 2:40 | 2022-04-08 | 2023-10-06 |
 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 | 2021-11-11 |  |
 | [Chillin' in the Sun](https://open.spotify.com/track/0uyEGgr3OdDoYqBxd8nfFf) | [connectEcut](https://open.spotify.com/artist/2TQBOHcwPCSpMwkwIBTcgs) | [Chillin' in the Sun](https://open.spotify.com/album/6cSafbjaMjy10JeEtp1II8) | 2:20 | 2023-06-15 | 2023-09-22 |
 | [Chips](https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Chips & Dip](https://open.spotify.com/album/1wIX39AruT1zSwkSldKSQR) | 1:30 | 2021-11-11 | 2022-05-20 |
@@ -238,6 +238,7 @@
 | [Lush 002](https://open.spotify.com/track/1xdSbbuFi2g5bpe01pBgQc) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Lush 002](https://open.spotify.com/album/07sedSgl049zrehDvzA2Si) | 2:54 | 2021-11-11 | 2022-10-29 |
 | [Lush Lush Lake](https://open.spotify.com/track/0Dl6gERwFQMIEl2br6Dmcn) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Lush Lush Lake](https://open.spotify.com/album/6UZspmwJnmXPbVg4ilUvtB) | 2:27 | 2022-08-05 |  |
 | [lustig](https://open.spotify.com/track/4PqKF4AvWgQLDh7hUYdYtc) | [Izidore x](https://open.spotify.com/artist/2z2cKX1dfFL2jBrOXRjVKd) | [lustig](https://open.spotify.com/album/0mlMroJGJndveu0n7an5ak) | 2:09 | 2021-11-11 |  |
+| [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Margarita](https://open.spotify.com/track/6DVwiQukdfBBjUf2xhJzc6) | [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1), [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L) | [Margarita](https://open.spotify.com/album/1jfMmPZV2B0Lt2ZoO8dSxJ) | 1:56 | 2022-09-16 |  |
 | [Marina](https://open.spotify.com/track/17PROObHIS1XhbbG6tRTAn) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Marina](https://open.spotify.com/album/2M8mb6VAiaOY70o0VKOYUz) | 1:51 | 2022-11-11 |  |
 | [Marina](https://open.spotify.com/track/7ATlRRgDj6ZmDs3aek901j) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Marina](https://open.spotify.com/album/11DuqBOfbcqsdna5XOLsU7) | 1:51 | 2022-09-30 | 2022-11-20 |
@@ -399,6 +400,7 @@
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2021-11-11 |  |
 | [The Daily Special](https://open.spotify.com/track/0cymQFMEAd4himK9cKzwEw) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Solar Daze](https://open.spotify.com/album/3TMRES3rVh3fKhri7JYgHW) | 2:12 | 2022-08-12 | 2022-11-20 |
 | [The Daily Special](https://open.spotify.com/track/5dcMlKN1C2ClRibYqMQ9K4) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv) | [Solar Daze](https://open.spotify.com/album/7oGRn9KKdNkyl2zfox62Vm) | 2:12 | 2022-11-11 |  |
+| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
 | [The Love Pool](https://open.spotify.com/track/0S4I0Y3T6DiQFbF7Mh9TZl) | [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl), [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7) | [The Love Pool](https://open.spotify.com/album/4Y8QUPvEtBLx6nJ2R0aU7z) | 3:12 | 2022-08-05 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2021-11-11 | 2022-05-27 |
 | [The Package Deal](https://open.spotify.com/track/4pNLT2LaDsj5jnW4DuPHlf) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Humidity](https://open.spotify.com/album/1VYKpdugWpXoVVMoGRMW83) | 2:42 | 2021-11-11 | 2022-05-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,548 likes - 61 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,558 likes - 61 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 60 | [Dance Instructor](https://open.spotify.com/track/0UdNGLNaYaqiMpTsrCi3r3) | [Chlär](https://open.spotify.com/artist/3lJoRDjlvFXZLvSRVeM6m8) | [Dance Instructor EP](https://open.spotify.com/album/28XJ3H40CXDsD2p6J6VKme) | 6:58 |
 | 61 | [G6X6](https://open.spotify.com/track/2teXquZs3LwcobshxNf5lA) | [SPLT](https://open.spotify.com/artist/1s8eZ4SsbJIW7bxqICUCuB) | [G6X6](https://open.spotify.com/album/4zJ9LcUPGMvuJ2IBm5Iwmx) | 5:26 |
 
-Snapshot ID: `MCxjNjIwMTAxNmU1ZDE3OTVhZmFjYjVhMTM5YTdlOTg1MzcyMWI5YWVj`
+Snapshot ID: `MCw3ZTAwODQ2ZTYwMzQ0YmI0MjQ3ZjQ3ZTVlYWNlMWZhNWM5MTFjMTVi`

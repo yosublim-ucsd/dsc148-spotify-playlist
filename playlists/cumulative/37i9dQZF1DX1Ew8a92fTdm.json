@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "bed time",
+        "url": "https://open.spotify.com/album/5fR1HshvZCTlzHsEdB6Ya4"
+      },
+      "artists": [
+        {
+          "name": "Little Magic Musicbox",
+          "url": "https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137555,
+      "name": "bed time",
+      "url": "https://open.spotify.com/track/0KZ1vXjd46nN3tC0MKTaVr"
+    },
+    {
+      "album": {
         "name": "The Stars Are Wonderful",
         "url": "https://open.spotify.com/album/1n3MMITwDgyGQMSmsf98Jd"
       },
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Morning Serenade",
+        "url": "https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO"
+      },
+      "artists": [
+        {
+          "name": "Catherine Finch",
+          "url": "https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Morning Serenade",
+      "url": "https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz"
+    },
+    {
+      "album": {
         "name": "My Beautiful Angel",
         "url": "https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO"
       },
@@ -2468,6 +2504,24 @@
       "duration_ms": 83449,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/7EVs1qboR5V7XYt9feFQCv"
+    },
+    {
+      "album": {
+        "name": "Now The Night Is Here",
+        "url": "https://open.spotify.com/album/6vXjAqFBvtxbztAH7flXLU"
+      },
+      "artists": [
+        {
+          "name": "Hampus I Backen",
+          "url": "https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125318,
+      "name": "Now The Night Is Here",
+      "url": "https://open.spotify.com/track/3YYIWnW0I3mmRJFBnLguL4"
     },
     {
       "album": {
@@ -3188,6 +3242,24 @@
       "duration_ms": 83579,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB"
+    },
+    {
+      "album": {
+        "name": "Summer Winds",
+        "url": "https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6"
+      },
+      "artists": [
+        {
+          "name": "My Karlsson",
+          "url": "https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68004,
+      "name": "Summer Winds",
+      "url": "https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters US](https://open.spotify.com/playlist/37i9dQZF1DWSh772jdJpgb)
 
-> Podcasts you need to have on your RADAR: Stories with Sapphire, Affirmations for Black Girls, and Girlish.
+> Podcasts you need to have on your RADAR: Stories with Just the Nobody's, Brown Bag, Scottie & Sylvia and more
 
 9 songs - 6 hr 53 min
 

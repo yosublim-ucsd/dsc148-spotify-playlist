@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,708 likes - 55 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,711 likes - 55 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 10 | [Alusafani](https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Alusafani](https://open.spotify.com/album/4u56tBvuMwxuyvgE4VsnXn) | 3:44 |
 | 11 | [You're the One](https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Elements](https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3) | 3:20 |
 | 12 | [Chomie Lover Friend](https://open.spotify.com/track/3dyDfR7QagBKqnDBcIiicf) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Nobantu Vilakazi](https://open.spotify.com/artist/4WWMOV61TztcNJq3yGKPa7), [Windows 2000](https://open.spotify.com/artist/5uDK5nP0nI8jsTApPjPKq4), [Alie Keys](https://open.spotify.com/artist/1GXwvsKGbhtxZ6nBjV2liL) | [Solomon](https://open.spotify.com/album/3Yx3a2caBpL5Id5c6hkaru) | 4:03 |
-| 13 | [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 |
+| 13 | [Uthando](https://open.spotify.com/track/1YM8eKv3LsaMOBpBI2kTc2) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [The Best Africa Album In The World...Ever!](https://open.spotify.com/album/3ZPCY10NmTf5etbsi0z89m) | 4:53 |
 | 14 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 |
 | 15 | [Lilizela](https://open.spotify.com/track/41TtI0J1rOyGARRCWHHOhr) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama](https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm) | 4:07 |
 | 16 | [Suited](https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Rose Gold](https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML) | 3:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 54 | [Ngiphelele](https://open.spotify.com/track/4E5JMQvCv7Bzt3E04hvxY2) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Love and Respect](https://open.spotify.com/album/3tEgPrJtHZJDLvWwd2w8Kc) | 4:23 |
 | 55 | [Love Letter](https://open.spotify.com/track/3dlP7Y2nKQcg3djavKhlrD) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Umuthi](https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU) | 4:31 |
 
-Snapshot ID: `MCw0NjYzNTEwNmIyMDkxM2JiOTBhZDcyYWFhMzNhZmIwY2M3Yjg4OWZh`
+Snapshot ID: `MCwyNjExOTExNTY1NmJmNWMwMGM1MGQ2MDIxNDIxNGVkMmY0MDE4ODA2`

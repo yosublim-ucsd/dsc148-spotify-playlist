@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. lake malice",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. dorian electra",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 178195,
       "name": "BULLET MAN",
       "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 177206,
       "name": "Drag Me To Hell",
       "url": "https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F"
@@ -4693,6 +4693,24 @@
     },
     {
       "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/2R457N9XlrnMJdnvZE4q2V"
+      },
+      "artists": [
+        {
+          "name": "NO PHOTOS",
+          "url": "https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135757,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/31JgkeYLMlgzZgmFBStbeG"
+    },
+    {
+      "album": {
         "name": "GROWING INTO IT",
         "url": "https://open.spotify.com/album/3D7hmJmOmHh1Tp1UUO9K7U"
       },
@@ -5832,6 +5850,24 @@
       "duration_ms": 157466,
       "name": "IDC",
       "url": "https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t"
+    },
+    {
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145414,
+      "name": "Idolize",
+      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
     },
     {
       "album": {

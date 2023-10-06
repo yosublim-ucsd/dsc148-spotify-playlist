@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Office Dog \| Artwork: Jim Klok
 
-1,172 songs - 2 day 16 hr 1 min
+1,173 songs - 2 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,7 +1017,8 @@
 | [Taking Up Sports](https://open.spotify.com/track/0dlGaLCdoDKcrK7v3tdBHb) | [Cherym](https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5) | [Taking Up Sports](https://open.spotify.com/album/5ogRaa13BvMAVcxVnOnsSf) | 3:04 | 2023-07-19 |  |
 | [Talk About It](https://open.spotify.com/track/7MjNm0HZCObGbmjZ8XoArS) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Talk About It](https://open.spotify.com/album/3ctj9h3HAz77lZx0YOhPLl) | 4:02 | 2023-08-09 |  |
 | [Talk It Out](https://open.spotify.com/track/1oZi5VyS06UFkxzAtJxwCJ) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Talk It Out](https://open.spotify.com/album/4dCjjXeMR4GTb04B9Gn1XH) | 4:04 | 2021-12-01 | 2022-02-03 |
-| [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-30 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-30 | 2023-10-06 |
+| [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-10-04 |  |
 | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/track/1a2rkkSxS9IZqeHT4OxsTU) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0) | [Tamaryn \(Wherever I Am\)](https://open.spotify.com/album/0ZLQTyn9N2uQGkLall22Ay) | 4:18 | 2021-12-01 | 2022-03-24 |
 | [Tangled dreams](https://open.spotify.com/track/375bXAagCpRqKryMnAPIFE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/3SF7QZpzKxAWJZCx1PyrgJ) | 4:17 | 2023-06-07 | 2023-08-10 |
 | [Teal](https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Teal](https://open.spotify.com/album/4bKMQzd1vuZftMTcoEwqg0) | 3:10 | 2021-12-01 | 2022-01-27 |

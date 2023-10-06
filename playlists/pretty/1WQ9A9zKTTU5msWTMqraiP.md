@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 245 songs - 17 hr 0 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 246 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,7 +232,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 222 | [The Age Of Retribution](https://open.spotify.com/track/7glKDqyB2UzoVxaLbuMecH) | [Marina](https://open.spotify.com/artist/5uHdXtqI5H3T17ovMtkqWs) | [The Age Of Retribution](https://open.spotify.com/album/1PF0EZ7ybb93sr1HpmGm6P) | 2:56 |
 | 223 | [Ov Fire and Sulphur](https://open.spotify.com/track/5l9EHkZKRjARvZ5WDFuSID) | [To Obey a Tyrant](https://open.spotify.com/artist/1s1OmCqLXfLqrRhc6evxtl), [Dan Tucker of Crown Magnetar](https://open.spotify.com/artist/5G99p7ce6nEdG5wzajCeWN) | [Ov Fire and Sulphur](https://open.spotify.com/album/75lYvKbe2qsNCSAZM4KDV9) | 5:55 |
 | 224 | [Autophagia](https://open.spotify.com/track/5uB202EdBAq3iX9zv1QfLo) | [Xenobiotic](https://open.spotify.com/artist/2u1BlwLG9qYtUH6KU6xiNJ) | [Autophagia](https://open.spotify.com/album/5UcNqAy5k9pO1w0At6AN27) | 3:47 |
-| 225 | [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 |
+| 225 | [BAD BLOOD II](https://open.spotify.com/track/6aXRrRHk2pb3DxnZ4PXTAS) | [Reminitions](https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB), [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM), [Tyler Miller](https://open.spotify.com/artist/4SfGXpHSewqIj7QZU8ZstL) | [BAD BLOOD II](https://open.spotify.com/album/7rzwS69sMa2e9MmMJ0TV12) | 4:05 |
 | 226 | [Bleed Or Believe](https://open.spotify.com/track/6n51TISVIwlNyLyb7RYjwV) | [Raise the Death Toll](https://open.spotify.com/artist/2MxIHokKnCTGMYDHqwpgyv), [Jai Benoit of Golgothan](https://open.spotify.com/artist/636GS0r5hnL64Z6N8PGwQd) | [Bleed Or Believe](https://open.spotify.com/album/13BRID57L4cLgqWoueiOF6) | 4:04 |
 | 227 | [Divine Apostasy](https://open.spotify.com/track/16MJbjMJA8IfMKMP40YoSc) | [SIX ATL](https://open.spotify.com/artist/3XdzHDdX4jNQa2uxoJr2rK) | [Divine Apostasy](https://open.spotify.com/album/5Tj05hhRkoa9gfqIRQ8a1k) | 3:10 |
 | 228 | [Universe 25](https://open.spotify.com/track/7a7QHfoJjh6RiIgUfN50Lc) | [SURGEON](https://open.spotify.com/artist/2dFTnRb7enPY78wtu7wvSQ) | [Universe 25](https://open.spotify.com/album/6OcdlM15fgxe415rtHkYYy) | 4:03 |
@@ -253,5 +253,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 243 | [In the Sunken City of R'lyeh](https://open.spotify.com/track/5VEOHixKs1O0DLAct8j0TW) | [Sphinx](https://open.spotify.com/artist/3JvCAKTxqFsRY3QtHkDjMp) | [In the Sunken City of R'lyeh](https://open.spotify.com/album/284kiY1mTW4A7UwqR3gNa5) | 4:26 |
 | 244 | [The Curse](https://open.spotify.com/track/4nZtrosAnW8gZWZiwClKBr) | [It Comes at Night](https://open.spotify.com/artist/0BmwjZW5Ksdz1uRs70IRLl) | [The Curse](https://open.spotify.com/album/3qZp5YQttKPPljhc0uLWnY) | 3:38 |
 | 245 | [Bound in Misery](https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6) | [Impuritan](https://open.spotify.com/artist/6WPUYW0KEbNPqs7Ipxl1jJ) | [Wrath](https://open.spotify.com/album/2i9pSs1QY4rFJ2ETZoORH0) | 3:31 |
+| 246 | [A Flicker Of Life](https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1) | [The Voynich Code](https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj) | [A Flicker Of Life](https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3) | 4:21 |
 
-Snapshot ID: `MzUyLDQ2NDY0NTIwOThhYWZkZWQxNjVmYmNkODQ1MTAwYmM3YzBmZTExMzY=`
+Snapshot ID: `MzUzLGIxNjA2Mjk5ZTc1OGVmNmM3ODQyOWZhNTZlN2JlMTMxZDlkNGU0M2E=`

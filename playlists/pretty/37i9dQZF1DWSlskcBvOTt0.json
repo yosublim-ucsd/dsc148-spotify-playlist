@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 420859,
+  "num_followers": 421091,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDlmMTQyMDA0MzU5NjA0OGVkMTU0ZTAxNDg4ZTI3ZTgyYjk2OGMw",
+  "snapshot_id": "MCxmNmQwZWE1MTZmNDhhZmYyNDlkZGUyZDNmMTkwZmI5MWQxMGFhNTZi",
   "tracks": [
     {
       "added_at": "2023-09-29 13:14:28",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Temple Of Dreams (Remixes Part 1)",
+        "url": "https://open.spotify.com/album/50foag5P06HSWOkVrnZg33"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Tijuana - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Cure My Desire (feat. Clementine Douglas) [Themba Remix]",
         "url": "https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi"
       },
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Temple Of Dreams (Remixes Part 1)",
-        "url": "https://open.spotify.com/album/50foag5P06HSWOkVrnZg33"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Tijuana - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/6XzYPtLcf1pVmjZ1y2k5T0"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "I Know You",
         "url": "https://open.spotify.com/album/2CXL7xliVASXyKWYoJfu3Q"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 232131,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Embrace Me Now",
-        "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Embrace Me Now - Techno Radio Edit",
-      "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1387,6 +1371,22 @@
       "duration_ms": 241716,
       "name": "Another Brick In The Wall",
       "url": "https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Embrace Me Now",
+        "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Embrace Me Now - Techno Radio Edit",
+      "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Wespennest",
         "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 210243,
       "name": "Wespennest - Edit",
       "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1643,6 +1643,38 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 273250,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Piano Republik (Remixes)",
         "url": "https://open.spotify.com/album/0rq3Jg8TCAfln9gJIwBBh8"
       },
@@ -1667,38 +1699,6 @@
       "duration_ms": 401064,
       "name": "Oh Yeah - Ape Drums Remix",
       "url": "https://open.spotify.com/track/1jk27KIDpTs4L4UHLgu2oJ"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/08sIlCIFAfna5R07yRrVTj"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 273250,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/1vJj7yCeCtimK37DCfDggZ"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
-      },
-      "artists": [
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Rainchecks In Montreal",
         "url": "https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 480588,
       "name": "Rainchecks In Montreal - Roy Rosenfeld Remix",
       "url": "https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -1947,30 +1947,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Blaze (J.O.P. Remix)",
-        "url": "https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 350375,
-      "name": "Blaze - J.O.P. Remix",
-      "url": "https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/2kjZNNrlthQ6IYg7wTFwRJ"
       },
@@ -2047,18 +2023,26 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Malmedy",
-        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
+        "name": "Blaze (J.O.P. Remix)",
+        "url": "https://open.spotify.com/album/4jmzrmMmTgBydXQCqnPHL9"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
         }
       ],
-      "duration_ms": 342813,
-      "name": "Malmedy",
-      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
+      "duration_ms": 350375,
+      "name": "Blaze - J.O.P. Remix",
+      "url": "https://open.spotify.com/track/5FOt1Zf0nRcmuwk2czDOXj"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2087,22 +2071,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Die Dunkle Biene",
-        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
-      },
-      "artists": [
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 465833,
-      "name": "Die Dunkle Biene",
-      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Intuici\u00f3n",
         "url": "https://open.spotify.com/album/5Se3Q7PFRqnmC6QefliKUE"
       },
@@ -2119,6 +2087,38 @@
       "duration_ms": 252790,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1UUqAz5dCRcnquV3vOQ4ny"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Die Dunkle Biene",
+        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 465833,
+      "name": "Die Dunkle Biene",
+      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
+        "name": "Malmedy",
+        "url": "https://open.spotify.com/album/7waFlfds2xOWUiUn3YHqfo"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 342813,
+      "name": "Malmedy",
+      "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2295,6 +2295,30 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Learning To Love",
+        "url": "https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Noah Henderson",
+          "url": "https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV"
+        }
+      ],
+      "duration_ms": 255612,
+      "name": "Learning To Love",
+      "url": "https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Sinnerman (Henrik Schwarz Remixes)",
         "url": "https://open.spotify.com/album/2gExT3JhznVFoXzH193gPr"
       },
@@ -2359,26 +2383,6 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Branka",
-        "url": "https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Orbit - Radio Mix",
-      "url": "https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
         "name": "Bad Love (Antdot & Maz Remix)",
         "url": "https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr"
       },
@@ -2403,18 +2407,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Yesterday Lovers EP",
-        "url": "https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD"
+        "name": "Branka",
+        "url": "https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 395662,
-      "name": "Yesterday Lovers",
-      "url": "https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4"
+      "duration_ms": 211600,
+      "name": "Orbit - Radio Mix",
+      "url": "https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2439,18 +2447,18 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
+        "name": "Yesterday Lovers EP",
+        "url": "https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD"
       },
       "artists": [
         {
-          "name": "Gui Boratto",
-          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
         }
       ],
-      "duration_ms": 219212,
-      "name": "Pilgrim",
-      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+      "duration_ms": 395662,
+      "name": "Yesterday Lovers",
+      "url": "https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4"
     },
     {
       "added_at": "2023-09-29 13:14:28",
@@ -2491,6 +2499,22 @@
     {
       "added_at": "2023-09-29 13:14:28",
       "album": {
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Pilgrim",
+      "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"
+    },
+    {
+      "added_at": "2023-09-29 13:14:28",
+      "album": {
         "name": "Stuck In Melodies",
         "url": "https://open.spotify.com/album/0jwW2bXdLRcRadnRYIws3D"
       },
@@ -2503,30 +2527,6 @@
       "duration_ms": 211904,
       "name": "Stuck In Melodies",
       "url": "https://open.spotify.com/track/1wITnMoMLpXEeQOXOjvm37"
-    },
-    {
-      "added_at": "2023-09-29 13:14:28",
-      "album": {
-        "name": "Learning To Love",
-        "url": "https://open.spotify.com/album/3MIFNQDa1cTXyyF8Lp4O4w"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Noah Henderson",
-          "url": "https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV"
-        }
-      ],
-      "duration_ms": 255612,
-      "name": "Learning To Love",
-      "url": "https://open.spotify.com/track/1Mr0bOCAxXGYL1EVX92iS2"
     },
     {
       "added_at": "2023-09-29 13:14:28",

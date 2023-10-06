@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-269 songs - 19 hr 50 min
+270 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Babel](https://open.spotify.com/track/0ZnwzjB40zdTZrEwPvaRqG) | [Otnicka](https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt) | [Babel](https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns) | 3:18 | 2020-12-21 | 2022-10-09 |
 | [Bahja](https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [Bahja](https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd) | 4:17 | 2022-03-13 | 2023-03-18 |
 | [Bangladesh](https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf) | [Esotique](https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF), [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Bangladesh](https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl) | 2:27 | 2023-03-03 |  |
+| [Bayati Siraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Kənan Bayramlı](https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9) | [Bayati Siraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf) | 3:34 | 2023-10-05 |  |
 | [Be Mine](https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Be Mine](https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe) | 3:30 | 2022-06-27 | 2023-03-18 |
 | [Bedouin](https://open.spotify.com/track/2giWbLYx96NCz924ACsaUf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Bedouin](https://open.spotify.com/album/7GyTqPQvMlkEF8Zvw2OFFG) | 6:34 | 2023-08-25 |  |
 | [Beirut](https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Dj Pantelis](https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ) | [Beirut](https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh) | 5:34 | 2021-10-22 |  |
@@ -224,7 +225,7 @@
 | [Schhh](https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Schhh](https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1) | 3:05 | 2020-10-18\* |  |
 | [Sensiz](https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5) | [Lemurian](https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu), [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge) | [Prophecies of the Ancient Future](https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH) | 5:20 | 2020-10-18\* |  |
 | [Seville](https://open.spotify.com/track/4OBoOQTrlGAdBmGVHEP6TE) | [Alì Farahani](https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT), [BuVu](https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy), [Manuel Pajares](https://open.spotify.com/artist/33C3HxFgYr8VLFWGic84oZ) | [Seville](https://open.spotify.com/album/19Yo8qLHZMQWgOxdh57lwn) | 6:39 | 2023-06-09 |  |
-| [Shibren \- El Búho Remix](https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs) | 4:36 | 2023-06-04 |  |
+| [Shibren \- El Búho Remix](https://open.spotify.com/track/0EyVOeAJ3kjfcVkFv2AxxB) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/7lwzhzgV4j0WKksieLPrAs) | 4:36 | 2023-06-04 | 2023-10-06 |
 | [Shibren \- El Búho Remix](https://open.spotify.com/track/4roiNsekTEbswR2eofsjFN) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm) | 4:36 | 2022-10-14 | 2023-04-29 |
 | [Shibren \- El Búho Remix](https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Tributaries: A Remix Album \(El Búho Remixes\)](https://open.spotify.com/album/05SkQ3cqcaIaP4Oo5N9r4i) | 4:36 | 2022-01-14 | 2022-10-13 |
 | [Silent](https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP) | [Silent](https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR) | 2:52 | 2020-10-18\* |  |

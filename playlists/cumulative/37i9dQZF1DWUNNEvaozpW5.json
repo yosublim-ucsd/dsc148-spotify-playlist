@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Arco.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Los Zigarros.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 156235,
       "name": "(incontrolable)",
       "url": "https://open.spotify.com/track/5fpiMcL81I9166vrKkKTBJ"
+    },
+    {
+      "album": {
+        "name": "Acantilados",
+        "url": "https://open.spotify.com/album/4hVXwiwBAae93kGJGVTC9A"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277563,
+      "name": "100.000 bolas de cristal",
+      "url": "https://open.spotify.com/track/1jSckKpjmiD5FERZ0Jpiqo"
     },
     {
       "album": {
@@ -6140,7 +6158,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 293466,
       "name": "Una noche de amor desesperada",
       "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"

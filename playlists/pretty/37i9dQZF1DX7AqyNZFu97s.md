@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Kayleigh Noble
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,499 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,521 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 29 | [Better Lay Low](https://open.spotify.com/track/1FDVWvo1RzjnYiQ0wvNLZq) | [Rebel Bunny](https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [Better Lay Low](https://open.spotify.com/album/79kiS9QDvw6BZXAkHADA2l) | 2:41 |
 | 30 | [fun](https://open.spotify.com/track/07165YCRr4sxyKLxNN3Uj9) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD) | [fun](https://open.spotify.com/album/6OgslpzfOoNVgkUsWRnCTV) | 2:49 |
 | 31 | [Beds Of Stone](https://open.spotify.com/track/76VK9JlUhk0WrfIEwJnn2h) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [Beds of Stone](https://open.spotify.com/album/4EIkWbrNiUEjPo9Ia2U0AE) | 4:18 |
-| 32 | [PANIC!](https://open.spotify.com/track/2VVY57zmz52jAJzVTjyuDK) | [Montykeates](https://open.spotify.com/artist/5aOWIYpB1ato7lLGn4jtpl) | [PANIC!](https://open.spotify.com/album/53FJsFhVT7SzACeuRmWaV1) | 3:11 |
+| 32 | [PANIC!](https://open.spotify.com/track/2VVY57zmz52jAJzVTjyuDK) | [montykeates](https://open.spotify.com/artist/3dNJsS411SbdjwgbsQfEtg) | [PANIC!](https://open.spotify.com/album/53FJsFhVT7SzACeuRmWaV1) | 3:11 |
 | 33 | [Only One](https://open.spotify.com/track/0S1nrhZQ0bqQMrygVlDil8) | [Junior Andre](https://open.spotify.com/artist/4eO9fhg3LPhptayuHVwmqF) | [Only One](https://open.spotify.com/album/5SBgVEv4utAZscxDbLSee5) | 2:33 |
 | 34 | [Bathe in Your Waters](https://open.spotify.com/track/4SdFBzaP4vKHPMJqBAlZAY) | [Nãnci Correia](https://open.spotify.com/artist/3TuzunWLxqHTnmO46Z9yx7) | [Bathe in Your Waters](https://open.spotify.com/album/0DEMbW4XhP8GgXavasdbne) | 5:29 |
 | 35 | [only as much](https://open.spotify.com/track/4JuoJjhHhTLPqL7Wvp3pUe) | [elmss](https://open.spotify.com/artist/61uT1cKcVF6GSdsbU99LBY) | [only as much](https://open.spotify.com/album/5ReqEBjZq1YO9tkquxbymm) | 3:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Planefield2](https://open.spotify.com/track/5qI36xa23gmaoOEX264KdX) | [Gonçalo BC](https://open.spotify.com/artist/33ggho2vYzjpgOqdjzbSvi) | [Planefield2](https://open.spotify.com/album/16gZmN9kjhpRwrPgT21inq) | 4:14 |
 | 80 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 |
 
-Snapshot ID: `MCw0NjRhZDg0NTM4NWEyNTkzNGNmNzdjNmYxMmNiZTA5YjJmOGZkOWMw`
+Snapshot ID: `MCwzZDM1ZjYxNjg3NmRkNzhlZGZmNmM5ZjNmNmU3ZDI0ZDc0NjRjZDky`

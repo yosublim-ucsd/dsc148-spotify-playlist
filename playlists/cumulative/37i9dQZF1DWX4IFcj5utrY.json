@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7?si=Rxd-PmdDS1uewUM6xyLcRw\">GoldFish</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=ioGpAv4HRSGt0DW1r3kQrg\">FKA Mash</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -6767,6 +6767,32 @@
     },
     {
       "album": {
+        "name": "Hey Sister",
+        "url": "https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Funky Qla",
+          "url": "https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373605,
+      "name": "Hey Sister",
+      "url": "https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg"
+    },
+    {
+      "album": {
         "name": "High Ibiza",
         "url": "https://open.spotify.com/album/3cyhCDZcIm0ow00iYYpnlp"
       },
@@ -7945,7 +7971,7 @@
         },
         {
           "name": "Sykes",
-          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
         },
         {
           "name": "Zaba",
@@ -8577,7 +8603,7 @@
         },
         {
           "name": "Sykes",
-          "url": "https://open.spotify.com/artist/5EjeN8ChFDW6lRHfrdnW2W"
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
         }
       ],
       "date_added": "2023-09-29",
@@ -10053,6 +10079,32 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4Y4Y3cyycPTRDawz6U8irG"
+      },
+      "artists": [
+        {
+          "name": "Jullian Gomes",
+          "url": "https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi"
+        },
+        {
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r"
+    },
+    {
+      "album": {
         "name": "Let Me Tell You",
         "url": "https://open.spotify.com/album/007pfmehM2aiyu80BUM1cQ"
       },
@@ -10212,6 +10264,28 @@
       "duration_ms": 278442,
       "name": "Lies",
       "url": "https://open.spotify.com/track/5nYMLSYNPq1NtmWauaxMJw"
+    },
+    {
+      "album": {
+        "name": "LAYKI EP",
+        "url": "https://open.spotify.com/album/4CJn4LY3EgQKL3gwQDNfYI"
+      },
+      "artists": [
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374465,
+      "name": "Life As You Know It",
+      "url": "https://open.spotify.com/track/1YSr5YbdrChZR7yzyjRTXn"
     },
     {
       "album": {
@@ -19696,6 +19770,36 @@
       "duration_ms": 259306,
       "name": "Woza",
       "url": "https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126"
+    },
+    {
+      "album": {
+        "name": "Xola",
+        "url": "https://open.spotify.com/album/1IAxsjPIP3XXPhTiVkuzzL"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443250,
+      "name": "Xola",
+      "url": "https://open.spotify.com/track/570Syf2dv71r5dVvviXkro"
     },
     {
       "album": {

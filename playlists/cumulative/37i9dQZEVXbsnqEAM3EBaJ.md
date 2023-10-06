@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-863 songs - 2 day 11 hr 14 min
+864 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Livin' On The Edge \- CHR Edit](https://open.spotify.com/track/4cLkmQ5xLuBxAJowQeY0xa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Greatest Hits \(Deluxe\)](https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC) | 5:41 | 2023-09-01 | 2023-09-06 |
 | [Living in the past](https://open.spotify.com/track/1TzlQZCtmoPzsZUt1z2BZ7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Living in the past](https://open.spotify.com/album/5K7oSjHEwb8d0WKnBtUJoj) | 4:36 | 2023-03-24 | 2023-04-01 |
 | [Living on the edge of the night \(A Gothic anthem\)](https://open.spotify.com/track/4GIXwwzePSz4qxaNQLCnu7) | [Blutengel](https://open.spotify.com/artist/2SRu9oxCg91Omb2yMFzttR) | [Living on the edge of the night \(A Gothic anthem\)](https://open.spotify.com/album/1gLDPYPJN6vlhjeTMPg1ZH) | 4:30 | 2023-03-03 | 2023-03-25 |
+| [Llama Gemela \(Gianny\)](https://open.spotify.com/track/7CoXF89Gs8GvXhtz7JXcq6) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Hilo del Tiempo](https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg) | 5:01 | 2023-09-29 |  |
 | [Llama Violeta Chamánica](https://open.spotify.com/track/5bWnTEQIoOO1mnZfHqw79K) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [Llama Violeta Chamánica](https://open.spotify.com/album/2IqPZLo79cNQwnLu8Rrjh1) | 8:28 | 2023-08-25 | 2023-09-24 |
 | [Llegué Donde No Venía](https://open.spotify.com/track/0QgFxkXwGL7aYAUbMBZvX6) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Sin Por Qué](https://open.spotify.com/album/58ifITpwXtUlM7oAuO1UEv) | 4:21 | 2023-03-24 | 2023-03-26 |
 | [Loose Ends \- Live at Continental Airlines Arena, E\. Rutherford, NJ \- 7/18/1999](https://open.spotify.com/track/1DwjL5CZ8XNTGQg6rhozcJ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs of Introspection](https://open.spotify.com/album/081au3yAEkZzrbrmjRGb1w) | 4:19 | 2023-08-25 | 2023-08-27 |
@@ -669,7 +670,7 @@
 | [Sometimes You Lose Before You Win](https://open.spotify.com/track/2c4goRObjUsHBWfXS9xBRB) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Sometimes You Lose Before You Win](https://open.spotify.com/album/17CJhGkrhZomJmYP0WSFrK) | 3:29 | 2023-09-01 | 2023-09-20 |
 | [Somos el presente](https://open.spotify.com/track/3ak013wOBFAGdEfPYqBjy1) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Somos el presente](https://open.spotify.com/album/7pKC2QqGYbj6DskPv4wyE2) | 5:29 | 2023-05-26 | 2023-06-25 |
 | [Sostenibile](https://open.spotify.com/track/6wfqbUgJZ6YfNATUrntv6f) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Giulio Wilson](https://open.spotify.com/artist/33aEMBHiyvhAdzcUZ3Nflz) | [Sostenibile](https://open.spotify.com/album/57jIf6qF9vJN29QvoiaJFu) | 3:48 | 2023-03-10 | 2023-03-18 |
-| [Sosteniendo la Visión](https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Hilo del Tiempo](https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg) | 6:03 | 2023-09-29 |  |
+| [Sosteniendo la Visión](https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK) | [Iván Donalson](https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg) | [El Hilo del Tiempo](https://open.spotify.com/album/4wGsXVkJVkyl6XttneSkyg) | 6:03 | 2023-09-29 | 2023-10-06 |
 | [Space Age Love Song \(Re\-Recorded\) \[Slowed + Reverb\]](https://open.spotify.com/track/76MVyYDPhbaLhsNwGtXUkq) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 4:48 | 2023-06-16 | 2023-06-30 |
 | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\]](https://open.spotify.com/track/1PGbSZhAeh25BhUZjsVbVT) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 2:56 | 2023-06-16 | 2023-07-09 |
 | [Space Age Love Song \- Re\-Recorded](https://open.spotify.com/track/28LxTfKx6IPLU5HczfQsOe) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Space Age Love Song \(Re\-Recorded\) \[Sped Up\] \- Single](https://open.spotify.com/album/3tT28s54qwwB72lRK56iAb) | 3:48 | 2023-06-30 | 2023-07-08 |

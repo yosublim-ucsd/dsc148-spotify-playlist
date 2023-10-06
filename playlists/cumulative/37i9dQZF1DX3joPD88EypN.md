@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-137 songs - 12 hr 25 min
+138 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dansere](https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Bobo Stenson Quartet](https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE) | [Dansere](https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5) | 15:03 | 2022-06-01 |  |
 | [Divining](https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Drifting](https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn) | 1:11 | 2023-01-19 |  |
 | [Doubt Thou the Stars](https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jonas Simonson](https://open.spotify.com/artist/7KFeDGbNWccsF7HNisT6YG), [Karin Nelson](https://open.spotify.com/artist/1GrSyUfEJBADQaeF2HhbNV) | [Tantum](https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u) | 3:11 | 2022-06-01 |  |
+| [Earthbeat \- Single Edit](https://open.spotify.com/track/74ZDuZ6IzMjxJz7Gq72WC4) | [Tuomas Paukku Scription](https://open.spotify.com/artist/71OhqiVpT4D9PqQlUYLXD1) | [Earthbeat](https://open.spotify.com/album/1fowrT0sKZSEHUALZZU7PO) | 5:56 | 2023-09-29 |  |
 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 | 2022-06-01 |  |
 | [Endless](https://open.spotify.com/track/0B9sDqvIGA0xlJaiyzjnHv) | [Kjetil Mulelid Trio](https://open.spotify.com/artist/474vK8QpU3WL9RxRCmo5cX) | [Endless](https://open.spotify.com/album/55VI95f9lqZuDrc0xZIlrD) | 5:01 | 2022-06-01 | 2023-09-16 |
 | [Evening Song for B](https://open.spotify.com/track/19BhmK2rIrBOipvfxct6Cc) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Sun Blowing](https://open.spotify.com/album/25n7RtSqchU8ESw2ZuaOiz) | 4:23 | 2022-06-01 | 2023-09-01 |
@@ -44,7 +45,7 @@
 | [Fanfar](https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB) | [Thommy Andersson](https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6) | [Wood Circles](https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP) | 5:23 | 2022-06-01 |  |
 | [Few Words](https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg) | [BRØK](https://open.spotify.com/artist/5emddJsOKVCbiP7F6IAvdR), [Jacob Bredahl Djursaa](https://open.spotify.com/artist/2a7808Szfjwnfz7T9Alafn), [Thomas Fryland](https://open.spotify.com/artist/7q0OI8V8UXfXdELdumA6hu), [Niklas Gjersøe](https://open.spotify.com/artist/3qGoEwAz9Ux1UWusBsb21q), [Hans Kristian Knold](https://open.spotify.com/artist/7IVPTCpHk3dG2owrbvST5y) | [Few Words](https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8) | 1:41 | 2023-06-22 |  |
 | [Fisherman's Wharf](https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq) | [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Fisherman's Wharf](https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx) | 3:49 | 2022-06-01 |  |
-| [Flying Thing \- Remastered](https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Magnetic North Orchestra](https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh) | [Magnetic Works 1993\-2001](https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L) | 4:56 | 2022-06-01 |  |
+| [Flying Thing \- Remastered](https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Magnetic North Orchestra](https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh) | [Magnetic Works 1993\-2001](https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L) | 4:56 | 2022-06-01 | 2023-10-06 |
 | [For My Grandmothers](https://open.spotify.com/track/2VONqZkRmyYL8K5TMVfygD) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Ravensburg](https://open.spotify.com/album/2w62NpE5U58lff2IoUiUWR) | 2:49 | 2022-06-01 | 2023-09-16 |
 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 | 2022-06-01 |  |
 | [Height of the Reeds in the Wetlands](https://open.spotify.com/track/5dHQT5wEWr0qMEqh998zGE) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Eivind Aarset](https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC), [Jan Bang](https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107), [Jez Riley French](https://open.spotify.com/artist/5gQJ8Qfhhxflmsz88orRjc) | [The Height of the Reeds](https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe) | 4:23 | 2022-06-01 |  |

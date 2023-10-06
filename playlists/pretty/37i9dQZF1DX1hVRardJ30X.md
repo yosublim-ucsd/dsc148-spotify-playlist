@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,954 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,076 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 |
 | 32 | [Arepa](https://open.spotify.com/track/40SHrq9tTzsYXWEH48M35G) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [INVT](https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D) | [Arepa](https://open.spotify.com/album/6N0m2ooyKKVB90HceeE78X) | 3:24 |
 | 33 | [Sandunguea](https://open.spotify.com/track/4Y4DgE7hqT4XwDgODir0Lh) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Sandunguea](https://open.spotify.com/album/4pfnzgk81dawquIVD10u96) | 2:37 |
-| 34 | [Salsa de Ahora](https://open.spotify.com/track/0owEuZsTB5525nGXNCpgXh) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Salsa de Ahora](https://open.spotify.com/album/2tJozh0xhFgh8zg2Xj28NE) | 2:57 |
+| 34 | [Salsa de Ahora](https://open.spotify.com/track/0owEuZsTB5525nGXNCpgXh) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Jimmy Rodriguez](https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2) | [Salsa de Ahora](https://open.spotify.com/album/2tJozh0xhFgh8zg2Xj28NE) | 2:57 |
 | 35 | [estrella](https://open.spotify.com/track/5ovyRiDD5WWzqsMky8cIBK) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [estrella / nadie](https://open.spotify.com/album/7yHxJ0M0AmGms2zmg5AjR5) | 2:46 |
 | 36 | [Drama](https://open.spotify.com/track/5dZ7znkYz4R9zCz8OHj5IK) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Drama](https://open.spotify.com/album/3fn1M68Gh002OTwb34c7Aq) | 2:44 |
 | 37 | [Ya Se Fue](https://open.spotify.com/track/67hQnBAsUu2fn8EUmK1Sqs) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [JaydanVerso](https://open.spotify.com/album/46NUgKZXVLwRfUlGz2dbwA) | 3:15 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 58 | [Mata](https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C) | [Mata](https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN) | 2:41 |
 | 59 | [De Ti](https://open.spotify.com/track/0v5jq7T9zUZxg89ijW3JfM) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [GALAXY](https://open.spotify.com/album/3pf2eFHL0Fm8jC0gxJD90z) | 2:23 |
 
-Snapshot ID: `MCxlN2RkODlkNWU2NmQ3ZWRiMTAzNjE5ZWZmNTA0Yzg5ZDM1YzM5MGU5`
+Snapshot ID: `MCxmMGY0MWE0NjFlOWY5MTQ3MzVkODBkMzhjYzIzMmI1NDhlNTAyYzNm`

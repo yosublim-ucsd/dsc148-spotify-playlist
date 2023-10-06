@@ -2,7 +2,7 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Luidji
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Monsieur Nov
 
 50 songs - 2 hr 35 min
 

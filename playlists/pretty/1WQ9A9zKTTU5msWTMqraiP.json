@@ -6,7 +6,7 @@
     "name": "Hafitz",
     "url": "https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf"
   },
-  "snapshot_id": "MzUyLDQ2NDY0NTIwOThhYWZkZWQxNjVmYmNkODQ1MTAwYmM3YzBmZTExMzY=",
+  "snapshot_id": "MzUzLGIxNjA2Mjk5ZTc1OGVmNmM3ODQyOWZhNTZlN2JlMTMxZDlkNGU0M2E=",
   "tracks": [
     {
       "added_at": "2022-02-21 00:16:41",
@@ -3940,8 +3940,12 @@
           "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
         },
         {
-          "name": "Aversions Crown",
-          "url": "https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc"
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        },
+        {
+          "name": "Tyler Miller",
+          "url": "https://open.spotify.com/artist/4SfGXpHSewqIj7QZU8ZstL"
         }
       ],
       "duration_ms": 245537,
@@ -4279,6 +4283,22 @@
       "duration_ms": 211546,
       "name": "Bound in Misery",
       "url": "https://open.spotify.com/track/6dDqwJT8ILra6LVsNb8qc6"
+    },
+    {
+      "added_at": "2023-10-05 04:43:05",
+      "album": {
+        "name": "A Flicker Of Life",
+        "url": "https://open.spotify.com/album/14Nhh0lXISxvBoPegtnnk3"
+      },
+      "artists": [
+        {
+          "name": "The Voynich Code",
+          "url": "https://open.spotify.com/artist/7I2a6G196mt3zp1Qs0EAkj"
+        }
+      ],
+      "duration_ms": 261032,
+      "name": "A Flicker Of Life",
+      "url": "https://open.spotify.com/track/06eKum3DRo2saJdTZk4cV1"
     }
   ],
   "unique_name": "Deathcore (2)",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mavokali",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -5692,6 +5692,28 @@
       "duration_ms": 202826,
       "name": "Wanaweweseka",
       "url": "https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep"
+    },
+    {
+      "album": {
+        "name": "Wapo",
+        "url": "https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I"
+      },
+      "artists": [
+        {
+          "name": "Mavokali",
+          "url": "https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192931,
+      "name": "Wapo",
+      "url": "https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl"
     },
     {
       "album": {

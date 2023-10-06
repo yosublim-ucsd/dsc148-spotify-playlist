@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 137142,
       "name": "After the Storm",
       "url": "https://open.spotify.com/track/2rGwaR8B2lMFvaITV87uxu"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 153500,
       "name": "An Opalescent Sanctuary",
       "url": "https://open.spotify.com/track/1s64ZuMSS2KfZPMoXrxePt"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 170166,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/56wMtsglhlddfHVEHH2kYc"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 141700,
       "name": "Arctic Tundra",
       "url": "https://open.spotify.com/track/6muvuOIHhSe0hfxlnbA3SH"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 169655,
       "name": "Aural Winds",
       "url": "https://open.spotify.com/track/5xhAr8ax48USCJ1tUdCPed"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 128961,
       "name": "Breakfast in bed",
       "url": "https://open.spotify.com/track/4gYwQHBvLabDAPj2tOKPov"
@@ -1517,6 +1517,32 @@
     },
     {
       "album": {
+        "name": "Comfort Zone",
+        "url": "https://open.spotify.com/album/0zfGc3ZKyRk3ETHWA2135D"
+      },
+      "artists": [
+        {
+          "name": "Chill West",
+          "url": "https://open.spotify.com/artist/2bHB1ylsCPTxalKwQ9u9Py"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Dreamfield",
+          "url": "https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/0F6HXlgi62fWkBiwb9Dxb5"
+    },
+    {
+      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/0RZtebJU73sTyieZXfxaop"
       },
@@ -1742,7 +1768,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 159200,
       "name": "Deep Drift",
       "url": "https://open.spotify.com/track/13RJCOUtIea9yqZ41uTpxD"
@@ -1822,7 +1848,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 123453,
       "name": "Distant Memories",
       "url": "https://open.spotify.com/track/2MDqfkKnapwTWxFOlz3EAz"
@@ -2220,7 +2246,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158571,
       "name": "Elven Dreams",
       "url": "https://open.spotify.com/track/3wfro86nvNDJ4RrBonhvt2"
@@ -2286,7 +2312,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 175081,
       "name": "Eventide",
       "url": "https://open.spotify.com/track/4zS6aF52hDz8jDszrwxzGU"
@@ -2674,6 +2700,24 @@
       "duration_ms": 143785,
       "name": "forest trails",
       "url": "https://open.spotify.com/track/2PXFoXdEZCJf8mCRYEHlZ5"
+    },
+    {
+      "album": {
+        "name": "Forrest",
+        "url": "https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY"
+      },
+      "artists": [
+        {
+          "name": "Mr Davies",
+          "url": "https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Forrest",
+      "url": "https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK"
     },
     {
       "album": {
@@ -3472,7 +3516,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 142909,
       "name": "Lake of Time",
       "url": "https://open.spotify.com/track/7HiXppm6M9RtJCdx5jMHNL"
@@ -3534,7 +3578,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 141000,
       "name": "Lava Low",
       "url": "https://open.spotify.com/track/75kBaftpeCFD37xnMzcyOw"
@@ -3704,7 +3748,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 150354,
       "name": "Light Years Away",
       "url": "https://open.spotify.com/track/0NnGOsVYJJ0SX7Twq5PARG"
@@ -4220,7 +4264,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 138888,
       "name": "Melon Madness",
       "url": "https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs"
@@ -5220,7 +5264,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 157091,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/543bYxQoIihCKDh6ILzQvc"
@@ -5245,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Pillow Retreat",
+        "url": "https://open.spotify.com/album/3BnPwguYMYzXtSQZAnuKd2"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Pillow Retreat",
+      "url": "https://open.spotify.com/track/3c8ruuQkemApqagMhbqSdE"
+    },
+    {
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/3jgnOP1g2rJwmzHgh9gG5u"
       },
@@ -5256,7 +5318,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 181714,
       "name": "Places",
       "url": "https://open.spotify.com/track/2EdVtePoPlTAPnEOAtVYTG"
@@ -5838,6 +5900,24 @@
       "duration_ms": 121312,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/3pscNS95UxbGBl9JY0SsFP"
+    },
+    {
+      "album": {
+        "name": "rounded",
+        "url": "https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh"
+      },
+      "artists": [
+        {
+          "name": "yellow book",
+          "url": "https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "rounded",
+      "url": "https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW"
     },
     {
       "album": {
@@ -6572,7 +6652,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 153600,
       "name": "Squares",
       "url": "https://open.spotify.com/track/1VBg1BAU8UTgjE11tXzdWx"
@@ -6818,7 +6898,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 141735,
       "name": "Sunset Siesta",
       "url": "https://open.spotify.com/track/1FLjiYOYi9ISY7UkRf71xj"
@@ -7934,7 +8014,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 129729,
       "name": "Waterdrops",
       "url": "https://open.spotify.com/track/6L2KTK95SrQS5i9ABx4UPI"

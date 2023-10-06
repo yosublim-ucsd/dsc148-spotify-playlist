@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Sentiments Heureux (nan j'd\u00e9conne)",
+        "url": "https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "A quoi tu penses vraiment",
+      "url": "https://open.spotify.com/track/2WnU5xzBjLg9waNoHAiSi2"
+    },
+    {
+      "album": {
         "name": "Abyssal",
         "url": "https://open.spotify.com/album/2v8brQYnFf5pODegprhom7"
       },
@@ -1453,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Belek",
+        "url": "https://open.spotify.com/album/1YCTpIGZUrRagjF2hsOVxd"
+      },
+      "artists": [
+        {
+          "name": "MIMAA",
+          "url": "https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "Belek",
+      "url": "https://open.spotify.com/track/1K1I5LLhJe3xqJnOHGNIwC"
+    },
+    {
+      "album": {
         "name": "Belladonna",
         "url": "https://open.spotify.com/album/3a5ZeJ1LQK4JVa14NAo17Z"
       },
@@ -2177,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "CADEAU D'ADIEU",
+        "url": "https://open.spotify.com/album/4dQwdyz5Vf7t8Lj6lLPaUK"
+      },
+      "artists": [
+        {
+          "name": "NACH",
+          "url": "https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201520,
+      "name": "CADEAU D'ADIEU",
+      "url": "https://open.spotify.com/track/1oWKNBZYotw4jojhwUIVHV"
+    },
+    {
+      "album": {
         "name": "37 degr\u00e9s",
         "url": "https://open.spotify.com/album/1W1AHlF0ZqSHy1NnVP7DWP"
       },
@@ -2372,6 +2426,24 @@
       "duration_ms": 186323,
       "name": "Cauchemars",
       "url": "https://open.spotify.com/track/5pVuRzvyRiRq4oMGnU6WPl"
+    },
+    {
+      "album": {
+        "name": "CC SAVA",
+        "url": "https://open.spotify.com/album/0fk7JDzCzSLdQpvV2u3l2S"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "CC SAVA",
+      "url": "https://open.spotify.com/track/6HoSoaAfrL9F3lZMuMVZFb"
     },
     {
       "album": {
@@ -9093,6 +9165,24 @@
     },
     {
       "album": {
+        "name": "Chim\u00e8ne chante Piaf : L'int\u00e9grale",
+        "url": "https://open.spotify.com/album/0BZymYCCYSkkXsruTfH1gC"
+      },
+      "artists": [
+        {
+          "name": "Chim\u00e8ne Badi",
+          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233880,
+      "name": "Les trois cloches",
+      "url": "https://open.spotify.com/track/2SBxcfrksjtTo2OQImz9fx"
+    },
+    {
+      "album": {
         "name": "Les voiles",
         "url": "https://open.spotify.com/album/1OBpGQvMbeMzrPNKBOVo2r"
       },
@@ -11064,6 +11154,24 @@
       "duration_ms": 140253,
       "name": "M\u00e9lodie (Tatami)",
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
+    },
+    {
+      "album": {
+        "name": "Gronde",
+        "url": "https://open.spotify.com/album/4YyF7XlTQHAyO4O0r5SvgU"
+      },
+      "artists": [
+        {
+          "name": "Petite Gueule",
+          "url": "https://open.spotify.com/artist/7la2T8qrs8wq7oSSGf9tPs"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "M\u00e9lomaniac",
+      "url": "https://open.spotify.com/track/4LFNJUz6dBmfLCbvXSblEw"
     },
     {
       "album": {
@@ -13404,6 +13512,10 @@
       },
       "artists": [
         {
+          "name": "Gallimard Jeunesse",
+          "url": "https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3"
+        },
+        {
           "name": "Clara Ys\u00e9",
           "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
         }
@@ -14044,6 +14156,24 @@
       "duration_ms": 195509,
       "name": "Reine",
       "url": "https://open.spotify.com/track/5pjXyEOWYQrP4MStq5NoNf"
+    },
+    {
+      "album": {
+        "name": "Remia",
+        "url": "https://open.spotify.com/album/3rvOpnOkVmgqWcSNA6O1so"
+      },
+      "artists": [
+        {
+          "name": "Tessa B",
+          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Remia",
+      "url": "https://open.spotify.com/track/6YGurDnYXwVgx3v76n9Ddt"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil",
-  "num_followers": 11378,
+  "num_followers": 11404,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTFiZDQ4ZDJjZDQ4N2NjMDM4MTJmYTMwY2I1NjE0ZWQ1NzAyYjY2",
+  "snapshot_id": "MCxlNTQ2ZTBmZDRkNDA1NDBlYzU4YzE2ODFhMjc2MzBlZjI5MTg5NTg4",
   "tracks": [
     {
       "added_at": "2023-09-29 16:02:33",
@@ -355,6 +355,30 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6"
       },
@@ -435,30 +459,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Abelha",
-        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Abelha",
-      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "J\u00e1 Era",
         "url": "https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 156000,
       "name": "J\u00e1 Era",
       "url": "https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
-      },
-      "artists": [
-        {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
-        },
-        {
-          "name": "Ramiroquai Beats",
-          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
-        }
-      ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -547,6 +527,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+      },
+      "artists": [
+        {
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+        },
+        {
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
       },
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
         "name": "Nem Me Beijou",
         "url": "https://open.spotify.com/album/1mKB7qlzATgaGbU1bq11if"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 193768,
       "name": "Nem Me Beijou",
       "url": "https://open.spotify.com/track/3b6XOBJg8qql5u5qwnRXK5"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -655,8 +655,8 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+        "name": "Do Nada",
+        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
       },
       "artists": [
         {
@@ -664,13 +664,17 @@
           "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         },
         {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "Stanley Castro",
+          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
         }
       ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+      "duration_ms": 205531,
+      "name": "Do Nada",
+      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -771,8 +775,8 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Do Nada",
-        "url": "https://open.spotify.com/album/5mknumaaSzVG9Tul1H1v1F"
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
       "artists": [
         {
@@ -780,17 +784,33 @@
           "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "Stanley Castro",
-          "url": "https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah"
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
         }
       ],
-      "duration_ms": 205531,
-      "name": "Do Nada",
-      "url": "https://open.spotify.com/track/6pSfaweiI9EbBCT4nJtnWF"
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
+      },
+      "artists": [
+        {
+          "name": "D'Castelo",
+          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
+        },
+        {
+          "name": "BRUNNOASH",
+          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
+        }
+      ],
+      "duration_ms": 220389,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -819,26 +839,6 @@
       "duration_ms": 195555,
       "name": "Tipo a Barbie",
       "url": "https://open.spotify.com/track/2LZpNKfRN6mlC22NlqYJpw"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD"
-      },
-      "artists": [
-        {
-          "name": "D'Castelo",
-          "url": "https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR"
-        },
-        {
-          "name": "BRUNNOASH",
-          "url": "https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd"
-        }
-      ],
-      "duration_ms": 220389,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC"
     },
     {
       "added_at": "2023-09-29 16:02:33",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-09-29 16:02:33",
       "album": {
-        "name": "Deixa Eu Mostrar",
-        "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
-      },
-      "artists": [
-        {
-          "name": "Danny",
-          "url": "https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa"
-        }
-      ],
-      "duration_ms": 138145,
-      "name": "Deixa Eu Mostrar",
-      "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
-    },
-    {
-      "added_at": "2023-09-29 16:02:33",
-      "album": {
         "name": "Anos Luz",
         "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 213800,
       "name": "Pele Prata",
       "url": "https://open.spotify.com/track/0lUC1F84DG4m4UIdsAsn5T"
+    },
+    {
+      "added_at": "2023-09-29 16:02:33",
+      "album": {
+        "name": "Deixa Eu Mostrar",
+        "url": "https://open.spotify.com/album/54aMRwjpAThmHSElGPvYQB"
+      },
+      "artists": [
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/7hD5x2RknluqTntIyuxzSa"
+        }
+      ],
+      "duration_ms": 138145,
+      "name": "Deixa Eu Mostrar",
+      "url": "https://open.spotify.com/track/28dzpx9Sn1jmAvCNLoKqd8"
     },
     {
       "added_at": "2023-09-29 16:02:33",

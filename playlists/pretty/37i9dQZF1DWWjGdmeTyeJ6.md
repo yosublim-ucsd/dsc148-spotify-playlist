@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anya Nami\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,467 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,627 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [LEMON\-LIME](https://open.spotify.com/track/3CCNnQ7RuGIdb0PnS5jH3n) | [Sam O.B.](https://open.spotify.com/artist/7f88cUcAZmcUODO80xQq77) | [TOO MANY HUMANS NOT ENOUGH SOULS](https://open.spotify.com/album/2SzrBkXnBX48QNFwoXy2XM) | 4:33 |
 | 100 | [bololo](https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [bololo](https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE) | 2:42 |
 
-Snapshot ID: `MCxmMmI4ZDM5OWQyOTcxOWU2NWI5YTNiMTc1MWMzOWViNDUzYWJhYTIw`
+Snapshot ID: `MCwwNDZkNWI1YzE2MTY4MWM2NzY2NjcyNWVkNzVkNmNjMWNhZWE2MGVm`

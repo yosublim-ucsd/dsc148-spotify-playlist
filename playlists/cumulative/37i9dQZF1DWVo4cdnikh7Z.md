@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-923 songs - 2 day 8 hr 44 min
+924 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Feeley Dhooley \(From "Not Reachable"\)](https://open.spotify.com/track/2Qj554XMBqn1PawvMm5LaU) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD) | [Feeley Dhooley \(From "Not Reachable"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2qh7373xGILY84pxOKxk3b) | 2:52 | 2022-08-23 | 2022-09-09 |
 | [French Kuthu](https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [DD Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe) | 3:50 | 2023-07-31 | 2023-08-15 |
 | [French Kuthu \- From "DD Returns"](https://open.spotify.com/track/7ATYl2ur3HoxNU5Ud835uX) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Durai](https://open.spotify.com/artist/4JczPNG9WBzHsuxs6X4qF0), [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx) | [French Kuthu \(From "DD Returns"\)](https://open.spotify.com/album/1rEDOGt8llu3tVPQBQLF4i) | 3:50 | 2023-04-25 | 2023-05-18 |
+| [Fun Damaka \(From "Enaku Endey Kidaiyaathu"\)](https://open.spotify.com/track/4oLyCPCDwJ0i7HghQ3t8Hg) | [Abishek Raaja](https://open.spotify.com/artist/5Yroh6LukoBZfu1bGmCuDL), [Kalacharan](https://open.spotify.com/artist/06Mrb07iYXhRA3KJP8KxEN), [Shrenik Viswanath](https://open.spotify.com/artist/72qhGXRBSR5rKo66SotRfy) | [Fun Damaka \(From "Enaku Endey Kidaiyaathu"\)](https://open.spotify.com/album/2w9GS3Oi2i7IhL5N6mgAnn) | 2:48 | 2023-10-05 |  |
 | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/track/2wBS9wsnSi8rXskdupEF7o) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Kalapradah](https://open.spotify.com/artist/7nwxcgsJwjTTsi7Y4hSvul) | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/album/4yR5vmBUG9CseJXGsmHMMh) | 3:51 | 2023-08-18 | 2023-09-23 |
 | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/track/0SQIFK6K3ZBZQnn3ocFQAe) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Soujanya Bhagavatula](https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt), [Ananth Sriram](https://open.spotify.com/artist/1ptg1bA9WLbmSqByeIwnuz) | [Gandarabai \(From "Skanda"\)](https://open.spotify.com/album/2bCgApnMK8TBJpSbhCdgfQ) | 3:51 | 2023-08-18 | 2023-08-24 |
 | [Gandarabai \(From "Skanda"\) \(Tamil\)](https://open.spotify.com/track/1TtNUw6g96A7jbOnp7i1lZ) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX) | [Gandarabai \(From "Skanda"\) \(Tamil\)](https://open.spotify.com/album/5fC3JAPo3MX86M4HW0eA1Z) | 3:51 | 2023-08-18 | 2023-08-22 |

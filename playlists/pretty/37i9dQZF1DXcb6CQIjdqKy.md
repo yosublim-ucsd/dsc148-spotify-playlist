@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:6eJqAWJdd8JhAN1pQGie4r">Casting Crowns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,669 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,873 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 | 100 | [Anxious Heart](https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:57 |
 
-Snapshot ID: `MCw3MWQ4MmIzZGE1NmFiN2QyZGE3Nzg3ZTkxY2NmYjdmZTg5Y2Y3MzEw`
+Snapshot ID: `MCwwMTU3ZmQwMmYwYTZlY2U2YjVhMjA5Y2E5ODcyNWMwY2MwMDdjMGYx`

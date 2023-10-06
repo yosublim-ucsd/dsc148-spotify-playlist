@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-1,895 songs - 4 day 7 hr 36 min
+1,898 songs - 4 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Blake 2](https://open.spotify.com/track/3fJYtVu1B812dF8o1moicK) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Blake 2](https://open.spotify.com/album/7kdSTcDJrFL0Q5RslXe0jv) | 2:57 | 2022-04-12 | 2022-05-05 |
 | [Bleach Blonde](https://open.spotify.com/track/2Sq6jSdKT4LkukpgYLXhtA) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Bleach Blonde](https://open.spotify.com/album/2u9eNIyUr7Lf3yHyORjJ9a) | 2:39 | 2023-03-22 | 2023-04-20 |
 | [Bleacher Blues](https://open.spotify.com/track/3FQE645BmeSEFEbyTikCFq) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Bleacher Blues / Buta Fly](https://open.spotify.com/album/6oqymyeEVLcU695pRvD5kb) | 3:34 | 2022-07-20 | 2022-08-04 |
+| [Bleed](https://open.spotify.com/track/6yR4gnNVG4RZQjmouHNmb2) | [Dead Calm](https://open.spotify.com/artist/7yCgnDZZr7OOX8ynOixymX) | [Accept](https://open.spotify.com/album/3101yyhhqSwOtf1qqXbh5Q) | 3:01 | 2023-10-05 |  |
 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 | 2021-12-01 | 2022-01-13 |
 | [Blimp](https://open.spotify.com/track/4e8LZunMXIAeHlcobfAq13) | [ernest rareberrg](https://open.spotify.com/artist/46dVUKwnMDdVFUX7Zz28fB) | [Blimp](https://open.spotify.com/album/5JpJo9vkjEj3zjFCvZu3uQ) | 2:21 | 2023-06-07 | 2023-06-28 |
 | [Blink](https://open.spotify.com/track/6W67RESmxjAp10u5bQ6eH0) | [Las Los](https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1) | [Blink](https://open.spotify.com/album/7IgkMSeDtEvAV6q0IIKtJf) | 2:30 | 2023-09-13 |  |
@@ -956,7 +957,7 @@
 | [leaving](https://open.spotify.com/track/7HQLnBFTi8AgG5HmakAUbp) | [Au Gres](https://open.spotify.com/artist/6hz3z9hlJ0gB5CkmxnnwHr) | [leaving](https://open.spotify.com/album/7GRf3aXdLqrk2bXrpn01Ug) | 3:17 | 2023-04-05 | 2023-05-18 |
 | [Leaving](https://open.spotify.com/track/2JIKhelt4q9czQlRfdrYQK) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Leaving](https://open.spotify.com/album/6StC4UA89XZ2X8AGvZEd2Y) | 3:36 | 2021-12-01 | 2022-01-13 |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-05-25 | 2022-06-30 |
-| [Let go](https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo) | [Mora Michelle](https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx) | [Let go](https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg) | 4:23 | 2023-08-23 |  |
+| [Let go](https://open.spotify.com/track/7cmNF8uySo6WrjtbjS0ngo) | [Mora Michelle](https://open.spotify.com/artist/1wJSAHWxV34NbL4qAwDuvx) | [Let go](https://open.spotify.com/album/3uUwqFB6ZyBmS4h9gTv7Rg) | 4:23 | 2023-08-23 | 2023-10-06 |
 | [Let Her](https://open.spotify.com/track/4NMlQpb5AEkJk5Ll9aggpo) | [Alvy Willa](https://open.spotify.com/artist/2giNU9eAcUycZhhHyrAvuu) | [Let Her](https://open.spotify.com/album/3P8LmhJCdSolbM95Cw2X6R) | 2:55 | 2022-04-06 | 2022-04-27 |
 | [Let it Die](https://open.spotify.com/track/3qnbGeZ21BFjlLmX22U6Rr) | [Mitch Davis](https://open.spotify.com/artist/5wzEwElVSqGYutquRKDoan) | [Let It Die](https://open.spotify.com/album/5NCd0yus0svH3iJAl1YRLl) | 2:33 | 2022-02-22 | 2022-04-27 |
 | [Let Me Love U](https://open.spotify.com/track/2n82NbbGsaaMMT4eqPX8ZK) | [Daniel Ryn](https://open.spotify.com/artist/3lhyP7Pddt6ks3s0TL7blV) | [Let Me Love U](https://open.spotify.com/album/1BF6WHNLLq3uQJrH9jQj87) | 3:51 | 2023-03-01 | 2023-03-29 |
@@ -1240,7 +1241,7 @@
 | [Other Stuff](https://open.spotify.com/track/4nhN8gvfRCZtUbfS7McPNA) | [Lauren Ann](https://open.spotify.com/artist/2dC6qGukdDzZAaV62tzGLL) | [Other Stuff](https://open.spotify.com/album/74LpZYu1mOepyJYl4hdlP0) | 3:28 | 2023-03-22 | 2023-04-06 |
 | [our last night](https://open.spotify.com/track/2m9V9fxqY0Mw8NyaAi8z3f) | [heartspace](https://open.spotify.com/artist/4TXauRyx1XUkg6hRkWdgrE) | [our last night](https://open.spotify.com/album/5ZEoEBfCpZPWQmnXRIr7uC) | 3:25 | 2022-04-27 | 2022-05-20 |
 | [Our Place](https://open.spotify.com/track/4v3ZeRsJoyrdxiFv5oh0Fm) | [Future Crib](https://open.spotify.com/artist/2QeQIlUXOsBbZGniOCJweR) | [Our Place](https://open.spotify.com/album/3noOmIQxa0i7VF9aS7Vjwn) | 2:37 | 2022-06-15 | 2022-07-07 |
-| [Out of My Head](https://open.spotify.com/track/71gPiMdEy9lcQ8sYpcK0Xv) | [evvvie](https://open.spotify.com/artist/2yzLAaeqPYYN2FD8wM6Y9m) | [Out of My Head](https://open.spotify.com/album/20qKO0e9lgfvrzzxZMNSKM) | 2:57 | 2023-08-23 |  |
+| [Out of My Head](https://open.spotify.com/track/71gPiMdEy9lcQ8sYpcK0Xv) | [evvvie](https://open.spotify.com/artist/2yzLAaeqPYYN2FD8wM6Y9m) | [Out of My Head](https://open.spotify.com/album/20qKO0e9lgfvrzzxZMNSKM) | 2:57 | 2023-08-23 | 2023-10-06 |
 | [out of place](https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [out of place](https://open.spotify.com/album/0Ip616glU6BrtTZZcpN98D) | 2:42 | 2023-08-02 | 2023-09-07 |
 | [outgrow](https://open.spotify.com/track/5kGXxLtGesx9K16kgA7Bwu) | [dery](https://open.spotify.com/artist/1ZxMxowLXzup8y1McJ3JbT) | [outgrow](https://open.spotify.com/album/7upwvHki0CEuPEFDwrACbX) | 3:30 | 2022-03-16 | 2022-04-27 |
 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 | 2023-06-21 | 2023-08-10 |
@@ -1713,8 +1714,9 @@
 | [too much too soon](https://open.spotify.com/track/2JJoUZhEMlUHEWYLMA58yY) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [too much too soon](https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK) | 3:43 | 2022-03-16 | 2022-04-27 |
 | [too strong](https://open.spotify.com/track/1soy2KpqWppS1vzVMPpTvb) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [too strong](https://open.spotify.com/album/2UDA04UrxhydfzN1KNiv7X) | 3:51 | 2023-08-08 | 2023-09-08 |
 | [Too Young to Understand](https://open.spotify.com/track/0KcbL2mfhCb3xAThqKqzES) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [Too Young to Understand](https://open.spotify.com/album/6rMlQHN2dSzNdikqFjmoz9) | 4:46 | 2022-11-09 | 2023-02-16 |
-| [Took One Look](https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ) | [Muunjuun](https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7) | [Took One Look](https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w) | 2:20 | 2023-08-23 |  |
+| [Took One Look](https://open.spotify.com/track/38c3RCyYlBv4bFQ1dn5nTJ) | [Muunjuun](https://open.spotify.com/artist/32y328GZcvGkG3Ch2p89Q7) | [Took One Look](https://open.spotify.com/album/75I7QxTj9TMYpClUsBN21w) | 2:20 | 2023-08-23 | 2023-10-06 |
 | [Tore](https://open.spotify.com/track/62IJLBwpm1ax73HidrU9pm) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Tore](https://open.spotify.com/album/41ksxVl2MrrsUOFjPyjlGM) | 3:26 | 2023-07-24 | 2023-08-24 |
+| [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 | 2023-10-05 |  |
 | [Touring in January](https://open.spotify.com/track/0KtIEZgs6wl4Oa6smhTTAI) | [String Machine](https://open.spotify.com/artist/0YxHMJ1H95yl1lu1P0oNQj) | [Touring in January](https://open.spotify.com/album/26rhbSIcEoUY3wZHCO51j3) | 3:14 | 2022-01-19 | 2022-02-10 |
 | [Trader Joe's](https://open.spotify.com/track/2BwKe3zhLFkWYqY2DDB1Yo) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Trader Joe's](https://open.spotify.com/album/5sSf26h9dzlgnSkAnTLv3a) | 2:57 | 2022-06-29 | 2022-08-04 |
 | [Transients](https://open.spotify.com/track/39Wa42w288HXCa5I2qkHKD) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Transients](https://open.spotify.com/album/149kG0Ln8mP316svShU5fk) | 3:16 | 2022-03-02 | 2023-01-12 |
@@ -1734,6 +1736,7 @@
 | [Turn Yourself Around](https://open.spotify.com/track/1vByRA3zNwWWbO4AXL59ug) | [Alton Allen](https://open.spotify.com/artist/5sQbmL5ZGPpkwWNVxCJ2nq), [Niteppl](https://open.spotify.com/artist/5jQWZiaRwd5OXJ08MdyJ5D) | [Turn Yourself Around](https://open.spotify.com/album/0KNBpU6GyyDaWRVishVfrW) | 5:03 | 2022-08-24 | 2022-10-06 |
 | [Turning \(Inside Out\)](https://open.spotify.com/track/36CHQfiJrEhkcUo1HOd6e0) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5), [Visors](https://open.spotify.com/artist/5fLeURoq7hUfA1YRLDKnp5), [DDm](https://open.spotify.com/artist/22xq1Fve60A42kl0QimvRV) | [Turning \(Inside Out\)](https://open.spotify.com/album/1ylA6vaixlIktGl0fNsdAN) | 2:46 | 2023-01-25 | 2023-02-23 |
 | [twentyone](https://open.spotify.com/track/1VohwuTMRDmNLxZeJKdCsn) | [Ben Ohr](https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG) | [twentyone](https://open.spotify.com/album/6XPoIFRZlNSvdNKJ9Mq60Q) | 3:39 | 2022-07-06 | 2022-08-11 |
+| [Typhoon](https://open.spotify.com/track/3veR1ssVQYLy3h0a9BfzKF) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Typhoon](https://open.spotify.com/album/33jpxxgKEuq4rS3I87pQkl) | 3:21 | 2023-10-05 |  |
 | [U.D.I.D](https://open.spotify.com/track/71Vmv6b1nBil8KG5LQeCyv) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [U.D.I.D](https://open.spotify.com/album/4u2A8JHZgC20VEq32SmE7R) | 3:23 | 2022-04-27 | 2022-05-05 |
 | [UGLY](https://open.spotify.com/track/4se5MOrdbpU4nJUOrcf5td) | [Celeste Allison](https://open.spotify.com/artist/0w2MWipQo91kgrOdu5GjlB) | [UGLY](https://open.spotify.com/album/4Ea6zC1w8jWvmnMJvSxWmK) | 3:42 | 2022-02-09 | 2022-04-07 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-19 | 2022-06-30 |

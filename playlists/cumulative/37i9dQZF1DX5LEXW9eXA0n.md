@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:Kassy\(케이시\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,014 songs - 2 day 17 hr 46 min
+1,015 songs - 2 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [ANYWHERE \(Feat\. Huh\)](https://open.spotify.com/track/6XCypJVJa6FhFadgaGoON3) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [ANYWHERE \(Feat\. Huh\)](https://open.spotify.com/album/14fRptjW1ytSaP5USPXNDR) | 3:52 | 2023-07-17 |  |
 | [Are we done? \(prod\. ROCOBERRY\)](https://open.spotify.com/track/4eqcmmcuNXjDTb7578WI6E) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Are we done?](https://open.spotify.com/album/524LwEcjDKf0Ki5nNNz5r5) | 3:24 | 2022-09-05 | 2022-12-27 |
 | [Are you fine](https://open.spotify.com/track/3OktuEJfIoProT1eBIRUSb) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Memories of Autumn](https://open.spotify.com/album/3ZJ3BjXSvVRzaOJ250czUc) | 3:54 | 2022-02-17 | 2022-04-20 |
+| [As Autumn Brings Cold Wind](https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [As Autumn Brings Cold Wind](https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA) | 4:19 | 2023-10-05 |  |
 | [As much as I loved you](https://open.spotify.com/track/3eGK0gMmmumUC1RTcBKHcI) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [As much as I loved you](https://open.spotify.com/album/39XwH2QhrieyhZyiWMnogS) | 3:21 | 2023-05-31 | 2023-09-15 |
 | [ASTELLE](https://open.spotify.com/track/1ESs6DWq2CYMFfx0uq22cF) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [MapleStory M : SIA ASTELLE \(Original Game Soundtrack\)](https://open.spotify.com/album/5NzuQRJ74SU69WQQdGbTPe) | 4:28 | 2023-01-20 | 2023-02-15 |
 | [At Every Moment \(Bunny and Guys X Kim Jae Hwan\)](https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [At Every Moment \(Bunny and Guys X Kim Jae Hwan\)](https://open.spotify.com/album/4ycFxbIJKkWZYf0KDs2TYT) | 4:00 | 2022-03-24 | 2022-04-17 |

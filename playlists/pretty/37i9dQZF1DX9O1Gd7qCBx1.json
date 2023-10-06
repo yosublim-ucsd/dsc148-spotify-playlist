@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 190664,
+  "num_followers": 190763,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2UwNGQ0MzBkZWNiYzgxZWY5M2FmYzEyZTIyMGEzMDVjY2Y2NjM0",
+  "snapshot_id": "MCwwODNiMTlkMGM4YzhlNGZkZGZmMTM4OWNkOTg3NGY5MzdiNTA0ODRi",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -807,22 +807,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -843,18 +839,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
         {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
+      "duration_ms": 264533,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks"
-      },
-      "artists": [
-        {
-          "name": "Dueto Dos Rosas",
-          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
-        }
-      ],
-      "duration_ms": 348544,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Flor de Biznaga",
         "url": "https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 370120,
       "name": "Colores",
       "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks"
+      },
+      "artists": [
+        {
+          "name": "Dueto Dos Rosas",
+          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
+        }
+      ],
+      "duration_ms": 348544,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Viene la Muerte Echando Rasero",
+      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Viene la Muerte Echando Rasero",
-      "url": "https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
         "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Ruego",
-        "url": "https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o"
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
         }
       ],
-      "duration_ms": 220684,
-      "name": "Ruego",
-      "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1071,6 +1071,22 @@
       "duration_ms": 258226,
       "name": "Muerte Querida - Remasterizado 2008",
       "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Ruego",
+        "url": "https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 220684,
+      "name": "Ruego",
+      "url": "https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1119,22 +1135,6 @@
       "duration_ms": 210760,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Illustrated Songs",
-        "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 170839,
-      "name": "Y Tu Sombra",
-      "url": "https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "God Save The Queers EP",
         "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 288253,
       "name": "Kumbia Zombie",
       "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Illustrated Songs",
+        "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 170839,
+      "name": "Y Tu Sombra",
+      "url": "https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 147200,
       "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
       "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Edge of the Sun (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Coyoac\u00e1n",
-      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Timoneki",
         "url": "https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 276970,
       "name": "Mictl\u00e1n",
       "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Edge of the Sun (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Coyoac\u00e1n",
+      "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+        "name": "Chicavasco",
+        "url": "https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI"
       },
       "artists": [
         {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+          "name": "Rana Santacruz",
+          "url": "https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Trist\u00edsimo Pante\u00f3n",
-      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
+      "duration_ms": 254280,
+      "name": "El Funeral De Tacho",
+      "url": "https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

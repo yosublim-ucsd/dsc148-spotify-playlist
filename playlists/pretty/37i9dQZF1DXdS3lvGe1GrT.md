@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Shallow Alcove \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,549 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,608 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [I'm Not Going in There](https://open.spotify.com/track/7F4MPxbs56LxzzZTwZUsJA) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [I'm Not Going in There](https://open.spotify.com/album/5fOKsLIrvfR8k9BFPVFSyB) | 4:02 |
 | 100 | [One Hour Less](https://open.spotify.com/track/4Y1XTtLOIe5aYD4Dg8mOP6) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [One Hour Less](https://open.spotify.com/album/2CGAzo11gamLgkIzEqcdAa) | 4:52 |
 
-Snapshot ID: `MCw3M2U4N2E1M2FjNGZlNTM3ZDhlOGM4ZTQ3NDMzNTBhMjZiZDdkZTgy`
+Snapshot ID: `MCw4NTZhNjAxMGFhZWNjYmYzNTQyM2RjYWI1OWMyMjk1Y2YyZWQ4Njdi`

@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O"
+      },
+      "artists": [
+        {
+          "name": "Nathan R. Edwards",
+          "url": "https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169926,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO"
+    },
+    {
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3foW7pDxBNyUfM4SpLFIop"
       },
@@ -2291,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/33RySmFjwLy1DUUmMHIYyQ"
+      },
+      "artists": [
+        {
+          "name": "Elis Pearson",
+          "url": "https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111691,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7wEeJdVXXIhxqUFU3RriOn"
+    },
+    {
+      "album": {
         "name": "Just Like Heaven",
         "url": "https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS"
       },
@@ -2482,7 +2518,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 140512,
       "name": "Love Me Tender",
       "url": "https://open.spotify.com/track/5VdDhaWyHgrnmZe3JVE27Y"
@@ -2504,6 +2540,24 @@
       "duration_ms": 278016,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI"
+    },
+    {
+      "album": {
+        "name": "Love Yourself",
+        "url": "https://open.spotify.com/album/0dD6L5lDzcrT44wMpZopLy"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rick",
+          "url": "https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141278,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/3jv5OyK1aljpUBO3KbCgjU"
     },
     {
       "album": {
@@ -2828,6 +2882,24 @@
       "duration_ms": 273678,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/6BPSmJLRdjDKn5NtEp6BUf"
+    },
+    {
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/30oZC5zwXPQU272JVU8B1k"
+      },
+      "artists": [
+        {
+          "name": "Liam Dunn",
+          "url": "https://open.spotify.com/artist/6QpB7K9h7sFd0acffHgrwb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132918,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1ZqvGobiP3nEHASAry5SdN"
     },
     {
       "album": {
@@ -3764,6 +3836,24 @@
       "duration_ms": 152018,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/5yNwemxmSZtEXdUNDx9ctJ"
+    },
+    {
+      "album": {
+        "name": "Through The Fire",
+        "url": "https://open.spotify.com/album/6VMNvH3uJxczSKgqI3SOFJ"
+      },
+      "artists": [
+        {
+          "name": "Anna Kitkowska",
+          "url": "https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/7E59DQ6k27g52Av9z4KEe6"
     },
     {
       "album": {

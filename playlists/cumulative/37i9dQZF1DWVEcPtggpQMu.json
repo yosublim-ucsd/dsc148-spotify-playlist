@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD?si=HGAkgRbkSnS8F-Mu7gTW4g\">J-Smash</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r?si=jEPps-SFQ2e4Kn7yS-PztA\">FLVME</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -440,6 +440,28 @@
       "duration_ms": 202750,
       "name": "Adawise",
       "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
+    },
+    {
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2R7l62vOHJl1bJP4767h98"
+      },
+      "artists": [
+        {
+          "name": "Gigi Lamayne",
+          "url": "https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087"
+        },
+        {
+          "name": "Natasha Chansa",
+          "url": "https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Africa Is Not A Jungle",
+      "url": "https://open.spotify.com/track/2VUBnLhHlQCPLsgac966cS"
     },
     {
       "album": {
@@ -1160,7 +1182,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 268085,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/0gnZj2ZJIdSZ87W43RapTr"
@@ -4751,6 +4773,32 @@
     },
     {
       "album": {
+        "name": "HOLD MY HAND",
+        "url": "https://open.spotify.com/album/1CogPHezTdAQJkxFf2mSWC"
+      },
+      "artists": [
+        {
+          "name": "J Clu",
+          "url": "https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Ben September",
+          "url": "https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "HOLD MY HAND",
+      "url": "https://open.spotify.com/track/45DJyRDn1vaK12izAzbIxL"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/2SfkZMQlMa31anBJjMniEM"
       },
@@ -5321,6 +5369,32 @@
     },
     {
       "album": {
+        "name": "iSphithiphithi",
+        "url": "https://open.spotify.com/album/4X9gxJi4GBIObdqfNRwD4T"
+      },
+      "artists": [
+        {
+          "name": "Nelz",
+          "url": "https://open.spotify.com/artist/1nYQzmyKri9MijJSG4jKbb"
+        },
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1h9KaYrZuk0l2ML2WJBkUI"
+        },
+        {
+          "name": "Mac 11",
+          "url": "https://open.spotify.com/artist/2Xhztrnqxn0VJ5BKhcfePq"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290006,
+      "name": "iSphithiphithi",
+      "url": "https://open.spotify.com/track/5yiBmiKsOmqpUhsKGbqEu9"
+    },
+    {
+      "album": {
         "name": "It Get Heavy",
         "url": "https://open.spotify.com/album/1QaDBDsGVfWbB4vSu0DWs4"
       },
@@ -5770,6 +5844,40 @@
       "duration_ms": 247197,
       "name": "KUMBAYA",
       "url": "https://open.spotify.com/track/44JKlW14QaUbXtWNWPZ2en"
+    },
+    {
+      "album": {
+        "name": "Kutsa",
+        "url": "https://open.spotify.com/album/5ho2gBJW7krfpIQDDLZim6"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "Makwa",
+          "url": "https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253946,
+      "name": "Kutsa",
+      "url": "https://open.spotify.com/track/6agL67tYcLo0pBkowC0i9q"
     },
     {
       "album": {
@@ -10215,6 +10323,32 @@
     },
     {
       "album": {
+        "name": "SOME MORE (feat. BENJAMIN)",
+        "url": "https://open.spotify.com/album/1BjSFtGVHRVyuGqS8omtPS"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "Tee Fermenso",
+          "url": "https://open.spotify.com/artist/0lNe8Y6D5StOZdhv13c5e5"
+        },
+        {
+          "name": "BENJAMIN",
+          "url": "https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "SOME MORE (feat. BENJAMIN)",
+      "url": "https://open.spotify.com/track/70HN8JZRe0KGQ3QAv8NU3v"
+    },
+    {
+      "album": {
         "name": "Before I Say More",
         "url": "https://open.spotify.com/album/6Nb7ZsVppxcaRMSAWQaBpt"
       },
@@ -12523,6 +12657,28 @@
     },
     {
       "album": {
+        "name": "NOTE TO SELF",
+        "url": "https://open.spotify.com/album/6zbbuEevrsySgJh8GR4pnc"
+      },
+      "artists": [
+        {
+          "name": "FLVME",
+          "url": "https://open.spotify.com/artist/6WYEyvdqJYDfptrY1ePU7r"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "WAY UP",
+      "url": "https://open.spotify.com/track/3ceDXT4uhr0wHQTtjzvgZd"
+    },
+    {
+      "album": {
         "name": "The Cape and Good Dope",
         "url": "https://open.spotify.com/album/2FIj29irQaHkJRHbqrdatA"
       },
@@ -12754,7 +12910,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 157500,
       "name": "WHO DAT? (feat. Kid X)",
       "url": "https://open.spotify.com/track/6HEKLZ3EzZHDkilriSEW7c"

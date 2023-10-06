@@ -140,7 +140,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 121968,
       "name": "Akka Pass",
       "url": "https://open.spotify.com/track/7Lb31NASTBbR297N2beztc"
@@ -2751,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "James Bond",
+        "url": "https://open.spotify.com/album/1lhuaT1gev2ItDhv6HZDt8"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142703,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/2BZl98NLm3NOanLqkJqkMW"
+    },
+    {
+      "album": {
         "name": "Jaye Pro",
         "url": "https://open.spotify.com/album/5MO2uVCYxhcCbRD2L1yRtj"
       },
@@ -4407,6 +4429,32 @@
     },
     {
       "album": {
+        "name": "Pon Di Ting",
+        "url": "https://open.spotify.com/album/6dxDwrTZCIfNsGCKYCbA8y"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140458,
+      "name": "Pon Di Ting",
+      "url": "https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45"
+    },
+    {
+      "album": {
         "name": "Porte pas plainte",
         "url": "https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87"
       },
@@ -4780,6 +4828,24 @@
       "duration_ms": 144988,
       "name": "Reload",
       "url": "https://open.spotify.com/track/67erDOXoomBqQebPnpZayQ"
+    },
+    {
+      "album": {
+        "name": "SYSTM",
+        "url": "https://open.spotify.com/album/7C1GNqxVxKR6nVlVv77SLu"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/0DZrQE6rBMMAX0KF07NaI8"
     },
     {
       "album": {
@@ -5424,7 +5490,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 136736,
       "name": "Summa Hot",
       "url": "https://open.spotify.com/track/2ZZQeDeqOlsuzKQIHYhLot"
@@ -6368,7 +6434,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 210989,
       "name": "Whine",
       "url": "https://open.spotify.com/track/036joKTnTtJfJVifnRhOqj"

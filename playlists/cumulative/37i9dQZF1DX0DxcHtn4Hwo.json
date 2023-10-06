@@ -3281,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi"
+      },
+      "artists": [
+        {
+          "name": "Axel Pedersen",
+          "url": "https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195718,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo"
+    },
+    {
+      "album": {
         "name": "Fin Kanin",
         "url": "https://open.spotify.com/album/2ePpqjlyy40iMifa99q7pH"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 113000,
       "name": "Grandma's Lullaby",
       "url": "https://open.spotify.com/track/1xJuVKQ3DURGaNKDUCm3WS"
@@ -7731,6 +7749,24 @@
     },
     {
       "album": {
+        "name": "Nightingales Are Singing",
+        "url": "https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc"
+      },
+      "artists": [
+        {
+          "name": "Gil Sunniver",
+          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "Nightingales Are Singing",
+      "url": "https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq"
+    },
+    {
+      "album": {
         "name": "Nighty Night Little Child",
         "url": "https://open.spotify.com/album/44XT9aCUU1V4SZJCV7y5ZD"
       },
@@ -9082,7 +9118,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 85677,
       "name": "Shoo Fly, Don't Bother Me",
       "url": "https://open.spotify.com/track/3aUC3hwhufBQOUJTH5i0U6"
@@ -9104,6 +9140,24 @@
       "duration_ms": 103826,
       "name": "Singing for You",
       "url": "https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn"
+    },
+    {
+      "album": {
+        "name": "Six Little Ducks",
+        "url": "https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf"
+      },
+      "artists": [
+        {
+          "name": "Emily McQueen",
+          "url": "https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131753,
+      "name": "Six Little Ducks",
+      "url": "https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw"
     },
     {
       "album": {
@@ -11771,6 +11825,24 @@
     },
     {
       "album": {
+        "name": "Up In The Curtains",
+        "url": "https://open.spotify.com/album/3Qibqlh4XXy33DBIAd7O8U"
+      },
+      "artists": [
+        {
+          "name": "Amos Green",
+          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73264,
+      "name": "Up In The Curtains",
+      "url": "https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta"
+    },
+    {
+      "album": {
         "name": "Us Two",
         "url": "https://open.spotify.com/album/7rZ1ZoICW7cLVETZwCZjrq"
       },
@@ -12002,6 +12074,24 @@
       "duration_ms": 116731,
       "name": "Wer hat die sch\u00f6nsten Sch\u00e4fchen?",
       "url": "https://open.spotify.com/track/0JBFJj0Nu7CoDnzSpNelXo"
+    },
+    {
+      "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79374,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY"
     },
     {
       "album": {
@@ -12484,7 +12574,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 107626,
       "name": "You Put A Smile On My Face",
       "url": "https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT"

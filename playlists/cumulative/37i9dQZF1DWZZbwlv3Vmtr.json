@@ -334,7 +334,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 105205,
       "name": "Adrift",
       "url": "https://open.spotify.com/track/5LtSbDktkoCBD4tO1rEwoq"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 102754,
       "name": "ataraxia",
       "url": "https://open.spotify.com/track/1M6SXJHUZCd311iSiyncIF"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 111000,
       "name": "Chill Sunday",
       "url": "https://open.spotify.com/track/73iDfMEG9TA3nUa4uimF5M"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 133292,
       "name": "Cold-Water Feels",
       "url": "https://open.spotify.com/track/2e2SIW2xo0JDsYta88o32C"
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 120000,
       "name": "Dig This Vibe",
       "url": "https://open.spotify.com/track/6mN4GW8gitB9Ah4AIV9ijY"
@@ -2738,7 +2738,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 82131,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5"
@@ -2796,6 +2796,24 @@
       "duration_ms": 141818,
       "name": "Done",
       "url": "https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit"
+    },
+    {
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr"
+      },
+      "artists": [
+        {
+          "name": "Loomington",
+          "url": "https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po"
     },
     {
       "album": {
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 124705,
       "name": "El Cl\u00e1sico",
       "url": "https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG"
@@ -3282,7 +3300,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 152941,
       "name": "Enthalpy",
       "url": "https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq"
@@ -3362,7 +3380,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 114000,
       "name": "Everything's Ok",
       "url": "https://open.spotify.com/track/6joF5vzWbc6Uk4t8jCSG4p"
@@ -4230,7 +4248,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147453,
       "name": "Glowing Willow",
       "url": "https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV"
@@ -4270,7 +4288,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 148571,
       "name": "Glutenfree",
       "url": "https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU"
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 84869,
       "name": "Going Solo",
       "url": "https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5"
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 135774,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/3C9DeWMptUuqPtgHwVSqCO"
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 110312,
       "name": "Growing",
       "url": "https://open.spotify.com/track/1hM0bs3CbgCeZXpchcKfZk"
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 106733,
       "name": "Happy Rhythm",
       "url": "https://open.spotify.com/track/3rqXQZIaS8MJxg3ZH4U7PS"
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 117170,
       "name": "I hear ya",
       "url": "https://open.spotify.com/track/1JBwa5F6ooAsnyqF0EJSGj"
@@ -5216,7 +5234,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 116710,
       "name": "I loff you",
       "url": "https://open.spotify.com/track/7yfaO25yXHqLsQVZuAP214"
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 246480,
       "name": "Just One Of Those Things",
       "url": "https://open.spotify.com/track/0cPgDhXIJMX45AIRCdzYZz"
@@ -5848,7 +5866,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 176202,
       "name": "Keen",
       "url": "https://open.spotify.com/track/51Ie5gtGGban5Lff22PCzX"
@@ -5902,7 +5920,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 110995,
       "name": "Kickflip",
       "url": "https://open.spotify.com/track/30Viqy8zblL4VuZLSFaEGL"
@@ -6420,7 +6438,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 205333,
       "name": "Let\u2019s Talk",
       "url": "https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe"
@@ -6928,7 +6946,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 117142,
       "name": "Luscious",
       "url": "https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G"
@@ -6950,6 +6968,24 @@
       "duration_ms": 147857,
       "name": "Lush",
       "url": "https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu"
+    },
+    {
+      "album": {
+        "name": "Maca",
+        "url": "https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA"
+      },
+      "artists": [
+        {
+          "name": "Breakfast For Brunch",
+          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Maca",
+      "url": "https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE"
     },
     {
       "album": {
@@ -7062,7 +7098,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 111312,
       "name": "Maroon Leaves",
       "url": "https://open.spotify.com/track/4MiM622Brc1FuwxiieUyXz"
@@ -7316,7 +7352,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 138571,
       "name": "Midnight Smoke",
       "url": "https://open.spotify.com/track/7x0raDjOawSXNblE1xR9qV"
@@ -7758,7 +7794,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 126492,
       "name": "Movie",
       "url": "https://open.spotify.com/track/59Wyi2Pwm4WCArYgoZ0N89"
@@ -8196,7 +8232,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 131211,
       "name": "Night In",
       "url": "https://open.spotify.com/track/3feeyGjoIIVNbzRLTSz7Wm"
@@ -8334,7 +8370,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 97857,
       "name": "Noon",
       "url": "https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk"
@@ -8356,7 +8392,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 161860,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg"
@@ -8414,7 +8450,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 285301,
       "name": "Oase",
       "url": "https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU"
@@ -8558,7 +8594,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 196800,
       "name": "On Golden Pond",
       "url": "https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap"
@@ -8688,7 +8724,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 70000,
       "name": "One Minute",
       "url": "https://open.spotify.com/track/1cav5cQVWoCppNXXbg7b5m"
@@ -8890,7 +8926,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 110000,
       "name": "Palme",
       "url": "https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc"
@@ -8984,7 +9020,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180208,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/3yyOBSQN3E1x7DSqLiXRd8"
@@ -9334,7 +9370,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 117209,
       "name": "Plant Based",
       "url": "https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ"
@@ -9862,7 +9898,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147235,
       "name": "rain on us",
       "url": "https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO"
@@ -9924,7 +9960,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 133714,
       "name": "Rainy Nights",
       "url": "https://open.spotify.com/track/6msJ3cZLOJRjU3z8vKY2h3"
@@ -10068,7 +10104,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 140605,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt"
@@ -10586,7 +10622,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 170344,
       "name": "Sandhamn",
       "url": "https://open.spotify.com/track/77ZSl1MSbASVgW5DOGCMN9"
@@ -10716,7 +10752,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 120008,
       "name": "Seasonal Love",
       "url": "https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv"
@@ -11092,7 +11128,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 135000,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/0LprOZNXWLJdhVAkkykikL"
@@ -11218,7 +11254,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 160947,
       "name": "Smells Like Silverblue",
       "url": "https://open.spotify.com/track/6OmRE9XnZrMMfS9TuuQCPU"
@@ -12376,7 +12412,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 144016,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4noLQWyJ28F0zFz6eTSOOW"
@@ -12448,7 +12484,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 134573,
       "name": "Superman in the Tree",
       "url": "https://open.spotify.com/track/3zK9cqal7EHHYp9f328vcv"
@@ -13052,7 +13088,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 139058,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7op5NFvJzRLffdGkYzJpUX"
@@ -13340,7 +13376,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 113142,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/6pQF5FATuPz4GSihK6hx2p"
@@ -13604,7 +13640,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 134687,
       "name": "Turquoise Shell",
       "url": "https://open.spotify.com/track/3i0pSLBzYPBkFpIU9PPgrh"
@@ -13884,7 +13920,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 133597,
       "name": "Unity",
       "url": "https://open.spotify.com/track/2esxMguB1vPwhv9GgKKMdL"
@@ -14316,7 +14352,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 124090,
       "name": "we finally met",
       "url": "https://open.spotify.com/track/3zhjHhvPEeqhZJKTk4spfh"
@@ -14458,6 +14494,24 @@
       "duration_ms": 249600,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/4k1o4RLLU5Qp8Qc3iWwCnp"
+    },
+    {
+      "album": {
+        "name": "Who's Driving?",
+        "url": "https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs"
+      },
+      "artists": [
+        {
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Who's Driving?",
+      "url": "https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH"
     },
     {
       "album": {
@@ -14668,7 +14722,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 149123,
       "name": "Woodlander",
       "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
@@ -14824,7 +14878,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 86236,
       "name": "yesterday floor",
       "url": "https://open.spotify.com/track/1xAA5ZuoxcefBg3EmxIQJc"
@@ -14930,7 +14984,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 144000,
       "name": "Yobidashi",
       "url": "https://open.spotify.com/track/6PV4hjKJ06jVHSH6HKhTkj"
@@ -14948,7 +15002,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 112124,
       "name": "Your Glow",
       "url": "https://open.spotify.com/track/7wig0c7koqSvDiincDAEXX"

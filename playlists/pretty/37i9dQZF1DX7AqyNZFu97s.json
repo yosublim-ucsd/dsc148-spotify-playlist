@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the UK + Ireland. Cover: Kayleigh Noble",
-  "num_followers": 21499,
+  "num_followers": 21521,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjRhZDg0NTM4NWEyNTkzNGNmNzdjNmYxMmNiZTA5YjJmOGZkOWMw",
+  "snapshot_id": "MCwzZDM1ZjYxNjg3NmRkNzhlZGZmNmM5ZjNmNmU3ZDI0ZDc0NjRjZDky",
   "tracks": [
     {
       "added_at": "2023-10-03 23:00:00",
@@ -556,8 +556,8 @@
       },
       "artists": [
         {
-          "name": "Montykeates",
-          "url": "https://open.spotify.com/artist/5aOWIYpB1ato7lLGn4jtpl"
+          "name": "montykeates",
+          "url": "https://open.spotify.com/artist/3dNJsS411SbdjwgbsQfEtg"
         }
       ],
       "duration_ms": 191950,

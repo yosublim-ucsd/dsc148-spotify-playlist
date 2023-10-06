@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Capo Plaza",
+  "description": "Solo il meglio dello street rap italiano. Cover: Boro, Artie 5ive",
   "name": "Street Culto",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 210500,
       "name": "10 (feat. Sfera Ebbasta & Lazza)",
       "url": "https://open.spotify.com/track/28wHZ9EhKU70CoR1wNZNF3"
@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 195374,
       "name": "100MILA",
       "url": "https://open.spotify.com/track/0xza672DWG7TQnxMSoj5Pm"
@@ -284,6 +284,28 @@
       "duration_ms": 119400,
       "name": "9.19",
       "url": "https://open.spotify.com/track/4xlVDf8pSGnjJGwTT6dyXw"
+    },
+    {
+      "album": {
+        "name": "ABC (feat. Bello Figo)",
+        "url": "https://open.spotify.com/album/5N2chCw2KvN4O0CNZTkXzR"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "Bello Figo",
+          "url": "https://open.spotify.com/artist/59rqdbDiB9oXuZggah1syh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143424,
+      "name": "ABC (feat. Bello Figo)",
+      "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
     },
     {
       "album": {
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 181668,
       "name": "Arai (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
@@ -1997,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Come me",
+        "url": "https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC"
+      },
+      "artists": [
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Come me",
+      "url": "https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j"
+    },
+    {
+      "album": {
         "name": "Come Te",
         "url": "https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX"
       },
@@ -2863,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "ASPETTANDO LA BELLA VITA - Before and After",
+        "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "FINCH\u00c9 NON ARRIVA LA BELLA VITA",
+      "url": "https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR"
+    },
+    {
+      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65"
       },
@@ -3254,7 +3312,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 157714,
       "name": "GTA",
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
@@ -6223,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Seconda Generazione",
+        "url": "https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137079,
+      "name": "Seconda Generazione",
+      "url": "https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6"
+    },
+    {
+      "album": {
         "name": "Seignosse",
         "url": "https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg"
       },
@@ -6439,6 +6515,32 @@
     },
     {
       "album": {
+        "name": "Quarto di Bue",
+        "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "Sintetico (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3NLdcu14EPntcZIn3mxSR7"
+    },
+    {
+      "album": {
         "name": "Snobbava",
         "url": "https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs"
       },
@@ -6534,7 +6636,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 173408,
       "name": "SON FATTO COS\u00cc",
       "url": "https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX"

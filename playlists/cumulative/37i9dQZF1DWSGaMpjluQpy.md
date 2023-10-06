@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-108 songs - 6 hr 14 min
+109 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ain't Misbehavin' \- With Rain](https://open.spotify.com/track/3CLqFFKx3u8sYRfjcw5YKg) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [Ain't Misbehavin'](https://open.spotify.com/album/2PVnJTZBmjYKxzazZAwhxr) | 2:29 | 2023-04-27 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-04-27 |  |
 | [And All Is Well Now](https://open.spotify.com/track/0T2metNGLcq41M0OsIZNRu) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:14 | 2023-04-27 |  |
+| [Another Day](https://open.spotify.com/track/2xmzcOWOdw7KlGDskvEsM5) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Another Day](https://open.spotify.com/album/1uLCEyYLskgtJNf0M4O82z) | 3:46 | 2023-10-06 |  |
 | [Another Day](https://open.spotify.com/track/7KtOVix4R67aOkCcsFzSsM) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Another Day](https://open.spotify.com/album/5Dps681nM2oHCn6EIW6oaE) | 3:48 | 2023-05-18 |  |
 | [As Time Goes By \- Rainy Day](https://open.spotify.com/track/1Ynq0czY9jVcpiQrKHVaiE) | [Charlotte Benton](https://open.spotify.com/artist/3DKEEc4CKrikJN6wkLQtkn) | [As Time Goes By \(Rainy Day\)](https://open.spotify.com/album/0NyhOEDU3V9m3tXhIdIZtU) | 3:18 | 2023-06-01 |  |
 | [Between The Rain](https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Between The Rain](https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP) | 4:26 | 2023-05-11 |  |

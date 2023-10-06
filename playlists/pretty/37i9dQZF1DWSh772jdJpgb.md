@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSh772jdJpgb.md) - [plain]
 
 ### [RADAR Podcasters US](https://open.spotify.com/playlist/37i9dQZF1DWSh772jdJpgb)
 
-> Podcasts you need to have on your RADAR: Stories with Sapphire, Affirmations for Black Girls, and Girlish.
+> Podcasts you need to have on your RADAR: Stories with Just the Nobody's, Brown Bag, Scottie & Sylvia and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 584 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCwzMGM0NjE2OTFkNTgxZWVlZmM3YmE5OWYxMTA1ZjA4YmY1YmY2MmIw`
+Snapshot ID: `MCxlOTM4M2Y2MDY1OWQyYWMyNjE2YTE5NTY3MmFlZTM2ZjdhMDJjY2Vl`

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-467 songs - 17 hr 59 min
+469 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Forest Life](https://open.spotify.com/track/68ZIOt33K90kdFTRiHNu9W) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [Forest Life](https://open.spotify.com/album/39yEiqCwXRptzr1VVRLMo6) | 1:50 | 2021-12-07 | 2022-05-27 |
 | [Forever](https://open.spotify.com/track/6EIkSRZnlyrokUW5SpwRN9) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Feelings](https://open.spotify.com/album/5RjNMYp1Tklx4uVdmYlKik) | 2:54 | 2023-06-06 |  |
 | [forgotten technology](https://open.spotify.com/track/7aTgiXCztG1kPqqO5SgHAy) | [Samarinen](https://open.spotify.com/artist/3v1Ausk0qNaFQecM2VlcKO) | [forgotten technology](https://open.spotify.com/album/7KZ25sdhH1LvzCU9gxuZ0I) | 2:01 | 2021-12-07 |  |
+| [Forrest](https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK) | [Mr Davies](https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K) | [Forrest](https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY) | 2:44 | 2023-10-06 |  |
 | [FORWARD](https://open.spotify.com/track/56IW9O3dVCJ9hdA4TJINVs) | [WASTELAND](https://open.spotify.com/artist/1Nxw0yfsMqk14UsOqMKOXP) | [FORWARD](https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ) | 2:39 | 2021-12-07 |  |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2021-12-07 |  |
 | [Free](https://open.spotify.com/track/7L0oaIyBSqOT86qby2MmOi) | [nitsche](https://open.spotify.com/artist/2DfvZBcBFe2kL0P2U2Ob6A), [Sleeping Dove](https://open.spotify.com/artist/7zub81qpnE40fRD7Cftke8) | [Free](https://open.spotify.com/album/1gsohCQJjnhKU9pwDd6Ub6) | 2:14 | 2022-08-05 | 2023-09-29 |
@@ -364,6 +365,7 @@
 | [Road Trip](https://open.spotify.com/track/7egZDzFPxPlXJe2RaPQYhd) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Road Trip](https://open.spotify.com/album/3H2o8UFe2NzqJdSWgRfVIx) | 2:09 | 2021-12-07 | 2022-12-24 |
 | [roadtripp](https://open.spotify.com/track/6DbwIh4zCLn1POZXjXaubt) | [chilliance](https://open.spotify.com/artist/6C1x6L8cNFWEw8fbnocXZC) | [roadtripp](https://open.spotify.com/album/7EM5p1WI1wpBPUrG46eTXe) | 2:21 | 2021-12-07 |  |
 | [round bird](https://open.spotify.com/track/7rSKadpiQrCkiSGKpBFXX4) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [round bird](https://open.spotify.com/album/6YirhcCuMUVsWH2sXLxQMJ) | 2:18 | 2023-01-13 |  |
+| [rounded](https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [rounded](https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh) | 1:48 | 2023-10-06 |  |
 | [Running Away](https://open.spotify.com/track/1oOVp3mUoS6CSjdYsdjaAi) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Lohbe](https://open.spotify.com/artist/1gkQWhf8PQlIaXgZVohf0z) | [Running Away](https://open.spotify.com/album/0Of7eQQhGZhZsv9GRhttax) | 1:40 | 2022-06-24 | 2022-08-19 |
 | [Safest Place On Earth](https://open.spotify.com/track/0UbNd2SiCac2XutEQPc1zZ) | [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Safest Place On Earth](https://open.spotify.com/album/6Ui1YWXoHUDcXbhaJ76rlE) | 2:52 | 2022-08-19 | 2022-10-14 |
 | [Saint Remi](https://open.spotify.com/track/6b0HoYY2sBYrdrCHkIkMjC) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Saint Remi](https://open.spotify.com/album/4mcHYh8nyGb0jPd66pwkmC) | 1:42 | 2022-07-22 | 2023-09-16 |

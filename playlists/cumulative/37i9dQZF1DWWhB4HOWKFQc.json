@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Donne Maula",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Mitski",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Bass Body Party",
+        "url": "https://open.spotify.com/album/6v8nTczg6FEt6x79EbyF1F"
+      },
+      "artists": [
+        {
+          "name": "Dior Jones",
+          "url": "https://open.spotify.com/artist/6vJGWqVAAelkNaU4vRJmKs"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232942,
+      "name": "Bass Body Party",
+      "url": "https://open.spotify.com/track/0UEAwLwq9drkkrDfgxlGwK"
+    },
+    {
+      "album": {
         "name": "Believe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"
       },
@@ -626,6 +644,24 @@
       "duration_ms": 171130,
       "name": "BUBBLY",
       "url": "https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G"
+    },
+    {
+      "album": {
+        "name": "Bukan Begitu Caramu",
+        "url": "https://open.spotify.com/album/6VRfToOj7zRnB7ZZlwxNGE"
+      },
+      "artists": [
+        {
+          "name": "Good Morning Everyone",
+          "url": "https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242124,
+      "name": "Bukan Begitu Caramu",
+      "url": "https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877"
     },
     {
       "album": {
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 186894,
       "name": "Flip It Up",
       "url": "https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5"
@@ -1396,7 +1432,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 240560,
       "name": "Gather my tears",
       "url": "https://open.spotify.com/track/2KHwO2oP6kWGfir0EWcklE"
@@ -1440,6 +1476,24 @@
       "duration_ms": 102556,
       "name": "GOOD LOYAL THOTS",
       "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
+    },
+    {
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "album": {
@@ -1646,7 +1700,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 163200,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1uOFPJmg1yx3sfBqgv1JAS"
@@ -2108,7 +2162,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 270866,
       "name": "Kurayu Bidadari",
       "url": "https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2"
@@ -2349,6 +2403,28 @@
     },
     {
       "album": {
+        "name": "Mengenang Bintang ( From 'Petualangan Sherina 2' )",
+        "url": "https://open.spotify.com/album/2Yx6TtL6tnapZYniHtWLS3"
+      },
+      "artists": [
+        {
+          "name": "Sherina Munaf",
+          "url": "https://open.spotify.com/artist/3UUS2j9dYbI6MB5ee8d0jp"
+        },
+        {
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/3ife9toV28Lcs5VspZYMLr"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252941,
+      "name": "Mengenang Bintang ( From 'Petualangan Sherina 2' )",
+      "url": "https://open.spotify.com/track/1PI0KjLkj1ZjMqekUocbGN"
+    },
+    {
+      "album": {
         "name": "Menghargai Kata Rindu",
         "url": "https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au"
       },
@@ -2520,6 +2596,24 @@
       "duration_ms": 264939,
       "name": "Muak",
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {
@@ -2846,6 +2940,24 @@
       "duration_ms": 240000,
       "name": "Pengingat",
       "url": "https://open.spotify.com/track/4xVBlNFpqerqcF1a9Qoo0N"
+    },
+    {
+      "album": {
+        "name": "penjaga hati",
+        "url": "https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260346,
+      "name": "penjaga hati",
+      "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
     },
     {
       "album": {
@@ -3232,7 +3344,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 200476,
       "name": "Satu Bulan",
       "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
@@ -3608,7 +3720,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
@@ -3973,6 +4085,24 @@
     },
     {
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303933,
+      "name": "Take A Chance With Me",
+      "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
@@ -4150,7 +4280,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 131612,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/2jNsRYnDMN7408HUtAwAKV"
@@ -4226,7 +4356,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 186000,
       "name": "TOGETHER!",
       "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
@@ -4465,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -4498,6 +4646,24 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
+        "name": "Will U?",
+        "url": "https://open.spotify.com/album/7yW3BRzqcGO0yvSeKA6876"
+      },
+      "artists": [
+        {
+          "name": "Glenn Samuel",
+          "url": "https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206489,
+      "name": "Will U?",
+      "url": "https://open.spotify.com/track/37NHeXSJ86rPJoseHnR91V"
     },
     {
       "album": {
@@ -4566,7 +4732,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 151816,
       "name": "You & I",
       "url": "https://open.spotify.com/track/3mX2GKPSW38pRpdmC9tdvY"

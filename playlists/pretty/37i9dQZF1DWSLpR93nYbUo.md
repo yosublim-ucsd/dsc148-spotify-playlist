@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: Royale BR
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,460 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,479 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 68 | [Sacrifice](https://open.spotify.com/track/5yDjrOfCUPzCrPWUFB1QST) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Sacrifice](https://open.spotify.com/album/6hr9MiOKUoFxcXXeyG7JCS) | 2:58 |
 | 69 | [Your Vibe](https://open.spotify.com/track/4EFch1nFqMzYj4fc4H9FUJ) | [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz) | [Sensations](https://open.spotify.com/album/57QWCatGiqsnXk7qx1zYVV) | 3:39 |
 
-Snapshot ID: `MCxhZTdiOThiMTg4YTVkZDFiNjM5M2M3ODM2ZjMzMWQxZjM3Y2ZjOGIz`
+Snapshot ID: `MCwzZmFmOGVjNjlkODU4YzIxOTI3YmMzN2MzOWQ0MWUxYzU3NjZlNDA1`

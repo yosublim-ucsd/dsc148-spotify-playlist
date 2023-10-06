@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Ayways",
+        "url": "https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ"
+      },
+      "artists": [
+        {
+          "name": "A & C",
+          "url": "https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Ayways",
+      "url": "https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1"
+    },
+    {
+      "album": {
         "name": "Pocket Full of Crystals: Vol 2",
         "url": "https://open.spotify.com/album/3M4IpXtpK6UmwcVm2IU1Vh"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 134302,
       "name": "Basil",
       "url": "https://open.spotify.com/track/4s4vcqz7GJG9cvh31ECa5e"
@@ -1330,6 +1348,24 @@
       "duration_ms": 98526,
       "name": "Calicall",
       "url": "https://open.spotify.com/track/7s7cgU5RJ3vhWp1ZYRr8UR"
+    },
+    {
+      "album": {
+        "name": "calm the mind",
+        "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142791,
+      "name": "calm the mind",
+      "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
     },
     {
       "album": {
@@ -3250,7 +3286,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 168544,
       "name": "God Girl",
       "url": "https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ"
@@ -3744,6 +3780,24 @@
       "duration_ms": 122389,
       "name": "homecoming",
       "url": "https://open.spotify.com/track/5vkLnTZWyAUdceFAHQ8ufN"
+    },
+    {
+      "album": {
+        "name": "honey sweet",
+        "url": "https://open.spotify.com/album/68VuJvWiekf22ADYco8THc"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115291,
+      "name": "honey sweet",
+      "url": "https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x"
     },
     {
       "album": {
@@ -4393,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "here for the night",
+        "url": "https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119916,
+      "name": "late night walking",
+      "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+    },
+    {
+      "album": {
         "name": "Late Night!",
         "url": "https://open.spotify.com/album/3DHZZAAx5uo21W6WH7mnwB"
       },
@@ -4620,7 +4692,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 112507,
       "name": "Like A Tingel",
       "url": "https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV"
@@ -5144,7 +5216,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 102922,
       "name": "METAVERSE",
       "url": "https://open.spotify.com/track/1w2zpyoSEfy2AyY4DevJRM"
@@ -6694,7 +6766,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 99200,
       "name": "Play Around",
       "url": "https://open.spotify.com/track/2Ps6WExRuBd0MSC8HzRd6w"
@@ -8430,7 +8502,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 100000,
       "name": "Sunday Sunset",
       "url": "https://open.spotify.com/track/6KI3tKEcW5NBMIWcHNlh0C"

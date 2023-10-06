@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Jossman. Updates every Inzul, Laura P\u00e9rez.",
-  "num_followers": 172898,
+  "num_followers": 172916,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTM1MGI1MWUzY2JiNjBkZjZkMWJlNWVmMjJlZWNiY2VlMDU0MzM1",
+  "snapshot_id": "MCw2YTNlZDgwZDllNmM0MzQ2Mzk1MGMwMjhkZGM2NTViN2E2ZGIzYzQ0",
   "tracks": [
     {
       "added_at": "2023-10-04 11:31:54",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w"
+        "name": "bololo",
+        "url": "https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE"
       },
       "artists": [
         {
-          "name": "Liana Malva",
-          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
         }
       ],
-      "duration_ms": 170307,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU"
+      "duration_ms": 162352,
+      "name": "bololo",
+      "url": "https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "bololo",
-        "url": "https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE"
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w"
       },
       "artists": [
         {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
         }
       ],
-      "duration_ms": 162352,
-      "name": "bololo",
-      "url": "https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg"
+      "duration_ms": 170307,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -479,6 +479,22 @@
       "duration_ms": 152812,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/34NFzaC2TBpxhNHX6BqtCT"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
+        "name": "De Telenovela",
+        "url": "https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moreno",
+          "url": "https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p"
+        }
+      ],
+      "duration_ms": 172907,
+      "name": "De Telenovela",
+      "url": "https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -523,6 +539,42 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
+        "name": "No Se...",
+        "url": "https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C"
+      },
+      "artists": [
+        {
+          "name": "Brokeboi Rubio",
+          "url": "https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX"
+        }
+      ],
+      "duration_ms": 129586,
+      "name": "No Se...",
+      "url": "https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
+        "name": "Llegar\u00e1",
+        "url": "https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi"
+      },
+      "artists": [
+        {
+          "name": "Ana Naranja",
+          "url": "https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq"
+        },
+        {
+          "name": "Grupo Enkel\u00e9",
+          "url": "https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm"
+        }
+      ],
+      "duration_ms": 233497,
+      "name": "Llegar\u00e1",
+      "url": "https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
         "name": "volumen dos",
         "url": "https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz"
       },
@@ -555,58 +607,6 @@
       "duration_ms": 183194,
       "name": "Animales",
       "url": "https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
-        "name": "De Telenovela",
-        "url": "https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moreno",
-          "url": "https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p"
-        }
-      ],
-      "duration_ms": 172907,
-      "name": "De Telenovela",
-      "url": "https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
-        "name": "Llegar\u00e1",
-        "url": "https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi"
-      },
-      "artists": [
-        {
-          "name": "Ana Naranja",
-          "url": "https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq"
-        },
-        {
-          "name": "Grupo Enkel\u00e9",
-          "url": "https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm"
-        }
-      ],
-      "duration_ms": 233497,
-      "name": "Llegar\u00e1",
-      "url": "https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
-        "name": "No Se...",
-        "url": "https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C"
-      },
-      "artists": [
-        {
-          "name": "Brokeboi Rubio",
-          "url": "https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX"
-        }
-      ],
-      "duration_ms": 129586,
-      "name": "No Se...",
-      "url": "https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -675,6 +675,42 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
+        "name": "Chai",
+        "url": "https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn"
+      },
+      "artists": [
+        {
+          "name": "Mat Alba",
+          "url": "https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK"
+        },
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 197821,
+      "name": "Me Gusta Tu Estilo",
+      "url": "https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
+      },
+      "artists": [
+        {
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "Pak\u00e9 - Bonus Track",
+      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
         "name": "FIESTA FR\u00c1GIL",
         "url": "https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3"
       },
@@ -699,26 +735,6 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "Chai",
-        "url": "https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn"
-      },
-      "artists": [
-        {
-          "name": "Mat Alba",
-          "url": "https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK"
-        },
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 197821,
-      "name": "Me Gusta Tu Estilo",
-      "url": "https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 254000,
       "name": "AQUA",
       "url": "https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
-      },
-      "artists": [
-        {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
-        }
-      ],
-      "duration_ms": 233488,
-      "name": "Pak\u00e9 - Bonus Track",
-      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
+        "name": "ODISEA",
+        "url": "https://open.spotify.com/album/19CApgP42iam502cyN0rhm"
+      },
+      "artists": [
+        {
+          "name": "01:am",
+          "url": "https://open.spotify.com/artist/33IW152RCXRPRH5ZFpi8eM"
+        }
+      ],
+      "duration_ms": 173776,
+      "name": "Vacaciones del delirio",
+      "url": "https://open.spotify.com/track/5wH0NC4iUO8XB3cSRUhLBB"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
         "name": "Tan solo t\u00fa",
         "url": "https://open.spotify.com/album/011PoDcJWr7so3AhX6Bzyz"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 246233,
       "name": "Tan solo t\u00fa",
       "url": "https://open.spotify.com/track/0zDhVPAAa0V21MewJjRkQv"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
-        "name": "ODISEA",
-        "url": "https://open.spotify.com/album/19CApgP42iam502cyN0rhm"
-      },
-      "artists": [
-        {
-          "name": "01:am",
-          "url": "https://open.spotify.com/artist/33IW152RCXRPRH5ZFpi8eM"
-        }
-      ],
-      "duration_ms": 173776,
-      "name": "Vacaciones del delirio",
-      "url": "https://open.spotify.com/track/5wH0NC4iUO8XB3cSRUhLBB"
     }
   ],
   "unique_name": "Fresh Finds Latin",

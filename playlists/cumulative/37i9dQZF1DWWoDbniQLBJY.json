@@ -2359,6 +2359,24 @@
     },
     {
       "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "album": {
         "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
         "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
       },
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 220264,
       "name": "Pronostico",
       "url": "https://open.spotify.com/track/3EFx1JzjOdJQCd6FypuAmh"

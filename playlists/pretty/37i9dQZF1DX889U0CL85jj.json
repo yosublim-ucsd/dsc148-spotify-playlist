@@ -1,29 +1,13 @@
 {
-  "description": "Just chill, and potentially disassociate. ",
-  "num_followers": 2463249,
+  "description": "Just chill, and potentially disassociate, in 2023. ",
+  "num_followers": 2463625,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZiYzQ2ZTU1YmRlZTU4NjkwMzJkNWEwYzdhOTQzYWE2M2ZhYzc0",
+  "snapshot_id": "MCwyNWYwZDM2MWM2ZGZmZGI2NjNlOTFlZWY3MDkwYjZiNzEwZTY0ZDk2",
   "tracks": [
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
-    },
     {
       "added_at": "2023-09-29 19:55:22",
       "album": {
@@ -75,30 +59,6 @@
       "duration_ms": 141176,
       "name": "kevin parker",
       "url": "https://open.spotify.com/track/2FqgIG4zvaLkqMmMhZZU7R"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "60's Baby. (feat. Madeline The Person & thekid.ACE)",
-        "url": "https://open.spotify.com/album/2B2HPT6wfpDL0bJQ3XWvy4"
-      },
-      "artists": [
-        {
-          "name": "Kidsnot$aints.",
-          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
-        },
-        {
-          "name": "Madeline The Person",
-          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
-        },
-        {
-          "name": "thekid.ACE",
-          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
-        }
-      ],
-      "duration_ms": 176410,
-      "name": "60's Baby. (feat. Madeline The Person & thekid.ACE)",
-      "url": "https://open.spotify.com/track/1PSgxaEuyipWKRHoqsrqge"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -179,6 +139,30 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "60's Baby. (feat. Madeline The Person & thekid.ACE)",
+        "url": "https://open.spotify.com/album/2B2HPT6wfpDL0bJQ3XWvy4"
+      },
+      "artists": [
+        {
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+        },
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        },
+        {
+          "name": "thekid.ACE",
+          "url": "https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM"
+        }
+      ],
+      "duration_ms": 176410,
+      "name": "60's Baby. (feat. Madeline The Person & thekid.ACE)",
+      "url": "https://open.spotify.com/track/1PSgxaEuyipWKRHoqsrqge"
     },
     {
       "added_at": "2023-09-29 19:55:22",
@@ -391,6 +375,22 @@
       "duration_ms": 181508,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1pxV36wX49w3PAcv8etdRU"
+    },
+    {
+      "added_at": "2023-09-29 19:55:22",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2023-09-29 19:55:22",

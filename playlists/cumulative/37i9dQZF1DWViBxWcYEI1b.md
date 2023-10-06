@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Ed Sheeran
 
-863 songs - 1 day 23 hr 52 min
+864 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Gasoline](https://open.spotify.com/track/5iMXlszZ6cagxuO0AhVYyx) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Gasoline](https://open.spotify.com/album/4rYabhSgc7ty0NZnjKEY8c) | 3:40 | 2022-01-28 | 2022-03-26 |
 | [Get To You](https://open.spotify.com/track/2rVa5NEiR88cxBSN90pB9N) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Get To You](https://open.spotify.com/album/5f2GDWsjoPArgMMfshdxtZ) | 3:08 | 2023-05-26 | 2023-07-01 |
 | [Ghost](https://open.spotify.com/track/3Y4N8nfJJFOIG6MKDwhu2J) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [Ghost](https://open.spotify.com/album/4hptK4zfRg1fqHZtncMhCA) | 3:32 | 2023-01-13 | 2023-04-09 |
+| [Ghost](https://open.spotify.com/track/61YfUTSPKWTrhqAw66utw1) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/7hSCtKJ7bQmr4w8YlJFACH) | 3:33 | 2023-09-29 |  |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-17 | 2022-02-19 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-02-04 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-15 |  |

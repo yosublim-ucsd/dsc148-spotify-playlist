@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ORovC0GFut8qSeFrxcuwN"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188769,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0Jf5MAnxr6nvkLMEFdrWxd"
+    },
+    {
+      "album": {
         "name": "17 anni (PANICO)",
         "url": "https://open.spotify.com/album/06CnNoCSq9iwCseD2KDGcK"
       },
@@ -458,7 +476,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 193306,
       "name": "a Nessuno",
       "url": "https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a"
@@ -1679,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Brucio Cadendo",
+        "url": "https://open.spotify.com/album/6TtRDJPV8Bj3n5qmetH3YS"
+      },
+      "artists": [
+        {
+          "name": "Disagio",
+          "url": "https://open.spotify.com/artist/7dwwLBiBisMOVpcaAaBqCJ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140636,
+      "name": "Brucio Cadendo",
+      "url": "https://open.spotify.com/track/2tflpWxr7qex0cOzJC2UYV"
+    },
+    {
+      "album": {
         "name": "brutto sogno",
         "url": "https://open.spotify.com/album/3qN9V9iefWolq0VHDTqb3i"
       },
@@ -1906,10 +1942,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198711,
       "name": "Cattiva",
       "url": "https://open.spotify.com/track/0Pb8FIL8fecpxJCVgSxdWL"
+    },
+    {
+      "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186944,
+      "name": "Cattiva - + Cattiva",
+      "url": "https://open.spotify.com/track/4qUcT5VpqM756hIUylvL4y"
     },
     {
       "album": {
@@ -2128,7 +2182,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 139500,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/7tEEqmmsZvUEGupDfsh54X"
@@ -2266,6 +2320,24 @@
       "duration_ms": 143360,
       "name": "CLIPPER 2",
       "url": "https://open.spotify.com/track/4ule3ITCm7kCwq21ld05SH"
+    },
+    {
+      "album": {
+        "name": "club heaven",
+        "url": "https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131937,
+      "name": "club heaven",
+      "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
     },
     {
       "album": {
@@ -2426,7 +2498,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 145400,
       "name": "Come Quando Piove",
       "url": "https://open.spotify.com/track/1iC7pD4qkhnWX7nhgOufeU"
@@ -2466,7 +2538,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 127800,
       "name": "Cosa ci manca",
       "url": "https://open.spotify.com/track/2MYo9JS5X5tF0ft66QRqAd"
@@ -2891,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
+    },
+    {
+      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -3114,7 +3204,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 135000,
       "name": "DISTURBO OSSESSIVO COMPULSIVO",
       "url": "https://open.spotify.com/track/6csZ81pslxZ2R49oqhuHMW"
@@ -3254,7 +3344,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 145347,
       "name": "Domani",
       "url": "https://open.spotify.com/track/70Vzc8udcTKbAdbYWaHda5"
@@ -4323,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Fried Rice",
+        "url": "https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207120,
+      "name": "Fried Rice",
+      "url": "https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2"
+    },
+    {
+      "album": {
         "name": "Fuck U",
         "url": "https://open.spotify.com/album/6W8ZYTSJHBPjFCmISEJmcT"
       },
@@ -5041,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "ho perso (tempo)",
+        "url": "https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY"
+      },
+      "artists": [
+        {
+          "name": "joe croci",
+          "url": "https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154060,
+      "name": "ho perso (tempo)",
+      "url": "https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd"
+    },
+    {
+      "album": {
         "name": "Ho Smesso",
         "url": "https://open.spotify.com/album/6WCNWyTxAISoH3fiVg4OWk"
       },
@@ -5244,6 +5370,42 @@
       "duration_ms": 183531,
       "name": "I Bambini",
       "url": "https://open.spotify.com/track/5cfbyOVx3oDHN0Nhjjv663"
+    },
+    {
+      "album": {
+        "name": "I Don't Love You (Anymore)",
+        "url": "https://open.spotify.com/album/5h6eAnmVkGSZGbibhV4DnX"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/1eXhw6R7CRTzWYvY5f7hNL"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163300,
+      "name": "I Don't Love You (Anymore)",
+      "url": "https://open.spotify.com/track/413J57t7ydyRaNqEscI6IB"
+    },
+    {
+      "album": {
+        "name": "i don\u2019t sleep as good as i used to",
+        "url": "https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183109,
+      "name": "i don\u2019t sleep as good as i used to",
+      "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
     },
     {
       "album": {
@@ -5490,7 +5652,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 199301,
       "name": "IRSB",
       "url": "https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE"
@@ -5642,7 +5804,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 149052,
       "name": "KEN KANEKI",
       "url": "https://open.spotify.com/track/16cE8TWURyFgbDwP0g0gVq"
@@ -6792,6 +6954,28 @@
       "duration_ms": 178290,
       "name": "Maledetti Ricordi",
       "url": "https://open.spotify.com/track/5WBW0To4RydXpvMxUMGoLb"
+    },
+    {
+      "album": {
+        "name": "Mani sul viso",
+        "url": "https://open.spotify.com/album/1oV1JSsAIkhGSfJkTPcoBa"
+      },
+      "artists": [
+        {
+          "name": "Scaglia",
+          "url": "https://open.spotify.com/artist/61C1YBssJpV0rPGdoLjoJ7"
+        },
+        {
+          "name": "Moka",
+          "url": "https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145455,
+      "name": "Mani sul viso",
+      "url": "https://open.spotify.com/track/6Z3iBX7118HNp1eyPZ4FUN"
     },
     {
       "album": {
@@ -8007,6 +8191,28 @@
     },
     {
       "album": {
+        "name": "Odio = Amore = Odio",
+        "url": "https://open.spotify.com/album/7pgcQo9sr2qGvw8oR0THxu"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Odio = Amore = Odio",
+      "url": "https://open.spotify.com/track/3MfvnEIuliMldEn77dey1e"
+    },
+    {
+      "album": {
         "name": "Odio tutti i ricordi",
         "url": "https://open.spotify.com/album/7h2M3bLTIx0NF7hjK2Gvf3"
       },
@@ -8128,7 +8334,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 137391,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr"
@@ -10556,7 +10762,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 168714,
       "name": "Space",
       "url": "https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS"
@@ -10592,7 +10798,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 154500,
       "name": "Sparare alla luna",
       "url": "https://open.spotify.com/track/05936MlT9MfzYIJrBgHNFM"
@@ -11218,7 +11424,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 179141,
       "name": "SUMMERSAD 4",
       "url": "https://open.spotify.com/track/153mTpcY4kLe2PBS0wnvMF"
@@ -12319,6 +12525,24 @@
     },
     {
       "album": {
+        "name": "Universo",
+        "url": "https://open.spotify.com/album/3oD19FIRMi2CapEYwwhJ1I"
+      },
+      "artists": [
+        {
+          "name": "b0nd",
+          "url": "https://open.spotify.com/artist/1wEV0uFQT41Ur0GgbOMRyD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182269,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/2SXHac4DCOsfch7syDg0HB"
+    },
+    {
+      "album": {
         "name": "Musica dal Morto",
         "url": "https://open.spotify.com/album/0zgmJpBrqWzO9sjtDy45QA"
       },
@@ -12388,6 +12612,24 @@
       "duration_ms": 138209,
       "name": "UR SO FULL OF IT (ILY NYC) - Spotify Singles",
       "url": "https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in"
+    },
+    {
+      "album": {
+        "name": "Uragani",
+        "url": "https://open.spotify.com/album/13QK1Wj4lHzuTwd9uWpELC"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Uragani",
+      "url": "https://open.spotify.com/track/4dSbeUXG4uIqtMnGnIq7gx"
     },
     {
       "album": {
@@ -12742,7 +12984,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 183983,
       "name": "WALE RMX (feat. Dari)",
       "url": "https://open.spotify.com/track/0b9eZe50TvLivR8cH1BjB4"

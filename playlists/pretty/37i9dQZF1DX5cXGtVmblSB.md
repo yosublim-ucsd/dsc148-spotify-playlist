@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,987 likes - 67 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,100 likes - 67 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 66 | [By Candlelight](https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:05 |
 | 67 | [Bird Whisperer \(Just Relax\)](https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:48 |
 
-Snapshot ID: `MCw0MjdlYjUxZjg5MTlhZDRiNTliY2QzM2I4MDQ3YzkyMTU1ODI4NzY3`
+Snapshot ID: `MCxiYWQ0NDY0MjUzNDM3YjgxMTUzOGM5MTYwNDkzNjQ4YTM3NzRkY2Q5`

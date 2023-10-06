@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-230 songs - 5 hr 51 min
+234 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Balloon Party](https://open.spotify.com/track/66DGOtPzS4EPX3UDSL8EKS) | [Fiona McVay](https://open.spotify.com/artist/3qo9v7xzJYiKXxeiktZKMi) | [Balloon Party](https://open.spotify.com/album/13XvZ3DOiB88rDhdmGMaa2) | 1:41 | 2022-02-10 |  |
 | [Barefoot Days](https://open.spotify.com/track/1xHfuZy6uF8Rh3ROOGr3oQ) | [Dominick Kay](https://open.spotify.com/artist/271lbtrxDNQEV0u8O0kH6a) | [Barefoot Days](https://open.spotify.com/album/1sPbmPMc4qU3uEKBLR7VSH) | 1:16 | 2022-02-10 |  |
 | [Be my buddy](https://open.spotify.com/track/6OzuVertVkSNRYpDRltpST) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Be my buddy](https://open.spotify.com/album/1IhSX1XMcADYo3dIxSawN3) | 1:27 | 2023-06-02 |  |
+| [bed time](https://open.spotify.com/track/0KZ1vXjd46nN3tC0MKTaVr) | [Little Magic Musicbox](https://open.spotify.com/artist/6CFYooGYq34rOAroXRCltR) | [bed time](https://open.spotify.com/album/5fR1HshvZCTlzHsEdB6Ya4) | 2:17 | 2023-10-06 |  |
 | [Bedtime is Calling](https://open.spotify.com/track/4tdN7pUus2sf1CiiSyurSV) | [Piers Lancaster](https://open.spotify.com/artist/5JTYz3CN60YGOCeXTEgTyY) | [The Stars Are Wonderful](https://open.spotify.com/album/1n3MMITwDgyGQMSmsf98Jd) | 2:03 | 2023-05-19 |  |
 | [Bedtime story](https://open.spotify.com/track/1pZ50uCdpTPoiZHgA0dTdy) | [Rene Roses](https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f) | [Bedtime story](https://open.spotify.com/album/7KQxLKlzRK704NwDLaVK1I) | 1:27 | 2023-06-02 |  |
 | [Bedtime\-MusicBox](https://open.spotify.com/track/72NTpDLAgOgCKtZjm5sqWq) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Bedtime\-MusicBox](https://open.spotify.com/album/1ksNBh0f2WMsY2b0kpXdLL) | 1:25 | 2023-05-19 | 2023-06-09 |
@@ -133,6 +134,7 @@
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 |  |
 | [Minuet in G major](https://open.spotify.com/track/1dbOTzFPfYfIjGeMKZG014) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Classics on Music Box](https://open.spotify.com/album/5bMZ8ncLdI2lF2nKzPgmPx) | 1:13 | 2022-02-10 |  |
 | [Mon papa est fou!](https://open.spotify.com/track/4yLF6kMSFyQRaEVfBE3QJ3) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Mon papa est fou!](https://open.spotify.com/album/44OlIOrbu2SBVRgs3tXUF3) | 1:17 | 2022-02-10 |  |
+| [Morning Serenade](https://open.spotify.com/track/7KjaDUVneZEzICbkQc1yiz) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [Morning Serenade](https://open.spotify.com/album/6WxSfGCxXh8UkdejvuCnDO) | 1:28 | 2023-10-06 |  |
 | [My Beautiful Angel](https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO) | [Un Rose](https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G) | [My Beautiful Angel](https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO) | 1:26 | 2023-05-19 |  |
 | [My Bedtime Fairytale](https://open.spotify.com/track/6g1ykf0HVQpZwnNolxNZrK) | [Egil Nielsen](https://open.spotify.com/artist/0oZuyZXAZ8zvY3ygyApIHf) | [A Goodnight Lullaby](https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk) | 1:49 | 2022-02-10 | 2022-10-08 |
 | [My Big Red Lollipop](https://open.spotify.com/track/6YM1LT4Lky8LVGr3MnUzYd) | [Lucie Avila](https://open.spotify.com/artist/2FPmkspLV88EjMpP6XKnwv) | [My Big Red Lollipop](https://open.spotify.com/album/6mjHxtb2Vbc0naLmpbX2qS) | 1:23 | 2022-02-10 |  |
@@ -145,6 +147,7 @@
 | [My Sweet Sweet Angel](https://open.spotify.com/track/0pkmiHR34jvHpoTu9MjWQy) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Lullabies on Music Box Vol 2](https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF) | 1:27 | 2022-02-10 |  |
 | [New Day](https://open.spotify.com/track/3P4e8Ki7nMUamSdOI4WMCW) | [Violet Lilac](https://open.spotify.com/artist/1ZO5CM8kNuDauWG3I7weEi) | [New Day](https://open.spotify.com/album/4yeppDuc38nL2y8gXmTIep) | 2:14 | 2022-11-25 |  |
 | [No Place Like Home](https://open.spotify.com/track/7EVs1qboR5V7XYt9feFQCv) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [No Place Like Home](https://open.spotify.com/album/4G3srlZ80ysqyqK4yvIrwM) | 1:23 | 2023-02-17 |  |
+| [Now The Night Is Here](https://open.spotify.com/track/3YYIWnW0I3mmRJFBnLguL4) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Now The Night Is Here](https://open.spotify.com/album/6vXjAqFBvtxbztAH7flXLU) | 2:05 | 2023-10-06 |  |
 | [Oh Dear What Can The Matter Be](https://open.spotify.com/track/515HlA9jR6X2deb9ip6C6e) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Oh Dear What Can The Matter Be](https://open.spotify.com/album/5K3M9LU3glsJGEXUsNHDZk) | 1:36 | 2022-02-10 |  |
 | [Oh Susannah](https://open.spotify.com/track/1gc8U1jf7Y8iQXfnnDGgwS) | [Mandy Sol](https://open.spotify.com/artist/135JH3EMElUkfAng9P6ZSZ) | [Oh Susannah](https://open.spotify.com/album/05ofcNrSL2DRLBXCSGuPod) | 1:55 | 2023-08-10 |  |
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/3vMaeivogNy0c26qG1hWo5) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [My Music Box](https://open.spotify.com/album/5i6CK7NPNIqLc3CCXtRXcl) | 2:02 | 2023-08-24 |  |
@@ -185,6 +188,7 @@
 | [Splashing in the Sun](https://open.spotify.com/track/5lL4d60LWLlGnM7MgT0NNn) | [Sara Oh](https://open.spotify.com/artist/2TIZ5af12SXGEKOfsVeAgM) | [Splashing in the Sun](https://open.spotify.com/album/4fY7Y6jqDSYdTGngRbpqjb) | 2:16 | 2022-02-10 |  |
 | [Stars At Night](https://open.spotify.com/track/04V70vnq3Nzdsm2EBEVG2Q) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Stars At Night](https://open.spotify.com/album/4bUVLnW09GW3uXFePzDJrl) | 1:16 | 2022-06-10 |  |
 | [Stay Awake](https://open.spotify.com/track/2UmTmbcO8p4LpZ5uXCblkB) | [Kawaii Box](https://open.spotify.com/artist/6zQ9QH6iOWjY83YkPEzVbX) | [Stay Awake](https://open.spotify.com/album/0776wu8ar1ygalUqsNVbGP) | 1:23 | 2022-09-22 |  |
+| [Summer Winds](https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz) | [My Karlsson](https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa) | [Summer Winds](https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6) | 1:08 | 2023-10-06 |  |
 | [Summertime Waltz](https://open.spotify.com/track/3RAwUnAAIzKKSo0tRxg79H) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Summertime Waltz](https://open.spotify.com/album/5kUIDGogx2UhDNrI2jRBoy) | 2:03 | 2022-05-17 |  |
 | [Sun and Moon](https://open.spotify.com/track/5PNFq0WUwzuIOt4UMkUBKz) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [Close Your Eyes \(and Fall Asleep\)](https://open.spotify.com/album/3lP1kXb7V4olCqoREUQaR7) | 2:04 | 2022-02-10 |  |
 | [Sunny Slope](https://open.spotify.com/track/6y6v0UwqAF6rIHMorMzhKh) | [Mike Lusty](https://open.spotify.com/artist/5GBDVf1uHDtgMMogIxt8wo) | [Sunny Slope](https://open.spotify.com/album/412nFRM9lfbEAKNwaGFWzN) | 1:14 | 2023-06-08 |  |

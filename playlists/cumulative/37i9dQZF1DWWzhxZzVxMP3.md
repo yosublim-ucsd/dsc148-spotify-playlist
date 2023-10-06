@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-188 songs - 10 hr 57 min
+189 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [I was made for lovin´you](https://open.spotify.com/track/0ADLsDbsvP5czdbY2eP0CL) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [Bossanova Chill 1](https://open.spotify.com/album/3i1c4TS3vifZBHzCVF18i2) | 2:57 | 2023-04-13 | 2023-05-17 |
 | [I'm a Believer](https://open.spotify.com/track/0yTBvCPbMVxYvvWnpoy8ow) | [Beatriz e Lucas](https://open.spotify.com/artist/1LxQpviFYCwIWmtrF6ovDF) | [I'm a Believer](https://open.spotify.com/album/3F26BIDMg3sjA0FIRyTBw5) | 3:30 | 2022-03-10 |  |
 | [I'm Not In Love](https://open.spotify.com/track/6B9hL79uAga4MbKPHlTEJ6) | [Bossa Bros](https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V), [Nara](https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81) | [I'm Not In Love](https://open.spotify.com/album/7zQrgdNXkKwGUV0d1XjVkF) | 2:43 | 2023-05-16 |  |
+| [I'm On Fire](https://open.spotify.com/track/27OXWLEMK1JSNH2qJEwEED) | [Lady Monarda](https://open.spotify.com/artist/5AWmHfPfDnS8vTuYD4T4d2) | [I'm On Fire](https://open.spotify.com/album/7ryRXjOdfvLXEBSGhqfX5O) | 3:18 | 2023-10-06 |  |
 | [If I Can't Have You](https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [If I Can't Have You](https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB) | 4:02 | 2022-03-10 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/1uUIoD7HOAN6qh8FKQAvKo) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [If You Leave Me Now](https://open.spotify.com/album/1ImEyP8L5Qc5UzUR5DEgUa) | 3:48 | 2022-03-10 |  |
 | [Intentions \- Bossa Nova](https://open.spotify.com/track/5A1otHjzRV8nNicKYeHD7h) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [Intentions \(Bossa Nova\)](https://open.spotify.com/album/5EnZCndm8Jg2XXi1o9WR3P) | 2:42 | 2023-05-16 |  |

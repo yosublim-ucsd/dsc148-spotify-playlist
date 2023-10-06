@@ -2,7 +2,7 @@
 
 ### [RADAR Podcasters France](https://open.spotify.com/playlist/37i9dQZF1DWSvFcCTKoddA)
 
-> Les podcasts que vous devriez avoir sur votre RADAR : Central Podcast, Inspiration Créative et  et Mamie dans les orties.
+> Découvrez les créateurs de demain.
 
 9 songs - 7 hr 41 min
 

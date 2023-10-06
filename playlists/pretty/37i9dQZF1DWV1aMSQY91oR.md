@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Rick Ross, Meek Mill
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,076 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,100 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 23 | [Rap Game Dead](https://open.spotify.com/track/0XHuPRrqUSjup0cyPc1kSF) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Rap Game Dead](https://open.spotify.com/album/0WAtfFhLs7okYM50r51RIv) | 3:12 |
 | 24 | [Run Through](https://open.spotify.com/track/1X0TfANeGJ9Q2cjagTc7Ig) | [The Plug](https://open.spotify.com/artist/5r3fI2q1YU3QyVP7oncOQ9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Run Through](https://open.spotify.com/album/5zQzRSmAlbJPu2I87TE87R) | 4:14 |
 | 25 | [Yea Yea \(with Dreezy\)](https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Yea Yea](https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv) | 3:03 |
-| 26 | [Lil Mo \(feat\. DJ Drama\)](https://open.spotify.com/track/4lpYDPtkcyxXc8StYnqe1E) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Lil Mo \(feat\. DJ Drama\)](https://open.spotify.com/album/7kV86VajOjgkskeUhwc2xX) | 2:22 |
+| 26 | [Lil Mo](https://open.spotify.com/track/4lpYDPtkcyxXc8StYnqe1E) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Lil Mo](https://open.spotify.com/album/7kV86VajOjgkskeUhwc2xX) | 2:22 |
 | 27 | [High Fashion](https://open.spotify.com/track/3VwmjJMWdJ2PEiMpag8g6E) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Son Of The Soil](https://open.spotify.com/album/2bpVooaqPufHWqA4d414fX) | 2:21 |
 | 28 | [BALLE DANS LE COEUR](https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D) | [Ikaz Boi](https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BRUT4L](https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC) | 2:40 |
 | 29 | [Signs](https://open.spotify.com/track/0xvMlF1iLu3IYRsHb5zJ3b) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [No Mans Land](https://open.spotify.com/album/14oURAAAF3cvntgf1Va5tg) | 2:23 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 50 | [Lighter](https://open.spotify.com/track/5NtpxGpuqZpZhNtr48vYWM) | [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [Lighter](https://open.spotify.com/album/0Ep00ARanHHc4ggmT4Crs6) | 2:29 |
 | 51 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
 
-Snapshot ID: `MCw1OTEwMjUzYzg4NWJlNGZkMzIwNGU2ZDZhMTRmMDgzNThmM2NhMGYy`
+Snapshot ID: `MCw2ZGEwYjRiZmYxN2M4MGYyYzdmNzYxZDEzNDZlYWRlNzExNmZlOThk`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: ENZO",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: No Money Enterprise",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2658,7 +2658,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 91976,
       "name": "DOIN' TOO MUCH (Freestyle)",
       "url": "https://open.spotify.com/track/2zCTJlAIXiDiB01a8PcBKa"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158400,
       "name": "EVIL TWIN",
       "url": "https://open.spotify.com/track/6tlhV7i25zUTd5vNl0n38z"
@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 162618,
       "name": "G Like Me",
       "url": "https://open.spotify.com/track/41yG2gsOzmWIMs4yZghZSj"
@@ -3755,7 +3755,7 @@
     },
     {
       "album": {
-        "name": "GEEK'D UP (feat. K4NIKI)",
+        "name": "GEEK'D UP",
         "url": "https://open.spotify.com/album/7jR5PHqErRCQ0DImbN3KHJ"
       },
       "artists": [
@@ -3772,7 +3772,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 114901,
-      "name": "GEEK'D UP (feat. K4NIKI)",
+      "name": "GEEK'D UP",
       "url": "https://open.spotify.com/track/72k5ui6BnVMyTU9xORhN8N"
     },
     {
@@ -3832,6 +3832,24 @@
       "duration_ms": 200143,
       "name": "Gettin' Loud (Test Me)",
       "url": "https://open.spotify.com/track/4agzaTHNJHZTK70o7uGN0k"
+    },
+    {
+      "album": {
+        "name": "GHOST",
+        "url": "https://open.spotify.com/album/4AWX3NaFPug2zqRTIOEIy1"
+      },
+      "artists": [
+        {
+          "name": "Tbi$h",
+          "url": "https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/0RWdTYTC4Vr0HYUs6Uz2TE"
     },
     {
       "album": {
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 176250,
       "name": "High Life",
       "url": "https://open.spotify.com/track/2KDA7EmO98XoRZFEw0ZDTQ"
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 189115,
       "name": "Jordan 1s",
       "url": "https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e"
@@ -5248,7 +5266,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 148800,
       "name": "KEEP IT SIMPLE STUPID.",
       "url": "https://open.spotify.com/track/73cpGMjBQ72ZTKWR5HKFJN"
@@ -5426,6 +5444,24 @@
       "duration_ms": 202221,
       "name": "Laced Up",
       "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
+    },
+    {
+      "album": {
+        "name": "Lalaland",
+        "url": "https://open.spotify.com/album/7fA8X5QbJNtDdXD0aniB4a"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178578,
+      "name": "Lalaland",
+      "url": "https://open.spotify.com/track/7fJhooeTwsnUs3XBMXfQ8w"
     },
     {
       "album": {
@@ -5806,6 +5842,24 @@
       "duration_ms": 137622,
       "name": "Living To Die",
       "url": "https://open.spotify.com/track/4801CYp9cOXb2nrYpU1dDT"
+    },
+    {
+      "album": {
+        "name": "LLTK",
+        "url": "https://open.spotify.com/album/1D1ouEX6eIt8I3iF4RpqfV"
+      },
+      "artists": [
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "LLTK",
+      "url": "https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp"
     },
     {
       "album": {
@@ -6690,7 +6744,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 158075,
       "name": "MR LUCKY",
       "url": "https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM"
@@ -7745,6 +7799,28 @@
     },
     {
       "album": {
+        "name": "Paid",
+        "url": "https://open.spotify.com/album/0vROoT7XfqIs6GTo3eVzzG"
+      },
+      "artists": [
+        {
+          "name": "T Breezy",
+          "url": "https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E"
+        },
+        {
+          "name": "Walkerboy",
+          "url": "https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119887,
+      "name": "Paid",
+      "url": "https://open.spotify.com/track/5s7xEh1bY1a3543Uyl2hAb"
+    },
+    {
+      "album": {
         "name": "Paid Our Dues",
         "url": "https://open.spotify.com/album/4vcPSEIWa5yuAqL983EalS"
       },
@@ -8048,6 +8124,50 @@
       "duration_ms": 119000,
       "name": "PRETTY",
       "url": "https://open.spotify.com/track/3j9dzoKjSbYAopfrwkXFmn"
+    },
+    {
+      "album": {
+        "name": "Pretty Lies",
+        "url": "https://open.spotify.com/album/7siS5C7R6cB8ysAHpXxink"
+      },
+      "artists": [
+        {
+          "name": "BnB",
+          "url": "https://open.spotify.com/artist/4jUxz9vL5BF7GAakeqD1iS"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151271,
+      "name": "Pretty Lies",
+      "url": "https://open.spotify.com/track/3eoC0wfs5yy14YeHW98mje"
+    },
+    {
+      "album": {
+        "name": "Sinning Winning Living",
+        "url": "https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Masi Rooc",
+          "url": "https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc"
+        },
+        {
+          "name": "NASA NOVA",
+          "url": "https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Proper",
+      "url": "https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv"
     },
     {
       "album": {
@@ -10096,7 +10216,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 142921,
       "name": "Times Up",
       "url": "https://open.spotify.com/track/0mcN2AnotLaWI373LrZvfC"
@@ -10807,6 +10927,28 @@
     },
     {
       "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/6cmmB4MFzKjO7L7qms5VTt"
+      },
+      "artists": [
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        },
+        {
+          "name": "lxrdmc",
+          "url": "https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123426,
+      "name": "Victorian Bitter",
+      "url": "https://open.spotify.com/track/027z8cYDP8ADT0iDFEYjV0"
+    },
+    {
+      "album": {
         "name": "Area Baby",
         "url": "https://open.spotify.com/album/722ZytuYgZwwGZLF04HPog"
       },
@@ -11514,6 +11656,32 @@
       "duration_ms": 135652,
       "name": "YAPPA YAPPA",
       "url": "https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA"
+    },
+    {
+      "album": {
+        "name": "YES (feat. DJ Total Eclipse and Marlon)",
+        "url": "https://open.spotify.com/album/0gLSf7LwSNs1n3m933mzA3"
+      },
+      "artists": [
+        {
+          "name": "A.B. Original",
+          "url": "https://open.spotify.com/artist/6Lgfto5TiWLnHMpERQXlB9"
+        },
+        {
+          "name": "DJ Total Eclipse",
+          "url": "https://open.spotify.com/artist/3lVgX2pjwAWfHusNsnvWrV"
+        },
+        {
+          "name": "MARLON",
+          "url": "https://open.spotify.com/artist/3b6PHC15TZKbHLFxvD8Zkl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170408,
+      "name": "YES (feat. DJ Total Eclipse and Marlon)",
+      "url": "https://open.spotify.com/track/4fvaEX62sG4RJdpBvrnvyI"
     },
     {
       "album": {

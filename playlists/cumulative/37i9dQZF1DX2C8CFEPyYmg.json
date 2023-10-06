@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Ram Sam Sam",
+        "url": "https://open.spotify.com/album/1PZFZOpxv3QiF0jZdthMMH"
+      },
+      "artists": [
+        {
+          "name": "Tones From Samwell",
+          "url": "https://open.spotify.com/artist/6Iz6MEdFyo1ggJmBoPXaKD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158155,
+      "name": "A Ram Sam Sam",
+      "url": "https://open.spotify.com/track/624ysCV4lbaZ1xze4tSAXE"
+    },
+    {
+      "album": {
         "name": "A Sailor Went To Sea",
         "url": "https://open.spotify.com/album/4qObDua5L9IGenpPNdGMCc"
       },
@@ -2788,7 +2806,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 139374,
       "name": "Goodnight Sweetheart, Goodnight",
       "url": "https://open.spotify.com/track/5PP6QALJTFPyb8rfCx3RIs"
@@ -4235,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Lullaby of The Fairy",
+        "url": "https://open.spotify.com/album/0EHdwan6UPxCHjjQAEQBdW"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Perez Fuentes",
+          "url": "https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89262,
+      "name": "Lullaby of The Fairy",
+      "url": "https://open.spotify.com/track/0jMm4o1MyOQWuXU7EMYMJd"
+    },
+    {
+      "album": {
         "name": "Lundi matin",
         "url": "https://open.spotify.com/album/0twvUvkbakjQSxE55lhoes"
       },
@@ -4948,7 +4984,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 151075,
       "name": "My Snuggle",
       "url": "https://open.spotify.com/track/0EUa9afxxkHKR6E9yFrsaR"
@@ -5726,6 +5762,24 @@
       "duration_ms": 107062,
       "name": "Sing a Song of Sixpence",
       "url": "https://open.spotify.com/track/51B1rFUHZDycoKTckQxaee"
+    },
+    {
+      "album": {
+        "name": "Sing a Song of Sixpence",
+        "url": "https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow"
+      },
+      "artists": [
+        {
+          "name": "Little Otis",
+          "url": "https://open.spotify.com/artist/3KQob5Z5mFfoercRYtE6m4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101037,
+      "name": "Sing a Song of Sixpence",
+      "url": "https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC"
     },
     {
       "album": {
@@ -6874,7 +6928,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 129983,
       "name": "The Mulberry Bush",
       "url": "https://open.spotify.com/track/6yE3oqujPvKKVuwqdoALlh"
@@ -7180,7 +7234,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 152624,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/5gIh1gUi9kU5OpqCOOTbc1"

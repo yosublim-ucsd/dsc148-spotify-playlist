@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODI2LDQwYjQ3NzQwMmE4NzRjZWI5Y2ZmNGUxYjIwNDU0MTkzMzUxYTgyMGU=",
+  "snapshot_id": "ODI4LDAzYTQzYTY1NjMxODBiOWUxYWVlYWMzZjVlYTU5M2FlMWVkZGU0MTE=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -12531,6 +12531,46 @@
       "duration_ms": 237918,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3"
+    },
+    {
+      "added_at": "2023-10-05 04:55:52",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 238614,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "added_at": "2023-10-05 23:30:43",
+      "album": {
+        "name": "Blessings (Extended Version)",
+        "url": "https://open.spotify.com/album/5Isq5L9DWNCRfvFAG6WFN7"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 301960,
+      "name": "Blessings - Extended Version",
+      "url": "https://open.spotify.com/track/4UaWrzY75h1tAvlxa4NKP9"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

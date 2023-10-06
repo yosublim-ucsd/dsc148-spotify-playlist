@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 330786,
+  "num_followers": 330835,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl",
+  "snapshot_id": "MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
-      },
-      "artists": [
-        {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
-        }
-      ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Stay Beautiful",
         "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Lips Like Oxygen Reimagined",
-        "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
       },
       "artists": [
         {
-          "name": "Oh, Weatherly",
-          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
         }
       ],
-      "duration_ms": 191938,
-      "name": "You Were The Letdown (Chasing California)",
-      "url": "https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo"
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Acoustic Volume 2",
+        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 215385,
+      "name": "It Don't Exist",
+      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Acoustic Volume 2",
-        "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
+        "name": "Lips Like Oxygen Reimagined",
+        "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
       },
       "artists": [
         {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+          "name": "Oh, Weatherly",
+          "url": "https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ"
         }
       ],
-      "duration_ms": 215385,
-      "name": "It Don't Exist",
-      "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
+      "duration_ms": 191938,
+      "name": "You Were The Letdown (Chasing California)",
+      "url": "https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Seattle",
-        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
-      },
-      "artists": [
-        {
-          "name": "Those Without",
-          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
-        }
-      ],
-      "duration_ms": 206047,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Empty Throne (Acoustic)",
         "url": "https://open.spotify.com/album/5Oad5COo5IwNpeqDsWedmg"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 295800,
       "name": "Empty Throne - Acoustic",
       "url": "https://open.spotify.com/track/6ENH2r9VtuBrPmAV5R7t1f"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Seattle",
+        "url": "https://open.spotify.com/album/5Shjpd37iIUMaNoyBLcLGT"
+      },
+      "artists": [
+        {
+          "name": "Those Without",
+          "url": "https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy"
+        }
+      ],
+      "duration_ms": 206047,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/2T2knVSbMmqPpI4bSdChuV"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "A Decade Under The Influence - Acoustic",
+      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 215979,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "A Decade Under The Influence - Acoustic",
-      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "When the Dust Settles",
-        "url": "https://open.spotify.com/album/2vsNr3uR7EfWMj2Qqt0i4U"
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp"
       },
       "artists": [
         {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+          "name": "Go For Gold",
+          "url": "https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ"
         }
       ],
-      "duration_ms": 188093,
-      "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
-      "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"
+      "duration_ms": 181500,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO"
     }
   ],
   "unique_name": "Punk Unplugged",

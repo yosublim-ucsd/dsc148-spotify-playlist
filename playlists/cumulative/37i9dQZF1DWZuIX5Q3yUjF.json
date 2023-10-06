@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Davide Shorty",
+  "description": "Il meglio dell'R&B italiano. Cover: Etta Jungle",
   "name": "anima R&B",
   "tracks": [
     {
@@ -530,6 +530,24 @@
       "duration_ms": 172290,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ"
+    },
+    {
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/2gvy2XxnC1sl0MtIFkHP0Y"
+      },
+      "artists": [
+        {
+          "name": "Joshua",
+          "url": "https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146399,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0MpDXFKJoAYha6BpLlt9jI"
     },
     {
       "album": {
@@ -1977,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "ESSA",
+        "url": "https://open.spotify.com/album/1Lg4Hae20BLsU9daZ5bRnA"
+      },
+      "artists": [
+        {
+          "name": "Livio Cori",
+          "url": "https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "ESSA",
+      "url": "https://open.spotify.com/track/1XegoRQwPnsCdVfnzupWc7"
+    },
+    {
+      "album": {
         "name": "Essere Me",
         "url": "https://open.spotify.com/album/3DPY01qZnJKhWRJytbN9fG"
       },
@@ -2250,6 +2286,24 @@
       "duration_ms": 150256,
       "name": "Fiori Stanchi",
       "url": "https://open.spotify.com/track/3aVujWlpVrqvuMZvfUpRQu"
+    },
+    {
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/565Jcbq35xeUIwonq4H6Gr"
+      },
+      "artists": [
+        {
+          "name": "Etta Jungle",
+          "url": "https://open.spotify.com/artist/4qx8XNik3zFtPhaiIqwiMR"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258375,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3iOt1cHCNr8bbUkmOsOIIs"
     },
     {
       "album": {
@@ -2792,7 +2846,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 160000,
       "name": "I film non sono bastati",
       "url": "https://open.spotify.com/track/4SSCJmAu1ApX5X0TCUjUJk"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 175667,
       "name": "Janara",
       "url": "https://open.spotify.com/track/6c2To2ELFZ6MEPQCPHZLiq"
@@ -3524,7 +3578,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 259384,
       "name": "Lido",
       "url": "https://open.spotify.com/track/1A2QWvmyc0BXVcjdjKL6Wg"
@@ -4519,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Non oggi",
+        "url": "https://open.spotify.com/album/0egLwI4WNbZF549IUSleAt"
+      },
+      "artists": [
+        {
+          "name": "Luca Notaro",
+          "url": "https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p"
+        },
+        {
+          "name": "Alessandro Rase",
+          "url": "https://open.spotify.com/artist/5CXKssrGe7iT4wZfge8Vit"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187588,
+      "name": "Non oggi",
+      "url": "https://open.spotify.com/track/544DE6Qyylu3TJsNxRTe5w"
+    },
+    {
+      "album": {
         "name": "non siamo crazy in love",
         "url": "https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN"
       },
@@ -5448,7 +5524,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 203173,
       "name": "Residui",
       "url": "https://open.spotify.com/track/2QhVRIYxFNFO6I2nZFZp4O"
@@ -5658,7 +5734,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 174193,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/3CcaCV8H6VsCm2SkuY7QbO"
@@ -5966,7 +6042,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 185454,
       "name": "Senza di me",
       "url": "https://open.spotify.com/track/7mBnEZdrqckJ6wQJtPm6hk"
@@ -6506,7 +6582,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 140739,
       "name": "Stupida Martina",
       "url": "https://open.spotify.com/track/6Ut5ILQVSB8scoQo6Dzg2O"
@@ -7072,7 +7148,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 160496,
       "name": "Tutto Ok",
       "url": "https://open.spotify.com/track/5DG0NOLgGIVzYTeljm0AKw"
@@ -7272,7 +7348,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 186739,
       "name": "VACANZE ROMANE",
       "url": "https://open.spotify.com/track/3F5xoT8lQhOWVR69JXJSaj"

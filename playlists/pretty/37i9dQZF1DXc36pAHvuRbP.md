@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 393 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 7 | [Chanson: Le grand voyage](https://open.spotify.com/track/2WtsoHzMGBDnxAs6D1Eggy) | [Néry](https://open.spotify.com/artist/6wonSnG8fbmUDQKCKTEOcE), [Simon Mimoun](https://open.spotify.com/artist/6Z5ZpI2cuiqXSruorIiQsQ), [Didier Wampas](https://open.spotify.com/artist/2FAz9uibBqE9W5FQKlluEr), [Vincent Tirilly](https://open.spotify.com/artist/0rTVQtWkQFVCXruAqM4pRW), [Alexis HK](https://open.spotify.com/artist/4cdkYUFAZumsOU73JrhUg0), [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj), [Magyd Cherfi](https://open.spotify.com/artist/4azXlO6MXTNuRmpEGbzPRp), [Adrienne Pauly](https://open.spotify.com/artist/2ajYWJbGYdzpGnxEgXjDLa), [Carmen Maria Vega](https://open.spotify.com/artist/4BeUJGT638jeAuAvtm51oE) | [Le grand voyage d'Annabelle](https://open.spotify.com/album/4xwrbCJEwHX2X4c7NqikMD) | 3:21 |
 | 8 | [365 jours pour être sage \- par Mortelle Adèle](https://open.spotify.com/track/1yoz1SMa3jDXPwbwS74VeE) | [Mortelle Adèle](https://open.spotify.com/artist/1hSghuZf5K4cnrNz5QxetO), [Dorothée Pousséo](https://open.spotify.com/artist/1jTFyYpVYaTirvncPoQ4t3) | [365 jours pour être sage \(par Mortelle Adèle\)](https://open.spotify.com/album/3db5aybmefASkXcR6IVsNg) | 3:07 |
 | 9 | [Toujours là pour toi](https://open.spotify.com/track/0gJ1YOvvD5OIF8uG5G3Q7M) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 3:30 |
-| 10 | [Autour de moi](https://open.spotify.com/track/6EpXwboUl09zAeFJhqQvOL) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 4:11 |
+| 10 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
 | 11 | [Les jalousies](https://open.spotify.com/track/5nu3wQwlF5c7p7euAXMBd9) | [Sarah Donna](https://open.spotify.com/artist/3FLl0HVVuKbEZZytvxBOZx) | [Les arcs\-en\-ciel](https://open.spotify.com/album/2ifcwNKrmNqelFXwC2cF4b) | 2:46 |
 | 12 | [Les poissons panés](https://open.spotify.com/track/1OF1i7TZnKq96uL3GjXkI7) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:51 |
 | 13 | [Tout simplement](https://open.spotify.com/track/0PBk93EyJBctNlOTV7DZ2R) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:00 |
-| 14 | [Po\-po\-pollutions](https://open.spotify.com/track/0IxX2UcP54UqvzsU48cv7I) | [Tartine Reverdy](https://open.spotify.com/artist/1whYmO7nzvBoPhtC3HtnEe) | [Dans les bois](https://open.spotify.com/album/49ZMQ81ruV7VPNQW341eOQ) | 2:18 |
+| 14 | [Autour de moi](https://open.spotify.com/track/6EpXwboUl09zAeFJhqQvOL) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 4:11 |
 | 15 | [Etre tous différents](https://open.spotify.com/track/2DboRq9RJUUKVRIHgZsFXT) | [2Lmusique](https://open.spotify.com/artist/4i6RVJT4zA5mD0yQLstATx), [Lyly and co](https://open.spotify.com/artist/4fYCzO3Bkci6TG2cG1EtNZ) | [Etre tous différents](https://open.spotify.com/album/5BQWigU2ysC5t0LKL0wD7E) | 1:36 |
 | 16 | [La journée des bisous](https://open.spotify.com/track/2jdi2xNuC8lSFQ7CM89ROa) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:25 |
 | 17 | [Une colombe](https://open.spotify.com/track/5vVAWiCQWmdwMBpO3nkOCQ) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h), [L'école des fables](https://open.spotify.com/artist/6VqB8qao04IRzpAn8U8sLf) | [Une colombe](https://open.spotify.com/album/392eSZskLbb3cUW5ybv6ls) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 49 | [S'il te plaît](https://open.spotify.com/track/1k3J1si2Kb8mzd78MQY7wl) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:34 |
 | 50 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
 
-Snapshot ID: `MCw0ZDlmNWExYzZlYThjYzY3ODJlZmVmMjNlMTRiZjU0ZmE4ZjAzNThk`
+Snapshot ID: `MCw4NmE3MDA0MTI1YjBlNTI5OGFiYmE4MWEyNGFiNTM0MTkzNDg1NTgx`

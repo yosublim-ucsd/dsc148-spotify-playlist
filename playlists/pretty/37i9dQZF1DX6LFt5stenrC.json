@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTUxN2ZiNzMyMjFkOTlhZGY0YzQzNzljMTNkNWZhYTA2MTFmYzEx",
+  "snapshot_id": "MCxlMGRmMGUwZWRkNmIxMTYyZTlmNGUwZjc1NzA3MTQ2MWE4Mzc4ZjQw",
   "tracks": [
     {
       "added_at": "2023-01-27 10:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-27 10:00:00",
       "album": {
-        "name": "Disney Junior Music: Fancy Nancy",
-        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
-      },
-      "artists": [
-        {
-          "name": "Fancy Nancy - Cast",
-          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
-        }
-      ],
-      "duration_ms": 53568,
-      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
-      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
-    },
-    {
-      "added_at": "2023-01-27 10:00:00",
-      "album": {
         "name": "Doc McStuffins: The Doc Is In",
         "url": "https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 56146,
       "name": "Doc McStuffins Theme Song",
       "url": "https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO"
+    },
+    {
+      "added_at": "2023-01-27 10:00:00",
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "duration_ms": 53568,
+      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
+      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
     },
     {
       "added_at": "2023-01-27 10:00:00",

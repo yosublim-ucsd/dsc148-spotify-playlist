@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Chales Ans y Sharif en portada. ",
-  "num_followers": 11337,
+  "num_followers": 11360,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGEyYjk3NGJlYmM3Y2QyNWY0OWZlOGRmOTI4OWJmYzI4NjM1YWVm",
+  "snapshot_id": "MCwzMDMxNDA1YTk5MTkyZjMzMWI4OGI0ZTZmYTdlOGNmMGNjOWYyZjNj",
   "tracks": [
     {
       "added_at": "2023-09-29 06:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Dale Suave",
+        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Dale Suave",
+      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Dale Suave",
-        "url": "https://open.spotify.com/album/38FlfeLsbcYQmvjFwvNGLD"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Dale Suave",
-      "url": "https://open.spotify.com/track/0UOv3dYas1tswNPKBqQFur"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "3x4",
-        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 167224,
-      "name": "3x4",
-      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "La Mision 3",
         "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 282598,
       "name": "La Mision 3",
       "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "3x4",
+        "url": "https://open.spotify.com/album/1Us6yo0j7GBlAhsWuMnb9e"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "3x4",
+      "url": "https://open.spotify.com/track/2m0mg2ImTyR4bKV5oW2x57"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "\u00edcaro",
+        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 169019,
+      "name": "\u00edcaro",
+      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "La Gracia De Dios",
         "url": "https://open.spotify.com/album/08s0FhULMFKmc0lhgeo2Jv"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 270897,
       "name": "La Gracia De Dios",
       "url": "https://open.spotify.com/track/08mntOthYaS6L1TClH3oYR"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "\u00edcaro",
-        "url": "https://open.spotify.com/album/1vtrBs348NQgNBIJG2cUFH"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 169019,
-      "name": "\u00edcaro",
-      "url": "https://open.spotify.com/track/68BnzdIbvcoW11I0EhVvwb"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -695,18 +695,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "CIEN SHOWS",
-        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
+        "name": "Flight 0010",
+        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
       },
       "artists": [
         {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
         }
       ],
-      "duration_ms": 265360,
-      "name": "CIEN SHOWS",
-      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
+      "duration_ms": 130503,
+      "name": "Flight 0010",
+      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -735,26 +743,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Flight 0010",
-        "url": "https://open.spotify.com/album/2HPB8zuGyuVdJfKeRhqYhZ"
+        "name": "CIEN SHOWS",
+        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
       },
       "artists": [
         {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "Dave Gars\u00eda",
-          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
-        },
-        {
-          "name": "Meny Mendez",
-          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
         }
       ],
-      "duration_ms": 130503,
-      "name": "Flight 0010",
-      "url": "https://open.spotify.com/track/4JiJIHGtiXypG2yw804UvJ"
+      "duration_ms": 265360,
+      "name": "CIEN SHOWS",
+      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -771,22 +771,6 @@
       "duration_ms": 271714,
       "name": "B\u00e9same Lento",
       "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 371367,
-      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -819,22 +803,18 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "El Callej\u00f3n",
-        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
       },
       "artists": [
-        {
-          "name": "Jorge Carmona",
-          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
-        },
         {
           "name": "Sipo One",
           "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
         }
       ],
-      "duration_ms": 256049,
-      "name": "El Callej\u00f3n",
-      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
+      "duration_ms": 371367,
+      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -855,6 +835,26 @@
       "duration_ms": 227702,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Zatoichi",
-        "url": "https://open.spotify.com/album/5KUXLPgaaF1ruspnKvTOgX"
-      },
-      "artists": [
-        {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
-        }
-      ],
-      "duration_ms": 194056,
-      "name": "Zatoichi",
-      "url": "https://open.spotify.com/track/0nuqDpbo1o8LuNp7ACFMal"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "El G.O.A.T. (Deluxe)",
         "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 237453,
       "name": "La Hora Es\u2026",
       "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Zatoichi",
+        "url": "https://open.spotify.com/album/5KUXLPgaaF1ruspnKvTOgX"
+      },
+      "artists": [
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        }
+      ],
+      "duration_ms": 194056,
+      "name": "Zatoichi",
+      "url": "https://open.spotify.com/track/0nuqDpbo1o8LuNp7ACFMal"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Callejon",
-        "url": "https://open.spotify.com/album/0U3xOtyt5fhBQ5cbsCGuTB"
-      },
-      "artists": [
-        {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
-        }
-      ],
-      "duration_ms": 196329,
-      "name": "Callejon",
-      "url": "https://open.spotify.com/track/0XYWm2QhgJwewGASjvz4VO"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Alerta",
         "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 189602,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Callejon",
+        "url": "https://open.spotify.com/album/0U3xOtyt5fhBQ5cbsCGuTB"
+      },
+      "artists": [
+        {
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+        }
+      ],
+      "duration_ms": 196329,
+      "name": "Callejon",
+      "url": "https://open.spotify.com/track/0XYWm2QhgJwewGASjvz4VO"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Boombap",
-        "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Kintuper",
-          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "Boombap",
-      "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "En Abril",
         "url": "https://open.spotify.com/album/4oyJfVyRMFrXc6DPFlDoiB"
       },
@@ -1399,26 +1379,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Planta",
-        "url": "https://open.spotify.com/album/1kFWfmFolsdSRibvt85wzh"
-      },
-      "artists": [
-        {
-          "name": "kenser",
-          "url": "https://open.spotify.com/artist/0LkUf4EevVseUbsW2hW9ux"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 150927,
-      "name": "Planta",
-      "url": "https://open.spotify.com/track/0mKOUMWfctUH90w9Z7ojw1"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Bendici\u00f3n o Desgracia",
         "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
       },
@@ -1435,6 +1395,46 @@
       "duration_ms": 163723,
       "name": "Bendici\u00f3n o Desgracia",
       "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Boombap",
+        "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Kintuper",
+          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "Boombap",
+      "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Planta",
+        "url": "https://open.spotify.com/album/1kFWfmFolsdSRibvt85wzh"
+      },
+      "artists": [
+        {
+          "name": "kenser",
+          "url": "https://open.spotify.com/artist/0LkUf4EevVseUbsW2hW9ux"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 150927,
+      "name": "Planta",
+      "url": "https://open.spotify.com/track/0mKOUMWfctUH90w9Z7ojw1"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "Como Me Siento",
+        "url": "https://open.spotify.com/album/5xsndTBKQ39qSyGEPvKHCG"
+      },
+      "artists": [
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        }
+      ],
+      "duration_ms": 230669,
+      "name": "Como Me Siento",
+      "url": "https://open.spotify.com/track/7DHyY9XQKsNi6ZrEqp2IN8"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "Miyagi",
         "url": "https://open.spotify.com/album/7ydpkjyYDlpAzsUMA79Vnd"
       },
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Como Me Siento",
-        "url": "https://open.spotify.com/album/5xsndTBKQ39qSyGEPvKHCG"
-      },
-      "artists": [
-        {
-          "name": "Coko Yamasaki",
-          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 230669,
-      "name": "Como Me Siento",
-      "url": "https://open.spotify.com/track/7DHyY9XQKsNi6ZrEqp2IN8"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Lotto",
         "url": "https://open.spotify.com/album/2Mzni4ryawyAWkRJRZ3fwI"
       },
@@ -1627,26 +1627,6 @@
       "duration_ms": 169142,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/2zF9ryqq7trUyJRBXG8Lyj"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Kilometros",
-        "url": "https://open.spotify.com/album/5XLc9I2sgZnpeZUyKsjME1"
-      },
-      "artists": [
-        {
-          "name": "Don Kalavera",
-          "url": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
-        },
-        {
-          "name": "Mike Diaz",
-          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
-        }
-      ],
-      "duration_ms": 204799,
-      "name": "Kilometros",
-      "url": "https://open.spotify.com/track/1Oxtf2McTRB8Ea4QFE5Tu5"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1683,22 +1663,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "NO SOMOS LOS MISMOS",
-        "url": "https://open.spotify.com/album/6hXTIfIAEvZUPPEPcsHEes"
+        "name": "Kilometros",
+        "url": "https://open.spotify.com/album/5XLc9I2sgZnpeZUyKsjME1"
       },
       "artists": [
         {
-          "name": "Blood G",
-          "url": "https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu"
+          "name": "Don Kalavera",
+          "url": "https://open.spotify.com/artist/2nJOVl8u7PntefIs1Uwb4z"
         },
         {
-          "name": "Go Golden Junk",
-          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
         }
       ],
-      "duration_ms": 184336,
-      "name": "NO SOMOS LOS MISMOS",
-      "url": "https://open.spotify.com/track/61RgoL4wkgH82ZpBFvakqe"
+      "duration_ms": 204799,
+      "name": "Kilometros",
+      "url": "https://open.spotify.com/track/1Oxtf2McTRB8Ea4QFE5Tu5"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1719,6 +1699,26 @@
       "duration_ms": 230421,
       "name": "Antimonio",
       "url": "https://open.spotify.com/track/36SQv1QXq0IqsJKemORQBy"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "NO SOMOS LOS MISMOS",
+        "url": "https://open.spotify.com/album/6hXTIfIAEvZUPPEPcsHEes"
+      },
+      "artists": [
+        {
+          "name": "Blood G",
+          "url": "https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        }
+      ],
+      "duration_ms": 184336,
+      "name": "NO SOMOS LOS MISMOS",
+      "url": "https://open.spotify.com/track/61RgoL4wkgH82ZpBFvakqe"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
+        "name": "EL SECRETO",
+        "url": "https://open.spotify.com/album/5TAdRy1D4JefUxWHn2YNef"
+      },
+      "artists": [
+        {
+          "name": "Urbanse",
+          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "EL SECRETO",
+      "url": "https://open.spotify.com/track/5wO182BXNDV6E5XKRTQQ0m"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
         "name": "En Donde Estar\u00e1s",
         "url": "https://open.spotify.com/album/4DRAVQUlqtFyU7bKA6kOgx"
       },
@@ -1855,34 +1875,6 @@
       "duration_ms": 146750,
       "name": "Otro Concierto",
       "url": "https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/3m3QiKV0Bfv5XaRJPfmqOZ"
-      },
-      "artists": [
-        {
-          "name": "Kush",
-          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
-        },
-        {
-          "name": "Skubby.V",
-          "url": "https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m"
-        },
-        {
-          "name": "Lil Chris",
-          "url": "https://open.spotify.com/artist/4ArJB50WaaAs2wEZQ4PDQR"
-        }
-      ],
-      "duration_ms": 231915,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0eW9OQZ26BBllHyIk202v4"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1935,66 +1927,30 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "EL SECRETO",
-        "url": "https://open.spotify.com/album/5TAdRy1D4JefUxWHn2YNef"
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/3m3QiKV0Bfv5XaRJPfmqOZ"
       },
       "artists": [
         {
-          "name": "Urbanse",
-          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
         },
         {
-          "name": "Oldtape",
-          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Skubby.V",
+          "url": "https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m"
+        },
+        {
+          "name": "Lil Chris",
+          "url": "https://open.spotify.com/artist/4ArJB50WaaAs2wEZQ4PDQR"
         }
       ],
-      "duration_ms": 162406,
-      "name": "EL SECRETO",
-      "url": "https://open.spotify.com/track/5wO182BXNDV6E5XKRTQQ0m"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Org\u00e1nica",
-        "url": "https://open.spotify.com/album/4FxwPieWh6HNTnmHk787qO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        }
-      ],
-      "duration_ms": 139867,
-      "name": "Org\u00e1nica",
-      "url": "https://open.spotify.com/track/5BEDvfZD2YtpqvEFxGorOZ"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "LADRIDOS FREESTYLE",
-        "url": "https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y"
-      },
-      "artists": [
-        {
-          "name": "ZETKA",
-          "url": "https://open.spotify.com/artist/7yDof2rQaLdwTnAT6dR0KM"
-        },
-        {
-          "name": "Arizpe",
-          "url": "https://open.spotify.com/artist/5SU1Zp5WmMwNYZHbcqxbi0"
-        },
-        {
-          "name": "Velabeats",
-          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
-        },
-        {
-          "name": "Maneyx",
-          "url": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
-        }
-      ],
-      "duration_ms": 148236,
-      "name": "LADRIDOS FREESTYLE",
-      "url": "https://open.spotify.com/track/7CiyDHa8UN2hj5kaS5bme8"
+      "duration_ms": 231915,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0eW9OQZ26BBllHyIk202v4"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -2011,6 +1967,22 @@
       "duration_ms": 213214,
       "name": "Conjeturas",
       "url": "https://open.spotify.com/track/3EjhW5arnluxAEghi7IOV9"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Org\u00e1nica",
+        "url": "https://open.spotify.com/album/4FxwPieWh6HNTnmHk787qO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "duration_ms": 139867,
+      "name": "Org\u00e1nica",
+      "url": "https://open.spotify.com/track/5BEDvfZD2YtpqvEFxGorOZ"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -2039,6 +2011,34 @@
       "duration_ms": 219999,
       "name": "NO DIGAS QUE NO",
       "url": "https://open.spotify.com/track/2vwBgZh71HWQrKUL8paZ8k"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "LADRIDOS FREESTYLE",
+        "url": "https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y"
+      },
+      "artists": [
+        {
+          "name": "ZETKA",
+          "url": "https://open.spotify.com/artist/7yDof2rQaLdwTnAT6dR0KM"
+        },
+        {
+          "name": "Arizpe",
+          "url": "https://open.spotify.com/artist/5SU1Zp5WmMwNYZHbcqxbi0"
+        },
+        {
+          "name": "Velabeats",
+          "url": "https://open.spotify.com/artist/7JY2JDS3flgpRm8rrpss5W"
+        },
+        {
+          "name": "Maneyx",
+          "url": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
+        }
+      ],
+      "duration_ms": 148236,
+      "name": "LADRIDOS FREESTYLE",
+      "url": "https://open.spotify.com/track/7CiyDHa8UN2hj5kaS5bme8"
     },
     {
       "added_at": "2023-09-29 06:00:00",

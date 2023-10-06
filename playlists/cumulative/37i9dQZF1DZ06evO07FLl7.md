@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-49 songs - 3 hr 16 min
+50 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2023-09-18 |  |
 | [Perigo](https://open.spotify.com/track/62dj6pA6Tc7PYTpFhn3dLc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:37 | 2023-09-18 |  |
 | [Preta](https://open.spotify.com/track/3UfzovrAYda3M8mL3CpGoN) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 3:35 | 2023-09-18 |  |
+| [Preta](https://open.spotify.com/track/5vr8UkemCFnCjIfQ4gbTj5) | [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Preta](https://open.spotify.com/album/4DTdTAABJ6pPmbLc3eTaJe) | 3:10 | 2023-10-05 |  |
 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 | 2023-09-18 |  |
 | [Primavera](https://open.spotify.com/track/4nrBZ1bxeP1JYL0jykNWOK) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2ERj7DCOq6FAH2Y7qad5hN) | 3:18 | 2023-09-18 |  |
 | [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 | 2023-09-18 |  |

@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-155 songs - 13 hr 9 min
+156 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Edda](https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Rumproller](https://open.spotify.com/album/3dMhT1ZhEeYk9NwzPAzi3u) | 7:19 | 2021-12-17 |  |
 | [Faith](https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | ['S Make It](https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU) | 3:43 | 2022-02-25 |  |
 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 | 2021-12-17 |  |
+| [First Dance](https://open.spotify.com/track/4E0Vu17LwtYqaxpdNuSC5V) | [Marco Mezquida](https://open.spotify.com/artist/0TxvWQFZoBIYNhR0QPthp5) | [Tornado](https://open.spotify.com/album/73CgFyrW1jINuYDxzTI7Ka) | 3:59 | 2023-10-06 |  |
 | [Flight of the Foo Birds](https://open.spotify.com/track/2MZBVXviBSBenB8AnmsMXi) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:24 | 2022-04-08 |  |
 | [Four Brothers](https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 2:58 | 2022-06-29 |  |
 | [Four Brothers](https://open.spotify.com/track/1EXbbgXrb2zK4dwXaejFr6) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [On Contemporary: Art Pepper](https://open.spotify.com/album/5BPXepXoJpfXD3gzrUgQOt) | 3:00 | 2022-11-09 | 2022-11-13 |

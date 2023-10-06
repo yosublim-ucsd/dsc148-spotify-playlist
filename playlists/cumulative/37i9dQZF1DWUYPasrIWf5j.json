@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "All About That Bass",
+        "url": "https://open.spotify.com/album/47YEvoiygJcNNQ98vilQ22"
+      },
+      "artists": [
+        {
+          "name": "Jack Adeline",
+          "url": "https://open.spotify.com/artist/46IufC6lZGWAWbbLzy0COP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172265,
+      "name": "All About That Bass",
+      "url": "https://open.spotify.com/track/4yFXcoJlvPFG4te0WU6rMr"
+    },
+    {
+      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/2zzP8Gk39MkAUy6URU8UOQ"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 257722,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/0NLQqEnyWUpsoSNuo7uqBE"
+    },
+    {
+      "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/0iE79PyYkLzqXyA3l6AR76"
+      },
+      "artists": [
+        {
+          "name": "Gary Trunket",
+          "url": "https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182380,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/7vsapg8FI5tIqjS7jRDaAe"
     },
     {
       "album": {

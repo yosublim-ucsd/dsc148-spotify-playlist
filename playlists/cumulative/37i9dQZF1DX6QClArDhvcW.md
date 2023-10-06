@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-421 songs - 15 hr 48 min
+423 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [luv](https://open.spotify.com/track/21u9dmIolRg8yKgBKd3XGW) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [luv](https://open.spotify.com/album/3ltq5oAuGyr1FFX7cRMb3U) | 1:28 | 2022-05-20 |  |
 | [Luv](https://open.spotify.com/track/7qrNFUT6csTo5Fev4QzUrw) | [One Hot Drink](https://open.spotify.com/artist/0l0Zsvx228xpOBcBOnlXfm), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Luv](https://open.spotify.com/album/1B1Uy1WB06pEUt7dkysogt) | 1:29 | 2023-01-20 | 2023-09-22 |
 | [Lycium](https://open.spotify.com/track/6UN9NdeZ6xoVrTeXOcgj8t) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [Lycium](https://open.spotify.com/album/5auTxR0jOmqgaeEhNC368p) | 2:15 | 2022-05-20 | 2023-08-30 |
+| [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-05-20 | 2023-08-30 |
 | [Maple](https://open.spotify.com/track/35JoXVdT9UjxPrrnralvTL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Maple](https://open.spotify.com/album/05g58vC8XlX2niuDkz3TTq) | 1:25 | 2023-04-11 |  |
 | [mararun](https://open.spotify.com/track/2nG9Kq8al1Y8CwuikqWXut) | [m3lly](https://open.spotify.com/artist/6ImTBYsoSoDNEMgY9VFU23) | [mararun](https://open.spotify.com/album/4T3cSDUhFHeoIEo4fDec58) | 2:06 | 2022-05-20 | 2023-08-19 |
@@ -363,6 +364,7 @@
 | [That was Almost Real](https://open.spotify.com/track/4SDUbFWAMTFvrM4ze8HSo2) | [JIM](https://open.spotify.com/artist/6Oe3h56XEcbobLLuyIyCNQ) | [Dream](https://open.spotify.com/album/3yJjpqy1CDNTFSZwSyiRII) | 2:22 | 2023-06-09 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-05-20 |  |
 | [The Dark Corner of The Café](https://open.spotify.com/track/6lsh5gNARARuGCw9aBpJgb) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [The Dark Corner of The Café](https://open.spotify.com/album/3nwLpHk41tCY8v3ozip2At) | 2:13 | 2022-08-19 | 2023-09-22 |
+| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
 | [The Life](https://open.spotify.com/track/3OHJwtjYZXQ8ls1DM0QeHP) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Life](https://open.spotify.com/album/2Uyc6oW1FZyJpii0JUGFkl) | 1:36 | 2023-05-03 |  |
 | [The next big thing](https://open.spotify.com/track/29jNTNv7QIhfieRhSe6fBv) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [The next big thing](https://open.spotify.com/album/4N8y1ep1vqxp7ovMCZcK2e) | 2:55 | 2023-08-18 |  |
 | [The Rain Said No](https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt) | [Grandmaster Tilden](https://open.spotify.com/artist/20yERPydly9DkcL45T65uJ) | [Weeds](https://open.spotify.com/album/3l6W3WJym9nVX0FNwChUzy) | 2:48 | 2022-05-20 |  |

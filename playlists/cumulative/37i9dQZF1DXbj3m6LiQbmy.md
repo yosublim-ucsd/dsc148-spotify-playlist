@@ -4,7 +4,7 @@
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-309 songs - 18 hr 38 min
+312 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Lose You](https://open.spotify.com/track/7zKh8PCaBAtPaKmYxTVlAG) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/7DiMBetpYNLaLbmcpcorGl) | 3:31 | 2022-09-08 | 2023-01-25 |
 | [Lost When I'm Around You](https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Lost When I’m Around You](https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn) | 2:54 | 2023-08-29 |  |
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2022-06-26 | 2023-01-25 |
+| [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 | 2023-10-05 |  |
 | [Luca \(Protopapa Remix\)](https://open.spotify.com/track/4ZA06tbP3P7GvsNYm9n8g2) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Luca \(Protopapa Remix\)](https://open.spotify.com/album/4WFylezzuTH1eMxbu10hjW) | 3:13 | 2023-06-22 |  |
 | [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2023-07-07 |
 | [Ma che Hit](https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Ma che Hit](https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA) | 2:18 | 2023-02-23 | 2023-09-30 |
@@ -186,10 +187,12 @@
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 | 2022-06-12 | 2022-06-27 |
 | [Nei](https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz) | [Lorenzo Tronconi](https://open.spotify.com/artist/3mSbflrxzijXCiLOYZ3nLP) | [Nei](https://open.spotify.com/album/6TlflAkiu0xSDE9ByfQlGr) | 2:40 | 2022-07-04 |  |
 | [Nella balera](https://open.spotify.com/track/1UghFcvDyKkEcx771kujK3) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [Nella balera](https://open.spotify.com/album/5BEbvM6xOMaOhFlFsD2bFg) | 2:47 | 2022-06-12 | 2022-06-27 |
+| [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 | 2023-10-05 |  |
 | [Nina](https://open.spotify.com/track/0ZyFLIVC67EX1qumbhDAcd) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54) | [Nina](https://open.spotify.com/album/4hhPeBtIO3Dkx1ViPvrm3K) | 4:26 | 2021-11-19 | 2023-06-23 |
 | [No More Drama](https://open.spotify.com/track/7nWsh14AHpnTzq1Xejz90U) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 5:26 | 2022-06-26 | 2023-01-25 |
 | [Non mi va](https://open.spotify.com/track/2j2WWUU7WeeH7uI8arShCF) | [AILO](https://open.spotify.com/artist/6SkFdYX4I8S4lmKMj9yHwO) | [Non mi va](https://open.spotify.com/album/7N2MLRElVuMWDxDPLvXZyx) | 2:50 | 2022-06-12 | 2022-06-27 |
 | [Non ti sopporto più](https://open.spotify.com/track/6E2sqmmajA8nXs4pijQebR) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [Non ti sopporto più](https://open.spotify.com/album/1wDp4rWLCgkQF55BSdaa3C) | 2:42 | 2023-06-01 |  |
+| [NORMALE](https://open.spotify.com/track/3QCQSvsySCZpqFkkFrKMd9) | [LUNA LIAS](https://open.spotify.com/artist/2SHKobhACxOoqb7xramKdA) | [Neotenìa EP](https://open.spotify.com/album/0dvxBEhhdrzMbEwfCes6d0) | 3:22 | 2023-10-05 |  |
 | [Notte Divina \- Vocal Night Version](https://open.spotify.com/track/6hqM6PuQ7kENdOC1qLLXWr) | [Moy Boy](https://open.spotify.com/artist/0TJfVmdYJVP8pt2nFPtFms), [Frank'O Moiraghi](https://open.spotify.com/artist/4eHnEMdLNXd1HaZZrcnFRI) | [Notte divina](https://open.spotify.com/album/5bD4FUyTkm2PKNmeJrXkI8) | 6:45 | 2021-11-19 | 2023-06-06 |
 | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/track/08gCvhx75KLbEjoQh2Y0PA) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/album/6yc7cRkSR7msfQLKgjhTIj) | 3:10 | 2023-07-20 |  |
 | [NYC2MIA \- SOPHIE Remix](https://open.spotify.com/track/3bfZfblo5xLHXJgp8zxO2z) | [Basside](https://open.spotify.com/artist/1Oc8whczB0ya9jgVzx6djF), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [NYC2MIA \(SOPHIE Remix\)](https://open.spotify.com/album/1teM6b52vhiAbVONN3Lw3R) | 3:09 | 2022-04-01 | 2023-01-25 |

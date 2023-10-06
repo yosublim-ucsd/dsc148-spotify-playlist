@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lake malice
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. dorian electra
 
-650 songs - 1 day 6 hr 55 min
+652 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [buckshot boy](https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR) | [Onlyfriend](https://open.spotify.com/artist/03zKAbmkkWhUzjUSmJZGVE) | [buckshot boy](https://open.spotify.com/album/6eB0sUv4yuNNWzXFv11A8J) | 2:18 | 2021-12-27 | 2022-01-19 |
 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2022-08-25 | 2022-12-09 |
 | [Bull](https://open.spotify.com/track/1HdovCicIl6icinsOlrpqz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [Bull](https://open.spotify.com/album/1Zf1hkjwXERIjI2585j7jl) | 3:11 | 2022-11-18 | 2023-04-14 |
-| [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-07-06 |  |
+| [BULLET MAN](https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BULLET MAN](https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK) | 2:58 | 2023-07-06 | 2023-10-06 |
 | [Butterflies](https://open.spotify.com/track/7yF8jMKIjgHRcwduu0fzWc) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp), [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Butterflies](https://open.spotify.com/album/4ob92gI2nIurZosVJqttdA) | 3:43 | 2022-02-18 | 2022-04-01 |
 | [Can't Let Go](https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n) | [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [Tim Randolph](https://open.spotify.com/artist/5uVOiAmUu3bAnxORJDOFbs) | [Can't Let Go](https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw) | 2:18 | 2023-04-13 | 2023-06-30 |
 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 | 2022-11-18 | 2023-07-07 |
@@ -172,7 +172,7 @@
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-07-19 | 2022-08-05 |
 | [Don't Wait](https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [Don't Wait](https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO) | 2:08 | 2023-02-03 | 2023-05-19 |
 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 | 2022-04-14 | 2022-04-20 |
-| [Drag Me To Hell](https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Gut Feeling](https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj) | 2:57 | 2023-03-30 |  |
+| [Drag Me To Hell](https://open.spotify.com/track/5LLomiXtpid7vpIfZ39o5F) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Gut Feeling](https://open.spotify.com/album/2sCytRQujXambd95PcJ2Cj) | 2:57 | 2023-03-30 | 2023-10-06 |
 | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/track/1cAKuJhjZCKI0j0sVTF5zQ) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Dream Caused By The Flight Of A Bee](https://open.spotify.com/album/5bN3xklJz98zVp1cxnYpSO) | 2:46 | 2022-05-12 | 2022-06-24 |
 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 | 2023-09-07 |  |
 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 | 2022-11-18 | 2023-02-17 |
@@ -256,6 +256,7 @@
 | [good things](https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [good things](https://open.spotify.com/album/5mxrqF7BJ4vEKDBeG4iQS5) | 2:54 | 2023-09-14 |  |
 | [gothgirl1](https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [gothgirl1](https://open.spotify.com/album/0eRVnOBK3emNs2TAqaaK09) | 3:53 | 2023-06-08 | 2023-07-07 |
 | [Grail](https://open.spotify.com/track/06PzkPjLzVkPnw0V98CufI) | [Typecode](https://open.spotify.com/artist/4c6Z93WJel4oYh6PJFfurG), [Velsser](https://open.spotify.com/artist/48i9gA9q6KrTtHt7HZt7IG) | [Grail](https://open.spotify.com/album/5TH3X1bHH2YHqWua1F7uIV) | 2:52 | 2023-05-19 | 2023-06-09 |
+| [Greyhound](https://open.spotify.com/track/31JgkeYLMlgzZgmFBStbeG) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Greyhound](https://open.spotify.com/album/2R457N9XlrnMJdnvZE4q2V) | 2:15 | 2023-10-06 |  |
 | [GROWING INTO IT](https://open.spotify.com/track/6VWQYZW75FuIWG5UZ58B3G) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [GROWING INTO IT](https://open.spotify.com/album/3D7hmJmOmHh1Tp1UUO9K7U) | 3:20 | 2023-04-06 | 2023-05-13 |
 | [GROWING PAINS](https://open.spotify.com/track/13ypXSpDVzm88oAnSLKH9j) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [The Spiritual Meat Grinder](https://open.spotify.com/album/5dImWa7fCFYKxgDmlNZXTl) | 2:20 | 2023-08-24 |  |
 | [GUNSLINGER](https://open.spotify.com/track/5FeS825T9XlsvmGwxzL3Dn) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [GUNSLINGER](https://open.spotify.com/album/1q5qNIrsrJEpOBzuCjoGOI) | 3:06 | 2023-05-18 | 2023-06-09 |
@@ -317,6 +318,7 @@
 | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/album/70rb6TesKaKl08tBD9L5wo) | 3:15 | 2021-12-27 | 2022-01-06 |
 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 | 2023-06-01 |  |
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2021-12-27 | 2022-02-04 |
+| [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-10-06 |  |
 | [IDontFeelTheSame.](https://open.spotify.com/track/0JuzXipMC0pA7dTw6ZWRDh) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [IDontFeelTheSame.](https://open.spotify.com/album/4wsM8oy5MdDrbUye37S6X1) | 2:40 | 2022-06-09 | 2022-09-23 |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2021-12-27 | 2022-02-13 |
 | [iLike](https://open.spotify.com/track/38Drg2g9PNCZZo4j2omrkh) | [hidingthehurt](https://open.spotify.com/artist/1ZEMLFeC3e4J8Y9exK3dKp) | [iLike](https://open.spotify.com/album/3sI6zGLdEv7Wb6KOjLSN89) | 2:33 | 2022-01-19 | 2022-07-22 |

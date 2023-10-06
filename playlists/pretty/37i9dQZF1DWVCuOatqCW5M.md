@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- King
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,442 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,476 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 4 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 |
 | 5 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 | 6 | [Let It Flow](https://open.spotify.com/track/1pReOtBB2BrF7X8BCzDyDO) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Let It Flow](https://open.spotify.com/album/3J0WTo95gwbiSP1iJo2SQW) | 2:45 |
-| 7 | [Malaal \- From "Leela"](https://open.spotify.com/track/2jahgs9k5E2EXvDc836S0M) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q) | [Malaal \(From "Leela"\)](https://open.spotify.com/album/0zMrH5YOg870C4zI8sCy7s) | 4:09 |
+| 7 | [Malaal \- From "Leela"](https://open.spotify.com/track/2jahgs9k5E2EXvDc836S0M) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Malaal \(From "Leela"\)](https://open.spotify.com/album/0zMrH5YOg870C4zI8sCy7s) | 4:09 |
 | 8 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 |
 | 9 | [Mazaakiyan](https://open.spotify.com/track/6k7NmvQ4K4v2b9ZqOZ9GYz) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Mazaakiyan](https://open.spotify.com/album/4K8RsN4S41LAP7XAIpuMSM) | 2:28 |
 | 10 | [Adhoora Reh Jaunga](https://open.spotify.com/track/4V66yc5oIr2LGBv9QR7m50) | [Yashraj Kapil](https://open.spotify.com/artist/5FVGmxlFLT1qhfFnpCsvvn) | [Adhoora Reh Jaunga](https://open.spotify.com/album/7HdwbLbgkMHzpBlls5Nn47) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Soneya](https://open.spotify.com/track/4T3afa03vozVX8YVwsr34x) | [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Soneya](https://open.spotify.com/album/2g1M3zZPVkYSHIj73loQBV) | 2:34 |
 | 50 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 
-Snapshot ID: `MCxhNzZmOTcxZTQ5YjY2OGNhZDM5ZjllNWE3YzgxYTQyYTVhYjNjMzM5`
+Snapshot ID: `MCwzNmY4YjFmNGU4NjcxZWVhNTNkZjc0NDU4ZmVkOTg5NDUwZTFkM2Fm`

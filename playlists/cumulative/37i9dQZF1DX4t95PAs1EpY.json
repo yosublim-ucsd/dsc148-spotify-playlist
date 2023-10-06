@@ -2715,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Forrest",
+        "url": "https://open.spotify.com/album/5O00VXNEsXB7F8XqZfWfSY"
+      },
+      "artists": [
+        {
+          "name": "Mr Davies",
+          "url": "https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164117,
+      "name": "Forrest",
+      "url": "https://open.spotify.com/track/0t0jeNPpefsuhh31UPn1pK"
+    },
+    {
+      "album": {
         "name": "FORWARD",
         "url": "https://open.spotify.com/album/75OwXvuvF4eU9icYhebnWJ"
       },
@@ -6762,6 +6780,24 @@
       "duration_ms": 138352,
       "name": "round bird",
       "url": "https://open.spotify.com/track/7rSKadpiQrCkiSGKpBFXX4"
+    },
+    {
+      "album": {
+        "name": "rounded",
+        "url": "https://open.spotify.com/album/2bcjechlcxRXyO1yGjFHTh"
+      },
+      "artists": [
+        {
+          "name": "yellow book",
+          "url": "https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "rounded",
+      "url": "https://open.spotify.com/track/1hWQ2g5lhisTnOMWHJeHFW"
     },
     {
       "album": {

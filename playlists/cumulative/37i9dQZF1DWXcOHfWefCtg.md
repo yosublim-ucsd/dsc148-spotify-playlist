@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-51 songs - 2 hr 51 min
+52 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/3EYOHbUGZZcxijyyKQwuwX) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Tramp](https://open.spotify.com/album/6Z9LnVPxO2blsQtLsoeEjC) | 2:46 | 2021-11-12 |  |
 | [Give Love On Christmas Day](https://open.spotify.com/track/0EYrscE1q1rraauK4AHC5B) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Best Of/20th Century \- Christmas](https://open.spotify.com/album/4v2dPjSJmoXFfaDdRtFDdR) | 3:37 | 2021-11-12 |  |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 | 2021-11-12 |  |
+| [Hangin' On To Christmas](https://open.spotify.com/track/1DgsLlwMxd4uywMIYfL1k6) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Hangin' On To Christmas](https://open.spotify.com/album/60cXavBNBPKPGwGS9YNaRk) | 3:39 | 2021-11-12 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A) | 3:04 | 2021-11-19 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 | 2021-11-12 |  |
 | [I'll Be Your Santa Baby](https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Christmas In Soulsville](https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN) | 3:35 | 2021-11-12 |  |
@@ -57,7 +58,7 @@
 | [What Do The Lonely Do At Christmas?](https://open.spotify.com/track/3sXl6SoKsHjCLKyrXu9HlD) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Sunshine!](https://open.spotify.com/album/0v3fyTk380rEjpgufLVtGF) | 3:28 | 2021-11-12 |  |
 | [Who Took The Merry Out Of Christmas \- Single Version](https://open.spotify.com/track/41U86awdgg7CKQUA4twR68) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 2:29 | 2021-11-12 |  |
 | [Winter Melody](https://open.spotify.com/track/1zHOjqf8DqjNq6OB7Y5mrF) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Four Seasons Of Love \(Reissue\)](https://open.spotify.com/album/7K5qRyPS0glYiCzgqJdEjt) | 6:28 | 2021-11-12 |  |
-| [Xmas Twist](https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O) | [The Twistin' Kings](https://open.spotify.com/artist/7CwF0SRvwcDYNGbYa4R4Lk) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:42 | 2021-11-12 |  |
+| [Xmas Twist](https://open.spotify.com/track/6jWoQ3rQIs61fYI6tFF45O) | [The Twistin' Kings](https://open.spotify.com/artist/7CwF0SRvwcDYNGbYa4R4Lk) | [The Complete Motown Singles, Vol\. 1: 1959\-1961](https://open.spotify.com/album/13z3kSJRI5AzqRuPnSHyOU) | 2:42 | 2021-11-12 | 2023-10-06 |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2021-11-12 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

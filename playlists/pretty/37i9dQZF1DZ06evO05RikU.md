@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,815 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,840 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 51 | [Puro Sentimiento \(feat\. Santana\) \- Remix](https://open.spotify.com/track/5B4h7QTaGqDxW3IrXPBHMn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Puro Sentimiento \(feat\. Santana\) \[Remix\]](https://open.spotify.com/album/6ZVWUQ7BCA9UrBOYctwJj0) | 3:14 |
 | 52 | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/track/7MszYozBEVXQ846HIedBV1) | [AXSHN](https://open.spotify.com/artist/0riQwemsOuO4qtu9Kdqv9i), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Tell Me \(feat\. Sofia Reyes\)](https://open.spotify.com/album/0qvgH8vp9fR5hDEiRuC5by) | 3:11 |
 
-Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDBhNTRhOWY2YzY0NzljNWQ5MmEyNTdkMDNhZGYzODM5OQ==`
+Snapshot ID: `MjgyNzUyNTYsMDAwMDAwMDA1ZWQwOWRkYjE3NWIxNjFiZGU1Zjg0NzQwZDk4ZTFjNw==`

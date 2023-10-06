@@ -1,15 +1,15 @@
 {
   "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: MY FIRST STORY",
-  "num_followers": 227272,
+  "num_followers": 227373,
   "original_name": "J-Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTI4M2I0NTcxMWJkMjBkNjBjOGJiMjk3YjMwZWYxMDYyZjBmZmI2",
+  "snapshot_id": "MCxiMGFmN2FhNmU4YzkwNjdkOGU3NjRjYWI2ZjMwNDcwOTBjNTEzODhk",
   "tracks": [
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "i don't wanna be",
         "url": "https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "FANFARE (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u590f\u6681",
         "url": "https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "more than words",
         "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
@@ -73,7 +73,27 @@
       "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
+        "url": "https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4"
+      },
+      "artists": [
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
+      "url": "https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Nichijo",
         "url": "https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/6rFRQKFyluXEJhM5ANu2XB"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "DEBUT",
         "url": "https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30ce\u30c3\u30c8\u30fb\u30aa\u30fc\u30b1\u30fc",
         "url": "https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Hyper",
         "url": "https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "BACK",
         "url": "https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/1zszoj2ksG8F5rDy63RwY2"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6g9mqqicyiTqXpcDKF7bc7"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/66xkvLcGdLxRfQXdO6Hui1"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Bokushika Shiranai",
         "url": "https://open.spotify.com/album/0BWxrCZbuUpQHGW9URPFdi"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/1ldYh94lEkyY2CEfWkpcKT"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Make It Out Alive",
         "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Fifty's map \uff5e\u304a\u3068\u306a\u306e\u5730\u56f3",
         "url": "https://open.spotify.com/album/2T1C7BX29tDn1rQNtYMnpn"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/5fNrWNdv7Qfj7EdCl31Rur"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u6700\u5f8c\u306e\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/03n9SYfsPvveDCaROlgKK7"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/29wHKnfkF4EF90vnu53uon"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Hanaarashi",
         "url": "https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u91d1\u6728\u7280",
         "url": "https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30dc\u30fc\u30a4\u30ba \u30c9\u30f3\u30c8 \u30af\u30e9\u30a4",
         "url": "https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u6700\u9ad8\u5230\u9054\u70b9",
         "url": "https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN"
@@ -365,7 +385,7 @@
       "url": "https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5b63\u5104\u306e\u7bb1",
         "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5927\u4eba\u306e\u6d99",
         "url": "https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/5T1WB7ybJEf90xPUR0Yqa7"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "PLAYDEAD",
         "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "driven by impulse",
         "url": "https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30b4\u30fc\u30b9\u30c8\u30c0\u30a4\u30d6",
         "url": "https://open.spotify.com/album/22Y4CMkBXjaGCVfzNrtdEw"
@@ -445,7 +465,7 @@
       "url": "https://open.spotify.com/track/3YSYq98AiBIXAj8GCW3wbd"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u785d\u5b50\u7a93",
         "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "i \u89e6\u308c\u308b SAD UFO",
         "url": "https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u91d1\u661f",
         "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5e1d\u56fd\u55ab\u8336\u2161 \u5b63\u7bc0\u3068\u541b\u306e\u30ec\u30b3\u30fc\u30c9",
         "url": "https://open.spotify.com/album/623DxSxbvSH2Ybf1ydYyzF"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/71nySBAUJoX7bWpr9Mnmsm"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u9762\u5f71",
         "url": "https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "vanitas",
         "url": "https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "VANILLA SKY",
         "url": "https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u7fbd\u5316",
         "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5fc3\u6d77",
         "url": "https://open.spotify.com/album/3xdOc3tCggVAGBVHRzqK6Q"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/7hZdB03NoTbe82MTsN1cj8"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "yunagieiso",
         "url": "https://open.spotify.com/album/7FD9T96o1fl2qTcRem8iNM"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u80b4",
         "url": "https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3\u306b\u306e\u3063\u3066",
         "url": "https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7"
@@ -641,7 +661,7 @@
       "url": "https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Donnakotonidemoshiawasewokanjirukotogadekitanara",
         "url": "https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl"
@@ -657,7 +677,7 @@
       "url": "https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30ce\u30c3\u30af\u30d6\u30fc\u30c4",
         "url": "https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd"
@@ -673,7 +693,7 @@
       "url": "https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5c11\u5e74\u8b83\u6b4c",
         "url": "https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne"
@@ -705,23 +725,7 @@
       "url": "https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "Hana Ni Nare (Ryu-Take 2023 ver.)",
-        "url": "https://open.spotify.com/album/4ceieoHaWzTbiyJ1cuU5BN"
-      },
-      "artists": [
-        {
-          "name": "flumpool",
-          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
-        }
-      ],
-      "duration_ms": 387520,
-      "name": "Hana Ni Nare - Ryu-Take 2023 ver.",
-      "url": "https://open.spotify.com/track/3ywoJ3ZNkZ7AXaTFaiA109"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
@@ -737,7 +741,7 @@
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "for you",
         "url": "https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9"
@@ -753,7 +757,7 @@
       "url": "https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2xHP2mMhaK2aIVS9vfLyYB"
@@ -769,7 +773,7 @@
       "url": "https://open.spotify.com/track/2izrE4nmtn9fqyCMuxDafg"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c"
@@ -785,7 +789,7 @@
       "url": "https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30bd\u30f3\u30b0\u30aa\u30d6\u30b6\u30c7\u30c3\u30c9",
         "url": "https://open.spotify.com/album/06vrKo270aXhoXtN6DURUA"
@@ -801,7 +805,7 @@
       "url": "https://open.spotify.com/track/1PYIyU3CfApIifbaUl4PN6"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3 - New Version -",
         "url": "https://open.spotify.com/album/5buxh2cnDTTIWOumSjmKG3"
@@ -817,7 +821,7 @@
       "url": "https://open.spotify.com/track/2jFXcYFDLmdB4tXWrc9fVD"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30a2\u30de\u30ea\u30ea\u30b9",
         "url": "https://open.spotify.com/album/4jqo33DQb1mHK7ynzNmKa9"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/0X53TLIHdotP2JeUYq4NbW"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u3044\u3051\u306a\u3044fool logic",
         "url": "https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "kidnapping / rendez-vous",
         "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Saishu Densha",
         "url": "https://open.spotify.com/album/0gQM4q0zKxgweOJrcfDaS1"
@@ -881,7 +885,7 @@
       "url": "https://open.spotify.com/track/3gT0d6cGELhvkElB9sWRrM"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u30b7\u30ed\u30af\u30ed\u30fb\u30b7\u30c3\u30af",
         "url": "https://open.spotify.com/album/0VM145YnzLbH7lIqjfiXPq"
@@ -897,7 +901,7 @@
       "url": "https://open.spotify.com/track/1oskFobhNrsJXt51bUyXMK"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Andromeda",
         "url": "https://open.spotify.com/album/1IKxkq05NRvtc990dCPpxl"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/6LQI7H51W81iihxDcNRawm"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "ANTENNA",
         "url": "https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb"
@@ -933,7 +937,7 @@
       "url": "https://open.spotify.com/track/4vAbUiv5byAtNdencSeaRn"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Gift (alt ver.)",
         "url": "https://open.spotify.com/album/4e0NQvgBanO1WXGg3PieA6"
@@ -949,7 +953,7 @@
       "url": "https://open.spotify.com/track/51u4vuTh5g43isSIHLwXl3"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "RUNWAY",
         "url": "https://open.spotify.com/album/78Q2Qyf2Yyxp4cFSHluJxj"
@@ -965,23 +969,7 @@
       "url": "https://open.spotify.com/track/1AzxWcwgz45ZSn7Iqd7gIc"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/2NLxbBx2W8DpuypxMiZ5y3"
-      },
-      "artists": [
-        {
-          "name": "Straightener",
-          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
-        }
-      ],
-      "duration_ms": 217545,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "From",
         "url": "https://open.spotify.com/album/2a7Tzc0CAQZ7qlu1tckSgV"
@@ -997,7 +985,23 @@
       "url": "https://open.spotify.com/track/42oS8MbMLfYeqEIoAM7MIC"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u4eba",
+        "url": "https://open.spotify.com/album/3u9T7DyLEOc2vQINDZa6L4"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "duration_ms": 209107,
+      "name": "\u97f3\u697d\u3068\u4eba",
+      "url": "https://open.spotify.com/track/0ROUxl1XaYH7PmYNQp5VW6"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "STARS",
         "url": "https://open.spotify.com/album/5lrdC0MIt5wLoRGZ4wKmjE"
@@ -1013,7 +1017,7 @@
       "url": "https://open.spotify.com/track/7nkujdHzJVWyNGs2oONiCw"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Naitokeba Yokatta",
         "url": "https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ"
@@ -1029,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Crop",
         "url": "https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm"
@@ -1045,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u3055\u3088u\u306a\u3089",
         "url": "https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz"
@@ -1061,23 +1065,7 @@
       "url": "https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "Ammolite",
-        "url": "https://open.spotify.com/album/4TelhTcG92OqIhegkAFu9w"
-      },
-      "artists": [
-        {
-          "name": "Omoinotake",
-          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Ammonite",
-      "url": "https://open.spotify.com/track/1BuXgUwI7GM44ZjuqRDDjI"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u50d5\u306f\u9811\u5f35\u308b\u3088\u3063 feat. ano",
         "url": "https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe"
@@ -1097,7 +1085,7 @@
       "url": "https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "charm",
         "url": "https://open.spotify.com/album/4dw6Vqh0YknvgzKcfyKbIZ"
@@ -1113,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1kyp3dQGHftpJRpRAoY94z"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Relay~Mori no Uta",
         "url": "https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8"
@@ -1129,7 +1117,23 @@
       "url": "https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "Naiteiinda",
+        "url": "https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Naiteiinda",
+      "url": "https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "INSAINT",
         "url": "https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s"
@@ -1145,7 +1149,7 @@
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u5730\u7403\u5100 - Spinning Globe",
         "url": "https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W"
@@ -1161,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Ura-Shuden",
         "url": "https://open.spotify.com/album/2EBqSBPMP3cORqb3FT4PrT"
@@ -1177,7 +1181,7 @@
       "url": "https://open.spotify.com/track/6CR6gbIvujlQ2xyhLUSHgp"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Kokkisin",
         "url": "https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe"
@@ -1193,7 +1197,23 @@
       "url": "https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "Sweet sweet candy time",
+        "url": "https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "duration_ms": 321103,
+      "name": "Sweet sweet candy time",
+      "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Lamp",
         "url": "https://open.spotify.com/album/4B0JbnimIGL9UtO5Z3t0Ro"
@@ -1209,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u8ffd\u3044\u304b\u3051\u3066 / \u82b1\u706b\u304c\u9cf4\u3063\u3066",
         "url": "https://open.spotify.com/album/4YmvCYPrtE1Bu6eVUWvGMZ"
@@ -1225,7 +1245,7 @@
       "url": "https://open.spotify.com/track/4Ml4pnXCy1lUGIg8LjrujS"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "SCARECROWS",
         "url": "https://open.spotify.com/album/5XexNvd10X2sV8fDr2EOw2"
@@ -1241,7 +1261,7 @@
       "url": "https://open.spotify.com/track/5EqIj8sY7MmlUyfLi0363q"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u304d\u3089\u3081\u304f\u304d\u3082\u3061",
         "url": "https://open.spotify.com/album/3T3gQxuV6JwbF7aBfyjnIv"
@@ -1257,7 +1277,7 @@
       "url": "https://open.spotify.com/track/1il4JWtRPTqenADdwd1nxw"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Kitai to Yokan",
         "url": "https://open.spotify.com/album/4e1KSg9V4VqHn87Q9eBLOv"
@@ -1273,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3uXhwYBekTnCBSw1EOqPTr"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Date!",
         "url": "https://open.spotify.com/album/5wF4vrkMJnn29cFWKe6MfL"
@@ -1289,23 +1309,7 @@
       "url": "https://open.spotify.com/track/1isIg6cTY6nuIDfnnZdZx0"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
-      "album": {
-        "name": "c r a z y",
-        "url": "https://open.spotify.com/album/559cpQp7ZCDP8RdiKEuyXR"
-      },
-      "artists": [
-        {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "c r a z y",
-      "url": "https://open.spotify.com/track/35lQAoWxWXQCLRZiC2Bpi7"
-    },
-    {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "A YEAR OF STRENGTH",
         "url": "https://open.spotify.com/album/1uorBMQ4jsjiHv4sqdSUTp"
@@ -1321,7 +1325,7 @@
       "url": "https://open.spotify.com/track/6YKn5ACbOOiZ1sm6qQoT7O"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Almost there",
         "url": "https://open.spotify.com/album/16jwz1QKP5h1HNpAI8X35S"
@@ -1337,7 +1341,7 @@
       "url": "https://open.spotify.com/track/4Jb9qPgIOtVmUQJoRDvKwl"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "All the best to you",
         "url": "https://open.spotify.com/album/712xvsOZfCsT6WqU3Uo0y7"
@@ -1353,7 +1357,7 @@
       "url": "https://open.spotify.com/track/041iQwe6neBn6VXVSQ1yV2"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "OT WORKS \u2162 (Selected ver.)",
         "url": "https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ"
@@ -1369,7 +1373,7 @@
       "url": "https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "But Really",
         "url": "https://open.spotify.com/album/70tdhywzgwknIJi3CaXGHK"
@@ -1385,7 +1389,7 @@
       "url": "https://open.spotify.com/track/1Pd2dDTBNJRJNFL3cKWTBp"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6SA5aeZwQ2hOrEOeTWUGj8"
@@ -1401,7 +1405,7 @@
       "url": "https://open.spotify.com/track/4hx8WgEJQOIcXflbmK3xRW"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "saigoni nokorumono",
         "url": "https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ"
@@ -1417,7 +1421,7 @@
       "url": "https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "GOLD IMPRINTS",
         "url": "https://open.spotify.com/album/0u4T0jMskpSiQO0mrw6TNK"
@@ -1433,7 +1437,7 @@
       "url": "https://open.spotify.com/track/0YgGz6kZcMw4QXq2IM6tAE"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Donimonaranwa",
         "url": "https://open.spotify.com/album/48N5slTXeAKIberNSWrSMD"
@@ -1449,7 +1453,7 @@
       "url": "https://open.spotify.com/track/5c53c4qvEQwUiFbvHDKKD3"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Toy box",
         "url": "https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo"
@@ -1465,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Himitsu",
         "url": "https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a"
@@ -1481,7 +1485,7 @@
       "url": "https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Ghost Town",
         "url": "https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ"
@@ -1497,7 +1501,7 @@
       "url": "https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "RUMBLE",
         "url": "https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig"
@@ -1517,7 +1521,7 @@
       "url": "https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u308f\u305f\u3057\u306e\u5b87\u5b99",
         "url": "https://open.spotify.com/album/31466iOJPJaJ0ufRHpPkce"
@@ -1533,7 +1537,7 @@
       "url": "https://open.spotify.com/track/5xn9ggmbMNk93XV5ofQedP"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u6cf3\u3044\u3067\u3086\u3051\u305f\u3089",
         "url": "https://open.spotify.com/album/1GYSFSs014OCLTMlFtLQJX"
@@ -1549,7 +1553,7 @@
       "url": "https://open.spotify.com/track/5rhbxoPNJdhcFm2YU5xeta"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "BLOW",
         "url": "https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC"
@@ -1569,7 +1573,7 @@
       "url": "https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Highlight no Nakade Bokura Zutto",
         "url": "https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud"
@@ -1585,7 +1589,7 @@
       "url": "https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "KUNOICHI",
         "url": "https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI"
@@ -1605,7 +1609,7 @@
       "url": "https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "Kuwadate",
         "url": "https://open.spotify.com/album/7nvNp6Wbi8IEUHdo9rsdu7"
@@ -1621,7 +1625,7 @@
       "url": "https://open.spotify.com/track/000x0PYzls9F6bNbGeMRE1"
     },
     {
-      "added_at": "2023-10-03 15:00:00",
+      "added_at": "2023-10-05 15:00:00",
       "album": {
         "name": "\u541b\u304c\u751f\u304d\u308b\u7406\u7531",
         "url": "https://open.spotify.com/album/4MGPUuaWREftVQyTOn14ww"

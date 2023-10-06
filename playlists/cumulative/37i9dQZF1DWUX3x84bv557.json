@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Numidia",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Do",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -310,6 +310,24 @@
       "duration_ms": 227000,
       "name": "Alles Beweegt",
       "url": "https://open.spotify.com/track/65z7C8iBVk8V2v4e0lP0AH"
+    },
+    {
+      "album": {
+        "name": "Op Mijn Lijf Geschreven",
+        "url": "https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Alles Kan Vanavond",
+      "url": "https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG"
     },
     {
       "album": {
@@ -1901,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Van Huis Uit",
+        "url": "https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY"
+      },
+      "artists": [
+        {
+          "name": "Marc Floor",
+          "url": "https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Dresscode",
+      "url": "https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX"
+    },
+    {
+      "album": {
         "name": "Drijfzand",
         "url": "https://open.spotify.com/album/4oaAZaecrX7QU4o2JYzcCr"
       },
@@ -2144,7 +2180,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 184656,
       "name": "Fijn Om Hier Te Zijn",
       "url": "https://open.spotify.com/track/5ikNvI5hBCQOxW0Y5H4yHs"
@@ -3327,6 +3363,42 @@
     },
     {
       "album": {
+        "name": "Kasper",
+        "url": "https://open.spotify.com/album/1zPxe1f2Sc6SAQfAmKOc2a"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kist",
+          "url": "https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155592,
+      "name": "Kasper",
+      "url": "https://open.spotify.com/track/1NC2AjrlULPt0W2ZUprK30"
+    },
+    {
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/14uCrw5li2R6CAc16pL4vn"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/29ATYUGisQLeSCphYSB4LL"
+    },
+    {
+      "album": {
         "name": "Kleuterklas",
         "url": "https://open.spotify.com/album/5ftpevvTQGLgSv871Fxptt"
       },
@@ -3436,7 +3508,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 132500,
       "name": "Kop In The Sand",
       "url": "https://open.spotify.com/track/4XCw1TmwEKcU2rbUQAvSNk"
@@ -3624,6 +3696,24 @@
       "duration_ms": 163428,
       "name": "Layla",
       "url": "https://open.spotify.com/track/7vb5ewZM4Ei7FTbSYDAPd8"
+    },
+    {
+      "album": {
+        "name": "Leef je in mij",
+        "url": "https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV"
+      },
+      "artists": [
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Leef je in mij",
+      "url": "https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK"
     },
     {
       "album": {
@@ -4673,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "Opfok",
+        "url": "https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146501,
+      "name": "Opfok",
+      "url": "https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7"
+    },
+    {
+      "album": {
         "name": "Opzij",
         "url": "https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C"
       },
@@ -4684,7 +4792,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 142689,
       "name": "Opzij",
       "url": "https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp"
@@ -4926,7 +5034,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 145218,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa"
@@ -5616,7 +5724,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 168139,
       "name": "Tranen Op Papier",
       "url": "https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y"
@@ -6028,6 +6136,24 @@
       "duration_ms": 163730,
       "name": "Voel Jij Dat Ook",
       "url": "https://open.spotify.com/track/52eFgkFoYcSk0r7nSN3ldb"
+    },
+    {
+      "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177707,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W"
     },
     {
       "album": {
@@ -6476,7 +6602,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 122790,
       "name": "ZO BEN JIJ",
       "url": "https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb"
@@ -6512,7 +6638,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 187263,
       "name": "Zoals Ik Jou Gevonden Heb",
       "url": "https://open.spotify.com/track/5tufQXu4n8u156Jy8JJdz0"

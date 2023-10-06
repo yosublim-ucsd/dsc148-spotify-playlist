@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,670 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 33 | [Contra O Vento](https://open.spotify.com/track/2o1kLp5UZwIRloS2kjvPlG) | [Brisa](https://open.spotify.com/artist/0h86oLtyPHlFgPyr7AcAtC) | [CASULO](https://open.spotify.com/album/2lQJ7nr7JbUgIUW4EcNqgA) | 3:57 |
 | 34 | [Dormente](https://open.spotify.com/track/5WKwElSme2Jmoyt1jbFGa7) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Horas Mortas](https://open.spotify.com/album/5ut3lgky0Y94FjjU5e06Bx) | 2:59 |
 | 35 | [Amor](https://open.spotify.com/track/4INDkE9mhwrcfVZdC3GgEr) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Quente](https://open.spotify.com/album/7osQ0gzVF3aXXawd685gWX) | 1:56 |
-| 36 | [Jar Of Hearts](https://open.spotify.com/track/5yhhNHxtw1Rgkc1V1zDCTP) | [Catarina Rodrigues](https://open.spotify.com/artist/05cfB3zRpqKPvs7e30ShMx) | [Jar Of Hearts](https://open.spotify.com/album/3ovrZtJqny1zCNufXdfmXb) | 4:07 |
-| 37 | [Amorzão](https://open.spotify.com/track/7efY11kNBrjZzf23PSnxM5) | [Mafalda Creative](https://open.spotify.com/artist/6RG7dWL2KEAA68dAV11yrD) | [Amorzão](https://open.spotify.com/album/2Q67Mfciw2IZ0HxHNHxbpQ) | 2:16 |
-| 38 | [16:16](https://open.spotify.com/track/4JoKiT2gyVEbYEq6uCFoH2) | [Callaz](https://open.spotify.com/artist/2oyuRoX2vsfxbFjSapy4bJ) | [16:16](https://open.spotify.com/album/1uFQ4qCkxHfXpFm62ElA1a) | 3:24 |
-| 39 | [Soube A Pouco](https://open.spotify.com/track/1Y6NdyEBY0sDaePCK45QgB) | [P.L.E.N.A](https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF) | [Soube A Pouco](https://open.spotify.com/album/6ToKUe8WHj5NYUiUKYqUg0) | 2:47 |
-| 40 | [Álibi](https://open.spotify.com/track/7s8rJDh6SoIT3hZneCjYmH) | [Annie Pereira](https://open.spotify.com/artist/4wmv98b4DD0z49TtuIHASj) | [DES.CONTINUAR](https://open.spotify.com/album/4nCLZcuMS0UPsNNKlmf5ws) | 2:38 |
-| 41 | [Toque](https://open.spotify.com/track/3fyvgb5oDyZGgJyLZrLw0G) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Toque](https://open.spotify.com/album/0ZdmaiMidwWiVW5Codb3sj) | 2:49 |
-| 42 | [Dezembro em Agosto](https://open.spotify.com/track/5iuRgzTpTOXs8VEwsmfB85) | [Tats](https://open.spotify.com/artist/6Ao9Z1U6LNvJ6NHXOBWwrI) | [Dezembro em Agosto](https://open.spotify.com/album/3BKWJHHnjfWrH9rXwWMDkI) | 3:02 |
-| 43 | [Chama a Polícia](https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS) | [Jenny Cabral](https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Chama a Polícia](https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7) | 3:02 |
-| 44 | [tinha + sonhos](https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [tinha + sonhos](https://open.spotify.com/album/58eeO1jjsoWAHQo8Y4MLbe) | 2:31 |
-| 45 | [Toxic](https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID) | [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7) | [Toxic](https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h) | 3:26 |
-| 46 | [Desejo](https://open.spotify.com/track/3xgK2IJGamu77gnktTiWGT) | [Barbie Africana](https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF) | [Desejo](https://open.spotify.com/album/3oTtPi313aCXQfYPbpQPIC) | 3:46 |
-| 47 | [Se o arrependimento matasse](https://open.spotify.com/track/52hos2cE2BuLVOGIS9K45m) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [Se o arrependimento matasse](https://open.spotify.com/album/7tDOIWqQUIHBKydJCj65IA) | 2:48 |
-| 48 | [Hipnose](https://open.spotify.com/track/7lJ6ly1TTyrsu5anLgunFt) | [Inês Monstro](https://open.spotify.com/artist/4dh79sEeMKuEsZhkojV8xQ) | [Hipnose](https://open.spotify.com/album/57IgWyeDmrtZDKMejmIZDv) | 2:55 |
+| 36 | [Benefits](https://open.spotify.com/track/66BcLySWrE63NgdE36ExM8) | [Bárbara Miranda](https://open.spotify.com/artist/1vuN1CY5qcr264dHXzS9N9) | [Benefits](https://open.spotify.com/album/5Goq5iRpqdEY6AnrFXNWim) | 2:50 |
+| 37 | [feita parva, mas tua](https://open.spotify.com/track/7fSx8XAYuSkqwMcwuuwlHu) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [feita parva, mas tua](https://open.spotify.com/album/003zgNzxSRpS2J6WLLEkIu) | 3:32 |
+| 38 | [Jar Of Hearts](https://open.spotify.com/track/5yhhNHxtw1Rgkc1V1zDCTP) | [Catarina Rodrigues](https://open.spotify.com/artist/05cfB3zRpqKPvs7e30ShMx) | [Jar Of Hearts](https://open.spotify.com/album/3ovrZtJqny1zCNufXdfmXb) | 4:07 |
+| 39 | [Amorzão](https://open.spotify.com/track/7efY11kNBrjZzf23PSnxM5) | [Mafalda Creative](https://open.spotify.com/artist/6RG7dWL2KEAA68dAV11yrD) | [Amorzão](https://open.spotify.com/album/2Q67Mfciw2IZ0HxHNHxbpQ) | 2:16 |
+| 40 | [16:16](https://open.spotify.com/track/4JoKiT2gyVEbYEq6uCFoH2) | [Callaz](https://open.spotify.com/artist/2oyuRoX2vsfxbFjSapy4bJ) | [16:16](https://open.spotify.com/album/1uFQ4qCkxHfXpFm62ElA1a) | 3:24 |
+| 41 | [Soube A Pouco](https://open.spotify.com/track/1Y6NdyEBY0sDaePCK45QgB) | [P.L.E.N.A](https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF) | [Soube A Pouco](https://open.spotify.com/album/6ToKUe8WHj5NYUiUKYqUg0) | 2:47 |
+| 42 | [Álibi](https://open.spotify.com/track/7s8rJDh6SoIT3hZneCjYmH) | [Annie Pereira](https://open.spotify.com/artist/4wmv98b4DD0z49TtuIHASj) | [DES.CONTINUAR](https://open.spotify.com/album/4nCLZcuMS0UPsNNKlmf5ws) | 2:38 |
+| 43 | [Toque](https://open.spotify.com/track/3fyvgb5oDyZGgJyLZrLw0G) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Toque](https://open.spotify.com/album/0ZdmaiMidwWiVW5Codb3sj) | 2:49 |
+| 44 | [Dezembro em Agosto](https://open.spotify.com/track/5iuRgzTpTOXs8VEwsmfB85) | [Tats](https://open.spotify.com/artist/6Ao9Z1U6LNvJ6NHXOBWwrI) | [Dezembro em Agosto](https://open.spotify.com/album/3BKWJHHnjfWrH9rXwWMDkI) | 3:02 |
+| 45 | [Chama a Polícia](https://open.spotify.com/track/5nXyhuzNJ5jHdpPDq5ywaS) | [Jenny Cabral](https://open.spotify.com/artist/66xcfAp997B9qNAwwEtQvK), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Chama a Polícia](https://open.spotify.com/album/0gbGNvo50htawNPbtkBzJ7) | 3:02 |
+| 46 | [tinha + sonhos](https://open.spotify.com/track/0TNO84l24GT3hyFpqxJ8U6) | [Curly](https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er) | [tinha + sonhos](https://open.spotify.com/album/58eeO1jjsoWAHQo8Y4MLbe) | 2:31 |
+| 47 | [Toxic](https://open.spotify.com/track/38FYjy75QxrS46LbPgk3ID) | [Myriiam](https://open.spotify.com/artist/6zg4moJfc93wjVVOhE1tK7) | [Toxic](https://open.spotify.com/album/4gEHh8Cz2BHMUrYF6HUI9h) | 3:26 |
+| 48 | [Desejo](https://open.spotify.com/track/3xgK2IJGamu77gnktTiWGT) | [Barbie Africana](https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF) | [Desejo](https://open.spotify.com/album/3oTtPi313aCXQfYPbpQPIC) | 3:46 |
+| 49 | [Se o arrependimento matasse](https://open.spotify.com/track/52hos2cE2BuLVOGIS9K45m) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [Se o arrependimento matasse](https://open.spotify.com/album/7tDOIWqQUIHBKydJCj65IA) | 2:48 |
+| 50 | [Hipnose](https://open.spotify.com/track/7lJ6ly1TTyrsu5anLgunFt) | [Inês Monstro](https://open.spotify.com/artist/4dh79sEeMKuEsZhkojV8xQ) | [Hipnose](https://open.spotify.com/album/57IgWyeDmrtZDKMejmIZDv) | 2:55 |
 
-Snapshot ID: `MCwxM2VlNmYzMTA4NWVmMWE0NDUxYjM4NjMyZTcwYTY4ZGQwMjI3ZjVi`
+Snapshot ID: `MCxiZWU4MGZhZjlhNzRkMjVkOWZlNDU4ZjM3MWE0ZGYyM2EzODZiMDRi`

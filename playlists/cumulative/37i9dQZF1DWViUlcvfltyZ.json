@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: Blonde Redhead",
+  "description": "La playlist che \u00e8 come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia. Cover: Karakaz",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 228961,
       "name": "AMERICANIMA",
       "url": "https://open.spotify.com/track/0m5cZKfVNulIf1YkrYtPoY"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 185082,
       "name": "Bombshell",
       "url": "https://open.spotify.com/track/0GJKGQDeJXSGfcDTmyWHk6"
@@ -1360,6 +1360,24 @@
       "duration_ms": 200899,
       "name": "C'era ancora il sole",
       "url": "https://open.spotify.com/track/5pSnuu6iJvp8yluC3ZIpqt"
+    },
+    {
+      "album": {
+        "name": "DEMO #01",
+        "url": "https://open.spotify.com/album/52hUlx8W1cnwA4G79nazsF"
+      },
+      "artists": [
+        {
+          "name": "(+39) 375-649-94-64 My Telephone Number",
+          "url": "https://open.spotify.com/artist/00xSgiKwSnRaE9zYqlRCoH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132632,
+      "name": "C'est magique",
+      "url": "https://open.spotify.com/track/7oynHAPhWJiIpRtyDQVLa2"
     },
     {
       "album": {
@@ -1620,6 +1638,24 @@
       "duration_ms": 186763,
       "name": "Capannone",
       "url": "https://open.spotify.com/track/2O8iMn5Ix5QMk0eyMDfRFg"
+    },
+    {
+      "album": {
+        "name": "Maremarcio/Alas Split",
+        "url": "https://open.spotify.com/album/1byaT6ElGVwRZPAyn14GUS"
+      },
+      "artists": [
+        {
+          "name": "Maremarcio",
+          "url": "https://open.spotify.com/artist/1HkEEypIQJePOJGOEEJFH9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Capelli scarmigliati",
+      "url": "https://open.spotify.com/track/0HLhUam366SqCMjtrazrue"
     },
     {
       "album": {
@@ -2619,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "Diritto Di Obbedire",
+        "url": "https://open.spotify.com/album/4KwdVsKZZbIs74vOMLrSEZ"
+      },
+      "artists": [
+        {
+          "name": "Golpe",
+          "url": "https://open.spotify.com/artist/3poEwG5DgXTTIYKyD2mi33"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74990,
+      "name": "Diritto Di Obbedire",
+      "url": "https://open.spotify.com/track/5v2fyB3sLf7sB7CrLVqmnh"
+    },
+    {
+      "album": {
         "name": "Diverso/Uguale",
         "url": "https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG"
       },
@@ -2898,6 +2952,24 @@
       "duration_ms": 296306,
       "name": "Elena's Beauty Theme",
       "url": "https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER"
+    },
+    {
+      "album": {
+        "name": "ENDURO",
+        "url": "https://open.spotify.com/album/2etNGVtnWyjyE9EHk0Zh7c"
+      },
+      "artists": [
+        {
+          "name": "Appino",
+          "url": "https://open.spotify.com/artist/4DZifQP0B5j53Hw4KuMOnH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "ENDURO",
+      "url": "https://open.spotify.com/track/7hdxWdoBe9pEHZpoKgosgu"
     },
     {
       "album": {
@@ -3490,7 +3562,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 202152,
       "name": "Freakin'late",
       "url": "https://open.spotify.com/track/2Cq7rJrEM0Ap5kYUqYP5WI"
@@ -3562,7 +3634,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 118643,
       "name": "Fumo un po'",
       "url": "https://open.spotify.com/track/6C0ZrXgrzwaN5eE4IV3d4l"
@@ -3768,7 +3840,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 255514,
       "name": "Gioved\u00ec al fiume",
       "url": "https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp"
@@ -4040,6 +4112,24 @@
       "duration_ms": 158280,
       "name": "High On Stress",
       "url": "https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT"
+    },
+    {
+      "album": {
+        "name": "ho perso (tempo)",
+        "url": "https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY"
+      },
+      "artists": [
+        {
+          "name": "joe croci",
+          "url": "https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154060,
+      "name": "ho perso (tempo)",
+      "url": "https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd"
     },
     {
       "album": {
@@ -4524,6 +4614,24 @@
       "duration_ms": 222000,
       "name": "In ciabatte",
       "url": "https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc"
+    },
+    {
+      "album": {
+        "name": "In questo",
+        "url": "https://open.spotify.com/album/7sZv0iHyefAHpq7WFUprMk"
+      },
+      "artists": [
+        {
+          "name": "m0m0",
+          "url": "https://open.spotify.com/artist/4Zua3WcaeHvivfRH9zPcl6"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208122,
+      "name": "In questo",
+      "url": "https://open.spotify.com/track/4Up7N5Vy1iVHxkoKTVHGkp"
     },
     {
       "album": {
@@ -5120,7 +5228,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 205283,
       "name": "Labbra in 3D",
       "url": "https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1"
@@ -5562,7 +5670,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 147730,
       "name": "MAL\u00c8SSERE",
       "url": "https://open.spotify.com/track/7uK7WsMJAiw1qTyTWFervQ"
@@ -6056,7 +6164,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 218958,
       "name": "Mussolini",
       "url": "https://open.spotify.com/track/0Cyih16Jk1bhPG0fMlLHe7"
@@ -6078,6 +6186,24 @@
       "duration_ms": 218146,
       "name": "My Best",
       "url": "https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd"
+    },
+    {
+      "album": {
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/5kzMtLRcuNtHU3Hwr09qoG"
+      },
+      "artists": [
+        {
+          "name": "Kuni",
+          "url": "https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161508,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/6IJXxt8NCCjiBIIoNEWeCG"
     },
     {
       "album": {
@@ -6186,6 +6312,24 @@
       "duration_ms": 197438,
       "name": "Nervosa",
       "url": "https://open.spotify.com/track/76YfuESrceGIpXf4jbrsW2"
+    },
+    {
+      "album": {
+        "name": "Neuro Queer Cyber Punk (italia)",
+        "url": "https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk"
+      },
+      "artists": [
+        {
+          "name": "Sun Dojo",
+          "url": "https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57000,
+      "name": "Neuro Queer Cyber Punk (italia)",
+      "url": "https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914"
     },
     {
       "album": {
@@ -6320,7 +6464,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 230522,
       "name": "NON LA VEDO BENE",
       "url": "https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0"
@@ -6418,7 +6562,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 232235,
       "name": "Non si pu\u00f2 fermare",
       "url": "https://open.spotify.com/track/1uxWbcEqOMNWCiZs1o0uok"
@@ -8043,6 +8187,24 @@
     },
     {
       "album": {
+        "name": "Sciara",
+        "url": "https://open.spotify.com/album/1Z6J0VUdUpUkPR03ZughwS"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6",
+          "url": "https://open.spotify.com/artist/6dHFhxw5uxV8SJtOmwbb3q"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315437,
+      "name": "Sciara",
+      "url": "https://open.spotify.com/track/27XUkuxktBq21cwyX7eQZY"
+    },
+    {
+      "album": {
         "name": "ESSERI UMANI PERFETTI",
         "url": "https://open.spotify.com/album/6lw56QZZjB8bRaGFNTLUCI"
       },
@@ -8598,7 +8760,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 107778,
       "name": "Spiffero",
       "url": "https://open.spotify.com/track/0ey0FRonzZU005CDAU13Cz"
@@ -9137,6 +9299,24 @@
     },
     {
       "album": {
+        "name": "Teatro dell'assurdo",
+        "url": "https://open.spotify.com/album/49xaH7DdVSX8E3BPrJhYx4"
+      },
+      "artists": [
+        {
+          "name": "Karakaz",
+          "url": "https://open.spotify.com/artist/5bGf7yGh4gz8vn6azMKq4u"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213519,
+      "name": "Teatro dell'assurdo",
+      "url": "https://open.spotify.com/track/6WKkD78hYlGwYwnKZkUYG9"
+    },
+    {
+      "album": {
         "name": "Terra bruciata",
         "url": "https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI"
       },
@@ -9584,7 +9764,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 131964,
       "name": "TU MI MANDI FUORI",
       "url": "https://open.spotify.com/track/235dHwSaoNAWY29a0gSBWw"
@@ -9664,6 +9844,24 @@
       "duration_ms": 165080,
       "name": "TUTTA FORTUNA",
       "url": "https://open.spotify.com/track/0DvndgIYnzPqnBaLBeS0ur"
+    },
+    {
+      "album": {
+        "name": "Tutte le Botte",
+        "url": "https://open.spotify.com/album/2gDXveGH79loTpGJz8LW4l"
+      },
+      "artists": [
+        {
+          "name": "JAGWARI",
+          "url": "https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222576,
+      "name": "Tutte le Botte",
+      "url": "https://open.spotify.com/track/32HfeY8OtwZUE94ho5TiaM"
     },
     {
       "album": {
@@ -10006,7 +10204,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 166276,
       "name": "Vento Triste",
       "url": "https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1"

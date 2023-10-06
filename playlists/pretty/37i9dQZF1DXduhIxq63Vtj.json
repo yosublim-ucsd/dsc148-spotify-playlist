@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes!",
-  "num_followers": 19718,
+  "num_followers": 19725,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGZkOWQzNTZiMjEwMjA0MWFiMTA2NDEwMWM2MTVjYTRlMGE2YWQ0",
+  "snapshot_id": "MCw0MWE4MTgzYjQ0ZDI4Nzc5ZTRmM2MyMzU4MjViMDc1ZWNlNTVlNzJj",
   "tracks": [
     {
       "added_at": "2023-05-24 22:54:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Once : Once",
-        "url": "https://open.spotify.com/album/2AqGAOVHtccc2xWkY4f2H8"
-      },
-      "artists": [
-        {
-          "name": "Rostros Ocultos",
-          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "El Final (bonus Track)",
-      "url": "https://open.spotify.com/track/0cSyNW1b4g7mpTjnJxeY2S"
-    },
-    {
-      "added_at": "2023-05-24 22:54:50",
-      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 153520,
       "name": "El alacr\u00e1n",
       "url": "https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI"
+    },
+    {
+      "added_at": "2023-05-24 22:54:50",
+      "album": {
+        "name": "Once : Once",
+        "url": "https://open.spotify.com/album/2AqGAOVHtccc2xWkY4f2H8"
+      },
+      "artists": [
+        {
+          "name": "Rostros Ocultos",
+          "url": "https://open.spotify.com/artist/4sgBOSpSKtU749d6DGH5Ib"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "El Final (bonus Track)",
+      "url": "https://open.spotify.com/track/0cSyNW1b4g7mpTjnJxeY2S"
     },
     {
       "added_at": "2023-05-24 22:54:50",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-05-24 22:54:50",
       "album": {
-        "name": "Fiesta Mexicana Con Mariachi (USA)",
-        "url": "https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp"
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
         }
       ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r"
+      "duration_ms": 213466,
+      "name": "Cara de Pizza",
+      "url": "https://open.spotify.com/track/3XOAOvlRTo3vConiAvUm29"
     }
   ],
   "unique_name": "Coraz\u00f3n Tapat\u00edo",

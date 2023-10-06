@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 150442,
+  "num_followers": 150447,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDI4NDg3YTMwMDVkNjc2ZTlkNWQ0ZmZjZWEzM2MzMzU0ZTFmYzI1",
+  "snapshot_id": "MCxjNTgwNmU1NzkxMmQ1ZDBhMTVjNWQyMmJiNjNjMjU0YzM2MmZiNGQy",
   "tracks": [
     {
       "added_at": "2023-08-21 15:41:01",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
-      },
-      "artists": [
-        {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
-        }
-      ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
-    },
-    {
-      "added_at": "2023-08-21 15:41:01",
-      "album": {
         "name": "Muddy Days Drunken Nights",
         "url": "https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
+        "name": "Kuntry Livin'",
+        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+      },
+      "artists": [
+        {
+          "name": "SMO",
+          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Bumpy Road",
+      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+    },
+    {
+      "added_at": "2023-08-21 15:41:01",
+      "album": {
         "name": "Blood Red",
         "url": "https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk"
       },
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Kuntry Livin'",
-        "url": "https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
       "artists": [
         {
-          "name": "SMO",
-          "url": "https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Bumpy Road",
-      "url": "https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "COUNTRY FUZZ",
-        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
+        "name": "Hick Hop 101",
+        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
       },
       "artists": [
         {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+          "name": "Jawga Boyz",
+          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
         }
       ],
-      "duration_ms": 164334,
-      "name": "Slow Rollin'",
-      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
+      "duration_ms": 212400,
+      "name": "Redneck Dirt Road Riders",
+      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
     },
     {
       "added_at": "2023-08-21 15:41:01",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-08-21 15:41:01",
       "album": {
-        "name": "Hick Hop 101",
-        "url": "https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE"
+        "name": "COUNTRY FUZZ",
+        "url": "https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV"
       },
       "artists": [
         {
-          "name": "Jawga Boyz",
-          "url": "https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Redneck Dirt Road Riders",
-      "url": "https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB"
+      "duration_ms": 164334,
+      "name": "Slow Rollin'",
+      "url": "https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO"
     },
     {
       "added_at": "2023-08-21 15:41:01",

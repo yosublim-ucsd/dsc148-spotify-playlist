@@ -4,7 +4,7 @@
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-665 songs - 2 day 5 hr 53 min
+666 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,8 @@
 | [Pull Up \- Tim Reaper Remix](https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:09 | 2022-01-07 |  |
 | [Pump It](https://open.spotify.com/track/4JF7SVpoXcaD4NUZtS5XwG) | [Mark Archer](https://open.spotify.com/artist/3bwbfpfkk1D1cHy7XZ97vF) | [Frndzne 04](https://open.spotify.com/album/7rKqj6g0Tk3htSeHTWFCmt) | 6:31 | 2022-09-23 | 2022-11-22 |
 | [Pure Luv](https://open.spotify.com/track/0lpiIQ7V9vjPqgmodkUHlw) | [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG) | [Road Trip EP](https://open.spotify.com/album/7sxTlrVVSlgk28TzzzOATJ) | 4:00 | 2023-03-24 | 2023-09-27 |
-| [Purple Hilt \- East London Aerial Mix](https://open.spotify.com/track/6sPuclPh1gyy4rjJkZO65d) | [95Bones](https://open.spotify.com/artist/7mhy2Q6vu4Sykrj19xvzZx), [Wager](https://open.spotify.com/artist/0I1YgLj1z8MOwKBBqOxuRm) | [Purple Hilt](https://open.spotify.com/album/2ZtFBrBeCPYCcEmgL40TIo) | 3:54 | 2023-09-26 |  |
+| [Purple Hilt \- East London Aerial Mix](https://open.spotify.com/track/6sPuclPh1gyy4rjJkZO65d) | [95Bones](https://open.spotify.com/artist/7mhy2Q6vu4Sykrj19xvzZx), [Wager](https://open.spotify.com/artist/0I1YgLj1z8MOwKBBqOxuRm) | [Purple Hilt](https://open.spotify.com/album/2ZtFBrBeCPYCcEmgL40TIo) | 3:54 | 2023-09-26 | 2023-10-06 |
+| [Purple Hilt \- East London Aerial Mix](https://open.spotify.com/track/7LdwuAgHfCsC3zBM3Qnvmj) | [95Bones](https://open.spotify.com/artist/7mhy2Q6vu4Sykrj19xvzZx), [Wager](https://open.spotify.com/artist/0I1YgLj1z8MOwKBBqOxuRm) | [Purple Hilt](https://open.spotify.com/album/0LwXWS9e4HwSO7FdYuHoes) | 3:54 | 2023-09-26 |  |
 | [Put You Down](https://open.spotify.com/track/2adkgOIf8GBZX8UiVPOQ8e) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [Put You Down](https://open.spotify.com/album/783bg3Rz7jdIgw3VJaVjHF) | 5:16 | 2022-02-18 | 2022-03-01 |
 | [Putting In Werk](https://open.spotify.com/track/60ml6nFc3woKyTxLnrECdv) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray) | [Putting In Werk EP](https://open.spotify.com/album/5t7IM9sf587CwrWCzSyELN) | 3:29 | 2021-11-25 | 2022-01-08 |
 | [R House](https://open.spotify.com/track/3infxLD8TOCDPiDxB5qcW3) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Ghettoteknitianz EP](https://open.spotify.com/album/4mlWm2d0x87YvwcJ1pA5fA) | 4:48 | 2022-06-17 | 2022-09-24 |

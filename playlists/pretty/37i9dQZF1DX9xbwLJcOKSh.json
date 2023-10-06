@@ -1,15 +1,31 @@
 {
   "description": "\u4f5c\u66f2\u3001\u7de8\u66f2\u3001\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9\u30ef\u30fc\u30af\u3092\u4e2d\u5fc3\u306b\u6d3b\u52d5\u3002\u30b8\u30e3\u30f3\u30eb\u3092\u8d85\u3048\u305f\u8868\u73fe\u3067\u4e09\u6728\u9d8f\u90ce\u5e83\u544a\u97f3\u697d\u8cde\u7b49\u3001\u6570\u3005\u306e\u30a2\u30ef\u30fc\u30c9\u3092\u53d7\u8cde\u3002",
-  "num_followers": 17072,
+  "num_followers": 17080,
   "original_name": "\u83c5\u91ce\u3088\u3046\u5b50 Yoko Kanno Works",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2JiMjNmZWJlMjAxY2NiYjIxZTA5NTNmNTA4ZWRmZGFkYWVkZWEw",
+  "snapshot_id": "MCwzYTE1OWY4OGZiYjhjYzgxOGY1OTc0NTUyMzI5MTkyZjIwYzIyOTAw",
   "tracks": [
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
+      "album": {
+        "name": "Kura Kura",
+        "url": "https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 191105,
+      "name": "Kura Kura",
+      "url": "https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm"
+    },
+    {
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u3081\u3050\u308c",
         "url": "https://open.spotify.com/album/2Xg8JgbL6tsAM8qd8edrEY"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/0FJ4AAilywAVRuVEGXefCT"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/3FOLJJqtFaOqyvcGRv5B8f"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "MACROSS FRONTIER Opening Theme Lion",
         "url": "https://open.spotify.com/album/36hcAxhOV7yBUdRquz4hj0"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/1ux8Y96cV5Qs0kdOCq4cZ2"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de \u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3",
         "url": "https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "the MACROSS F - Labyrinth of Time theatrical short - Theme song \"Labyrinth of Time\"",
         "url": "https://open.spotify.com/album/4hDesPved6WVlXmnDHeQEn"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/2dHEkaG1pyxIplZkki01K2"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u30aa\u30c8\u30b3\u306e\u30b3 \u30aa\u30f3\u30ca\u306e\u30b3",
         "url": "https://open.spotify.com/album/7sLpYyxNEnrLRU3cGpJmU8"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/6Qc4tw9GpdqIwn1XHB2Zvb"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/2JU0rdgSmzT4pfmwyXPIeB"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/4M9Ch5J3iiPjFBucNIF0wS"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/3ADTWncwDSDT5TvbRgI6vt"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/539jKDvQomLMWGBEkjyTWX"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/13w2CsQQVMD4UAPbHRa1uV"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u3059\u3066\u304d\u306a15\u624d",
         "url": "https://open.spotify.com/album/2600J4K01OUJMqyn4S87ca"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/65XW0J9tP56gJrPLdXgJpv"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
         "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/0TrRIlfaTzdsgG90fSsTzr"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u7a7a\u306e\u68ee\uff08BEST ALBUM\uff09",
         "url": "https://open.spotify.com/album/1Q4GRwR0Lg1gENqvcBEOaJ"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/2DQWxHJ8ei69pVs2U48w65"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a S.A.C. Solid State Society O.S.T.",
         "url": "https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u304b\u305c\u3088\u307f",
         "url": "https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Yoko Kanno: Ray of Water [piano solo main theme]",
         "url": "https://open.spotify.com/album/1NTRa6tnawhDlsWdgyKGDE"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6cywdhgj79rTo4blxjQdll"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "MACROSS PLUS ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/57P8lukHho2QqRUsg9l9i1"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/2PXnV9PBUGW4v5u6WJpCjG"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u300cPEACE of SMILE\u300dSelection",
         "url": "https://open.spotify.com/album/4rqYqWribaZtN786b9WCZw"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/4Bg2ubttoZY6HKAhz5yPCs"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "MACROSS FRONTEER Ending Theme Diamond Crevasse / Iteza Gogo Kuji don't be late",
         "url": "https://open.spotify.com/album/66iUYxmg9mWPc4xbrpo9hq"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/0kPsiiL5q1N54ywIbv1uaV"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u30dd\u30f3\u30d1\u30e9 \u30da\u30b3\u30eb\u30ca \u30d1\u30d4\u30e8\u30c3\u30bf",
         "url": "https://open.spotify.com/album/53Ak4ca54hJKAGgsoHBql4"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/1XrP86EevEMOiHNp1i3DYu"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Love Of My Life",
         "url": "https://open.spotify.com/album/1yl7MPVZuRUbQB24ojqYOK"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/20il4rKpoK50t6DXcCIBKF"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u7948\u308a\uff5e\u672a\u6765\u3078\u306e\u6b4c\u58f0",
         "url": "https://open.spotify.com/album/1Gob4cRpGJpwjQEb6eCOFw"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5S84EJBZewvQ3Ay36P3dps"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "yet",
         "url": "https://open.spotify.com/album/24D1Hykq1hhR0XFoMOFZgV"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/5Ymzx5BZzmykFlffsRKzmh"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP Knockin' on Heaven's Door Ask DNA",
         "url": "https://open.spotify.com/album/1a9ZvRvJCb1RnF37cf9IWW"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/4p1S6k6k3Clz7293zJI0xF"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u30a2\u30cb\u30e1\u300c\u5742\u9053\u306e\u30a2\u30dd\u30ed\u30f3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/194Lk1nnWAcJh4pbWDbR99"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/2EjybI8rM8udIMC0mvX2dS"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Brain Powerd (Original Motion Picture Soundtrack 1)",
         "url": "https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/2it7ZKg74kMJInqDd4flyR"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "GOLDEN BEST Kagayakitai no [Victor Years 1981-1985 (+'99)]",
         "url": "https://open.spotify.com/album/4s7IzBa4w9Ta87nZJlc7UW"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/3Xa8rSFdoqXHmilkjbNsba"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
         "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/2Uyz4r0IwXlZIVbkTEASPk"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "UNCHAINED GIRL",
         "url": "https://open.spotify.com/album/2ObmAdwAhoXtlcCfssyuEO"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/7JSSh4nIKrgg2uCmlJEqlA"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u300c\u5275\u8056\u306e\u30a2\u30af\u30a8\u30ea\u30aa\u30f3\u300d\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de Go Tight!",
         "url": "https://open.spotify.com/album/50l3rfBJ0VpkXvHW63T4RL"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/5sa9qL7gEN2CrL9BlN9rAO"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.+",
         "url": "https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u4e5d\u6bb5",
         "url": "https://open.spotify.com/album/5fb7PEDcJIQFflHh7tcbps"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/07lGod0aCGc78p3zlKW3jB"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u96e8\u3042\u304c\u308a\u306e\u30b9\u30c6\u30c3\u30d7",
         "url": "https://open.spotify.com/album/5TW72pURUT1VeQRWqGdc5I"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/78IKMSMH7qgEKuHUQ4021Z"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Brain Powerd (Original Motion Picture Soundtrack 1)",
         "url": "https://open.spotify.com/album/0IuZfiSwaDJgIrroLIKhZ9"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/2wRFMxS3HFrp6NmeBSkPdT"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Tsuki no Mayu",
         "url": "https://open.spotify.com/album/0j8BKcPzD7w4TIrw9lD4AT"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/0drOFJvHxIMeFHd22GFWAH"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "What I am",
         "url": "https://open.spotify.com/album/4IGFw3TSI042ngF2gIZpuR"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/4yTLOJVd24fgt20yt0GyX3"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "ICTL no.2",
         "url": "https://open.spotify.com/album/61ynUPJZ4xCmxWPiNf7wNn"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/61SOOWxYCc8WHiFOhBU7Tl"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u30ab\u30c3\u30b7\u30fc\u30cb",
         "url": "https://open.spotify.com/album/6tquAUs8bW10pP2xLggb5f"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4OeAsBUmDCMwmLxG5fD1LJ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
         "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
         "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/7J5E5BotnQlI6K2rxUQ4tJ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP Tank! the! Best!",
         "url": "https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A"
@@ -765,7 +781,7 @@
       "url": "https://open.spotify.com/track/5kGuWgZTWqroIArQQqttqV"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Turn a Gundam Original Motion Picture Soundtrack \u2160",
         "url": "https://open.spotify.com/album/0eQvZKz4BZSlqcifV0iFyL"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/77VKOwdGGp2ObwIIUVlosT"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u30a2\u30eb\u30b8\u30e5\u30ca into the another world",
         "url": "https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/1dPG9yEByXqXrU7cdQC3Or"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Five Island Resort",
         "url": "https://open.spotify.com/album/6vnRkXF61Xv6VyebWgFA8O"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/01On3F67LVglVam7lTD4wy"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "UNDER:COVER",
         "url": "https://open.spotify.com/album/1kZXjOezJA0yFIz4lkFlMb"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/0oGzQ0shm38oCt5MinOXI9"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Petitsavon",
         "url": "https://open.spotify.com/album/6qfsLcM8V6nMaGAIItOfOG"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/0SR4s4FT0LkCMNgIoTuDau"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "C.L.L CRYSTAL LOVER LIGHT",
         "url": "https://open.spotify.com/album/4FPdpim6E4EEpjcEffWQi7"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/0YkTlT4dN4hk4ihiGjPNCQ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u3055\u304f\u3089\u3093\u307c\u306e\u5b9f\u308b\u9803",
         "url": "https://open.spotify.com/album/3p4X3ywzqgqzlCUZZMIXeh"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/6doYuv4YLRc5ip4GqMUMnb"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u6b8b\u97ff\u306e\u30c6\u30ed\u30eb \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/5FzuQABR0MQBC4X60iEzSF"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/3oUgh8bLNkEF0ul6cdMW46"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Kei\u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\uff5ethe best of Kei Kobayashi",
         "url": "https://open.spotify.com/album/5vp8PSLSp9R6qIMVccaY52"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/0jdhf4ASJPQVB2lF6av0yq"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "everywhere I",
         "url": "https://open.spotify.com/album/7xG3nzuiSnUvaz1r0PfY1G"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/3SvHpNm2zWsogFk9IVJdNQ"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u661f\u3068\u7ffc\u306e\u30d1\u30e9\u30c9\u30af\u30b9",
         "url": "https://open.spotify.com/album/1oAwJgwY8EQeNzOTBgEGWD"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/0oq0LaOo8fd2P5ObNlDP7L"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/0ztjPLsdtp9GJZunoiFEaO"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/0WzS0gRcots1x2LscMkpNX"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u96ea\u306e\u30ef\u30eb\u30c4",
         "url": "https://open.spotify.com/album/36uDS3bXbHIXtF9286vaYs"
@@ -981,7 +997,7 @@
       "url": "https://open.spotify.com/track/2mfGMATyARqZny4SqeF6uH"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u6d77\u8857diary \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3zjLKUBam57KIIlHfuSXWX"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/7kY6SVaSuLmvFTUfZsutFX"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP (Original Motion Picture Soundtrack 3 - Blue)",
         "url": "https://open.spotify.com/album/4MhCKW36bndX2VMQ8qYMv1"
@@ -1013,7 +1029,7 @@
       "url": "https://open.spotify.com/track/44l2QraBH96L5LejzEFWLH"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP Tank! the! Best!",
         "url": "https://open.spotify.com/album/2RQPHIImcaZaJBmptZAY9A"
@@ -1029,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0a2qIEnOqn55A98cgpirod"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Lost in Time",
         "url": "https://open.spotify.com/album/1dvphJVpGj21fGOkOHfclZ"
@@ -1045,7 +1061,7 @@
       "url": "https://open.spotify.com/track/4X5GKBvSgQ1wRPQQJJQWjP"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "COWBOY BEBOP Vitaminless",
         "url": "https://open.spotify.com/album/0J2DObt0HybwYP91obpHRy"
@@ -1061,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5Cmf3LmbLd9g79rS55X7qK"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 2)",
         "url": "https://open.spotify.com/album/58nXdeGgTmfIfVjMdkwbGo"
@@ -1077,7 +1093,7 @@
       "url": "https://open.spotify.com/track/0lLJQ5nsIEgFCBHL8EYion"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "Turn a Gundam Original Motion Picture Soundtrack \u2161 - Diana & Kihel",
         "url": "https://open.spotify.com/album/2U6qYkuMhXtDiDbMRG8q7a"
@@ -1093,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7zIsRwxLIPqsx7jQJKCI6y"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u653b\u6bbb\u6a5f\u52d5\u968a STAND ALONE COMPLEX O.S.T.2",
         "url": "https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0a1lNJpEUI3bOTI5VEdgaP"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u4fe1\u9577\u306e\u91ce\u671b \u5168\u30fb\u56fd\u30fb\u7248/\u4e09\u570b\u5fd7",
         "url": "https://open.spotify.com/album/57WRhJWJvBcWOcPHALD4sz"
@@ -1125,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5uZQ8Ovbok7azYUzwFMYpU"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "MACROSS PLUS ORIGINAL SOUNDTRACK PLUS",
         "url": "https://open.spotify.com/album/1HyvM7dL85J0kPAQTkExvR"
@@ -1141,7 +1157,7 @@
       "url": "https://open.spotify.com/track/2UikVU1NgX58VwZIZeG8OL"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "WOLF'S RAIN",
         "url": "https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9"
@@ -1157,7 +1173,7 @@
       "url": "https://open.spotify.com/track/4QZj1MnujZc4xkP7LhXglF"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "YOKO KANNO produce Cyber Bicci",
         "url": "https://open.spotify.com/album/2QmOaMj4JwDkZOhveFu0RY"
@@ -1173,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5l4P0kmJaBMk21x0cHBqym"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "MACROSS FRONTIER Ranka to Bobby no SMS Shoutai no Uta Nado.",
         "url": "https://open.spotify.com/album/09TpsQuLrcuECkeQaurAd3"
@@ -1189,7 +1205,7 @@
       "url": "https://open.spotify.com/track/4Z2UGK0tmXr4R0iUtQVh4X"
     },
     {
-      "added_at": "2023-04-11 15:00:00",
+      "added_at": "2023-10-05 16:20:38",
       "album": {
         "name": "\u6c11 \uff5eTami\uff5e",
         "url": "https://open.spotify.com/album/7fOVjAaS7rqZFoVpyr6wZK"

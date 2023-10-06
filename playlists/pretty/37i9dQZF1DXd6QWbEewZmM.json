@@ -1,12 +1,12 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 253156,
+  "num_followers": 253420,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjZlZmU4NzM3MmVjZTU2MmQ0ZTE2ZjM3ZWU4YWUzMmRlZGZhZmNl",
+  "snapshot_id": "MCxmMTQ0MTVlNmY4N2Q3ZWU1Mzk1NTIzZjQ5ZDNhMGI2OWNjYTUwOGE5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Ya Te Super\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Ya Te Super\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/0YK6koGYXva8aceQpman6H"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Ya Te Super\u00e9 (En Vivo)",
-        "url": "https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt"
+        "name": "Sad Boy Shit",
+        "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
       },
       "artists": [
         {
-          "name": "Los Parras",
-          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 185173,
-      "name": "Ya Te Super\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
+      "duration_ms": 276973,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 184561,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Sad Boy Shit",
-        "url": "https://open.spotify.com/album/7dfEFQgVDb6BKLsJmVdg00"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 276973,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/6XecBnprrMoxhMiHHyvWN7"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "D\u00e9jame Ser",
-        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
+        "name": "A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
         }
       ],
-      "duration_ms": 188500,
-      "name": "D\u00e9jame Ser",
-      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
+      "duration_ms": 173985,
+      "name": "A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "A\u00f1o Nuevo",
-        "url": "https://open.spotify.com/album/0FAyOaoGk5lvBjzjkE075P"
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz"
       },
       "artists": [
         {
-          "name": "juanitoo2x",
-          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 173985,
-      "name": "A\u00f1o Nuevo",
-      "url": "https://open.spotify.com/track/6s2YmUFyj2krxfHcXevEH7"
+      "duration_ms": 188500,
+      "name": "D\u00e9jame Ser",
+      "url": "https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Grupo Digno",
+          "url": "https://open.spotify.com/artist/0b1PRXHKnHHHT0kxcA15Ur"
         }
       ],
-      "duration_ms": 245808,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
+      "duration_ms": 195369,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1487,22 +1487,6 @@
       "duration_ms": 259493,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Olvidarte",
-        "url": "https://open.spotify.com/album/1z8RqsiClrx1T60HQb0JcR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Digno",
-          "url": "https://open.spotify.com/artist/0b1PRXHKnHHHT0kxcA15Ur"
-        }
-      ],
-      "duration_ms": 195369,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Tony",
+      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "2 De La",
         "url": "https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Tony",
-      "url": "https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE"
+      "duration_ms": 245808,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/0V3vAtJgeOEI58diEdq5by"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
-      },
-      "artists": [
-        {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
-        }
-      ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Que Paso",
         "url": "https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS"
       },
@@ -1667,22 +1651,34 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Si\u00e9ntelo a Tu Modo",
-        "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
       },
       "artists": [
         {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        },
-        {
-          "name": "Gabino Montalvo",
-          "url": "https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6"
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
         }
       ],
-      "duration_ms": 224738,
-      "name": "La \u00danica",
-      "url": "https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg"
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Eres Tu / </3",
+        "url": "https://open.spotify.com/album/6jnwwwk6qIVOmLRG6aCvDC"
+      },
+      "artists": [
+        {
+          "name": "Alejandroo",
+          "url": "https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "Eres Tu / </3",
+      "url": "https://open.spotify.com/track/4dhPazu6qCoo50c7bqq6IT"
     }
   ],
   "unique_name": "#SadCuhHours \ud83d\udc94",

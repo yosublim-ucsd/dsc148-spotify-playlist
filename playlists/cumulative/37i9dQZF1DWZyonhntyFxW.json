@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Algham",
+        "url": "https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Dr. Mo3geza",
+          "url": "https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167613,
+      "name": "Algham",
+      "url": "https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj"
+    },
+    {
+      "album": {
         "name": "Beeny we Beenek",
         "url": "https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn"
       },
@@ -1970,7 +1992,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 163405,
       "name": "kawabes",
       "url": "https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg"
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 189714,
       "name": "\u0635\u062d \u0635\u062d \u0644\u0644\u0643\u0644\u0627\u0645",
       "url": "https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt"

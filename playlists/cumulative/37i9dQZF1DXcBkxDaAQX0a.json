@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp"
+      },
+      "artists": [
+        {
+          "name": "Go For Gold",
+          "url": "https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/5E6Gb7lBgkbtmK97EAL9OO"
+    },
+    {
+      "album": {
         "name": "In Your Memory (Acoustic)",
         "url": "https://open.spotify.com/album/0WFkjD832XOJlqaK1hcWIi"
       },
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 188093,
       "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
       "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"

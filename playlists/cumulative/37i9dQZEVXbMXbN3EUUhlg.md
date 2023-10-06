@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-811 songs - 1 day 16 hr 37 min
+812 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Gostosinho Tu Cai](https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O) | [Mc Pepeu](https://open.spotify.com/artist/3THyxXDkvAVvmfZKP3Fq7G), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Gostosinho Tu Cai](https://open.spotify.com/album/03YfAkvJjMXlA0T5I7vLMX) | 2:12 | 2022-04-30 | 2022-07-24 |
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-23 |
 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 | 2021-11-08 | 2021-11-21 |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-05 |  |
 | [Groupies](https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Groupies](https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi) | 2:44 | 2021-10-01 | 2021-11-21 |
 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 | 2021-06-06 | 2021-06-13 |
 | [Hackearam\-me](https://open.spotify.com/track/72vwG7lcOTPgT2YgYpg505) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 3](https://open.spotify.com/album/1ZIOn3boIPlcctKdVNNHRm) | 3:21 | 2023-04-02 | 2023-04-12 |
@@ -625,7 +626,7 @@
 | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/4AHB0S44UW1QBxDfiUFmjS) | [Mc marck](https://open.spotify.com/artist/2Zm8E0IoB3ZWM82OgHqVTu) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/783x2PKx2B6M76vt7ae330) | 2:22 | 2022-12-14 | 2022-12-17 |
 | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Quem Não Conhece Tá Sem Internet](https://open.spotify.com/album/5NHD24GC7W9uH2fdLzteGB) | 2:26 | 2022-10-04 | 2022-12-15 |
 | [QUEM SOU EU?](https://open.spotify.com/track/6E8KBuOUM9e23f9fyHsDU1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:05 | 2022-12-23 | 2022-12-25 |
-| [Quem tá Pegando](https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Quem tá Pegando](https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR) | 2:42 | 2023-06-26 |  |
+| [Quem tá Pegando](https://open.spotify.com/track/6L2ule7uWSdh1qjcMO3vUD) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Quem tá Pegando](https://open.spotify.com/album/5khAraskzd7fw9TQbR39PR) | 2:42 | 2023-06-26 | 2023-10-06 |
 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 | 2021-08-13 | 2022-01-30 |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/1Kkm6aiyVPbco6otyybdt6) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\)](https://open.spotify.com/album/7lXBPw75Qj4rmBZ1la9E3P) | 2:27 | 2021-08-30 | 2021-09-01 |
 | [Quero Ver é Me Esquecer \(feat\. Jorge\) \- Ao Vivo](https://open.spotify.com/track/2SUPbyD77tJuOUbqbxct6l) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 02](https://open.spotify.com/album/0EB9cgGjaXmq2YDrcpdSDE) | 2:27 | 2021-03-27\* | 2021-08-25 |

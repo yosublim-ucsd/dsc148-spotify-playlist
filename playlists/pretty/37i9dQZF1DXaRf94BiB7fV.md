@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Janaki Easwar , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,921 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,955 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vertigo](https://open.spotify.com/track/0ckGQ7VSRg4qYXEbkO2ZKN) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll) | [Vertigo](https://open.spotify.com/album/0feeawG2bWFFtQWqeb0R31) | 2:58 |
+| 1 | [Vertigo](https://open.spotify.com/track/36JdKkTMMajV8uufBTHicp) | [Janaki Easwar](https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll), [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI) | [Vertigo](https://open.spotify.com/album/05rrQ3KRxL9VxdyLn8iaqC) | 2:58 |
 | 2 | [Fake it! Shake it! Make it!](https://open.spotify.com/track/6k9UgOQGWGIv04YeobGoSe) | [The Lightyears Explode](https://open.spotify.com/artist/3QYtl7ACJpE5liUDmDfNzm) | [Fake it! Shake it! Make it!](https://open.spotify.com/album/7zuWznUYivQbTphmSXeXOZ) | 3:14 |
 | 3 | [Kuch Toh Hai Baat](https://open.spotify.com/track/1yWVEpoyEvr32KAQbkWJXG) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW) | [Kuch Toh Hai Baat](https://open.spotify.com/album/4gglwhDuNhDzeE4HKkq4nC) | 1:53 |
 | 4 | [Kaise Kahein](https://open.spotify.com/track/4X5DgGXjlkHszdFcYlFzdY) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ), [Robin Singh Patial](https://open.spotify.com/artist/5G1Yg5X3UuegV7WxrPWKnm) | [Kaise Kahein](https://open.spotify.com/album/0P5MLXSayqgXlH26raLTc3) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Nazaare](https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Nazaare](https://open.spotify.com/album/2J8NUVYbewnR82x4dqrcul) | 3:33 |
 | 100 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 
-Snapshot ID: `MCxjMTFlMTg4OGMwMzA4YmM0ZDBkZjAzY2FjM2MwM2FlMDE2Yjk2MGVh`
+Snapshot ID: `MCxlMTRlNGNiOTI0MDg5OGQ5OTYzMTAwMjYyMTNmYWQxMDliNmExZjAy`

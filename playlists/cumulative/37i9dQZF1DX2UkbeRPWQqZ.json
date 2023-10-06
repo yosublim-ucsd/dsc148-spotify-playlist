@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Ram Sam Sam",
+        "url": "https://open.spotify.com/album/1PZFZOpxv3QiF0jZdthMMH"
+      },
+      "artists": [
+        {
+          "name": "Tones From Samwell",
+          "url": "https://open.spotify.com/artist/6Iz6MEdFyo1ggJmBoPXaKD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158155,
+      "name": "A Ram Sam Sam",
+      "url": "https://open.spotify.com/track/624ysCV4lbaZ1xze4tSAXE"
+    },
+    {
+      "album": {
         "name": "A Sailor Went To Sea",
         "url": "https://open.spotify.com/album/4qObDua5L9IGenpPNdGMCc"
       },
@@ -268,7 +286,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 117720,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/3uiJV5WP1RlyMlJxG6OFwJ"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 121640,
       "name": "Do You Know How Many Stars There Are?",
       "url": "https://open.spotify.com/track/63uUcdVFFBPHnBOcOxUijY"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 104664,
       "name": "Lake District",
       "url": "https://open.spotify.com/track/62rk91S0MdArx37LedWsZH"
@@ -2512,6 +2530,24 @@
       "duration_ms": 134953,
       "name": "Lullaby For My Baby",
       "url": "https://open.spotify.com/track/3YBI07hmxDM28KhbFne2L0"
+    },
+    {
+      "album": {
+        "name": "Lullaby of The Fairy",
+        "url": "https://open.spotify.com/album/0EHdwan6UPxCHjjQAEQBdW"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Perez Fuentes",
+          "url": "https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89262,
+      "name": "Lullaby of The Fairy",
+      "url": "https://open.spotify.com/track/0jMm4o1MyOQWuXU7EMYMJd"
     },
     {
       "album": {
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 78901,
       "name": "Oh My Darling Clementine - Guitar Instrumental",
       "url": "https://open.spotify.com/track/52V3HMMWo2ifBu51czJbAU"
@@ -3226,6 +3262,24 @@
       "duration_ms": 108773,
       "name": "Simple Gifts - Guitar Instrumental",
       "url": "https://open.spotify.com/track/0eG7qveAW9otB6SzWVh2ZA"
+    },
+    {
+      "album": {
+        "name": "Sing a Song of Sixpence",
+        "url": "https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow"
+      },
+      "artists": [
+        {
+          "name": "Little Otis",
+          "url": "https://open.spotify.com/artist/3KQob5Z5mFfoercRYtE6m4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101037,
+      "name": "Sing a Song of Sixpence",
+      "url": "https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC"
     },
     {
       "album": {
@@ -3726,7 +3780,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 137102,
       "name": "Take Me Out to the Ballgame",
       "url": "https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI"

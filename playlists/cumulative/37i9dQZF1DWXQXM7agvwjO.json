@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: KIKI",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover:  Shye (Singapore)",
   "name": ".ORG",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 198614,
       "name": "Amazon",
       "url": "https://open.spotify.com/track/6Nd0WR8BkrVxiMKerWOvpl"
@@ -4706,7 +4706,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 206524,
       "name": "Escape From The Killer 2008",
       "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
@@ -5692,7 +5692,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 165757,
       "name": "GAME",
       "url": "https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj"
@@ -6668,7 +6668,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 180013,
       "name": "Hopelessly",
       "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
@@ -6838,6 +6838,28 @@
       "duration_ms": 221413,
       "name": "I Don't Wanna Feel Anything",
       "url": "https://open.spotify.com/track/2tePOGmZuxLqHGD2prNDab"
+    },
+    {
+      "album": {
+        "name": "Hey Mom,Did You See Me In The Newspaper?",
+        "url": "https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+        },
+        {
+          "name": "RUZZY TATTOO COLOUR",
+          "url": "https://open.spotify.com/artist/5umzj4PGA5pKpgr40TMbsz"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209621,
+      "name": "I Feel Something Like That",
+      "url": "https://open.spotify.com/track/0JbrWWQiqT0L45zUNM6GYQ"
     },
     {
       "album": {
@@ -7044,6 +7066,44 @@
       "duration_ms": 286744,
       "name": "I Love You, Even When You Hate Yourself.",
       "url": "https://open.spotify.com/track/56Ts7vcuIEUP86yHufXQMg"
+    },
+    {
+      "album": {
+        "name": "I LUV MY LIFE",
+        "url": "https://open.spotify.com/album/2rFvdojoWmwPUsKgQHqn15"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        },
+        {
+          "name": "Jason Kwan",
+          "url": "https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3"
+        },
+        {
+          "name": "iamkyami",
+          "url": "https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0"
+        },
+        {
+          "name": "Tascha Jerawan",
+          "url": "https://open.spotify.com/artist/0D3PwMT9TYck0jZRTX2cME"
+        },
+        {
+          "name": "Vishal Chopra",
+          "url": "https://open.spotify.com/artist/01GItcv9Ci5mrLEAQ08n11"
+        },
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "I LUV MY LIFE",
+      "url": "https://open.spotify.com/track/6FhiHZH9IOxLOWZnpO6AOJ"
     },
     {
       "album": {
@@ -7448,6 +7508,28 @@
       "duration_ms": 281458,
       "name": "ID",
       "url": "https://open.spotify.com/track/6TDSXejROuhYHBthOKllOH"
+    },
+    {
+      "album": {
+        "name": "idundomuchtalkingnow",
+        "url": "https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx"
+      },
+      "artists": [
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
+        },
+        {
+          "name": "Jonwl",
+          "url": "https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225504,
+      "name": "idundomuchtalkingnow",
+      "url": "https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI"
     },
     {
       "album": {
@@ -10097,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/2vsL4FM4Qk1KbnlBt39bRn"
+      },
+      "artists": [
+        {
+          "name": "polly",
+          "url": "https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217709,
+      "name": "Monologue",
+      "url": "https://open.spotify.com/track/391axiRsUvdgWt7rgaajF3"
+    },
+    {
+      "album": {
         "name": "Bye Summer!",
         "url": "https://open.spotify.com/album/36RrBlXZvntyXzOhTmsEH5"
       },
@@ -10504,6 +10604,24 @@
       "duration_ms": 165000,
       "name": "Neck and Neck",
       "url": "https://open.spotify.com/track/1KBIRZVg2TYrQ2Tk56OImE"
+    },
+    {
+      "album": {
+        "name": "9LIVES",
+        "url": "https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "NEED",
+      "url": "https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2"
     },
     {
       "album": {
@@ -12164,7 +12282,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 196436,
       "name": "Red Light - FUG\u014c Version",
       "url": "https://open.spotify.com/track/65NogUB6HAVfomOaeE8Yko"
@@ -12450,7 +12568,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 146578,
       "name": "Run",
       "url": "https://open.spotify.com/track/7hVd0Hej4nlJiufYwKxhDT"
@@ -12884,6 +13002,24 @@
       "duration_ms": 298366,
       "name": "Selves",
       "url": "https://open.spotify.com/track/2IgnQvtHY5HD2YDnlbhejy"
+    },
+    {
+      "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
     },
     {
       "album": {
@@ -15860,7 +15996,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 221674,
       "name": "Walk Your Heart Home",
       "url": "https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V"
@@ -17828,6 +17964,24 @@
       "duration_ms": 172250,
       "name": "\u3053\u3093\u306b\u3061\u306f",
       "url": "https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z"
+    },
+    {
+      "album": {
+        "name": "\u307e\u3069\u308d\u307f",
+        "url": "https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263654,
+      "name": "\u307e\u3069\u308d\u307f",
+      "url": "https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX"
     },
     {
       "album": {

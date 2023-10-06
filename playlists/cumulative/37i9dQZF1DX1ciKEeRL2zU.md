@@ -4,7 +4,7 @@
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-102 songs - 7 hr 40 min
+103 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Ungawa Kum](https://open.spotify.com/track/0MRHaEed5xSYgcZ44YEAoo) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Top Dawg](https://open.spotify.com/album/0GNrvpXxZAAP8hZf8kIc3L) | 5:40 | 2023-02-10 |  |
 | [Ungowami](https://open.spotify.com/track/3Iw3M4ajHzRV0MOQ0a0zRo) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [Sebabatso](https://open.spotify.com/album/1xVaUMerQJCsCfHj7oI89w) | 4:52 | 2022-02-11 |  |
 | [Ungowami](https://open.spotify.com/track/3nnDgKZH4k2YVrpFuvXJI3) | [Semito](https://open.spotify.com/artist/3OpF5sBW6Pbn073VMKKpAm) | [I Choose You](https://open.spotify.com/album/6EY0zAXkb5ButcECHqqzji) | 4:52 | 2022-02-11 | 2022-11-13 |
-| [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 | 2022-02-11 |  |
+| [Uthando](https://open.spotify.com/track/1YM8eKv3LsaMOBpBI2kTc2) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [The Best Africa Album In The World...Ever!](https://open.spotify.com/album/3ZPCY10NmTf5etbsi0z89m) | 4:53 | 2023-09-21 |  |
+| [Uthando](https://open.spotify.com/track/5WrnM103yLSiufFT9r1tWL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Sounds of Love: Side A](https://open.spotify.com/album/53PGiw3oxtHwHrzi72Ypa9) | 4:53 | 2022-02-11 | 2023-10-06 |
 | [Uthando](https://open.spotify.com/track/7vAXZOAlNeD6f7rg5qnkbh) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Mzansi Rhythms of Love](https://open.spotify.com/album/2rsD9g2O3GNDPsY9pfTZek) | 4:53 | 2022-02-11 | 2023-04-17 |
 | [Uthando'lunje](https://open.spotify.com/track/65GUvMEHSemavaT6Jmm3Iv) | [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah), [Teamoswabii](https://open.spotify.com/artist/0ePAUhdGPzGvrX46teYQ80) | [Uthando'lunje](https://open.spotify.com/album/1FUMDbne73baYvn2Na6qL4) | 5:04 | 2022-02-11 | 2023-02-11 |
 | [Uyandithanda](https://open.spotify.com/track/03oeHk2ssQMsygWAQveyKv) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [L.O.V.E](https://open.spotify.com/album/2ZVoOSSjAwpsK2v53JvUNT) | 4:08 | 2022-02-11 | 2023-02-11 |

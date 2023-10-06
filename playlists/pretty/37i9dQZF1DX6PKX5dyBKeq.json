@@ -1,15 +1,31 @@
 {
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One & K-Trap",
-  "num_followers": 1329139,
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Digga D",
+  "num_followers": 1329589,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDFlZTRmMjEzOTllNDJjYTM5NDVkMWM5ZTVhOWYzNjdiODAwZjRk",
+  "snapshot_id": "MCxjOGE4ZTQ2NGMzMjA3MDFiNjE3NzJkNWZhMTU5MjBmZjJlMGY4NjJh",
   "tracks": [
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "TLC",
+        "url": "https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 149938,
+      "name": "TLC",
+      "url": "https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Daily Duppy (feat. GRM Daily)",
         "url": "https://open.spotify.com/album/12FL8xj82cP89DW2uaUcmK"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/4z5mxHbpuduI70kTrpSVHE"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "PARK CHINOIS",
         "url": "https://open.spotify.com/album/1JmkxwBhaTc6YK6ijSWYNX"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/4W8hCr8DuzuTkvDj895CeZ"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2WNtJ2E9Y7BRSYmXtiZ5F1"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/3TN2HZSll8ueBFtt88VbfX"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Brilliant Mind",
         "url": "https://open.spotify.com/album/59FcOmk7WRkJCRrv4gQJ5e"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/2maR0wuP92sNy48SMVowzZ"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Check",
         "url": "https://open.spotify.com/album/5BEBSJT2cUo5CkpS7UBiZw"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/46xI9iWrBtcwl1R2h5pKYi"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/6YtWDeoQ5lJCkQ3uAQ1gZg"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "TRIPLE THREAT",
         "url": "https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam"
@@ -157,7 +173,27 @@
       "url": "https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Pull Up (feat. Backroad Gee)",
+        "url": "https://open.spotify.com/album/1GOXfshL9Q6Qk2eKkTFYeS"
+      },
+      "artists": [
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 168157,
+      "name": "Pull Up (feat. Backroad Gee)",
+      "url": "https://open.spotify.com/track/0t9kZenG9DPNMyo2eBKwFY"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Tip Toes",
         "url": "https://open.spotify.com/album/39x0sB7LLilVJ7fchw69GN"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Facade",
         "url": "https://open.spotify.com/album/0Y938j5d5KXfJFfSirRXRx"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/48i8sfmvRIQpWv7gCqacLO"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Roadents",
         "url": "https://open.spotify.com/album/5lAHwBa5haHDIAfGpNQCII"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/4FT0QtlIjX1H4R7LJfQyc4"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "DTB",
         "url": "https://open.spotify.com/album/7icXXSu17oor9WIvME1txz"
@@ -249,7 +285,27 @@
       "url": "https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Get Out The Way feat. BackRoad Gee",
+        "url": "https://open.spotify.com/album/55wM0G0rirSUEOwvslwcyd"
+      },
+      "artists": [
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "duration_ms": 221315,
+      "name": "Get Out The Way feat. BackRoad Gee",
+      "url": "https://open.spotify.com/track/4yShsDY55N2W54D1ZKpIM0"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "M.A.R.K",
         "url": "https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri"
@@ -293,7 +349,7 @@
       "url": "https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/7jrM2dAzQWlu8WYTGnyhHo"
@@ -309,7 +365,7 @@
       "url": "https://open.spotify.com/track/7rWUc4LuZ081oZ9VBZd6JK"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Not Guilty",
         "url": "https://open.spotify.com/album/13wr72XvxJO38y1lfjkXcL"
@@ -325,7 +381,7 @@
       "url": "https://open.spotify.com/track/3lIh24EtpWzwDbChSrcrCR"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Click Of My Fingers",
         "url": "https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi"
@@ -341,10 +397,10 @@
       "url": "https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Secret",
-        "url": "https://open.spotify.com/album/4e0kgGPLifMcSLnukoUnPy"
+        "name": "What Can I Say?",
+        "url": "https://open.spotify.com/album/5phWrwWAZ9rzWxYbMPmKfy"
       },
       "artists": [
         {
@@ -352,12 +408,12 @@
           "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/2USb3AAH0FqcgmwqK8wc79"
+      "duration_ms": 151714,
+      "name": "What Can I Say?",
+      "url": "https://open.spotify.com/track/4CPQFa10uJlKKTxkbqRb3z"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Unfinished Business",
         "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
@@ -377,7 +433,7 @@
       "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "my neighbours don't know.",
         "url": "https://open.spotify.com/album/26nbJ8gBWq4XxxIWaE2i2N"
@@ -393,7 +449,27 @@
       "url": "https://open.spotify.com/track/4RXWjqC56ecdnvpzVbCxcB"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Let's Talk Money (feat. Headie One)",
+        "url": "https://open.spotify.com/album/7lW53fPwJofbQ0x5dc7wiR"
+      },
+      "artists": [
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 179154,
+      "name": "Let's Talk Money (feat. Headie One)",
+      "url": "https://open.spotify.com/track/5heTEtDHaBVXIlx5DIjaGb"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "summers over",
         "url": "https://open.spotify.com/album/2PCWUDyV1fkV4lDdigoSa8"
@@ -409,7 +485,7 @@
       "url": "https://open.spotify.com/track/4I4HnXLIdHBcamz2VKLqE1"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "TRAPPING - The Movie Soundtrack",
         "url": "https://open.spotify.com/album/13ABxjXthQ8LLYi5xKWRV1"
@@ -433,7 +509,7 @@
       "url": "https://open.spotify.com/track/1KnXMdJGQIu3w1VG4BoRmD"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Stick To The Plan",
         "url": "https://open.spotify.com/album/2P2x81BNcG0Njj1ivyS6km"
@@ -453,7 +529,7 @@
       "url": "https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -473,7 +549,7 @@
       "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
@@ -493,7 +569,27 @@
       "url": "https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Toxic (feat. Bad Boy Chiller Crew)",
+        "url": "https://open.spotify.com/album/6H2int0KUSOoPpRfkaV2Of"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Toxic (feat. Bad Boy Chiller Crew)",
+      "url": "https://open.spotify.com/track/4fkN5DJIDwOniwT0DGGbaV"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "STRENGTH TO STRENGTH",
         "url": "https://open.spotify.com/album/71Vce7DsRUb7z4yHE4t9Bn"
@@ -517,7 +613,7 @@
       "url": "https://open.spotify.com/track/3KVrGYmxpd86Mw1t3dUA6k"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Pakistan",
         "url": "https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2"
@@ -537,7 +633,7 @@
       "url": "https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "RUSH HOUR",
         "url": "https://open.spotify.com/album/7uiiweBAaAaw8JtpivRhxU"
@@ -557,7 +653,7 @@
       "url": "https://open.spotify.com/track/7ItFjL0zfTNC6QPn3tUlaD"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Hide And Seek (feat. Digga D)",
         "url": "https://open.spotify.com/album/1m7zPPaHd40gsbUXThzpE7"
@@ -577,7 +673,7 @@
       "url": "https://open.spotify.com/track/2RFkLlsHRjcnZA0fHCOTKA"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
@@ -597,7 +693,7 @@
       "url": "https://open.spotify.com/track/5bcb7UnSeKIfGNeNmxOG2L"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "I Suppose",
         "url": "https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0"
@@ -621,7 +717,7 @@
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
@@ -637,27 +733,7 @@
       "url": "https://open.spotify.com/track/2eNYRh1TuRum5vAMk9VLc3"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "Toxic Trait",
-        "url": "https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 194089,
-      "name": "Toxic Trait",
-      "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Back To Square One",
         "url": "https://open.spotify.com/album/5ZNpiEEn5h8L40p99UZ9XI"
@@ -673,7 +749,7 @@
       "url": "https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "More Money More Problems",
         "url": "https://open.spotify.com/album/01EayXsvhd2wpvIcryfkEO"
@@ -689,23 +765,7 @@
       "url": "https://open.spotify.com/track/0VC8IBllrQImnLk0TCJmKH"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "One Man",
-        "url": "https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy"
-      },
-      "artists": [
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "One Man",
-      "url": "https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "International",
         "url": "https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd"
@@ -725,7 +785,7 @@
       "url": "https://open.spotify.com/track/1WHwr3enTkZdG8feFozaqy"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Mandem",
         "url": "https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga"
@@ -745,7 +805,7 @@
       "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "ReBourne",
         "url": "https://open.spotify.com/album/4Y2Cla7P9zqTppJ1Xq92At"
@@ -765,47 +825,23 @@
       "url": "https://open.spotify.com/track/2rwQLeDE1xRT39ORMHACjz"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "FREE SLIME / SEXY GIRLS",
-        "url": "https://open.spotify.com/album/6AJW9zpQPn7MOgxky2YeEB"
+        "name": "Captain Ants",
+        "url": "https://open.spotify.com/album/3ZPwwBAJi9ESwJYojzzun3"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
         }
       ],
-      "duration_ms": 265985,
-      "name": "FREE SLIME / SEXY GIRLS",
-      "url": "https://open.spotify.com/track/4KzbUS6vwCexTYH7JZgAOy"
+      "duration_ms": 178475,
+      "name": "Captain Ants",
+      "url": "https://open.spotify.com/track/5sADa6C5sKDyI6PX76Bd7L"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "Scoreboard",
-        "url": "https://open.spotify.com/album/1vyZt4IduBURqZBerz1KUA"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Tiggs Da Author",
-          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Scoreboard",
-      "url": "https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -825,27 +861,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "RIDE",
-        "url": "https://open.spotify.com/album/1psD1WYxz5ZvdmvJxCFTcm"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "Nines",
-          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "RIDE",
-      "url": "https://open.spotify.com/track/2hd6OjcAHwQt7g18Qo6i7e"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Impeccable Timing",
         "url": "https://open.spotify.com/album/4aLSpyp3qEYQ7DhqGkLpq0"
@@ -861,23 +877,7 @@
       "url": "https://open.spotify.com/track/3Kac9sBRWeroIIYJvam3Nr"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "yo babes",
-        "url": "https://open.spotify.com/album/67ha2fz1Js9GVnnKNU7QnM"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 159652,
-      "name": "yo babes",
-      "url": "https://open.spotify.com/track/4d8PdgW20PBcZinpYvmpo5"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "ROYALE",
         "url": "https://open.spotify.com/album/1dRTXhMyrcfx1qE11K50x4"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/2av7d4HqKii7a9deQeuo5V"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "any minute",
         "url": "https://open.spotify.com/album/67xDMKu19E87xKA76tgNJB"
@@ -917,7 +917,7 @@
       "url": "https://open.spotify.com/track/033ML0eEckRQ6sLdrJmP5J"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "It's Up",
         "url": "https://open.spotify.com/album/7xnJECtaafhlrUC1WfHt28"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/7wTsF9jAPE9TdpPKEZuPTC"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "of course",
         "url": "https://open.spotify.com/album/0neqduBZznQHqCIHQalpoO"
@@ -949,27 +949,7 @@
       "url": "https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN"
     },
     {
-      "added_at": "2023-10-02 08:12:37",
-      "album": {
-        "name": "Beautiful And Brutal Yard",
-        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "CB",
-          "url": "https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cream (feat. CB)",
-      "url": "https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c"
-    },
-    {
-      "added_at": "2023-10-02 08:12:37",
+      "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Hackney",
         "url": "https://open.spotify.com/album/6WfjPDPhZDL9tnhMTUEVEZ"

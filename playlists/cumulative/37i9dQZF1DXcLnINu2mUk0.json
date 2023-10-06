@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Domingues.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Van Zee.",
   "name": "Seda",
   "tracks": [
     {
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 251147,
       "name": "Aura Diferente",
       "url": "https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf"
@@ -1780,6 +1780,24 @@
       "duration_ms": 179384,
       "name": "Cora\u00e7\u00e3o Dormente",
       "url": "https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a"
+    },
+    {
+      "album": {
+        "name": "CorDaPele",
+        "url": "https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178815,
+      "name": "CorDaPele",
+      "url": "https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9"
     },
     {
       "album": {
@@ -3000,7 +3018,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 164571,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 222580,
       "name": "Interfeer",
       "url": "https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk"
@@ -5500,7 +5518,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-06",
       "duration_ms": 165200,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/1qVCh9B4mQuQ5gPPZCJwNh"
@@ -8428,7 +8446,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 134743,
       "name": "\u00c0 Tona",
       "url": "https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M"

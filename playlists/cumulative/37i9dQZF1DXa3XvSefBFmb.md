@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Sara Correia, com o volume no máximo.
 
-611 songs - 1 day 10 hr 1 min
+613 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Beija Flor](https://open.spotify.com/track/59P93klgWO9PRBuWIGz6an) | [Mariana Cortesão](https://open.spotify.com/artist/3SDCsDkaKp4ufaOh4gRMjG) | [Beija Flor](https://open.spotify.com/album/4VTrjEGto6R3dT5CekEaZU) | 4:53 | 2023-01-04 | 2023-03-01 |
 | [Bem Perto](https://open.spotify.com/track/7JNtgj9GCVlhUC4oGyR90u) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [Bem Perto](https://open.spotify.com/album/64mVaFwyn0iMAd2xV1Y9xH) | 3:11 | 2022-08-02 | 2022-11-02 |
 | [Bendedera Di Sol](https://open.spotify.com/track/4taoQ119029yD7toXbmzf4) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Bendedera Di Sol](https://open.spotify.com/album/7IufFV7247qBrZciLqGGIB) | 5:09 | 2022-05-03 | 2022-07-06 |
+| [Benefits](https://open.spotify.com/track/66BcLySWrE63NgdE36ExM8) | [Bárbara Miranda](https://open.spotify.com/artist/1vuN1CY5qcr264dHXzS9N9) | [Benefits](https://open.spotify.com/album/5Goq5iRpqdEY6AnrFXNWim) | 2:50 | 2023-10-03 |  |
 | [Better](https://open.spotify.com/track/6GgIV5XFR01SZYDza2POge) | [Mary N](https://open.spotify.com/artist/12bNvbaCaPa9AWxhFyAInb) | [Better](https://open.spotify.com/album/0WYvsQWwVEQw9VdzzFYqJe) | 3:21 | 2022-07-05 | 2022-10-05 |
 | [BKBN](https://open.spotify.com/track/1sKKVR7XDjvyvnL06u3GWm) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [BKBN](https://open.spotify.com/album/14TmCnjDHDdDgq2vP4cOTA) | 2:58 | 2022-03-08 | 2022-05-04 |
 | [Bota Pra Vazar](https://open.spotify.com/track/72RcRUGqZA4tAozvunJCuF) | [A MAIA](https://open.spotify.com/artist/2M4iB0gDKlvbPjRgKMxJOH), [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Bota Pra Vazar](https://open.spotify.com/album/7rTQqc6y2h1TCzsFDNoGFf) | 2:37 | 2022-04-05 | 2022-06-01 |
@@ -204,6 +205,7 @@
 | [Famous \(Freestyle\)](https://open.spotify.com/track/5oMTtyl81BPXNzoZYBH4Co) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Famous \(Freestyle\)](https://open.spotify.com/album/3lrs010p5N6CvKLaQhA5tN) | 3:31 | 2022-09-06 | 2022-11-02 |
 | [Faz Faísca e Chavascal](https://open.spotify.com/track/3evlkjXrRD6DNfVPaI7q4h) | [Margarida Campelo](https://open.spotify.com/artist/3bbmsol5aDwGqorVdy2s50) | [Faz Faísca e Chavascal](https://open.spotify.com/album/5ahKKBaQJQg9iH454hZGor) | 3:09 | 2023-01-04 | 2023-02-03 |
 | [Fazem na Vida](https://open.spotify.com/track/353P6DpNbYSRgxwYf97Kra) | [Morena Santana](https://open.spotify.com/artist/0tSyQOOv3LtryRUV6UxJ86) | [Fazem na Vida](https://open.spotify.com/album/1A04qXgI13F3dgqkYxqPHj) | 4:42 | 2022-05-03 | 2022-07-06 |
+| [feita parva, mas tua](https://open.spotify.com/track/7fSx8XAYuSkqwMcwuuwlHu) | [Mariana Reis](https://open.spotify.com/artist/7H5gc6iAgqhJ4my9n3kdMV) | [feita parva, mas tua](https://open.spotify.com/album/003zgNzxSRpS2J6WLLEkIu) | 3:32 | 2023-10-03 |  |
 | [Fica Comigo](https://open.spotify.com/track/1sMHfPoSmTBXhs7laomUX2) | [Cristiana Santos](https://open.spotify.com/artist/4OpCM9nxs4mNk1q1OoW6fh) | [Fica Comigo](https://open.spotify.com/album/0A0FV80XbVm0e88Jv2hJfe) | 3:27 | 2021-12-08 | 2022-03-08 |
 | [Fica Comigo](https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Fica Comigo](https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE) | 3:22 | 2021-12-08 | 2022-03-08 |
 | [Fica Comigo](https://open.spotify.com/track/6LDMpUu347t6GVf1X8k8nF) | [Irma](https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp) | [Fica Comigo](https://open.spotify.com/album/5DbYda9oj7ycWpOEplXqxI) | 2:36 | 2022-05-03 | 2022-07-06 |
