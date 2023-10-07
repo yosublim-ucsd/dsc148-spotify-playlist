@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241893,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
+    },
+    {
+      "album": {
         "name": "Sunshine (Chinese Version)",
         "url": "https://open.spotify.com/album/0Tdt30UplFjakHhsvNMl5o"
       },
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 241893,
       "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
       "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
@@ -4696,7 +4714,7 @@
       },
       "artists": [
         {
-          "name": "Naiwen Yang",
+          "name": "Edward Chen",
           "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
         }
       ],

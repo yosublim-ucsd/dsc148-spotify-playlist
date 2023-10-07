@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Golden Age - The 4th Album",
+        "url": "https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211386,
+      "name": "Baggy Jeans",
+      "url": "https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek"
+    },
+    {
+      "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
       },
@@ -443,6 +461,24 @@
     },
     {
       "album": {
+        "name": "DAWN (SIX STORIES)",
+        "url": "https://open.spotify.com/album/4HQZTDsgy6CoNdyUGOJeWE"
+      },
+      "artists": [
+        {
+          "name": "Na Hoon-A",
+          "url": "https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Gijang`s Seagull",
+      "url": "https://open.spotify.com/track/6ZQa2BoO4nbOpgBSUdzrAF"
+    },
+    {
+      "album": {
         "name": "2 Baddies - The 4th Album",
         "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
       },
@@ -476,6 +512,24 @@
       "duration_ms": 245026,
       "name": "Good Day (My love X LEESEOKHOON)",
       "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
+    },
+    {
+      "album": {
+        "name": "Band Of Dynamic Brothers",
+        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224893,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
     },
     {
       "album": {
@@ -693,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5rlgpm7n5f9mWc5LQU42bI"
+    },
+    {
+      "album": {
         "name": "Lazy Me",
         "url": "https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7"
       },
@@ -874,6 +946,24 @@
       "duration_ms": 34200,
       "name": "Message by Lee Seok Hoon",
       "url": "https://open.spotify.com/track/0MjronzCtDF43QGqID7QTA"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/4W8cwOcrcDzbWQSWqtKG3g"
     },
     {
       "album": {
@@ -1702,6 +1792,28 @@
         {
           "name": "Lee Seok Hoon",
           "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230346,
+      "name": "\uac10\uc0ac (FEAT. \uc18c\ud5a5)",
+      "url": "https://open.spotify.com/track/4ralviGrgOeBiSCRnH2qcC"
+    },
+    {
+      "album": {
+        "name": "\uc778\uc0ac",
+        "url": "https://open.spotify.com/album/1LE8WPv3OxH93MXOz0ps3h"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
         }
       ],
       "date_added": "2023-08-28",
@@ -1803,6 +1915,42 @@
     },
     {
       "album": {
+        "name": "Wax 3",
+        "url": "https://open.spotify.com/album/7LT1aI91uj8FDFxA79uJoB"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229080,
+      "name": "\uc544\uc90c\ub9c8",
+      "url": "https://open.spotify.com/track/1JonnU40mpcgrppTm2vBQy"
+    },
+    {
+      "album": {
+        "name": "45TH ANNIVERSARY CONCERT HELLO",
+        "url": "https://open.spotify.com/album/7joDrhz7vXTcrBO6kaZjEK"
+      },
+      "artists": [
+        {
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323666,
+      "name": "\uc5ec\ud589\uc744 \ub5a0\ub098\uc694",
+      "url": "https://open.spotify.com/track/1pfPCfU2VhUDeGvmICPPKA"
+    },
+    {
+      "album": {
         "name": "\uc2f8\uc9d1",
         "url": "https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63"
       },
@@ -1854,6 +2002,24 @@
       "duration_ms": 200698,
       "name": "\uc774\ubcc4 \uc544\ub2cc \uc774\ubcc4",
       "url": "https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268240,
+      "name": "\uc77c\uc5b4\ub098",
+      "url": "https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0"
     },
     {
       "album": {

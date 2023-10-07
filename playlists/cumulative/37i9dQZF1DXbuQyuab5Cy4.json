@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "Death Toll",
+        "url": "https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun"
+      },
+      "artists": [
+        {
+          "name": "Figure",
+          "url": "https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr"
+        },
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213877,
+      "name": "Death Toll",
+      "url": "https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA"
+    },
+    {
+      "album": {
         "name": "Cartel",
         "url": "https://open.spotify.com/album/6ElpxZorQUL5VgWl4TVVQi"
       },
@@ -2200,6 +2222,28 @@
       "duration_ms": 294875,
       "name": "Welcome to the Zombie Disco",
       "url": "https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK"
+    },
+    {
+      "album": {
+        "name": "Whispers in the Dark",
+        "url": "https://open.spotify.com/album/2hwKjdNvxEkF7ZeKdmvx61"
+      },
+      "artists": [
+        {
+          "name": "Whitepumpkin",
+          "url": "https://open.spotify.com/artist/10NlN9XAoQgAjPfLk2cW32"
+        },
+        {
+          "name": "Sary",
+          "url": "https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/4hiWbebUSIyK9lIUfvDHCG"
     },
     {
       "album": {

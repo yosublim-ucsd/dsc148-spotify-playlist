@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-07",
-  "description": "A groovy and soulful house collection. Cover: FISHER, Kita Alexander",
+  "description": "A groovy and soulful house collection. Cover: Prok & Fitch",
   "name": "House is a Feeling",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226473,
       "name": "Deep in the Night",
       "url": "https://open.spotify.com/track/20mLJXcK3jvNGE83EbQTyn"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 186862,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 241920,
       "name": "Gold Dust",
       "url": "https://open.spotify.com/track/3oM99tbLGsBZtI4zLfZvpG"
@@ -762,6 +762,28 @@
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
+        "name": "Krayzee",
+        "url": "https://open.spotify.com/album/0mh0kqpTJViSsWPCaW8mgY"
+      },
+      "artists": [
+        {
+          "name": "Mat.Joe",
+          "url": "https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ"
+        },
+        {
+          "name": "Astro-Cat",
+          "url": "https://open.spotify.com/artist/7AqFHR0xmbUjgrIuQvj8zW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Krayzee",
+      "url": "https://open.spotify.com/track/3TvbT40I2mQUn6jliOM82r"
     },
     {
       "album": {
@@ -1071,6 +1093,28 @@
     },
     {
       "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/19OdgoDqsF92wIeku24MBv"
+      },
+      "artists": [
+        {
+          "name": "Athlete Whippet",
+          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279370,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0w1diO9XWMX1Dm4r9hIDJg"
+    },
+    {
+      "album": {
         "name": "Ride Inside the Uk",
         "url": "https://open.spotify.com/album/5zOBNEQB8oC896bMa6RYe7"
       },
@@ -1108,6 +1152,24 @@
       "duration_ms": 169523,
       "name": "Rules Of Love",
       "url": "https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R"
+    },
+    {
+      "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
       "album": {

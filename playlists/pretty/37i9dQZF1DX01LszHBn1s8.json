@@ -1,12 +1,12 @@
 {
   "description": "it's officially october and you know what that means....... \ud83c\udf41",
-  "num_followers": 220075,
+  "num_followers": 221916,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjZkOWVhOTBlMWJhNTk0ZDNhZDhhYTVhMGM3MTZhNzMyYWE3MDkz",
+  "snapshot_id": "MCw0ZDc2MzEzZGVjMjgyYTFjOGY5NDdhNGMwODY5MjE3ZjA0MWI2MGI1",
   "tracks": [
     {
       "added_at": "2023-10-02 12:23:35",
@@ -103,6 +103,26 @@
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "added_at": "2023-10-06 10:00:00",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Another Late Night (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/17IBDpAl3J39swaoPlfGpp"
     },
     {
       "added_at": "2023-09-28 22:00:00",

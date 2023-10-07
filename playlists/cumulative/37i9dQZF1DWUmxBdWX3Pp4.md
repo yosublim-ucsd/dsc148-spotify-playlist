@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Bizarrap & Milo J.
 
-384 songs - 21 hr 45 min
+385 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Bottas](https://open.spotify.com/track/5G5Xl4HHGJM6MrMAUIb538) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:28 | 2022-12-09 |  |
 | [Brillo De Más](https://open.spotify.com/track/1I8sOduAGo1LSZbfn8XYyS) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Brillo De Más](https://open.spotify.com/album/1AFexsSshLU0jyHrRHyfTi) | 2:28 | 2022-01-21 | 2022-02-26 |
 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 | 2023-04-07 |  |
+| [Bugatti](https://open.spotify.com/track/5FrbeoopwtCCEcOh3qp0V8) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bugatti](https://open.spotify.com/album/0OAew01eul7YxIgc2P7dJA) | 2:03 | 2023-10-06 |  |
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-06 |  |
 | [Campeones](https://open.spotify.com/track/3utEkGqMuYMK6xMxHZOaCp) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Campeones](https://open.spotify.com/album/16KR6ii9PcY77QlUqSf9Y3) | 3:20 | 2023-06-09 | 2023-07-01 |
 | [Carrera](https://open.spotify.com/track/5TbutTu80CvVOgilfbZu6x) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [Carrera](https://open.spotify.com/album/0aPquprrKLJiXfXRKdBBuJ) | 2:52 | 2022-04-22 | 2022-06-04 |

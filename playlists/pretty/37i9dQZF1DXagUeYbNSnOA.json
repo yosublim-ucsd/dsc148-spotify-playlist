@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Jossman. Updates every Inzul, Laura P\u00e9rez.",
-  "num_followers": 172916,
+  "num_followers": 172912,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTNlZDgwZDllNmM0MzQ2Mzk1MGMwMjhkZGM2NTViN2E2ZGIzYzQ0",
+  "snapshot_id": "MCwyYTM1MGI1MWUzY2JiNjBkZjZkMWJlNWVmMjJlZWNiY2VlMDU0MzM1",
   "tracks": [
     {
       "added_at": "2023-10-04 11:31:54",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
+        "name": "Camino Dorado",
+        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
+      },
+      "artists": [
+        {
+          "name": "Lola Cobach",
+          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+        }
+      ],
+      "duration_ms": 233488,
+      "name": "Pak\u00e9 - Bonus Track",
+      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
         "name": "No Me Malinterprete",
         "url": "https://open.spotify.com/album/3PXBtGrHe5UmVJOYIGbCij"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "Nenu",
-        "url": "https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK"
-      },
-      "artists": [
-        {
-          "name": "Higuita en Chanclas",
-          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
-        }
-      ],
-      "duration_ms": 253809,
-      "name": "Nenu",
-      "url": "https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
         "name": "Chai",
         "url": "https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn"
       },
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "Camino Dorado",
-        "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
+        "name": "Nenu",
+        "url": "https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK"
       },
       "artists": [
         {
-          "name": "Lola Cobach",
-          "url": "https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu"
+          "name": "Higuita en Chanclas",
+          "url": "https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO"
         }
       ],
-      "duration_ms": 233488,
-      "name": "Pak\u00e9 - Bonus Track",
-      "url": "https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM"
+      "duration_ms": 253809,
+      "name": "Nenu",
+      "url": "https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A"
     },
     {
       "added_at": "2023-10-04 11:31:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-04 11:31:54",
       "album": {
-        "name": "No Me Digan Nada",
-        "url": "https://open.spotify.com/album/7r1ip5X88YkquPK1i8mUCG"
-      },
-      "artists": [
-        {
-          "name": "Ruddi Nizz",
-          "url": "https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD"
-        }
-      ],
-      "duration_ms": 156175,
-      "name": "No Me Digan Nada",
-      "url": "https://open.spotify.com/track/5BIyMZkZIuY5kOzqMzG1Lv"
-    },
-    {
-      "added_at": "2023-10-04 11:31:54",
-      "album": {
         "name": "Mi Jard\u00edn",
         "url": "https://open.spotify.com/album/5VhObvuYrg44FMXUVwNtGz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 246620,
       "name": "Quedo Est\u00fapido",
       "url": "https://open.spotify.com/track/29fqd6Gas1oxN5GSqT8MQO"
+    },
+    {
+      "added_at": "2023-10-04 11:31:54",
+      "album": {
+        "name": "No Me Digan Nada",
+        "url": "https://open.spotify.com/album/7r1ip5X88YkquPK1i8mUCG"
+      },
+      "artists": [
+        {
+          "name": "Ruddi Nizz",
+          "url": "https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD"
+        }
+      ],
+      "duration_ms": 156175,
+      "name": "No Me Digan Nada",
+      "url": "https://open.spotify.com/track/5BIyMZkZIuY5kOzqMzG1Lv"
     },
     {
       "added_at": "2023-10-04 11:31:54",

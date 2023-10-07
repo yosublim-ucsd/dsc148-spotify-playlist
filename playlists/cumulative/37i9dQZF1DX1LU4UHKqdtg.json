@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 208320,
       "name": "7HEAVEN",
       "url": "https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 193908,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/3hAQ3NalXLWjn0OAJtAnIl"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 204246,
       "name": "CHO - Japanese ver.",
       "url": "https://open.spotify.com/track/4JJZCcYn800GgmZDt78Znd"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
@@ -3424,7 +3424,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 216320,
       "name": "Dirty Dancing (feat. Joshua, DK & Dino of SEVENTEEN) - Dem Jointz Remix",
       "url": "https://open.spotify.com/track/6KfYVOicblNB8CaDZwbxiT"
@@ -3668,6 +3668,24 @@
       "duration_ms": 152526,
       "name": "DON'T DANCE",
       "url": "https://open.spotify.com/track/27Xr5Ty5TCABfJg01wGcJh"
+    },
+    {
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "album": {
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 163346,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu"
@@ -4200,6 +4218,24 @@
       "duration_ms": 186186,
       "name": "Eye On You",
       "url": "https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7"
+    },
+    {
+      "album": {
+        "name": "Fact Check - The 5th Album",
+        "url": "https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Fact Check",
+      "url": "https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv"
     },
     {
       "album": {
@@ -5910,7 +5946,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 222706,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T"
@@ -6156,6 +6192,24 @@
       "duration_ms": 176000,
       "name": "I LOVE U",
       "url": "https://open.spotify.com/track/5C4LYdOg6MoaRcuPFnu7CC"
+    },
+    {
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "I Want That",
+      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
     },
     {
       "album": {
@@ -8465,6 +8519,24 @@
     },
     {
       "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Off The Record",
+      "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "album": {
         "name": "Off the record",
         "url": "https://open.spotify.com/album/1iIPGbC21FsxaXM2KX7hnd"
       },
@@ -8718,7 +8790,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 178173,
       "name": "PANORAMA",
       "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"
@@ -13525,6 +13597,24 @@
     },
     {
       "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "You & Me (Coachella ver.)",
+      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
+    },
+    {
+      "album": {
         "name": "The Dreaming",
         "url": "https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm"
       },
@@ -13724,6 +13814,24 @@
       "duration_ms": 206920,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ"
+    },
+    {
+      "album": {
+        "name": "ZOOM ZOOM",
+        "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "ZOOM ZOOM",
+      "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
     },
     {
       "album": {
@@ -14192,7 +14300,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185000,
       "name": "\uacb0\uad6d (Love is Pain)",
       "url": "https://open.spotify.com/track/7aQYTUqgJsy7elLADJr2bo"

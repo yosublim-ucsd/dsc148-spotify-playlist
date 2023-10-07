@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,685 songs - 5 day 21 hr 10 min
+3,686 songs - 5 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Game Over](https://open.spotify.com/track/4Pk9om14YeMUnVa6ekZJnB) | [alfrer](https://open.spotify.com/artist/7ejT7524EZRzF3ZaEtBLYS) | [Game Over](https://open.spotify.com/album/6yHZ2kn0RZOHvDxuHEjSv6) | 1:59 | 2020-11-03 | 2021-01-25 |
 | [Gangster Boogie](https://open.spotify.com/track/4EsOexS7KcQwpcrL1TnAdA) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Gangster Boogie](https://open.spotify.com/album/1bJqyQy389DPD6h6TS4aHh) | 2:04 | 2020-11-03 | 2020-11-21 |
 | [Garden Of Silence](https://open.spotify.com/track/55vZ5h1w1ytx1UpdWEKoDU) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl) | [Fall Vibes 2021](https://open.spotify.com/album/6gZkt2E4MqRd0vbER9SmFs) | 1:53 | 2021-10-01 | 2021-10-03 |
+| [Garden Rain](https://open.spotify.com/track/1WzaOF3UjuCEirxA1PZVDi) | [Chet Moony](https://open.spotify.com/artist/4woe7YpyBII7GVkKrpKv9Z), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Garden Rain](https://open.spotify.com/album/0DAHOXLiU8WrEJs6vTMxy6) | 2:21 | 2023-10-05 |  |
 | [Garoto](https://open.spotify.com/track/2KUnxhaXETxjq1XK6csw7y) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Garoto](https://open.spotify.com/album/1owWb7SrwzZmVxejpAyM1A) | 2:26 | 2021-03-14 | 2021-05-21 |
 | [Gato](https://open.spotify.com/track/5Ychb5Luh6sOwDI94KEH0w) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Gato](https://open.spotify.com/album/2PbaDRW4ShFoyl4eFDiI8s) | 1:45 | 2023-07-27 |  |
 | [Gazing at the Sky](https://open.spotify.com/track/7qAFNbaOENjXWOZL8LbIz0) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf) | [Gazing at the Sky](https://open.spotify.com/album/20oqghNE8h2jqftFB8R0vz) | 2:03 | 2020-07-11 | 2021-03-26 |
@@ -1247,7 +1248,7 @@
 | [Greve](https://open.spotify.com/track/1fxHZFMu4f1Te4bWCgCLL9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Greve](https://open.spotify.com/album/0KWDsYw0FJbrKykFgK2Fuf) | 1:53 | 2021-10-22 | 2021-11-19 |
 | [Greyhound](https://open.spotify.com/track/2DMH5A50OJm9XCh78xlGMv) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Greyhound](https://open.spotify.com/album/7iv9LiijyqO0WBLYYsq5y5) | 2:18 | 2022-02-17 | 2022-04-08 |
 | [Grind](https://open.spotify.com/track/7mKn0F9SqJAKXt0jir2skw) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Grind](https://open.spotify.com/album/3PdvGPRff0ziEY50SFke4Y) | 1:45 | 2021-03-14 | 2021-07-30 |
-| [Grooverider](https://open.spotify.com/track/2wmDqbZzFtdaPiyumafGX8) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Grooverider](https://open.spotify.com/album/3GfwEDjhAuFQIFxvmaYamY) | 2:09 | 2023-10-05 |  |
+| [Grooverider](https://open.spotify.com/track/2wmDqbZzFtdaPiyumafGX8) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Grooverider](https://open.spotify.com/album/3GfwEDjhAuFQIFxvmaYamY) | 2:09 | 2023-10-05 | 2023-10-07 |
 | [Grooveshop](https://open.spotify.com/track/00snmL6LQMA13y1U8Qy1GT) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Grooveshop](https://open.spotify.com/album/3lKHKjgaqaO4OndAVaMuww) | 2:24 | 2021-09-26 | 2022-03-18 |
 | [Grounds](https://open.spotify.com/track/3q2zODlw1n3be81eW3SHcv) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Grounds](https://open.spotify.com/album/2zGAPb6XVC0O3SWrNKphPL) | 1:54 | 2019-11-29 | 2020-04-24 |
 | [Grow](https://open.spotify.com/track/0aJsOUSl0tOZALjbc97jvx) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Grow](https://open.spotify.com/album/1La8wgqmjtIPXoaIsdTY0z) | 2:27 | 2021-12-12 | 2022-01-21 |

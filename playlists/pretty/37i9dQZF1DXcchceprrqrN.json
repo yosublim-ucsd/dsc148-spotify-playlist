@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 58829,
+  "num_followers": 58955,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2FiNTVhZDIwZWVlZmRmNWY4YzYxYTExYjRkZWZiMjY5Y2I0MDNl",
+  "snapshot_id": "MCxiY2IyOWEwOWNjNDE3ZjlmYmQxMmRjMTc1YWI3N2NhNWEyMWU3YzRk",
   "tracks": [
     {
       "added_at": "2023-10-03 01:59:09",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "The Dream Is Over",
-        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "DVP",
-      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
-    },
-    {
-      "added_at": "2023-10-03 01:59:09",
-      "album": {
         "name": "return",
         "url": "https://open.spotify.com/album/2wSCeijPFFOhlfvOQhgdss"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 102421,
       "name": "bird",
       "url": "https://open.spotify.com/track/6aC2oJJirBozj0cT6E2g1t"
+    },
+    {
+      "added_at": "2023-10-03 01:59:09",
+      "album": {
+        "name": "The Dream Is Over",
+        "url": "https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "DVP",
+      "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
     },
     {
       "added_at": "2023-10-03 01:59:09",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "BUMMER",
-        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 178388,
-      "name": "GOOD GRIEF",
-      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
-    },
-    {
-      "added_at": "2023-10-03 01:59:09",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 195129,
       "name": "Control",
       "url": "https://open.spotify.com/track/6ydPTlLqw0Y1hWmEqCiRQK"
+    },
+    {
+      "added_at": "2023-10-03 01:59:09",
+      "album": {
+        "name": "BUMMER",
+        "url": "https://open.spotify.com/album/3o0iNid084ArLzRpaF5xfz"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 178388,
+      "name": "GOOD GRIEF",
+      "url": "https://open.spotify.com/track/7GjQaDCkilmYWzK0yf60xe"
     },
     {
       "added_at": "2023-10-03 01:59:09",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "Opening Night",
-        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 127383,
-      "name": "Opening Night",
-      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
-    },
-    {
-      "added_at": "2023-10-03 01:59:09",
-      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
+    },
+    {
+      "added_at": "2023-10-03 01:59:09",
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 127383,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
       "added_at": "2023-10-03 01:59:09",

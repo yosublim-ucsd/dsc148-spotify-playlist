@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Alexandra Kay
 
-304 songs - 16 hr 5 min
+305 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Pretty Damn Close](https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Pretty Damn Close](https://open.spotify.com/album/3Bgy4hqtatQewljCLoW9Ob) | 3:45 | 2021-12-31 |  |
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-31 | 2023-01-14 |
 | [Reckless](https://open.spotify.com/track/1rnvSdz7bj6yZzyUeNqTkp) | [Johnny Gates](https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz) | [Reckless](https://open.spotify.com/album/5hzqphd8wma3P9ika7i6Yn) | 2:58 | 2021-12-31 | 2022-02-12 |
+| [Record High](https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Record High](https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY) | 3:28 | 2023-10-06 |  |
 | [Red Flags](https://open.spotify.com/track/0cnh2XFirA4Ny091xnJiwh) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:34 | 2023-02-24 |  |
 | [Red Flags](https://open.spotify.com/track/5yJ0jhZV0YXAzQ6ylZgj6i) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Red Flags](https://open.spotify.com/album/53wuYCjfggJsrAKAHFDdCx) | 2:34 | 2022-03-18 | 2023-03-01 |
 | [Reverse](https://open.spotify.com/track/2T6vymk0i2Pd5pli788DSQ) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Reverse](https://open.spotify.com/album/67gR6ME2xaUHnG5dC7t3qk) | 3:41 | 2022-07-08 | 2022-08-02 |
@@ -291,7 +292,7 @@
 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 | 2022-07-15 | 2023-05-26 |
 | [Vertigo](https://open.spotify.com/track/6YNx3NLrVFuBXs2CkfMF5s) | [Morgan Myles](https://open.spotify.com/artist/5n29LsxgPUhW67Z8aPoas5) | [Vertigo](https://open.spotify.com/album/5g3zZghZYNswZEt2znFIFe) | 2:53 | 2023-08-18 |  |
 | [Wallen On Your Radio](https://open.spotify.com/track/4eWtmopOFSfV93yWdRROnF) | [Alli Leighann](https://open.spotify.com/artist/4OeJYKm6vIFtrORFTjF68v) | [Wallen On Your Radio](https://open.spotify.com/album/74TKonwqXqmm5pgvzVNoGt) | 3:12 | 2023-07-28 |  |
-| [Ways To Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
+| [Ways to Miss You](https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Ways To Miss You](https://open.spotify.com/album/6TvGzZvJ31VOQYuQf1wXPY) | 3:09 | 2021-12-31 |  |
 | [We Both Know](https://open.spotify.com/track/1RcJ0gnr3TXWXBKY3RB9xQ) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [We Both Know](https://open.spotify.com/album/1rPwBSAtBuu7hl9xFMLeCe) | 4:10 | 2021-12-31 | 2022-09-10 |
 | [We'll Be](https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [We'll Be](https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI) | 3:47 | 2021-12-31 | 2023-02-25 |
 | [What Do We Do Now?](https://open.spotify.com/track/2Y8Bc8FFaAFTLSUggumiqT) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [What Do We Do Now?](https://open.spotify.com/album/3DSiv8bSfBosbvQispCd9r) | 2:36 | 2022-05-13 | 2023-03-01 |

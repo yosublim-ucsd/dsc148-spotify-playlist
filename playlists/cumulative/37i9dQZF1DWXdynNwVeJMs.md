@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: KAU
 
-186 songs - 15 hr 53 min
+187 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Cessna](https://open.spotify.com/track/7o3kAR4Hc4cHiyk8AJwZmR) | [Boogie Belgique](https://open.spotify.com/artist/4TIrC99WSg0tOtBCGDjMRY), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Lure of Little Voices \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/0zWSNIQlAGSUpgS9EBnBHK) | 3:10 | 2022-09-08 | 2023-04-14 |
 | [Charlier](https://open.spotify.com/track/0WMqqHKAwXqAlgHrYa6roR) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 3:51 | 2022-09-08 | 2023-03-18 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-09-08 | 2023-09-25 |
-| [Cigogne](https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 5:40 | 2022-09-08 |  |
+| [Cigogne](https://open.spotify.com/track/7y2Lj0tT4XdozP3oThtZm3) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 5:40 | 2022-09-08 | 2023-10-07 |
 | [Cinder Bay](https://open.spotify.com/track/25XCseTFdKLuaCG01dT3Kj) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [Cinder Bay](https://open.spotify.com/album/5Q1KqAvLtRcSIFrxUdYZtQ) | 4:44 | 2022-09-08 |  |
 | [Cluster](https://open.spotify.com/track/7naNiyiQ7699ks3dI6JTT0) | [PAARD.](https://open.spotify.com/artist/2aNp8JJGI4KGoKl6jJvzYe) | [danki](https://open.spotify.com/album/1VtBBySbyQCS8ypgo1nLSu) | 4:10 | 2022-09-08 |  |
 | [Cosmic Masadāni](https://open.spotify.com/track/2DluvgMtwnSbBubxLYCZ87) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Samā'ī](https://open.spotify.com/album/4eCzs66aUrEzb3P8vqgYfm) | 4:12 | 2022-09-08 |  |
@@ -142,14 +142,14 @@
 | [Reminiscence](https://open.spotify.com/track/5mbDO1wbecRbF5iQqEn8ty) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Reminiscence](https://open.spotify.com/album/1lLkH3BBGY9BPoiIqQ8ZiU) | 4:31 | 2022-09-15 | 2022-10-09 |
 | [Rhymes On Our Mind](https://open.spotify.com/track/4Ry0Lk8vLR3avAZpYbw6tp) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Gulliver](https://open.spotify.com/album/6gMzMxSQ5zwlOtlfuEFo5h) | 5:59 | 2022-09-15 |  |
 | [Rhymes On Our Mind](https://open.spotify.com/track/6EJUuDETlcuLn76NNLc3Ey) | [Condor Gruppe](https://open.spotify.com/artist/0qaYncC2MFURFgMB8MQvqm) | [Rhymes On Our Mind](https://open.spotify.com/album/0rpq83kd4ptF8dTyBHu39b) | 5:59 | 2022-09-08 | 2022-09-25 |
-| [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 |  |
+| [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 | 2023-10-07 |
 | [Rouf\-rouf](https://open.spotify.com/track/17QU94mEoN2moywNnBohht) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:28 | 2023-05-04 |  |
 | [SambaFassa](https://open.spotify.com/track/07pXnLZ5IX6PTOFueCydMm) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 5:07 | 2023-02-23 |  |
 | [Sheep Party](https://open.spotify.com/track/0BCkmc1jTgXtKU7D4j2hcf) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Sheep Party](https://open.spotify.com/album/0XHGwPuz9L7V969y1aLJSU) | 5:28 | 2023-08-17 | 2023-09-28 |
 | [Sheep Party](https://open.spotify.com/track/6xzI6RxSjjDzswPkUYH98d) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Khamsin](https://open.spotify.com/album/23MEycC3B7Gs3IHfsNoh8L) | 5:28 | 2023-09-24 |  |
 | [Shooting Stars](https://open.spotify.com/track/1J2xcunIugYhmtlKPFXZdf) | [Julien Tassin](https://open.spotify.com/artist/7hNM1DFNLvzEUVJtZdg1ND), [Dré Pallemaerts](https://open.spotify.com/artist/3KEOwvDwVcQsdjP8Fdunc0), [Nic Thys](https://open.spotify.com/artist/1EO0AEYzcsOWlTvoA86SN0) | [Shooting Stars](https://open.spotify.com/album/6GkKIDX0S4jJuYkgJVzoX7) | 5:06 | 2022-09-08 | 2023-04-06 |
 | [SLECHGAAN](https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [SLECHGAAN](https://open.spotify.com/album/6WLK6dTRwyLPjcZJsZOIzH) | 5:35 | 2022-09-08 | 2023-03-19 |
-| [SLECHGAAN](https://open.spotify.com/track/4jBvUU2BTttfiM5Cmpr6jc) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [RAPIDMAN](https://open.spotify.com/album/06u6LSWkFxLeFxgZjuQoAx) | 5:35 | 2023-03-16 |  |
+| [SLECHGAAN](https://open.spotify.com/track/4jBvUU2BTttfiM5Cmpr6jc) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [RAPIDMAN](https://open.spotify.com/album/06u6LSWkFxLeFxgZjuQoAx) | 5:35 | 2023-03-16 | 2023-10-07 |
 | [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 | 2023-01-19 |  |
 | [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 | 2023-01-19 | 2023-01-29 |
 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 | 2022-12-16 |  |
@@ -158,7 +158,7 @@
 | [Strata](https://open.spotify.com/track/32JtFzdRaPLiOaFdXq5Tbz) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Old Dreams New Planets](https://open.spotify.com/album/1AzOwLeAXqzta6MNVVm5ko) | 5:36 | 2022-09-08 | 2023-02-24 |
 | [strata](https://open.spotify.com/track/3ANbhAwZ5dB2pnxVXV4459) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Lefto presents Jazz Cats](https://open.spotify.com/album/7uue24rTgbcamaokL1unUl) | 5:36 | 2022-10-20 | 2022-11-14 |
 | [Stress Als Optie](https://open.spotify.com/track/2Vcy72JnCxieG9MoRALnRn) | [De Beren Gieren](https://open.spotify.com/artist/19uFulSQYQMM0elz5g1lMX) | [Less Is Endless](https://open.spotify.com/album/2A3yrBY3izE2NuzFypPVcH) | 2:09 | 2022-09-08 | 2023-04-06 |
-| [Stroking The Furnace](https://open.spotify.com/track/5fTQXBZhD0PZVaje8ll9rD) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Stroking The Furnace](https://open.spotify.com/album/6UipgcX1ynmutMpMzi8RzL) | 4:01 | 2022-09-08 |  |
+| [Stroking The Furnace](https://open.spotify.com/track/5fTQXBZhD0PZVaje8ll9rD) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Stroking The Furnace](https://open.spotify.com/album/6UipgcX1ynmutMpMzi8RzL) | 4:01 | 2022-09-08 | 2023-10-07 |
 | [Stuck In The Well](https://open.spotify.com/track/3aoEE0W6jScrf7MbHeDXlI) | [Lucid Lucia](https://open.spotify.com/artist/2kq88GbQw1ieU5VvWVZFYI) | [Lucid Lucia](https://open.spotify.com/album/0yl96Upj5HUFzdd8AzY0i4) | 3:59 | 2022-09-08 | 2023-04-14 |
 | [Swirl](https://open.spotify.com/track/1vpoU4P9acenUwLyQRxkp6) | [BAM! Trio](https://open.spotify.com/artist/5eK2rWqJ23rCpv9AdWNK86) | [Swirl](https://open.spotify.com/album/5EzwgWeQe3uy5TnsnN6wDS) | 4:05 | 2022-09-08 |  |
 | [Terra](https://open.spotify.com/track/47mb2nuSkGfwFFs6vIUaj0) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Buraq](https://open.spotify.com/album/6ECr1SbrqlO6LjzbTKUuXC) | 11:19 | 2023-03-23 | 2023-04-17 |
@@ -166,8 +166,9 @@
 | [Terra](https://open.spotify.com/track/6z4iG45MiRRTnnXutPvi6A) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 11:19 | 2023-04-13 |  |
 | [The Call of the Quagga Quagga](https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Call Of The Quagga Quagga](https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8) | 6:50 | 2023-05-04 |  |
 | [The Dimmed](https://open.spotify.com/track/1ElYStai1Ik9NchUuuqR6s) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Dimmed](https://open.spotify.com/album/1CXm1pO5gXumW2K1x9wDhC) | 8:56 | 2023-06-23 |  |
+| [The Hordes](https://open.spotify.com/track/4Klyb5vlUOcwFy1NUfKFh4) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [Thin Air \. Mirror Land](https://open.spotify.com/album/7sTfLYoudXX4vjSXn2lwYo) | 8:16 | 2023-10-06 |  |
 | [The Lower 9th](https://open.spotify.com/track/4sjsivlGuXcRzZfkAnezAu) | [Compro Oro](https://open.spotify.com/artist/1Bd10SiF1s1INXXIXJ9hvc) | [Buy The Dip](https://open.spotify.com/album/0EWz9DeLZ0jF7b3kzrzA3j) | 3:59 | 2022-09-08 |  |
-| [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 | 2023-09-07 |  |
+| [The Quantities](https://open.spotify.com/track/41NMjKhLiukWNoNF2csOsk) | [John Ghost](https://open.spotify.com/artist/25iP3ZTnO70UKswpiaigYH) | [The Quantities](https://open.spotify.com/album/6tBW03xdXTl5juo3u9RwB4) | 7:14 | 2023-09-07 | 2023-10-07 |
 | [Time Faded](https://open.spotify.com/track/55pmNeWiqkuqFel6lDcQA8) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Time Faded](https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr) | 3:47 | 2023-02-23 |  |
 | [TinniT \- Edit](https://open.spotify.com/track/73ZtYoyKLM1f2KGfw7EO8Q) | [MDCIII](https://open.spotify.com/artist/1zjbmsA3Mq02lYg0Bk0YCU) | [TinniT](https://open.spotify.com/album/23AsEykb1SeQ2vBZ5Or0gm) | 4:26 | 2022-09-08 | 2022-12-07 |
 | [Tsht](https://open.spotify.com/track/4qSPzGBpuGu5Vao4HOIztL) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [DOUF EP](https://open.spotify.com/album/31DvNh2FL6roQo3h0jpPzk) | 1:50 | 2022-09-08 | 2023-03-18 |

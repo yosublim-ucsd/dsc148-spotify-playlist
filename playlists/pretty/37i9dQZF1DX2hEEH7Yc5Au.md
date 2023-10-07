@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 鄭宜農 \(Enno Cheng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,288 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,301 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 4 | [查無此心 \- 《查無此心》電影主題曲](https://open.spotify.com/track/0QMtpUJcjt7IEl7FFSd8AJ) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [查無此心 \(《查無此心》電影主題曲\)](https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl) | 4:38 |
 | 5 | [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 |
 | 6 | [惡行 \- 電影《惡女》主題曲](https://open.spotify.com/track/5kQnK8syKKGDBvhbq9zBdh) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [惡行 \(電影《惡女》主題曲\)](https://open.spotify.com/album/1ohfq9U1bikYE7nmKxvDf9) | 4:11 |
-| 7 | [墮落 \(feat\. Buddha Jump 佛跳牆\)](https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [Flow](https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR) | 4:18 |
+| 7 | [墮落 \(feat\. Buddha Jump 佛跳牆\)](https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO) | [Edward Chen](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [Flow](https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR) | 4:18 |
 | 8 | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh) | 3:49 |
 | 9 | [離別總是那麼突然](https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [離別總是那麼突然](https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj) | 4:02 |
 | 10 | [Hate Myself](https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Hate Myself](https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3) | 3:23 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 29 | [寂寞不痛](https://open.spotify.com/track/6QmFAdDfNVPiyfoMKctxnV) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 5:00 |
 | 30 | [手心的太陽](https://open.spotify.com/track/0dk8w9XW3K0LDm05WcWfWq) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [歐若拉](https://open.spotify.com/album/5sIp9R8I3ZuXESPpkBI4i2) | 4:37 |
 | 31 | [如果從此](https://open.spotify.com/track/74XGzxIDA5jDL5WUFfKBz5) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 3:53 |
-| 32 | [星星堆滿天](https://open.spotify.com/track/1mQZ7y5h9sPLmuFoBjrKZB) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [ONE](https://open.spotify.com/album/2n6eu9oXcqwk46V5l4vc6G) | 4:28 |
+| 32 | [星星堆滿天](https://open.spotify.com/track/1mQZ7y5h9sPLmuFoBjrKZB) | [Edward Chen](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [ONE](https://open.spotify.com/album/2n6eu9oXcqwk46V5l4vc6G) | 4:28 |
 | 33 | [你怎麼連話都說不清楚](https://open.spotify.com/track/3WRtloZ0sa2OdmLQ2gCYNj) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Lucky Number](https://open.spotify.com/album/6Gwsej9iFzf7zreO1QhFgj) | 5:05 |
 | 34 | [哭不出來](https://open.spotify.com/track/4iNjwf7j8OHXRR8uryuxPQ) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [Bad Boy](https://open.spotify.com/album/5Nd65IjWWIpd0F3daiLqnr) | 4:44 |
 | 35 | [Just You and Me \- Unplugged](https://open.spotify.com/track/6xFRyzmrrd1GB1BkJ95Wjr) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Just You and Me \(Unplugged\)](https://open.spotify.com/album/4ACUrJFIcwi3gTB29XpXWV) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [我沒資格](https://open.spotify.com/track/4tNyEuD1Kr6kak324UcEgx) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [為你的寂寞唱歌](https://open.spotify.com/album/1AqZM8bfxSUIeQKBtO85ix) | 4:08 |
 | 50 | [不藥而癒 \- 第三波](https://open.spotify.com/track/31VWgseQeMXzcNdOD4N9Xu) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [下一個天亮](https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj) | 4:32 |
 
-Snapshot ID: `MCw0NmVjNDA5ZDQxYzJmYTE1ZGYwYTMyMzQ0NjE4YzgzODhjNDc2MDU2`
+Snapshot ID: `MCw0MzA5MzNmY2IzY2U2ZmRkZTI1NzI1NGZkNzI4MGVmOTNkMTMxNWEw`

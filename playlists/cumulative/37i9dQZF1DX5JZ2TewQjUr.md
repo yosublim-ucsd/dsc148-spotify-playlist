@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep & Jonwl
 
-706 songs - 1 day 15 hr 55 min
+707 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [ificouldbelikeu](https://open.spotify.com/track/2snsFKei1kEzSF1f2iDxmL) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [ificouldbelikeu](https://open.spotify.com/album/6aEzMsII9GSPie2c88HyEt) | 2:10 | 2023-09-14 |  |
 | [iLover](https://open.spotify.com/track/5zgXVEsgg2ymnKLPEhNaqr) | [KINKI 盧芷韻](https://open.spotify.com/artist/2AZx3MrH8U956HSprsyTCQ) | [iLover \- 電影《全個世界都有電話》插曲](https://open.spotify.com/album/3iEEmKuyZGsYSHALDkuEvx) | 3:06 | 2023-05-18 | 2023-09-01 |
 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 | 2022-10-06 | 2023-02-03 |
+| [In Love](https://open.spotify.com/track/1lBpl7dFv6n9nNzcn93bD2) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [In Love](https://open.spotify.com/album/5W8d6Co4CvHGH5WQ2VTGUF) | 4:20 | 2023-10-05 |  |
 | [Independent Artist](https://open.spotify.com/track/02Dtp1urMF9P3Lv0zQlEal) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [Independent Artist](https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC) | 3:14 | 2023-08-10 |  |
 | [INFINITY](https://open.spotify.com/track/18YVgGscS1ILP2vSQwFtOJ) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [INFINITY](https://open.spotify.com/album/6lLBRkAWPxhufoe5ySQMMo) | 3:36 | 2022-12-15 | 2023-03-18 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2023-03-18 |

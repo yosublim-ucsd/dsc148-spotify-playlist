@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Forest Temple",
+        "url": "https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Forest Temple",
+      "url": "https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt"
+    },
+    {
+      "album": {
         "name": "Forever close",
         "url": "https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK"
       },
@@ -1436,7 +1454,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 224020,
       "name": "Masikota",
       "url": "https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO"

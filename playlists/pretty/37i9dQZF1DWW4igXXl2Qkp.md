@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,124 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,174 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 53 | [Uhh Uhh](https://open.spotify.com/track/3h0YDgHt2dB8jDZL8jNdJP) | [Mugzz](https://open.spotify.com/artist/2F7DLB19HgjcPZuPXRD48f) | [Uhh Uhh](https://open.spotify.com/album/0NkWgYud6e8sGx8Y1XXyN7) | 2:29 |
 | 54 | [Bounce The Script](https://open.spotify.com/track/65JBhprcJxce7nsnin2XFx) | [Yung Osk](https://open.spotify.com/artist/2RWiSwIO91p5ejCPTRSKvd), [ZK9](https://open.spotify.com/artist/5IEvkD18yteKlKIsAucXkE) | [Bounce The Script](https://open.spotify.com/album/0Ap3xjaWV0hBQUH27fexmt) | 2:51 |
 | 55 | [Thank You God](https://open.spotify.com/track/6swmD6vTdd8y03qBeYnsVC) | [C.J\. Green](https://open.spotify.com/artist/2rmuDrO26hsPiQl9Q4Ibkh) | [Thank You God](https://open.spotify.com/album/2Dah0R5rKnFxetoi3MCVeq) | 2:15 |
-| 56 | [Star Baby \(feat\. Jenna Camille\)](https://open.spotify.com/track/1oql7dCwFCLgLBayDjQ0Py) | [Rob Cave](https://open.spotify.com/artist/59sPzQzIIJq17fwZbAs3F5), [Thxk\_u](https://open.spotify.com/artist/7ANxFXGWBpdrHmXnNHcCwW), [Jenna Camille](https://open.spotify.com/artist/6CuQ7eTjHfjq0Magk80kyW) | [Knowledge of the Sun](https://open.spotify.com/album/3J5PqPKiKUKKPEzw7HcYfB) | 3:04 |
+| 56 | [Star Baby \(feat\. Jenna Camille\)](https://open.spotify.com/track/1oql7dCwFCLgLBayDjQ0Py) | [Rob Cave](https://open.spotify.com/artist/59sPzQzIIJq17fwZbAs3F5), [Thxk\-u](https://open.spotify.com/artist/1GR2OQUdkg9RQy3bpqvtJF), [Jenna Camille](https://open.spotify.com/artist/6CuQ7eTjHfjq0Magk80kyW) | [Knowledge of the Sun](https://open.spotify.com/album/3J5PqPKiKUKKPEzw7HcYfB) | 3:04 |
 | 57 | [Note to Self](https://open.spotify.com/track/5fALZEGm33LptW0iWs8W27) | [Oke Junior](https://open.spotify.com/artist/5vjAO8SJCky5YKbuJXxP9g) | [Note to Self](https://open.spotify.com/album/4FD1LtVI76yUoWsQmciGxZ) | 2:35 |
 | 58 | [MMM \(Coming Up \)](https://open.spotify.com/track/1uefyOl071KNUQwgXN1TGT) | [Meech](https://open.spotify.com/artist/6QAA99qGQqfOu3U8mlt32g) | [Money Man Meech](https://open.spotify.com/album/7sxr6YXLaFQtjneUfNQ5M4) | 2:28 |
 | 59 | [Deserve It](https://open.spotify.com/track/0RF7g1wMkAeoWPN08ZLz39) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [Brand New](https://open.spotify.com/album/1had6G93RK7fsOQrE9zF1h) | 2:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Walk \(Freestyle\)](https://open.spotify.com/track/4l9vpiMSvBpvrilql9XDTx) | [O.E.](https://open.spotify.com/artist/1BNwD0GcTCdzY2pWmg2M1p) | [Walk \(Freestyle\)](https://open.spotify.com/album/7KMReipNFjMZSWpZRNp73f) | 1:48 |
 | 75 | [YUP!](https://open.spotify.com/track/51bDDKxzwJAc6zUtyYSyHL) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [HOURS AFTER THE CLUB](https://open.spotify.com/album/7LCH3EL2NaCmVegWM3dPBq) | 2:39 |
 
-Snapshot ID: `MCxhYzViZTAyMmFlOWZhYWE2MjEyMzBkNzk5OWVkNTM3NTQ1ZTVhNjRl`
+Snapshot ID: `MCxhOTNlMWMwYjIzNTU2Njg3MjA2MzgzYzZlOTYxMmI4MDA5MDZhM2Nl`

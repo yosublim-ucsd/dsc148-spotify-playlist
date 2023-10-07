@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,654 likes - 379 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,735 likes - 379 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 109 | [Moving Day](https://open.spotify.com/track/2F8OkL2J78kiRbEOpriTiz) | [Paul Lovett](https://open.spotify.com/artist/30FUFluc69c0JPtKV8IFMB) | [Monsters Inc](https://open.spotify.com/album/5SoKWr4gj5deZu13j6lXOE) | 2:16 |
 | 110 | [looking for...](https://open.spotify.com/track/4wxPvXFOupZ7kWVndRIS2m) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [looking for…](https://open.spotify.com/album/5hXbfuAkcG1ZmaFz0Q2LBb) | 2:34 |
 | 111 | [magnetic moment](https://open.spotify.com/track/6TLRgryYACGi7ULQijdgX5) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [magnetic moment](https://open.spotify.com/album/2XPFXWMVf570BR97au9VPC) | 1:37 |
-| 112 | [Secret Place](https://open.spotify.com/track/3buyFUrF0ZNbaWImMEkUKS) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Secret Place](https://open.spotify.com/album/03JWU66lZghWbITjt3h239) | 2:17 |
+| 112 | [Secret Place](https://open.spotify.com/track/3buyFUrF0ZNbaWImMEkUKS) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Secret Place](https://open.spotify.com/album/03JWU66lZghWbITjt3h239) | 2:17 |
 | 113 | [Lunch Break Mantra](https://open.spotify.com/track/2FUBWrnfPAuZ8DQWQBqx9S) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Lunch Break Mantra](https://open.spotify.com/album/1v4Ao73yYn6S5spJOXlUmz) | 2:21 |
 | 114 | [Just a Dream](https://open.spotify.com/track/4q7fXYrlgZ3wIX3dTiunRH) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Just a Dream](https://open.spotify.com/album/48xrM4MdUHb4OpZ0GOF1OM) | 1:50 |
 | 115 | [Misty Morning](https://open.spotify.com/track/1vh9A4wyOoAH75eol1GLK6) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Misty Morning](https://open.spotify.com/album/0pM19CTFC6SCnsTCxXbpON) | 2:17 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 162 | [Coral Dreams](https://open.spotify.com/track/2MCxFsL3HdKgTH63fFffVk) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Coral Dreams](https://open.spotify.com/album/2vpKBT4hL04KIGc0jvWTJ9) | 2:24 |
 | 163 | [Bubbles](https://open.spotify.com/track/1XFHGb4pHfR3VWgow8vBI9) | [LoDub](https://open.spotify.com/artist/0r8v9ej0fnnyLhdF8YYz36) | [Bubbles](https://open.spotify.com/album/7zBLeE1JJKU8chdQsjWQVm) | 2:18 |
 | 164 | [Alley](https://open.spotify.com/track/5HbOK5kNydFd3cvqYdIDbs) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Alley](https://open.spotify.com/album/3JAJzLam1GZzzTJxDQ9eLx) | 2:18 |
-| 165 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
+| 165 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
 | 166 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 |
 | 167 | [Smoothie](https://open.spotify.com/track/2dydPTVPs6ljn6vmu0V9fS) | [Maedwun](https://open.spotify.com/artist/00z1ugfxDKqj3duaq5sbGf) | [Smoothie](https://open.spotify.com/album/5AUtesTirgrIV3IcWHb2uO) | 1:37 |
 | 168 | [How It Goes](https://open.spotify.com/track/1utm3EHfJ6kn1sBHeblnkJ) | [nomōyu](https://open.spotify.com/artist/3awVNU7vA87hTnVAAxqQ7e), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [How It Goes](https://open.spotify.com/album/5jdggOZDC0kw5eI0PDrvFT) | 2:42 |
@@ -388,4 +388,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 378 | [Euphoria](https://open.spotify.com/track/4ljI7MR9RmhuyML65YWQAp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Euphoria](https://open.spotify.com/album/0ilUOQTMsh0nGPpzREboYF) | 2:35 |
 | 379 | [Snow Walks](https://open.spotify.com/track/0LFAnJIER61KZZggIZR3LR) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [lifeboat](https://open.spotify.com/artist/7EjZNBvNe81OgATW2RGr8U) | [Snow Walks](https://open.spotify.com/album/4acUsG6hiluBSSuZiogG1i) | 2:28 |
 
-Snapshot ID: `MCw4ODgzMzUzYjNlN2JiNDM3ZTlhNzNjYzhjZmY1MWY3MzM2NWNjYTFk`
+Snapshot ID: `MCw4ZTA3NjE4MjA1NmJkMzFmOThjNDhiZDg0MDJlNjQyNDVmMzgwZmEx`

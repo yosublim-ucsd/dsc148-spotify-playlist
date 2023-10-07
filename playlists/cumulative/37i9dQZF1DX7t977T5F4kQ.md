@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB?si=twrHoistSyCXR\_vEqpoapg"> D\-Black</a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=cfLh9\-xbSXyIsuwsJr5hYA"> Jay Bahd</a>
 
-242 songs - 12 hr 51 min
+244 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Enjoyment Minister](https://open.spotify.com/track/4yuXNUSWIAzEmFsO8XVHhi) | [D\-Black](https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Enjoyment Minister](https://open.spotify.com/album/6eFIO1ddQzjCwcAcRWoSnq) | 4:18 | 2022-11-04 | 2022-12-25 |
 | [Everyday \(Essikafo Ammba Ntem\)](https://open.spotify.com/track/4eNIzswkTmMu1uNaUmKpQj) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Everyday \(Essikafo Ammba Ntem\)](https://open.spotify.com/album/7M9I9kebrA4DgSqIrf8ncy) | 3:36 | 2022-12-18 | 2023-01-28 |
 | [Ewo](https://open.spotify.com/track/34a0tCqrurfs1UgVraTTBi) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11) | [Ewo](https://open.spotify.com/album/3xbmiEadRLcJk1wW2SOJ5j) | 2:40 | 2022-12-18 | 2023-01-14 |
-| [Eyes on You](https://open.spotify.com/track/7LBytJhdE0ntt1eAXEiehP) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/7Gjb0f3QkmRWqDl09pB9GM) | 3:02 | 2023-09-21 |  |
+| [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 | 2023-10-06 |  |
+| [Eyes on You](https://open.spotify.com/track/7LBytJhdE0ntt1eAXEiehP) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/7Gjb0f3QkmRWqDl09pB9GM) | 3:02 | 2023-09-21 | 2023-10-07 |
 | [Fa Me Saa](https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Fa Me Saa](https://open.spotify.com/album/5M7PPOkCaqaLnR27LidUP4) | 3:05 | 2023-04-14 | 2023-04-21 |
 | [Fakye](https://open.spotify.com/track/4mQfRdTt9CLowA0UgLaLfj) | [Kay 9ice](https://open.spotify.com/artist/7wNBctbXr4d5zWHVAiVf9y), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Fakye](https://open.spotify.com/album/2dQzVzAlQXPiFEO4xTHGiX) | 3:57 | 2022-11-25 | 2023-01-13 |
 | [Fall](https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Fall](https://open.spotify.com/album/5C26tljU3oYAkLBqh6mNMi) | 2:39 | 2023-03-02 | 2023-04-28 |
@@ -133,6 +134,7 @@
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-11-04 | 2023-02-10 |
 | [Man Down](https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk) | [Ahkan](https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT) | [Man Down](https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32) | 3:16 | 2023-04-27 | 2023-05-05 |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 |  |
+| [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 |  |
 | [Miss You](https://open.spotify.com/track/0h7AuxckvEgyoaBzXZuYyB) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Miss You](https://open.spotify.com/album/3UsYwByBCsosmzI5ZMzqOL) | 2:36 | 2023-07-28 | 2023-08-02 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-11-04 |  |
 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 | 2022-11-04 |  |

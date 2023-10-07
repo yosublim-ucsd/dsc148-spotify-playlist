@@ -98,7 +98,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 144566,
       "name": "888",
       "url": "https://open.spotify.com/track/0S7JUK9EWqgM3vOVMsBUck"
@@ -120,7 +120,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 139066,
       "name": "90",
       "url": "https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi"
@@ -619,6 +619,32 @@
     },
     {
       "album": {
+        "name": "Bubbaloo (Remix)",
+        "url": "https://open.spotify.com/album/20S3rT5tuQI0lDut9oG7mT"
+      },
+      "artists": [
+        {
+          "name": "Tenshi",
+          "url": "https://open.spotify.com/artist/2uQeXX2ga2kvnHeP81aI2Y"
+        },
+        {
+          "name": "Crazy Point",
+          "url": "https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb"
+        },
+        {
+          "name": "YUNGLiAN MEDiOCRE BROKE BOi",
+          "url": "https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190417,
+      "name": "Bubbaloo - Remix",
+      "url": "https://open.spotify.com/track/5dnyYvMzZC1VwihNeXSLtc"
+    },
+    {
+      "album": {
         "name": "Cadenas de Oro",
         "url": "https://open.spotify.com/album/41e7z4DLZFHdG0b3EBIIoC"
       },
@@ -908,10 +934,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 138000,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1ZVO9HcHEXoy6MrU7dWN5S"
+    },
+    {
+      "album": {
+        "name": "Corona",
+        "url": "https://open.spotify.com/album/3h9MkikGcOTZEalQLrCjf5"
+      },
+      "artists": [
+        {
+          "name": "Selected Music",
+          "url": "https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y"
+        },
+        {
+          "name": "Young Laroye",
+          "url": "https://open.spotify.com/artist/0uQHkE5xfRwR5bv46LLRfD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/0rphhw5bMnpTT70VfQO21I"
     },
     {
       "album": {
@@ -1500,6 +1548,24 @@
       "duration_ms": 154072,
       "name": "FTH",
       "url": "https://open.spotify.com/track/0NvszFskYzYlVxcNXi76cU"
+    },
+    {
+      "album": {
+        "name": "fuck tu pedo",
+        "url": "https://open.spotify.com/album/75t4mg0uUtQtmiuzA6kHJs"
+      },
+      "artists": [
+        {
+          "name": "Doble Tempo",
+          "url": "https://open.spotify.com/artist/05GGSu0a1Qs7pmiETMQXf0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99512,
+      "name": "fuck tu pedo",
+      "url": "https://open.spotify.com/track/53xjmweWDgA0BQFyQ1zM4C"
     },
     {
       "album": {

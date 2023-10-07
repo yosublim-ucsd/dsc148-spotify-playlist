@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-154 songs - 8 hr 20 min
+155 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Subz](https://open.spotify.com/track/3fF8CmtFnZSqeejn5ea1OC) | [KNAV](https://open.spotify.com/artist/5v5zR0FGvZ5A8ztsWS1sL2), [XTACY ON THE BEAT](https://open.spotify.com/artist/1biv7Fr36uAj6PO7icQAEy), [Baba Bachi](https://open.spotify.com/artist/2z9Au2AnKOY9H1UdVi07Ja) | [Subz](https://open.spotify.com/album/0MBb6wPG1sjs6n9OP8lXeN) | 2:36 | 2023-08-11 |  |
 | [Sunti Kaha Hai](https://open.spotify.com/track/0JAPkDAXbRsMtQtsYkW3xP) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sunti Kaha Hai](https://open.spotify.com/album/73AFjr9LKzEDYX3wCWAcuL) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [Taakat](https://open.spotify.com/track/2AMP8Rey8W6sxsXKUpgWRb) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Taakat](https://open.spotify.com/album/0ccts7BfXm24XXSyNmwHYR) | 2:36 | 2023-04-16 |  |
+| [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |
 | [THAT’S A FACT!](https://open.spotify.com/track/7mmC9oJZxmYkIyDeghEGCd) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Manïn](https://open.spotify.com/artist/0Ln67JbkAdFwzpuF8uA5ZD) | [LADKE CONVICT](https://open.spotify.com/album/2IU5jXA80Y2yhfGqW5LxZc) | 3:01 | 2023-09-26 |  |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-29 | 2023-04-17 |

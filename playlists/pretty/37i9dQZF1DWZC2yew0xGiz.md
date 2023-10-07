@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,070 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,066 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 10 | [I'm Every Woman](https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:45 |
 | 11 | [Winter Warz](https://open.spotify.com/track/0iCWDU1S3hjQphZcD0UfIE) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh), [Reakwon](https://open.spotify.com/artist/1LQhwmzGriKRuGWfpY26kv), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx) | [Don't Be A Menace To South Central While Drinking Your Juice In The Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5XhMjct5IBKfbl0N3NsRac) | 5:10 |
 | 12 | [Crooklyn \- Crooklyn/Soundtrack Version](https://open.spotify.com/track/3RxF3Mz5wprRMopI8fp9uF) | [Crooklyn Dodgers](https://open.spotify.com/artist/4FjR5GmNXYr2RKHVOXTP7e), [Buck Shot](https://open.spotify.com/artist/6ijixrIqFhfUjpfNLzniAT), [Special Ed](https://open.spotify.com/artist/3vIFTM70CYTYr122vTVpzx), [Master Ace](https://open.spotify.com/artist/2ZhH7S3zJIy2cTb8rFPJEz) | [Crooklyn Volume 1 \(Music From The Motion Picture\)](https://open.spotify.com/album/0H3alcRRmLP9P5lHLTqEJB) | 4:33 |
-| 13 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 |
-| 14 | [Part Time Lover](https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:07 |
+| 13 | [Part Time Lover](https://open.spotify.com/track/1QrRjlQm9R2a1QehlIodIv) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:07 |
+| 14 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 |
 | 15 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 3:24 |
 | 16 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
 | 17 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 38 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 39 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MCw3NzQwYjQ0ZDVhZDQ1NGJiOTlmNzkyMTgzODUzNTk4ZDlkOWM2ZjEw`
+Snapshot ID: `MCxjZDY2OGM0NjRjZDY4MDIyMTM1NTQwMTk4N2NmNzZkYzU5NDlkZjMy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Shakira",
+  "description": "\u00a1Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia",
   "name": "Indie Colombia",
   "tracks": [
     {
@@ -1669,6 +1669,28 @@
     },
     {
       "album": {
+        "name": "ARMN",
+        "url": "https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tenerlo Todo",
+      "url": "https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5"
+    },
+    {
+      "album": {
         "name": "Tiempo Calavera",
         "url": "https://open.spotify.com/album/77OKhLQx0zi7TJ9ets4IUw"
       },
@@ -1806,7 +1828,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 233866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/74DGE82ZVx7VKCoMgbyKBD"

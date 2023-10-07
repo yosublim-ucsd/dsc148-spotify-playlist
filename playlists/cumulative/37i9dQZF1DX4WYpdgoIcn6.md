@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-911 songs - 2 day 1 hr 29 min
+912 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [i don't miss u](https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [i don't miss u](https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX) | 2:58 | 2019-10-25 | 2021-03-20 |
 | [I Don't Think I'm Okay](https://open.spotify.com/track/0PUkanqCGTb6qseXPKOw1F) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Don't Think I'm Okay](https://open.spotify.com/album/2FVXY7JKhLrYb5CExY0CDq) | 2:56 | 2020-07-11 | 2021-05-22 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/1NEV2pt7AJSHWadhfCZ48t) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears / I Don’t Wanna Love You Anymore](https://open.spotify.com/album/00lk0dGMhyu40RBQGKiTr0) | 3:21 | 2019-05-25\* | 2019-06-15 |
-| [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2020-05-10 |  |
+| [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2020-05-10 | 2023-10-07 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-12-16 |  |
 | [I Forgot That You Existed](https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:50 | 2019-08-27 | 2020-06-12 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2020-06-12 | 2021-03-23 |
@@ -831,6 +831,7 @@
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/1iQDltZqI7BXnHrFy4Qo1k) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Trampoline \(with ZAYN\)](https://open.spotify.com/album/5QqqBZmdQmY1MvlnpBkagB) | 3:04 | 2019-09-29 | 2023-10-05 |
 | [Treehouse \(feat\. Shotty Horroh\)](https://open.spotify.com/track/6S1IgeHxxOT9qVWnmsdGxe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [SHOTTY HORROH](https://open.spotify.com/artist/4a95izyFgvXS2JYqL8rANq) | [Treehouse \(feat\. Shotty Horroh\)](https://open.spotify.com/album/6HX5s1KDSkOQNkt5YkwMi2) | 3:39 | 2019-09-25 | 2021-05-24 |
 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 | 2019-10-25 | 2021-05-18 |
+| [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-28 |  |
 | [Truth Is](https://open.spotify.com/track/26h7ux2txHZ70RsWPpFasT) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | ["Truth Is" \- The Short Collection](https://open.spotify.com/album/3boDP5dWDe5JsnF3KvRZSL) | 3:32 | 2019-10-25 | 2020-01-04 |
 | [Twenty Something \- Stripped Sessions](https://open.spotify.com/track/0qxRmtTovuLU4VBz5y4DsJ) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something/No Call, No Reply \(Stripped Sessions\)](https://open.spotify.com/album/7tbaldzJvtMfCDrLZ6wMmq) | 4:21 | 2019-06-22 | 2020-06-12 |
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2020-08-07 | 2020-10-09 |

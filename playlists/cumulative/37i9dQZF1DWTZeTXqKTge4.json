@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "Ailleurs",
+        "url": "https://open.spotify.com/album/1RksQ6fF02hWCUuU1PuhI2"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/0w7qXeFzUkFzZfPgE7uOcN"
+    },
+    {
+      "album": {
         "name": "Airbag",
         "url": "https://open.spotify.com/album/28ceNLJVzA6XsEgJv9RxfU"
       },
@@ -1072,6 +1094,28 @@
       "duration_ms": 194475,
       "name": "Belle",
       "url": "https://open.spotify.com/track/1XBTbrFqzkb8eQpnqcYGsm"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00e8re",
+        "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
+      },
+      "artists": [
+        {
+          "name": "3 Heures prod",
+          "url": "https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195491,
+      "name": "Benda",
+      "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
     },
     {
       "album": {
@@ -5084,7 +5128,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 117882,
       "name": "Le Game A Des Codes",
       "url": "https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1"
@@ -8796,7 +8840,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169665,
       "name": "Travolta",
       "url": "https://open.spotify.com/track/5RbvYsWQFawnCUBwGI3bAl"
@@ -8876,10 +8920,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181428,
       "name": "Trop jeune",
       "url": "https://open.spotify.com/track/08ZC8YF01wYfrRSo441VrW"
+    },
+    {
+      "album": {
+        "name": "METHMATICS",
+        "url": "https://open.spotify.com/album/7GVQKmI4lh0noPeYKZRX6c"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "TROP T\u00d4T",
+      "url": "https://open.spotify.com/track/5bBUrUzYouZAdxrrCjoA0k"
     },
     {
       "album": {

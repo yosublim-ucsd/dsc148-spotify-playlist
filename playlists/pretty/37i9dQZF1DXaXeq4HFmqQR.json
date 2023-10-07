@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12775,
+  "num_followers": 12778,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RhZGM3MWMzNDFmZDI4NTVmZjEyZjMzN2UxNDlmZTAyMzA2ZDgz",
+  "snapshot_id": "MCw2MTM0ODU2NzI0ZTgyNjViMmRjZjE3YmFhM2UyNjFiOGZiMTNmYWY5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "SUSHI VENUS",
         "url": "https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+        "name": "Cuerpo y Guitarra",
+        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
       },
       "artists": [
         {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
         }
       ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+      "duration_ms": 177056,
+      "name": "Cuerpo y Guitarra",
+      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -531,6 +531,22 @@
       "duration_ms": 214000,
       "name": "Tiempo a mi favor",
       "url": "https://open.spotify.com/track/6eDpmWdmQ35HYVwWZXxmoh"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Cuerpo y Guitarra",
-        "url": "https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        }
-      ],
-      "duration_ms": 177056,
-      "name": "Cuerpo y Guitarra",
-      "url": "https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Ser Humano",
         "url": "https://open.spotify.com/album/1Mo8Gl36Gf0PdHDPCxY8lk"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 196328,
       "name": "Ser Humano",
       "url": "https://open.spotify.com/track/0oXxVxgnejc4uRguZEcozJ"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Dame Una Se\u00f1al",
-        "url": "https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF"
-      },
-      "artists": [
-        {
-          "name": "Natalia Montenegro",
-          "url": "https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C"
-        },
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Dame Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -647,6 +627,26 @@
       "duration_ms": 173689,
       "name": "correr",
       "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Dame Una Se\u00f1al",
+        "url": "https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Montenegro",
+          "url": "https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C"
+        },
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Dame Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
-      },
-      "artists": [
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
-        },
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        }
-      ],
-      "duration_ms": 203475,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "EP Agua",
         "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 230034,
       "name": "Luz",
       "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
+      },
+      "artists": [
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+        },
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        }
+      ],
+      "duration_ms": 203475,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
     },
     {
       "added_at": "2023-10-04 04:00:00",

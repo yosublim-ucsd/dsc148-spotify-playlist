@@ -368,7 +368,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 287323,
       "name": "Around This World",
       "url": "https://open.spotify.com/track/7kqJSVxOCtFRdVAQ0X7Hla"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 243428,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 220869,
       "name": "End Of The End (feat. Krigar\u00e8)",
       "url": "https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
@@ -2132,6 +2132,28 @@
       "duration_ms": 450206,
       "name": "God of War - Original Mix",
       "url": "https://open.spotify.com/track/5MiZ0eeQbPRiWZ7jltrHzg"
+    },
+    {
+      "album": {
+        "name": "Golden Teacher",
+        "url": "https://open.spotify.com/album/7MEkAFD8PwX7tPy7fIZIzi"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Massivebass",
+          "url": "https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278068,
+      "name": "Golden Teacher",
+      "url": "https://open.spotify.com/track/4DF78KTbDZ3cGI5h1dzOEJ"
     },
     {
       "album": {
@@ -2519,6 +2541,28 @@
     },
     {
       "album": {
+        "name": "RAZ World 2023",
+        "url": "https://open.spotify.com/album/67NNJDLMWTsvhL682ps2Om"
+      },
+      "artists": [
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        },
+        {
+          "name": "Vertigos",
+          "url": "https://open.spotify.com/artist/3bv01x19RncGYrAm3lFSVE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325594,
+      "name": "Im Ninalu - Radio Edit",
+      "url": "https://open.spotify.com/track/14gPeognd9lanr7hBzr2D3"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4ckeRgPTFEcMUMNITTkLEQ"
       },
@@ -2626,6 +2670,28 @@
       "duration_ms": 365714,
       "name": "Indian Spirit",
       "url": "https://open.spotify.com/track/5ialmmuwylzm1xDwHlxpCg"
+    },
+    {
+      "album": {
+        "name": "Inner Space",
+        "url": "https://open.spotify.com/album/6aRjR6kAyz9W8xg6UMKOz9"
+      },
+      "artists": [
+        {
+          "name": "Brandon Hombre",
+          "url": "https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU"
+        },
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343276,
+      "name": "Inner Space",
+      "url": "https://open.spotify.com/track/0hA5KmRgeZfIuwJ6ZhLlqc"
     },
     {
       "album": {
@@ -3379,6 +3445,28 @@
     },
     {
       "album": {
+        "name": "Opera Haus",
+        "url": "https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts"
+      },
+      "artists": [
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Opera Haus",
+      "url": "https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW"
+    },
+    {
+      "album": {
         "name": "Rave Ready",
         "url": "https://open.spotify.com/album/6hjWdzIR83zajbykdXZqoH"
       },
@@ -3713,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Quest",
+        "url": "https://open.spotify.com/album/7t6Mg6JsJX27LcwsRetV3k"
+      },
+      "artists": [
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425142,
+      "name": "Psychedelic Quest - Original Mix",
+      "url": "https://open.spotify.com/track/5QbPt53c2VnZpmkvXTFpBI"
+    },
+    {
+      "album": {
         "name": "Psychosis",
         "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
       },
@@ -3918,6 +4024,32 @@
       "duration_ms": 284571,
       "name": "Road to You",
       "url": "https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K"
+    },
+    {
+      "album": {
+        "name": "Rockafaster",
+        "url": "https://open.spotify.com/album/4bk9LRnHRukyV69zMS6LCR"
+      },
+      "artists": [
+        {
+          "name": "Fatality",
+          "url": "https://open.spotify.com/artist/4YQOU9GVYBYVJmdmGkDQh1"
+        },
+        {
+          "name": "Nable",
+          "url": "https://open.spotify.com/artist/6cJETXA6eNEwW9ZAqahVf7"
+        },
+        {
+          "name": "Pop Dog",
+          "url": "https://open.spotify.com/artist/5iXB0pbIJUKm3e8ECZ6iB3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298559,
+      "name": "Rockafaster",
+      "url": "https://open.spotify.com/track/6LLAMgc8Y8li44oDDxkFVi"
     },
     {
       "album": {
@@ -4478,7 +4610,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 385352,
       "name": "Something",
       "url": "https://open.spotify.com/track/2ojmhabZNcF1zzZncwrqzB"
@@ -4540,6 +4672,24 @@
       "duration_ms": 252087,
       "name": "Spaceland",
       "url": "https://open.spotify.com/track/2BFjJ43x7zFBwZoamrl0kb"
+    },
+    {
+      "album": {
+        "name": "Speak from the heart",
+        "url": "https://open.spotify.com/album/2XDVcWTls6hHqcdPuKU3ks"
+      },
+      "artists": [
+        {
+          "name": "Special M",
+          "url": "https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445714,
+      "name": "Speak from the heart",
+      "url": "https://open.spotify.com/track/1GP9Xys1uOqkjPnAGhWNvu"
     },
     {
       "album": {
@@ -5686,7 +5836,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 361739,
       "name": "You (Kleysky & Deep Kontakt Remix)",
       "url": "https://open.spotify.com/track/2cldsTRjQboX0flJkYdxtg"
@@ -5726,7 +5876,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"

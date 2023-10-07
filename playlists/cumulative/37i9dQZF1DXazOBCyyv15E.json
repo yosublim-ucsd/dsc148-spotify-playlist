@@ -14159,7 +14159,7 @@
     },
     {
       "album": {
-        "name": "Hotel Surrender (Expanded Version)",
+        "name": "Hotel Surrender (Expanded Edition)",
         "url": "https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX"
       },
       "artists": [
@@ -15254,10 +15254,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 191693,
       "name": "It Wasn't Love",
       "url": "https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2"
+    },
+    {
+      "album": {
+        "name": "Blondshell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6YKimEru6vgGigbZfOPsI5"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191693,
+      "name": "It Wasn't Love",
+      "url": "https://open.spotify.com/track/6ciSRA9AM7DfcxMfZETZdz"
     },
     {
       "album": {

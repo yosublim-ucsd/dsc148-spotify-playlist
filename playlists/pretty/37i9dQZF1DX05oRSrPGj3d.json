@@ -1,12 +1,12 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Remembering Charlie Robison.",
-  "num_followers": 241802,
+  "num_followers": 241892,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2E1NGJjNGM3OGMyMmNiNzgyYjEzMzNiMGMxYzc1NDFjODg3ZjY1",
+  "snapshot_id": "MCxiNTk3MDhiOTc4ZTFiNDNlMjNhMDhlMzU3N2Q1OGU3YmJhM2VlMDFm",
   "tracks": [
     {
       "added_at": "2023-09-15 14:31:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        }
+      ],
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
         "name": "Randy Rogers Band",
         "url": "https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 241786,
       "name": "Tequila Does",
       "url": "https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
         "name": "After the Fire",
         "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 235253,
       "name": "She's Like Texas",
       "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
+        "name": "Any Night in Texas",
+        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
       },
       "artists": [
         {
-          "name": "Stoney LaRue",
-          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Feet Don't Touch the Ground",
-      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
+      "duration_ms": 238666,
+      "name": "Boots on a Dance Floor",
+      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
-        "name": "Any Night in Texas",
-        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
       },
       "artists": [
         {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+          "name": "Stoney LaRue",
+          "url": "https://open.spotify.com/artist/0T7J61YgErxSH8yuyggHJO"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Boots on a Dance Floor",
-      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
+      "duration_ms": 248586,
+      "name": "Feet Don't Touch the Ground",
+      "url": "https://open.spotify.com/track/5jlKg466AQEoBSPJ8y8wyY"
     },
     {
       "added_at": "2023-09-15 14:31:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-09-15 14:31:00",
       "album": {
+        "name": "Every Single Kiss",
+        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Every Single Kiss",
+      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
+    },
+    {
+      "added_at": "2023-09-15 14:31:00",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2023-09-15 14:31:00",
-      "album": {
-        "name": "Every Single Kiss",
-        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Every Single Kiss",
-      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
     },
     {
       "added_at": "2023-09-15 14:31:00",

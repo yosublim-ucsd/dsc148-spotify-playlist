@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Assala",
+  "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Dalia",
   "name": "Fresh Arabic Pop",
   "tracks": [
     {
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Galbi Sadek",
+        "url": "https://open.spotify.com/album/00visEiJ6ZATan5BMWy9VK"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219907,
+      "name": "Galbi Sadek",
+      "url": "https://open.spotify.com/track/07qDaERSyVHaMMRvUblR58"
+    },
+    {
+      "album": {
         "name": "Gaw El Banat",
         "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
       },
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 180909,
       "name": "Hala Nafseya",
       "url": "https://open.spotify.com/track/5SXqHZTMpymarvsycHICkf"
@@ -2255,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "Majrooh",
+        "url": "https://open.spotify.com/album/24qh3pDomlGZ6WJS5aQSqe"
+      },
+      "artists": [
+        {
+          "name": "Marina Ndayra",
+          "url": "https://open.spotify.com/artist/2Rqvvqs1oN7ENbboDpm61v"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214803,
+      "name": "Majrooh",
+      "url": "https://open.spotify.com/track/52Sy82cr1pNYrtekkLIjIx"
+    },
+    {
+      "album": {
         "name": "Malek El Fabraka",
         "url": "https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT"
       },
@@ -2526,7 +2562,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 208436,
       "name": "Mriyech",
       "url": "https://open.spotify.com/track/7735rwGeak348luaiQVRNE"
@@ -2717,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/1UmSw648elPoRIGpCFv55T"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153539,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/1Xr21ZKogSRHDBFDSyp2YP"
+    },
+    {
+      "album": {
         "name": "Sa'af",
         "url": "https://open.spotify.com/album/1R2gySJizByGXC2rLdVE7X"
       },
@@ -2750,6 +2804,42 @@
       "duration_ms": 181930,
       "name": "Saaba",
       "url": "https://open.spotify.com/track/3SZ3zSiJynzOAXYqwQqXeG"
+    },
+    {
+      "album": {
+        "name": "Saahabit Saif",
+        "url": "https://open.spotify.com/album/1X2ySoDIHfDk2pVBoR8cTc"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177421,
+      "name": "Saahabit Saif",
+      "url": "https://open.spotify.com/track/6ftsJkHUh93b1VEFDKVmSy"
+    },
+    {
+      "album": {
+        "name": "Saber",
+        "url": "https://open.spotify.com/album/5CEph7SkSwZkcpql2sQDGt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Saber",
+      "url": "https://open.spotify.com/track/5wyFyPSiYMJRL9cWE1ADrk"
     },
     {
       "album": {
@@ -3150,7 +3240,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 240000,
       "name": "Tishtaq Roohi",
       "url": "https://open.spotify.com/track/47GcqHBzfkeupLAcAm14oa"
@@ -3226,7 +3316,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 234000,
       "name": "Wala Bghiti",
       "url": "https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE"
@@ -3792,7 +3882,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 323376,
       "name": "\u0627\u0644\u0639\u062c\u0628 \u0641\u064a \u0627\u0644\u0647\u0648\u0649",
       "url": "https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk"

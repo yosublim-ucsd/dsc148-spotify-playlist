@@ -1139,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/1xY5MsWOrsFwj5oQkkm3Ds"
+      },
+      "artists": [
+        {
+          "name": "Ooyy",
+          "url": "https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "M\u00f6rkret",
+      "url": "https://open.spotify.com/track/2Y1hzUCBa3xH5RzSX4mtYF"
+    },
+    {
+      "album": {
         "name": "Off the radar",
         "url": "https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6"
       },

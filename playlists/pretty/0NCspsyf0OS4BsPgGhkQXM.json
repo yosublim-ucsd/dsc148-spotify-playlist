@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2058666,
+  "num_followers": 2058720,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTM5OTQsZjcyMmJlNzk0N2JhMTIzNWM3MGFkOTA1NjYxN2QzNmVkZDU0NDk3OQ==",
+  "snapshot_id": "MTQwMDEsY2ZmNDU5NzY3NjliZGUyOGZjMzMxM2M2YzhjMjI3NTg0MjhmODM0OQ==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -299,6 +299,22 @@
       "duration_ms": 121043,
       "name": "falling down",
       "url": "https://open.spotify.com/track/57eYzzXOjMO18x3otqd9MX"
+    },
+    {
+      "added_at": "2023-10-06 18:33:27",
+      "album": {
+        "name": "Love Game",
+        "url": "https://open.spotify.com/album/1vOxAb7nPrnhZDjZQmZJKO"
+      },
+      "artists": [
+        {
+          "name": "Bread Beatz",
+          "url": "https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH"
+        }
+      ],
+      "duration_ms": 125769,
+      "name": "Love Game",
+      "url": "https://open.spotify.com/track/4n81eNyWOkaxBIPrBQk0NJ"
     },
     {
       "added_at": "2023-09-06 04:03:55",
@@ -2771,6 +2787,98 @@
       "duration_ms": 112000,
       "name": "ADRENALINE",
       "url": "https://open.spotify.com/track/1cKLruLixxtrtQfqFIYzAS"
+    },
+    {
+      "added_at": "2023-10-06 04:08:28",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1t6MqiV9FpUzie576Xu5AK"
+      },
+      "artists": [
+        {
+          "name": "Dubsound",
+          "url": "https://open.spotify.com/artist/0EEKO8nxCteilleD2pOJrY"
+        },
+        {
+          "name": "Derran Day",
+          "url": "https://open.spotify.com/artist/7dexR7KkrkLCzFIVpBnKzK"
+        }
+      ],
+      "duration_ms": 177235,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/3pkEhdMXED0IYwXgGRmWrJ"
+    },
+    {
+      "added_at": "2023-10-06 04:09:05",
+      "album": {
+        "name": "REIGN",
+        "url": "https://open.spotify.com/album/57LZMbbZqzCmyTnVhhy6do"
+      },
+      "artists": [
+        {
+          "name": "hyperforms",
+          "url": "https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub"
+        }
+      ],
+      "duration_ms": 221388,
+      "name": "REIGN",
+      "url": "https://open.spotify.com/track/1I8zYJkAnemtq3Dajxib84"
+    },
+    {
+      "added_at": "2023-10-06 04:15:13",
+      "album": {
+        "name": "RESPIRAR (BREATHE)",
+        "url": "https://open.spotify.com/album/4turOwwj9RghjST4HTMwOs"
+      },
+      "artists": [
+        {
+          "name": "TOKYOSLEEP",
+          "url": "https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH"
+        }
+      ],
+      "duration_ms": 89142,
+      "name": "RESPIRAR (BREATHE)",
+      "url": "https://open.spotify.com/track/3szHg36qp6yxKHyPZAF0yD"
+    },
+    {
+      "added_at": "2023-10-06 16:06:28",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/38yUqXLMhbRkYnYT1gFS79"
+      },
+      "artists": [
+        {
+          "name": "OMAS",
+          "url": "https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK"
+        },
+        {
+          "name": "Misdom",
+          "url": "https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3aSC3RjZapfw4A8VmAkalH"
+    },
+    {
+      "added_at": "2023-10-06 16:07:08",
+      "album": {
+        "name": "All I Wanted",
+        "url": "https://open.spotify.com/album/25O3z7mmraJkbLTnxSZhFt"
+      },
+      "artists": [
+        {
+          "name": "Able Grey",
+          "url": "https://open.spotify.com/artist/6fkfeksXohRMypM9kdYjNb"
+        },
+        {
+          "name": "HASHBBC",
+          "url": "https://open.spotify.com/artist/2ev9Ox31lfCypT94W86bXp"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/0tJPh7rJi4SC09bwd2IURJ"
     }
   ],
   "unique_name": "Trap Nation",

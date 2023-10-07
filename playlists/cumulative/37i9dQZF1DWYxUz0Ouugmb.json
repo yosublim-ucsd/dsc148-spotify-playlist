@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV"
+      },
+      "artists": [
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg"
+        },
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184245,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH"
+    },
+    {
+      "album": {
         "name": "Losing Us.",
         "url": "https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC"
       },

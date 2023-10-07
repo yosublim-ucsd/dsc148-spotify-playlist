@@ -1,13 +1,41 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Tayko",
-  "num_followers": 18125,
+  "num_followers": 18148,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjllYTM3NDM1MDA4ODhmZGU2ZjFkYzFiNGJlNzAwMmZmMzE2OGQ0",
+  "snapshot_id": "MCw0YWQzMDkyMjZhYTk2NjFmNWM3NmMyYjE4MWQ1MzZkMjNlMTVjODYz",
   "tracks": [
+    {
+      "added_at": "2023-10-06 04:34:49",
+      "album": {
+        "name": "Ni\u00f1o Caos",
+        "url": "https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "El ultimo del tren",
+          "url": "https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sadman (feat. El ultimo del tren)",
+      "url": "https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY"
+    },
     {
       "added_at": "2023-09-29 05:41:00",
       "album": {
@@ -49,6 +77,30 @@
       "url": "https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA"
     },
     {
+      "added_at": "2023-10-06 04:34:49",
+      "album": {
+        "name": "T\u00fa Tienes el Son",
+        "url": "https://open.spotify.com/album/0YVNvh5zedGZ2cOmC6tD3E"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 181418,
+      "name": "T\u00fa Tienes el Son",
+      "url": "https://open.spotify.com/track/5UBSfqsnxc2GW86eHEsuA2"
+    },
+    {
       "added_at": "2023-09-29 05:41:00",
       "album": {
         "name": "Bogot\u00e1",
@@ -63,30 +115,6 @@
       "duration_ms": 201714,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/6DcedC1YjHenkutpm6X2KA"
-    },
-    {
-      "added_at": "2023-09-29 05:41:00",
-      "album": {
-        "name": "Ca\u00f1onazos Bailables Todoenuno",
-        "url": "https://open.spotify.com/album/4WbV2GwiuCHfeelumaF13s"
-      },
-      "artists": [
-        {
-          "name": "ha$lopablito",
-          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
-        },
-        {
-          "name": "Soul AM",
-          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
-        },
-        {
-          "name": "Timeless",
-          "url": "https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh"
-        }
-      ],
-      "duration_ms": 160987,
-      "name": "Pa' la Pollita",
-      "url": "https://open.spotify.com/track/19pDfu2jX4amfY2IUo4XYp"
     },
     {
       "added_at": "2023-09-29 05:41:00",
@@ -115,6 +143,54 @@
       "duration_ms": 217894,
       "name": "Palabra de Honor",
       "url": "https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5"
+    },
+    {
+      "added_at": "2023-09-29 05:41:00",
+      "album": {
+        "name": "Ca\u00f1onazos Bailables Todoenuno",
+        "url": "https://open.spotify.com/album/4WbV2GwiuCHfeelumaF13s"
+      },
+      "artists": [
+        {
+          "name": "ha$lopablito",
+          "url": "https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX"
+        },
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        },
+        {
+          "name": "Timeless",
+          "url": "https://open.spotify.com/artist/2mdGS5s5gsHF3GPIxonulh"
+        }
+      ],
+      "duration_ms": 160987,
+      "name": "Pa' la Pollita",
+      "url": "https://open.spotify.com/track/19pDfu2jX4amfY2IUo4XYp"
+    },
+    {
+      "added_at": "2023-10-06 04:34:49",
+      "album": {
+        "name": "Machete",
+        "url": "https://open.spotify.com/album/7JTbLrRG346Ipxx2PZTy4d"
+      },
+      "artists": [
+        {
+          "name": "Homie !",
+          "url": "https://open.spotify.com/artist/4c1BgObTgQqoxgky79mgQB"
+        },
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        },
+        {
+          "name": "Slay Fox",
+          "url": "https://open.spotify.com/artist/32SEdfMH0e32Gr4Ztnn27j"
+        }
+      ],
+      "duration_ms": 205944,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/0CJgHCFLmdeMMZzFCf6wU2"
     },
     {
       "added_at": "2023-09-29 05:41:00",

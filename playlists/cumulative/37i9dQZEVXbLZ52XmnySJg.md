@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-764 songs - 1 day 21 hr 43 min
+765 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Boy With Luv \(feat\. Halsey\)](https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK) | 3:49 | 2021-05-23 | 2021-07-16 |
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2021-03-27\* | 2022-09-07 |
 | [Brown Munde](https://open.spotify.com/track/1AueyZtYgEluDu54CfCSKy) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [Brown Munde](https://open.spotify.com/album/1oMXaBjbuhNXscHNV9Tefb) | 4:14 | 2022-04-27 | 2022-06-01 |
+| [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 3:31 | 2023-10-06 |  |
 | [Brown Shortie \(feat\. Sonam Bajwa\)](https://open.spotify.com/track/61gu4XQFyAfIUneEyW4EJu) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sonam Bajwa](https://open.spotify.com/artist/2SyZp7V9vbRK1crDWxy4Ds) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:28 | 2021-05-31 | 2021-06-11 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-25 | 2021-08-01 |
 | [Built Different](https://open.spotify.com/track/5tIr2cGQsj0oeqLk2tAU0L) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:07 | 2021-07-10 | 2021-07-15 |
@@ -336,7 +337,7 @@
 | [Kabhii Tumhhe](https://open.spotify.com/track/6Sflud15ff1KqBzg6wj78S) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Shershaah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5BLwx5IlfoWOrjJJ3i7gbK) | 3:50 | 2021-08-20 | 2021-08-21 |
 | [Kabhii Tumhhe \(From "Shershaah"\)](https://open.spotify.com/track/6R6BpMBFQrF7n2uEOxYmss) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Kabhii Tumhhe \(From "Shershaah"\)](https://open.spotify.com/album/71mBRICN73Ogw71kSbyKqd) | 3:50 | 2021-08-21 | 2021-12-23 |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-12-13 | 2023-06-10 |
-| [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-01-04 |  |
+| [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2023-01-04 | 2023-10-07 |
 | [Kahani Suno 2.0](https://open.spotify.com/track/3GZBBvnkM8ybEbRSKysVcp) | [T\-Series Mashup](https://open.spotify.com/artist/4qrEWUlhv3yfKoqeEv6Psw) | [Apna Bana Leee](https://open.spotify.com/album/5V65gcdhjY0wbhIJe4N6vG) | 2:53 | 2023-04-16 | 2023-04-18 |
 | [Kaise Bataaoon](https://open.spotify.com/track/2jMsqX0TfKTi24dZSSPjbo) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Sonal Chauhan](https://open.spotify.com/artist/6HQjCmn6AnJdHXSac0xPwj) | [3G \- A Killer Connection](https://open.spotify.com/album/1hEMBRWMPmYrBtvgDqGfjx) | 4:41 | 2022-06-02 | 2022-06-07 |
 | [Kaise Hua \(From "Kabir Singh"\)](https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kaise Hua \(From "Kabir Singh"\)](https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS) | 3:54 | 2021-05-03 | 2023-09-30 |

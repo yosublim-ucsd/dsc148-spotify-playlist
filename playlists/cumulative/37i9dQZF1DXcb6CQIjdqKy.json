@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:6eJqAWJdd8JhAN1pQGie4r\">Casting Crowns</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -158,6 +158,40 @@
       "duration_ms": 375735,
       "name": "Acts 2",
       "url": "https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "album": {
@@ -1096,7 +1130,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 348866,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/7AR9lcmp2YH1eYhpSHB2Pz"
@@ -1194,7 +1228,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 316831,
       "name": "Broken Together",
       "url": "https://open.spotify.com/track/5G68h6auJnlAPYu6t1LvJS"
@@ -1278,6 +1312,24 @@
       "duration_ms": 278949,
       "name": "By Your Spirit",
       "url": "https://open.spotify.com/track/3ovxoxGOrctXFXhDECSNBL"
+    },
+    {
+      "album": {
+        "name": "Calvary's Enough",
+        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197689,
+      "name": "Calvary's Enough",
+      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
     },
     {
       "album": {
@@ -2376,7 +2428,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 262467,
       "name": "Fear Of God",
       "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
@@ -4092,7 +4144,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 235651,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
@@ -5188,6 +5240,24 @@
       "duration_ms": 233766,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M"
     },
     {
       "album": {
@@ -7416,7 +7486,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 207960,
       "name": "Needs",
       "url": "https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1"
@@ -7722,7 +7792,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 180951,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0Yn9fiLvJbcGpDmZXfTJT5"
@@ -7882,6 +7952,24 @@
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
+    },
+    {
+      "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/6n4QvqihviyFYmg4fOVzel"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154418,
+      "name": "One Of The Found",
+      "url": "https://open.spotify.com/track/1ybsUNK8ssRuDGHXkrlzrz"
     },
     {
       "album": {
@@ -11009,6 +11097,24 @@
     },
     {
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "album": {
         "name": "Breakthrough: The Exodus (Live)",
         "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
       },
@@ -11376,7 +11482,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 213912,
       "name": "Turbulent Skies",
       "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
@@ -12414,10 +12520,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 236261,
       "name": "You Changed My Name",
       "url": "https://open.spotify.com/track/5DMb7E6IvIs1fdtgvaRqCL"
+    },
+    {
+      "album": {
+        "name": "You Changed My Name",
+        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236261,
+      "name": "You Changed My Name",
+      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
     },
     {
       "album": {

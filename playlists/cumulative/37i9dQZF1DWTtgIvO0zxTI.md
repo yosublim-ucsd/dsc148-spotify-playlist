@@ -4,7 +4,7 @@
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Itzza Primera
 
-134 songs - 7 hr 13 min
+135 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-02-02 |  |
 | [Cuando Quieras \- Remix](https://open.spotify.com/track/2Le3wJyr5NDDEhYIll7GLj) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:56 | 2022-03-11 | 2022-07-08 |
 | [Cuchi](https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU), [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc) | [Cuchi](https://open.spotify.com/album/3smXUWOg26SSZj907yXF2Z) | 2:38 | 2023-04-21 |  |
-| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 |  |
+| [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 | 2023-10-07 |
 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 | 2022-04-22 | 2023-04-22 |
 | [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 |  |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-07-28 | 2023-08-12 |
@@ -103,6 +103,7 @@
 | [Orilla](https://open.spotify.com/track/59b7OCoDnL1r6JhUCcNrr7) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Orilla](https://open.spotify.com/album/7kp7K3pDWv9sj95dLONEdy) | 3:29 | 2022-03-11 | 2022-12-24 |
 | [Otra Botella](https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe) | [Victor & Gabo](https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx), [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [Otra Botella](https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3) | 2:46 | 2022-03-11 | 2023-03-18 |
 | [Pal Cara](https://open.spotify.com/track/3sF3aJWl0tVITCSuuL9Uun) | [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Pal Cara](https://open.spotify.com/album/1jkTWmdZURPAMZdkKZ6Wyz) | 3:15 | 2022-03-11 | 2022-12-24 |
+| [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 | 2023-10-06 |  |
 | [Perro Mujeriego](https://open.spotify.com/track/15OhHg83LlzFVzJjzKqI6y) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu) | [Perro Mujeriego](https://open.spotify.com/album/6U4odtZ8h1Hdlku9bXNOe0) | 2:54 | 2022-06-10 | 2022-09-10 |
 | [Prendía](https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Prendía](https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR) | 4:28 | 2022-07-08 |  |
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-04-08 | 2022-10-22 |

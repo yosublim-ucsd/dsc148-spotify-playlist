@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: John Coltrane & Eric Dolphy",
-  "num_followers": 7961,
+  "num_followers": 7989,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWYzYjI1OTlmNjY0OTY0YzNiMGZhODZiNmQ4MjBkMjdhNGU4ZTNi",
+  "snapshot_id": "MCwwNzM5YzM0NmNlNjg0NmRjMDY0ODgwMDlhMTg0YWNhZjVlZDM0M2I3",
   "tracks": [
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "I Could Write a Book (Live)",
+        "url": "https://open.spotify.com/album/0OHbrzksuN7cmKja6RzzRN"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 458458,
+      "name": "I Could Write a Book - Live",
+      "url": "https://open.spotify.com/track/6Z6pduayBS4ntLNvIXOTdx"
+    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -1119,22 +1135,6 @@
       "duration_ms": 1230080,
       "name": "The Endless Night - Live",
       "url": "https://open.spotify.com/track/7Lwmhzh3C8Db4PQT9lyWcv"
-    },
-    {
-      "added_at": "2021-11-26 05:01:00",
-      "album": {
-        "name": "A Time for Love: The Oscar Peterson Quartet Live in Helsinki, 1987",
-        "url": "https://open.spotify.com/album/6y4YWMECoholhbDJbmdyVB"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 417683,
-      "name": "Sushi - Live",
-      "url": "https://open.spotify.com/track/1CxKRbMw4QcrAqAj4F78x7"
     },
     {
       "added_at": "2021-11-12 05:14:12",

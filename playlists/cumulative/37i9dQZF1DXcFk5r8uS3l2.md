@@ -4,13 +4,14 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-324 songs - 20 hr 22 min
+326 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
 | [4 Edward](https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [4 Edward](https://open.spotify.com/album/53J3ZGvVMa4Jwq0abT24iv) | 1:43 | 2021-12-17 | 2023-03-11 |
 | [500 Miles](https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [500 Miles](https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg) | 3:30 | 2023-01-20 | 2023-03-27 |
-| [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 | 2023-02-03 |  |
+| [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 | 2023-02-03 | 2023-10-07 |
 | [61 South](https://open.spotify.com/track/1NG0CP8midHLl5rvXfx2MA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [61 South](https://open.spotify.com/album/20rYQgHGiV23Mhz6TCfJRy) | 1:20 | 2022-12-16 | 2023-01-06 |
 | [99 Ways](https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Flang Dang](https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36) | 3:38 | 2023-04-07 |  |
 | [A Thousand Heartaches](https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc) | 5:00 | 2023-03-10 | 2023-03-20 |
@@ -23,6 +24,7 @@
 | [All on Me](https://open.spotify.com/track/01AQQxjgUOsRJGiif0rzNj) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [All on Me](https://open.spotify.com/album/2UzbI0MwhBpd9DyIC62qk2) | 3:49 | 2022-07-22 | 2022-08-31 |
 | [All Our Love](https://open.spotify.com/track/4sImthKyvzr2Rhp0vaB9SJ) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [All Our Love](https://open.spotify.com/album/6bH8vw3t4PRGqq9PdXLvJR) | 4:29 | 2022-05-20 | 2022-06-11 |
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 | 2023-02-25 |
+| [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 | 2023-10-06 |  |
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 | 2022-06-11 |
 | [Baby What You Do](https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:52 | 2023-06-23 |  |
@@ -114,7 +116,7 @@
 | [Have a Ball](https://open.spotify.com/track/46I1B1wc6YddZzK50swoSD) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw) | 2:24 | 2022-05-06 |  |
 | [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2022-06-11 |
 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 | 2023-04-09 |
-| [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 |  |
+| [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2023-10-07 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
 | [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 | 2022-10-22 |
 | [Her Song](https://open.spotify.com/track/0zwqiSwBs0pzOsRrwjQedc) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Mama Rosa](https://open.spotify.com/album/68lPlEz1PvticlwgS0aznV) | 5:26 | 2023-04-28 |  |

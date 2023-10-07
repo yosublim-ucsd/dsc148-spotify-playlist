@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Mall Grab
 
-423 songs - 1 day 7 hr 4 min
+424 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Piano Heaven](https://open.spotify.com/track/3d9kTlmQovWE7sNxuNMxEI) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Musique for Discothèques](https://open.spotify.com/album/0KnoZ3mKyveI7fykzUqqFy) | 6:44 | 2023-06-16 | 2023-07-08 |
 | [Pico \(Edit\)](https://open.spotify.com/track/2ZDYmapd2u8Pxu65JFpKS0) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Pico](https://open.spotify.com/album/4i9m5FL5m5sVqKlV0UV619) | 3:29 | 2023-06-29 | 2023-09-29 |
 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 | 2023-08-11 | 2023-10-06 |
+| [POH \(Point of Hue\)](https://open.spotify.com/track/3A4Ond3OwEGCIp7TYarWbv) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Point of Hue](https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF) | 6:08 | 2023-10-05 |  |
 | [porchless](https://open.spotify.com/track/1qMcxHTTYMaMxZ8gbIAZQD) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [porchless](https://open.spotify.com/album/2iYFrs9Qg4A7KiWopSOJyO) | 2:58 | 2023-10-05 |  |
 | [Possibly Impossible \- Crackazat Dub](https://open.spotify.com/track/3k5kxMx9RK7QD7s3AikyH9) | [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Possibly Impossible \(Crackazat Dub\)](https://open.spotify.com/album/1ZDeFy4AD01pj0daI9fwsB) | 5:08 | 2023-03-16 | 2023-04-09 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-25 | 2023-09-22 |

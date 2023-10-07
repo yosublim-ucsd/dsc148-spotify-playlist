@@ -4,7 +4,7 @@
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of classical music.
 
-254 songs - 1 day 4 hr 33 min
+255 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Etude No\. 2](https://open.spotify.com/track/5bi8ryL6gy6a1BRXOf43y9) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Etudes for Piano Vol 1 No\. 1\-10](https://open.spotify.com/album/5Ya7ft5JteI5pIS4eCMKOC) | 4:55 | 2021-09-27 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2021-09-27 |  |
 | [Goldberg Variations, BWV 988: Aria da capo](https://open.spotify.com/track/1aTpzY2ggWHhPi8p2f56u1) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [A State of Wonder: The Complete Goldberg Variations, BWV 988 \(Recorded 1955 & 1981\)](https://open.spotify.com/album/6RkddyAzYq3QNZqdAhxPxF) | 3:44 | 2021-09-27 |  |
+| [Goldberg Variations, BWV 988: Var\. 21](https://open.spotify.com/track/7emUlba3ePOU0zfv85HGNu) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations](https://open.spotify.com/album/5kBtLULy6vMwjFRSSEEIjP) | 3:15 | 2023-10-06 |  |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/0SFeEtT7B12lgXWn09gCef) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Study Classics: Bach](https://open.spotify.com/album/1ixqeGQw9jJBjkzT9YTMc8) | 2:20 | 2022-09-20 | 2022-11-14 |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/1ENZ1YHuOp5MMFJlWBQ6V7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Deluxe Edt\. Studio + Live\)](https://open.spotify.com/album/70uK1xeiYicJZPFNkhfIdk) | 2:20 | 2021-09-27 | 2022-07-29 |
 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 | 2022-01-24 |  |

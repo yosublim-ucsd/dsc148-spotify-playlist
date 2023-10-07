@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414,240 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,414,712 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 102 | [Imagination \- Tiësto Radio Edit](https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Disconnect \(Platinum Edition\)](https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y) | 3:45 |
 | 103 | [Only One \(Radio Edit\)](https://open.spotify.com/track/1Dj7hbBEco5ZT0DqY7Q2IV) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:40 |
 | 104 | [Shadows \- Inpetto Edit](https://open.spotify.com/track/2jAbU8zHsqLDxAAgTdDHbE) | [Those Usual Suspects](https://open.spotify.com/artist/2z9nslAMP8sKqqFW9aOMK6), [Inpetto](https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM) | [Shadows](https://open.spotify.com/album/09Lz1igaXeJcRnyuV4mBnA) | 3:22 |
-| 105 | [Toys Are Nuts \- Hardwell & Rehab Remix](https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F) | [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Toys Are Nuts Remixes](https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx) | 5:06 |
-| 106 | [Feel Your Love](https://open.spotify.com/track/1fmz46ZLovDBxPaKVUsHws) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/1aaCqas2We3usilkGFucZN) | 3:20 |
+| 105 | [Feel Your Love](https://open.spotify.com/track/1fmz46ZLovDBxPaKVUsHws) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/1aaCqas2We3usilkGFucZN) | 3:20 |
+| 106 | [Toys Are Nuts \- Hardwell & Rehab Remix](https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F) | [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Toys Are Nuts Remixes](https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx) | 5:06 |
 | 107 | [Everything](https://open.spotify.com/track/4x5Y9ORUjOQs5JZk2uJ9bN) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 4:52 |
 | 108 | [Deep At Night \(Adam K & Soha Radio Mix\)](https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS) | [Ercola](https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV), [Heikki L](https://open.spotify.com/artist/6H20zr0kwfiOnvem0vxQai) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 3:39 |
 | 109 | [I Found U \- Remode Radio Edit](https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8) | 2:51 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Chemistry \- Radio Edit](https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe) | [Velvet](https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z) | [Chemistry](https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q) | 3:44 |
 | 120 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 
-Snapshot ID: `MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx`
+Snapshot ID: `MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz`

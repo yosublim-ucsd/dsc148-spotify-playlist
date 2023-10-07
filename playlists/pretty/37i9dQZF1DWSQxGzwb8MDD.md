@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,967 likes - 97 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,992 likes - 97 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 16 | [Rhythmic Trip \- Angel D'lite Remix](https://open.spotify.com/track/5nqBX4nqt2RlrgGWFtKp0g) | [Local Group](https://open.spotify.com/artist/7JwBRX0muY9ZBgFU0xbwJV), [Angel D'lite](https://open.spotify.com/artist/3hTukG4F04etkdZSQBsPOf) | [Rhythmic Trip \(Angel D'lite Remix\)](https://open.spotify.com/album/5tXINKkPDmNwIv42KTYcCy) | 6:41 |
 | 17 | [Ghetto Blaster \- Polo Lilli Remix](https://open.spotify.com/track/3Has3lOKGKKPaJ2dCDpJoI) | [We Rob Rave](https://open.spotify.com/artist/07T2LN73w52V8GBfEEcWKL), [POLO LILLI](https://open.spotify.com/artist/5sItl2MOfjVo4dvbwB0Fvg) | [SSBB006](https://open.spotify.com/album/5jL3oqUBbPtXylT6SvS529) | 3:48 |
 | 18 | [Vector Space](https://open.spotify.com/track/45MD2F7394jkD0Xz7Z7o9T) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Granulate / Vector Space](https://open.spotify.com/album/7viAxzkIbvatdubwRcNp2m) | 5:28 |
-| 19 | [Typhoon](https://open.spotify.com/track/3ZcidprKzmMNU67RAypHT1) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/6047cf59Pii53bOog79jGy) | 5:52 |
-| 20 | [Ashdown](https://open.spotify.com/track/2xYIeuxT61aKcnOF7qfOwv) | [Parry](https://open.spotify.com/artist/0DurzWdRFrqasF7beb1vDw) | [Ashdown / Wren](https://open.spotify.com/album/3PJgwXgQXJOll8twCjP2xW) | 5:37 |
+| 19 | [Typhoon](https://open.spotify.com/track/0PtQpQc3C5DNOL3FvFFb3W) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/7zo2ZND2lKcPorkDnlY2dW) | 5:52 |
+| 20 | [Ashdown](https://open.spotify.com/track/5Mitmoyr624RkFiR6jfGU4) | [Parry](https://open.spotify.com/artist/0DurzWdRFrqasF7beb1vDw) | [Ashdown / Wren](https://open.spotify.com/album/6iEk3i6n1y21wtNtwwEPnu) | 5:37 |
 | 21 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 |
 | 22 | [Drugs Work](https://open.spotify.com/track/4qm1KLxVgCxvsFLiMbiLKW) | [System 01](https://open.spotify.com/artist/1Jyx3m6ShqmMaXl0yL7PKS) | [System 01 1990​\-​1994](https://open.spotify.com/album/1X41ti1sG3MSX93tBO8Wdo) | 4:42 |
 | 23 | [Laika](https://open.spotify.com/track/4YgILysYNihBtQQvZTbRhZ) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Laika](https://open.spotify.com/album/4FsZl3J54LTP2vlWSPAofH) | 7:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 96 | [London Acid City \- Jon The Dentist Remix](https://open.spotify.com/track/1zmL3Dvul0H0oWpGqAsjhu) | [Lochi](https://open.spotify.com/artist/1qQpYZpMvEWgEE1p79uSPY), [Jon the Dentist](https://open.spotify.com/artist/1ZeqWDCum0uyQ80gnmtKBY) | [London Acid City](https://open.spotify.com/album/4QvrkXdSyR0j3FcgkkuTls) | 7:34 |
 | 97 | [Yes \- Remastered](https://open.spotify.com/track/5zhFBeXP6RjaqF8t5nWJPz) | [Mario De Bellis](https://open.spotify.com/artist/3nXiQWYpv6vWZERJbvYEg4) | [Yes](https://open.spotify.com/album/3JiFYykOsAqWy0UfLasmEg) | 8:25 |
 
-Snapshot ID: `MCw4MGFhZTBlNTM0MjFjYTgyYmJjNDMzYTE5OTZjNTA5ZmRkYjY1OWVm`
+Snapshot ID: `MCxlNThiYmY3ZTZhZjY5MmQ0OGFlMzI5YWJiOTZlYWU1YTMyOGM5ODYy`

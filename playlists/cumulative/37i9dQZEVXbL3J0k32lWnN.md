@@ -4,10 +4,11 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,228 songs - 2 day 16 hr 6 min
+1,229 songs - 2 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$$$ lykke](https://open.spotify.com/track/3ru87DTbCiwmjO1hjH8OcD) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [$$$ lykke](https://open.spotify.com/album/6QUG9cuQAxOXkyOgJFQuKN) | 1:53 | 2023-10-06 |  |
 | [+45 1888](https://open.spotify.com/track/3Pj6gzNBqFGI9Z1d9awvU2) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:50 | 2023-02-11 | 2023-04-07 |
 | [00'er Pige](https://open.spotify.com/track/5GDjJI8Fr1pAb5fXrJQppv) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx) | [00'er Pige](https://open.spotify.com/album/5RqOrrPiSZJE9ufD5WUQp4) | 2:16 | 2023-06-02 | 2023-09-19 |
 | [03:15 \(feat\. KESI\)](https://open.spotify.com/track/1d0qTcufwr0b58PQj3ezAN) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:31 | 2022-09-03 | 2022-09-11 |
@@ -667,7 +668,7 @@
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-17 | 2021-10-18 |
 | [Lev Mette](https://open.spotify.com/track/3aCZ0tvIQIdR8sGuxW0gKp) | [ADHD](https://open.spotify.com/artist/3pVeFlyhwHatDeau2SQyPH) | [Lev Mette](https://open.spotify.com/album/4OWbLUUKanc8Xi01tDcGJJ) | 2:28 | 2021-11-10 | 2021-11-19 |
 | [Leve Med Hinanden \(Artigeardit, FRAADS\)](https://open.spotify.com/track/77hInD6XLZPiVIeIvo4nPl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 2:57 | 2021-05-30 | 2021-05-31 |
-| [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-23 |  |
+| [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-23 | 2023-10-07 |
 | [Lever Nu \(feat\. Benny Jamz & KESI\)](https://open.spotify.com/track/0Mp8BxI5LrCRLvGA0a2Q0k) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 3:40 | 2022-10-18 | 2022-10-23 |
 | [Lever Nu \(feat\. Benny Jamz & KESI\)](https://open.spotify.com/track/5pOPYCbGwjugeCAzHzP2wG) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 3:40 | 2022-10-15 | 2022-10-19 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-03-27\* | 2021-08-31 |

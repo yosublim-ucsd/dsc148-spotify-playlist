@@ -1,0 +1,858 @@
+{
+  "description": "Listen to the soundtracks of the Twinkle Watermelon. (\ubc18\uc9dd\uc774\ub294 \uc6cc\ud130\uba5c\ub860\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "num_followers": 13,
+  "original_name": "\ubc18\uc9dd\uc774\ub294 \uc6cc\ud130\uba5c\ub860(Twinkle Watermelon)",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MCwxMzVhZjRmYTZkOTc0NDZlYjcyZjMxODljMGY1ZDJlMTgxNGJiNDNl",
+  "tracks": [
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "TwinkIing Watermelon (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "duration_ms": 234552,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/2rZ9DFCQ1BvqGhEpwZY4xU"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/035OFeGZ4rbCEqka7vGqUH"
+      },
+      "artists": [
+        {
+          "name": "JU-NE",
+          "url": "https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/3AO9Av55YyTGwCQM4ckIfm"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud55c\uacb8",
+          "url": "https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ"
+        }
+      ],
+      "duration_ms": 210919,
+      "name": "SHINING",
+      "url": "https://open.spotify.com/track/3paqBku7R2cpFcFgEWPjjV"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV"
+      },
+      "artists": [
+        {
+          "name": "RP",
+          "url": "https://open.spotify.com/artist/4FfXQphip6MyunLxtKWM4L"
+        }
+      ],
+      "duration_ms": 274148,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6qsC0eTGIDIjPduhKTtCM4"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon audio liners",
+        "url": "https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf"
+      },
+      "artists": [
+        {
+          "name": "Twinkling Watermelon",
+          "url": "https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV"
+        }
+      ],
+      "duration_ms": 18250,
+      "name": "01 Curated by Choi Hyun Wook",
+      "url": "https://open.spotify.com/track/7mELfCS8kSNYXGyLLiDFoK"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Made in Heaven (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "I Was Born To Love You - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1CKo7tzWiPzIGXc28DrABh"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Greatest Hits: God's Favorite Band",
+        "url": "https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Happy Death Day",
+        "url": "https://open.spotify.com/album/3EWs6Dzq1O019JKq9A72KC"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220396,
+      "name": "Happy Death Day",
+      "url": "https://open.spotify.com/track/5tFkeXbut9UEYCRO6ngFb6"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Stand Up Again!",
+        "url": "https://open.spotify.com/album/2qO7VvHG10c8nBPsiH1Va3"
+      },
+      "artists": [
+        {
+          "name": "No Brain",
+          "url": "https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "\ub10c \ub0b4\uac8c \ubc18\ud588\uc5b4",
+      "url": "https://open.spotify.com/track/1Bjds5pJTvgzlheWp1oHGo"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\ud558\uc218\uc5f0\uac00 Poor Hand Love Song",
+        "url": "https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M"
+      },
+      "artists": [
+        {
+          "name": "CRYING NUT",
+          "url": "https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "\u1107\u1161\u11b7\u110b\u1175 \u1100\u1175\u11c1\u110b\u1165\u11bb\u1102\u1166 Oh! What a Shiny Night",
+      "url": "https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 191638,
+      "name": "Love Of My Life",
+      "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon audio liners",
+        "url": "https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf"
+      },
+      "artists": [
+        {
+          "name": "Twinkling Watermelon",
+          "url": "https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV"
+        }
+      ],
+      "duration_ms": 26000,
+      "name": "02 Curated by Ryeoun",
+      "url": "https://open.spotify.com/track/67H3Ir9Pw6KvAD7ElpYJnJ"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Time to Shine",
+        "url": "https://open.spotify.com/album/6Smoxllzq1IoD6J11YAEb3"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/3uWMfe3rWSwQZT4yAgGJhH"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "As You Wish",
+        "url": "https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "As You Wish",
+      "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "STILL ON MY WAY",
+        "url": "https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC"
+      },
+      "artists": [
+        {
+          "name": "TRENDZ",
+          "url": "https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "MY WAY",
+      "url": "https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Unlock My World",
+        "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "#menow",
+      "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/5MO48BnK6X9VlYtFHpJtvy"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/3rmpG6Vtgt3L7aLhbk5RKv"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Kidult",
+      "url": "https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Letters with notes",
+        "url": "https://open.spotify.com/album/5eOVVp7IQsGYgYQsVKn74P"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Bungee Jumping",
+      "url": "https://open.spotify.com/track/5ut944YRKJFleyX9ztJud0"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon audio liners",
+        "url": "https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf"
+      },
+      "artists": [
+        {
+          "name": "Twinkling Watermelon",
+          "url": "https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV"
+        }
+      ],
+      "duration_ms": 19750,
+      "name": "03 Curated by Seol In A",
+      "url": "https://open.spotify.com/track/6xWJWEoGjOpM7EKwvNFM9m"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "NCT RESONANCE Pt. 2 - The 2nd Album",
+        "url": "https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "90's Love",
+      "url": "https://open.spotify.com/track/64EDGnUytmCV7TfOo67810"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "BOYHOOD",
+        "url": "https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg"
+      },
+      "artists": [
+        {
+          "name": "THE NEW SIX",
+          "url": "https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ"
+        }
+      ],
+      "duration_ms": 175533,
+      "name": "Kick It 4 Now",
+      "url": "https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "VERI-US",
+        "url": "https://open.spotify.com/album/0Lztj1OhIc36IZ72Tefv9i"
+      },
+      "artists": [
+        {
+          "name": "VERIVERY",
+          "url": "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "SUMMER LOVE\u2026",
+        "url": "https://open.spotify.com/album/08PiCTIK798erEd7joIO7d"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "duration_ms": 250004,
+      "name": "SUMMER LOVE\u2026",
+      "url": "https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250951,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\ub110 \uc88b\uc544\ud558\uace0 \uc788\uc5b4 I'm Into You",
+        "url": "https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Kirin",
+          "url": "https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc"
+        },
+        {
+          "name": "Dala",
+          "url": "https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg"
+        },
+        {
+          "name": "Jungu",
+          "url": "https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX"
+        }
+      ],
+      "duration_ms": 273078,
+      "name": "\ub110 \uc88b\uc544\ud558\uace0 \uc788\uc5b4 I'm Into You (with. Kirin, Dala, Jungu)",
+      "url": "https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Hello - Special Album",
+        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Be There For You",
+      "url": "https://open.spotify.com/track/2lwOE4xj0tw2Bpjc6wmzUP"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "1 of 1 - The 5th Album",
+        "url": "https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 203884,
+      "name": "1 of 1",
+      "url": "https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Elevator",
+        "url": "https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233050,
+      "name": "Last night story",
+      "url": "https://open.spotify.com/track/0EOWckhigz9Fd2qS5Foiqh"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon audio liners",
+        "url": "https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf"
+      },
+      "artists": [
+        {
+          "name": "Twinkling Watermelon",
+          "url": "https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV"
+        }
+      ],
+      "duration_ms": 30000,
+      "name": "04 Curated by Shin Eun Soo",
+      "url": "https://open.spotify.com/track/0qaA8uhfAjSzVGClXEXoNx"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "White night",
+        "url": "https://open.spotify.com/album/2Fqe1wd9tWMAWNye43ZZKW"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 217651,
+      "name": "White night",
+      "url": "https://open.spotify.com/track/7oSP7hAMuF1R31jp8HnkfH"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\uc790\ud654\uc0c1 Self-portrait",
+        "url": "https://open.spotify.com/album/0CKmXyUm0GHH496rSiwoZ5"
+      },
+      "artists": [
+        {
+          "name": "Hwang Puha",
+          "url": "https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn"
+        }
+      ],
+      "duration_ms": 219481,
+      "name": "\uc790\ud654\uc0c1 Self-portrait",
+      "url": "https://open.spotify.com/track/1UxVXBtpZVco08VOWZYrrP"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Young People",
+        "url": "https://open.spotify.com/album/43zNltkOoAtTJ2b2cW3qsy"
+      },
+      "artists": [
+        {
+          "name": "YUHA",
+          "url": "https://open.spotify.com/artist/0V5aoKUjW7fQCHjZfE8gx1"
+        }
+      ],
+      "duration_ms": 313625,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0zy4nBsdQrM4iUfw4WmQpV"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+      },
+      "artists": [
+        {
+          "name": "\uae40\uc218\uc601 Kim Suyoung",
+          "url": "https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4R6IcLYiRJavA9oF2YyAR6"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/4nikDvQnK0eyJNzT6K27NG"
+      },
+      "artists": [
+        {
+          "name": "Jang Deulre",
+          "url": "https://open.spotify.com/artist/2aAuahg5qh1pmRDQtdZ0lR"
+        }
+      ],
+      "duration_ms": 194720,
+      "name": "\ud5e4\uc5c4 SWIMMING",
+      "url": "https://open.spotify.com/track/3W5xa1hE0e3IXNy3rwrTkh"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "So life goes on",
+        "url": "https://open.spotify.com/album/3r8ikIUe63N5vhmqzqzi36"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 194633,
+      "name": "So life goes on",
+      "url": "https://open.spotify.com/track/046Gh1kXtPynYPaKep5M8E"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "\uc77c\uae30",
+        "url": "https://open.spotify.com/album/4xZ9zHI2Z36YEkbNeSFJHZ"
+      },
+      "artists": [
+        {
+          "name": "Park So Eun",
+          "url": "https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG"
+        }
+      ],
+      "duration_ms": 303911,
+      "name": "\uc77c\uae30",
+      "url": "https://open.spotify.com/track/6FPvHr4oLddJr6fpNqo6S0"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Bud Days",
+        "url": "https://open.spotify.com/album/662gYS4pSmeuLB5W480r1F"
+      },
+      "artists": [
+        {
+          "name": "Heo JeongHyuk",
+          "url": "https://open.spotify.com/artist/4FrCzBGjInYknXtQtTGUkb"
+        }
+      ],
+      "duration_ms": 209314,
+      "name": "I Am Here",
+      "url": "https://open.spotify.com/track/37ULQCrAcTUhmHwn8Dh5CF"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Aside",
+        "url": "https://open.spotify.com/album/3b52MvqG2zClRIomUl9g7j"
+      },
+      "artists": [
+        {
+          "name": "KIM YEO MYUNG",
+          "url": "https://open.spotify.com/artist/75Smk0h9bJWZsODXdTKMvP"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/0szzXpjSNDfNOewFpe2JsT"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "TwinkIing Watermelon (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "duration_ms": 234552,
+      "name": "A Song For You - Instrumental",
+      "url": "https://open.spotify.com/track/1nhPQPqx3hCMetweBmcIpG"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/035OFeGZ4rbCEqka7vGqUH"
+      },
+      "artists": [
+        {
+          "name": "JU-NE",
+          "url": "https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "HIGHER - Instrumental",
+      "url": "https://open.spotify.com/track/7hgbJnXU9hgaYblX35yr3O"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k"
+      },
+      "artists": [
+        {
+          "name": "\uae40\ud55c\uacb8",
+          "url": "https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ"
+        }
+      ],
+      "duration_ms": 210919,
+      "name": "SHINING - Instrumental",
+      "url": "https://open.spotify.com/track/2Pc8vftGWCrP4nL8CtMV7r"
+    },
+    {
+      "added_at": "2023-10-06 14:15:44",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV"
+      },
+      "artists": [
+        {
+          "name": "RP",
+          "url": "https://open.spotify.com/artist/4FfXQphip6MyunLxtKWM4L"
+        }
+      ],
+      "duration_ms": 274148,
+      "name": "Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/5ahMx9l7YzVICKv07dLtfH"
+    }
+  ],
+  "unique_name": "\ubc18\uc9dd\uc774\ub294 \uc6cc\ud130\uba5c\ub860(Twinkle Watermelon)",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXb87XV8ITnbK"
+}

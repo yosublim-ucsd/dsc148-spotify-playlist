@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "1500 Shawty",
+        "url": "https://open.spotify.com/album/2l7bKq7tXeprSdqjnbGFUh"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124661,
+      "name": "1500 Shawty",
+      "url": "https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT"
+    },
+    {
+      "album": {
         "name": "2 Mins of Pain (feat. Alborosie)",
         "url": "https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx"
       },
@@ -4810,7 +4828,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 150424,
       "name": "FIGURE IT OUT",
       "url": "https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd"
@@ -7251,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "ICEY",
+        "url": "https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131422,
+      "name": "ICEY",
+      "url": "https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE"
+    },
+    {
+      "album": {
         "name": "LOVE BLACK",
         "url": "https://open.spotify.com/album/6dWVFLZm0CPA2mxsvRd8RA"
       },
@@ -7759,6 +7795,24 @@
     },
     {
       "album": {
+        "name": "Just In Time",
+        "url": "https://open.spotify.com/album/5gKEIPtqlPK7WWOEUdB6W9"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134522,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt"
+    },
+    {
+      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/1sbizSerYAgDqpFUAgCTQP"
       },
@@ -7850,6 +7904,28 @@
       "duration_ms": 117000,
       "name": "KAPITOL DENIM",
       "url": "https://open.spotify.com/track/2P1oNlBGmFudn3ZyUrj7hJ"
+    },
+    {
+      "album": {
+        "name": "Karma (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/3aPhYdYEo8CWIiotS0Vilo"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180764,
+      "name": "Karma (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/3kfDCacVarF4H8xKsFDGrq"
     },
     {
       "album": {
@@ -12350,7 +12426,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169736,
       "name": "Rump (feat. Chow Lee)",
       "url": "https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A"
@@ -12488,7 +12564,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 165431,
       "name": "Sad & Alone",
       "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
@@ -15796,6 +15872,24 @@
       "duration_ms": 135392,
       "name": "You > Them (Hate It!)",
       "url": "https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9"
+    },
+    {
+      "album": {
+        "name": "You Is Not Havin",
+        "url": "https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa"
+      },
+      "artists": [
+        {
+          "name": "Lil Kari",
+          "url": "https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132519,
+      "name": "You Is Not Havin",
+      "url": "https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF"
     },
     {
       "album": {

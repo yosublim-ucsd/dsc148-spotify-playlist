@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB?si=twrHoistSyCXR_vEqpoapg\"> D-Black</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=cfLh9-xbSXyIsuwsJr5hYA\"> Jay Bahd</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1376,6 +1376,28 @@
     {
       "album": {
         "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182442,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
+    },
+    {
+      "album": {
+        "name": "Eyes on You",
         "url": "https://open.spotify.com/album/7Gjb0f3QkmRWqDl09pB9GM"
       },
       "artists": [
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/7LBytJhdE0ntt1eAXEiehP"
@@ -2496,6 +2518,32 @@
       "duration_ms": 198362,
       "name": "Mapuka",
       "url": "https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC"
+    },
+    {
+      "album": {
+        "name": "Masesa",
+        "url": "https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Masesa",
+      "url": "https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE"
     },
     {
       "album": {

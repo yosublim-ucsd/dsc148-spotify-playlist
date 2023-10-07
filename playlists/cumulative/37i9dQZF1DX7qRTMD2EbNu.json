@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=DXRQ6FTcTSuPFdlgfyW2yA\"> Ko-Jo Cue </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=SedkyL7vRY2mNGxi-pAzgw\"> Medikal </a> ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -682,6 +682,28 @@
       "duration_ms": 168000,
       "name": "Balance",
       "url": "https://open.spotify.com/track/27mYifEdhLkO5QyHf9JDnt"
+    },
+    {
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/5kcBkleDp2ajk9SknSxZo9"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190394,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR"
     },
     {
       "album": {

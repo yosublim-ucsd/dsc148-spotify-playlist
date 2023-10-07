@@ -11906,10 +11906,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 248533,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/6v6TnpusHVcVTiIpLXQU1m"
+    },
+    {
+      "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/4ItxYoE7OV3dGs7xswvnCx"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/7MF2sZdu9QmAe9ABVjE5Y3"
     },
     {
       "album": {
@@ -14362,6 +14380,28 @@
       "duration_ms": 214578,
       "name": "Just the Kinda Feeling",
       "url": "https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI"
+    },
+    {
+      "album": {
+        "name": "Justin's Song (Timmy Trumpet Remix)",
+        "url": "https://open.spotify.com/album/40E6dR5x46LZzciWdJvde8"
+      },
+      "artists": [
+        {
+          "name": "Riotron",
+          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Justin's Song (Timmy Trumpet Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/5dcnXBFUWfuWL5GhMAysgj"
     },
     {
       "album": {
@@ -26199,28 +26239,6 @@
     },
     {
       "album": {
-        "name": "Justin's Song (Timmy Trumpet Remix)",
-        "url": "https://open.spotify.com/album/40E6dR5x46LZzciWdJvde8"
-      },
-      "artists": [
-        {
-          "name": "Riotron",
-          "url": "https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163500,
-      "name": "Take a Look (Timmy Trumpet Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/5dcnXBFUWfuWL5GhMAysgj"
-    },
-    {
-      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/4MjxcAxrsFXIhwGGw4QsJ3"
       },
@@ -26484,6 +26502,28 @@
       "duration_ms": 152119,
       "name": "Tears",
       "url": "https://open.spotify.com/track/7Iu7FqxULIJaO5mIJNmREp"
+    },
+    {
+      "album": {
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/0pMzkM2vW0PF5o3gPRK2ha"
+      },
+      "artists": [
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        },
+        {
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/7vNo4R4tN5dQmexJ3YxB8m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/56ZNwbRyLVDwcf3nUzXwUX"
     },
     {
       "album": {

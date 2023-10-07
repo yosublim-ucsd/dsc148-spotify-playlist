@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"spotify:artist:4eIjSDb64R18sJaNlOGaFH\">James Fortune<a> ",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans<a> ",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 133500,
       "name": "Abba",
       "url": "https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC"
+    },
+    {
+      "album": {
+        "name": "Generations",
+        "url": "https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7"
+      },
+      "artists": [
+        {
+          "name": "Every Nation Music",
+          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270957,
+      "name": "Abide In You - Live",
+      "url": "https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI"
     },
     {
       "album": {
@@ -68,6 +86,40 @@
       "duration_ms": 202838,
       "name": "Adulting - Live",
       "url": "https://open.spotify.com/track/42ilVo7uiw5VjsgmJ58O1c"
+    },
+    {
+      "album": {
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374780,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
     },
     {
       "album": {
@@ -1735,6 +1787,32 @@
     },
     {
       "album": {
+        "name": "God Of War (feat. Elevation Worship & ELEVATION RHYTHM)",
+        "url": "https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361821,
+      "name": "God Of War (feat. Elevation Worship & ELEVATION RHYTHM)",
+      "url": "https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN"
+    },
+    {
+      "album": {
         "name": "God Problems",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
@@ -1886,7 +1964,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 297693,
       "name": "Goodness of God - Live",
       "url": "https://open.spotify.com/track/4XO09BDp8QZFjRxZciYLd6"
@@ -2379,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "Heaven Is My Goal",
+        "url": "https://open.spotify.com/album/6wahQAbxPIhkR7FeYbPEVB"
+      },
+      "artists": [
+        {
+          "name": "The Burch Twins",
+          "url": "https://open.spotify.com/artist/2wKn3mG0pLJR0VFMjC69Xg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299836,
+      "name": "Heaven Is My Goal",
+      "url": "https://open.spotify.com/track/3MDH2X9j65F2adVyL59j3W"
+    },
+    {
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/1sOms20oQO6Cpd5MjIcVTT"
       },
@@ -2581,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307460,
+      "name": "Holy Forever - Single Version",
+      "url": "https://open.spotify.com/track/0D2Yn5mrMA0alPWlRwiaR1"
+    },
+    {
+      "album": {
         "name": "Holy Hands",
         "url": "https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x"
       },
@@ -2712,7 +2826,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 296338,
       "name": "I Believe God",
       "url": "https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F"
@@ -4578,7 +4692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 207960,
       "name": "Needs",
       "url": "https://open.spotify.com/track/71GkZGiodoUdpfL8Smvnm1"
@@ -5778,7 +5892,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 240433,
       "name": "So Good to Me",
       "url": "https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN"

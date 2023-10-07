@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. EMJAY e Ingratax en Portada ",
+  "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. Ximbo en Portada ",
   "name": "Femcees",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 176130,
       "name": "1999",
       "url": "https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS"
+    },
+    {
+      "album": {
+        "name": "40 y MM",
+        "url": "https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "40 y MM",
+      "url": "https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc"
     },
     {
       "album": {
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "bubble gum",
+        "url": "https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210707,
+      "name": "bubble gum",
+      "url": "https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4"
+    },
+    {
+      "album": {
         "name": "Buscando el Sol",
         "url": "https://open.spotify.com/album/69WN4ZXCkezCzch1LKGr2a"
       },
@@ -774,6 +810,28 @@
       "duration_ms": 227083,
       "name": "BUSINESS WOMAN",
       "url": "https://open.spotify.com/track/3rkbuNUCnmdaWBn7XY5Nd6"
+    },
+    {
+      "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06"
+      },
+      "artists": [
+        {
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
+        },
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224078,
+      "name": "B\u00fascame",
+      "url": "https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk"
     },
     {
       "album": {
@@ -1231,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "Ruta Mexicolombia",
+        "url": "https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Bungalo Dub",
+          "url": "https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0"
+        },
+        {
+          "name": "Bhajan",
+          "url": "https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "El Card\u00f3n",
+      "url": "https://open.spotify.com/track/1h9pPtB6LTbXLZDgNKgsMR"
+    },
+    {
+      "album": {
         "name": "El Card\u00f3n",
         "url": "https://open.spotify.com/album/69EuMRSnKU8THC0V3WZ4rz"
       },
@@ -1454,7 +1538,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 233554,
       "name": "Espada Sombra - Narvarte Colectivo & Sacro Imperio Romano Remix",
       "url": "https://open.spotify.com/track/6s1ulsFVGXkF1RGr8SVGrm"
@@ -1749,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/5wsCUfFhW6pi3iGejBlmNB"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148433,
+      "name": "Golpe Avisa",
+      "url": "https://open.spotify.com/track/6uXdP0a9lZ6fbWJQUcbN2R"
+    },
+    {
+      "album": {
         "name": "La hija del loco",
         "url": "https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU"
       },
@@ -1872,7 +1974,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
@@ -1912,7 +2014,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 192346,
       "name": "Juice",
       "url": "https://open.spotify.com/track/0WCXYkB1XAObQU5MwNfi3r"
@@ -2090,7 +2192,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 309453,
       "name": "La Rosa De Los Vientos",
       "url": "https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO"
@@ -3784,7 +3886,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 210040,
       "name": "Shock",
       "url": "https://open.spotify.com/track/322LgcUL3uhHbpUQP57WUF"
@@ -3934,10 +4036,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 243000,
       "name": "SUV",
       "url": "https://open.spotify.com/track/2hgoEGNNefWMveRlpLDiSG"
+    },
+    {
+      "album": {
+        "name": "Tania",
+        "url": "https://open.spotify.com/album/6Boi6nNfxwJz0mfXSbqzXy"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243435,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-1,782 songs - 4 day 19 hr 14 min
+1,783 songs - 4 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-11-29 | 2023-02-22 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-29 | 2022-06-01 |
 | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y) | 3:25 | 2022-10-25 | 2022-11-02 |
+| [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 |  |
 | [MAGIC \(feat\. ohashiTrio\)](https://open.spotify.com/track/3bVfLwfVw92yjywkQ37C3j) | [lily](https://open.spotify.com/artist/74999p5OcCByzjFmi8Eugu), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [MAGIC \(feat\. ohashiTrio\)](https://open.spotify.com/album/2fd8LBFEm1yJu2T3pTZNkr) | 4:21 | 2023-02-07 | 2023-02-22 |
 | [Magic hour](https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5) | [miida and The Department](https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew), [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [Magic hour](https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn) | 4:26 | 2023-07-25 | 2023-08-09 |
 | [magic!](https://open.spotify.com/track/26aj7bO85vD7aCZbF53E8V) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [magic!](https://open.spotify.com/album/7pRtYNZPFPUVw4AQR5JTYp) | 3:59 | 2022-05-29 | 2022-08-06 |
@@ -732,7 +733,7 @@
 | [Remember you](https://open.spotify.com/track/5jsSTSWKzJjXKRAYLODEtW) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Remember you](https://open.spotify.com/album/4CablfTCtnFPIvXYqyUdn9) | 4:24 | 2023-01-24 | 2023-02-08 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 | 2023-01-04 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-01-04 |
-| [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 |  |
+| [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 | 2023-10-07 |
 | [Respect Me](https://open.spotify.com/track/1X6pJqf4GXgLLambeuHJun) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Respect Me](https://open.spotify.com/album/6O2yKyUdHSvRnYbH0enuL1) | 3:04 | 2023-03-21 | 2023-03-29 |
 | [ride on](https://open.spotify.com/track/7AawKQ42s5gjNXTjFYkXYL) | [Miyuu](https://open.spotify.com/artist/6r5DBRzP1cJGTHrnptDrSR) | [ride on](https://open.spotify.com/album/05IL3ynMadtHGQ46kHonfZ) | 3:40 | 2022-06-16 | 2022-06-18 |
 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 | 2023-06-06 |  |
@@ -1164,7 +1165,7 @@
 | [まだまだ](https://open.spotify.com/track/15w9N478HMYK5VFFIZmRvh) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [まだまだ](https://open.spotify.com/album/5lUhwAwhZUuEmX72owXKBr) | 3:58 | 2023-04-04 | 2023-04-12 |
 | [まだ会えてないのに \- Prod.上野大樹](https://open.spotify.com/track/628GmSA7GYmZWgxMYO1PMS) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [まだ会えてないのに \(Prod.上野大樹\)](https://open.spotify.com/album/0LBt3aYmultj4Jm7MhP0gO) | 4:13 | 2022-08-02 | 2022-08-06 |
 | [まっしろ](https://open.spotify.com/track/1UROqDjIRx4Hqk7rDzzVDg) | [しなの椰惠](https://open.spotify.com/artist/0YJZTnahX8UVUKMW4FwXIo) | [まっしろ](https://open.spotify.com/album/5AY2E5KuaCh1I52oSBd4cv) | 4:13 | 2022-06-30 | 2022-07-28 |
-| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 |  |
+| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まばたき](https://open.spotify.com/track/7yziDV8OaAjHeaWkOV9JoE) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [まばたき](https://open.spotify.com/album/4cp4oSx0Vnt1QwMq20KB24) | 4:10 | 2022-11-08 | 2022-11-10 |
 | [まばら \- feat\. missa](https://open.spotify.com/track/4IWJMJDFmwh0GyEGSIwcFG) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z), [missa](https://open.spotify.com/artist/6B4tdctJogbdK6Kr5hRRFs) | [Autumn ep](https://open.spotify.com/album/0NyNMvyyD4gRkXLmYX7p5W) | 4:21 | 2022-10-04 | 2022-10-12 |
 | [みらいのこども2023](https://open.spotify.com/track/6s2ynFHDmldoJw7PuQsBTD) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [みらいのこども2023](https://open.spotify.com/album/0geHYBE41jddX8WlYqXsCU) | 5:50 | 2023-01-03 | 2023-01-05 |
@@ -1659,7 +1660,7 @@
 | [生きなくちゃ](https://open.spotify.com/track/0wcuZ6ELy4cUZ6Fg3aAa2Q) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [magic! / 生きなくちゃ](https://open.spotify.com/album/0p0NDpQsQVZqmGX82GdUUC) | 4:02 | 2022-06-07 | 2022-06-15 |
 | [留守にする](https://open.spotify.com/track/6VuGbW45hUYn5HjHdLvb02) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [留守にする](https://open.spotify.com/album/7EgPc5Cm8VyNZSaYjLocX2) | 2:54 | 2022-06-07 | 2022-07-18 |
 | [白夜](https://open.spotify.com/track/62zbaLNH7hDTP5yccPyuu0) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [白夜](https://open.spotify.com/album/5zgnygQTqF3Jxx7xG6Q7sT) | 3:43 | 2022-07-19 | 2022-07-27 |
-| [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-03 | 2023-10-06 |
+| [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-03 |  |
 | [白銀の少女](https://open.spotify.com/track/3RDsxI9zbRgsM5sfr3zASF) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [白銀の少女](https://open.spotify.com/album/6hsya9OOMQOeQU6JYKdppW) | 3:10 | 2023-09-05 | 2023-09-13 |
 | [百年十色](https://open.spotify.com/track/1wj370kj3muqbT0xejvX0S) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 4:46 | 2022-05-29 | 2022-07-29 |
 | [目覚め](https://open.spotify.com/track/0q8g8WKC30aYKLzagg0A1v) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 4:05 | 2022-05-29 | 2022-07-26 |

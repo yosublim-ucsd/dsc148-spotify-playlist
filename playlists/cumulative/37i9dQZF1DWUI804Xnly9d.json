@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Thank You for Coming (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ"
+      },
+      "artists": [
+        {
+          "name": "Hanita Bhambri",
+          "url": "https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247468,
+      "name": "Chehra 2.0",
+      "url": "https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS"
+    },
+    {
+      "album": {
         "name": "Chhipa Hoon",
         "url": "https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 218763,
       "name": "Jaane Kyun (Reimagined)",
       "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"

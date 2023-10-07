@@ -4,7 +4,7 @@
 
 > Melodic house and techno to concentrate the mind.
 
-92 songs - 6 hr 30 min
+93 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Mistwalker](https://open.spotify.com/track/29HBY8bz6ut3ePI9VyEtx5) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Mistwalker](https://open.spotify.com/album/6r0JeC4CfopkU0otpIKqTg) | 4:50 | 2023-01-06 |  |
 | [Momentum](https://open.spotify.com/track/0dwUqHfuKGhtYCChyeLyxX) | [Damian Holden](https://open.spotify.com/artist/6VgyMZzlNejIhFh7Yn6SlM), [David Dumeau](https://open.spotify.com/artist/7w0cV0FuzKwIknB51cxzfQ) | [Momentum](https://open.spotify.com/album/1QsITkVjzy1Rx4AqYNUAsZ) | 2:42 | 2023-01-06 |  |
 | [Mostly Cloudy](https://open.spotify.com/track/0E0sCHEpgh93xYBZU2OAuI) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Packet Loss](https://open.spotify.com/album/7G1Lg7yNSreOBiUbbBHq2Y) | 4:31 | 2023-04-11 |  |
+| [Mörkret](https://open.spotify.com/track/2Y1hzUCBa3xH5RzSX4mtYF) | [Ooyy](https://open.spotify.com/artist/0xe3AMjZeR6z3g4O6Vppjq) | [Levitate](https://open.spotify.com/album/1xY5MsWOrsFwj5oQkkm3Ds) | 3:18 | 2023-10-06 |  |
 | [Off the radar](https://open.spotify.com/track/6LpCOSM7ti0RkktlPHPBbK) | [Martin Monroi](https://open.spotify.com/artist/4IB5E37eyDYzrP0nQPogaq) | [Off the radar](https://open.spotify.com/album/1KmL8xWaFnWAWMbistk5L6) | 2:12 | 2023-01-06 |  |
 | [One Good Reason](https://open.spotify.com/track/78rkJWLEiS9xLHoLTvKBMD) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [One Good Reason](https://open.spotify.com/album/1FstNbRbOu1oirig9t4f4K) | 4:06 | 2023-01-06 |  |
 | [Out of Reach](https://open.spotify.com/track/7Bp5A16DdqfuQRT8VycDyD) | [Phello](https://open.spotify.com/artist/6TArvryQ2YjjufQdezlUUh) | [Out of Reach](https://open.spotify.com/album/51NhUnwkhYgymplSpEOndN) | 3:47 | 2023-01-06 |  |

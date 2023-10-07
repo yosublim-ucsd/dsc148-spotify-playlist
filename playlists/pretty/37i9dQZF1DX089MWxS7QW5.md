@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Milena\(밀레나\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,114 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,226 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 5 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 |
 | 6 | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI) | 2:08 |
 | 7 | [To you](https://open.spotify.com/track/4mYPnxp4nS9rzK4OY2mKQP) | [XAVII](https://open.spotify.com/artist/0bzd5X6kSjFkawI5uba7xh) | [To you](https://open.spotify.com/album/064cd3ECQA3xzCqjOeh8Us) | 2:52 |
-| 8 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/5YL8IrbmpYf8d8NC70r5p0) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 |
+| 8 | [DAY N NIGHT](https://open.spotify.com/track/7mf5QqTBynvYLk3bASLVJh) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6) | [DAY N NIGHT](https://open.spotify.com/album/7eovAYPFqZattIUZ1vsNkh) | 3:07 |
 | 9 | [Don't you know](https://open.spotify.com/track/5L2sypKfJmGGcZLUXq5Obs) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS) | [NIGHT DRIVER](https://open.spotify.com/album/6ucIPiCHNNiz5w4okN3Bjp) | 3:21 |
 | 10 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 |
 | 11 | [Destiny \(feat\. YUJU\)](https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Colors](https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
 | 50 | [Why](https://open.spotify.com/track/0tbDP39a9Z8XPhAD8WfsBp) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [WHY](https://open.spotify.com/album/5kV8W1zJiIWOvaYIECzY3M) | 4:04 |
 
-Snapshot ID: `MCxmMGM2MTMzMmI4MDM2M2QwYjU3MzNhOTlmMjkxYmE3NTJmNWIzYzkw`
+Snapshot ID: `MCxhMGRjNDM4YjdjMGZjZGU2NDQ5YmQ2NzgyNjk2NDlhNGVlZmU1OTM1`

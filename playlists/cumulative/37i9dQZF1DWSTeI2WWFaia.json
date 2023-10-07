@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 269439,
       "name": "Andre 3000 (feat. Bangladesh)",
       "url": "https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU"
@@ -6067,6 +6067,32 @@
     },
     {
       "album": {
+        "name": "LOVE ME 4 ME (feat. Blvck Svm)",
+        "url": "https://open.spotify.com/album/2lafk0vQGW41NXGvCm0wBa"
+      },
+      "artists": [
+        {
+          "name": "CJ Fly",
+          "url": "https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr"
+        },
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        },
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LOVE ME 4 ME (feat. Blvck Svm)",
+      "url": "https://open.spotify.com/track/3mfb0QoFdmNWQxlFJJdyc1"
+    },
+    {
+      "album": {
         "name": "LUMBERJACK",
         "url": "https://open.spotify.com/album/4FUZ2K8iROpZzhWjusmH9e"
       },
@@ -9318,7 +9344,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173647,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
@@ -10413,6 +10439,24 @@
     },
     {
       "album": {
+        "name": "Mysteries of Initiation",
+        "url": "https://open.spotify.com/album/754DOMOGR31KShL55SkZmE"
+      },
+      "artists": [
+        {
+          "name": "Bishop Nehru",
+          "url": "https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213833,
+      "name": "The NoN Anthem",
+      "url": "https://open.spotify.com/track/4OVHwI7j9udmd7khJwYkvf"
+    },
+    {
+      "album": {
         "name": "The Parables",
         "url": "https://open.spotify.com/album/2r50ydw2FOuiffavTsvXAM"
       },
@@ -11063,6 +11107,28 @@
     },
     {
       "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
       },
@@ -11478,7 +11544,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 161087,
       "name": "Woke Up and Asked Siri How I'm Gonna Die",
       "url": "https://open.spotify.com/track/5YAgSjM22pJzOOwN7261Uh"

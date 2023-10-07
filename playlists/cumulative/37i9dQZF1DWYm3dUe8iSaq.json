@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/58GJ648X070rfl1apkW3MT"
+      },
+      "artists": [
+        {
+          "name": "Fran Lusty",
+          "url": "https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227497,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe"
+    },
+    {
+      "album": {
         "name": "Fall",
         "url": "https://open.spotify.com/album/1MZp8IYKsLWpkZtDJ488Dg"
       },
@@ -590,6 +608,24 @@
       "duration_ms": 193403,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2husMCUsF2HdWmGKhr0lo2"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0EzgsLTpps8HovqZA1aMNK"
+      },
+      "artists": [
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205003,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/25otaaQaySgAkOW61WibDs"
     },
     {
       "album": {
@@ -1206,7 +1242,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 157493,
       "name": "Give Me A Minute",
       "url": "https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV"
@@ -1625,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "album": {
         "name": "You Of Now, Pt. 1",
         "url": "https://open.spotify.com/album/2GKh9AYasgMHrPRz3fzGXD"
       },
@@ -1751,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "If You Had a Long Day",
+        "url": "https://open.spotify.com/album/4dYRT2ki2UXlEgs2X3R5Ky"
+      },
+      "artists": [
+        {
+          "name": "Cayson Renshaw",
+          "url": "https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141517,
+      "name": "If You Had a Long Day",
+      "url": "https://open.spotify.com/track/0eCX3ptohLUY3vW4Ehh68L"
+    },
+    {
+      "album": {
         "name": "Inconvenient",
         "url": "https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB"
       },
@@ -1762,7 +1834,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 140533,
       "name": "Inconvenient",
       "url": "https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582"
@@ -2429,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "oMo (Man)",
+        "url": "https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI"
+      },
+      "artists": [
+        {
+          "name": "Daudi Matsiko",
+          "url": "https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "oMo (Man)",
+      "url": "https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL"
+    },
+    {
+      "album": {
         "name": "Our Time",
         "url": "https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH"
       },
@@ -2638,7 +2728,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196000,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/00y1HrHraTJoO8y0QR3fBS"
@@ -2876,7 +2966,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 245783,
       "name": "So It Is",
       "url": "https://open.spotify.com/track/5nVX6Lv58ZcwPcK3v2nVkw"
@@ -3164,7 +3254,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 189360,
       "name": "The Goshawk and the Gull",
       "url": "https://open.spotify.com/track/10nlT1QyiQdmSLA3vQmyIQ"
@@ -3506,7 +3596,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 288000,
       "name": "Way Again",
       "url": "https://open.spotify.com/track/2bXHgXfMFF67xirAn2dsLA"
@@ -3600,6 +3690,24 @@
       "duration_ms": 103021,
       "name": "Wildfire Love",
       "url": "https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60"
+    },
+    {
+      "album": {
+        "name": "Worst Thoughts In The World",
+        "url": "https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153490,
+      "name": "Wish I Was A Single Girl Again",
+      "url": "https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog"
     },
     {
       "album": {

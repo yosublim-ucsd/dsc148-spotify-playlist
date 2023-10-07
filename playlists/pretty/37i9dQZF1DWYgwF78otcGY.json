@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26773,
+  "num_followers": 26780,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
+  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bail\u00e1 Bail\u00e1",
-        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
       "artists": [
         {
-          "name": "Alvaro Estrella",
-          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
         }
       ],
-      "duration_ms": 173124,
-      "name": "Bail\u00e1 Bail\u00e1",
-      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171340,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Evighet",
+      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Greatest of the Best",
-        "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
-      },
-      "artists": [
-        {
-          "name": "\u00d6sten Med Resten",
-          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Hon Kommer Med Solsken",
-      "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Kizunguzungu",
         "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+        "name": "Greatest of the Best",
+        "url": "https://open.spotify.com/album/7sIUvDzyIz2F5AbmjaNWYo"
       },
       "artists": [
         {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+          "name": "\u00d6sten Med Resten",
+          "url": "https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p"
         }
       ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+      "duration_ms": 175453,
+      "name": "Hon Kommer Med Solsken",
+      "url": "https://open.spotify.com/track/28ghjLqAxD7g9fEmZNUsDh"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -615,6 +599,22 @@
       "duration_ms": 173960,
       "name": "La Det Swinge",
       "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
-        "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "Just nu",
-      "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "40 \u00e5r 40 hits ett samlingsalbum 1972 - 2012",
+        "url": "https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Just nu",
+      "url": "https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha"
     },
     {
       "added_at": "2023-02-26 01:59:39",

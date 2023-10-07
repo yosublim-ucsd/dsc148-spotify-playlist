@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 480309,
+  "num_followers": 480622,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGQ0MDI1ZjFhMzFlOTI4MzM1NGM4NWExNDRmOWQwODgwNGQ4YWE3",
+  "snapshot_id": "MCwxNGFkMGI1NjYwNjFhMGI3YjlhODMzMDBiMTYwZWJmYzk2NzFmZGMy",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -767,18 +767,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
       },
       "artists": [
         {
-          "name": "Locust",
-          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 401111,
-      "name": "No-One in the World",
-      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
+      "duration_ms": 401111,
+      "name": "No-One in the World",
+      "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
     }
   ],
   "unique_name": "Dreampop Classics",

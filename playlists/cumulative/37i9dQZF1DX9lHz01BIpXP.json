@@ -570,7 +570,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 198456,
       "name": "Dubbel of Niks",
       "url": "https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s"
@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
+    },
+    {
+      "album": {
         "name": "Letterkundig (7785 oordrom remix)",
         "url": "https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1"
       },
@@ -1215,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Master",
+        "url": "https://open.spotify.com/album/1VBh6aNJi2dcXprXcczPYT"
+      },
+      "artists": [
+        {
+          "name": "Wboy",
+          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136532,
+      "name": "Master",
+      "url": "https://open.spotify.com/track/2oqEDL2aK5Ac0VIbEMCAq3"
+    },
+    {
+      "album": {
         "name": "Meisies & Partytjies",
         "url": "https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT"
       },
@@ -1292,7 +1328,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 221571,
       "name": "Mooiste Meisies",
       "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"

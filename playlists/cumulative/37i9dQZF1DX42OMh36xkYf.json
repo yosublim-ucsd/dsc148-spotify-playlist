@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Esteman y B\u00e1ndalos Chinos en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Neoma en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 195683,
       "name": "AMOR // QUE BIEN LO BAILA",
       "url": "https://open.spotify.com/track/3xz4Jg0TxpkyH9axrFFNFW"
@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "Me Persigue",
+        "url": "https://open.spotify.com/album/6tpSWTW6Vrw3x8hjgqkVM6"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        },
+        {
+          "name": "Menino Gutto",
+          "url": "https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182833,
+      "name": "Me Persigue",
+      "url": "https://open.spotify.com/track/1rBEVWJbexy1EjoaT9ZZxA"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 121836,
       "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
       "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"

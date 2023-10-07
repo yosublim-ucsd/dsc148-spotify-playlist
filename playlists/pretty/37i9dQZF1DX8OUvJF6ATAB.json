@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 186477,
+  "num_followers": 186521,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzU4NjcxNjVjMzg0NWNkY2IwNzZkZTJlYTZiZTk4MDBkZDczYmY4",
+  "snapshot_id": "MCxjMGQyNDBjNjcyZThjMTA5MzZhN2Y4YTA4ZjQwZGI5NmYwYjRhZjQ0",
   "tracks": [
     {
       "added_at": "2023-04-21 14:41:23",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Any Coop Will Do",
-        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
+        "name": "See-Through",
+        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
       "artists": [
         {
-          "name": "Dream Trees",
-          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
         }
       ],
-      "duration_ms": 197614,
-      "name": "Ichneumonidae",
-      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
+      "duration_ms": 368000,
+      "name": "Woodland Encounter",
+      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "See-Through",
-        "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
+        "name": "Any Coop Will Do",
+        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
       },
       "artists": [
         {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+          "name": "Dream Trees",
+          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Woodland Encounter",
-      "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
+      "duration_ms": 197614,
+      "name": "Ichneumonidae",
+      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Circular Forms",
-        "url": "https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c"
-      },
-      "artists": [
-        {
-          "name": "Abul Mogard",
-          "url": "https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7"
-        }
-      ],
-      "duration_ms": 408969,
-      "name": "Half Light of Dawn",
-      "url": "https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+        "name": "Circular Forms",
+        "url": "https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c"
       },
       "artists": [
         {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+          "name": "Abul Mogard",
+          "url": "https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7"
         }
       ],
-      "duration_ms": 267893,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
+      "duration_ms": 408969,
+      "name": "Half Light of Dawn",
+      "url": "https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
+        }
+      ],
+      "duration_ms": 267893,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/2okdRYCtBKj28PXuaheRNS"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Ambient 23",
         "url": "https://open.spotify.com/album/5iXHMwhLzhDSs7e0WK4svQ"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 481906,
       "name": "amb23 - 1",
       "url": "https://open.spotify.com/track/1QRY2siHgU2LkwQWIGHcXz"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "The Invention of the Human",
+        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "duration_ms": 338714,
+      "name": "The Peach Tree Next Door Grew over Our Fence",
+      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "The Invention of the Human",
-        "url": "https://open.spotify.com/album/7HrfEaITd4aqzxVXSXJIsN"
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx"
       },
       "artists": [
         {
-          "name": "Dylan Henner",
-          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
         }
       ],
-      "duration_ms": 338714,
-      "name": "The Peach Tree Next Door Grew over Our Fence",
-      "url": "https://open.spotify.com/track/0vHmmScQtHq6p7qZk9Xgfd"
+      "duration_ms": 317683,
+      "name": "Dust Circles",
+      "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -563,22 +579,6 @@
       "duration_ms": 179583,
       "name": "Between the Floating Mist",
       "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/7GVde2CNnIc3sdlHHsvxsx"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 317683,
-      "name": "Dust Circles",
-      "url": "https://open.spotify.com/track/3r4UNYCmm9FvGEYn6wAtIt"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Long Stories",
-        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 203255,
-      "name": "Full Panther",
-      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Beloved Exile",
         "url": "https://open.spotify.com/album/40TxdeBrR0OTGQD6etnhyJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 325741,
       "name": "Beloved Exile",
       "url": "https://open.spotify.com/track/0fnZFOirxnGpo9UdaG8Ndj"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Long Stories",
+        "url": "https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 203255,
+      "name": "Full Panther",
+      "url": "https://open.spotify.com/track/3GqCa4d3FyV6THZMofy11d"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
-      },
-      "artists": [
-        {
-          "name": "Filterscape",
-          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Flying to America",
         "url": "https://open.spotify.com/album/38juKROzX28lJdUDQEE2Ji"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Nepenthe",
-        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG"
       },
       "artists": [
         {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+          "name": "Filterscape",
+          "url": "https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Offing",
-      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
+      "duration_ms": 180000,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Nepenthe",
+        "url": "https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Offing",
+      "url": "https://open.spotify.com/track/2jJwqGT5s64ocIUf7SJP6U"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Fear in a Handful of Dust",
         "url": "https://open.spotify.com/album/5JntKJacrklh6D69IsETO7"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Theory",
-        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
-      },
-      "artists": [
-        {
-          "name": "TAKA",
-          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
-        }
-      ],
-      "duration_ms": 238846,
-      "name": "deaf",
-      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Das Unheimliche",
         "url": "https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 390000,
       "name": "Das Unheimliche",
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Theory",
+        "url": "https://open.spotify.com/album/1lgHQEYjhVOnpY3ew0hhpy"
+      },
+      "artists": [
+        {
+          "name": "TAKA",
+          "url": "https://open.spotify.com/artist/4EDsHhy34wYbBzKpOEXkYm"
+        }
+      ],
+      "duration_ms": 238846,
+      "name": "deaf",
+      "url": "https://open.spotify.com/track/0RFwd1ZWNSVT7LtAvenIVg"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Zorza",
-        "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
-      },
-      "artists": [
-        {
-          "name": "Pruski",
-          "url": "https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Zorza",
-      "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Kwaidan",
         "url": "https://open.spotify.com/album/0COOSP2TWDQQLdLE1HdGlO"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+        "name": "Zorza",
+        "url": "https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6"
       },
       "artists": [
         {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+          "name": "Pruski",
+          "url": "https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib"
         }
       ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+      "duration_ms": 336000,
+      "name": "Zorza",
+      "url": "https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+      },
+      "artists": [
+        {
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+        }
+      ],
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "You Were Always an Island",
         "url": "https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Plays Bee Mask",
-        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        }
-      ],
-      "duration_ms": 363380,
-      "name": "Vaporware 05",
-      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Caisson",
         "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+      "duration_ms": 363380,
+      "name": "Vaporware 05",
+      "url": "https://open.spotify.com/track/1iB6ug1ikOFFLpGI4Nc5Lv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1575,6 +1559,22 @@
       "duration_ms": 231494,
       "name": "The Cage",
       "url": "https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2023-04-21 14:41:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,257 likes - 111 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,469 likes - 111 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 11 | [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 |
 | 12 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 |
 | 13 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
-| 14 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 |
+| 14 | [Easy On Me](https://open.spotify.com/track/6GOGtYDbwevpKEZpGyptmc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/1x9lgY53hXXUzsC8TsUQFe) | 3:16 |
 | 15 | [Anti\-Hero](https://open.spotify.com/track/4QoywwYw4xnKRHOSmbmSQx) | [Dallas String Quartet](https://open.spotify.com/artist/5vvlfKQdn6amTImsjy9Si5) | [Anti\-Hero](https://open.spotify.com/album/4YvpNIX2uxTvY5KXn1QLvg) | 3:16 |
 | 16 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 |
 | 17 | [We Found Love](https://open.spotify.com/track/0bt22Pke8uyTr7az9pseW9) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [In2ition](https://open.spotify.com/album/7dg6d2sSCH28iHCdpdp30D) | 3:32 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 27 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 28 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 |
 | 29 | [Despacito](https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Luis Rodriguez](https://open.spotify.com/artist/7dTPvuNcEXLkQ1XiAuiWIP), [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Despacito](https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc) | 2:26 |
-| 30 | [Traitor \- arr\. String Quartet \(inspired by Bridgerton\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \[arr\. String Quartet \(inspired by Bridgerton\)\]](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 |
+| 30 | [Traitor \- Arr\. for String Quartet / Inspired by Bridgerton](https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \(Arr\. for String Quartet / Inspired by Bridgerton\)](https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz) | 3:42 |
 | 31 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 |
 | 32 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 33 | [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 36 | [I Don't Care](https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [I Don't Care](https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf) | 3:35 |
 | 37 | [Enjoy the Silence \- Piano and String Quartet Version](https://open.spotify.com/track/3paWLtYo9854AxRLx3tb7Z) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W) | [Enjoy The Silence](https://open.spotify.com/album/6TU8GCDEvZzciExmRRE6YD) | 3:28 |
 | 38 | [positions \- Bonus Track](https://open.spotify.com/track/4TpeDaUZ1pcXClP9gIEgty) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 2:52 |
-| 39 | [Good 4 U \- arr\. String Quartet](https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good 4 U \(arr\. String Quartet\)](https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6) | 2:57 |
+| 39 | [Good 4 U \- Arr\. for String Quartet](https://open.spotify.com/track/0wOg1VN28vZswbqVYKC3KM) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good 4 U \(Arr\. for String Quartet\)](https://open.spotify.com/album/6IS1QBDwuR4NUDVd7we5wo) | 2:57 |
 | 40 | [Kiss](https://open.spotify.com/track/0aC3m5Y6lIfG1MqVzrQyme) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Kiss](https://open.spotify.com/album/1yVHHlAsAmcUmbf7MQAGQU) | 3:41 |
 | 41 | [Here Comes The Sun](https://open.spotify.com/track/0wWYUyq3TtIgxPSWyHyqRY) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 11](https://open.spotify.com/album/19M7tJBsBJcr2vrQINJMDH) | 3:49 |
 | 42 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 110 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 111 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MCw3OTY3YTZlZjA5MzI5NjcwYjJiMzdhNjkyNGE4YTk4MGQxMTVmYzc2`
+Snapshot ID: `MCw1ZmIwZDJlM2QyYzEwY2JlNDAwZTk4NmI3YTg4YTNmYjMxNThhZTE4`

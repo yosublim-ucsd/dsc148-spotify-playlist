@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Nadya Okamoto",
-  "num_followers": 919520,
+  "num_followers": 919497,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk2YWNhMjA2NDE0OGFlM2YxZTE3Y2Q4YjZiY2MxMmMyYjE0ZTRi",
+  "snapshot_id": "MCw0M2MyNjc4MWQ2N2Q0NTQ3OTRkMWI5ZDgzYjhmYjFiY2EwNzJkMzhh",
   "tracks": [
     {
       "added_at": "2023-10-05 05:39:47",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
+        "name": "Nieba nie ma",
+        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Nieba nie ma",
+      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
         "name": "Di Arsy-Mu",
         "url": "https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "Nieba nie ma",
-        "url": "https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn"
+        "name": "RESTO IN CHILL",
+        "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
       },
       "artists": [
         {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Nieba nie ma",
-      "url": "https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU"
+      "duration_ms": 182000,
+      "name": "RESTO IN CHILL",
+      "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -955,22 +971,6 @@
       "duration_ms": 195130,
       "name": "imposter syndrome",
       "url": "https://open.spotify.com/track/33eaEAdtz55ZyDjGsXGEdM"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
-        "name": "RESTO IN CHILL",
-        "url": "https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "RESTO IN CHILL",
-      "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "Flori de mai",
-        "url": "https://open.spotify.com/album/1h4LGuEHf8r8ZXTpCHh2dP"
-      },
-      "artists": [
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Flori de mai",
-      "url": "https://open.spotify.com/track/2Kr1NC1Qs9AzmpFeYFLinJ"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 185045,
       "name": "D\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "Atat\u00fcrk'\u00fcn Sevdigi Sarkilar",
+        "url": "https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04"
+      },
+      "artists": [
+        {
+          "name": "M\u00fczeyyen Senar",
+          "url": "https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd"
+        }
+      ],
+      "duration_ms": 228205,
+      "name": "Kimseye Etmem \u015eikayet",
+      "url": "https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb"
     }
   ],
   "unique_name": "EQUAL Global",

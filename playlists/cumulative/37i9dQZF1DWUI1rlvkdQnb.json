@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 194000,
       "name": "Rearview Mirror",
       "url": "https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7"
@@ -2936,6 +2936,24 @@
       "duration_ms": 173939,
       "name": "Tranquil Words",
       "url": "https://open.spotify.com/track/2RvWyBpbUwNqAghZ7r49ya"
+    },
+    {
+      "album": {
+        "name": "Transcendent Tranquility",
+        "url": "https://open.spotify.com/album/2PZCjFavks3YfHgov1os3V"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Transcendent Tranquility",
+      "url": "https://open.spotify.com/track/0bz6iGkPb4HiBE9knyGdCF"
     },
     {
       "album": {

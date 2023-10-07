@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Do
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,881 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,923 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [De Bloemen Die Je Stuurde](https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [De Bloemen Die Je Stuurde](https://open.spotify.com/album/1YS93womgDgRHgIXIapToF) | 2:48 |
 | 60 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 
-Snapshot ID: `MCxjYTBiMTkyODc5N2U3NWNhOTRiOWEwZDZjYzhjZDk1Njc4ZTA0Mzcw`
+Snapshot ID: `MCwxN2IzOGRmNDJiOTcwMWQ0YTY3ZDdmMmRkZThmZmIyNzQzNjYxOWY0`

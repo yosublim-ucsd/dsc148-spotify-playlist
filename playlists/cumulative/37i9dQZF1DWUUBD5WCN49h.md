@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP?si=58Qc9PanQNitwXKmdSXXFg"> Khaid </a>
+> New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=SjcFe\-spQVOk21d\_XoZiXA"> Kold AF </a>
 
-572 songs - 1 day 3 hr 58 min
+573 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 | 2023-09-08 |  |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-10 | 2023-04-21 |
 | [Breezy](https://open.spotify.com/track/72GFyLGNeMUWLlqp8gXjF5) | [Wax.J](https://open.spotify.com/artist/2r4bF7ZK964nyrfgRbUfh3) | [Breezy](https://open.spotify.com/album/53Q9LOMHPXshN7WBbmVMqB) | 2:57 | 2023-02-10 | 2023-02-17 |
+| [Broken](https://open.spotify.com/track/3bU7GrpH4mhfJhE4TOA6NA) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [KOLLIDE](https://open.spotify.com/album/0KVVA3dYvH3ppczV0CWQdC) | 2:32 | 2023-10-06 |  |
 | [Burst](https://open.spotify.com/track/7MYjnzIYUjof8FWtg1Thcw) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Burst](https://open.spotify.com/album/2aqlLXcgQO02WIZboCfVl8) | 2:33 | 2023-07-20 |  |
 | [Burst My Brain \(BMB\)](https://open.spotify.com/track/2JIGmaJbJ8GPXAsFs2EcBc) | [Timi Martins](https://open.spotify.com/artist/0eQrfPUjzTCTeDfZ7dca4I) | [Burst My Brain \(BMB\)](https://open.spotify.com/album/4E0RABL9yWzbDn0aHAx9Aj) | 2:20 | 2023-02-10 | 2023-02-17 |
 | [Buruma Buruma](https://open.spotify.com/track/13k03K0WLxhgv3C7uheCEn) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Buruma Buruma](https://open.spotify.com/album/2qnYcSG1DZz9A7m3LFWUIB) | 3:15 | 2023-09-14 | 2023-10-05 |

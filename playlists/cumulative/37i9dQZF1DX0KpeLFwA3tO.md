@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-1,363 songs - 2 day 19 hr 53 min
+1,364 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,7 +1312,8 @@
 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 | 2023-03-03 | 2023-04-14 |
 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 | 2021-12-17 | 2022-02-25 |
 | [Weights](https://open.spotify.com/track/3xsgSh5YmcGwQqzNeYodIa) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [Weights](https://open.spotify.com/album/43rgsyKUUtE5IDdKoaDjzI) | 4:10 | 2022-09-29 | 2022-11-11 |
-| [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 | 2023-10-06 |  |
+| [Weird Punx](https://open.spotify.com/track/0UsB58cZuu6C8x53SGdXId) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/0BJ3CYCD7CIJyzVUNT8b54) | 2:34 | 2023-10-06 |  |
+| [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 | 2023-10-06 | 2023-10-07 |
 | [Welcome To Hell](https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Welcome To Hell](https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3) | 4:09 | 2022-05-12 | 2022-06-24 |
 | [werewolf!](https://open.spotify.com/track/1RYuVM3vOJAInZ8rYQzW3f) | [SmallTownHollywood](https://open.spotify.com/artist/2f22FP6Sl8F7DyTDDZbDk0) | [werewolf!](https://open.spotify.com/album/507wDQtCuXQ89jcJoLGzuX) | 3:01 | 2021-12-17 | 2022-01-21 |
 | [What I Can Get](https://open.spotify.com/track/3KO6tANGHypcSMi3TOVzEF) | [Basement Gary](https://open.spotify.com/artist/7zse5STLZ5qD4mJEUU4tX5) | [As BG as They Wanna Be](https://open.spotify.com/album/1y3rE2ZfOeO3cCwc8qGGXD) | 2:22 | 2022-05-20 | 2022-07-01 |

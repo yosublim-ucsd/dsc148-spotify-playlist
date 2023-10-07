@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-182 songs - 11 hr 21 min
+183 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Foothills](https://open.spotify.com/track/5DmLXW9x9M2pbrX7xZy7zW) | [Snowblink](https://open.spotify.com/artist/6oYtsBDA5uQzV8FdGDvXZM) | [Returning Current](https://open.spotify.com/album/2aFUOolqC2jvv5c9A4pVnc) | 4:16 | 2022-01-27 | 2023-04-29 |
 | [Footprints](https://open.spotify.com/track/2pYY9r8kEKur6zGf50QZDa) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:28 | 2019-10-31 |  |
 | [Ghost of a Lie](https://open.spotify.com/track/74hlOfvGAKlst81PCS86Id) | [The Accidentals](https://open.spotify.com/artist/5JqJWTzD2wSWAp7UmFSP5x) | [Bittersweet](https://open.spotify.com/album/098ZB04Lbsg4m1iANqIYmn) | 3:30 | 2019-10-31 |  |
+| [Goodbye Evergreen](https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:35 | 2023-10-06 |  |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2022-01-27 |  |
 | [Hero](https://open.spotify.com/track/5StRcEVQTC2uiHjeSKxW0d) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [My Wild West](https://open.spotify.com/album/446zvOtU7llJSvyCfROA6o) | 3:32 | 2022-01-27 |  |
 | [Hero](https://open.spotify.com/track/7oXK8COwNizUruAwBAiAS3) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Hero](https://open.spotify.com/album/1qj3RRKfgAb2AFv1NLswlO) | 3:32 | 2019-10-31 | 2022-07-29 |

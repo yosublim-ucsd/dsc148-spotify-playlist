@@ -1,13 +1,29 @@
 {
   "description": "Indie folk ventures into the cinematic West.",
-  "num_followers": 146198,
+  "num_followers": 146240,
   "original_name": "Cinematic Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzNjZGZkZGQ1MWU0YzVmOTJjMjRiODBkZjczOTFiNTQ4Y2EzN2E2",
+  "snapshot_id": "MCw0MDQ3NzRlOTg0N2E1ZTk0ZDJiNzJmMTAwZTVkMjA4YTQ2MjY4N2Mz",
   "tracks": [
+    {
+      "added_at": "2023-10-06 14:57:07",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 215424,
+      "name": "Goodbye Evergreen",
+      "url": "https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw"
+    },
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {

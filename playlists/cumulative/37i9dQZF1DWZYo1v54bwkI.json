@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 162580,
       "name": "Argentum",
       "url": "https://open.spotify.com/track/0ShvmWyYcjf8nbCBBhVjPW"
@@ -452,6 +452,24 @@
       "duration_ms": 173052,
       "name": "Beautiful Whispers",
       "url": "https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V"
+    },
+    {
+      "album": {
+        "name": "Blomma",
+        "url": "https://open.spotify.com/album/0jxhXC3LDUnkKKpac93TAk"
+      },
+      "artists": [
+        {
+          "name": "Malluma Nokto",
+          "url": "https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177306,
+      "name": "Blomma",
+      "url": "https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW"
     },
     {
       "album": {

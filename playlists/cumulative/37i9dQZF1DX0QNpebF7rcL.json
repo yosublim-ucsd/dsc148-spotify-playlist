@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210083,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
+    },
+    {
+      "album": {
         "name": "Here I'm Is",
         "url": "https://open.spotify.com/album/2FwkQp2elO2xN3MOs2XJL9"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 300143,
       "name": "Hungry and Ready (feat. Melvin Taylor)",
       "url": "https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt"
@@ -2712,6 +2730,24 @@
       "duration_ms": 249384,
       "name": "In The Water",
       "url": "https://open.spotify.com/track/23s0MmTdYCrt1lu2gxEfkU"
+    },
+    {
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
     },
     {
       "album": {
@@ -4724,6 +4760,24 @@
       "duration_ms": 317719,
       "name": "Sweet 'Lil Lies",
       "url": "https://open.spotify.com/track/6ibzlLNs7baLXzz4RjMLd9"
+    },
+    {
+      "album": {
+        "name": "Sweet Feeling",
+        "url": "https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334066,
+      "name": "Sweet Feeling",
+      "url": "https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW"
     },
     {
       "album": {

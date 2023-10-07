@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Tokyo Young Vision
 
-135 songs - 6 hr 45 min
+136 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 | 2023-09-21 |  |
 | [Best Way 2 Die](https://open.spotify.com/track/2Z98lKrvtMjVrPLlajm4MY) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [GOLDEN ROUTE](https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4) | 3:32 | 2023-09-21 |  |
 | [BLESS U](https://open.spotify.com/track/7dTsJAIk5ziK6o0dvDXGLU) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [BLESS U](https://open.spotify.com/album/17eaa64NwzaBpy30GL7EDx) | 2:13 | 2023-09-21 |  |
-| [Block](https://open.spotify.com/track/0oKNjHs2mFNmvALoBUvYQo) | [NEXT WAY](https://open.spotify.com/artist/36W7LDbrcAsG2zAfKwOf7J), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Block](https://open.spotify.com/album/0Pj4RuYfZy7r15NphUc5Iq) | 1:58 | 2023-10-05 |  |
+| [Block](https://open.spotify.com/track/0oKNjHs2mFNmvALoBUvYQo) | [NEXT WAY](https://open.spotify.com/artist/36W7LDbrcAsG2zAfKwOf7J), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Block](https://open.spotify.com/album/0Pj4RuYfZy7r15NphUc5Iq) | 1:58 | 2023-10-05 | 2023-10-07 |
+| [Block](https://open.spotify.com/track/4XBnguB4Xpg3flMEt4ZTTq) | [NEXT WAY](https://open.spotify.com/artist/36W7LDbrcAsG2zAfKwOf7J), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [Block](https://open.spotify.com/album/4svngyOnzZMBcesWwAbLuL) | 1:58 | 2023-10-05 |  |
 | [BRING BACK](https://open.spotify.com/track/5wYEZfRbGtRDEHyMTdz1Rj) | [Loopaddict](https://open.spotify.com/artist/25CDhUA4M2FNNzRXzDmRFt), [Mista O.K.I](https://open.spotify.com/artist/77wVBD5olPpEhP8kTfu88I), [SHIGECHIYO](https://open.spotify.com/artist/7Kc5YXO9DFuvXPgDMhfEdy) | [BRING BACK](https://open.spotify.com/album/3cVJAoVJk98LZBEYgaPn5v) | 4:19 | 2023-09-21 | 2023-09-27 |
 | [Cali Jap](https://open.spotify.com/track/1cMopmyRcj9qopJ4IXA2d9) | [Japanese Magenese](https://open.spotify.com/artist/0YbxnfnDyzHtDBPOvIMqEq), [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [VOCA Luciano](https://open.spotify.com/artist/4yEFQ7h6u4bXePezff5pvI) | [Cali Jap](https://open.spotify.com/album/6XLsxnfd4omvEx9vrZQSYW) | 5:38 | 2023-09-21 |  |
 | [Canvas](https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Canvas](https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0) | 3:05 | 2023-09-21 |  |

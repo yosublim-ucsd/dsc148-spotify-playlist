@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Kenyon Dixon",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Cleo Sol",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138130,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd"
+    },
+    {
+      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -1028,6 +1046,24 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184089,
+      "name": "Bahamas Promises",
+      "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
     },
     {
       "album": {
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 132374,
       "name": "cool_v2",
       "url": "https://open.spotify.com/track/5KxudlMFpmglXBDeYHxUhm"
@@ -5905,6 +5941,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Grown @ss Woman",
+      "url": "https://open.spotify.com/track/0fW0QT0hBYmq4yhDrBBB64"
+    },
+    {
+      "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO"
       },
@@ -6492,7 +6546,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 205869,
       "name": "I'm Baby (ft. Jvck James) - Acoustic",
       "url": "https://open.spotify.com/track/3xT5b5eHJ4j5XZO1jiqzUi"
@@ -8174,7 +8228,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 250375,
       "name": "Love On You",
       "url": "https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I"
@@ -8670,6 +8724,24 @@
       "duration_ms": 171426,
       "name": "MAYBE SWANKAFORNiA",
       "url": "https://open.spotify.com/track/0rjjTjhUsMy3Akhy3zduKK"
+    },
+    {
+      "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "album": {
@@ -9556,7 +9628,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 210663,
       "name": "No Romance",
       "url": "https://open.spotify.com/track/2JdSdfaE8VnycNzOU8Ec6y"
@@ -10394,7 +10466,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 217160,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1T5r41gQq6SKGKKvlZCpmR"
@@ -13249,6 +13321,24 @@
     },
     {
       "album": {
+        "name": "T.B.D.",
+        "url": "https://open.spotify.com/album/18Xm1iSbMb5srLntraenBP"
+      },
+      "artists": [
+        {
+          "name": "Solomon Headen",
+          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183431,
+      "name": "T.B.D.",
+      "url": "https://open.spotify.com/track/21PVx9jD4ylrKTXgdntOz0"
+    },
+    {
+      "album": {
         "name": "TAKE A CHANCE (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
       },
@@ -14408,7 +14498,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
@@ -14590,6 +14680,24 @@
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
+      "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju"
     },
     {
       "album": {

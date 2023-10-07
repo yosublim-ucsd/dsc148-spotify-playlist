@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 81383,
+  "num_followers": 81471,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDM5YTRjM2JhZWQzNTIyMTdlYzNiYTAyNjUyOGJlYTM1NDFjNzI3",
+  "snapshot_id": "MCwwOTQwNzMxNTgzMmYwYTNlNmU4ZDIxMDc3ZjNkYjdlMmJjNWQ2MDJk",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+        }
+      ],
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 265231,
       "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
-        }
-      ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "No Politics",
-        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
-      },
-      "artists": [
-        {
-          "name": "Quentin Harris",
-          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
-        }
-      ],
-      "duration_ms": 463320,
-      "name": "Poor People - Big Room Mix",
-      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "At the Club",
         "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 314146,
       "name": "At the Club",
       "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "No Politics",
+        "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
+      },
+      "artists": [
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "duration_ms": 463320,
+      "name": "Poor People - Big Room Mix",
+      "url": "https://open.spotify.com/track/2Fi5Z7kEeZ0W3jjPAdk7Q4"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Soul Fever",
+        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
+      },
+      "artists": [
+        {
+          "name": "Simbad ft. Steelo",
+          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
+        }
+      ],
+      "duration_ms": 426600,
+      "name": "Soul Fever (remix)",
+      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/43xDloRiOgJc41Vczj2uvG"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 389066,
       "name": "Pride - Main Mix",
       "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Soul Fever",
-        "url": "https://open.spotify.com/album/6UFogsgPTmVZNueGL4pYVe"
-      },
-      "artists": [
-        {
-          "name": "Simbad ft. Steelo",
-          "url": "https://open.spotify.com/artist/7EemSjl9XAGrw9DTTMvi1J"
-        }
-      ],
-      "duration_ms": 426600,
-      "name": "Soul Fever (remix)",
-      "url": "https://open.spotify.com/track/56PrfjUISk1w1oORAxzRPZ"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        }
+      ],
+      "duration_ms": 372908,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Kissing Strangers",
         "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
       },
@@ -1335,42 +1355,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
         }
       ],
-      "duration_ms": 372908,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
       },
       "artists": [
         {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
         }
       ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "The World As I See It",
+        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Danil Wright",
+          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
+        }
+      ],
+      "duration_ms": 449026,
+      "name": "Church Lady",
+      "url": "https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Avery*Sunshine Summer EP",
         "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
@@ -1727,22 +1747,6 @@
       "duration_ms": 409238,
       "name": "Find A Friend",
       "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Abstract Jazz Journey EP 2",
-        "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 507744,
-      "name": "Reach 4 Freedom - DF's Vocal Mix",
-      "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1823,6 +1827,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Abstract Jazz Journey EP 2",
+        "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 507744,
+      "name": "Reach 4 Freedom - DF's Vocal Mix",
+      "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2n3nX312EHZSQ5nuEGfCD2"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 387100,
       "name": "La Vida (Atjazz Remix)",
       "url": "https://open.spotify.com/track/1BwUatAjiQe7DT5QqxILLZ"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "The World As I See It",
-        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Danil Wright",
-          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
-        }
-      ],
-      "duration_ms": 449026,
-      "name": "Church Lady",
-      "url": "https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Mix The Vibe: Kaoz On King Street",
         "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 409763,
       "name": "Come Home - Kerri's Mmmh Mix",
       "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "More Than a Remix",
         "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 455346,
       "name": "For Real - Atjazz Remix",
       "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
+        }
+      ],
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Don't Look Away",
         "url": "https://open.spotify.com/album/79WElr9JfXWakohGz8Ufex"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 336388,
       "name": "Don't Look Away - David Morales Mix",
       "url": "https://open.spotify.com/track/4GwWyNp4vwMf17w1gS4S4e"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Good Morning EP",
-        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        },
-        {
-          "name": "Kaytronik",
-          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
-        }
-      ],
-      "duration_ms": 373664,
-      "name": "Good Morning - Kaytronik Remix",
-      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Seven Ways To Wonder (The Remixes)",
         "url": "https://open.spotify.com/album/6lr0dRBpTY8mRXgHGDDRQB"
       },
@@ -2551,6 +2531,26 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Good Morning EP",
+        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Kaytronik",
+          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+        }
+      ],
+      "duration_ms": 373664,
+      "name": "Good Morning - Kaytronik Remix",
+      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Deep House Anthems",
         "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
       },
@@ -2563,6 +2563,22 @@
       "duration_ms": 504933,
       "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
       "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2583,22 +2599,6 @@
       "duration_ms": 669373,
       "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
       "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2651,22 +2651,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
       },
       "artists": [
         {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         },
         {
-          "name": "KT Brooks",
-          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
+          "name": "Tkumah Sadeek",
+          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
         }
       ],
-      "duration_ms": 392640,
-      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
-      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
+      "duration_ms": 530459,
+      "name": "Crossroads - Vocal Mix",
+      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2699,38 +2699,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
       },
       "artists": [
         {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
         },
         {
-          "name": "Tkumah Sadeek",
-          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+          "name": "KT Brooks",
+          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
         }
       ],
-      "duration_ms": 530459,
-      "name": "Crossroads - Vocal Mix",
-      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+      "duration_ms": 392640,
+      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
+      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2791,6 +2775,22 @@
       "duration_ms": 488209,
       "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
       "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Easy Street Classics - Remixes From Across the Pond - Vol. 1",
-        "url": "https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 440500,
-      "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
-      "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/081ccWtCpuZsrPrxiFPA2k"
       },
@@ -3039,6 +3023,22 @@
       "duration_ms": 487773,
       "name": "Glad I Found You - Scott Wozniak Vocal Mix",
       "url": "https://open.spotify.com/track/6bo7IFO1394OXEJGcG284e"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Easy Street Classics - Remixes From Across the Pond - Vol. 1",
+        "url": "https://open.spotify.com/album/6YxUTTGa3DCVqwFHeX0hxZ"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 440500,
+      "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
+      "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
     }
   ],
   "unique_name": "Soulful House",

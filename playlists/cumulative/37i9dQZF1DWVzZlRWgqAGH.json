@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 217218,
       "name": "All I Really Wanna Do - Sunset Mix",
       "url": "https://open.spotify.com/track/1tqjKJyokjixc5YOtq286t"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 161333,
       "name": "AUDACITY.",
       "url": "https://open.spotify.com/track/3bivhIP60Suj1majOReYxZ"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 165600,
       "name": "BETTER (feat. Jay Prince & Billy Davis)",
       "url": "https://open.spotify.com/track/2uwes91y2qqJrutmEZJtlB"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -5650,7 +5650,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 210344,
       "name": "Eye Never Knew [Feat. Pink Siifu, Keyon Harrold]",
       "url": "https://open.spotify.com/track/1Z5OAreCNpapmYDkmzbuM5"
@@ -6476,6 +6476,24 @@
       "duration_ms": 165453,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2VJnZ0oDn1mEzjNJrOfo3t"
+    },
+    {
+      "album": {
+        "name": "Fly By",
+        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Fly By",
+      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
     },
     {
       "album": {
@@ -7984,6 +8002,24 @@
       "duration_ms": 258098,
       "name": "Guilty Pleasures",
       "url": "https://open.spotify.com/track/09KeOvDkNfymrhNvnfTYAi"
+    },
+    {
+      "album": {
+        "name": "Hands Tied",
+        "url": "https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343348,
+      "name": "Hands Tied",
+      "url": "https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C"
     },
     {
       "album": {
@@ -9648,6 +9684,32 @@
       "duration_ms": 214832,
       "name": "Jonesin'",
       "url": "https://open.spotify.com/track/5QFSVxgAbaCJFoKMmtfcdK"
+    },
+    {
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/6TabIjGq34czYmTHf7XEYi"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207763,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/1CEVdjVIYLBShPyCIojtp5"
     },
     {
       "album": {
@@ -11862,6 +11924,28 @@
       "duration_ms": 217089,
       "name": "Move",
       "url": "https://open.spotify.com/track/4hPWChBkg8QvI1kTTkEO08"
+    },
+    {
+      "album": {
+        "name": "MOVE (RIDE) [Feat. Jay Prince]",
+        "url": "https://open.spotify.com/album/0HgntPMvvk59rsmR6uQLB5"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145965,
+      "name": "MOVE (RIDE) [Feat. Jay Prince] - Single Edit",
+      "url": "https://open.spotify.com/track/2InnJyF8XRi5h6HiCoTRUP"
     },
     {
       "album": {
@@ -14365,6 +14449,32 @@
     },
     {
       "album": {
+        "name": "Put Me On",
+        "url": "https://open.spotify.com/album/0AYIXNGP2m2UrwtY8GLocR"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Joanna Teters",
+          "url": "https://open.spotify.com/artist/5jf4cZ6bJNIQKTakieOupp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Put Me On",
+      "url": "https://open.spotify.com/track/4mySvEShlvBaGyOLC05otF"
+    },
+    {
+      "album": {
         "name": "QADIR",
         "url": "https://open.spotify.com/album/1uV0IhVjPSe88XugMAFsmT"
       },
@@ -15151,6 +15261,32 @@
     },
     {
       "album": {
+        "name": "Rush Dem (feat. Haviah Mighty & 4Korners)",
+        "url": "https://open.spotify.com/album/18P8a5KeSlXwzCbOHHOL1d"
+      },
+      "artists": [
+        {
+          "name": "Omega Mighty",
+          "url": "https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r"
+        },
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225842,
+      "name": "Rush Dem (feat. Haviah Mighty & 4Korners)",
+      "url": "https://open.spotify.com/track/0SmjLbrFluvEkKoxfCiqhR"
+    },
+    {
+      "album": {
         "name": "Sabah Al Noor",
         "url": "https://open.spotify.com/album/6HcfPRdt059d9f2I7q8Akw"
       },
@@ -15468,6 +15604,44 @@
       "duration_ms": 196000,
       "name": "Seven Times - Wu-Lu Remix",
       "url": "https://open.spotify.com/track/70loR1tsCdIYX4o6dWgOuz"
+    },
+    {
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
+        },
+        {
+          "name": "Jordan Tait",
+          "url": "https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214939,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
     },
     {
       "album": {
@@ -16206,7 +16380,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 209250,
       "name": "SOME GIRL",
       "url": "https://open.spotify.com/track/5hJxSYtbdaekKBR5VY8lJR"
@@ -16992,7 +17166,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 146493,
       "name": "stronger than pride",
       "url": "https://open.spotify.com/track/54URaRW4KVRnIklZvxS353"
@@ -17090,7 +17264,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
@@ -18129,6 +18303,24 @@
     },
     {
       "album": {
+        "name": "The OPEN-HEARTED",
+        "url": "https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL"
+    },
+    {
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -18394,7 +18586,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 157824,
       "name": "This Too",
       "url": "https://open.spotify.com/track/7E0ck3kZmSzHTsnkXRINPv"
@@ -18464,6 +18656,32 @@
       "duration_ms": 268400,
       "name": "Tints (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/1gnwGVoG7V08vMX3hyr90x"
+    },
+    {
+      "album": {
+        "name": "Tipsy",
+        "url": "https://open.spotify.com/album/3xP8VN3iALWnDdMyR2CNV0"
+      },
+      "artists": [
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Toian",
+          "url": "https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150758,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/0ldSiq9oj9gFXGw2LM2lAA"
     },
     {
       "album": {

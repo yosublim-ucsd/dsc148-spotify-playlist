@@ -2,7 +2,7 @@
 
 ### [Disney Princess](https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ)
 
-> Listen to all your favorite Disney Princess songs including songs from The Little Mermaid.
+> Listen to all your favorite Disney Princess songs.
 
 60 songs - 2 hr 51 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,894 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,960 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 59 | [Vem Só](https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Vem Só](https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd) | 3:19 |
 | 60 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
 | 61 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
-| 62 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
+| 62 | [Run For You](https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [Run For You](https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9) | 2:49 |
 | 63 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
-| 64 | [Run For You](https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [Run For You](https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9) | 2:49 |
+| 64 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
 | 65 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
 | 66 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
 | 67 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
 | 70 | [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 |
 
-Snapshot ID: `MCxhNWU4MmVkZjBmMjdmNmM4YjY3ODQ5MDRkZjA5OGU0ZjRhNDQ3M2M5`
+Snapshot ID: `MCxiN2Q1YmZiYzhjNDZkNDA4YTRiMjJmNzdjM2IxNDJmNTRhMDZhNDU4`

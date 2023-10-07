@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
+    },
+    {
+      "album": {
         "name": "Do They Know Its Christmas?",
         "url": "https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG"
       },
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 207560,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5P5rUzjpgTkZeQbr0CVdsZ"

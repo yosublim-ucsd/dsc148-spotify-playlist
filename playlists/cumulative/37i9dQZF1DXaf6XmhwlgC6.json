@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Clear Mind",
+        "url": "https://open.spotify.com/album/3XBSyg3XXBZd867txggCxH"
+      },
+      "artists": [
+        {
+          "name": "Mother Figures",
+          "url": "https://open.spotify.com/artist/2TQAZvZKUCmj9wLGBjqSj2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203897,
+      "name": "A Clear Mind",
+      "url": "https://open.spotify.com/track/4BgdArkCc5DEHYTpy6clfy"
+    },
+    {
+      "album": {
         "name": "A Journey Within",
         "url": "https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38"
       },
@@ -572,6 +590,24 @@
       "duration_ms": 170079,
       "name": "Color",
       "url": "https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ"
+    },
+    {
+      "album": {
+        "name": "Copper sky",
+        "url": "https://open.spotify.com/album/0JWohRAUevr8bZJVKhSNMd"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Copper sky",
+      "url": "https://open.spotify.com/track/6wW9GN0XSNeX0W8Kk9fpn1"
     },
     {
       "album": {
@@ -2347,6 +2383,24 @@
     },
     {
       "album": {
+        "name": "Pastel Skies",
+        "url": "https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4"
+      },
+      "artists": [
+        {
+          "name": "Harry Bloom",
+          "url": "https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Mulberry",
+      "url": "https://open.spotify.com/track/0YOglzVvXxbxukOXZ61ZaP"
+    },
+    {
+      "album": {
         "name": "Narrowed Down",
         "url": "https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T"
       },
@@ -3856,7 +3910,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196875,
       "name": "Thies",
       "url": "https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586"

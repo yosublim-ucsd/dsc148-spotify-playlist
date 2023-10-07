@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/5kBtLULy6vMwjFRSSEEIjP"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195243,
+      "name": "Goldberg Variations, BWV 988: Var. 21",
+      "url": "https://open.spotify.com/track/7emUlba3ePOU0zfv85HGNu"
+    },
+    {
+      "album": {
         "name": "Study Classics: Bach",
         "url": "https://open.spotify.com/album/1ixqeGQw9jJBjkzT9YTMc8"
       },

@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "De Cabe\u00e7a Pra Baixo",
+        "url": "https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Cafe\u00edna",
+      "url": "https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d"
+    },
+    {
+      "album": {
         "name": "Tia Surica",
         "url": "https://open.spotify.com/album/0C0Ol1nrSlnY4hnSYSyPHt"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 250000,
       "name": "Encantos de Sereia",
       "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"

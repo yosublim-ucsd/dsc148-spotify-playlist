@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Chris Stapelton
 
-468 songs - 1 day 1 hr 42 min
+470 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,8 @@
 | [Set Your Sights](https://open.spotify.com/track/4FRRnwHu64qxfMo76D91SE) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Set Your Sights](https://open.spotify.com/album/257WF7WPxfg6m3nIRLYXTv) | 3:31 | 2023-06-29 | 2023-09-08 |
 | [settle on back](https://open.spotify.com/track/0Qfn33ruaFcBLZg5tZMung) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Tulip Drive](https://open.spotify.com/album/7Bx8uaFmLhWfsSQ7Ryz9Oy) | 3:20 | 2022-06-09 | 2022-07-29 |
 | [settle on back](https://open.spotify.com/track/7hlzL4fYmmKJV6TBpK9Zou) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 3:20 | 2022-07-28 | 2022-09-30 |
-| [She Calls Me Back](https://open.spotify.com/track/0JOcEj8CDO0KFArxMLYrD3) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/2RbomusWGFOXiXMC1rnHoQ) | 4:03 | 2023-10-05 |  |
+| [She Calls Me Back](https://open.spotify.com/track/0JOcEj8CDO0KFArxMLYrD3) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/2RbomusWGFOXiXMC1rnHoQ) | 4:03 | 2023-10-05 | 2023-10-07 |
+| [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4) | 4:03 | 2023-10-05 |  |
 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 | 2022-05-19 | 2022-08-26 |
 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 | 2022-05-06 | 2022-10-28 |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-21 | 2022-08-12 |
@@ -402,6 +403,7 @@
 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 | 2022-09-08 | 2023-03-25 |
 | [Thank God She's A Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 | 2023-10-05 |  |
 | [That Summer](https://open.spotify.com/track/21pFoQUP2Jl56aumhoMCbK) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [That Summer](https://open.spotify.com/album/6IaU97CQsdTwOWdxyENVOw) | 3:03 | 2023-02-16 | 2023-06-09 |
+| [The Girl I Knew](https://open.spotify.com/track/5fC1YgBLFdSv3Uslvw6EoM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [The Girl I Knew](https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P) | 2:51 | 2023-10-05 |  |
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-04 | 2023-05-19 |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 | 2022-10-28 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 | 2023-04-07 |

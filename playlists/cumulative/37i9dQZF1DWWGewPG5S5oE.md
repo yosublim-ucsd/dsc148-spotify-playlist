@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-213 songs - 17 hr 22 min
+214 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 | 2023-08-01 | 2023-08-03 |
 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 | 2022-09-06 | 2023-02-17 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |
-| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 |  |
+| [Wanted](https://open.spotify.com/track/5MJzxfOe8hmqJDn6NEFO98) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3) | 7:12 | 2023-09-05 | 2023-10-07 |
+| [Wanted](https://open.spotify.com/track/5v0Nftz5zbMK2CZhpJWiND) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Sonicwonderland](https://open.spotify.com/album/4AwRYl2kRyCYaAkxHAklZ8) | 7:12 | 2023-10-03 |  |
 | [water melon](https://open.spotify.com/track/1MoCrRPl7VmLqkuVPBuc8n) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water melon](https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A) | 3:51 | 2022-11-15 | 2023-01-11 |
 | [water of goddess](https://open.spotify.com/track/6yoA5AMvxjNd1RoykmbnAZ) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water of goddess](https://open.spotify.com/album/6xN8qW4onF9aYvqZTx2XDt) | 3:38 | 2023-01-10 | 2023-02-28 |
 | [WE WILL](https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:11 | 2023-02-16 | 2023-09-14 |

@@ -809,6 +809,28 @@
     },
     {
       "album": {
+        "name": "Groovin' Through the Galaxy",
+        "url": "https://open.spotify.com/album/1QFxPz9HrcIwZPf7Mrg8ON"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "astreaux.",
+          "url": "https://open.spotify.com/artist/2mpuoJyvskmbVZfvOrlHmL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224344,
+      "name": "Goodbye Earth",
+      "url": "https://open.spotify.com/track/6xjKMuVMz0om4n5CA8S7Kl"
+    },
+    {
+      "album": {
         "name": "Blackberry Mango",
         "url": "https://open.spotify.com/album/71bHOjhdk1ksqHlmpZnOny"
       },

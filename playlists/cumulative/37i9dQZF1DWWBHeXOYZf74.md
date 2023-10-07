@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Omar Apollo
 
-2,218 songs - 5 day 4 hr 35 min
+2,219 songs - 5 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2063,6 +2063,7 @@
 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 | 2020-06-16 | 2020-11-13 |
 | [Vibe Session 2](https://open.spotify.com/track/1mww40cWQK873rdKklWP7r) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js), [ria of mars](https://open.spotify.com/artist/0gtJJVbTPtOIhz5oKVVNhC) | [Vibe Session 2](https://open.spotify.com/album/4qIpFTCICoWrVcHwTsT6jA) | 3:33 | 2021-02-18 | 2021-06-12 |
 | [Victorious](https://open.spotify.com/track/7xZSy1YRvAbhkKVDMJWI1W) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Victorious//Bullets](https://open.spotify.com/album/0ExGbjosILPh9lf3dCIM9z) | 2:24 | 2023-08-25 | 2023-09-16 |
+| [Vin Skully](https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 1:53 | 2023-10-06 |  |
 | [VINYL](https://open.spotify.com/track/2V4mZoAUYA22VDny8KAg8f) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [VINYL](https://open.spotify.com/album/368TKDyiyzFTwCyHJ0uWqc) | 3:13 | 2020-11-27 | 2021-02-27 |
 | [Violence](https://open.spotify.com/track/1AL43xNYEG5KSoqf9Yd6Cr) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Violence](https://open.spotify.com/album/1BUgR3IIl0oNNhr7oWlN21) | 3:40 | 2019-09-06 | 2019-12-13 |
 | [Virile](https://open.spotify.com/track/74oqnufi2wpR5wfnui3osH) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Virile](https://open.spotify.com/album/6lUAGUN5XCJivMn5dakLlB) | 4:13 | 2019-11-16 | 2020-01-28 |

@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-355 songs - 17 hr 51 min
+356 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Kaleidoscopes](https://open.spotify.com/track/0Pkywn7CGwbUhk10iGPpou) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Kaleidoscopes](https://open.spotify.com/album/2aiyIySFX9CdtSAJC2jJy0) | 3:51 | 2022-07-05 |  |
 | [Kamala Whispers](https://open.spotify.com/track/7vuiorqf35I6w77KN6SX9v) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Kamala Whispers](https://open.spotify.com/album/2uhijpoPHyuCYoQ7blYqqR) | 2:18 | 2023-04-07 |  |
 | [Kaolnite](https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [Kaolnite](https://open.spotify.com/album/4ZPUoevTs8TL3qSTYoiV5N) | 3:00 | 2022-07-05 |  |
+| [Keep Calm](https://open.spotify.com/track/01d67EQENQeg8pIji8bv42) | [Sanndýr](https://open.spotify.com/artist/4feDtz8H3fR4Oy1tn4wKAU) | [Keep Calm](https://open.spotify.com/album/4yRK9AYWhEq3mZGPTwfFGF) | 3:07 | 2023-10-06 |  |
 | [Know Yourself](https://open.spotify.com/track/52COkLkSSQQHvJvyYVCjmq) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Know Yourself](https://open.spotify.com/album/1BqRWjG425c6JcxthtJF83) | 3:03 | 2022-07-05 | 2022-08-16 |
 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 | 2022-11-22 |  |
 | [Lavender Fields](https://open.spotify.com/track/2RZHgUsh0JdF9qptiP6F2j) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Lavender Fields](https://open.spotify.com/album/5mWAUKwtkE0eJ2yySSIaPD) | 2:11 | 2022-07-05 | 2022-12-21 |
@@ -348,7 +349,7 @@
 | [Virtue](https://open.spotify.com/track/7Kj3qcUmuEAWb5bMjqoRdm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Way of Life](https://open.spotify.com/album/2WJ3Et6BMjC0ePyPbsEAQc) | 2:44 | 2022-07-05 | 2022-11-23 |
 | [Walk With Me](https://open.spotify.com/track/3YyKA6exm6z8Y0GgFBefdm) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [Walk With Me](https://open.spotify.com/album/1jYIfOGqyznLpCrd2S1noV) | 3:16 | 2022-07-05 | 2023-04-07 |
 | [Waterscape](https://open.spotify.com/track/658YiYn225yaKMIkll7V7o) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Waterscape](https://open.spotify.com/album/2TSl3cvh0VOk1ef80PmoYt) | 2:33 | 2022-07-05 | 2022-07-29 |
-| [Waterscape](https://open.spotify.com/track/6mZUA9EqJi3Dz5TIY1zv2r) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Waterscape](https://open.spotify.com/album/415qZ0uB6VJ7EvJ67GvrMl) | 2:33 | 2022-07-05 |  |
+| [Waterscape](https://open.spotify.com/track/6mZUA9EqJi3Dz5TIY1zv2r) | [The Glass Arcade](https://open.spotify.com/artist/43ZVxJYgUlWueA0kKDTnoC) | [Waterscape](https://open.spotify.com/album/415qZ0uB6VJ7EvJ67GvrMl) | 2:33 | 2022-07-05 | 2023-10-07 |
 | [Waterscape](https://open.spotify.com/track/1owI7qjk0EMazaLPM3HsmV) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Waterscape](https://open.spotify.com/album/6A4iHxwqG4ZTLQugc1WEu3) | 2:41 | 2022-07-05 | 2022-07-29 |
 | [Waterscape](https://open.spotify.com/track/36oZNCh9JzOJE2j1fEJ5XD) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Waterscape](https://open.spotify.com/album/5aFDOv7BE1mA6sshgLCIoY) | 2:41 | 2022-07-05 | 2023-04-07 |
 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 | 2022-11-11 |  |

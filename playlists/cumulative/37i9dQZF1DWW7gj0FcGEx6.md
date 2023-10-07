@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-286 songs - 14 hr 25 min
+287 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Dessner: Julian and Tereza](https://open.spotify.com/track/7bwcAvIDCPtOpMLBamIpNC) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [She Came to Me \- Julian and Tereza](https://open.spotify.com/album/1mXYGxip1uPVytH6vgQyVL) | 1:05 | 2023-09-01 |  |
 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 | 2021-12-20 | 2022-07-09 |
 | [Dirt Music Theme](https://open.spotify.com/track/20zApfduWjF2ixzykYAtsf) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Dirt Music \(Original Motion Picture Score\)](https://open.spotify.com/album/2l3DKmI917n0fzgDy0C0yz) | 5:36 | 2021-12-20 | 2022-07-09 |
+| [Divine Bloodlines \(feat\. Ari Mason\) \[Trailer Version\]](https://open.spotify.com/track/7yywthwlBemMszf7EXXcoG) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq), [Trey Toy](https://open.spotify.com/artist/064lAbwkbIta0J7fJPAFx6), [Ari Mason](https://open.spotify.com/artist/0V8zk3mDbTH54fs1bdqx8y) | [Castlevania Nocturne \(Original Series Soundtrack\)](https://open.spotify.com/album/1RXziB6CQgiMH4j28vt6NQ) | 2:34 | 2023-10-06 |  |
 | [Djinn Theme](https://open.spotify.com/track/48SFgH7DBhSJ1G4bN2uYVS) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Three Thousand Years of Longing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/53YwItUiceECIImcxDFSPf) | 1:32 | 2022-09-23 |  |
 | [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and the Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 | 2022-12-23 |  |
 | [Don't Look Up \- Main Title Theme](https://open.spotify.com/track/46Ykbossnav7MND8qCJcGR) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 0:51 | 2022-01-07 |  |

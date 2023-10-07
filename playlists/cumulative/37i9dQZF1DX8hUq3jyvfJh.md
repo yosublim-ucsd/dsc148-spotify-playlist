@@ -2,7 +2,7 @@
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Alcione e mais mulheres icônicas para serem ouvidas no volume máximo!
+> Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
 857 songs - 1 day 20 hr 2 min
 

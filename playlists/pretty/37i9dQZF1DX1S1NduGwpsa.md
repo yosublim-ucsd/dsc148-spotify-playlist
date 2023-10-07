@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Katie Melua
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,085 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,145 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Because of You \- 2023](https://open.spotify.com/track/3ivoMu5Y5iDA4qjTElozbd) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Because of You \(2023\)](https://open.spotify.com/album/2UGDVSH0KTEPidJeCs8z6P) | 3:37 |
 | 50 | [Apache Woman](https://open.spotify.com/track/6gH3Nrt0v6AZzCfaMAjyO2) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO), [Carlo Nardozza](https://open.spotify.com/artist/1eYCiyEsYPHpLci3OUborg), [Sylvain Rifflet](https://open.spotify.com/artist/29UYO17BFU01uHhncAy8ni), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Himiko Paganotti](https://open.spotify.com/artist/7nOiX0kJl9GXiBt8GmFhYC) | [Apache Woman](https://open.spotify.com/album/2drFeRDhAXuzdccDxj40uw) | 7:20 |
 
-Snapshot ID: `MCw0MTMyNTEyOWM0ZjA4MTRkMzI1MzY3Yzc3OGMxNjIwOTM5ZWEwOWE2`
+Snapshot ID: `MCxmZjY1Mjc4MzYzYTAwMGIwOTAzMjFmMmEzNGViODVjMDQ5ZDk1Yjdm`

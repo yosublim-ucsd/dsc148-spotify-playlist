@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 168000,
       "name": "Sigiriya",
       "url": "https://open.spotify.com/track/11tgd8lU2eFk0DNqMTEqtT"
@@ -7384,6 +7384,24 @@
       "duration_ms": 238000,
       "name": "Suilven",
       "url": "https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU"
+    },
+    {
+      "album": {
+        "name": "Sumargola",
+        "url": "https://open.spotify.com/album/1FhinixtO382WgvThtedas"
+      },
+      "artists": [
+        {
+          "name": "Afturkalla",
+          "url": "https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Sumargola",
+      "url": "https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W"
     },
     {
       "album": {

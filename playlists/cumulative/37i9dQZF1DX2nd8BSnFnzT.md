@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Fresno
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty
 
-382 songs - 21 hr 29 min
+383 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [História de Verão \- Ao Vivo](https://open.spotify.com/track/1Bt9doFN2PjDIeKjYUHdHt) | [Forfun](https://open.spotify.com/artist/1qIAsl3tIpnX0j4BMi0l5g) | [Ao Vivo Na Fundição](https://open.spotify.com/album/63KFXOVwHt1VBr0labzT4s) | 3:14 | 2022-10-28 | 2023-08-26 |
 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 | 2022-01-14 | 2022-10-29 |
 | [ilusão a dois](https://open.spotify.com/track/77NJ6i8EDmYfGUChbDcGIz) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [Ilusão a dois](https://open.spotify.com/album/35QIzRXMEORJyeR4q6vQIY) | 2:58 | 2022-11-11 | 2023-01-28 |
+| [Imagem É Tudo, Sua Cabeça Não Tem Nada](https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Jason](https://open.spotify.com/artist/70t5J0JdC7dRV2gXTyVaR4) | [Espelhos – Versões Completas de Admirável Vídeo Novo](https://open.spotify.com/album/1yFxl1VPjOj3FmzMJTLPh0) | 1:27 | 2023-10-06 |  |
 | [Impossível de Ser Assim](https://open.spotify.com/track/2YRkVJ8oEfXME75J8DRsZh) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Impossível de Ser Assim](https://open.spotify.com/album/6Z0DzOwJwVCUlMhfjsmJd2) | 3:12 | 2022-01-14 | 2022-04-29 |
 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 | 2022-10-28 |  |
 | [Independente da Razão](https://open.spotify.com/track/5erOum9abFhuRW9YCwuOPj) | [Uill](https://open.spotify.com/artist/6pO2XYME0r2OPJ6Z5PMruj) | [Independente da Razão](https://open.spotify.com/album/2ovuSZfZRELsEwD2FT52iS) | 3:52 | 2022-09-02 | 2022-09-18 |
@@ -185,7 +186,7 @@
 | [Loser](https://open.spotify.com/track/4ummgQbLMei458Pqv3d3H2) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK), [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [Loser](https://open.spotify.com/album/1jMipAeLotyZINktvtkvWq) | 2:39 | 2022-06-03 | 2022-08-06 |
 | [Loucomotiva](https://open.spotify.com/track/0yTGD2iMd3KUUmqg5QjUAo) | [Carranca](https://open.spotify.com/artist/5Bcf6iX36RZxTbud6uAY8Y), [Gerson King Combo](https://open.spotify.com/artist/3CSl34BLWfN5YQrmjtfQ9j) | [Sonho Escaldante de Magia Azul](https://open.spotify.com/album/1Wrxh1nyH4GXVQQvoITL8d) | 5:08 | 2022-01-14 | 2022-11-12 |
 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 | 2023-01-27 |  |
-| [Luar Neon](https://open.spotify.com/track/6Uk8xAVT0YS5ubSsjNjoSO) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Luar Neon](https://open.spotify.com/album/4AHwZG79rV7aHlU1ipH9Wb) | 4:27 | 2023-08-04 |  |
+| [Luar Neon](https://open.spotify.com/track/6Uk8xAVT0YS5ubSsjNjoSO) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Luar Neon](https://open.spotify.com/album/4AHwZG79rV7aHlU1ipH9Wb) | 4:27 | 2023-08-04 | 2023-10-07 |
 | [Luta ou Fuga](https://open.spotify.com/track/28PLERVExTPCA66oDXmw59) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Luta ou Fuga](https://open.spotify.com/album/4hNUujf887BnP0h74WqSrt) | 2:40 | 2022-04-15 | 2022-05-20 |
 | [Luzia](https://open.spotify.com/track/0R1xhETyCm9SD5zcUkw3sI) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Boiada Suicida](https://open.spotify.com/album/6Pe6o0LB5UKPSJGCRRwa5b) | 1:34 | 2022-08-05 | 2022-09-03 |
 | [Lúmen](https://open.spotify.com/track/59zeW3tMD4uoyfnX9Vqwtg) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lúmen](https://open.spotify.com/album/2cLYS9JiviSsS0Pu7wQtwD) | 4:16 | 2022-05-20 | 2022-06-18 |

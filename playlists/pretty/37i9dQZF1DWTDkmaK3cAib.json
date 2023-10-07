@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 39201,
+  "num_followers": 39272,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTBiNDVhYzU3YzNjY2YwOTliZTczNDU4NjNhYzk0YjZhMGZmZThh",
+  "snapshot_id": "MCw0MjZkOTMwNWI3MzRlZjc4YzY5ZjljMmIzOGQwODA0NTEyMjQzY2Vi",
   "tracks": [
     {
       "added_at": "2023-08-30 17:14:47",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-08-30 17:14:47",
       "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Carlota Urdiales",
-          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
-        }
-      ],
-      "duration_ms": 163755,
-      "name": "COLTRANE",
-      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
-    },
-    {
-      "added_at": "2023-08-30 17:14:47",
-      "album": {
         "name": "No Fue",
         "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 195844,
       "name": "No Fue",
       "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
+    },
+    {
+      "added_at": "2023-08-30 17:14:47",
+      "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Carlota Urdiales",
+          "url": "https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl"
+        }
+      ],
+      "duration_ms": 163755,
+      "name": "COLTRANE",
+      "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
     },
     {
       "added_at": "2023-08-30 17:14:47",

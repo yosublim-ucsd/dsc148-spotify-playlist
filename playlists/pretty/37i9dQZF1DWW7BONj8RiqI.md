@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,199 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,252 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 43 | [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 |
 | 44 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 45 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
-| 46 | [Soca Kingdom](https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv) | 3:22 |
+| 46 | [Soca Kingdom](https://open.spotify.com/track/5NiRDAlFxIkFJvqQ7cnxKL) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/7cZEBsRA8zSlkx2Y4BBwRB) | 3:19 |
 | 47 | [Stage Gone Bad](https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe) | 3:13 |
 | 48 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 49 | [Nasty Up](https://open.spotify.com/track/1ZTihlaGPnfLrOXbOFyj15) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 3:34 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 57 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 |
 | 58 | [Zen Mode](https://open.spotify.com/track/60JbCdnGtjktguVEToZW6N) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Festival of Fire Riddim](https://open.spotify.com/album/6Qtqo6aIFAEUZI0fHVgINC) | 3:50 |
 
-Snapshot ID: `MCxmMTg4ZTgyMjRmZWExMWZlMzNlZGQ4ZGQ5M2VkZTZhZGJiZjkxNjdi`
+Snapshot ID: `MCwwZjgzODlhY2ZiOWRjNTBjMDI3ZWY3OWYzMzMxMjEwZjFhN2UxZDhh`

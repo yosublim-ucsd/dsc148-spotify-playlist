@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
+  "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Judas O Outro",
   "name": "Templo do Rock",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 264750,
       "name": "Aonde Est\u00e1 Deus",
       "url": "https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF"
@@ -416,6 +416,32 @@
       "duration_ms": 231250,
       "name": "Bartimeu",
       "url": "https://open.spotify.com/track/3Ym8Lc7IGOB59LJg9pWRLG"
+    },
+    {
+      "album": {
+        "name": "Bitcoins",
+        "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
+      },
+      "artists": [
+        {
+          "name": "Catarina Von Bora",
+          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222635,
+      "name": "Bitcoins",
+      "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
     },
     {
       "album": {
@@ -644,7 +670,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 218000,
       "name": "Deserto 2.0",
       "url": "https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI"
@@ -1256,7 +1282,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173009,
       "name": "Me Recuso a Viver em V\u00e3o",
       "url": "https://open.spotify.com/track/7Abi0l5SsiALsAJatiLcg7"
@@ -1488,6 +1514,28 @@
       "duration_ms": 282583,
       "name": "N\u00e3o \u00e9 Por Vista",
       "url": "https://open.spotify.com/track/5NXnb2R2cctmTNQHG8vD4K"
+    },
+    {
+      "album": {
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "album": {
@@ -2228,6 +2276,24 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "album": {
+        "name": "Vem Cantar - Salmo 95",
+        "url": "https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx"
+      },
+      "artists": [
+        {
+          "name": "Tanlan",
+          "url": "https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220031,
+      "name": "Vem Cantar - Salmo 95",
+      "url": "https://open.spotify.com/track/1isclXANLY4ny3quvpST7p"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:bass">bass</a> with Excision & Subtronics.
+> All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-616 songs - 1 day 11 hr 35 min
+617 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [ID1](https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Nightmare On Rezz Street 2 Mix](https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi) | 2:54 | 2022-10-28 | 2023-05-20 |
 | [If I Have To](https://open.spotify.com/track/6BhQZ0wlqpOvx5SUhamhNR) | [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ), [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc) | [If I Have To](https://open.spotify.com/album/08Q9olnsm63azlo8oC2pit) | 3:41 | 2022-02-04 | 2022-08-06 |
 | [If Love Could Have Saved You](https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [If Love Could Have Saved You](https://open.spotify.com/album/6h00scGXHmjeGfQDWjy8A3) | 3:01 | 2023-09-08 |  |
+| [In This World](https://open.spotify.com/track/5CMOwBRA9nShq31cMeMEsE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ouroboros](https://open.spotify.com/album/6pNuyY90Baz2qxRa4Z2B8C) | 4:24 | 2023-10-06 |  |
 | [In Your House](https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [In Your House](https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn) | 2:44 | 2023-07-14 | 2023-08-26 |
 | [INERTIA](https://open.spotify.com/track/5pqaZzkZ5AnjZs5AV3Bnvn) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [INERTIA](https://open.spotify.com/album/7E8dIBhTuiuivNbLk4qSgg) | 3:43 | 2021-12-17 | 2022-05-07 |
 | [INFECTED](https://open.spotify.com/track/6VxyKtFiX8mKJtnEVYgeav) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [INFECTED](https://open.spotify.com/album/66lwm1ozaTGXjTiOhUg3N5) | 4:00 | 2021-12-17 | 2022-03-12 |
@@ -322,7 +323,7 @@
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-02-18 | 2022-08-06 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-07-01 | 2023-07-08 |
 | [Like Water](https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Jadelyn](https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit) | [Like Water](https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS) | 4:30 | 2021-12-17 | 2022-02-19 |
-| [Liminality](https://open.spotify.com/track/2OgUZFfxYwjJLN36Xcu7EK) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Liminality](https://open.spotify.com/album/0yHqyK0h7PqpFdh1Pw6A5S) | 3:35 | 2023-08-25 |  |
+| [Liminality](https://open.spotify.com/track/2OgUZFfxYwjJLN36Xcu7EK) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [Liminality](https://open.spotify.com/album/0yHqyK0h7PqpFdh1Pw6A5S) | 3:35 | 2023-08-25 | 2023-10-07 |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-09-15 |  |
 | [Live For The Highs](https://open.spotify.com/track/1mWNh7MfEVEpikY11w4LtA) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [Com3t](https://open.spotify.com/artist/5XPHqcQ4VMSGsbHbBuDF2b), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Live For The Highs](https://open.spotify.com/album/2DCDcmluMHtFMmr8lnUGQe) | 3:07 | 2022-07-22 | 2023-01-06 |
 | [Looking For More](https://open.spotify.com/track/7us5o6uXfSSmiedZSoKkR6) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Looking For More](https://open.spotify.com/album/3j32wZ0pudc0BLviHDVpi3) | 4:04 | 2021-12-17 | 2022-03-12 |

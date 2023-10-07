@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: Tanya Tucker",
+  "description": "The latest music from our Country Heroes. Cover: Reba McEntire",
   "name": "New Traditions Country Heroes",
   "tracks": [
     {
@@ -3356,6 +3356,24 @@
       "duration_ms": 184707,
       "name": "Set In Stone",
       "url": "https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa"
+    },
+    {
+      "album": {
+        "name": "Not That Fancy",
+        "url": "https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Seven Minutes In Heaven",
+      "url": "https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr"
     },
     {
       "album": {

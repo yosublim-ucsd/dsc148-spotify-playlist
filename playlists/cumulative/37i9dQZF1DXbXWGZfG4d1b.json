@@ -450,7 +450,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 221552,
       "name": "Animales",
       "url": "https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW"
@@ -9136,6 +9136,40 @@
       "duration_ms": 167673,
       "name": "Un X100To",
       "url": "https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0"
+    },
+    {
+      "album": {
+        "name": "Una ciudad de cristal (Montevideo)",
+        "url": "https://open.spotify.com/album/7IFPI1gBOZi7Vsiyx2cCbt"
+      },
+      "artists": [
+        {
+          "name": "Calequi",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        },
+        {
+          "name": "Las Panteras",
+          "url": "https://open.spotify.com/artist/2H9bvz22G7CnbT0Gm3uarb"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Facundo Balta",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        },
+        {
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237166,
+      "name": "Una ciudad de cristal (Montevideo)",
+      "url": "https://open.spotify.com/track/40MPDxMqHq23QYbF692L9K"
     },
     {
       "album": {

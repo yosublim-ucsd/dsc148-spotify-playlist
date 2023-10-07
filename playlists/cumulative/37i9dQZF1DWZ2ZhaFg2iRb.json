@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 180124,
       "name": "Pozvala m\u011b do teepee",
       "url": "https://open.spotify.com/track/4QrBRn5xlQx143VYn7A37w"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/4L3OuInIKurYcCeU8l2VIV"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182076,
+      "name": "This Is My Time",
+      "url": "https://open.spotify.com/track/3bPYk86DnyeFLRJ1GRzKWB"
+    },
+    {
+      "album": {
         "name": "King Creole",
         "url": "https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl"
       },
@@ -2208,6 +2226,24 @@
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+    },
+    {
+      "album": {
+        "name": "Do trojky",
+        "url": "https://open.spotify.com/album/6MVL1JCy7AXvcrPgNNUfFQ"
+      },
+      "artists": [
+        {
+          "name": "Vojtaano",
+          "url": "https://open.spotify.com/artist/2wHicAG4gMIseKmYuPUcIw"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157016,
+      "name": "V m\u00edru",
+      "url": "https://open.spotify.com/track/3AOj2C9uyr2pOtxFvpSelx"
     },
     {
       "album": {

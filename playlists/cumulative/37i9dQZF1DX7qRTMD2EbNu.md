@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=DXRQ6FTcTSuPFdlgfyW2yA"> Ko\-Jo Cue </a>
+> Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL?si=SedkyL7vRY2mNGxi\-pAzgw"> Medikal </a>
 
-307 songs - 15 hr 44 min
+308 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bad Guy \(feat\. Lord Afrixana\)](https://open.spotify.com/track/0VqRt3AX9DqM6GbLFx48Dc) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc) | [Bad Guy \(feat\. Lord Afrixana\)](https://open.spotify.com/album/2yKABRh86RgHi6zWVy8O3A) | 2:53 | 2023-02-03 | 2023-02-11 |
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-30 | 2022-12-10 |
 | [Balance](https://open.spotify.com/track/27mYifEdhLkO5QyHf9JDnt) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs), [Nshonamuzik](https://open.spotify.com/artist/0zDpGURU8mb72FtaiBRvzt) | [Balance](https://open.spotify.com/album/19gg9ixf4D6gMikR6hAhnx) | 2:48 | 2022-06-24 | 2023-09-01 |
+| [Balenciaga](https://open.spotify.com/track/3mHz3yqx958dVb2BlLoePR) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Balenciaga](https://open.spotify.com/album/5kcBkleDp2ajk9SknSxZo9) | 3:10 | 2023-10-06 |  |
 | [Bang](https://open.spotify.com/track/6tihOaexrFJpNs1WfhN7Dg) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Joey B](https://open.spotify.com/artist/4yd9pnjGwTVh3azJCoJrzT) | [Acheampong Boys](https://open.spotify.com/album/0XdOVWE2y2A5XOGpTdr6pZ) | 2:46 | 2022-06-24 | 2023-04-15 |
 | [Benz \(Garri\)](https://open.spotify.com/track/3a9WcZmIjrQUZuqXQexjfQ) | [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Benz \(Garri\)](https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3) | 3:12 | 2023-03-02 | 2023-03-18 |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-24 |  |

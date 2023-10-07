@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-416 songs - 1 day 1 hr 1 min
+418 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Arabesco](https://open.spotify.com/track/3iiUKOvQ27hAfttpkNovNT) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Arabesco](https://open.spotify.com/album/0UCexnEz4hSnNEPdpMtLZe) | 3:57 | 2022-04-15 | 2022-07-27 |
 | [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 | 2023-08-05 |
 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 | 2023-09-08 |  |
+| [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 | 2023-10-06 |  |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 |  |
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
@@ -94,7 +95,7 @@
 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-08 | 2023-01-28 |
 | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/track/1qG0vfV4Choc3a0ge6M1TC) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/album/6LB7CDWDiFvIB5JoeVp7we) | 3:29 | 2022-04-15 | 2022-12-10 |
 | [Despacio](https://open.spotify.com/track/0xH1UoQhmxinSnlF3lShFS) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Despacio](https://open.spotify.com/album/2CwoLEkj3bdmZ35UEjSo4A) | 3:21 | 2023-05-12 | 2023-08-05 |
-| [despacito](https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [despacito](https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC) | 3:13 | 2022-08-26 |  |
+| [despacito](https://open.spotify.com/track/2LPnCqJb4Impa4hOvU0qjK) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [despacito](https://open.spotify.com/album/3F8syeMNfORCQwtsn2aPpC) | 3:13 | 2022-08-26 | 2023-10-07 |
 | [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 |  |
 | [Detrás de Tu Espejo](https://open.spotify.com/track/0tJR8S5FotmfQSjbjedAXO) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Detrás de Tu Espejo](https://open.spotify.com/album/2AMX8VrSxSKltPdfbhiS1F) | 3:46 | 2022-04-15 | 2022-07-24 |
 | [Devorarte](https://open.spotify.com/track/66JRlkCDrKxJo25iBqO2Co) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Vida Mía ♡](https://open.spotify.com/album/0lodGLPms9cyzlTtnuuHno) | 3:45 | 2022-04-15 | 2022-12-10 |
@@ -153,6 +154,7 @@
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 | 2023-06-24 |
 | [formas de volver a casa](https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [formas de volver a casa](https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo) | 2:33 | 2022-10-28 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
+| [Frente a Frente](https://open.spotify.com/track/6PpxCjRBxhZb3tNnCM407o) | [Dodo](https://open.spotify.com/artist/1CwQZInJ0vWCQYpbR9z1Iq) | [Frente a Frente](https://open.spotify.com/album/7r1NTAu2ThCUQb7D0q9TxQ) | 5:53 | 2023-10-06 |  |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 | 2022-12-10 |
 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 | 2022-08-06 |
 | [Frías](https://open.spotify.com/track/0WWZQYep6VPEJ540Lky528) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Reminiscencias](https://open.spotify.com/album/11mR2hSiH1drggBB5jiq0S) | 3:55 | 2022-04-15 | 2022-07-29 |
@@ -213,7 +215,7 @@
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Lunachena](https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw) | [Tu Temple](https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF) | [Lunachena](https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d) | 4:17 | 2023-09-29 |  |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |
-| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 |  |
+| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 | 2023-10-07 |
 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 | 2023-05-12 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |

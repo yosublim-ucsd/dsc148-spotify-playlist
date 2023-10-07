@@ -3003,6 +3003,32 @@
     },
     {
       "album": {
+        "name": "Tarakkiyan (From \"Multani Mitti\")",
+        "url": "https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Boyblanck",
+          "url": "https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5"
+        },
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Tarakkiyan - From \"Multani Mitti\"",
+      "url": "https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V"
+    },
+    {
+      "album": {
         "name": "THAPPAD!",
         "url": "https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0"
       },

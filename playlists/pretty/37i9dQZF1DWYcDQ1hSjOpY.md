@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,882,353 likes - 328 songs - 15 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,882,613 likes - 328 songs - 15 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 23 | [Lorimor](https://open.spotify.com/track/4Dduhh8xWr0XCBoVJthchN) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Lorimor](https://open.spotify.com/album/5BlMYaGM6uoxCXfzHkZida) | 2:19 |
 | 24 | [Nakts](https://open.spotify.com/track/0hdteS5iY7LQPLhvRniot7) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Nakts](https://open.spotify.com/album/6BuqwJwUsus7FSSHFXBBZP) | 2:18 |
 | 25 | [Szeretet](https://open.spotify.com/track/2DSwyVUVFR80p19iJe1q3G) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Szeretet](https://open.spotify.com/album/1zKgegS1nwzcAR0mW1ACHZ) | 3:01 |
-| 26 | [Silk](https://open.spotify.com/track/2kEk2uIKtoJD5r65cH7XBP) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Contemplate](https://open.spotify.com/album/4YPmrvr0GCO4errUctduu7) | 2:53 |
-| 27 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 |
-| 28 | [Secluded Silence](https://open.spotify.com/track/7gW4wwzkNAYdmzRxICUIFM) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Secluded Silence](https://open.spotify.com/album/3kvU85FsotP9SIHx2RyDCQ) | 3:03 |
-| 29 | [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 |
-| 30 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
-| 31 | [Lullaby for Dreamers](https://open.spotify.com/track/6AsXo1lufj9WFqL4Youwzd) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Lullaby for Dreamers](https://open.spotify.com/album/1Ks1064T8n7ju8hQLGDH1D) | 3:02 |
-| 32 | [Windless](https://open.spotify.com/track/6ag3FxxSmUZu8PoTNfgPEx) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Windless](https://open.spotify.com/album/51cG2g2BWyn46uehhxAgMp) | 2:57 |
-| 33 | [Peak](https://open.spotify.com/track/7F2Y6sGghpGmjNTFygQO4h) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Peak](https://open.spotify.com/album/1SQaQKEWXa4eI9CcIrpLyt) | 2:46 |
-| 34 | [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 |
-| 35 | [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 |
-| 36 | [Star Canvas](https://open.spotify.com/track/4mx72LKfWQOIRg0MMqXU7q) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Star Canvas](https://open.spotify.com/album/4vMmQrOWNVNfu5RFkkZtma) | 2:53 |
+| 26 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 |
+| 27 | [Secluded Silence](https://open.spotify.com/track/7gW4wwzkNAYdmzRxICUIFM) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Secluded Silence](https://open.spotify.com/album/3kvU85FsotP9SIHx2RyDCQ) | 3:03 |
+| 28 | [Fleur](https://open.spotify.com/track/1lGj3SVkZAbd4Flhv3QgDe) | [Tova Martin](https://open.spotify.com/artist/4JzWkUDHMAo4rmsgBGs3ua) | [Doux](https://open.spotify.com/album/6KLXeh39RYl1JBnCghcgRU) | 2:59 |
+| 29 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
+| 30 | [Lullaby for Dreamers](https://open.spotify.com/track/6AsXo1lufj9WFqL4Youwzd) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Lullaby for Dreamers](https://open.spotify.com/album/1Ks1064T8n7ju8hQLGDH1D) | 3:02 |
+| 31 | [Windless](https://open.spotify.com/track/6ag3FxxSmUZu8PoTNfgPEx) | [Apech](https://open.spotify.com/artist/5SPUYIgR6Gpno3V0FACiRf) | [Windless](https://open.spotify.com/album/51cG2g2BWyn46uehhxAgMp) | 2:57 |
+| 32 | [Peak](https://open.spotify.com/track/7F2Y6sGghpGmjNTFygQO4h) | [santini perotti](https://open.spotify.com/artist/2C3LjNILc7hBqMcLczxi2L) | [Peak](https://open.spotify.com/album/1SQaQKEWXa4eI9CcIrpLyt) | 2:46 |
+| 33 | [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 |
+| 34 | [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 |
+| 35 | [Star Canvas](https://open.spotify.com/track/4mx72LKfWQOIRg0MMqXU7q) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Star Canvas](https://open.spotify.com/album/4vMmQrOWNVNfu5RFkkZtma) | 2:53 |
+| 36 | [Envision](https://open.spotify.com/track/1E05Z2lKEAtQmKkDtpmmJy) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Envision](https://open.spotify.com/album/2TDOLO4nM5aoKWRVEJjoGf) | 2:45 |
 | 37 | [Essence](https://open.spotify.com/track/6dklA8QKFaS9iYIshadCPR) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Essence](https://open.spotify.com/album/4qm5Gh0BzhDGJ3dt4dTIvW) | 2:57 |
 | 38 | [Gently Flow](https://open.spotify.com/track/6CGZ2JDFU2YRtCmiCkVLMk) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Gently Flow](https://open.spotify.com/album/5qD9rt2W1XmsYPrnqHc9xH) | 3:14 |
 | 39 | [Serenity Flow](https://open.spotify.com/track/4T5DtJLxxVrDOVxw1fWl8B) | [My Lindahl](https://open.spotify.com/artist/2weXIWmsUtSpoH2xalqY2D) | [Triumph](https://open.spotify.com/album/2iVN7G3YUWdrRDY9jISqWo) | 2:45 |
@@ -337,4 +337,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 327 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 |
 | 328 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 |
 
-Snapshot ID: `MCwwOGE4MTViZDU1NTcyYzU2MWU5NGQ4NzhiMDA0NjQ5ODYwNmQzYjBl`
+Snapshot ID: `MCwzNjE2NjIzMmEwZWZlN2E3ZDk4MzYyNjg2OTMzYjJjMTAyY2JhNzc3`

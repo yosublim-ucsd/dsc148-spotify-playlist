@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Jaloo",
+  "description": "Novidades e destaques do indie nacional. Foto: Ana Frango El\u00e9trico",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -950,6 +950,24 @@
       "duration_ms": 247350,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt"
+    },
+    {
+      "album": {
+        "name": "I Feel In The Sky",
+        "url": "https://open.spotify.com/album/32rXGSkXtgtqFCHJgLfOmK"
+      },
+      "artists": [
+        {
+          "name": "L\u00ea Almeida",
+          "url": "https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257019,
+      "name": "Baile de Cinema",
+      "url": "https://open.spotify.com/track/0wmeu1tH9rPyrkYDU3AOxC"
     },
     {
       "album": {
@@ -3319,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/5TEG7HOqZLESr1uOPBtWFz"
+      },
+      "artists": [
+        {
+          "name": "Cardamomo",
+          "url": "https://open.spotify.com/artist/4j9gjF5J0AB267VHkylSQ0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340224,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK"
+    },
+    {
+      "album": {
         "name": "Mil Coisas Invis\u00edveis",
         "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
       },
@@ -4552,6 +4588,46 @@
       "duration_ms": 124000,
       "name": "me encontra l\u00e1 :)",
       "url": "https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf"
+    },
+    {
+      "album": {
+        "name": "Me Fa\u00e7a Bem",
+        "url": "https://open.spotify.com/album/3JDhhRgxGEyCCXq9COXc6e"
+      },
+      "artists": [
+        {
+          "name": "Ellefante",
+          "url": "https://open.spotify.com/artist/18iXcPpChCj7xOVTHRrqkx"
+        },
+        {
+          "name": "saudade",
+          "url": "https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202403,
+      "name": "Me Fa\u00e7a Bem",
+      "url": "https://open.spotify.com/track/4R8XqARC4exOYsilfwkoyC"
+    },
+    {
+      "album": {
+        "name": "PRA QUE A REALIDADE N\u00c3O DESTRUA",
+        "url": "https://open.spotify.com/album/1pt9CSh2QFHmjA9ozwURW7"
+      },
+      "artists": [
+        {
+          "name": "Cefa",
+          "url": "https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "MEDO",
+      "url": "https://open.spotify.com/track/1mvrOOfj2wRArXUqhKkjyO"
     },
     {
       "album": {
@@ -7940,6 +8016,28 @@
       "duration_ms": 213546,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7"
+    },
+    {
+      "album": {
+        "name": "Lol\u00f3love",
+        "url": "https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3"
+      },
+      "artists": [
+        {
+          "name": "mellina",
+          "url": "https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY"
+        },
+        {
+          "name": "Jeza da Pedra",
+          "url": "https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147881,
+      "name": "Tema Para Marisa Monte",
+      "url": "https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC"
     },
     {
       "album": {

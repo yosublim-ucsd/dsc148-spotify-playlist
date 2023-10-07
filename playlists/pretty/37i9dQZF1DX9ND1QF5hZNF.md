@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,822 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,975 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Vous Dansez](https://open.spotify.com/track/7awQyiaBWETrVIXsLBhH7U) | [Kza](https://open.spotify.com/artist/7nVKtnc3OuBgbgBdTrghvU) | [Vous Dansez](https://open.spotify.com/album/1GFh8Fc9A2Du7hdFfV4tgn) | 5:54 |
 | 50 | [Everyday](https://open.spotify.com/track/1Sqj67OzLpwDRX7nzV9kS1) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Everyday](https://open.spotify.com/album/6zDYygsjWArQUi2FNDgzOS) | 3:29 |
 
-Snapshot ID: `MCwzMWQ5Y2RjODlhOGE5ZGU3ODliZTViZDAxMDNmOWM5NDg4ZDJlNWY3`
+Snapshot ID: `MCxkNmU2MjBkYzk4YzM0NjdmZjhhMTI2MTEyMDUzODRiMDg0MzcyNzFk`

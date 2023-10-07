@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 440480,
+  "num_followers": 440535,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZhZjlhNDE1NDE2NTgyZTE0YmZiOGFhYWUwYzRmMTliNzQ1Zjc4",
+  "snapshot_id": "MCwwNzVkYWI0N2E2YmFkMjkzZjllZTI0NzJkY2U1MzdmNWVmMjZiNDI3",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 108078,
       "name": "French Inhale",
       "url": "https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "I Love You, That's the Problem",
-        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
-      },
-      "artists": [
-        {
-          "name": "Kochetkovv",
-          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
-        }
-      ],
-      "duration_ms": 142792,
-      "name": "I Love You, That's the Problem",
-      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "I Love You, That's the Problem",
+        "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
+      },
+      "artists": [
+        {
+          "name": "Kochetkovv",
+          "url": "https://open.spotify.com/artist/7BPQzcw927WoBtakErDh6d"
+        }
+      ],
+      "duration_ms": 142792,
+      "name": "I Love You, That's the Problem",
+      "url": "https://open.spotify.com/track/1tfAVU1HIrtlr79isORUW6"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "When You Forgive",
-        "url": "https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu"
-      },
-      "artists": [
-        {
-          "name": "Just Big Hills",
-          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Sick of This",
-      "url": "https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5xIENE9mYM9cIqbqs4MuF7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 147474,
       "name": "Memories Fade",
       "url": "https://open.spotify.com/track/40rSlnWWx2p4r9lLOwNn96"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "When You Forgive",
+        "url": "https://open.spotify.com/album/5xG0QYLqbR4dTJknfhYtlu"
+      },
+      "artists": [
+        {
+          "name": "Just Big Hills",
+          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Sick of This",
+      "url": "https://open.spotify.com/track/3XKAwOCIYtttde7vLMD5Jo"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
-      },
-      "artists": [
-        {
-          "name": "Sensi Sye",
-          "url": "https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "in.the.forest.we.are.wizards",
         "url": "https://open.spotify.com/album/5dtl7XhfdMYSmTBaBSuaTS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 154074,
       "name": "emerald",
       "url": "https://open.spotify.com/track/0kglaBttNwzxtNeDdWafej"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/0pUE8rJ1nTr1JIVhOTXEaD"
+      },
+      "artists": [
+        {
+          "name": "Sensi Sye",
+          "url": "https://open.spotify.com/artist/0vDAUcrogFgvsMAXkjHZEQ"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/4MKnTSEJuUFKvf4LcKMsw6"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/6mmGwyBRmigoSW0l5NH8P8"
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
       },
       "artists": [
         {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
         }
       ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1tYnTQPrqLBwCXLgn5QYos"
+      "duration_ms": 163533,
+      "name": "Now, I See",
+      "url": "https://open.spotify.com/track/7xCYaDqhAOs5TfeDvY9Dqn"
     }
   ],
   "unique_name": "sad lofi",

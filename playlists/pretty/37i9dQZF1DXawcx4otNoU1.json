@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 503843,
+  "num_followers": 503906,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGQ4ZjMxODU5N2MzMmIxNTg5MjI4N2JiMTNiZTVlNTBmYTczMzFj",
+  "snapshot_id": "MCxjZDcwNWQ0MDViZjQxYzU3NzZkMjYzYmUzNTcwMDE2MDY0NDQwYWE4",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "I Knew I Loved You",
-      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 250360,
+      "name": "I Knew I Loved You",
+      "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -591,6 +575,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Get You - Single",
         "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 277297,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/1CxR9OHSHSxl8kgSl5HViD"
     },
     {
-      "added_at": "2023-04-21 11:59:42",
-      "album": {
-        "name": "Talk Luv",
-        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 164468,
-      "name": "Talk Luv",
-      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "Last One",
@@ -1807,6 +1791,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2023-04-21 11:59:42",
+      "album": {
+        "name": "Talk Luv",
+        "url": "https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 164468,
+      "name": "Talk Luv",
+      "url": "https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2309,22 +2309,6 @@
       "url": "https://open.spotify.com/track/2Y1Uszl2U8QdwOLtizvUUI"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Can't Help Falling in Love",
-        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
-      },
-      "artists": [
-        {
-          "name": "Jessie Kol",
-          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
-        }
-      ],
-      "duration_ms": 178246,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
-    },
-    {
       "added_at": "2023-04-21 12:01:04",
       "album": {
         "name": "Teach",
@@ -2339,6 +2323,22 @@
       "duration_ms": 175774,
       "name": "Teach",
       "url": "https://open.spotify.com/track/4YcEc3ZlbW3W2OqbPmjF4V"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love",
+        "url": "https://open.spotify.com/album/3uaM6qXgjvt808QQElryLw"
+      },
+      "artists": [
+        {
+          "name": "Jessie Kol",
+          "url": "https://open.spotify.com/artist/601HEblLzICOmtxDLs0XAf"
+        }
+      ],
+      "duration_ms": 178246,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/76uvt4jX5MgSaOa2XahlaC"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
+      },
+      "artists": [
+        {
+          "name": "David Ryan Harris",
+          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
+        }
+      ],
+      "duration_ms": 250893,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Song For A Friend",
         "url": "https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 200747,
       "name": "Rebekah",
       "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
-      },
-      "artists": [
-        {
-          "name": "David Ryan Harris",
-          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
-        }
-      ],
-      "duration_ms": 250893,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
     },
     {
       "added_at": "2023-02-10 11:00:00",

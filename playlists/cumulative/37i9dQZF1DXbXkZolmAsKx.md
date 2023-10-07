@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-116 songs - 10 hr 4 min
+117 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 | 2022-08-11 |  |
 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 | 2022-08-11 |  |
 | [Mimosa](https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW) | [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Loom Dream](https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh) | 7:35 | 2022-08-11 |  |
-| [Moments In Love](https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 9:23 | 2022-08-11 |  |
+| [Moments In Love](https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 9:23 | 2022-08-11 | 2023-10-07 |
+| [Moments In Love](https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8) | 9:23 | 2023-06-07 |  |
 | [Moonstone](https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Balsams](https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3) | 9:04 | 2022-08-11 |  |
 | [Narkopop 1](https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Narkopop](https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF) | 4:52 | 2022-08-11 |  |
 | [Narkopop 4](https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Narkopop](https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF) | 4:09 | 2022-08-11 |  |

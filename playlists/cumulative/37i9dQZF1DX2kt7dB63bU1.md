@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-662 songs - 1 day 22 hr 22 min
+663 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [If Love Is Overrated](https://open.spotify.com/track/3iLubgTcHY4ozbOLgfE8ZN) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Best Love Ballads](https://open.spotify.com/album/04HiwRR7Ct1A4qkZnLQF8n) | 5:53 | 2020-10-09 | 2022-02-19 |
 | [If This Was](https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [If This Was](https://open.spotify.com/album/7Ed4UdAZsXXVqeDAE1xI4t) | 4:11 | 2020-10-09 | 2022-02-19 |
 | [If You Believe](https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Parallel Motion](https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I) | 4:48 | 2022-08-26 | 2023-07-15 |
+| [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 | 2023-10-06 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2020-10-23 | 2022-02-19 |
 | [In a Mellow Tone](https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [In a Mellow Tone](https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK) | 5:41 | 2022-10-28 | 2023-07-01 |
 | [In France they kiss on main street](https://open.spotify.com/track/17Ck9L9rEHlugzfZqF5mfH) | [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [In France they kiss on main street](https://open.spotify.com/album/6EN1IxzMj7MYji81Mt18Hq) | 3:48 | 2022-02-18 | 2022-07-01 |
@@ -604,7 +605,7 @@
 | [Twinkle Twinkle](https://open.spotify.com/track/3kK1OWkLxPLaOJyaGYielG) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Twinkle Twinkle](https://open.spotify.com/album/46xM6WD5LaI25lEW9QmCy5) | 4:27 | 2022-05-27 | 2023-02-25 |
 | [Twister \(Acoustic\)](https://open.spotify.com/track/1t2PpPL5LDIcyRQUmtZlte) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Body of Work](https://open.spotify.com/album/4wAYsm2I46h2o2X1UEQp06) | 2:42 | 2022-10-07 |  |
 | [Twister \(Acoustic\)](https://open.spotify.com/track/6E4yLR75jMge94Ui8GitNw) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Twister](https://open.spotify.com/album/7dg1n6KM9szEcWALdq8Qpa) | 2:42 | 2022-10-07 | 2023-04-28 |
-| [Under Paris Skies](https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Under Paris Skies](https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP) | 4:21 | 2023-09-15 |  |
+| [Under Paris Skies](https://open.spotify.com/track/4HnZtTEp8wQfF43Km2w6G7) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Under Paris Skies](https://open.spotify.com/album/0OWbqXbC1TvwtPZNVrrlpP) | 4:21 | 2023-09-15 | 2023-10-07 |
 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 | 2020-10-09 | 2022-02-17 |
 | [Until](https://open.spotify.com/track/18yHGQtjDHp1K1HljIoGS6) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bijon Watson](https://open.spotify.com/artist/4FbArE3qvpkPqZStFF63y9), [Generation Gap Jazz Orchestra](https://open.spotify.com/artist/52khBCP0H2UqAu3AnC6es5), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Until](https://open.spotify.com/album/3o2qKrPd8v6sLYBhPs3pcR) | 7:11 | 2022-06-17 | 2023-06-24 |
 | [Until The Real Thing Comes Along](https://open.spotify.com/track/51k8Qj17I5yuIE6fM759U7) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0) | [Until The Real Thing Comes Along](https://open.spotify.com/album/6qKFDEkIXeuU7i3cVHcE31) | 4:52 | 2021-02-27 | 2022-07-29 |

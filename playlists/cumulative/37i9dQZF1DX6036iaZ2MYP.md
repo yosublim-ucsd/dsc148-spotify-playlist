@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: ODUMODUBLVCK
 
-232 songs - 11 hr 33 min
+233 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Bella](https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Bella](https://open.spotify.com/album/0m06zefSt575K7uCdShGxr) | 3:20 | 2022-12-08 | 2023-06-09 |
 | [Belle Carte](https://open.spotify.com/track/2gKsBw5M0U3HXF0fUPo2Lt) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL) | [Belle Carte](https://open.spotify.com/album/3Yin1NWzb34xLjIh0bN3cJ) | 2:48 | 2023-07-27 |  |
 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 | 2023-02-02 | 2023-08-17 |
-| [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/36SXe2d09lZtJmuVpKxlha) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [BLOOD ON THE DANCE FLOOR](https://open.spotify.com/album/7zjZwvFfhd1dCjWmAYL7h3) | 3:53 | 2023-10-05 |  |
+| [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 | 2023-10-05 |  |
+| [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/36SXe2d09lZtJmuVpKxlha) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [BLOOD ON THE DANCE FLOOR](https://open.spotify.com/album/7zjZwvFfhd1dCjWmAYL7h3) | 3:53 | 2023-10-05 | 2023-10-07 |
 | [Bottles](https://open.spotify.com/track/331ZKCTgF27kBC2W5vmRmV) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bottles](https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq) | 2:40 | 2023-08-24 |  |
 | [Bumbu](https://open.spotify.com/track/1OXXxrs4Q0x2Vn55tnV76E) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Bumbu](https://open.spotify.com/album/6BPgVZctI6VvO0dd4bbwE3) | 2:51 | 2023-09-07 |  |
 | [Bunda](https://open.spotify.com/track/2Sd6kW3eOWZBe86hIA8YNm) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Bunda](https://open.spotify.com/album/011rNBobpGt1eRJPtqeOlQ) | 3:34 | 2023-01-19 | 2023-06-23 |

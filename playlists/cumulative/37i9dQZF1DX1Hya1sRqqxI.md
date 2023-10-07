@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-331 songs - 21 hr 48 min
+332 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Come Back My Love](https://open.spotify.com/track/7lXctJmIMds1ztDuRAfBTg) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Darts](https://open.spotify.com/album/4FpE3gsFwLTgOWF0CA9HtR) | 2:31 | 2021-09-08 | 2022-07-28 |
 | [Contact \- UK 7" Single Version](https://open.spotify.com/track/2nkW5NxnKjwFlUuUHpwoKy) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Disco Nights](https://open.spotify.com/album/2AWqMVNq3a8Cin6wQWDnbh) | 3:31 | 2021-09-08 | 2022-03-04 |
 | [Cool For Cats](https://open.spotify.com/track/7sPEGLqEhyHDLGrz4EeLm2) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5) | 3:39 | 2021-09-08 | 2022-11-13 |
+| [Copacabana \(At the Copa\)](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 | 2021-09-08 |  |
 | [Copacabana \(At the Copa\)](https://open.spotify.com/track/3hWOGUIOcqKDoVpFBLp9Qc) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [The Greatest Songs Of The Seventies](https://open.spotify.com/album/6VuAmXnYxOAd2Ru20MOCEq) | 4:01 | 2021-09-08 | 2022-07-29 |
 | [Crazy Little Thing Called Love \- Remastered](https://open.spotify.com/track/4hNKm844QktyaKubGM8Ggk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits \- We Will Rock You Edition](https://open.spotify.com/album/4Qcy60knPmSHjWmOsVVwhL) | 2:43 | 2021-03-22 | 2022-11-13 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2021-03-22 |  |
@@ -159,7 +160,7 @@
 | [It Only Takes A Minute \- Remastered](https://open.spotify.com/track/5DEy8wVNCdJdAGNsOWxmVQ) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Anthology](https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8) | 4:03 | 2021-03-22 | 2022-06-01 |
 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 | 2021-03-22 |  |
 | [It's Been so Long](https://open.spotify.com/track/383bBw9IAANbB7WzKaE22g) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 2:40 | 2021-09-08 | 2022-06-24 |
-| [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 | 2021-03-22 |  |
+| [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 | 2021-03-22 | 2023-10-07 |
 | [Jive Talkin'](https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Main Course](https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj) | 3:42 | 2021-03-22 |  |
 | [Juke Box Jive](https://open.spotify.com/track/2jyXWrQQapcB0mRbKvcEyU) | [The Rubettes](https://open.spotify.com/artist/44ef9VXkdKxbx4XpoNqH39) | [The Best Of](https://open.spotify.com/album/3LsiyvsH7JH1EA4slItT8N) | 3:02 | 2021-09-08 | 2022-07-27 |
 | [Jungle Boogie](https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 3:06 | 2021-03-22 |  |

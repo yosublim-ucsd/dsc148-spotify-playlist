@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anya Nami\. Artwork by Isu Kim.
 
-5,211 songs - 11 day 20 hr 3 min
+5,212 songs - 11 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [2AM](https://open.spotify.com/track/3CkNe0WAMPvH69Wb36kAdi) | [Ty2Fly](https://open.spotify.com/artist/0XeObZd9hVmB6jL2gDDixT) | [2Fly 2sdays \(pack 1\)](https://open.spotify.com/album/0E7u436tAlPLiBOWpZflf9) | 2:22 | 2023-06-21 | 2023-06-29 |
 | [2Gether All Day All Night](https://open.spotify.com/track/18OAEPIgLxNW2pi9WtwMgL) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [2Gether All Day All Night](https://open.spotify.com/album/4CymHQQtBCVhSctGOiz2qV) | 3:11 | 2023-08-02 | 2023-08-10 |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-04-06 | 2022-04-14 |
+| [2muchattention](https://open.spotify.com/track/12BtbZcily5MsUsgAL5J7M) | [drest](https://open.spotify.com/artist/6iQHZkkQy6VuuOE0ASK6Ye), [Dexter Seamus](https://open.spotify.com/artist/3SEm4ksCE7t9ICbUrxPD3n) | [wine drunk demos](https://open.spotify.com/album/7nOMho4pdaT5go1tzzWyRy) | 1:46 | 2023-10-06 |  |
 | [2PM](https://open.spotify.com/track/5RTi6GqC3aXSbTgxuSyv6x) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ) | [2PM](https://open.spotify.com/album/5vNYiaVnsawDAmoeEEAjiQ) | 1:53 | 2023-03-15 | 2023-03-23 |
 | [3\-2\-Wake Up](https://open.spotify.com/track/7n4BWIL8UhenxMJNpzO3J6) | [Darkbird](https://open.spotify.com/artist/0iiltWiiNfnJEh1sUL3bWk) | [3\-2\-Wake Up](https://open.spotify.com/album/4iNZNabgsBvw83PK0GhLjP) | 3:49 | 2022-02-09 | 2022-02-17 |
 | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/track/0odAECRtE7vyuy0Omn5rEl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [30 Thousand Feet \(I Ain't\)](https://open.spotify.com/album/1TDSke4vpYnUDjqaAQnNtj) | 3:09 | 2022-09-14 | 2022-09-22 |
@@ -1567,7 +1568,7 @@
 | [Festive Day](https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:51 | 2023-08-23 | 2023-08-25 |
 | [Festive Day](https://open.spotify.com/track/4pAy9DqbUt8SvNb3QbbYsM) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [Festive Day](https://open.spotify.com/album/2bFJ8ZyrmQpbX7kcVS8oeI) | 3:51 | 2023-08-23 | 2023-08-31 |
 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 | 2023-09-20 |  |
-| [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 | 2023-09-13 |  |
+| [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 | 2023-09-13 | 2023-10-07 |
 | [Fever Dream](https://open.spotify.com/track/2pVxGsIBL1BYfeRPx5CY86) | [Double Wish](https://open.spotify.com/artist/1p3ZXIrJk5siJQowDwBxU7) | [Light Split Sparkle](https://open.spotify.com/album/4TFG67gQFv2WAOcpYDLFMJ) | 3:43 | 2023-03-22 | 2023-03-30 |
 | [Fifty Fifty](https://open.spotify.com/track/4NMpg12KxtwBh1eO1Bvbcd) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8) | [Fifty Fifty](https://open.spotify.com/album/4oM49FpswfCebXvSQxqMqb) | 4:25 | 2023-01-25 | 2023-02-02 |
 | [Fight](https://open.spotify.com/track/5E1sCWlVUA6nNqvCwN7Hij) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [Fight](https://open.spotify.com/album/6X0qAlTzZymQvem40fB0fo) | 3:36 | 2023-05-03 | 2023-05-11 |

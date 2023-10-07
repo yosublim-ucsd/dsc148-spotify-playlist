@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 201507,
       "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
       "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 121105,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/3wuaLDsv4t7M08iZwDkM6d"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196800,
       "name": "De la Calle - Remix",
       "url": "https://open.spotify.com/track/6GYR87yZfXlWWllkPJTQty"
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 152554,
       "name": "Enfiestao",
       "url": "https://open.spotify.com/track/0NPYwgDn4B3f6iRBxUCkdv"
@@ -6566,6 +6566,32 @@
       "duration_ms": 174315,
       "name": "Experimento 01",
       "url": "https://open.spotify.com/track/25yOopxmGC67836N4POHBg"
+    },
+    {
+      "album": {
+        "name": "Expl\u00edcito",
+        "url": "https://open.spotify.com/album/1Ne5zrrCQecJCyqv8YTron"
+      },
+      "artists": [
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        },
+        {
+          "name": "Drago200",
+          "url": "https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC"
+        },
+        {
+          "name": "elgaboaraya",
+          "url": "https://open.spotify.com/artist/4Sdq3EMi1CR3AEvQuNnSBE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141180,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/1aLqdpllVnLqLwhthp8xUg"
     },
     {
       "album": {
@@ -8338,6 +8364,24 @@
       "duration_ms": 116500,
       "name": "HUEVO FRITO",
       "url": "https://open.spotify.com/track/0WtMOBIFSH3WS6pJBxiwkx"
+    },
+    {
+      "album": {
+        "name": "HULK",
+        "url": "https://open.spotify.com/album/1iRvYnmy5Pf5f1Sny4gizy"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "HULK",
+      "url": "https://open.spotify.com/track/37YZ0f70v8Rvh3XP6r9lye"
     },
     {
       "album": {
@@ -10276,7 +10320,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 370666,
       "name": "LOKOTRON REMIX",
       "url": "https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj"
@@ -12219,6 +12263,28 @@
     },
     {
       "album": {
+        "name": "MIRADAS",
+        "url": "https://open.spotify.com/album/0Csjozr30vsQNfSATQjCOQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Segovia",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164326,
+      "name": "MIRADAS",
+      "url": "https://open.spotify.com/track/6HEabHjw16crOLDEPYsZgR"
+    },
+    {
+      "album": {
         "name": "Mis Canciones",
         "url": "https://open.spotify.com/album/2rsVgbCWrkNg9Qc0s147bT"
       },
@@ -12658,7 +12724,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 148426,
       "name": "MotaMoto",
       "url": "https://open.spotify.com/track/4IuJPZXhwuEVP4F0Xz261V"
@@ -12852,7 +12918,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 156521,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
@@ -14104,7 +14170,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Numero 1",
       "url": "https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3"
@@ -15393,6 +15459,28 @@
     },
     {
       "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201272,
+      "name": "Penas de Anta\u00f1o",
+      "url": "https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6"
+    },
+    {
+      "album": {
         "name": "Pensandote",
         "url": "https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE"
       },
@@ -16130,7 +16218,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 174857,
       "name": "Puestos Pal Mill\u00f3n",
       "url": "https://open.spotify.com/track/5qBVWOBdNAIRimwp79OHJ7"
@@ -17636,7 +17724,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "SE ENDIABLA",
       "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
@@ -19271,6 +19359,32 @@
     },
     {
       "album": {
+        "name": "The World Is Yours",
+        "url": "https://open.spotify.com/album/33WytGAygYELMRPR9OUF4L"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Ronpe 99",
+          "url": "https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh"
+        },
+        {
+          "name": "Ruff-T",
+          "url": "https://open.spotify.com/artist/0Dsp4sSqVJU7wu1yeDZRmL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/77vayMNpKnWNtE5nuiKn77"
+    },
+    {
+      "album": {
         "name": "Tiempo al tiempo",
         "url": "https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz"
       },
@@ -20076,7 +20190,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 161250,
       "name": "Tu Mujer",
       "url": "https://open.spotify.com/track/0dnEeywUgzS0SfiaDE16SD"
@@ -20922,7 +21036,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 146078,
       "name": "Vampira",
       "url": "https://open.spotify.com/track/5XSgKll9zmbaCfaksw3txA"
@@ -21932,7 +22046,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 160434,
       "name": "Zona Caliente",
       "url": "https://open.spotify.com/track/3QeW2fc6jJsoh7rK926Lq7"

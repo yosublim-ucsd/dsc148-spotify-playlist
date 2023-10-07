@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 224181,
       "name": "Alma",
       "url": "https://open.spotify.com/track/5wf1TXbl9KVasQjIbdDB39"
@@ -1954,6 +1954,24 @@
       "duration_ms": 193120,
       "name": "D\u00e9potoir",
       "url": "https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh"
+    },
+    {
+      "album": {
+        "name": "d\u00e9tours",
+        "url": "https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "d\u00e9tours",
+      "url": "https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6"
     },
     {
       "album": {
@@ -5228,7 +5246,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 145970,
       "name": "please don't sugarcoat it",
       "url": "https://open.spotify.com/track/5nDjaNSWWxMDzgDTpEiCM1"
@@ -7090,6 +7108,24 @@
       "duration_ms": 150080,
       "name": "You Lie, You Die",
       "url": "https://open.spotify.com/track/0rqvHoUAiHo3Kq5VNSkw6I"
+    },
+    {
+      "album": {
+        "name": "Your Life",
+        "url": "https://open.spotify.com/album/6BGRw9Kw9IJ67A5CLUJc5o"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300486,
+      "name": "Your Life",
+      "url": "https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP"
     },
     {
       "album": {

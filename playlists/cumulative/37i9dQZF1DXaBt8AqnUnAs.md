@@ -2,7 +2,7 @@
 
 ### [Flow Romance](https://open.spotify.com/playlist/37i9dQZF1DXaBt8AqnUnAs)
 
-> aqueles papo de amor, tlgd não?
+> aqueles papo de amor, tlgd não? Foto: Delacruz
 
 352 songs - 17 hr 26 min
 
@@ -287,7 +287,7 @@
 | [Rubi](https://open.spotify.com/track/1YumR6MJyfkoHarpg2oL19) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM) | [Rubi](https://open.spotify.com/album/2lf9zogvZ4DKBWomGkoisi) | 3:27 | 2022-03-07 | 2023-09-02 |
 | [S2](https://open.spotify.com/track/6iZetMvxSFh0kiHvEIKs1w) | [Ricca](https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc), [Auler](https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m), [Rod](https://open.spotify.com/artist/2kPkt66RFtRtnJiB1NjYqP) | [S2](https://open.spotify.com/album/5MK57OSY3yumqnxtvu6xIM) | 2:34 | 2022-03-25 | 2022-07-09 |
 | [Safira](https://open.spotify.com/track/3ZDWRJfZRNB89lpHB3NLpL) | [Thay](https://open.spotify.com/artist/5ti1OcMAcsd8Eks24OLxhm), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Safira](https://open.spotify.com/album/1WbVY2DVMCHzpDkPFVWMcE) | 3:02 | 2022-08-26 | 2022-09-10 |
-| [Sal e Pimenta](https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Sal e Pimenta](https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf) | 3:26 | 2023-03-31 |  |
+| [Sal e Pimenta](https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Sal e Pimenta](https://open.spotify.com/album/4Q01Qsm0wa9EqSfzJsmSsf) | 3:26 | 2023-03-31 | 2023-10-07 |
 | [Saudade](https://open.spotify.com/track/5ooDUWMuGZ7PvpXLuxNPhs) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Saudade](https://open.spotify.com/album/39PEpHYnGdTnQpVL8rludM) | 2:15 | 2023-08-04 |  |
 | [Se Eu Falhei](https://open.spotify.com/track/7fltehcRKtCLn1ddVz53vM) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Se Eu Falhei](https://open.spotify.com/album/0nwZA8g6vvpBbQ9kon3FlL) | 2:57 | 2022-03-07 | 2022-04-29 |
 | [SE EU SUMIR](https://open.spotify.com/track/6TfW0EdbwPHmMCFr9i9Asr) | [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Valey](https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9) | [SE EU SUMIR](https://open.spotify.com/album/3Eftd0hR0E3DTaegGbfYfl) | 2:30 | 2023-06-23 | 2023-09-16 |

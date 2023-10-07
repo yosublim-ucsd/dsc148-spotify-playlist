@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shindy Samuel
 
-2,602 songs - 6 day 15 hr 34 min
+2,603 songs - 6 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1139,7 +1139,8 @@
 | [Kali Ini Saja](https://open.spotify.com/track/19g3xqDeobPODRoGLKfp6z) | [Juwita Kana](https://open.spotify.com/artist/6Rr6noj4M7Y3b1wHipE2hC) | [Kali Ini Saja](https://open.spotify.com/album/5odXElwc16aSfSX7phJVr6) | 4:06 | 2022-02-10 | 2022-02-25 |
 | [Kalla](https://open.spotify.com/track/00NmhSO1cYK9TboQSWtCjk) | [SINGDAWA](https://open.spotify.com/artist/3Yoazgt2PbdWFXe2tFbc7K) | [Kalla \- Galih](https://open.spotify.com/album/4AUJX6WRxxQLzXaMQTrc7U) | 4:20 | 2023-02-03 | 2023-02-17 |
 | [Kamillionaire](https://open.spotify.com/track/1sOA9SpyWny4iEQu9bc6Fc) | [axbry](https://open.spotify.com/artist/42zAoP6oH0z5HTaMvTH1CO) | [Kamillionaire](https://open.spotify.com/album/43jqbYGTdVIef2y9q9cia6) | 1:42 | 2022-05-05 | 2022-05-20 |
-| [Kampiun](https://open.spotify.com/track/28xxKXEqdD5ddmQb9EnjkU) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Kampiun](https://open.spotify.com/album/3vLqHIJx6tkxOW0uw6cndi) | 4:20 | 2023-10-05 |  |
+| [Kampiun](https://open.spotify.com/track/28xxKXEqdD5ddmQb9EnjkU) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Kampiun](https://open.spotify.com/album/3vLqHIJx6tkxOW0uw6cndi) | 4:20 | 2023-10-05 | 2023-10-07 |
+| [Kampiun](https://open.spotify.com/track/2vtFjq8aArtm1QxUnTJBPN) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Kampiun](https://open.spotify.com/album/3wAlONvaxabXPKoqdXPqfh) | 4:20 | 2023-10-05 |  |
 | [Kamu](https://open.spotify.com/track/6Vqa2zdWZkSdIyCuu0L3Js) | [Angela July](https://open.spotify.com/artist/4fxYLwMcvTJTSugZXEJ6Ve) | [Kamu](https://open.spotify.com/album/3mLnHIOusXhp3Y1hddsV3E) | 3:44 | 2022-03-10 | 2022-03-25 |
 | [Kamu Bukan Sejarah](https://open.spotify.com/track/5LTGlsCCafTKZG63PilswE) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Kamu Bukan Sejarah](https://open.spotify.com/album/7DIO74wT2ae00HTvNHYVHd) | 3:10 | 2022-08-11 | 2022-09-02 |
 | [Kamu dan Jakarta](https://open.spotify.com/track/4TAY40oWs1rVJoW876vvRz) | [Rfrnds](https://open.spotify.com/artist/4yUCOYcBH24p7YrMItNbOy) | [Kamu dan Jakarta](https://open.spotify.com/album/6yr4zHorpolDseu4nkzeE1) | 4:35 | 2023-09-22 |  |

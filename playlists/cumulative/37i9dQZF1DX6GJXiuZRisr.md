@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-418 songs - 1 day 6 hr 14 min
+419 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dreamers](https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI) | [Dreamers](https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO) | 6:43 | 2021-10-25 | 2023-07-15 |
 | [Ecletric](https://open.spotify.com/track/779p7HaX7hYS0irMq30kIy) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Ecletric](https://open.spotify.com/album/3DuDHySeHsZXytYR1HHQq9) | 3:18 | 2021-05-07 | 2022-07-28 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-02-11 |  |
+| [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2023-10-06 |  |
 | [Elements Of A New Life](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of A New Life](https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd) | 3:25 | 2021-07-16 |  |
 | [Empyrean](https://open.spotify.com/track/5f768GZ884iQphBUZWmjum) | [Moa](https://open.spotify.com/artist/1lAfFBE10XKWun4CkIS9Jb), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [Empyrean](https://open.spotify.com/album/7G6kaqouj5KSHRRIGaPt0L) | 3:56 | 2021-05-07 | 2022-07-27 |
 | [Equinox \- Original Club Mix](https://open.spotify.com/track/5DmKG2iNXtwQqbwSzWMP80) | [Austin Leeds](https://open.spotify.com/artist/24Mc3zc0ogZux3BVi4m3ue), [2 Tall Keith](https://open.spotify.com/artist/5sLCjU2aNDT0BO0V1WXRq3) | [Equinox](https://open.spotify.com/album/2UsFDnZai26v8YvHg1TfI8) | 5:29 | 2021-05-07 | 2022-04-19 |
@@ -257,7 +258,7 @@
 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 | 2022-07-22 |  |
 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 | 2021-05-07 |  |
 | [Our Space \- Edit](https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Our Space](https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON) | 5:09 | 2022-03-04 | 2023-05-17 |
-| [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 | 2022-08-26 |  |
+| [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 | 2022-08-26 | 2023-10-07 |
 | [Out Of My Mind](https://open.spotify.com/track/3seZ0Y5gGrUzb2blg5L7Sd) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Out Of My Mind](https://open.spotify.com/album/5KCN7V6r76Cux45ozatVYW) | 3:00 | 2021-05-07 | 2022-07-19 |
 | [Out of My Mind](https://open.spotify.com/track/2hMto0hWs4hULLbySN6E9o) | [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Out of My Mind](https://open.spotify.com/album/0YNPKMJVUSf7zj353BakRn) | 2:57 | 2022-03-11 | 2022-07-25 |
 | [Out Of Reach](https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Out Of Reach](https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF) | 4:15 | 2021-06-04 |  |

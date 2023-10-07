@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,642 likes - 58 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,058 likes - 58 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 57 | [don't look at me!](https://open.spotify.com/track/7Jevry2udc6oqg6RNpmcl8) | [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [flowers](https://open.spotify.com/album/467a13G7qMlXJNt6W0RX5K) | 2:05 |
 | 58 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 |
 
-Snapshot ID: `MCw5NDkwOGQ3MWQzNDMyNzI3MTc2MjZhOWY4NWRiNTAwYTJhYzc5NGI3`
+Snapshot ID: `MCxlMmJkN2Y5OWNmOTU2YTQyMDAzODQyYzM1ZjUzNzk5MGExZmRhMjhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,045 likes - 69 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,070 likes - 69 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 68 | [Landscape Pereption \- Masafumi Take Remix](https://open.spotify.com/track/1jbCvIAqn4LfUMC6Ly5kVy) | [Kannabi](https://open.spotify.com/artist/3mpGSy2iFwIHbkOf8s3R5P), [Masafumi Take](https://open.spotify.com/artist/6fya9w7jsj6f2DQQU7WStM) | [Landscape Perception EP](https://open.spotify.com/album/38HmX1X3uY8alJQ3JYHUSG) | 7:49 |
 | 69 | [Mild Und Leise](https://open.spotify.com/track/0RWpM1R7tAEJJ6uY4x0R0N) | [Paul Lansky](https://open.spotify.com/artist/1WmGpoQ0sMsyGGRN1IP7cJ) | [Electronic Music Winners](https://open.spotify.com/album/1wtbwKwFucQuO72HuJ0MbZ) | 18:14 |
 
-Snapshot ID: `MCxhNmI1ZjAwODI5ZjgwN2NkMmRkNzA5NTZhYmVkNTg3YzEyODJiZDY5`
+Snapshot ID: `MCw5MWYwMmNkYzZkOGE0NTQzZGEzMzhjODVhNDhlMDE2MGM1MTVhY2I5`

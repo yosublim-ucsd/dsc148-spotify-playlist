@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-730 songs - 1 day 12 hr 32 min
+731 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,6 +629,7 @@
 | [Suaimhneas](https://open.spotify.com/track/7q9ehvNtDAyhFFD7w9L4yo) | [Ceilidh](https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg) | [Suaimhneas](https://open.spotify.com/album/08kGIhtbc1fnU0od3JgMiD) | 3:31 | 2021-12-21 | 2022-08-12 |
 | [Subtle Differences](https://open.spotify.com/track/69GDy41jbQGozpobU1DIP1) | [Endemoniada](https://open.spotify.com/artist/5yBQew0Dy7qPue4XoyHkO2) | [Subtle Differences](https://open.spotify.com/album/4K6s5AARQXCadsFXPyTRA4) | 3:24 | 2023-02-09 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2021-12-21 | 2022-04-22 |
+| [Sumargola](https://open.spotify.com/track/5zQm7n2ahnvGa3ntYy569W) | [Afturkalla](https://open.spotify.com/artist/5oPcLgpF7oNZ7eiuTZsohZ) | [Sumargola](https://open.spotify.com/album/1FhinixtO382WgvThtedas) | 3:31 | 2023-10-06 |  |
 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2022-11-25 | 2022-12-15 |
 | [Sunsets](https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Sunsets](https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl) | 2:44 | 2022-11-25 |  |
 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-25 | 2023-08-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Rebelion",
+  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Brennan Heart",
   "name": "Hardstyle Adrenaline! 2023",
   "tracks": [
     {
@@ -274,6 +274,32 @@
       "duration_ms": 245416,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2fxxoz9144dKpJagVIgqcR"
+    },
+    {
+      "album": {
+        "name": "ALLERLAATSTE FEESTJE",
+        "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
+      },
+      "artists": [
+        {
+          "name": "DIKKE BAAP",
+          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183017,
+      "name": "ALLERLAATSTE FEESTJE",
+      "url": "https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m"
     },
     {
       "album": {
@@ -1510,7 +1536,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 217600,
       "name": "Close To You (Audiotricz Remix)",
       "url": "https://open.spotify.com/track/6TqKy9halHx61AFUlwiDDZ"
@@ -1554,7 +1580,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 250838,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85"
@@ -2307,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/773dIrYYs0MoedYNxuGmzr"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0h1mEjNzfgX3zmrM1FJNtz"
+    },
+    {
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/7xvYL2uU7u0DKv4Hkejg3o"
       },
@@ -2551,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Echoes of Euphoria",
+        "url": "https://open.spotify.com/album/01cPC0gzV4pGhZAxmHWxsB"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Echoes of Euphoria",
+      "url": "https://open.spotify.com/track/0mTcyjUnQwrI6WhepW7IJd"
+    },
+    {
+      "album": {
         "name": "Ecuador (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/4YpH7Q6JO3bCpWpsG6XlM7"
       },
@@ -2750,7 +2812,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 214546,
       "name": "Euphoria - Hardstyle Edit",
       "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
@@ -4925,6 +4987,24 @@
     },
     {
       "album": {
+        "name": "Interplanetary",
+        "url": "https://open.spotify.com/album/43qfb8rwwlIV6pzI3PkEgk"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205035,
+      "name": "Interplanetary",
+      "url": "https://open.spotify.com/track/4VU9luBrmsjxmQwBrEnJ20"
+    },
+    {
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2uJIyCqmlx44HWXmU7Q1iY"
       },
@@ -5426,7 +5506,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 156705,
       "name": "Kriss Kross",
       "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
@@ -6023,6 +6103,28 @@
     },
     {
       "album": {
+        "name": "Lose It All (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/4ob6yXOrhWmHGilz7h8EFC"
+      },
+      "artists": [
+        {
+          "name": "Julian Cross",
+          "url": "https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Lose It All - LNY TNZ Remix",
+      "url": "https://open.spotify.com/track/1Bwxcp4pB2pvs9jec5Nv01"
+    },
+    {
+      "album": {
         "name": "Lose My Mind (Sub Zero Project Remix)",
         "url": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY"
       },
@@ -6067,6 +6169,32 @@
     },
     {
       "album": {
+        "name": "Lost (feat. Lune)",
+        "url": "https://open.spotify.com/album/39ciXKmC9TKRiLoslPJDqR"
+      },
+      "artists": [
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        },
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/7EmxBsAP8nkSn6gxRZt9gN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "Lost (feat. Lune)",
+      "url": "https://open.spotify.com/track/3A6ieFcCzDyxAhcIqTRKpC"
+    },
+    {
+      "album": {
         "name": "Lost In The Music",
         "url": "https://open.spotify.com/album/6XOcQjC94fgoypqcuXcjdE"
       },
@@ -6108,7 +6236,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 289548,
       "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
       "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
@@ -6875,6 +7003,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/2KEVJqNUsmOxMiXzfMvJOe"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/4AXO0nCqvp82u9Iwl8IQO1"
+    },
+    {
+      "album": {
         "name": "Morgenlicht",
         "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
       },
@@ -7593,6 +7739,28 @@
     },
     {
       "album": {
+        "name": "One For All",
+        "url": "https://open.spotify.com/album/59zFfX83V0D2si3ZcfRJGn"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        },
+        {
+          "name": "Lin was here",
+          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "One For All",
+      "url": "https://open.spotify.com/track/2WbLw6bNOwmj234n2kbxZU"
+    },
+    {
+      "album": {
         "name": "An Ember Dawn",
         "url": "https://open.spotify.com/album/0voPYgpdWQGI0zXqATIuQf"
       },
@@ -7978,6 +8146,24 @@
       "duration_ms": 233974,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/7ep4R3ZU94q7A8RIfC61YD"
+    },
+    {
+      "album": {
+        "name": "Pistols",
+        "url": "https://open.spotify.com/album/2y7o3C3hB0xjIyoKQm2lWG"
+      },
+      "artists": [
+        {
+          "name": "E-Force",
+          "url": "https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Pistols",
+      "url": "https://open.spotify.com/track/7pzEtKjXo6OAGFTEcIfQPq"
     },
     {
       "album": {
@@ -9689,6 +9875,32 @@
     },
     {
       "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/1IL6RYdAEj3F9ogMqCiXiZ"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Tatsunoshin",
+          "url": "https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP"
+        },
+        {
+          "name": "SONJA",
+          "url": "https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/0RlLacQObTsfQxJBi0oPqc"
+    },
+    {
+      "album": {
         "name": "Stars (feat. Ava Silver)",
         "url": "https://open.spotify.com/album/2xhLr7oUrD34AT8nrrvUBm"
       },
@@ -10470,7 +10682,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 256258,
       "name": "The Flame Inside",
       "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
@@ -11456,7 +11668,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 214500,
       "name": "Tunnel Of Vision",
       "url": "https://open.spotify.com/track/6vAr6v7WLW5xP6Z5uyCLXH"
@@ -11999,6 +12211,32 @@
     },
     {
       "album": {
+        "name": "We Are The Future (Damien RK et Devotion Remix)",
+        "url": "https://open.spotify.com/album/31ssWMalNeDRztSNAI5W0X"
+      },
+      "artists": [
+        {
+          "name": "Joachim Garraud",
+          "url": "https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2"
+        },
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0eSsGlIb46te5QaGfHm6Dv"
+        },
+        {
+          "name": "Damien RK",
+          "url": "https://open.spotify.com/artist/7ux7uDUvfIP25y32AAH6dR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161283,
+      "name": "We Are The Future - Damien Rk Et Devotion Radio Edit",
+      "url": "https://open.spotify.com/track/6BtdOegyIpwfSl7Dr9OAzU"
+    },
+    {
+      "album": {
         "name": "We Go Down",
         "url": "https://open.spotify.com/album/1MCJhDB8iFCg0rEUS3itOy"
       },
@@ -12058,7 +12296,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183879,
       "name": "We Ignite",
       "url": "https://open.spotify.com/track/3PdQHt44xlYLjxKXDA759H"
@@ -12530,6 +12768,28 @@
       "duration_ms": 159843,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/1tWFh0S0BpKy0Ozpm2fBj4"
+      },
+      "artists": [
+        {
+          "name": "Quickdrop",
+          "url": "https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa"
+        },
+        {
+          "name": "Verox",
+          "url": "https://open.spotify.com/artist/1YxEjbsVeq02klNTE7PFFD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162984,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/7yeMfRQjzbyUn3c9TV3KGh"
     },
     {
       "album": {

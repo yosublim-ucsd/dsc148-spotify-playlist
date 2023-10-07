@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-222 songs - 13 hr 59 min
+223 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Feel So Good](https://open.spotify.com/track/6Zoi8MTQJ5UZ28Xra0FAAn) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Feel So Good](https://open.spotify.com/album/4Y0TmKELuNPjdLFNAEC4An) | 3:27 | 2022-02-11 | 2023-01-06 |
 | [Feel The Groove](https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE) | [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Feel The Groove](https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR) | 4:43 | 2023-05-19 |  |
 | [Feel This](https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib) | [Martin Eigenberg](https://open.spotify.com/artist/23J5hZ2N7m0UpmdziiYAc2), [Ryan Shade](https://open.spotify.com/artist/73lC9QGob3QCyXallwiSWl) | [Feel This](https://open.spotify.com/album/16mrraWea47jlXf8nPwNyu) | 3:26 | 2023-07-21 |  |
+| [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 | 2023-10-06 |  |
 | [Fired Up](https://open.spotify.com/track/48zryrs6OiRWxFdwCItDG0) | [Archie Versace](https://open.spotify.com/artist/6S3CbwXLm1waxap3VZW24x), [Supermini](https://open.spotify.com/artist/0BLL6WY53tPnnVmCIy49uB) | [Fired Up](https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT) | 2:58 | 2023-01-13 |  |
 | [First Thing](https://open.spotify.com/track/6W3s4OcqdCN49QDzIVItzR) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [First Thing](https://open.spotify.com/album/1qrXPJPrjcri9XEocz9rQO) | 3:59 | 2022-08-12 | 2023-04-09 |
 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 | 2023-04-07 |  |
@@ -166,7 +167,7 @@
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 | 2023-03-18 |
 | [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 | 2023-01-20 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-28 | 2022-12-17 |
-| [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 |  |
+| [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 | 2023-10-07 |
 | [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 | 2023-07-01 |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2022-07-08 |  |
 | [San Frandiscothèque](https://open.spotify.com/track/08ke1gT4ktBBYfOhjlyISp) | [Wu Am I](https://open.spotify.com/artist/4EDxGYZZDNlYg4z7Y5HfyV), [Freddie](https://open.spotify.com/artist/6AiidoqL85n3AcQhXvrkoK) | [San Frandiscothèque](https://open.spotify.com/album/5yjijjmDH8REk56oT5WsCk) | 3:48 | 2021-07-30 | 2022-09-03 |

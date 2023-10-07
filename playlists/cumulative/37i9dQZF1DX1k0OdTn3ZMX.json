@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Taproot",
+  "description": "n\u00fc-metal revival is happening here and now with Static-X.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 214593,
       "name": "FAVOURITE SONG",
       "url": "https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm"
@@ -858,10 +858,28 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226734,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM"
+    },
+    {
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227958,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR"
     },
     {
       "album": {
@@ -1118,6 +1136,24 @@
       "duration_ms": 220000,
       "name": "Worship The Internet",
       "url": "https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU"
+    },
+    {
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Z0mbie",
+      "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX"

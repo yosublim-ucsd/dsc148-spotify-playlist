@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-355 songs - 1 day 3 hr 21 min
+356 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 | 2020-10-09 |  |
 | [Mole's Pirouette](https://open.spotify.com/track/2YzKkL5iR8noOJwufVNFCy) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [House of Arches](https://open.spotify.com/album/7Grm8hG0UAFUngyrJjb5TC) | 5:56 | 2022-03-11 | 2022-07-29 |
 | [Money Music](https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Money Music](https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM) | 2:49 | 2022-08-05 | 2022-11-04 |
-| [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 | 2022-08-05 |  |
+| [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 | 2022-08-05 | 2023-10-07 |
 | [Moonlight Steppin'](https://open.spotify.com/track/0swFJ7rKt5TAdkRCwuFeRu) | [Louie Zong](https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD) | [Cosmos](https://open.spotify.com/album/65q3JZejRyuXifQXHiO0mC) | 3:13 | 2023-04-14 |  |
 | [More Lemon Juice](https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1) | [Rob Harris](https://open.spotify.com/artist/0Cp4MoP6nJuXraSptbcf2Z) | [More Lemon Juice](https://open.spotify.com/album/1lQxT13fZaLUrv4LTMoMU1) | 4:17 | 2022-02-11 |  |
 | [Mountain Caravan](https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Linger Lane](https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1) | 5:20 | 2020-10-09 |  |
@@ -206,6 +206,7 @@
 | [Palm Grease](https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 10:36 | 2020-10-09 | 2023-05-13 |
 | [Partido Alto](https://open.spotify.com/track/0yWjwwFnycb86QbTsDWw33) | [Joabe Reis](https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK), [Agenor de Lorenzi](https://open.spotify.com/artist/08tzQH6xIsbJxxq4hNygPG), [Bob Mintzer](https://open.spotify.com/artist/2yKX1WpgVIxOJbwBbFwqQ0), [Daniel Pinheiro](https://open.spotify.com/artist/621ldIdMOskFO8bAxEhi17), [Gabriel Grossi](https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc), [Josue Lopez](https://open.spotify.com/artist/0mhi3HqBVORAmDbKFQNkJA), [Michael Pipoquinha](https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N), [Sidmar Vieira](https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN), [U\-Nam](https://open.spotify.com/artist/2zZfDVGDSqHQTeITZzJRqs) | [Partido Alto](https://open.spotify.com/album/7he2s9yl13xyhx7Zs4BnHp) | 6:33 | 2023-03-10 |  |
 | [Path to Macondo / Those Kind of Blues](https://open.spotify.com/track/2PXbe0cm5zAfdy6bUHACUe) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [Path to Macondo / Those Kind of Blues](https://open.spotify.com/album/4v7kZ0dLyvVF77QdyiLkrL) | 6:11 | 2022-04-01 |  |
+| [Picante](https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw) | [Tapones de Punta](https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH), [San Juan Project](https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi) | [Picante](https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4) | 3:43 | 2023-10-06 |  |
 | [Pillars](https://open.spotify.com/track/5Xhgdxq9KzGTO3UlSQgBau) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Pillars](https://open.spotify.com/album/7z03SzVnBCOlfakljKBJmm) | 3:19 | 2021-10-08 |  |
 | [Pizza Pie](https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm) | [Let Your Hair Down](https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE) | [Pizza Pie](https://open.spotify.com/album/2LlVQ5iXALu8K2FwD55LlF) | 3:06 | 2021-08-27 |  |
 | [Play it Back](https://open.spotify.com/track/56080Y6qVNpxpUAU5ho4Y7) | [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Fridolin Nordsø](https://open.spotify.com/artist/2qLjyNymCY5pZCIqLAr8m8), [Ludomir Dietl](https://open.spotify.com/artist/1w4oaKISx1TcNXycUS00sC), [Arto Eriksen](https://open.spotify.com/artist/4AxRonSdmKJKu8ADVhRHKo) | [Kresten Osgood Plays the Organ for You](https://open.spotify.com/album/1ffpH63vJM6iPzjFh4zZvy) | 3:35 | 2022-06-03 |  |

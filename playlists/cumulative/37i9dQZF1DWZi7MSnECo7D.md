@@ -2,9 +2,9 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Novidades e destaques do indie nacional\. Foto: Jaloo
+> Novidades e destaques do indie nacional\. Foto: Ana Frango Elétrico
 
-491 songs - 1 day 3 hr 46 min
+496 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-02-04 | 2022-07-23 |
 | [Aviões](https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Aviões](https://open.spotify.com/album/1VFwIIhSrwyx0oTNgjG1Kn) | 2:46 | 2022-03-04 | 2022-12-03 |
 | [Azul](https://open.spotify.com/track/4vsDSmofpGQa0Gb43x0SWt) | [PERDIDOS](https://open.spotify.com/artist/07lGEl9cdorpl7Ht9OwKod) | [Azul](https://open.spotify.com/album/5qW2a7KYrGUQDziRtBF4fn) | 4:07 | 2023-04-14 | 2023-07-08 |
+| [Baile de Cinema](https://open.spotify.com/track/0wmeu1tH9rPyrkYDU3AOxC) | [Lê Almeida](https://open.spotify.com/artist/4OHUAFNTvf9buFreLAAomV) | [I Feel In The Sky](https://open.spotify.com/album/32rXGSkXtgtqFCHJgLfOmK) | 4:17 | 2023-10-06 |  |
 | [Barcelona](https://open.spotify.com/track/2pihPAjIPg5EnitYFKqbYc) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/6KVigOS9Me4Hu3o9hEh9M0) | 3:37 | 2023-03-03 | 2023-05-01 |
 | [Barcelona](https://open.spotify.com/track/78iFCNxDIc1oASCP7pZTSZ) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:37 | 2023-04-28 | 2023-08-19 |
 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-07-29 |
@@ -181,6 +182,7 @@
 | [Experimento de Observação 5353](https://open.spotify.com/track/5Y9LpbRCeLibZyaYlPTC0H) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [o k a m i](https://open.spotify.com/artist/4HRfnwOL9EYmUQBhG3qSWK) | [Experimento de Observação 5353](https://open.spotify.com/album/2mRXxoWKQoXB9uoIOcX6Mm) | 3:01 | 2022-01-14 | 2022-02-19 |
 | [Fala](https://open.spotify.com/track/6rInwAL5ZlG2T9ZK96Z5Ub) | [Ekena](https://open.spotify.com/artist/25epDJS6g5Qp9VwVw2gtQZ) | [Fala](https://open.spotify.com/album/0j7vLNPtx2xvqe6FIo8SU2) | 4:06 | 2023-03-17 | 2023-05-20 |
 | [Falando Sério](https://open.spotify.com/track/6oQiksehsvL3A50lhrKBNL) | [SATURNINA](https://open.spotify.com/artist/2GEY6XAAi3IAdh49K6oE5z), [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR) | [Falando Sério](https://open.spotify.com/album/2pRsp6mekgKMBHelCp2UPA) | 2:27 | 2022-03-25 | 2022-04-29 |
+| [Farol](https://open.spotify.com/track/4hPpmLtIijiczJj25c3eLK) | [Cardamomo](https://open.spotify.com/artist/4j9gjF5J0AB267VHkylSQ0) | [Farol](https://open.spotify.com/album/5TEG7HOqZLESr1uOPBtWFz) | 5:40 | 2023-10-06 |  |
 | [Fases](https://open.spotify.com/track/21clkKJbVa4RIguk7OPbZH) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Mil Coisas Invisíveis](https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y) | 4:18 | 2022-06-17 | 2022-07-09 |
 | [Febre](https://open.spotify.com/track/0UUV7GzuwKoMoEfrJUX8Sl) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/1EOQRSZ7tf1tGHMj4RLbGL) | 2:54 | 2022-12-02 | 2023-02-15 |
 | [Febre](https://open.spotify.com/track/5JpVjKEfkd2xPc4pkiMqaG) | [Turmallina](https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd) | [Febre](https://open.spotify.com/album/6HEzMbPopwfY36iXBtVxzi) | 2:54 | 2023-02-13 | 2023-07-15 |
@@ -245,6 +247,8 @@
 | [Maya](https://open.spotify.com/track/2mW0xozZwF3JFpgYEUivRv) | [Tagore](https://open.spotify.com/artist/6jesZl7rJFJZ8d5i9pX5q8) | [Maya](https://open.spotify.com/album/4AdLRxbgubWzeTQZVz8ed6) | 3:24 | 2022-01-14 | 2022-03-18 |
 | [Me chama pra dançar](https://open.spotify.com/track/5hDaaCG21ULMZ6Ar4vjm2X) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Mathias](https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28) | [QNHMN / MCPD](https://open.spotify.com/album/5U5KGKrvKAyFrgF6UlvUgT) | 3:14 | 2022-05-06 | 2022-06-04 |
 | [me encontra lá :\)](https://open.spotify.com/track/5XuiOzDconwEtJcBUfNHXf) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [visions](https://open.spotify.com/album/244lG8X2MPejtq1lKFBqa9) | 2:04 | 2022-04-22 | 2022-06-18 |
+| [Me Faça Bem](https://open.spotify.com/track/4R8XqARC4exOYsilfwkoyC) | [Ellefante](https://open.spotify.com/artist/18iXcPpChCj7xOVTHRrqkx), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [Me Faça Bem](https://open.spotify.com/album/3JDhhRgxGEyCCXq9COXc6e) | 3:22 | 2023-10-06 |  |
+| [MEDO](https://open.spotify.com/track/1mvrOOfj2wRArXUqhKkjyO) | [Cefa](https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU) | [PRA QUE A REALIDADE NÃO DESTRUA](https://open.spotify.com/album/1pt9CSh2QFHmjA9ozwURW7) | 3:19 | 2023-10-06 |  |
 | [Medo de Ser](https://open.spotify.com/track/4X2etbLfAFMwedJBQVTjK1) | [Cronistas](https://open.spotify.com/artist/7L5dmHSm4H8cHne1itDWJq) | [Medo de Ser](https://open.spotify.com/album/6fY0Q0QUlP21Gr6lZlVcLP) | 2:34 | 2023-05-26 | 2023-06-17 |
 | [Melô de Aparecida](https://open.spotify.com/track/1e0hVVG6zKxTQvY0lLDQPn) | [Mateus Fazeno Rock](https://open.spotify.com/artist/4kZPtnykddZRw7B8Jh6Pb5) | [Melô de Aparecida](https://open.spotify.com/album/4vs3woZjO8j9L303tEhWxB) | 2:58 | 2023-01-27 | 2023-03-18 |
 | [MENINA LINDA](https://open.spotify.com/track/5MAO8iHLDVnfmWPDyPzU4a) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Dois Quartos](https://open.spotify.com/artist/3JsaihYkRDSTkIgQbxSUto) | [MENINA LINDA](https://open.spotify.com/album/0OmfyYuXhDFZkdiqaNGkrA) | 2:37 | 2022-02-11 | 2022-03-12 |
@@ -419,6 +423,7 @@
 | [Talvez o Problema Seja Eu](https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Talvez o Problema Seja Eu](https://open.spotify.com/album/4Wx7IxNpv0caspljzbFMKL) | 2:35 | 2022-10-07 | 2023-01-14 |
 | [Tanto](https://open.spotify.com/track/1uoOXeZ1KGdtYshGvLhIOF) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:33 | 2023-04-28 | 2023-07-22 |
 | [Tanto](https://open.spotify.com/track/6rkq6lwz7w2RK3qAFyJcZ7) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/5sIl6a1G8ivm7ht7mFDYP6) | 3:33 | 2022-09-23 | 2023-04-30 |
+| [Tema Para Marisa Monte](https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Lolólove](https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3) | 2:27 | 2023-10-06 |  |
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 | 2022-06-04 |
 | [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 | 2022-11-25 |

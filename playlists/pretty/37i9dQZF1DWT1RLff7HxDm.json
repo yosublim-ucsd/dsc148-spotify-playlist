@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 163060,
+  "num_followers": 163095,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGEzZmYyODQ4NzU3MTlmZWI0YjQ0OWEyNWZiNzEyY2Q5OTNkMjYx",
+  "snapshot_id": "MCw4YmUyNzdkNTg0Mzc2MzU0YzUyNjUwNWQ1NjUwMjYzODA3ODE0MDNh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO"
     },
     {
-      "added_at": "2023-09-08 04:01:00",
+      "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "New Used Car",
-        "url": "https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8"
+        "name": "Rain (Live At Red Rocks, 2023)",
+        "url": "https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix"
       },
       "artists": [
         {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 227359,
-      "name": "New Used Car",
-      "url": "https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP"
+      "duration_ms": 288373,
+      "name": "Rain - Live At Red Rocks, 2023",
+      "url": "https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI"
+    },
+    {
+      "added_at": "2023-05-26 04:01:00",
+      "album": {
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -93,20 +109,20 @@
       "url": "https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH"
     },
     {
-      "added_at": "2023-05-26 04:01:00",
+      "added_at": "2023-09-08 04:01:00",
       "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+        "name": "New Used Car",
+        "url": "https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8"
       },
       "artists": [
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
         }
       ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+      "duration_ms": 227359,
+      "name": "New Used Car",
+      "url": "https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP"
     },
     {
       "added_at": "2023-09-08 04:01:00",

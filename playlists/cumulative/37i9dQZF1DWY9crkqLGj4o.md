@@ -2,7 +2,7 @@
 
 ### [Louvando e Louça](https://open.spotify.com/playlist/37i9dQZF1DWY9crkqLGj4o)
 
-> Lavando e louvando a Deus com grandes hinos.
+> Lavando e louvando a Deus com grandes hinos\. Foto: Anderson Freire
 
 178 songs - 17 hr 12 min
 

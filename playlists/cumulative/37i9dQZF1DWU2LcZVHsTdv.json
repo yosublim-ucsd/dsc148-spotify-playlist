@@ -2801,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Not That Fancy",
+        "url": "https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Seven Minutes In Heaven",
+      "url": "https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr"
+    },
+    {
+      "album": {
         "name": "She Loves Jesus",
         "url": "https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs"
       },
@@ -2922,6 +2940,24 @@
       "duration_ms": 238173,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Sunshine",
+        "url": "https://open.spotify.com/album/4EFxY2XuXN2HMWpFDRXEbA"
+      },
+      "artists": [
+        {
+          "name": "Charles Esten",
+          "url": "https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262379,
+      "name": "Somewhere in the Sunshine",
+      "url": "https://open.spotify.com/track/0ZumjEWenangePeQRcq0h9"
     },
     {
       "album": {

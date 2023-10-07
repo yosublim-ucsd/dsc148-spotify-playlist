@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Kenya Grace",
-  "num_followers": 120426,
+  "num_followers": 120463,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTVmYTAzNTI1ZjUxYWU4MjFmYTlhNDViZDJlY2RhZjk2NmUxNGFj",
+  "snapshot_id": "MCwwOWJkNDg2NDRjY2E4NWQ3MGNjM2M1Mjc1ODZlMDRmYzc1ZTVlODQ2",
   "tracks": [
     {
       "added_at": "2023-10-05 14:00:00",
@@ -423,6 +423,22 @@
       "duration_ms": 205786,
       "name": "Only Place",
       "url": "https://open.spotify.com/track/5GFsYPZY1eebEMuO3gfVkG"
+    },
+    {
+      "added_at": "2023-10-05 14:00:00",
+      "album": {
+        "name": "Live It Up (High Tide)",
+        "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Live It Up (High Tide)",
+      "url": "https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb"
     },
     {
       "added_at": "2023-10-05 14:00:00",

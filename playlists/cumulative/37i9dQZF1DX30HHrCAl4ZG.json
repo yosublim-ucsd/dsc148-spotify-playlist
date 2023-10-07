@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Briston Maroney. ",
+  "description": "Explore all things indie rock right now. Featuring new music by Slow Pulp",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -2162,6 +2162,24 @@
       "duration_ms": 181760,
       "name": "Ben Franklin",
       "url": "https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX"
+    },
+    {
+      "album": {
+        "name": "best friend",
+        "url": "https://open.spotify.com/album/1PoLUKiOuc1DLqoYyTz3Zx"
+      },
+      "artists": [
+        {
+          "name": "Small Forward",
+          "url": "https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179615,
+      "name": "best friend",
+      "url": "https://open.spotify.com/track/3CuMLuNAPPl1jNrOuSImuU"
     },
     {
       "album": {
@@ -5248,7 +5266,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 160266,
       "name": "Days Move Slow",
       "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
@@ -19549,6 +19567,28 @@
     },
     {
       "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294396,
+      "name": "Thick Skull (Re: Julien Baker)",
+      "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
+    },
+    {
+      "album": {
         "name": "Thin Air",
         "url": "https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco"
       },
@@ -21458,6 +21498,24 @@
       "duration_ms": 146687,
       "name": "While Away",
       "url": "https://open.spotify.com/track/0dwH3M8DZ6Xv2VKAXgwbBy"
+    },
+    {
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/2gMPJQtv74we9PPvxeVbv0"
+      },
+      "artists": [
+        {
+          "name": "yungatita",
+          "url": "https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261173,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/1MJufTcD44UNVHu9V6dPN7"
     },
     {
       "album": {

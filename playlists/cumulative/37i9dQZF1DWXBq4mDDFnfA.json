@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+        "url": "https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+      "url": "https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY"
+    },
+    {
+      "album": {
         "name": "Chitarra Giocosa",
         "url": "https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr"
       },

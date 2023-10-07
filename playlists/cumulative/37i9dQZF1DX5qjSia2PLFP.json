@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:52PdgUJOjvS6Mpmjy1SAlx\">hemlocke springs</a>",
+  "description": "New music breaking waves.  Cover:   <a href=\"spotify:artist:07EcmJpfAday8xGkslfanE\">Kevin Abstract</a>",
   "name": "RIPPLE EFFECT",
   "tracks": [
     {
@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "GOD SAVE THE KING",
+        "url": "https://open.spotify.com/album/2GHfz7mLE2T9KcZvMAhOE6"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263793,
+      "name": "abdicate",
+      "url": "https://open.spotify.com/track/7Hg9scl4oU2E49qO9925Yh"
+    },
+    {
+      "album": {
         "name": "L O W B L O W",
         "url": "https://open.spotify.com/album/6HxhnZSjU62P9B0OzZXh1v"
       },
@@ -597,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Bami Soro",
+        "url": "https://open.spotify.com/album/5F7VyvXnly3E6oj3xOltrO"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Winter",
+          "url": "https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157636,
+      "name": "Bami Soro",
+      "url": "https://open.spotify.com/track/7nqb1kDCuG0CfxxVKgHdSC"
+    },
+    {
+      "album": {
         "name": "Bands On You",
         "url": "https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx"
       },
@@ -804,6 +844,42 @@
       "duration_ms": 137400,
       "name": "Bitter Bitch",
       "url": "https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY"
+    },
+    {
+      "album": {
+        "name": "Blanket",
+        "url": "https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117840,
+      "name": "Blanket",
+      "url": "https://open.spotify.com/track/34mIasINn8fmO54la1cDaM"
+    },
+    {
+      "album": {
+        "name": "Blind Tears",
+        "url": "https://open.spotify.com/album/3lO51fqZqqyf69rqAZMqB3"
+      },
+      "artists": [
+        {
+          "name": "Jay-Way",
+          "url": "https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189555,
+      "name": "Blind Tears",
+      "url": "https://open.spotify.com/track/545VGpht03eB3nY3daIe1D"
     },
     {
       "album": {
@@ -1170,7 +1246,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 142191,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX"
@@ -1434,7 +1510,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 166533,
       "name": "Co-Star",
       "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
@@ -1932,7 +2008,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 162089,
       "name": "Day Ones",
       "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
@@ -2266,6 +2342,24 @@
       "duration_ms": 162964,
       "name": "East",
       "url": "https://open.spotify.com/track/6XZFzfW1WpmA9L0dJ47FxF"
+    },
+    {
+      "album": {
+        "name": "Easy Days",
+        "url": "https://open.spotify.com/album/5POZKjHyuA4QRcKveNZZU9"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148419,
+      "name": "Easy Days",
+      "url": "https://open.spotify.com/track/5apw7C5z0XtCZlTex1HPcl"
     },
     {
       "album": {
@@ -2981,6 +3075,24 @@
     },
     {
       "album": {
+        "name": "UNBOXED",
+        "url": "https://open.spotify.com/album/32rtIPEj2JkLqRDzpGRNR9"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222419,
+      "name": "Gloves",
+      "url": "https://open.spotify.com/track/6k1gqRBg66PEEcAxyGjuyT"
+    },
+    {
+      "album": {
         "name": "Glow On You",
         "url": "https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9"
       },
@@ -3544,7 +3656,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 208747,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
@@ -3614,6 +3726,28 @@
       "duration_ms": 133511,
       "name": "I Ain't Going Lie",
       "url": "https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ"
+    },
+    {
+      "album": {
+        "name": "I Can Say To You [Feat. Vanisha Gould]",
+        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
+      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
       "album": {
@@ -3766,7 +3900,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 152013,
       "name": "IFWU",
       "url": "https://open.spotify.com/track/7y78y7yXwVnsw3Dh4oYxUX"
@@ -4611,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/6MpUQUAXYyf69a2kSvIpyb"
+      },
+      "artists": [
+        {
+          "name": "JAAS",
+          "url": "https://open.spotify.com/artist/58d2ZdXnLiZ4xhRNef78kt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/5M3VijDTOgFsu9wtT2v4WM"
+    },
+    {
+      "album": {
         "name": "MARINE",
         "url": "https://open.spotify.com/album/0C387797zlHjOa4MFRU35T"
       },
@@ -5248,7 +5400,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183267,
       "name": "Nobody (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a"
@@ -5306,7 +5458,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 145000,
       "name": "Not A Day Goes By",
       "url": "https://open.spotify.com/track/15JeD2Kfn596DzP2IITfJ8"
@@ -5472,7 +5624,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 145371,
       "name": "Only One I Think About",
       "url": "https://open.spotify.com/track/37FK8Ee0O9gXROMx93GpZC"
@@ -6118,7 +6270,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 171346,
       "name": "Psalm 62",
       "url": "https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp"
@@ -6525,6 +6677,24 @@
     },
     {
       "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/4KjhIgllM1P5D6Qe7P1Evs"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124363,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/03XuW0pZJg9K0sWlSKiwYE"
+    },
+    {
+      "album": {
         "name": "Set It Up",
         "url": "https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF"
       },
@@ -6558,6 +6728,24 @@
       "duration_ms": 139676,
       "name": "She Da Baddest",
       "url": "https://open.spotify.com/track/5y8q501o2YAvbK3V54yMc1"
+    },
+    {
+      "album": {
+        "name": "SHEGE",
+        "url": "https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH"
+      },
+      "artists": [
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136510,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/3XeQnvXkAXX6LVErx2F0vw"
     },
     {
       "album": {
@@ -6828,7 +7016,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 163910,
       "name": "Smoke by the Ocean",
       "url": "https://open.spotify.com/track/3ofPPYsUS3T7sBWeVt9LXH"
@@ -7801,6 +7989,24 @@
     },
     {
       "album": {
+        "name": "Wait So Long",
+        "url": "https://open.spotify.com/album/0AaPqe9tkDP6LKf7uEf5mw"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Wait So Long",
+      "url": "https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju"
+    },
+    {
+      "album": {
         "name": "Wasting Time ( feat. Drake & The Neptunes )",
         "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
@@ -8194,7 +8400,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/2ioIEWGvazLwBfz1OBgpJ3"

@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 162287,
       "name": "ANIME",
       "url": "https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b"
@@ -744,7 +744,7 @@
     {
       "album": {
         "name": "Atlantic Ocean",
-        "url": "https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv"
+        "url": "https://open.spotify.com/album/2OTZ3ap5ScBuOVHz4ksfyE"
       },
       "artists": [
         {
@@ -755,6 +755,24 @@
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 159678,
+      "name": "Atlantic Ocean",
+      "url": "https://open.spotify.com/track/0NZ1WA4wLJgbdpVrHyZ6cs"
+    },
+    {
+      "album": {
+        "name": "Atlantic Ocean",
+        "url": "https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
       "duration_ms": 159678,
       "name": "Atlantic Ocean",
       "url": "https://open.spotify.com/track/4ht2BBpRPK0xH77b2uV6V6"
@@ -8329,6 +8347,24 @@
     },
     {
       "album": {
+        "name": "Shiawase no Mawarimichi",
+        "url": "https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Shiawase no Mawarimichi",
+      "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
+    },
+    {
+      "album": {
         "name": "into the wind",
         "url": "https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ"
       },
@@ -14468,7 +14504,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
@@ -15252,7 +15288,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 224007,
       "name": "\u6a2a\u306b\u7e26\u306b",
       "url": "https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy"

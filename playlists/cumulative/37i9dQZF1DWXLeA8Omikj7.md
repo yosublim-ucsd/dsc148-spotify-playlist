@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-856 songs - 2 day 13 hr 17 min
+858 songs - 2 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Dawn Aura](https://open.spotify.com/track/1olQnzmTbzlIv6enpgppXS) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Forms](https://open.spotify.com/album/4YvpJz98NQQHdLlmOw04ZX) | 4:37 | 2021-10-01 | 2022-07-29 |
 | [Daydream of You](https://open.spotify.com/track/3UBW2WFjqWpEhjOM1qO6It) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:12 | 2021-03-10 | 2022-07-28 |
 | [Days In Rain](https://open.spotify.com/track/4r6x5ETmKCkKzA3cs9jmox) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:18 | 2019-06-19\* | 2021-03-07 |
-| [Decision](https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Decision](https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim) | 4:22 | 2023-07-17 |  |
+| [Decision](https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Decision](https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim) | 4:22 | 2023-07-17 | 2023-10-07 |
+| [Decision](https://open.spotify.com/track/7trvPTuc4YAozZBlZXAExl) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [The Art Of Change](https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK) | 4:22 | 2023-10-06 |  |
 | [Deep Blue](https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY) | 3:16 | 2022-09-09 |  |
 | [Deep Blue](https://open.spotify.com/track/6CPOy0ncsGyFo4nDRItmfU) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Deep Blue](https://open.spotify.com/album/7yPE5acqisocwtcly1X4LO) | 3:16 | 2020-10-19 | 2022-07-29 |
 | [Deep Down \(Don't Drown\)](https://open.spotify.com/track/1I3FIa5RtcPg3iXpZWLUUy) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Low Pressure](https://open.spotify.com/album/6zfyhUGXLfcZe5QFbD6Cw2) | 3:27 | 2020-12-16 | 2020-12-19 |
@@ -694,7 +695,7 @@
 | [Stairfoot Lane Bunker \- Minor Science Remix](https://open.spotify.com/track/3u8t4yJcbYFYzipDYQN59H) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Minor Science](https://open.spotify.com/artist/7xkfvmfvOfMBZmIGKaLtzi) | [Stairfoot Lane Bunker](https://open.spotify.com/album/6gSznbAWVTqqNXIJUmQtKo) | 5:40 | 2019-06-19\* | 2020-08-26 |
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
-| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* |  |
+| [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* | 2023-10-07 |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 | 2023-07-17 |  |
 | [Stranded](https://open.spotify.com/track/0g6SHe2SRb5y51mpBIvz1g) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Stranded \- EP](https://open.spotify.com/album/7dAwe5gLMsBfZI5FPrcR2C) | 3:16 | 2019-05-26\* | 2020-08-26 |
@@ -845,6 +846,7 @@
 | [When I Look Into Your Eyes](https://open.spotify.com/track/0uWA1iX0tEOOSfkZs7XYP5) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [When I Look Into Your Eyes](https://open.spotify.com/album/1JkaeIKoQe9IAJLVjOYH9Z) | 4:12 | 2021-01-17 |  |
 | [When Will I Learn](https://open.spotify.com/track/15iCIkRtJkYoJJavwSbA3n) | [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [When Will I Learn](https://open.spotify.com/album/5YXLWx2SHUt8AD1iOAFdaR) | 2:49 | 2021-06-10 |  |
 | [Where Angels Fear To Tread](https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Where Angels Fear To Tread](https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0) | 3:45 | 2019-06-19\* | 2020-10-19 |
+| [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispering Wind \(B\-Sides\)](https://open.spotify.com/track/21VSSsSwr0oTNJQtILJbdK) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 6:02 | 2019-07-25 | 2020-08-26 |
 | [White Moon Garden](https://open.spotify.com/track/4KeuCAsq7wXLssyigUnAQh) | [Deadboy](https://open.spotify.com/artist/2YbV1TIoIl1Un54MmSvZ3V) | [White Magick \- EP](https://open.spotify.com/album/1g7st4CgzxGFNZFc8dutlE) | 5:16 | 2019-06-22 | 2020-10-22 |
 | [White Picket Fence](https://open.spotify.com/track/1S9N0MuXeSajQo0EcGgM3A) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [White Picket Fence](https://open.spotify.com/album/1AHfQkKelaUKhCXXn9kr1C) | 2:58 | 2021-07-23 | 2022-07-19 |

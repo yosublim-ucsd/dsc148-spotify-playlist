@@ -1,12 +1,12 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: Rangga Jones, Jolianne",
-  "num_followers": 109968,
+  "num_followers": 110041,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2MzZDYxNDgzNDM5MmFkNDkyNWI3ZTUyYmE1YzBjM2U2NzdkOWY0",
+  "snapshot_id": "MCxkN2ZmYTg0NTAzMjIzYjViNDc3ZmI2ZTE4Njk3ZmNlOTBjMjQ2Njdh",
   "tracks": [
     {
       "added_at": "2023-10-05 16:00:00",
@@ -211,6 +211,26 @@
       "duration_ms": 197930,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ"
+    },
+    {
+      "added_at": "2023-10-05 16:00:00",
+      "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/4o7qgk1JV9Y6m8Qchfd0y2"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "duration_ms": 182938,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/4jgrU5aVVGSYwTaWZJyfo4"
     },
     {
       "added_at": "2023-10-05 16:00:00",

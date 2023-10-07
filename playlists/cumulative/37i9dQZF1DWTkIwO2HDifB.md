@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Coração na Geladeira 2 e os funks mais 🔑 do Brasil\. Foto: Mc Kevin, MC Hariel
+> Toma Tapa e os funks mais 🔑 do Brasil\. Foto: Mc Jacaré
 
 203 songs - 11 hr 0 min
 

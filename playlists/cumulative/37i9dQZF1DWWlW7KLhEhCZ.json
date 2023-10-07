@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Azevedo",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Abbot",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 135406,
       "name": "Alguma Fita",
       "url": "https://open.spotify.com/track/7uo4lRCXVsLX68Ert79fBi"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 142840,
       "name": "Ber\u00e7o do Trap",
       "url": "https://open.spotify.com/track/5dfEz3Qzoi9UPGc9P0HMDO"
@@ -3885,6 +3885,36 @@
     },
     {
       "album": {
+        "name": "Ca\u00eddo",
+        "url": "https://open.spotify.com/album/0GkGWcUmjMoI5uwajz9FHY"
+      },
+      "artists": [
+        {
+          "name": "Salaga",
+          "url": "https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG"
+        },
+        {
+          "name": "Toepper",
+          "url": "https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Dj Nb",
+          "url": "https://open.spotify.com/artist/2GZUy5017hx1rotZruGpee"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Ca\u00eddo",
+      "url": "https://open.spotify.com/track/3FqTwD9LiyK956yS77EJHI"
+    },
+    {
+      "album": {
         "name": "CB 300",
         "url": "https://open.spotify.com/album/5BzTDakKR2ehZ9H62AYYzz"
       },
@@ -4450,7 +4480,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 188160,
       "name": "Com Press\u00e3o",
       "url": "https://open.spotify.com/track/6Ww1KjoOVgur1lFJxN6ZAf"
@@ -5512,7 +5542,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 133000,
       "name": "Desde Novo",
       "url": "https://open.spotify.com/track/7kD0zNVvGnZe80PnVA9vBc"
@@ -6184,6 +6214,44 @@
       "duration_ms": 164553,
       "name": "Do lado de c\u00e1",
       "url": "https://open.spotify.com/track/41ngGfqMD5R6NydSjUP1Y7"
+    },
+    {
+      "album": {
+        "name": "Do Outro Lado",
+        "url": "https://open.spotify.com/album/4anLlRss9R1m3qdiIy9UEb"
+      },
+      "artists": [
+        {
+          "name": "Zambrota",
+          "url": "https://open.spotify.com/artist/0yILk4EVQcvXQK2dTISXDI"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        },
+        {
+          "name": "KarpaBeats",
+          "url": "https://open.spotify.com/artist/6D3sLCYbKtRoLsjmdFbdTh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Do Outro Lado",
+      "url": "https://open.spotify.com/track/4R1V7PVYjFDnH0Bl1rdu3q"
     },
     {
       "album": {
@@ -8254,6 +8322,44 @@
       "duration_ms": 182871,
       "name": "FREIA N\u00c3O",
       "url": "https://open.spotify.com/track/70OEITtSlCqzRbwVR9ubqr"
+    },
+    {
+      "album": {
+        "name": "Fresh Sesh #01 - Se voc\u00ea n\u00e3o me mama",
+        "url": "https://open.spotify.com/album/2hjuKrV2keXfTbZrlqLj3N"
+      },
+      "artists": [
+        {
+          "name": "Fresh Mind Co.",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "MC LH",
+          "url": "https://open.spotify.com/artist/5ouLgmb6IP61sffCeJLUUf"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220660,
+      "name": "Fresh Sesh #01 - Se voc\u00ea n\u00e3o me mama",
+      "url": "https://open.spotify.com/track/5QgNF05BnzIE85hKgkqQQi"
     },
     {
       "album": {
@@ -11565,6 +11671,44 @@
     },
     {
       "album": {
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Mesma Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
+    },
+    {
+      "album": {
         "name": "Meu Bando",
         "url": "https://open.spotify.com/album/3uuXzHdJygwW5qW1HXCvfM"
       },
@@ -12134,7 +12278,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 150545,
       "name": "Muda o Clima",
       "url": "https://open.spotify.com/track/5rRiLKbeO2Lb6FeId5eERS"
@@ -12708,7 +12852,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 127437,
       "name": "Nunca chore por vadias",
       "url": "https://open.spotify.com/track/0OcDfESwU0Whb7lpCeVOKW"
@@ -15310,7 +15454,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 125649,
       "name": "Putaria e Muita Rima",
       "url": "https://open.spotify.com/track/2s51xgrfLjp0rI6ibbU8Nu"
@@ -16015,6 +16159,28 @@
     },
     {
       "album": {
+        "name": "Retrato #7 - At\u00e9 Ontem",
+        "url": "https://open.spotify.com/album/6JPlDN29dd3ojMngeT6ULM"
+      },
+      "artists": [
+        {
+          "name": "AZN Studio",
+          "url": "https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h"
+        },
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166538,
+      "name": "Retrato #7 - At\u00e9 Ontem",
+      "url": "https://open.spotify.com/track/2SX9UqgDeNlBMWAllmH0bD"
+    },
+    {
+      "album": {
         "name": "Reverse",
         "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
       },
@@ -16535,6 +16701,28 @@
     },
     {
       "album": {
+        "name": "Segundo Plano",
+        "url": "https://open.spotify.com/album/71OY7UsMfl07wbJ3FVzKNn"
+      },
+      "artists": [
+        {
+          "name": "Errijorge",
+          "url": "https://open.spotify.com/artist/5qIaSdndIosiPsZOmkHipG"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132924,
+      "name": "Segundo Plano",
+      "url": "https://open.spotify.com/track/3tX1JRz3KUiLHUrvbb6FEZ"
+    },
+    {
+      "album": {
         "name": "Sem Ca\u00f4",
         "url": "https://open.spotify.com/album/6JJwqsviVDMojkysME4c66"
       },
@@ -16646,6 +16834,32 @@
       "duration_ms": 162500,
       "name": "Sem tempo pra Ti",
       "url": "https://open.spotify.com/track/3lsBDzJNbbDLGtlXSvVIlT"
+    },
+    {
+      "album": {
+        "name": "Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/18H0lmM9REXRm35alIA81G"
+      },
+      "artists": [
+        {
+          "name": "Nathy Mc",
+          "url": "https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo"
+        },
+        {
+          "name": "Young Ganni",
+          "url": "https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog"
+        },
+        {
+          "name": "Eaedaddy",
+          "url": "https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/5oz4Skqv2LUmvxIuPOfk6G"
     },
     {
       "album": {
@@ -19017,6 +19231,32 @@
     },
     {
       "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Vem Jogar O Popo Pra Mim",
+      "url": "https://open.spotify.com/track/4JnFYQqZaKw3wQikPQHmVJ"
+    },
+    {
+      "album": {
         "name": "VENCEDOR",
         "url": "https://open.spotify.com/album/0tRztAAUxyLqfRxiZkKpJr"
       },
@@ -19848,7 +20088,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 247056,
       "name": "\u00c9 o Trem",
       "url": "https://open.spotify.com/track/1yRwbEMwARnpnpkDAtZ1h1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,372 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,590 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 72 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
 | 73 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
 | 74 | [Time Is The Healer \- Armin van Buuren Extended Remix](https://open.spotify.com/track/0nzQ03IlgnmjH2J1iBE5fO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Time Is The Healer](https://open.spotify.com/album/3lpXIVTG57wXNuhpGu8CrY) | 7:56 |
-| 75 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
-| 76 | [Luvstruck](https://open.spotify.com/track/5kW0BW8B5hjrbpe0OuFUr9) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Benjamin Bates](https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W) | [Luvstruck](https://open.spotify.com/album/5zipLTwuPaNjKtO0VcAup3) | 3:17 |
+| 75 | [Luvstruck](https://open.spotify.com/track/5kW0BW8B5hjrbpe0OuFUr9) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Benjamin Bates](https://open.spotify.com/artist/2zk6outptAdZh4zvEjLk8W) | [Luvstruck](https://open.spotify.com/album/5zipLTwuPaNjKtO0VcAup3) | 3:17 |
+| 76 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
 | 77 | [Barber's Adagio for Strings \- Ferry Corsten Remix](https://open.spotify.com/track/34I6VPdSlptoTmX6HcY7tv) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Visiones De Futuro: Electrónica Progresiva](https://open.spotify.com/album/0Q2wVtiz8sVR2zSk5sxL0e) | 6:35 |
 | 78 | [The Sound Of Goodbye \- Armin van Buuren presents Rising Star Remix](https://open.spotify.com/track/6i0XAILWMxXwjtDxGm6Wgu) | [Perpetuous Dreamer](https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy), [Rising Star](https://open.spotify.com/artist/3HYUBCT2pYtoo0JHztEsRJ), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [40 Best Trance Hits Ever, Vol\. 2 \(Extended Versions\)](https://open.spotify.com/album/6uN9PsLgmCmPPkrusFaAWL) | 10:49 |
 | 79 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MCxmNmQ1NTczMDA3Mzg0MGY1NTQ1ZTBjMjE2ZDJjYjE0NjYwNzA3Yzkx`
+Snapshot ID: `MCw1Y2U3NDlkNmY2ODI1NmE0NWFmNmIxYjA0OTFjMDdjYzYwMTYyNjcw`

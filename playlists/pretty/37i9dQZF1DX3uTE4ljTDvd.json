@@ -1,79 +1,31 @@
 {
-  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 116560,
+  "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
+  "num_followers": 116583,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjM0ZjQzNzE1YzMxNjkyYzRlNWRhMTBjNDQ5OGVmNzhlM2NhYjUx",
+  "snapshot_id": "MCw0YjhmZjM3ZWQ4MmQ5ZWNhM2E4NmQ5NGM1MjhlMjljODE1NTJhNTgz",
   "tracks": [
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Recursos",
-        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
+        "name": "Raridade (Releitura)",
+        "url": "https://open.spotify.com/album/2iVGtuWpmNtP5Az2SUXAcj"
       },
       "artists": [
         {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
         }
       ],
-      "duration_ms": 346495,
-      "name": "Recursos",
-      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+      "duration_ms": 256161,
+      "name": "Raridade (Releitura)",
+      "url": "https://open.spotify.com/track/7ChILVLENXtNdAGyavc9th"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Aprender Com a Vida",
-        "url": "https://open.spotify.com/album/4aLOyap4OFInGQPVDwGcKc"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "N\u00e3o Adoro por Sinais",
-      "url": "https://open.spotify.com/track/5wHx18pp8YbZgyAzL3Yju4"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Deserto (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
@@ -89,7 +41,55 @@
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Aprender Com a Vida",
+        "url": "https://open.spotify.com/album/4aLOyap4OFInGQPVDwGcKc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "N\u00e3o Adoro por Sinais",
+      "url": "https://open.spotify.com/track/5wHx18pp8YbZgyAzL3Yju4"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Pode Dormir Tranquilo",
         "url": "https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Redentor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dkyvFAOlv1JUz30UPMDx6"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/1YffYMKpricZh02Sh5nTMK"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Santo dos Santos",
         "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
@@ -141,7 +141,23 @@
       "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Recursos",
+        "url": "https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "duration_ms": 346495,
+      "name": "Recursos",
+      "url": "https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Incompar\u00e1vel",
         "url": "https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Fenda da Rocha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Aviva-nos",
         "url": "https://open.spotify.com/album/5PaxVBNCUxnZQWVAIPHebs"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/1yZBqpTaj8rUIBg0TMgEgI"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "S\u00f3 Faz Ajudar",
         "url": "https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Tua Presen\u00e7a Vale Mais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4vUCJMvYEyDx8Osu1I6W49"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/6Q9QRqD40yE9jn0iRRg5qX"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "O Teu Poder (Creio em Ti)",
         "url": "https://open.spotify.com/album/3gUFySRFOAKWn5VfZ9dvAI"
@@ -321,55 +337,7 @@
       "url": "https://open.spotify.com/track/7wpguZT8WHrxVimzWfEusv"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Ver Al\u00e9m",
-        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 289879,
-      "name": "Ver Al\u00e9m",
-      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Primeiro Amor",
-        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        }
-      ],
-      "duration_ms": 236828,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Eu Me Rendo",
-        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
-      },
-      "artists": [
-        {
-          "name": "Man\u00fa Paiva",
-          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Abra os C\u00e9us",
         "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
@@ -385,7 +353,55 @@
       "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Primeiro Amor",
+        "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        }
+      ],
+      "duration_ms": 236828,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Eu Me Rendo",
+        "url": "https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa Paiva",
+          "url": "https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Ter Paz",
         "url": "https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "A Igreja Te Adora",
         "url": "https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Quanto Amor",
         "url": "https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Andar Sobre As \u00c1guas",
         "url": "https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Me Mostra Tua Face",
         "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
@@ -509,59 +525,7 @@
       "url": "https://open.spotify.com/track/3psQ9G2puOa5xPnQq4bJT2"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Sinal de Amor",
-        "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
-      },
-      "artists": [
-        {
-          "name": "Yuri Costa",
-          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 215750,
-      "name": "Sinal de Amor",
-      "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Deus Te Chama",
-        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
-      },
-      "artists": [
-        {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
-        }
-      ],
-      "duration_ms": 263918,
-      "name": "Deus Te Chama",
-      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
-      },
-      "artists": [
-        {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
-        }
-      ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
@@ -581,7 +545,27 @@
       "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Sinal de Amor",
+        "url": "https://open.spotify.com/album/4nwqWoQzvdRMQRnxWIuTFt"
+      },
+      "artists": [
+        {
+          "name": "Yuri Costa",
+          "url": "https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 215750,
+      "name": "Sinal de Amor",
+      "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "\u00c1gape (Ao Vivo)",
         "url": "https://open.spotify.com/album/4aL4nd5yk53RN33wrEdSru"
@@ -597,7 +581,23 @@
       "url": "https://open.spotify.com/track/3rIDyWXB8u4gJS584dfOSz"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Pra Que Eu Fosse Livre",
         "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
@@ -613,43 +613,23 @@
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
       },
       "artists": [
         {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
         }
       ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Destemida",
-        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
-      },
-      "artists": [
-        {
-          "name": "Adai Music",
-          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
-        },
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Destemida",
-      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Sou o Teu Altar",
         "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
@@ -669,7 +649,43 @@
       "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+      },
+      "artists": [
+        {
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Meu Grande Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
@@ -689,7 +705,23 @@
       "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Promessa",
         "url": "https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG"
@@ -709,23 +741,7 @@
       "url": "https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Basta Uma Palavra",
         "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Sua Vida Em Mim",
         "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
@@ -805,23 +821,7 @@
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Quem Disse? (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Minha can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Eu Vou Mergulhar",
         "url": "https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO"
@@ -905,7 +905,23 @@
       "url": "https://open.spotify.com/track/75H1JdNy5JIndenoockhB3"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Peda\u00e7os",
         "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
@@ -957,7 +973,7 @@
       "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Tu Me Fascinas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
@@ -973,7 +989,7 @@
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Kethelen Baittinger",
         "url": "https://open.spotify.com/album/1gLk6yyOrJakvzbaz5odg5"
@@ -989,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7t10vTBBTfdELqVlawK6vY"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Em Nome de Jesus",
         "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
@@ -1005,27 +1021,7 @@
       "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9"
-      },
-      "artists": [
-        {
-          "name": "Aproxime-Se",
-          "url": "https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT"
-        },
-        {
-          "name": "Luiz Lima Sobrinho",
-          "url": "https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8"
-        }
-      ],
-      "duration_ms": 303750,
-      "name": "Boa Gra\u00e7a (Good Grace) [Ac\u00fastico]",
-      "url": "https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "N\u00e3o Serei o Mesmo",
         "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
@@ -1041,7 +1037,7 @@
       "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
     },
     {
-      "added_at": "2022-12-09 06:14:16",
+      "added_at": "2023-10-06 04:06:14",
       "album": {
         "name": "Cora\u00e7\u00e3o Cansado de Partir",
         "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"

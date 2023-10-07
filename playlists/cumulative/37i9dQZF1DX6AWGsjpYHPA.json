@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Jazz, Vol. 1",
+        "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397477,
+      "name": "Jazz, Vol. 1",
+      "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
+    },
+    {
+      "album": {
         "name": "MAN MADE",
         "url": "https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 155653,
       "name": "Koko",
       "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"

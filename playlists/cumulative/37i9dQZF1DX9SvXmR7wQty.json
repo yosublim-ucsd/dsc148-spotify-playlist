@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Roxane Bruneau, Souldia",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Georgio, Patrick Watson",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -3388,6 +3388,28 @@
       "duration_ms": 118802,
       "name": "Belle (Okok)",
       "url": "https://open.spotify.com/track/6QzDu1PBj7po6J7uaJZLIk"
+    },
+    {
+      "album": {
+        "name": "Nouvelle \u00e8re",
+        "url": "https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti"
+      },
+      "artists": [
+        {
+          "name": "3 Heures prod",
+          "url": "https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195491,
+      "name": "Benda",
+      "url": "https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5"
     },
     {
       "album": {
@@ -9528,7 +9550,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 231680,
       "name": "Donne",
       "url": "https://open.spotify.com/track/564LI6g6mPCngTvP6ABkZO"
@@ -9923,6 +9945,24 @@
     },
     {
       "album": {
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "album": {
         "name": "FIYAH",
         "url": "https://open.spotify.com/album/7LhkTAJ8NTMhMbynv8RQav"
       },
@@ -10149,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9mesur\u00e9e",
+        "url": "https://open.spotify.com/album/0TotcY7dZuH8IdegQoo9Ai"
+      },
+      "artists": [
+        {
+          "name": "Amay Laoni",
+          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193608,
+      "name": "D\u00e9mesur\u00e9e",
+      "url": "https://open.spotify.com/track/7qIThh1KZxxrBLDaVcbPFL"
+    },
+    {
+      "album": {
         "name": "D\u00e9miner les parcours",
         "url": "https://open.spotify.com/album/4bZaN0qJ6Jk55fpwqATClV"
       },
@@ -10356,6 +10414,24 @@
       "duration_ms": 182608,
       "name": "D\u00e9testable moi",
       "url": "https://open.spotify.com/track/4VeCmnzBp3VwemAUlN8U4z"
+    },
+    {
+      "album": {
+        "name": "d\u00e9tours",
+        "url": "https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY"
+      },
+      "artists": [
+        {
+          "name": "Ivytide",
+          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "d\u00e9tours",
+      "url": "https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6"
     },
     {
       "album": {
@@ -14821,6 +14897,24 @@
     },
     {
       "album": {
+        "name": "Horoscope / Cher Montr\u00e9al",
+        "url": "https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lachance",
+          "url": "https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242710,
+      "name": "Horoscope",
+      "url": "https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ"
+    },
+    {
+      "album": {
         "name": "Hors Piste",
         "url": "https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj"
       },
@@ -17072,7 +17166,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173036,
       "name": "Je remplace mes exs",
       "url": "https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI"
@@ -17300,7 +17394,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 220000,
       "name": "Je te promets",
       "url": "https://open.spotify.com/track/2WQSqRICLiUVaQHT7QQ0We"
@@ -20683,6 +20777,32 @@
     },
     {
       "album": {
+        "name": "Le Roy, la Rose et le Lou[p] (Chanson th\u00e8me)",
+        "url": "https://open.spotify.com/album/15whtpDeiswR48UotutzI4"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        },
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "Le Roy, la Rose et le Lou[p] - Chanson th\u00e8me",
+      "url": "https://open.spotify.com/track/6SOvfUrHfJZz4GXsJPeIkV"
+    },
+    {
+      "album": {
         "name": "LE VRAI",
         "url": "https://open.spotify.com/album/522iek09o43Ba78L1k8DiV"
       },
@@ -21092,6 +21212,28 @@
       "duration_ms": 302893,
       "name": "Leitmotiv",
       "url": "https://open.spotify.com/track/15hkBz9ac754HWEx1qXQQm"
+    },
+    {
+      "album": {
+        "name": "Ann\u00e9es Sauvages",
+        "url": "https://open.spotify.com/album/1Qinl8uCGcCxXzgROA3sf6"
+      },
+      "artists": [
+        {
+          "name": "Georgio",
+          "url": "https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211844,
+      "name": "Les Aliz\u00e9s",
+      "url": "https://open.spotify.com/track/2zS7ZUhvULy8opOGsZvOLD"
     },
     {
       "album": {
@@ -24706,7 +24848,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 198844,
       "name": "Mon jaun\u00e9",
       "url": "https://open.spotify.com/track/33Wq09RGanTl3JXuyUN0ga"
@@ -28833,6 +28975,28 @@
     },
     {
       "album": {
+        "name": "Holistique",
+        "url": "https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM"
+      },
+      "artists": [
+        {
+          "name": "Fanny Bloom",
+          "url": "https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII"
+        },
+        {
+          "name": "Greg Beaudin",
+          "url": "https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193652,
+      "name": "Plage",
+      "url": "https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B"
+    },
+    {
+      "album": {
         "name": "Plain Song Song of a Plain Man",
         "url": "https://open.spotify.com/album/77rQVPg21sxsQo2xXzHF9g"
       },
@@ -30698,7 +30862,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 89146,
       "name": "R+V",
       "url": "https://open.spotify.com/track/5Spizxd5taKrL0tQgW8IuT"
@@ -33170,7 +33334,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 125546,
       "name": "Shatta (feat. Ghost Killer Track)",
       "url": "https://open.spotify.com/track/2CrMndt2MVGC0ZrBV1J0jv"
@@ -33616,7 +33780,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 215481,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4yXRghXZcf9GMsxoErXEHb"
@@ -36510,7 +36674,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
@@ -36786,6 +36950,28 @@
       "duration_ms": 128308,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/09mSOq8yrLRm6r2E7xowak"
+    },
+    {
+      "album": {
+        "name": "METHMATICS",
+        "url": "https://open.spotify.com/album/7GVQKmI4lh0noPeYKZRX6c"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Izzy-S",
+          "url": "https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "TROP T\u00d4T",
+      "url": "https://open.spotify.com/track/5bBUrUzYouZAdxrrCjoA0k"
     },
     {
       "album": {
@@ -39636,7 +39822,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 175706,
       "name": "\u00c0 l'inverse",
       "url": "https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ"

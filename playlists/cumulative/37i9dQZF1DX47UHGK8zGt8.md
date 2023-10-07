@@ -2,9 +2,9 @@
 
 ### [Manhã Relax](https://open.spotify.com/playlist/37i9dQZF1DX47UHGK8zGt8)
 
-> Músicas calminhas pra começar o dia bem relax.
+> Músicas calminhas pra começar o dia bem relax\. Foto: Silva
 
-210 songs - 11 hr 58 min
+212 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Descansa em Mim](https://open.spotify.com/track/7Il0f4313mhJYA9Gz6ahnX) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Descansa em Mim](https://open.spotify.com/album/6Fs7lJ0VlCqUQoa9sGQLt5) | 2:42 | 2022-06-17 | 2022-07-22 |
 | [Descubra Sua Força](https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Descubra Sua Força](https://open.spotify.com/album/2rK7IIEZGisVmA9bOarBRj) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Desculpa o Exagero](https://open.spotify.com/track/6UlCJWjcObqoxgKnFMN5WD) | [Thalita Meneghim](https://open.spotify.com/artist/7996eK0EIp68xnjR3FoFMW) | [Desculpa o Exagero](https://open.spotify.com/album/1Jjcfj6lFY2j2CxjnoJZdh) | 3:38 | 2022-02-18 | 2022-07-27 |
+| [Destino](https://open.spotify.com/track/1fsMy4DP4gPQLhWkcQG1rj) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Destino](https://open.spotify.com/album/3UJnJU8zAGrwwZBfPNCWhs) | 3:21 | 2023-10-06 |  |
 | [Destino e Verdade](https://open.spotify.com/track/1gxTYhtlVJF9ECG4VhTUQl) | [Conrado Pera](https://open.spotify.com/artist/69kv07xFTjUnlXnWON5vMB), [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Destino e Verdade](https://open.spotify.com/album/5gfGcAFlWZhoxt7X7FRDQe) | 3:50 | 2023-09-01 | 2023-09-23 |
 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 | 2022-04-01 | 2022-04-20 |
 | [Dez Anjos](https://open.spotify.com/track/2yV0N09wOvcuh1PfDm7592) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Existe Amor](https://open.spotify.com/album/0SeIP7LbyFTNlmdFKH8zHi) | 4:53 | 2022-04-01 | 2022-04-21 |
@@ -97,7 +98,7 @@
 | [Farol](https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Farol](https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z) | 2:25 | 2022-04-01 | 2022-04-16 |
 | [Faz Bem \(Remoto\)](https://open.spotify.com/track/519dlI8wnI3klKGhUiNhPv) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz), [Júlia Pinho](https://open.spotify.com/artist/069jZOSC75oYXarD6wc7PB) | [Faz Bem \(Remoto\)](https://open.spotify.com/album/7rWbIKgjwSob2fD8NrN0ph) | 2:59 | 2022-04-01 | 2022-07-24 |
 | [Felicidade](https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:12 | 2022-02-18 |  |
-| [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-02-18 |  |
+| [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 | 2022-02-18 | 2023-10-07 |
 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 | 2022-04-01 |  |
 | [For No One](https://open.spotify.com/track/7h3oEzebG1EiGrlelJYaUd) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Qualquer Coisa](https://open.spotify.com/album/3c6QuGftzoHlZZ10TPsHsB) | 5:02 | 2022-04-01 | 2022-04-21 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-21 |  |
@@ -107,6 +108,7 @@
 | [Gigi](https://open.spotify.com/track/1W39bHsutPg1ItstVvzS2T) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Vem](https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug) | 2:56 | 2022-04-01 | 2022-04-21 |
 | [Good Vibes](https://open.spotify.com/track/7lW9epMgtSyF21b3muuNDw) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dois é Par](https://open.spotify.com/album/2aW8hmMBYgHV3ClYmKly5H) | 2:56 | 2022-02-18 | 2022-07-29 |
 | [Horizonte](https://open.spotify.com/track/53M78qKCQ1PVoqnzqE94VH) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Horizonte](https://open.spotify.com/album/4InM7tZt258Z6hSGDLPpgj) | 3:23 | 2022-04-01 | 2022-05-07 |
+| [Imagina](https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Imagina](https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A) | 2:49 | 2023-10-06 |  |
 | [imagina amar assim](https://open.spotify.com/track/0PmLsegy4g7Tgmc0C9jM61) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1), [bibi](https://open.spotify.com/artist/5psPyNU0Tac7jGsyaqOFR4) | [imagina amar assim](https://open.spotify.com/album/6YMf5PbWziwj5LVrU1dLUr) | 3:00 | 2022-03-11 | 2022-06-20 |
 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 | 2022-02-18 | 2023-09-02 |
 | [Isn't She Lovely](https://open.spotify.com/track/23H8PpuhyTDHwpqcDm7vS6) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 1:26 | 2022-04-01 | 2022-11-10 |
@@ -194,7 +196,7 @@
 | [Todo Fim É Recomeço](https://open.spotify.com/track/7vu1g2hGpNOONfzWfcTqCt) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Todo Fim É Recomeço](https://open.spotify.com/album/5AV92uLFFtuuF5HuzLGkNy) | 2:23 | 2022-04-01 | 2022-04-21 |
 | [Transforma\(dor\)](https://open.spotify.com/track/4cX2eGG90TqhlkTFck65LZ) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Transforma\(dor\)](https://open.spotify.com/album/1L7oE1Egz6lpwrrZYe92Xc) | 2:23 | 2022-02-18 | 2023-09-09 |
 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 | 2022-02-18 |  |
-| [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 |  |
+| [Um amor puro](https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Um amor puro](https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO) | 4:45 | 2022-02-18 | 2023-10-07 |
 | [Um dia de domingo](https://open.spotify.com/track/4Hnc4ewhudTuDkXiyZ39Vm) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Um dia de domingo](https://open.spotify.com/album/6UsutqrIyl5NVGoP4i4hoz) | 4:11 | 2023-08-25 |  |
 | [Velha Infância \- Acústico](https://open.spotify.com/track/2mGLhWWDAy7EnDz8wW3xdY) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Ensaio Acústico](https://open.spotify.com/album/3KKpQRGb980zBe0A1bqkY1) | 3:01 | 2022-02-18 |  |
 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 | 2023-10-02 |  |

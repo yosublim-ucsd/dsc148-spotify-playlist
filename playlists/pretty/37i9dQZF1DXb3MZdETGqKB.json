@@ -1,29 +1,13 @@
 {
   "description": "All new, all blues. Cover: Buffalo Nichols",
-  "num_followers": 143340,
+  "num_followers": 143414,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDAzNjAyZjY2OGZhZGQ0OGJjNzQyMDdiMWU0ODJjZjY5OGNiNDRl",
+  "snapshot_id": "MCxmNjI2OTVkMzVjZmI3NzEwMDg3MGI3ODhjZWY5MTJkNjcwMTk5MGIz",
   "tracks": [
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Wilder Than the West",
-        "url": "https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO"
-      },
-      "artists": [
-        {
-          "name": "Renee Blair",
-          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
-        }
-      ],
-      "duration_ms": 154311,
-      "name": "Wilder Than the West",
-      "url": "https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37"
-    },
     {
       "added_at": "2023-09-22 04:01:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 154277,
       "name": "Alice",
       "url": "https://open.spotify.com/track/0ljIh0b1ubYroGj6ngyE9u"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Wilder Than the West",
+        "url": "https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO"
+      },
+      "artists": [
+        {
+          "name": "Renee Blair",
+          "url": "https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1"
+        }
+      ],
+      "duration_ms": 154311,
+      "name": "Wilder Than the West",
+      "url": "https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37"
     },
     {
       "added_at": "2023-09-15 04:01:00",

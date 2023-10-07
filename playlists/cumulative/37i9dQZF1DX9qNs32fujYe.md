@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-738 songs - 2 day 6 hr 48 min
+740 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Drilled to Kill](https://open.spotify.com/track/16jJ0Od4C5K6IiOT0fVdxe) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Drilled to Kill](https://open.spotify.com/album/4jRqlkUhnjE7Dr9aVNXfMg) | 4:31 | 2021-12-17 | 2022-06-05 |
 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 | 2022-08-19 | 2023-06-12 |
 | [Du hast](https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:55 | 2023-05-26 |  |
+| [Dying Of The Light](https://open.spotify.com/track/3kBsOgVKo2Xy4HtgznGO0U) | [Frozen Land](https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948) | [Out Of The Dark](https://open.spotify.com/album/76bXuxiCtxCW0OIsGOtW2U) | 3:46 | 2023-10-06 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2022-07-13 | 2022-12-16 |
 | [Eidolon](https://open.spotify.com/track/0bCVKJmPEOP28h41Qrp77w) | [Once Human](https://open.spotify.com/artist/1VhMNOBmLqZr7E7jsVrZLQ) | [Scar Weaver](https://open.spotify.com/album/2drAFA1ZzlXkTZBg4llIb1) | 3:53 | 2022-02-11 | 2022-04-19 |
 | [Embrace The Night](https://open.spotify.com/track/4URwHwvDeDZobzIQvfV3Bb) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Winterbane \(Japan Edition\)](https://open.spotify.com/album/7959qrdIZlcH6ETwW0N5u3) | 5:04 | 2021-12-17 | 2022-07-15 |
@@ -260,7 +261,7 @@
 | [Hammer Of Dawn](https://open.spotify.com/track/4CSGVziAkUelYOIlOPNu6G) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer Of Dawn](https://open.spotify.com/album/7ABUtIO7hLB17LftkAUml0) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Hammer of Dawn](https://open.spotify.com/track/6shAaOP9wwqJfiLHRqv4UV) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hammer of Dawn](https://open.spotify.com/album/2nTZtQxxBz0XiwEktLO0MM) | 4:02 | 2022-07-08 | 2022-10-22 |
 | [Hammer Smashed Face](https://open.spotify.com/track/4pFC6tuWErxbO61oFFq3BQ) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Tomb Of The Mutilated](https://open.spotify.com/album/2yPAe2RJCfrfV97c8FKKjb) | 4:02 | 2022-08-19 | 2023-03-11 |
-| [Hard Habit](https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [The Name Lives On](https://open.spotify.com/album/4GklZdIbTbc8ArDurfTCT6) | 3:40 | 2023-05-05 |  |
+| [Hard Habit](https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [The Name Lives On](https://open.spotify.com/album/4GklZdIbTbc8ArDurfTCT6) | 3:40 | 2023-05-05 | 2023-10-07 |
 | [Hardcore](https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 3:34 | 2021-12-17 | 2023-03-11 |
 | [Hardwired](https://open.spotify.com/track/01JszWYuKqRjddPQ4creVF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired](https://open.spotify.com/album/4MQxwNLnVePt7CYmLE50kC) | 3:11 | 2022-03-22 | 2022-04-14 |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2022-07-08 | 2023-03-04 |
@@ -319,11 +320,12 @@
 | [In Extremis](https://open.spotify.com/track/5Hq0ORq01GmoS2HDYbxSZR) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [In Extremis](https://open.spotify.com/album/1aKyeErEZECLxc0TC1zeAu) | 4:41 | 2022-07-08 | 2022-08-03 |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 |  |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
+| [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 | 2023-10-06 |  |
 | [Into the Black](https://open.spotify.com/track/69uGltZ3kbIqYmPDHp1p2E) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Into the Black](https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF) | 3:58 | 2021-12-17 | 2022-08-20 |
 | [Into The Storm](https://open.spotify.com/track/0FcbEF2c45mID7o7IJ0qM6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Into The Storm](https://open.spotify.com/album/7GcDYQFIVJ6W3IkzIfFiia) | 5:02 | 2021-12-17 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/62AlQhD90S7973EkbBT0Xj) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [Knights of the Realm](https://open.spotify.com/album/4vqFFMxNsElDirSMoJjwoG) | 4:32 | 2022-03-22 | 2022-04-01 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-04-20 |
-| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 |  |
+| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 | 2023-10-07 |
 | [It’s Electric](https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [It’s Electric](https://open.spotify.com/album/1OkYZGeYAH4wbHRcTrkQrS) | 3:18 | 2021-12-17 | 2022-07-29 |
 | [Jenseits der Welt](https://open.spotify.com/track/5CrW7UPOqpdZYHSPZN4UyE) | [Unzucht](https://open.spotify.com/artist/2hfInImCCmb7zXIuCE15IN) | [Jenseits der Welt](https://open.spotify.com/album/5oVBjXFAwdU5WUiu3Rwo6S) | 4:32 | 2021-12-17 | 2022-07-26 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |

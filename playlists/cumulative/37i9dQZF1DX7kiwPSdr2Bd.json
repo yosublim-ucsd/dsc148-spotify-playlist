@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Mari Borges, Aline Barros",
+  "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Aline Barros",
   "name": "Mulheres do Gospel",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 262826,
       "name": "Amigo Jesus",
       "url": "https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC"
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 241874,
       "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
       "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 245752,
       "name": "Escolhido",
       "url": "https://open.spotify.com/track/1HL6dDrHS1goaEj3mUJird"
@@ -2238,6 +2238,42 @@
       "duration_ms": 246277,
       "name": "Montanha (Sometimes It Takes a Mountain)",
       "url": "https://open.spotify.com/track/3D5QYKG4NHLImvL51wzrxb"
+    },
+    {
+      "album": {
+        "name": "Na Un\u00e7\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7y08pBnk5D0K4SdGgVJLM6"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338571,
+      "name": "Na Un\u00e7\u00e3o de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0eAEn4Haj90B5KLNc7bJSx"
+    },
+    {
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "album": {
@@ -3244,6 +3280,24 @@
       "duration_ms": 357209,
       "name": "Santo Deus",
       "url": "https://open.spotify.com/track/6KDtAwxswJk1Dlgsh1OeMO"
+    },
+    {
+      "album": {
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327756,
+      "name": "Santo para Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "album": {

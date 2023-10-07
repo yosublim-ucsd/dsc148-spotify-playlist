@@ -4,7 +4,7 @@
 
 > Meditate to the sound of soothing voices and flutes.
 
-122 songs - 6 hr 15 min
+123 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-05-25 | 2022-07-09 |
 | [Floating in Stillness](https://open.spotify.com/track/2yxjJ6zoZW4kysV5wPqTzl) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [Floating in Stillness](https://open.spotify.com/album/0N8e5UlCvI3I515gJDkpGs) | 2:08 | 2023-05-05 |  |
 | [Flutonia Dreaming](https://open.spotify.com/track/6bmtzWeaEulnHVrCMfUpBd) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Flutonia Dreaming](https://open.spotify.com/album/6f4VSiUzbMdkLf0H9VAQJC) | 3:05 | 2023-08-11 |  |
+| [Forest Temple](https://open.spotify.com/track/4wuuxCsLLcEqaZtof12vwt) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Temple](https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR) | 3:54 | 2023-10-06 |  |
 | [Forever close](https://open.spotify.com/track/4SIJIe0qLkPFLP8Nedt1Ga) | [Tuva Meyer](https://open.spotify.com/artist/2jLb0BITddsw4KK3EcNyyn) | [Forever close](https://open.spotify.com/album/0bhOdhCWSXWvy2uQKxDbGK) | 3:43 | 2022-05-25 |  |
 | [Forward](https://open.spotify.com/track/6fy6hBtZMY8sAjG8ynqUbV) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Forward](https://open.spotify.com/album/7Hp3Glq4Aoy8ubBEXCQtlj) | 2:33 | 2022-05-25 |  |
 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 | 2022-05-25 | 2023-10-06 |
@@ -86,7 +87,7 @@
 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2022-05-25 | 2022-12-10 |
 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 | 2022-05-25 |  |
 | [Magic Carpet Ride](https://open.spotify.com/track/46uQASxnpwEpeCS0MAZuwL) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:36 | 2022-05-25 |  |
-| [Masikota](https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Masikota](https://open.spotify.com/album/0SIzQRtFJuJC9WYqg8v4g9) | 3:44 | 2022-05-25 |  |
+| [Masikota](https://open.spotify.com/track/5uYBs6Jdb7WD1hy2sKqZnO) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Masikota](https://open.spotify.com/album/0SIzQRtFJuJC9WYqg8v4g9) | 3:44 | 2022-05-25 | 2023-10-07 |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-05-25 | 2023-04-29 |
 | [Morning Skies](https://open.spotify.com/track/5uIa8gAkpe17Bce9Q47A71) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Morning Skies](https://open.spotify.com/album/2p0PtIvMflxAUMlwymdTdy) | 6:10 | 2022-09-06 | 2023-09-23 |
 | [My Seven Feelings](https://open.spotify.com/track/5OOiY3O34bUYV2mHGcMGQW) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [My Seven Feelings](https://open.spotify.com/album/6Kl4ICdlFw7lb1N25DJdB2) | 3:10 | 2022-05-25 |  |

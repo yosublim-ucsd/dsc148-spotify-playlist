@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173643,
+  "num_followers": 173658,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
+  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Kill Or Be Kind",
+      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Promise of a Brand New Day",
         "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 225026,
       "name": "Singing the Blues",
       "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Kill Or Be Kind",
-      "url": "https://open.spotify.com/track/4V8Bx1b1B5XcslWAAOph89"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Soft Place To Fall",
         "url": "https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 291840,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/0HPazJXESVCimRyMggplg5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Healing Creek",
-        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
-      },
-      "artists": [
-        {
-          "name": "Talibah Safiya",
-          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "Healing Creek",
-      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Nowhere Left to Go",
         "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Healing Creek",
+        "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "duration_ms": 191920,
+      "name": "Healing Creek",
+      "url": "https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 292353,
-      "name": "The Best Thing",
-      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "The Beautiful Bones",
         "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 264253,
       "name": "Release and Be Free",
       "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 292353,
+      "name": "The Best Thing",
+      "url": "https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
+      },
+      "artists": [
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
+        "name": "Moon Goes Missing",
+        "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
       },
       "artists": [
         {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
         }
       ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+      "duration_ms": 321494,
+      "name": "Open Eyes",
+      "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
     }
   ],
   "unique_name": "EQUAL Blues",

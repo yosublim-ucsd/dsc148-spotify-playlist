@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-236 songs - 14 hr 27 min
+237 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Em Outro Lugar](https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY) | [Pedro Pondé](https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl) | [Simples Assim](https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg) | 3:37 | 2022-02-04 | 2022-07-27 |
 | [Enquanto Durmo](https://open.spotify.com/track/1St2uU9hgjVMnmuLeLePlk) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:04 | 2022-11-25 | 2023-10-03 |
 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 | 2022-02-04 | 2022-07-29 |
-| [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 | 2022-02-04 |  |
+| [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 | 2022-02-04 | 2023-10-07 |
 | [Espero Que Você Entenda](https://open.spotify.com/track/7uMfZtOT5JEYdv8gi6M9wk) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Espero Que Você Entenda](https://open.spotify.com/album/2lCmjlHLQIcRSfECaTkew8) | 4:01 | 2022-02-04 | 2022-07-21 |
 | [Esquece dos Problemas](https://open.spotify.com/track/1lZAad3fXzOEMvwskQGJT1) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Esquece dos Problemas](https://open.spotify.com/album/3xh8wMnggMLgpcRXsuO6dL) | 3:19 | 2022-03-22 | 2022-04-20 |
 | [Esquina](https://open.spotify.com/track/6f9ApFScFmaQPECfkhdAMg) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Esquina](https://open.spotify.com/album/0vZqnfR50vGU7JE9jOvnKY) | 3:30 | 2022-04-01 | 2022-06-12 |
@@ -196,6 +196,7 @@
 | [Quintal](https://open.spotify.com/track/6Yfg3M6jke2jabJfLDCwNh) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29) | [Quintal](https://open.spotify.com/album/6j0x0Thvnr20ajSLOtI9Pi) | 4:09 | 2022-02-04 | 2022-07-22 |
 | [Remelexo](https://open.spotify.com/track/0P8wOHDPpDvIDANfl9MHS2) | [Theo Bial](https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5), [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Remelexo](https://open.spotify.com/album/1VyvxUz5uj58SDsFFMDkGq) | 3:26 | 2022-02-04 | 2022-07-29 |
 | [Rose](https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Rose](https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT) | 3:06 | 2022-02-04 | 2022-07-21 |
+| [Roupa Branca](https://open.spotify.com/track/1XWwzbDvvuRLFMRjoJ3ecC) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Roupa Branca](https://open.spotify.com/album/6tlXAjDZUnoQmIP1lcrqMC) | 2:27 | 2023-10-06 |  |
 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 | 2022-02-04 |  |
 | [Saiba](https://open.spotify.com/track/13HJiaanpj9UUlM0oRdLCw) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Rodrigo Tavares](https://open.spotify.com/artist/3AJRxQt0V8I0MqhqZ1fwTG), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd), [Vico](https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC) | [Saiba](https://open.spotify.com/album/7ebm89fROlRR91r89dSYNw) | 2:43 | 2022-02-04 | 2022-07-29 |
 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 | 2022-02-04 |  |

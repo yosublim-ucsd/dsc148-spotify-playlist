@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "Rain (Live At Red Rocks, 2023)",
+        "url": "https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288373,
+      "name": "Rain - Live At Red Rocks, 2023",
+      "url": "https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI"
+    },
+    {
+      "album": {
         "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
         "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
       },

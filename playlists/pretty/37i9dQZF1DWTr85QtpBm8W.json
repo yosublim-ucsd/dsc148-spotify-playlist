@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 14314,
+  "num_followers": 14339,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
+  "snapshot_id": "MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Solaris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
-      },
-      "artists": [
-        {
-          "name": "Cliff Martinez",
-          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
-        }
-      ],
-      "duration_ms": 300680,
-      "name": "Will She Come Back",
-      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Vir\u00f0ulegu forsetar",
         "url": "https://open.spotify.com/album/4Z1mxIr5W6e6udtQOztJK7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 78579,
       "name": "Part 1.2",
       "url": "https://open.spotify.com/track/4fo5POX7jgXpz44NsElSBr"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Solaris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Will She Come Back",
+      "url": "https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 133694,
-      "name": "Night Bus",
-      "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Black One",
         "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 137826,
       "name": "Sin Nanna",
       "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Corsair",
-      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -571,6 +539,38 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/5ij6VfAkBwTa5Y3951PdAx"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/4VIyN0UbWutIfE529r0XOg"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "When the Detail Lost Its Freedom",
         "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
         }
       ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "October Language",
+        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
+      },
+      "artists": [
+        {
+          "name": "Belong",
+          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "I'm Too Sleepy...Shall We Swim?",
+      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "The Equatorial Stars",
         "url": "https://open.spotify.com/album/2X1K3oGsTNpiHEFt71kfUU"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 424760,
       "name": "The Sun Is Scheduled to Come Out Tomorrow",
       "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "October Language",
-        "url": "https://open.spotify.com/album/46wQzr2LD5SXpMY38a3e0r"
-      },
-      "artists": [
-        {
-          "name": "Belong",
-          "url": "https://open.spotify.com/artist/3c5PAcbkeFrbWUp42FaBkW"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "I'm Too Sleepy...Shall We Swim?",
-      "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "dedication",
-        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
+        "name": "Songs for the Broken Hearted",
+        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Windy & Carl",
+          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
         }
       ],
-      "duration_ms": 219707,
-      "name": "white mountain",
-      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
+      "duration_ms": 378693,
+      "name": "Btwn You + Me",
+      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Songs for the Broken Hearted",
-        "url": "https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC"
+        "name": "dedication",
+        "url": "https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi"
       },
       "artists": [
         {
-          "name": "Windy & Carl",
-          "url": "https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 378693,
-      "name": "Btwn You + Me",
-      "url": "https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK"
+      "duration_ms": 219707,
+      "name": "white mountain",
+      "url": "https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Second Childhood",
         "url": "https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Von Schn\u00e4beln",
-      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "MP3 Collection",
+        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 438066,
+      "name": "Raamat",
+      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "MP3 Collection",
-        "url": "https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg"
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
       "artists": [
         {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 438066,
-      "name": "Raamat",
-      "url": "https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5"
+      "duration_ms": 236786,
+      "name": "Von Schn\u00e4beln",
+      "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 378840,
+      "name": "Welk",
+      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
         "name": "Inlandish",
         "url": "https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 197280,
       "name": "Ripple and Fade",
       "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 378840,
-      "name": "Welk",
-      "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
     }
   ],
   "unique_name": "Ambient 2000s",

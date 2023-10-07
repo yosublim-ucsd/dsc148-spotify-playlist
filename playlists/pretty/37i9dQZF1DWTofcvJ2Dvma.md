@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,264 likes - 150 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,296 likes - 150 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 60 | [Notification](https://open.spotify.com/track/27FbD1YqrxGg9zhSv3X91R) | [Laizman](https://open.spotify.com/artist/7IgCfXJ8DHWGTli0aDft56) | [Notification](https://open.spotify.com/album/33XIIDfqzpAOCLTobGaGdJ) | 2:38 |
 | 61 | [smoke & sleep](https://open.spotify.com/track/2CG8eXUcfA5IwAPnD9bKcN) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [smoke & sleep](https://open.spotify.com/album/5a6P31flOyTnuvVMQqNFvs) | 2:12 |
 | 62 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 |
-| 63 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
+| 63 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
 | 64 | [daylight savings time](https://open.spotify.com/track/5QtDWKrJ0oDCngcjnBtd7Z) | [milo keeper](https://open.spotify.com/artist/0GC1oqZGWOMXDnNo2u5Irs) | [daylight savings time](https://open.spotify.com/album/4Gvlkp86D3oPbCMbw8BeGO) | 2:43 |
 | 65 | [Memories](https://open.spotify.com/track/3CoaPoaxpeQbBg5xFMLvIt) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Memories](https://open.spotify.com/album/55Ctbx0cQWtzd0vflIP1al) | 2:18 |
 | 66 | [Osaka](https://open.spotify.com/track/3lRlUxwzbHwH6QyXZwO3do) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Osaka](https://open.spotify.com/album/0Rfq7P7TnuNZTed3LHUeD6) | 2:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 149 | [Hojas Secas](https://open.spotify.com/track/1GU8SNqu49z9lay861Rby1) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Hojas Secas](https://open.spotify.com/album/1jngVxcmAseCKTOA6I3OHR) | 2:20 |
 | 150 | [Simmer Down](https://open.spotify.com/track/6sguED9GcSPkitHUV69fhN) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Simmer Down](https://open.spotify.com/album/0mzDPdasH5BhizWTqoMlRV) | 3:05 |
 
-Snapshot ID: `MCxlNzBlN2U0ZWMyNzI2YjI2MmNkOTdmY2M5ODc1NDRjOGQwN2E0ODQ5`
+Snapshot ID: `MCxiZTMwNDI4ZTg5YTRjNDc3N2FlMTZkNjc5ZjU1YjNiYTljZjQ0Mzdm`

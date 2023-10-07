@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Cherry Glazerr
+> Underground indie rock gems\. Cover: Susannah Joffe
 
-1,067 songs - 2 day 12 hr 47 min
+1,070 songs - 2 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2007](https://open.spotify.com/track/35WkfsT6kxdnKVntvIoLt8) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [2007](https://open.spotify.com/album/2D15Km6lpwSzUnRCYj8sfV) | 4:09 | 2022-09-16 | 2022-10-15 |
 | [27](https://open.spotify.com/track/1GXKnG7uoUr4RacaxE3e8m) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [27 / Hologram](https://open.spotify.com/album/4jsoh2EPJ5Jyo1xJSzepCu) | 3:12 | 2022-11-17 | 2023-03-04 |
 | [3D Country](https://open.spotify.com/track/6zTT4nsHpiCxRyFFtSu7lr) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/3453dOJZDbTPog3TyLklI4) | 5:13 | 2023-06-23 | 2023-09-16 |
-| [4th of July](https://open.spotify.com/track/0rT9phb5EseNLh1Et7fkkJ) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:56 | 2023-06-15 |  |
+| [4th of July](https://open.spotify.com/track/0rT9phb5EseNLh1Et7fkkJ) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F) | 2:56 | 2023-06-15 | 2023-10-07 |
 | [4th of July](https://open.spotify.com/track/4J1ymkFxbFa88QTQ5VM4oF) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [4th of July](https://open.spotify.com/album/38MzZWn8pU4IA8pSAdRgA0) | 2:56 | 2023-01-27 | 2023-04-01 |
 | [666+](https://open.spotify.com/track/4OLQ00YD6WUVKAaXjtlZtL) | [The Haunting](https://open.spotify.com/artist/09uUKWMhRoP7QbPWdgiFoC) | [SUICIDE SOCIAL](https://open.spotify.com/album/6xgyZGvhcATgq08xZkYdQx) | 3:16 | 2023-09-15 |  |
 | [9/10](https://open.spotify.com/track/3oVJlt8KOIh6soEBp0DSuR) | [Keyboard Dog](https://open.spotify.com/artist/2nF1Bu7mDkYoeEYt02OU8z) | [9/10](https://open.spotify.com/album/6s5QGDRXgsjaEAcQsaEJh6) | 3:23 | 2022-04-01 | 2022-05-13 |
@@ -141,7 +141,7 @@
 | [Boy In Blue](https://open.spotify.com/track/0VPUjs1EFo32DmV81Bu3Rq) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Boy In Blue](https://open.spotify.com/album/4PVOqgfG2BEjySY1HRoFak) | 3:21 | 2023-06-15 |  |
 | [Boy Next Door](https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Study](https://open.spotify.com/album/0RzFyC16Ob2wCszOUvH0EQ) | 3:39 | 2022-07-12 | 2023-04-15 |
 | [Boys](https://open.spotify.com/track/2JfOojeyOncDOEPB7VcEuP) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Boys](https://open.spotify.com/album/2cnqwWCr0MG2RC1b8wbPek) | 2:30 | 2022-08-05 | 2022-10-14 |
-| [Brand New Storm](https://open.spotify.com/track/3ZEh1u52NCJIxqt0XPvLve) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Brand New Storm](https://open.spotify.com/album/03UnLPgyJa2IRBkC8Zy7gx) | 4:18 | 2023-06-15 |  |
+| [Brand New Storm](https://open.spotify.com/track/3ZEh1u52NCJIxqt0XPvLve) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Brand New Storm](https://open.spotify.com/album/03UnLPgyJa2IRBkC8Zy7gx) | 4:18 | 2023-06-15 | 2023-10-07 |
 | [Break!](https://open.spotify.com/track/0flObXoVkthxtvvOksCZXI) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/05Bz4ReOzzjSCOYU0zAezd) | 2:53 | 2022-09-02 | 2022-12-10 |
 | [Breaking Up](https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Breaking Up](https://open.spotify.com/album/0gqcb4OgybbuBbbhrhbj3b) | 3:03 | 2022-11-11 | 2023-03-04 |
 | [Brian's Song](https://open.spotify.com/track/7hOzRvvBx8DP72zGUxBVl8) | [Toner](https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw) | [Brian's Song](https://open.spotify.com/album/2qCh4qe6TQkNj1LApaTynH) | 1:38 | 2023-06-15 | 2023-09-09 |
@@ -171,6 +171,7 @@
 | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Jesse](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Change Shapes \(feat\. Jesse\)](https://open.spotify.com/album/5n3pUtUIrPAV5CqujbDGh1) | 3:29 | 2021-07-16 | 2022-04-17 |
 | [changer](https://open.spotify.com/track/2xsZaZI0rAKeF2aPWnMrGn) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Tracey Denim](https://open.spotify.com/album/0Ihb9szHztEdXpHU7C40Qn) | 3:28 | 2023-06-15 |  |
 | [changes](https://open.spotify.com/track/7J3dgWROCXy7RwM19W7fhU) | [sqip](https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B) | [battery](https://open.spotify.com/album/6qj4cOCtxW37c5uFNrztZS) | 2:27 | 2022-03-04 | 2022-04-29 |
+| [Chariot](https://open.spotify.com/track/7LZzQ0dCbyVtiLDFhySTnY) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Chariot](https://open.spotify.com/album/1k5Pt1vC16pTzNO1w4si7U) | 3:35 | 2023-10-06 |  |
 | [Charlie](https://open.spotify.com/track/3EbPZ8puT1QdOVDfnREDrn) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Courage](https://open.spotify.com/album/2mf3MxRCIe2AbEDCjXpQLD) | 3:05 | 2022-11-17 | 2023-03-04 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2021-04-30 | 2022-07-29 |
 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 | 2022-05-19 | 2022-08-27 |
@@ -256,6 +257,7 @@
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-06-16 |
 | [Deep Sea Ladder](https://open.spotify.com/track/0AKss1DzepeFmwOSEvK5sb) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Crab Park](https://open.spotify.com/album/7Cx7EeeY8TaRKbmcXNY4rc) | 3:29 | 2022-10-21 | 2022-10-29 |
 | [Deep Sea Ladder](https://open.spotify.com/track/1kgX28e49B0GC6U9HdwCoh) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Deep Sea Ladder](https://open.spotify.com/album/43oCH1Z5gOYXSzhy40dMrA) | 3:29 | 2022-09-23 | 2022-10-25 |
+| [Deer in Headlights](https://open.spotify.com/track/0g9vHRftxmH7IxUQlRoW1Z) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Deer in Headlights](https://open.spotify.com/album/1Z4WrOfVpeSJBdXrCGLgFp) | 3:29 | 2023-10-06 |  |
 | [Defy](https://open.spotify.com/track/1rpLnmk3hlS4SKAD3sgUl2) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [No Luck](https://open.spotify.com/album/598tri5nxtfMnskSO4ht2c) | 1:26 | 2022-04-29 | 2022-05-18 |
 | [Demons at the Dinner Table](https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Demons at the Dinner Table](https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI) | 2:04 | 2022-11-17 | 2023-01-28 |
 | [Destroyer](https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [The Lamb](https://open.spotify.com/album/3gu8vRNBovoMdF82JLGvFL) | 3:12 | 2021-06-02 | 2022-04-21 |
@@ -518,6 +520,7 @@
 | [If We Keep Hangin Out](https://open.spotify.com/track/5iaPxVZIE4dnirwKhWMGR3) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [If We Keep Hangin Out](https://open.spotify.com/album/6mYRjhHUGo14Iy9GJhOvyr) | 2:43 | 2023-06-15 |  |
 | [If We Were Older](https://open.spotify.com/track/6eK1bxauGGFmlVWDjqq5CJ) | [The Gloomies](https://open.spotify.com/artist/6IZyBaB8s1xUK63Ltp9h0b) | [Blackout \(Deluxe\)](https://open.spotify.com/album/15na81dJ5ZIQnNeDOaJyTe) | 4:51 | 2022-04-29 | 2022-07-23 |
 | [If You Feel Alone At Parties](https://open.spotify.com/track/60mVBegbZZTphS4TzKCezF) | [Blvck Hippie](https://open.spotify.com/artist/0mUwpdl65QY5krTuVVDoZd) | [If You Feel Alone At Parties](https://open.spotify.com/album/5z4tK2lRjOTgtG0sxyaARZ) | 4:19 | 2022-04-29 | 2022-09-03 |
+| [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 | 2023-10-06 |  |
 | [ILY2](https://open.spotify.com/track/6TFNpbspD3whCDW98LvMSY) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/3nBehmaH78kXLIQhImNnOH) | 3:45 | 2022-09-30 | 2022-10-13 |
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-09-30 | 2023-01-21 |
 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 | 2023-03-31 | 2023-06-16 |
@@ -649,7 +652,7 @@
 | [Mountain Top \(BBC Radio 1 Live Session\)](https://open.spotify.com/track/4BHbExhXdWKvJXsd6D5tk6) | [Daniel Johnston](https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w) | [Love Lives Forever \(BBC Sessions 2003 \- 2011\)](https://open.spotify.com/album/7FMrGhU4N8ANuRjf7wsVxu) | 2:22 | 2023-06-15 |  |
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2021-03-05 | 2022-04-15 |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-26 | 2022-04-14 |
-| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 |  |
+| [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 | 2023-09-29 | 2023-10-07 |
 | [Muscle Memory](https://open.spotify.com/track/0dRQJ2toZYGLcgfDZmx4mL) | [Art Moore](https://open.spotify.com/artist/63c8LndU96a2DpE9OhilbC) | [Muscle Memory](https://open.spotify.com/album/1iAFICvSpHa8ikT8MOLdI7) | 3:16 | 2022-05-20 | 2022-07-09 |
 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-08-18 |
 | [My Dog Died](https://open.spotify.com/track/2omElRdbSjKVj8ZjRITEWB) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [My Dog Died](https://open.spotify.com/album/7vR6blKuUJI8Fj1XpcQJpX) | 3:45 | 2023-07-28 |  |

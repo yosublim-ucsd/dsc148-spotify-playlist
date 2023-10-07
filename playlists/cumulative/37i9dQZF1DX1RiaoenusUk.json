@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 193944,
       "name": "Croto",
       "url": "https://open.spotify.com/track/2ux0J745Hy92t4iSLF9qMc"
@@ -718,6 +718,24 @@
       "duration_ms": 129772,
       "name": "El despertar de Kumbhakarna",
       "url": "https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC"
+    },
+    {
+      "album": {
+        "name": "En Una",
+        "url": "https://open.spotify.com/album/6OSoJXtvqLZO0miIj3zhTs"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249731,
+      "name": "En Una",
+      "url": "https://open.spotify.com/track/47EtZNpOtwE80IQA0X9Izd"
     },
     {
       "album": {
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185312,
       "name": "Melod\u00edas",
       "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
@@ -1410,6 +1428,28 @@
       "duration_ms": 213490,
       "name": "Para Ernesto",
       "url": "https://open.spotify.com/track/5EpbaJs8fHwiVHag4ZHX8K"
+    },
+    {
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "San Juan Project",
+          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223289,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
     },
     {
       "album": {

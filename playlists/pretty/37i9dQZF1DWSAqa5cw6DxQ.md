@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,749 likes - 118 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,782 likes - 118 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,30 +19,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 9 | [Dreams of fall](https://open.spotify.com/track/02esDcjYYynYTsa4Hi9umw) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Dreams of fall](https://open.spotify.com/album/27YWWQyYxwpRAXu7mXrvtD) | 2:15 |
 | 10 | [Orange Sky \(Nature\)](https://open.spotify.com/track/5IulPk0sJRudaIxh5JbMgz) | [Clyde Price](https://open.spotify.com/artist/4xt2fTrl6aOgGVoVaeuh2Y) | [Orange Sky \(Meditation\)](https://open.spotify.com/album/3w2N8w1puVbjmFDp5kI54h) | 2:38 |
 | 11 | [Serenity Collective](https://open.spotify.com/track/08mKLl5jtGsfUpaut2wroQ) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Serenity Collective](https://open.spotify.com/album/3sMB7HNE0u3yu7MaY6AMud) | 3:17 |
-| 12 | [Eon](https://open.spotify.com/track/6275BlFfdADtbHAJ2srKet) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Eon](https://open.spotify.com/album/2iSItPlsLKH69eAOUKDugf) | 2:41 |
-| 13 | [Summerskies](https://open.spotify.com/track/76MpzYCfhJomfDVahvPfS8) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Summerskies](https://open.spotify.com/album/5IQ8bJPxSu6mOGEemRxJJB) | 2:07 |
-| 14 | [Higher](https://open.spotify.com/track/4goCHKmMd2DofGVJNQbdV7) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Higher](https://open.spotify.com/album/6HFl65q9tUqhTB2HnNtLgE) | 2:55 |
-| 15 | [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 |
-| 16 | [In The Moonlight](https://open.spotify.com/track/7bKnCUZd2DPux3xyebZZhl) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [In The Moonlight](https://open.spotify.com/album/1o2HPfW45FXQ4pVbmvU3uu) | 2:50 |
-| 17 | [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 |
-| 18 | [Silent Wishes](https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Silent Wishes](https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC) | 3:28 |
-| 19 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 |
-| 20 | [Visible Quiet](https://open.spotify.com/track/6KHLa0fdsXpjvgA2Xv9Ncx) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Visible Quiet](https://open.spotify.com/album/2YeNTFyl9Zh0j246Wfjru6) | 3:39 |
-| 21 | [Whisper in the wind](https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Whisper in the wind](https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3) | 3:02 |
-| 22 | [Abiding Light](https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Abiding Light](https://open.spotify.com/album/5BVFOUfy4UigiSC5sWIX8K) | 3:04 |
-| 23 | [Myself & I](https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Myself & I](https://open.spotify.com/album/4BEtTebp6HzWw2R40AvTmr) | 4:13 |
-| 24 | [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 |
-| 25 | [In Seclusion](https://open.spotify.com/track/03lIEUzXDUm8ivedRHOWff) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [In Seclusion](https://open.spotify.com/album/2B3prQA84v2JQdDb756aoO) | 2:46 |
-| 26 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 |
-| 27 | [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 |
-| 28 | [Alignements](https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp) | [Samuel Banks](https://open.spotify.com/artist/0YRPAc7JhsviXAElmgcRzU) | [Alignements](https://open.spotify.com/album/7LwE51sYyVwk45hWcIJz5k) | 3:03 |
-| 29 | [Dreametheral](https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Dreametheral](https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO) | 2:57 |
-| 30 | [Riddles](https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Riddles](https://open.spotify.com/album/1v317uEoGbIxuZ9L8aIjxh) | 2:17 |
-| 31 | [En Stilla Plats](https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [En Stilla Plats](https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9) | 2:59 |
-| 32 | [Floating Dreams](https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Floating Dreams](https://open.spotify.com/album/78tgqwStPHndZPZtMSzzgD) | 2:11 |
-| 33 | [One](https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [One](https://open.spotify.com/album/2dYDZU8dBHtK8lsDT4tnUW) | 2:48 |
-| 34 | [Sensitive Kind](https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Sensitive Kind](https://open.spotify.com/album/31um9WNUvUOORhljwfcdek) | 3:07 |
-| 35 | [Tidal Flow](https://open.spotify.com/track/519f6rIBUjy8bZ8yl06gwR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Tidal Flow](https://open.spotify.com/album/6eNwDrsRWJ6jXWS9H5VYX6) | 3:29 |
+| 12 | [Layers Of Trust](https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Layers Of Trust](https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ) | 2:36 |
+| 13 | [Eon](https://open.spotify.com/track/6275BlFfdADtbHAJ2srKet) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Eon](https://open.spotify.com/album/2iSItPlsLKH69eAOUKDugf) | 2:41 |
+| 14 | [Summerskies](https://open.spotify.com/track/76MpzYCfhJomfDVahvPfS8) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Summerskies](https://open.spotify.com/album/5IQ8bJPxSu6mOGEemRxJJB) | 2:07 |
+| 15 | [Higher](https://open.spotify.com/track/4goCHKmMd2DofGVJNQbdV7) | [William Sila](https://open.spotify.com/artist/4bhn3rRPUCCiUXEhgqPnUc) | [Higher](https://open.spotify.com/album/6HFl65q9tUqhTB2HnNtLgE) | 2:55 |
+| 16 | [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 |
+| 17 | [In The Moonlight](https://open.spotify.com/track/7bKnCUZd2DPux3xyebZZhl) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [In The Moonlight](https://open.spotify.com/album/1o2HPfW45FXQ4pVbmvU3uu) | 2:50 |
+| 18 | [Remember Rain](https://open.spotify.com/track/3xRLIbOyquBObxGPdIZe2A) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Aldo Mythology](https://open.spotify.com/album/290k8TOQf58TGNug3fCWbb) | 2:49 |
+| 19 | [Silent Wishes](https://open.spotify.com/track/0Y04tCb932hyMGO12fzTtw) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Silent Wishes](https://open.spotify.com/album/3CMz6HEMfufNKYTIUcyCQC) | 3:28 |
+| 20 | [Adrift \(Meditation\)](https://open.spotify.com/track/3L3YFTmQOCFe36kQ1DuugY) | [Treter](https://open.spotify.com/artist/1Zn7lUSMgFwccPi9evC8NN) | [Adrift \(Meditation\)](https://open.spotify.com/album/3YhHaFBL6pqr287a8fQsuh) | 2:25 |
+| 21 | [Visible Quiet](https://open.spotify.com/track/6KHLa0fdsXpjvgA2Xv9Ncx) | [Places Within](https://open.spotify.com/artist/00rLUyC4CkQCYpvg0kBI87) | [Visible Quiet](https://open.spotify.com/album/2YeNTFyl9Zh0j246Wfjru6) | 3:39 |
+| 22 | [Whisper in the wind](https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Whisper in the wind](https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3) | 3:02 |
+| 23 | [Abiding Light](https://open.spotify.com/track/2nfzCK4TA4wSlJP640kyIZ) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Abiding Light](https://open.spotify.com/album/5BVFOUfy4UigiSC5sWIX8K) | 3:04 |
+| 24 | [Myself & I](https://open.spotify.com/track/1bA1rj6vbVOip77KgpW2x8) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Myself & I](https://open.spotify.com/album/4BEtTebp6HzWw2R40AvTmr) | 4:13 |
+| 25 | [Solitude By Numbers](https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Solitude By Numbers](https://open.spotify.com/album/52sUayQnby3lc9Ui5ggd29) | 3:06 |
+| 26 | [In Seclusion](https://open.spotify.com/track/03lIEUzXDUm8ivedRHOWff) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [In Seclusion](https://open.spotify.com/album/2B3prQA84v2JQdDb756aoO) | 2:46 |
+| 27 | [State of Existence](https://open.spotify.com/track/2ZA0J8gcbUxetOh1R3rzMp) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:56 |
+| 28 | [Fluire](https://open.spotify.com/track/2lunfSloiCO0mbpFtzLkTm) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Fluire](https://open.spotify.com/album/6vI0jXADPhs3uC4UjoWED5) | 2:36 |
+| 29 | [Alignements](https://open.spotify.com/track/33tTpKz41ECTjEJmhzb3zp) | [Samuel Banks](https://open.spotify.com/artist/0YRPAc7JhsviXAElmgcRzU) | [Alignements](https://open.spotify.com/album/7LwE51sYyVwk45hWcIJz5k) | 3:03 |
+| 30 | [Dreametheral](https://open.spotify.com/track/4ZnMbPSIG1eOCEelRuqFAe) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Dreametheral](https://open.spotify.com/album/73tedZgmVrBYQvGRpnJALO) | 2:57 |
+| 31 | [Riddles](https://open.spotify.com/track/0q6IHlkLK8Mu1gyVZukEvy) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Riddles](https://open.spotify.com/album/1v317uEoGbIxuZ9L8aIjxh) | 2:17 |
+| 32 | [En Stilla Plats](https://open.spotify.com/track/42aXU4fhzS1bx3rIYowx5c) | [Alva Abrahamson](https://open.spotify.com/artist/1Bnfz5xvq0H2MT2rYSaz5y) | [En Stilla Plats](https://open.spotify.com/album/4wnu2eR9UZ3LWzjx9e0Le9) | 2:59 |
+| 33 | [Floating Dreams](https://open.spotify.com/track/0EEJNWq8aoSCCi8JtJZdsU) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Floating Dreams](https://open.spotify.com/album/78tgqwStPHndZPZtMSzzgD) | 2:11 |
+| 34 | [One](https://open.spotify.com/track/4FlZGFYTdwrVgqsA1Veqsc) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [One](https://open.spotify.com/album/2dYDZU8dBHtK8lsDT4tnUW) | 2:48 |
+| 35 | [Sensitive Kind](https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Sensitive Kind](https://open.spotify.com/album/31um9WNUvUOORhljwfcdek) | 3:07 |
 | 36 | [Cold Space](https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Cold Space](https://open.spotify.com/album/3k1SxanqNeUuQYV3UD8DT6) | 3:13 |
 | 37 | [Dock Of A Bay](https://open.spotify.com/track/4e7YepU8jkIS1bLwRNckhq) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Dock Of A Bay](https://open.spotify.com/album/5oFKiyVLw4Z4HGEeAYp44j) | 3:05 |
 | 38 | [Drifting](https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Drifting](https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ) | 2:57 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 117 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 118 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MCwxYTc3MDJjMjc0YzZmYTc3ZTdiYmZjZmRjZTMzMjE2NjAzYWEyNmNm`
+Snapshot ID: `MCxjNzI5ODM0ZWIzYzhlNDA0Y2E2ZTMwYmExY2ZjMzVlZmE0M2U0NjMw`

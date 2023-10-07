@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 251625,
       "name": "Ballad of the Ravenous",
       "url": "https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt"
@@ -7904,6 +7904,28 @@
       "duration_ms": 216827,
       "name": "Sword In Stone",
       "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
+    },
+    {
+      "album": {
+        "name": "Sylky",
+        "url": "https://open.spotify.com/album/0om04yGw0cfWgvyrAxsd5S"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "Mylky",
+          "url": "https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Sylky",
+      "url": "https://open.spotify.com/track/5gfIjW3jXyvLAcRV8Fr2lj"
     },
     {
       "album": {

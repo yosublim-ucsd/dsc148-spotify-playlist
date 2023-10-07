@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-326 songs - 17 hr 57 min
+327 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,8 @@
 | [So Sweet](https://open.spotify.com/track/3zmGUdLgfeRFamWaF0DRnq) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/1eSVpkGqOSngaVhmyhSL3q) | 3:04 | 2023-05-15 | 2023-07-01 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/0bw66x6M9FioHJ9WeasFme) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/150tSOyXlQDI9RFFafG2yO) | 3:07 | 2022-08-18 | 2022-12-19 |
 | [Soca Feeling \(Push Back\)](https://open.spotify.com/track/62OmybvtwwtPpJz9mH8FU9) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj) | [Soca Feeling \(Push Back\)](https://open.spotify.com/album/5RhgPFNM7pl517LFHdft5Z) | 3:07 | 2022-08-18 | 2023-02-22 |
-| [Soca Kingdom](https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv) | 3:22 | 2023-02-21 |  |
+| [Soca Kingdom](https://open.spotify.com/track/5NiRDAlFxIkFJvqQ7cnxKL) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/7cZEBsRA8zSlkx2Y4BBwRB) | 3:19 | 2023-08-11 |  |
+| [Soca Kingdom](https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/4jYKa0xNVHhdJwBD9Vtpjv) | 3:22 | 2023-02-21 | 2023-10-07 |
 | [Soca Start](https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD) | [IQ](https://open.spotify.com/artist/2Fh4AvK9pyZ9PLafG64Kxa), [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Soca Start](https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ) | 2:21 | 2023-05-15 | 2023-07-12 |
 | [Sometime](https://open.spotify.com/track/45PPjQzX0WJEK9FYruc178) | [Leadpipe](https://open.spotify.com/artist/1AkeQ2eSrkcRQmaGGa5EAY), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V) | [Sometime](https://open.spotify.com/album/29Miu8UQdH9VAMtkc4VadH) | 3:09 | 2023-07-11 |  |
 | [Special Delight](https://open.spotify.com/track/5Pm8oqFW021lbkX0EsiJG4) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Boat Cruise Riddim](https://open.spotify.com/album/2ydLKJOG6p9nszhtXJSPwD) | 2:47 | 2022-02-24 | 2022-08-19 |

@@ -4,7 +4,7 @@
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-160 songs - 15 hr 16 min
+162 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Aint Tryin](https://open.spotify.com/track/7aMPC6MIyQhH05Gu7bITQB) | [cyberflex](https://open.spotify.com/artist/0meSG6NZtsaqFaZo46Itrw) | [VIRTUAL VELOCITY](https://open.spotify.com/album/1YBe9J12Lf8I0PcwDEm1Ti) | 4:50 | 2023-01-31 | 2023-09-07 |
 | [Alkaline Daydream](https://open.spotify.com/track/6e1QIJOnd4QdDvKhlwu1W3) | [Vixen](https://open.spotify.com/artist/52o3kir2OhAcvcTNUYYXfN) | [SACRED INTERFACE 001](https://open.spotify.com/album/2UijY9ufSShEYu9ftcTAaq) | 5:37 | 2023-07-05 |  |
 | [Amphibian](https://open.spotify.com/track/41Suz8eMIQXvKdOtkeBYEU) | [Kovert](https://open.spotify.com/artist/5W1dJUVVvOxkYp7r6Z86Bk) | [Emerge](https://open.spotify.com/album/5hZsoDf7rizzN6AqU3qYIZ) | 6:58 | 2023-01-31 |  |
-| [Ashdown](https://open.spotify.com/track/2xYIeuxT61aKcnOF7qfOwv) | [Parry](https://open.spotify.com/artist/0DurzWdRFrqasF7beb1vDw) | [Ashdown / Wren](https://open.spotify.com/album/3PJgwXgQXJOll8twCjP2xW) | 5:37 | 2023-09-06 |  |
+| [Ashdown](https://open.spotify.com/track/2xYIeuxT61aKcnOF7qfOwv) | [Parry](https://open.spotify.com/artist/0DurzWdRFrqasF7beb1vDw) | [Ashdown / Wren](https://open.spotify.com/album/3PJgwXgQXJOll8twCjP2xW) | 5:37 | 2023-09-06 | 2023-10-07 |
+| [Ashdown](https://open.spotify.com/track/5Mitmoyr624RkFiR6jfGU4) | [Parry](https://open.spotify.com/artist/0DurzWdRFrqasF7beb1vDw) | [Ashdown / Wren](https://open.spotify.com/album/6iEk3i6n1y21wtNtwwEPnu) | 5:37 | 2023-09-06 |  |
 | [Astral Awakening](https://open.spotify.com/track/4mPgrJZRCh3wA3u6GdGSyl) | [Transki](https://open.spotify.com/artist/41EHT7YbwP6TF1TQY2QWsv) | [Astral Awakening](https://open.spotify.com/album/6miuZUbj0ZPP6wcThNYlpv) | 6:10 | 2022-11-21 |  |
 | [Autostrada](https://open.spotify.com/track/4FkWJhFv0rSVtFQiTvvHjf) | [Chino](https://open.spotify.com/artist/3NmJH42BjOpK6nbvSpUeUF) | [Autostrada](https://open.spotify.com/album/1px9evKtdvT8gd64qDWQXY) | 6:10 | 2022-07-23 | 2023-09-07 |
 | [B MY H8R \- Original Mix](https://open.spotify.com/track/4oZpmsthYEExPP5pYVsK5e) | [zpectrum](https://open.spotify.com/artist/0sZKl4bfwAsv7l0zcuqWnp) | [NOS](https://open.spotify.com/album/25kbQFxbKFIwnBeBvRQTEW) | 5:23 | 2023-01-31 |  |
@@ -152,7 +153,8 @@
 | [True](https://open.spotify.com/track/3NNi5P7BlH8RG8l0KMfvqT) | [Blue Hour](https://open.spotify.com/artist/4dBDX26kNVoNEVUL97nlde) | [Origins](https://open.spotify.com/album/3VCbVdPGTMSJ2Eghtyi3uA) | 5:49 | 2023-09-06 |  |
 | [Tunnel Vision](https://open.spotify.com/track/3hiSJibKGv9vlRClBfF5E7) | [J\-Zbel](https://open.spotify.com/artist/63yOs3zqxl5Z9BxnAX3ahr) | [Dog's fart is so bad the cat throws up](https://open.spotify.com/album/0vgW3Dn2KH1yuZb0z1M54M) | 8:48 | 2022-07-23 |  |
 | [Two Faces](https://open.spotify.com/track/49pvczJALhguNX3El58HKg) | [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme), [Rory Sweeney](https://open.spotify.com/artist/6Mza4jsmRc320eSKCfReK1), [EMBY](https://open.spotify.com/artist/2mr3ew4WUwMXkuyTySd6l0) | [Two Faces](https://open.spotify.com/album/0klr2ycUtzcIGQs6pS442E) | 4:36 | 2023-04-26 |  |
-| [Typhoon](https://open.spotify.com/track/3ZcidprKzmMNU67RAypHT1) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/6047cf59Pii53bOog79jGy) | 5:52 | 2023-09-06 |  |
+| [Typhoon](https://open.spotify.com/track/0PtQpQc3C5DNOL3FvFFb3W) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/7zo2ZND2lKcPorkDnlY2dW) | 5:52 | 2023-09-06 |  |
+| [Typhoon](https://open.spotify.com/track/3ZcidprKzmMNU67RAypHT1) | [Dawn Razor](https://open.spotify.com/artist/46rzlzbTrxJNm0H6YeqfIZ) | [Typhoon / Raw Row](https://open.spotify.com/album/6047cf59Pii53bOog79jGy) | 5:52 | 2023-09-06 | 2023-10-07 |
 | [U Ask I Tell](https://open.spotify.com/track/0AqkJlav1su5474Hv9yQXE) | [RIGSON](https://open.spotify.com/artist/2KbsGZotcK7CVzk1ZtGy4m) | [Wormholes, Pt\. 1](https://open.spotify.com/album/3X76M5V375yvvqBKEiKyj6) | 6:22 | 2022-11-21 | 2023-07-06 |
 | [Ugly Trance To FLex](https://open.spotify.com/track/0Zs9w3rdrtxbezTYD2ZicC) | [Swooh](https://open.spotify.com/artist/242D0xREm9MCY0e6QDotYb) | [Conscientia](https://open.spotify.com/album/0WAafxyUDWWHo6ibGQsBWB) | 6:03 | 2022-07-23 | 2023-07-06 |
 | [Uncle John From Jamaica \- M.I.K.E RMX](https://open.spotify.com/track/647KUXj2VDUrJMSgwH7FEd) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj), [M.I.K.E.](https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq) | [Uncle John From Jamaica](https://open.spotify.com/album/1KpQYeV8Zz5ZRN6ngHMyxv) | 7:21 | 2022-07-23 | 2023-09-07 |

@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "Mtv Hustle 2.0",
+        "url": "https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200202,
+      "name": "Chhore Ncr Aale",
+      "url": "https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9"
+    },
+    {
+      "album": {
         "name": "Desktop",
         "url": "https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk"
       },
@@ -1163,6 +1185,28 @@
     },
     {
       "album": {
+        "name": "Mashooka",
+        "url": "https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Mashooka",
+      "url": "https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/2hDCaT5LQPPTH6ASCqwZFB"
       },
@@ -1748,6 +1792,32 @@
       "duration_ms": 156262,
       "name": "Taakat",
       "url": "https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx"
+    },
+    {
+      "album": {
+        "name": "Tarakkiyan (From \"Multani Mitti\")",
+        "url": "https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        },
+        {
+          "name": "Boyblanck",
+          "url": "https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5"
+        },
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Tarakkiyan - From \"Multani Mitti\"",
+      "url": "https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V"
     },
     {
       "album": {

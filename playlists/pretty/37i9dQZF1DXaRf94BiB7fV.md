@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Janaki Easwar , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,955 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,984 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Nazaare](https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Nazaare](https://open.spotify.com/album/2J8NUVYbewnR82x4dqrcul) | 3:33 |
 | 100 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 |
 
-Snapshot ID: `MCxlMTRlNGNiOTI0MDg5OGQ5OTYzMTAwMjYyMTNmYWQxMDliNmExZjAy`
+Snapshot ID: `MCxjMTFlMTg4OGMwMzA4YmM0ZDBkZjAzY2FjM2MwM2FlMDE2Yjk2MGVh`

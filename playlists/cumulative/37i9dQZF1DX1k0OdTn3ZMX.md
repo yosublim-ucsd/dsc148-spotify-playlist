@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Taproot
+> nü\-metal revival is happening here and now with Static\-X.
 
-60 songs - 3 hr 35 min
+62 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 | 2023-09-13 |  |
 | [Evil](https://open.spotify.com/track/5mJ7uYK3uqOOoinTsVPBLT) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 2:43 | 2023-09-13 |  |
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-29 |  |
-| [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-13 |  |
+| [FAVOURITE SONG](https://open.spotify.com/track/2LoB1NRjAo8EPqwEn6fjDm) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA), [Elias Soriano](https://open.spotify.com/artist/2KBA0T3p9wkQ7nAHCVHavd) | [FAVOURITE SONG](https://open.spotify.com/album/2rbpMLrrlCMxAuGetCxq7K) | 3:34 | 2023-09-13 | 2023-10-07 |
 | [Feeling Fine](https://open.spotify.com/track/4dfaO9NHF8bqZKftENZssf) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The DREGGmusic Mixtape](https://open.spotify.com/album/6Bdic8kP9fHguB8nEpeEpm) | 3:32 | 2023-09-13 | 2023-09-23 |
 | [For the Beaten](https://open.spotify.com/track/33QuKSmC3xJISItWeGuPWc) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [The Algorithm](https://open.spotify.com/album/4K3EGyXF7wdfaR4fGPlOXg) | 3:38 | 2023-09-13 |  |
 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2023-09-13 |  |
@@ -53,7 +53,8 @@
 | [SELF HELL](https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/2zJSn15yO7k1iatSC7j0pW) | 4:39 | 2023-09-13 |  |
 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 | 2023-09-13 |  |
 | [Soaking Nerves](https://open.spotify.com/track/16obiBx0cUuFG2ib5QRTfX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Soaking Nerves](https://open.spotify.com/album/28LaJRDcI0PPmkylQH0vsn) | 2:57 | 2023-09-13 |  |
-| [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 |  |
+| [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 | 2023-10-07 |
+| [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 |  |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [The Heresy](https://open.spotify.com/track/2zl4OeEKQTUhswMeAVkwbo) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [A Wonderful Life](https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv) | 3:59 | 2023-09-13 |  |
@@ -68,5 +69,6 @@
 | [WILDLIFE](https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l) | [WILDLIFE](https://open.spotify.com/album/6SgId9Y6WtNHsSz6dvbXGT) | 2:54 | 2023-09-22 |  |
 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Woo Hah!! Got You All in Check](https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A) | 3:57 | 2023-09-13 |  |
 | [Worship The Internet](https://open.spotify.com/track/4TYsmhG3Iba4uxnSdAIOvU) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Worship The Internet](https://open.spotify.com/album/2vt3z8PJEoKIWdwV1YtqSB) | 3:40 | 2023-09-22 |  |
+| [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 |  |
 
 \*This playlist was first scraped on 2023-09-15. Prior content cannot be recovered.

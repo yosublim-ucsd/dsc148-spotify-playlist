@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Alcaria Hot Springs",
+        "url": "https://open.spotify.com/album/2MCRcVAOym1PlQKcaUJt8V"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Alcaria Hot Springs",
+      "url": "https://open.spotify.com/track/5CSBbRQ01ZLGVJhz70K5Ch"
+    },
+    {
+      "album": {
         "name": "Ambi Sant",
         "url": "https://open.spotify.com/album/4qHJC9flkExlbRs27mOEwy"
       },

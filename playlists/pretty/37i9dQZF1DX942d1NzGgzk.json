@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: Summer Banton",
-  "num_followers": 131760,
+  "num_followers": 131854,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmUzMDk3YWJmYTdhMjc3YmFmOWQwMDBjYTQzMjVkNGQ2YWI1NmVk",
+  "snapshot_id": "MCxkOWI4NGRjNjk5YTRhZWJjMDllNDhiNjUxN2RlZDU0NWI2NzcyMWM3",
   "tracks": [
     {
       "added_at": "2023-09-22 09:11:23",
@@ -967,18 +967,22 @@
     {
       "added_at": "2023-09-22 09:11:23",
       "album": {
-        "name": "Evil Eye",
-        "url": "https://open.spotify.com/album/1yPS6NFaQFhn1syGD8sQil"
+        "name": "As You Are - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc"
       },
       "artists": [
         {
           "name": "Bellah",
           "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        },
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 175194,
-      "name": "Evil Eye",
-      "url": "https://open.spotify.com/track/4FkAAesNdD4BeTAEHRdswW"
+      "duration_ms": 221493,
+      "name": "As You Are - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH"
     },
     {
       "added_at": "2023-09-22 09:11:23",

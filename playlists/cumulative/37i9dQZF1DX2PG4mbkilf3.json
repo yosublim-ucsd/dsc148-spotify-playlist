@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura, co-curated by Roy Woods.",
+  "description": "This is R&B in Canada. Elevate your aura with Majid Jordan. \u2728 ",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "When The Darkness Fades",
+        "url": "https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg"
+      },
+      "artists": [
+        {
+          "name": "Black Atlass",
+          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253531,
+      "name": "All I've Got",
+      "url": "https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp"
+    },
+    {
+      "album": {
         "name": "Where To Find Me",
         "url": "https://open.spotify.com/album/1gDkVVQODZStmAx0kUl9Tn"
       },
@@ -1197,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184089,
+      "name": "Bahamas Promises",
+      "url": "https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc"
+    },
+    {
+      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/2CQMDgRaDf38E9gcKXw2zD"
       },
@@ -1628,6 +1664,24 @@
       "duration_ms": 193431,
       "name": "Body",
       "url": "https://open.spotify.com/track/4SBEgCAsQm8ZHIoc2TPfQo"
+    },
+    {
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6Yr15Zq2mQXJZxMXZsyDIS"
+      },
+      "artists": [
+        {
+          "name": "143",
+          "url": "https://open.spotify.com/artist/15MRvQvlbwPUY8C1QcgJA2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154900,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/50jNARBU3p0YcvDx2LSM7L"
     },
     {
       "album": {
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 218680,
       "name": "Does He Love Me (feat. Foxy Brown)",
       "url": "https://open.spotify.com/track/6gLB9QPbZW4Xh2J0QtQxdG"
@@ -5049,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "Hands Tied",
+        "url": "https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343348,
+      "name": "Hands Tied",
+      "url": "https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C"
+    },
+    {
+      "album": {
         "name": "HANGING WITH YOU",
         "url": "https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH"
       },
@@ -6127,6 +6199,24 @@
     },
     {
       "album": {
+        "name": "If U Wanna Feel Me",
+        "url": "https://open.spotify.com/album/4BfBvvLdk9KSxgC1hZUNeE"
+      },
+      "artists": [
+        {
+          "name": "Maxcocobaby",
+          "url": "https://open.spotify.com/artist/1DLPBxjcoZN2TvWApxonU1"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205286,
+      "name": "If U Wanna Feel Me",
+      "url": "https://open.spotify.com/track/32rvMriqMYXtEegiJ7ufAR"
+    },
+    {
+      "album": {
         "name": "JUST A TASTE",
         "url": "https://open.spotify.com/album/5YThY3qtqTDc8VMnmd1eRF"
       },
@@ -6483,6 +6573,28 @@
     },
     {
       "album": {
+        "name": "It's You (feat. BIA)",
+        "url": "https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw"
+    },
+    {
+      "album": {
         "name": "JEANS",
         "url": "https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K"
       },
@@ -6556,7 +6668,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 261002,
       "name": "JUS KNOW (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj"
@@ -6586,6 +6698,24 @@
       "duration_ms": 211727,
       "name": "just a call away (feat. Lafa Taylor & Mr. Carmack)",
       "url": "https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe"
+    },
+    {
+      "album": {
+        "name": "JUST LIKE CANDY",
+        "url": "https://open.spotify.com/album/3R6AG9fnGJeF2odxFzHhS1"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "JUST LIKE CANDY",
+      "url": "https://open.spotify.com/track/2HGMJumlVE3cN88AT3q9F9"
     },
     {
       "album": {
@@ -7752,7 +7882,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 347226,
       "name": "Marvins Room",
       "url": "https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl"
@@ -7818,6 +7948,28 @@
       "duration_ms": 340311,
       "name": "Melt",
       "url": "https://open.spotify.com/track/0Qp7hPXXCCEfGOI8v4Cuq9"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277720,
+      "name": "Members Only (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
     },
     {
       "album": {
@@ -8914,7 +9066,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 171750,
       "name": "nothing but the best",
       "url": "https://open.spotify.com/track/4GokiQ2fvDBKcDFcY0Oa8w"
@@ -11320,7 +11472,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 222935,
       "name": "Sexy Lady - Remix",
       "url": "https://open.spotify.com/track/6NvlMkDs7m6ZNIf1ioVDbT"
@@ -11634,7 +11786,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 156285,
       "name": "SKINTIGHT",
       "url": "https://open.spotify.com/track/0zLK4Z6jlrZlHdYBcMl9iO"
@@ -12592,7 +12744,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 190344,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1HeMmzT6i53MTYFiMODEBD"
@@ -12792,7 +12944,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 206117,
       "name": "Sweet Poison",
       "url": "https://open.spotify.com/track/7g9HIsa7adj5iE0WFydxKN"
@@ -13582,7 +13734,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 154434,
       "name": "THREATS",
       "url": "https://open.spotify.com/track/2lz22EPh8EpWfKMgh9k0Wl"
@@ -14748,7 +14900,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 140533,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW"
@@ -15096,6 +15248,28 @@
       "duration_ms": 193856,
       "name": "Yesterdays.",
       "url": "https://open.spotify.com/track/6RMPhGmhBkZWlITgD1T0ai"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
     },
     {
       "album": {

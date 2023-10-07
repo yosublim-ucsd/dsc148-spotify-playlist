@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Satyameva Jayate
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,354 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,446 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Naah Goriye](https://open.spotify.com/track/2q12vH6qEvg8y1XBCgTbHZ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 3:04 |
 | 75 | [Gali Gali \(From "Kgf Chapter 1"\)](https://open.spotify.com/track/5x72Q1SyiDHJ4IF2mRzfkg) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Gali Gali \(From "Kgf Chapter 1"\)](https://open.spotify.com/album/3Oe64PObgpmPRNTLutlHqj) | 2:54 |
 
-Snapshot ID: `MCwyNDdhMmJiODFmYzE1MDNhOTdmNjA1YTdmY2Y1OGQxZWJjZTFkNmQy`
+Snapshot ID: `MCwzNzMxZmQ4OWIzNDhlYWEwOTgwNDBhNDA4YjUwYmRlMGU0YWNjN2Uz`

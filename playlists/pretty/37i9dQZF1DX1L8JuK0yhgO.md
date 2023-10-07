@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 69 | [快速特急楽園行](https://open.spotify.com/track/3RIxvLH7y2ojGvK2ozCUBb) | [山田大介](https://open.spotify.com/artist/0NFQl5rddRJgRyTLMvThP5), [Hiroka Cambridge](https://open.spotify.com/artist/0Wk4bpK0D5yF2BM2u9jK7b) | [快速特急楽園行](https://open.spotify.com/album/3XLnCxUK6MDAOHmh5ca0RO) | 3:24 |
 | 70 | [Brand new day, Brand new way](https://open.spotify.com/track/54I1yIO4LpxQcjsNXhvpZM) | [ION](https://open.spotify.com/artist/5LEyQhjZxZhGZAzLjkQyHT) | [Brand new day, Brand new way](https://open.spotify.com/album/0V5VHX5hNm4FVh4ur6368e) | 2:53 |
 
-Snapshot ID: `MCwwNDg3OTI1Mzg0YTQxOGU1M2FlMzFjM2YxOGZkM2ZjMDYxNWFmYWJi`
+Snapshot ID: `MCxlNzk1NTVhMmYxZWEzZGYzN2JlNGIxMDNiNTUwMjI2M2EzYzk5MGRl`

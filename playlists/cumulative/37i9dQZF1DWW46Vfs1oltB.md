@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:BewhY\(비와이\)\)
 
-999 songs - 2 day 6 hr 54 min
+1,000 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-18 | 2023-06-21 |
 | [Blink \(Feat\. Reddy\) \(Prod\. PATEKO\)](https://open.spotify.com/track/1OAClVF6RGn4WhLf1dPkBD) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:59 | 2022-03-31 | 2022-07-07 |
 | [Bloo Story](https://open.spotify.com/track/32cm8XVJ89BUaPx9SMDMg4) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Bloo Story](https://open.spotify.com/album/3EIyyppAAEaIPovXe42amU) | 5:06 | 2022-01-20 | 2022-04-20 |
+| [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Series\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-06 |  |
 | [BLOW OUT \(Prod\. Czaer\)](https://open.spotify.com/track/5xVu6lAMK3x7n98nVobRrQ) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:21 | 2022-09-20 | 2023-01-03 |
 | [Blue \(Feat\. Crush, SOLE\)](https://open.spotify.com/track/54p0ofXg6V75CJcYiVVdre) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 4:23 | 2022-09-03 | 2022-12-20 |
 | [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 | 2022-12-19 | 2023-01-04 |

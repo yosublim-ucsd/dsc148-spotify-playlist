@@ -996,7 +996,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 235653,
       "name": "C'mon Y'all",
       "url": "https://open.spotify.com/track/3saNbbFn6fncpSFq9YoYis"
@@ -1918,6 +1918,24 @@
       "duration_ms": 245717,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz"
+    },
+    {
+      "album": {
+        "name": "Without a Doubt",
+        "url": "https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck"
     },
     {
       "album": {
@@ -4369,6 +4387,24 @@
     },
     {
       "album": {
+        "name": "Moving Too Fast",
+        "url": "https://open.spotify.com/album/1AZI6eU4ps97LoiFqxoYua"
+      },
+      "artists": [
+        {
+          "name": "Randal Clark",
+          "url": "https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Moving Too Fast",
+      "url": "https://open.spotify.com/track/2O7uioEz4FLJiOgH2LIJLG"
+    },
+    {
+      "album": {
         "name": "Alone Together (The Duets)",
         "url": "https://open.spotify.com/album/5DpxfYMLNDr7wMI9fV87UD"
       },
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 308092,
       "name": "Step into Love",
       "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
@@ -7464,7 +7500,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 246024,
       "name": "Workin'",
       "url": "https://open.spotify.com/track/1XggkknnMxiR3X3WJSD8ha"

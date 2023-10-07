@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Polim\u00e1 Westcoast",
-  "num_followers": 9736,
+  "num_followers": 9748,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjBhZWU4YjZjOTE2ZWFmMzRkY2NiMWU5ZjJkNzZkMmM1MzI4ZDU1",
+  "snapshot_id": "MCw2OGYwZTM3MjJkMWU2NTlhYjIxOGEzYzJmYzIxMjkzNDkwZjJhN2U4",
   "tracks": [
     {
       "added_at": "2023-07-24 18:55:43",
@@ -671,18 +671,22 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
+        "name": "Klk El Dice",
+        "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
         }
       ],
-      "duration_ms": 149538,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
+      "duration_ms": 166736,
+      "name": "Klk El Dice",
+      "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
     },
     {
       "added_at": "2023-07-24 18:55:43",
@@ -707,22 +711,18 @@
     {
       "added_at": "2023-07-24 18:55:43",
       "album": {
-        "name": "Klk El Dice",
-        "url": "https://open.spotify.com/album/5cfntPjzzjPSaKF1g6BosG"
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
       },
       "artists": [
         {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        },
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Klk El Dice",
-      "url": "https://open.spotify.com/track/3cAZpBIkNKTYqxalklnCpw"
+      "duration_ms": 149538,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
     },
     {
       "added_at": "2023-07-24 18:55:43",

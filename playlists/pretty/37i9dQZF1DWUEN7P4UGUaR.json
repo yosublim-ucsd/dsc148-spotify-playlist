@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 5208,
+  "num_followers": 5256,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
+  "snapshot_id": "MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
-      },
-      "artists": [
-        {
-          "name": "Manuel Bless",
-          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
+      },
+      "artists": [
+        {
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 203189,
+      "name": "GOD NEVER FAILS",
+      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Nkunim (The Victory Song)",
         "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 267424,
       "name": "Okasa",
       "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
-      },
-      "artists": [
-        {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 203189,
-      "name": "GOD NEVER FAILS",
-      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
     },
     {
       "added_at": "2023-09-14 23:00:00",

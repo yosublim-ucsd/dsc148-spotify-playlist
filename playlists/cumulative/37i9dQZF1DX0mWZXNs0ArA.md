@@ -4,7 +4,7 @@
 
 > 150%
 
-262 songs - 11 hr 31 min
+263 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Infinity \- Sped Up Version](https://open.spotify.com/track/5s0dNKonnbNTOYiTkSuNbR) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [Infinity \(Sped Up Version\)](https://open.spotify.com/album/2esUhLkQgcPXVy8hH0qpGx) | 2:49 | 2022-11-18 | 2023-08-12 |
 | [IRIS](https://open.spotify.com/track/337H7R2AWIlI9s7M4ugelQ) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [IRIS](https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl) | 1:42 | 2022-06-09 | 2022-12-14 |
 | [isolation \- sped up](https://open.spotify.com/track/3FlwFheL7mcHFRkypdoD5R) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [isolation](https://open.spotify.com/album/0CSsz8tNAwFgEpcQqdRxVO) | 3:19 | 2023-03-21 | 2023-04-09 |
+| [IT GIRL \- Sped up Version](https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL \(Sped up Version\)](https://open.spotify.com/album/4OXIscygWnydT362qnaKGK) | 2:35 | 2023-10-06 |  |
 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 | 2023-03-13 |  |
 | [It's Getting Hot \- Sped Up](https://open.spotify.com/track/6bBM9dDbqCDTLAxcxokQTf) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [It's Getting Hot \(Sped Up\)](https://open.spotify.com/album/6oRQXevG9QBbXKKV0upvjS) | 1:48 | 2023-08-31 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2022-06-09 |  |
@@ -230,7 +231,7 @@
 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 | 2022-06-09 | 2023-04-29 |
 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 | 2022-09-27 |  |
 | [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/3WFivFp3uRp79WlwPrLvd1) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/2aChr24y3gtWYwFk1Uou7Q) | 1:35 | 2022-07-01 | 2023-03-11 |
-| [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/5wXLg0zTYulEeNZ8wSZn6U) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW), [Cryjng](https://open.spotify.com/artist/6p3gd6Lun8nEXrZ2BJtCBM) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/7vaREwP3zsWPRNxnFyzhQv) | 1:35 | 2023-01-18 |  |
+| [Sun Down, I'm Up \- Sped Up & Pitched](https://open.spotify.com/track/5wXLg0zTYulEeNZ8wSZn6U) | [Lil Yawh](https://open.spotify.com/artist/50vMVpuLqxVjxvO84cgKRW), [Cryjng](https://open.spotify.com/artist/7JTq755rsKBR5quNKYD4Ku) | [Sun Down, I'm Up \(Sped Up & Pitched\)](https://open.spotify.com/album/7vaREwP3zsWPRNxnFyzhQv) | 1:35 | 2023-01-18 |  |
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-01-27 |  |
 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 | 2022-07-06 | 2022-12-14 |
 | [Sway \- Sped Up Version](https://open.spotify.com/track/3P4Lsg2MNqG8XLXZJUo4GT) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Sway \(Sped Up Version\)](https://open.spotify.com/album/3rhTZ0XLyEDhnf5j8WGGud) | 2:27 | 2022-06-09 | 2022-12-18 |

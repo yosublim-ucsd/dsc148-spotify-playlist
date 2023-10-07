@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,719 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,767 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 3 | [Dysphoria Hoodie](https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Dysphoria Hoodie](https://open.spotify.com/album/2eRNpPskxaHcCWGhtojJi2) | 2:34 |
 | 4 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 |
 | 5 | [SSX Trickmont](https://open.spotify.com/track/7w13KZUxGmrPACC4s7NFRf) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [SSX Trickmont](https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn) | 3:18 |
-| 6 | [Weird Punx](https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L) | 2:34 |
+| 6 | [Weird Punx](https://open.spotify.com/track/0UsB58cZuu6C8x53SGdXId) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Weird Punx](https://open.spotify.com/album/0BJ3CYCD7CIJyzVUNT8b54) | 2:34 |
 | 7 | [Would You Tell Picasso To Sell His Guitars?](https://open.spotify.com/track/3zw402HWF2JB4y7zvKCMvT) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Hand Signals](https://open.spotify.com/album/1ENMOKCLCw7F9Jozy3heUX) | 2:41 |
 | 8 | [BISEXUAL AWAKENING](https://open.spotify.com/track/4LPZOecTVsIliFuUlRPSNd) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [BISEXUAL AWAKENING](https://open.spotify.com/album/2YsJZjnKsiYAjizQnOk3ul) | 1:49 |
 | 9 | [All Grown Up](https://open.spotify.com/track/2Q9nOFPxxmgFULakzB3UXg) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All Grown Up](https://open.spotify.com/album/6B4dV1pfLU5sUESOyMrE5i) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Drop](https://open.spotify.com/track/2OxH7BbCRiY9fldXLX4VhI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Drop](https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl) | 2:15 |
 | 100 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 |
 
-Snapshot ID: `MCxjODA4Yzk1NjJmMjE3ZjM5YWE0YjQzNDljYTI4Mzk5YWMwZTI1NWEw`
+Snapshot ID: `MCwyNzEyNWE1OGJiNjY5ODIyNTEzNTZkOWQ0NDAzNDgyYmEzYmUwZGJl`

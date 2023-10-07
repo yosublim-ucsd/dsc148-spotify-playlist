@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,352 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,354 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 9 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
 | 10 | [Seum](https://open.spotify.com/track/4Dmb0ujGWYjKElrRikPvPI) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Seum](https://open.spotify.com/album/0i9vEK8VPSeoaIZEwMp2Z7) | 3:48 |
 | 11 | [C'est drôle](https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [C'est drôle](https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF) | 2:57 |
-| 12 | [Pyromanes](https://open.spotify.com/track/4U6SsSNef5oAGA0eMfvMDR) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:05 |
+| 12 | [Pyromanes](https://open.spotify.com/track/4U6SsSNef5oAGA0eMfvMDR) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:05 |
 | 13 | [Qui es\-tu ?](https://open.spotify.com/track/4wm1QmBC7SKJH9ghGHtHjl) | [Nour](https://open.spotify.com/artist/2Z55seSc1gT7BWnV0ElFNL) | [Qui es\-tu ?](https://open.spotify.com/album/0xqmY8p70XJMbS3UqEnxx6) | 2:55 |
 | 14 | [Ça me va \- Soft Spleen Version](https://open.spotify.com/track/4dg3vGuNUPeqNBgPunflqx) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Ça me va \(Soft Spleen Version\)](https://open.spotify.com/album/7CpRFQzzPqM2XyxT3asQzS) | 2:44 |
 | 15 | [Felicita](https://open.spotify.com/track/4HwzvbQNo5iojTaUZ8JBw0) | [Dana](https://open.spotify.com/artist/4oUyBawGODm5oYtfa0scxY) | [Felicita](https://open.spotify.com/album/5BXLpoBoGQ0xZl87bmHjyW) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Une litanie](https://open.spotify.com/track/1fcX3CNUvS5Cp8HmLZBauT) | [Henriette](https://open.spotify.com/artist/1CHMc2krpqB5toZizl1QY7) | [Aux portes de l'excès](https://open.spotify.com/album/5r3N9iz53VaRo75Pic0VkN) | 5:26 |
 | 50 | [Loin de nous](https://open.spotify.com/track/2cz8MUPiByy5JZF3hmb4I2) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Loin de nous](https://open.spotify.com/album/3p1WZSWqTmSjLtsHo1QqYc) | 3:11 |
 
-Snapshot ID: `MCw4Zjc2ZmRjODE5OTJkNWY1YjRmN2ExYmZiNjBhOWIxZGZiMDY3OTBi`
+Snapshot ID: `MCwzOGI2OGZhMTk1MGM4MTYyYmE3NDZiZGI1NjUyYTczZDc0MWUzOTBj`

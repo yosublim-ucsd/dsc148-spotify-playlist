@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 143230,
+  "num_followers": 146082,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWM5NWYzMGY2NzY0MmQ4MDQ1ZTIxZmQxMmRjNzI1OGQ5MGU3Mzlk",
+  "snapshot_id": "MCxiN2MyNGU4OTgxM2ZlMjAwZTVkMzE3ZjViYzUyMGRiZmFiMWY1NWFl",
   "tracks": [
     {
       "added_at": "2023-09-26 15:59:33",
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-06 15:16:25",
       "album": {
-        "name": "GMFU (w/ 6arelyhuman)",
-        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+        "name": "I LOVE YOU HOE (w/ Trippie Redd & 9lives)",
+        "url": "https://open.spotify.com/album/35WsRcsKXK9VkwgWrLs2Is"
       },
       "artists": [
         {
@@ -52,33 +52,17 @@
           "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 127741,
-      "name": "GMFU (w/ 6arelyhuman)",
-      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
-    },
-    {
-      "added_at": "2023-09-28 20:23:55",
-      "album": {
-        "name": "partysexdrugs (feat. 6arelyhuman)",
-        "url": "https://open.spotify.com/album/6Kg2OVFGXk8k8LSRkG5YnT"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 194695,
-      "name": "partysexdrugs (feat. 6arelyhuman)",
-      "url": "https://open.spotify.com/track/6sxUoRcRqxLaG58cOmerA0"
+      "duration_ms": 145830,
+      "name": "I LOVE YOU HOE (w/ Trippie Redd & 9lives)",
+      "url": "https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -119,6 +103,42 @@
       "duration_ms": 121734,
       "name": "LET ME SEE YA MOVE!",
       "url": "https://open.spotify.com/track/5z6IuFSIc3OrZGDC2Q9icP"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "GMFU (w/ 6arelyhuman)",
+        "url": "https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 127741,
+      "name": "GMFU (w/ 6arelyhuman)",
+      "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
+    },
+    {
+      "added_at": "2023-10-06 15:16:25",
+      "album": {
+        "name": "KOLLECTIVE",
+        "url": "https://open.spotify.com/album/53i6MDOkEaGjpTrRZeW1ah"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "duration_ms": 153527,
+      "name": "GIVE EM HELL",
+      "url": "https://open.spotify.com/track/6P92k8JnqxqPyHLB7UwyN8"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -189,20 +209,24 @@
       "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-06 15:16:25",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm"
+        "name": "ESSENCE",
+        "url": "https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs"
       },
       "artists": [
         {
-          "name": "axxturel",
-          "url": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "Marluxiam",
+          "url": "https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU"
         }
       ],
-      "duration_ms": 122787,
-      "name": "U",
-      "url": "https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr"
+      "duration_ms": 147517,
+      "name": "ESSENCE",
+      "url": "https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -219,30 +243,6 @@
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "REPL4CE!",
-        "url": "https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        },
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "REPL4CE!",
-      "url": "https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn"
     },
     {
       "added_at": "2023-09-26 15:59:33",
@@ -271,22 +271,26 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+        "name": "REPL4CE!",
+        "url": "https://open.spotify.com/album/6eKBPTWQ2Q7IOVzDxpvQrr"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
         },
         {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
         }
       ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+      "duration_ms": 139680,
+      "name": "REPL4CE!",
+      "url": "https://open.spotify.com/track/3oXlxZ4teZ1iLon3NmN0bn"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -311,6 +315,22 @@
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm"
+      },
+      "artists": [
+        {
+          "name": "axxturel",
+          "url": "https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM"
+        }
+      ],
+      "duration_ms": 122787,
+      "name": "U",
+      "url": "https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -347,6 +367,26 @@
       "duration_ms": 107390,
       "name": "2BIPOLAR",
       "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
+    },
+    {
+      "added_at": "2023-09-28 20:23:55",
+      "album": {
+        "name": "partysexdrugs (feat. 6arelyhuman)",
+        "url": "https://open.spotify.com/album/6Kg2OVFGXk8k8LSRkG5YnT"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 194695,
+      "name": "partysexdrugs (feat. 6arelyhuman)",
+      "url": "https://open.spotify.com/track/6sxUoRcRqxLaG58cOmerA0"
     },
     {
       "added_at": "2023-09-22 04:00:00",

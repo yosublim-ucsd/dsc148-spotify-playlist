@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-355 songs - 17 hr 20 min
+356 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [LEFT TO RIGHT](https://open.spotify.com/track/4zzZGPInXkaUa4KEuuyFSn) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [LEFT TO RIGHT](https://open.spotify.com/album/4dFzMinnMwvmQZLQubahEh) | 2:26 | 2022-08-26 | 2022-09-05 |
 | [Let Me Be The One](https://open.spotify.com/track/5ijDq4SioO6LGGeAIZu6W9) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Let Me Be The One](https://open.spotify.com/album/0ywvrZjl2FsnnjQGi6wOnU) | 2:39 | 2021-10-29 | 2022-04-21 |
 | [Let Me Think About It Again](https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let Me Think About It Again](https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz) | 3:15 | 2023-09-08 |  |
-| [Let You Go](https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [ANML KNGDM](https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS) | [Let You Go](https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT) | 3:04 | 2023-08-11 |  |
+| [Let You Go](https://open.spotify.com/track/6Qj1eG0u2XDdDs4c0ySess) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [ANML KNGDM](https://open.spotify.com/artist/2YsRLHY6KXEs9mHcM99WXS) | [Let You Go](https://open.spotify.com/album/66QmKxpY9JLUMbQrrqDgCT) | 3:04 | 2023-08-11 | 2023-10-07 |
 | [Let's Get Down](https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Let's Get Down](https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6) | 3:13 | 2021-10-29 | 2022-11-12 |
 | [Lied To](https://open.spotify.com/track/45zbPKZIdjYvo1Q14z6uQx) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lied To](https://open.spotify.com/album/6wDZbTmVURNdkRNi232c1M) | 2:40 | 2021-10-29 | 2022-08-06 |
 | [Lift](https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz) | [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Lift](https://open.spotify.com/album/6GgFm8wYjyE2GOR1FLwmQB) | 2:50 | 2021-10-29 | 2022-07-26 |
@@ -323,6 +323,7 @@
 | [Teach Me](https://open.spotify.com/track/3pxgCftwF14lNFHeEBqYyv) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [Teach Me](https://open.spotify.com/album/08abjipelIFw9qL9SpusZn) | 2:09 | 2021-10-29 | 2022-01-05 |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-29 | 2022-08-06 |
 | [Tell Me How](https://open.spotify.com/track/4p6e7cpogv3RbcjzB1HXEZ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Faith In Chaos](https://open.spotify.com/album/2v9CsJviAEwrbViMJV2muZ) | 3:16 | 2022-03-04 | 2022-04-20 |
+| [That's Right](https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [That's Right](https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf) | 3:35 | 2023-10-06 |  |
 | [The Drop \- Öwnboss Remix](https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop \(Ownboss Remix\)](https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR) | 2:56 | 2023-01-06 |  |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
 | [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 |  |

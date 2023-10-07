@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 237242,
       "name": "Adi\u00f3s, Me Voy",
       "url": "https://open.spotify.com/track/7iPwAA5D5zfVVk8wZQ5gh9"
@@ -510,6 +510,28 @@
       "duration_ms": 256560,
       "name": "Atrevida - En Vivo",
       "url": "https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP"
+    },
+    {
+      "album": {
+        "name": "Atr\u00e9vete",
+        "url": "https://open.spotify.com/album/56CyDTKDVVyUgrKmXqAbq9"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197077,
+      "name": "Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/0g9ThXviJTdKDhj8StP5EE"
     },
     {
       "album": {
@@ -924,7 +946,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185397,
       "name": "Como En D1sn3y",
       "url": "https://open.spotify.com/track/5C2N1ExeWwRD7w5PKkoT9M"
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 190045,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 186004,
       "name": "Coraz\u00f3n Guerrero (En Vivo)",
       "url": "https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b"
@@ -1613,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274858,
+      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
+    },
+    {
+      "album": {
         "name": "Trilog\u00eda: 1er acto",
         "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
       },
@@ -1722,7 +1762,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 174292,
       "name": "El Pa\u00f1uelo",
       "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
@@ -2222,7 +2262,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 268199,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1LoDp9jyH2guSm5wQAy6Ei"
@@ -2898,7 +2938,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 181538,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
@@ -4186,7 +4226,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 220753,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
@@ -4462,7 +4502,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 277173,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/1l3xyA0rIKdin3AKyDyVDj"
@@ -5502,7 +5542,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 172311,
       "name": "Si Me Dices Que Si (Estadio V\u00e9lez)",
       "url": "https://open.spotify.com/track/1bfjDohijZVRKHWT53QNFk"
@@ -5890,7 +5930,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 310099,
       "name": "Te hubieras ido antes",
       "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
@@ -7072,7 +7112,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 245845,
       "name": "Yo Quer\u00eda (Estadio V\u00e9lez)",
       "url": "https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb"

@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: EL FERXXO",
-  "num_followers": 28845,
+  "num_followers": 28909,
   "original_name": "Reggaet\u00f3n Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTYyNmI2NDEwODIwN2IxODgwNmZiY2ZmNWNkMzY0ZDU4ZjRjY2Y4",
+  "snapshot_id": "MCxmNDRlZDQ0NDkwOTJjZjg5ZGUwNGU4NTQ4M2U3NzUzZDBlYjc2Mzg1",
   "tracks": [
+    {
+      "added_at": "2023-10-05 23:01:00",
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
     {
       "added_at": "2023-10-05 23:01:00",
       "album": {

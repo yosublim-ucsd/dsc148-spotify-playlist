@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Dewa Budjana
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Thesar
 
-158 songs - 11 hr 17 min
+159 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 | 2023-08-18 |
 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 | 2023-07-13 |  |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
+| [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 | 2023-10-06 |  |
 | [Healing Wounds](https://open.spotify.com/track/7GviZb5p791rcED8MaGnWI) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Adhika "Coki" Himawan](https://open.spotify.com/artist/33KNou9zac9O5y2J1wuJXa) | [Healing Wounds](https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re) | 3:28 | 2022-09-02 | 2023-08-25 |
 | [Hidup](https://open.spotify.com/track/61pIoGz4vXugNa5Cc9Fh47) | [January Christy](https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX) | [Unreleased Tracks from 1985](https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S) | 2:52 | 2022-09-02 | 2023-03-04 |
 | [House of Blues](https://open.spotify.com/track/1jtwwarLqjm7wZk5FaGUYX) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4), [Niel Larumunde](https://open.spotify.com/artist/2amko2icNCRZtpNVx67D2O) | [House of Blues](https://open.spotify.com/album/6Ljmeh56kmboZWKacGtR5S) | 3:33 | 2023-06-29 |  |
@@ -128,7 +129,7 @@
 | [Promesa](https://open.spotify.com/track/1smsqbB2XigojjpaWhbrZA) | [Bass G](https://open.spotify.com/artist/3UIAU3rTt0M8utGCQSHreQ) | [Baciare / To Kiss](https://open.spotify.com/album/1I6kZIPX729gCglmRUG78h) | 3:52 | 2023-03-03 | 2023-08-18 |
 | [Propulsion](https://open.spotify.com/track/3DL4O5muk2DjIxnMAEtYq3) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [Propulsion](https://open.spotify.com/album/51ZCUc5WzCZWOU9XG2fbEk) | 4:30 | 2022-09-02 | 2023-08-25 |
 | [Rejuvenate](https://open.spotify.com/track/59YX01UzJXaYN3okY600M2) | [Mahesa Santoso](https://open.spotify.com/artist/4kuMeakqKQQlso0M0Tsz6R), [Rafi Daeng](https://open.spotify.com/artist/2D20G0Ku2Leq6sT0Ym8IKd) | [Rejuvenate](https://open.spotify.com/album/0v495TJ9vUqmPoWVGTTK1o) | 4:26 | 2022-09-02 | 2023-02-04 |
-| [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 | 2022-09-02 |  |
+| [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 | 2022-09-02 | 2023-10-07 |
 | [Rona Imaji](https://open.spotify.com/track/2lEP08kMtVbhLfCKPyo5JL) | [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i), [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Rona Imaji](https://open.spotify.com/album/2m1MLG7a10KW68mjkDFiNz) | 4:18 | 2022-09-02 | 2023-08-18 |
 | [Run Over the Line](https://open.spotify.com/track/1wNQ9mNK1IRgl6IXR9Wqhc) | [Alsa](https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF), [Indro Hardjodikoro](https://open.spotify.com/artist/7q8VBRFqJizAz9urUzLV9B) | [The Moment with You](https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL) | 4:02 | 2023-03-03 | 2023-08-25 |
 | [Sahabat Yang Di Sana](https://open.spotify.com/track/5b857o3dghGQVSxIQzzj2w) | [Attar & Rahel](https://open.spotify.com/artist/5R1zwGQWctXI4QxZpWU5O6), [Nesia Ardi](https://open.spotify.com/artist/5qmSZ1mubcNpvbmimc4FAu) | [Attar & Rahel](https://open.spotify.com/album/55Vl6UqK2kP1VQ1q2ZB89p) | 4:06 | 2022-09-02 |  |

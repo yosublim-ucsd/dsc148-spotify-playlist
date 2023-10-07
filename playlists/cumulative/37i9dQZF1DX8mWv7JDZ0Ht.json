@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Silva, Liniker",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: J\u00e3o",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -2855,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Eu Pensei Muito na Gente",
+        "url": "https://open.spotify.com/album/4NNja3VMeL9nFHGQx9T6kP"
+      },
+      "artists": [
+        {
+          "name": "Raffa Mogi",
+          "url": "https://open.spotify.com/artist/1GzNbVSgVruCtWjQAHVKYF"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Eu Pensei Muito na Gente",
+      "url": "https://open.spotify.com/track/2rTrI2Ci5DlokeE7odH4SU"
+    },
+    {
+      "album": {
         "name": "Eu Sou um Fracasso",
         "url": "https://open.spotify.com/album/3TFbaz1pFem6T3IdceMRRZ"
       },
@@ -3844,6 +3862,24 @@
       "duration_ms": 200557,
       "name": "JOVEM",
       "url": "https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH"
+    },
+    {
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187831,
+      "name": "Julho",
+      "url": "https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt"
     },
     {
       "album": {
@@ -4934,7 +4970,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 188333,
       "name": "Nova Bad",
       "url": "https://open.spotify.com/track/2Pylpxtocxjzb0sXjoCSIh"
@@ -6365,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "que mal que tem?",
+        "url": "https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157708,
+      "name": "que mal que tem?",
+      "url": "https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl"
+    },
+    {
+      "album": {
         "name": "que se fosse",
         "url": "https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z"
       },
@@ -7450,7 +7504,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 177078,
       "name": "te decorei em mim",
       "url": "https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r"
@@ -7628,7 +7682,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169539,
       "name": "Terminou Bem",
       "url": "https://open.spotify.com/track/3ObgKMUfySUq3VvfSVMxWU"

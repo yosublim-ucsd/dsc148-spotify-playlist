@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-209 songs - 12 hr 45 min
+211 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,12 +152,14 @@
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |
 | [Real Men Love Jesus](https://open.spotify.com/track/4PUd2AwQAWY05WWR5qxig9) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Michael Ray](https://open.spotify.com/album/1JBo2GmY1NskygCzWzGqHF) | 3:11 | 2021-12-10 |  |
 | [River Of Life](https://open.spotify.com/track/0B1GuT4svftHFzZ8wXcBau) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [River Of Life](https://open.spotify.com/album/6vF3ktUVSaC3IEtZHZwU3b) | 2:49 | 2021-12-10 |  |
+| [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |
 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 | 2022-10-28 |  |
 | [Show Me Around](https://open.spotify.com/track/1kAjZE74FPpadN5JUgrIcZ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:40 | 2021-12-10 |  |
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-12-10 |  |
 | [Somebody Else](https://open.spotify.com/track/5EaDQlO1mSdyDhgmmV3ECo) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Somebody Else](https://open.spotify.com/album/3qSl2EUB9MHWNZ7blQVOL4) | 3:09 | 2023-04-14 |  |
 | [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 |  |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2021-12-10 |  |
+| [Somewhere in the Sunshine](https://open.spotify.com/track/0ZumjEWenangePeQRcq0h9) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [Somewhere in the Sunshine](https://open.spotify.com/album/4EFxY2XuXN2HMWpFDRXEbA) | 4:22 | 2023-10-06 |  |
 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 |  |
 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 | 2021-12-10 |  |
 | [Sunday Drive](https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/20oCDZCGgjonrJtxemoB4G) | 4:53 | 2021-12-10 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [Bottoms Up](https://open.spotify.com/playlist/37i9dQZF1DX0N8QTiMHLoT)
 
-> 𝄢Because bass\. Cover: Victor Wooten𝄢
+> Because bass\. Cover: Victor Wooten
 
-98 songs - 7 hr 11 min
+99 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 | 2021-05-06 |  |
 | [Benny](https://open.spotify.com/track/4xtA92JBIShJB38xpUi54N) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG), [Alfredo Golino](https://open.spotify.com/artist/3xTNcXqOMkvwwHD1gmmoxB) | [Attitude](https://open.spotify.com/album/3yLl4BNM7fP3VscBwPgdjZ) | 3:36 | 2021-05-06 |  |
 | [Bent](https://open.spotify.com/track/2wuL3O4CTUPjveRCEXnlfE) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:02 | 2021-05-06 |  |
-| [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 | 2021-05-06 |  |
+| [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 | 2021-05-06 | 2023-10-07 |
 | [Blues Mfr](https://open.spotify.com/track/5fJcaPOiPKBxpTKRaTPC5W) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 3:48 | 2021-05-06 |  |
 | [Cherokee](https://open.spotify.com/track/7tpRhxTJb9476O9qef8VPq) | [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1) | [Electric Wood](https://open.spotify.com/album/6BPszTAxgfBXZZco1IOkdu) | 3:14 | 2021-05-06 |  |
 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 | 2021-05-06 |  |
@@ -35,6 +35,7 @@
 | [Don't Look Back Again](https://open.spotify.com/track/66MsmmOc0dIhqYuhVobax7) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Epiphany](https://open.spotify.com/album/5uGgz6J40Kwm77V8Lyl827) | 3:12 | 2021-05-06 |  |
 | [Donovan James](https://open.spotify.com/track/2g37ZBeL0NsNWNB4RV7cBh) | [David Dyson](https://open.spotify.com/artist/4vgc23qLWXuDFK10Ogo3uq) | [The Dawning](https://open.spotify.com/album/5EcuvCra621YgIabHqEpyp) | 4:08 | 2021-05-06 |  |
 | [Elephants On Ice Skates](https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [It Is What It Is](https://open.spotify.com/album/2kN0INHqkk9rUUVgYJpbat) | 6:41 | 2021-05-06 |  |
+| [Elevated](https://open.spotify.com/track/7gv8CzdonKjJkQPgGcGQcz) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Elevated](https://open.spotify.com/album/4sdTcc5QzYmZxXcFxYnRdn) | 2:00 | 2023-10-06 |  |
 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 | 2021-05-06 |  |
 | [First Class](https://open.spotify.com/track/6J8Qlrkiv9lPl8sEFZlAeM) | [Reggie Parker](https://open.spotify.com/artist/2pW4wDWqI1vYPS7fXXOlO5), [Gil Defay](https://open.spotify.com/artist/28UKiapbpZNh0wXOcphxRV), [Joe Scott](https://open.spotify.com/artist/203ErdwaUAQ8Sn5LZKUf0E) | [Basslines n Melodies](https://open.spotify.com/album/3PgXwULhSpQn28b7TA8O7l) | 3:25 | 2023-07-14 |  |
 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 | 2021-05-06 |  |

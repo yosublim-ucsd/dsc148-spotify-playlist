@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Dewa Budjana",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Thesar",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1343,6 +1343,32 @@
     },
     {
       "album": {
+        "name": "Healing Dreams",
+        "url": "https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja"
+      },
+      "artists": [
+        {
+          "name": "Thesar",
+          "url": "https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP"
+        },
+        {
+          "name": "Ria Zipie",
+          "url": "https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa"
+        },
+        {
+          "name": "Jonathan Ceasar",
+          "url": "https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166597,
+      "name": "Healing Dreams",
+      "url": "https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW"
+    },
+    {
+      "album": {
         "name": "Healing Wounds",
         "url": "https://open.spotify.com/album/3ksrMamlDbwNTEyj82r6Re"
       },
@@ -2500,7 +2526,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 344295,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni"

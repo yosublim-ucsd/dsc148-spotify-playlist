@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Bhuta Kala",
+        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219634,
+      "name": "Bhuta Kala",
+      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
+    },
+    {
+      "album": {
         "name": "Bicycle",
         "url": "https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC"
       },
@@ -4145,7 +4163,7 @@
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 133072,
+      "duration_ms": 133143,
       "name": "Blurt",
       "url": "https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd"
     },
@@ -11440,7 +11458,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181250,
       "name": "george's shelter",
       "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
@@ -13872,6 +13890,24 @@
       "duration_ms": 199445,
       "name": "Hopes High",
       "url": "https://open.spotify.com/track/6SxVDSPWhvgfvDQKYzXuA1"
+    },
+    {
+      "album": {
+        "name": "Hot Fruit",
+        "url": "https://open.spotify.com/album/7hdEeakKFU0iVwntNnwNRu"
+      },
+      "artists": [
+        {
+          "name": "Adeline Hotel",
+          "url": "https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202476,
+      "name": "Hot Fruit",
+      "url": "https://open.spotify.com/track/4aXKmTLg2uXrFQhJV1MBgv"
     },
     {
       "album": {
@@ -24462,7 +24498,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 211641,
       "name": "Remember the Heart",
       "url": "https://open.spotify.com/track/3fGbFU0d4hFU6xe9Mr37he"

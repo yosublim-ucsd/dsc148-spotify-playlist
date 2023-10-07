@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Sam Gellaitry",
+  "description": "The best indie dance tracks of the moment. Cover: Polo & Pan",
   "name": "metropolis",
   "tracks": [
     {
@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "AFRAID",
+        "url": "https://open.spotify.com/album/4IOS1T3uDYgm9mz8TEuK7Y"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "AFRAID",
+      "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
@@ -622,6 +640,28 @@
       "duration_ms": 167540,
       "name": "All Around The World (with Duckwrth)",
       "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
+    },
+    {
+      "album": {
+        "name": "all i can do is miss you",
+        "url": "https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ"
+      },
+      "artists": [
+        {
+          "name": "Mosey",
+          "url": "https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ"
+        },
+        {
+          "name": "Lowgo",
+          "url": "https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "all i can do is miss you",
+      "url": "https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT"
     },
     {
       "album": {
@@ -864,7 +904,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 258659,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/3MQ96GNZ6Y68u2Tg21LJ3n"
@@ -908,6 +948,24 @@
       "duration_ms": 148924,
       "name": "Another Blessing",
       "url": "https://open.spotify.com/track/0VpD1S8Y4rv08n1VwjPMgY"
+    },
+    {
+      "album": {
+        "name": "Another Color (Villows Remix)",
+        "url": "https://open.spotify.com/album/1TsQIAHCtExr5XeopI1PWc"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225500,
+      "name": "Another Color",
+      "url": "https://open.spotify.com/track/1MhFnxO9Yoxri0uoyWsToB"
     },
     {
       "album": {
@@ -1086,6 +1144,24 @@
       "duration_ms": 219622,
       "name": "Avenue Of The Fireflies",
       "url": "https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB"
+    },
+    {
+      "album": {
+        "name": "Avoiding Pain",
+        "url": "https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247435,
+      "name": "Avoiding Pain",
+      "url": "https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u"
     },
     {
       "album": {
@@ -1558,7 +1634,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 239078,
       "name": "Begin Again - Joe Goddard Remix / Edit",
       "url": "https://open.spotify.com/track/0TB9IbEirDvATrQ9ES0i5j"
@@ -1576,7 +1652,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 262427,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/4Sy2gpNfLf7xbmhbTubbRl"
@@ -1598,7 +1674,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 153204,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3ljga3HUiAH6jBZ6FTbSSp"
@@ -1740,7 +1816,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 312447,
       "name": "Bioluminescence",
       "url": "https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT"
@@ -1936,7 +2012,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 234720,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1elYcP79l3nmmajOjwztZ3"
@@ -2267,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "PRODUCE (CHOPPED)",
+        "url": "https://open.spotify.com/album/2CKZGKMWdE0xcTrhDndtx4"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "BROKEN RECORD",
+      "url": "https://open.spotify.com/track/5UNiI0WZWGD9OCMvGQxl2Q"
+    },
+    {
+      "album": {
         "name": "Brooklyn Ballers",
         "url": "https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9"
       },
@@ -2282,6 +2376,24 @@
       "duration_ms": 262643,
       "name": "Brooklyn Ballers",
       "url": "https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr"
+    },
+    {
+      "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/3Ow42KfNDAWbBmCIZ7YK5E"
+      },
+      "artists": [
+        {
+          "name": "Charlie Houston",
+          "url": "https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160942,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/5Yxw8MJcI4AT58ur7e04Fw"
     },
     {
       "album": {
@@ -2817,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Chamallow",
+      "url": "https://open.spotify.com/track/6mdGfjrWlzVxcHcqbOVN3q"
+    },
+    {
+      "album": {
         "name": "Change / Take My Time",
         "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
       },
@@ -2952,7 +3082,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 195408,
       "name": "Circle Back Around",
       "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
@@ -3018,6 +3148,28 @@
       "duration_ms": 163978,
       "name": "Closed for Renovations",
       "url": "https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG"
+    },
+    {
+      "album": {
+        "name": "cloud9high",
+        "url": "https://open.spotify.com/album/123wsUalWudODWaiOojodu"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219327,
+      "name": "cloud9high",
+      "url": "https://open.spotify.com/track/3xY0uZc0zjVFc0hQwIWmR6"
     },
     {
       "album": {
@@ -3430,6 +3582,28 @@
       "duration_ms": 182192,
       "name": "Cry Again",
       "url": "https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB"
+    },
+    {
+      "album": {
+        "name": "cry for help",
+        "url": "https://open.spotify.com/album/6JFrOuwXVsGIifVmwx9sn8"
+      },
+      "artists": [
+        {
+          "name": "Xedrin",
+          "url": "https://open.spotify.com/artist/0T8OlNkaNRP75U1kSlRyWG"
+        },
+        {
+          "name": "spiderblush",
+          "url": "https://open.spotify.com/artist/20b2KfO5KOXtq9jTWkfcQO"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118151,
+      "name": "cry for help",
+      "url": "https://open.spotify.com/track/5gfYxsAS939n06daeVX7WF"
     },
     {
       "album": {
@@ -3857,6 +4031,42 @@
     },
     {
       "album": {
+        "name": "Do Nothing",
+        "url": "https://open.spotify.com/album/4fc8M2b3XSKwo5YxekkZLT"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Do Nothing",
+      "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
+    },
+    {
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/0FbeTAK7i7K7CZ1sOqME98"
+    },
+    {
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/5boyLvydg1vKZeIWY8LwxK"
       },
@@ -3985,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "DON'T DIE",
+        "url": "https://open.spotify.com/album/4LqGnD23IuuHsA4cDkeLLh"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DON'T DIE",
+      "url": "https://open.spotify.com/track/31zwbRy4vNsNdCQJcrivvv"
+    },
+    {
+      "album": {
         "name": "((( 4 )))",
         "url": "https://open.spotify.com/album/1vuo6cSdhF9bO9sqzkSgQN"
       },
@@ -4040,6 +4268,32 @@
       "duration_ms": 166303,
       "name": "Don't Let Go (feat. Roseau)",
       "url": "https://open.spotify.com/track/02NJ2ws6rsEeh7DhsHqqvv"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Down (feat. BENEE) [Willo Remix]",
+        "url": "https://open.spotify.com/album/30JePWdMxsO2fhXq0ChsVz"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223735,
+      "name": "Don't Let Me Down (feat. BENEE) [Willo Remix]",
+      "url": "https://open.spotify.com/track/22LKhiF30OUAgkoNCWEVXW"
     },
     {
       "album": {
@@ -4250,7 +4504,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 191253,
       "name": "DREAMS!",
       "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
@@ -4330,7 +4584,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226908,
       "name": "Dummy \u2013 Chrome Sparks Remix",
       "url": "https://open.spotify.com/track/3VsuqAQ7XXKsygtCGyPzO1"
@@ -4410,7 +4664,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 165605,
       "name": "Earthbound",
       "url": "https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX"
@@ -4603,6 +4857,24 @@
     },
     {
       "album": {
+        "name": "Empty Feeling",
+        "url": "https://open.spotify.com/album/2fXhGl2LxpMN6akDmA2BG9"
+      },
+      "artists": [
+        {
+          "name": "Origami Human",
+          "url": "https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Empty Feeling",
+      "url": "https://open.spotify.com/track/2tSj6yeWccdNqMB634vLaZ"
+    },
+    {
+      "album": {
         "name": "End Credits",
         "url": "https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0"
       },
@@ -4622,6 +4894,28 @@
       "duration_ms": 213297,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j"
+    },
+    {
+      "album": {
+        "name": "It's All a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh"
     },
     {
       "album": {
@@ -6660,7 +6954,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 216278,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz"
@@ -6922,7 +7216,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 240509,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX"
@@ -7568,7 +7862,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 252962,
       "name": "Humans - Elevated Mix",
       "url": "https://open.spotify.com/track/4vCrLKs6M10bLbMFRXEbJ6"
@@ -7981,6 +8275,24 @@
     },
     {
       "album": {
+        "name": "Hotel Surrender (Expanded Edition)",
+        "url": "https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221997,
+      "name": "I Wanna Try Something New",
+      "url": "https://open.spotify.com/track/0beqUiZartDGJjOp5H325v"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/5VE3UEUfktGy9CuMOglplR"
       },
@@ -8138,7 +8450,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 214653,
       "name": "Icy",
       "url": "https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP"
@@ -8264,7 +8576,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 237986,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/15wh4sekuZ58WzHW1V33Zi"
@@ -8534,7 +8846,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 178138,
       "name": "Is That How You Feel It",
       "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
@@ -8934,7 +9246,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 224500,
       "name": "Jupiter I.",
       "url": "https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ"
@@ -9418,6 +9730,24 @@
       "duration_ms": 335794,
       "name": "Lens - O'Flynn Remix",
       "url": "https://open.spotify.com/track/6On9zhsdq3gbnGmdfLeCxR"
+    },
+    {
+      "album": {
+        "name": "I Thought I Was Better Than You (Maximum Security Remixes)",
+        "url": "https://open.spotify.com/album/26LJzakEPVhJNRrAc4zNlC"
+      },
+      "artists": [
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372140,
+      "name": "Leon - Too Heavy",
+      "url": "https://open.spotify.com/track/5AKbzqX03pf9aJEpOktD1p"
     },
     {
       "album": {
@@ -9998,7 +10328,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
@@ -10100,6 +10430,32 @@
       "duration_ms": 143946,
       "name": "Lost In Space (feat. SG Lewis)",
       "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
+    },
+    {
+      "album": {
+        "name": "lost it",
+        "url": "https://open.spotify.com/album/4zchaqOOhhE7b4bDfdXjp6"
+      },
+      "artists": [
+        {
+          "name": "Ukiyo",
+          "url": "https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x"
+        },
+        {
+          "name": "LORA",
+          "url": "https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8"
+        },
+        {
+          "name": "Super Duper",
+          "url": "https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230377,
+      "name": "lost it",
+      "url": "https://open.spotify.com/track/4jWAiDWY7915SrymRWvITL"
     },
     {
       "album": {
@@ -10238,7 +10594,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
@@ -10300,6 +10656,24 @@
       "duration_ms": 254156,
       "name": "Love Signs",
       "url": "https://open.spotify.com/track/6RaevDdXDLwoHtacMeCz8Q"
+    },
+    {
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/2EVjxedFSqwKeDbQGDp5pJ"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262369,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2S3nwkJOnoNGGL40EWCBWW"
     },
     {
       "album": {
@@ -10482,7 +10856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 247949,
       "name": "Low Lights and Throwback Tunes",
       "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
@@ -12267,6 +12641,28 @@
     },
     {
       "album": {
+        "name": "Oj & prosecco",
+        "url": "https://open.spotify.com/album/5rbOEMhXgje1L0VRvVSTgh"
+      },
+      "artists": [
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219200,
+      "name": "Oj & prosecco",
+      "url": "https://open.spotify.com/track/10gQM8CRmJoGpID7nEa0yi"
+    },
+    {
+      "album": {
         "name": "Omen (feat. Lyrah)",
         "url": "https://open.spotify.com/album/6Hj2w3WVnDeCL4Tvhffhll"
       },
@@ -12370,7 +12766,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "one of one (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/79jxfE4mZToAneAv2C7Dng"
@@ -12618,7 +13014,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 204848,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/0CdNOaZUy8JAbx7cuDoks1"
@@ -12815,6 +13211,24 @@
     },
     {
       "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/2UpgAYwfRTPiR8ClzOzksb"
+      },
+      "artists": [
+        {
+          "name": "Effemar",
+          "url": "https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248976,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/19I8hpaVjfA47n4RAMuRQi"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV"
       },
@@ -12972,10 +13386,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 287720,
       "name": "Peaks & Valleys",
       "url": "https://open.spotify.com/track/6uXIdYG3WQm6tPGACvZMDE"
+    },
+    {
+      "album": {
+        "name": "Personal Effects",
+        "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Personal Effects",
+      "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
     },
     {
       "album": {
@@ -13081,6 +13513,24 @@
     },
     {
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/2h2Aa3DlIJ9vu5y9x48vfX"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/5yjCsVemygAPwehOOPRtND"
+    },
+    {
+      "album": {
         "name": "The Making of a Paracosm (Remixes Vol. 2)",
         "url": "https://open.spotify.com/album/2uHtZ0OenCE1RXB3f5LOWF"
       },
@@ -13104,6 +13554,24 @@
       "duration_ms": 275478,
       "name": "Play Pretend - Devault Remix",
       "url": "https://open.spotify.com/track/1lT8Dix63KR8lJqPBBd7Sa"
+    },
+    {
+      "album": {
+        "name": "Poet",
+        "url": "https://open.spotify.com/album/7eqO9pO9TfbhMac1KezRgy"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199782,
+      "name": "Poet",
+      "url": "https://open.spotify.com/track/6A4H6S0Or4XQ9Q2pPOIYGM"
     },
     {
       "album": {
@@ -13758,7 +14226,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 152493,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/1nga9f11uUQS6mSz427Jrz"
@@ -13878,7 +14346,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 451034,
       "name": "RISE - Darius Remix",
       "url": "https://open.spotify.com/track/0zyDQF49c8BZObY8Figpew"
@@ -14837,6 +15305,28 @@
     },
     {
       "album": {
+        "name": "sleepatsunrise",
+        "url": "https://open.spotify.com/album/3kmAEP1YD4OxM8JDmHze2Z"
+      },
+      "artists": [
+        {
+          "name": "Krishna Canning",
+          "url": "https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv"
+        },
+        {
+          "name": "Slo Loris",
+          "url": "https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176733,
+      "name": "sleepatsunrise",
+      "url": "https://open.spotify.com/track/3wDQTpgStc5ztupOBYKH1B"
+    },
+    {
+      "album": {
         "name": "Off Planet",
         "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
       },
@@ -15204,7 +15694,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169180,
       "name": "Standing My Ground",
       "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
@@ -15258,7 +15748,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 215056,
       "name": "Star Swing",
       "url": "https://open.spotify.com/track/3aZI3XL8QULBURRSg2O7rr"
@@ -15298,7 +15788,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 243521,
       "name": "Staring In The Dark",
       "url": "https://open.spotify.com/track/7JAVF82CR6L7SZzxiPPOM2"
@@ -15838,7 +16328,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 172533,
       "name": "Sushi in Wyoming",
       "url": "https://open.spotify.com/track/0Cl6j6DgLeGhnyI1FR7eY6"
@@ -15896,7 +16386,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/7pAEVIFvGRMACtxmVN7F7a"
@@ -16247,6 +16737,24 @@
     },
     {
       "album": {
+        "name": "Under Utopia",
+        "url": "https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326232,
+      "name": "Territory Day",
+      "url": "https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS"
+    },
+    {
+      "album": {
         "name": "echo: dawn",
         "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
       },
@@ -16316,7 +16824,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 159720,
       "name": "The Carousel",
       "url": "https://open.spotify.com/track/7eTsUmK19laiJ3uaXqLU2I"
@@ -16472,6 +16980,28 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "album": {
+        "name": "The Golden Age (Bay Ledges Remix)",
+        "url": "https://open.spotify.com/album/1Wc42tUMfnlyXmyiO5bZdb"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        },
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "The Golden Age - Bay Ledges Remix",
+      "url": "https://open.spotify.com/track/2LQ6E4pftxvhVnzcoKrQnU"
     },
     {
       "album": {
@@ -16941,6 +17471,28 @@
     },
     {
       "album": {
+        "name": "Through My Teeth",
+        "url": "https://open.spotify.com/album/1nN0SJGvy1QB3R6vmJP9A5"
+      },
+      "artists": [
+        {
+          "name": "Ukiyo",
+          "url": "https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228091,
+      "name": "Through My Teeth",
+      "url": "https://open.spotify.com/track/5yPQydEFlztCWLs9vzf0lA"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -17275,6 +17827,28 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/7cJ8qKZ7JERLDpIEsZTDFv"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "syd B",
+          "url": "https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/0J1UJG2vXr9CL2p7dppSjb"
+    },
+    {
+      "album": {
         "name": "TONIGHT",
         "url": "https://open.spotify.com/album/5E8bNRJ8zfuiCLn5pKqwAX"
       },
@@ -17490,7 +18064,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 231316,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
@@ -17920,7 +18494,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 235861,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/6cYoKxvw88rUQ4FEKWcaDI"

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-783 songs - 1 day 16 hr 41 min
+784 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Gangsteritus](https://open.spotify.com/track/2Gg9UhRTym4rztR9vU0Pvu) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Thanks For Waiting](https://open.spotify.com/album/2IHcdrRhnzXoH8ilmhWujM) | 3:42 | 2022-03-22 | 2022-04-26 |
 | [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/track/3Efqg1BYDiVvRa6MLeVogB) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gangsteritus Part 2 \(feat\. Nines & Tiggs Da Author\)](https://open.spotify.com/album/5RTzogZIo2ezzBW0rvUjfd) | 3:01 | 2022-04-25 | 2022-07-15 |
 | [Genesis \(Remix\) \[feat\. Miraa May, Joyce Wrice & Bellah\]](https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Closure Tapes](https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5) | 3:26 | 2023-05-18 | 2023-07-14 |
+| [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/5xzOYsed90dyzNH7MSigpp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 2:13 | 2023-10-06 |  |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-03-08 | 2022-03-09 |
 | [Get Out The Way feat\. BackRoad Gee](https://open.spotify.com/track/4yShsDY55N2W54D1ZKpIM0) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Get Out The Way feat\. BackRoad Gee](https://open.spotify.com/album/55wM0G0rirSUEOwvslwcyd) | 3:41 | 2023-10-05 |  |
 | [Get To Know](https://open.spotify.com/track/1BvWbHhaQdjYdoyNyhGcHJ) | [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd), [Ayo Beatz](https://open.spotify.com/artist/7nfHGYGlZKXrD9lTmll6Ut) | [Get To Know](https://open.spotify.com/album/4ZRLRxSevcvOIyLHda4Vct) | 2:14 | 2022-09-01 | 2022-09-23 |

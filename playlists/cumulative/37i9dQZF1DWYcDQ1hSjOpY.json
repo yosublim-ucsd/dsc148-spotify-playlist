@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/2TDOLO4nM5aoKWRVEJjoGf"
+      },
+      "artists": [
+        {
+          "name": "Coseae",
+          "url": "https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165056,
+      "name": "Envision",
+      "url": "https://open.spotify.com/track/1E05Z2lKEAtQmKkDtpmmJy"
+    },
+    {
+      "album": {
         "name": "Equality",
         "url": "https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ"
       },
@@ -6504,7 +6522,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173219,
       "name": "Silk",
       "url": "https://open.spotify.com/track/2kEk2uIKtoJD5r65cH7XBP"

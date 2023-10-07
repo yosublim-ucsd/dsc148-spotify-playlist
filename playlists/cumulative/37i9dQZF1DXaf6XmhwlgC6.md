@@ -4,11 +4,12 @@
 
 > Music from the ether to focus and study to.
 
-247 songs - 12 hr 56 min
+250 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Electricity\)](https://open.spotify.com/track/0kjmjY9yvzWeSicNEAjFcD) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:04 | 2023-09-08 |  |
+| [A Clear Mind](https://open.spotify.com/track/4BgdArkCc5DEHYTpy6clfy) | [Mother Figures](https://open.spotify.com/artist/2TQAZvZKUCmj9wLGBjqSj2) | [A Clear Mind](https://open.spotify.com/album/3XBSyg3XXBZd867txggCxH) | 3:23 | 2023-10-06 |  |
 | [A Journey Within](https://open.spotify.com/track/4mEZtX5K7cSCS3f3GKj5m2) | [John Pete Dexter](https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR) | [A Journey Within](https://open.spotify.com/album/3JltKqtffoJe4Mgp5JBl38) | 2:58 | 2022-03-30 | 2023-01-14 |
 | [A Memory of Sunday](https://open.spotify.com/track/6qmfW6vNga0M3yV9hoCGsf) | [Plaice Commes](https://open.spotify.com/artist/103iNifaFqCDUVVglaXb7D) | [Focuses](https://open.spotify.com/album/0f8yANLtuGimQ18mzOKJUG) | 2:44 | 2023-06-30 |  |
 | [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-02 |  |
@@ -39,6 +40,7 @@
 | [Closer \- Guitar Version](https://open.spotify.com/track/2pYhZxuukmLVFWl60oUoMl) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Closer](https://open.spotify.com/album/19IVvjmtTA1K9U0i3aMkoa) | 2:18 | 2023-03-03 |  |
 | [Cocao](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Cocao](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:44 | 2022-12-19 | 2023-07-18 |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
+| [Copper sky](https://open.spotify.com/track/6wW9GN0XSNeX0W8Kk9fpn1) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Copper sky](https://open.spotify.com/album/0JWohRAUevr8bZJVKhSNMd) | 2:32 | 2023-10-06 |  |
 | [Create Light](https://open.spotify.com/track/1XXNDjnr5iwz5YAZeuS8rg) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Create Light](https://open.spotify.com/album/2LN3NAxmy8xwhoNBnZXrvw) | 2:35 | 2023-05-05 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
 | [danced](https://open.spotify.com/track/6GYOJV8uOJJZ1t80KNN7mY) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [danced](https://open.spotify.com/album/4kyAbdyIWP6fkpGzVvgA21) | 2:20 | 2023-05-05 |  |
@@ -137,6 +139,7 @@
 | [Moonshadow](https://open.spotify.com/track/1FzT7FLINgoBIF8tAObB22) | [Dear Amore](https://open.spotify.com/artist/3Vr54uV3Ygsd1rlmNZAhd8) | [Moonshadow](https://open.spotify.com/album/0UIz2UEj2SRnVE8NklPAbq) | 2:28 | 2023-09-15 |  |
 | [Morning Dew](https://open.spotify.com/track/5fQsQL1UxdRJ3Nstqg1Ifl) | [Melvin Barker](https://open.spotify.com/artist/5LHH9TZxgk0aHI38pfmqGy) | [Morning Dew](https://open.spotify.com/album/5Ni8TucTmsz6B09o8CaYbv) | 4:00 | 2023-03-31 |  |
 | [Morning Mist](https://open.spotify.com/track/0uYhBh51wIcnaJSBlnqyT7) | [Atlas](https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo) | [Morning Mist](https://open.spotify.com/album/5vENhFGe2JthmCCIxyPyFC) | 2:27 | 2023-09-15 |  |
+| [Mulberry](https://open.spotify.com/track/0YOglzVvXxbxukOXZ61ZaP) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [Pastel Skies](https://open.spotify.com/album/2mdlqHvs5eQm49ZRqBcGZ4) | 2:01 | 2023-10-06 |  |
 | [Narrowed Down](https://open.spotify.com/track/6EancDMLEZXKyGvRWwmzWL) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Narrowed Down](https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T) | 3:03 | 2022-03-30 |  |
 | [Nautilus](https://open.spotify.com/track/0C8xen3Hd4WzIw6XDJGN6L) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 2:51 | 2022-03-30 |  |
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
@@ -218,7 +221,7 @@
 | [The Second Sun](https://open.spotify.com/track/5IzF7aTQ1CHvoq5ifwp75J) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [The Second Sun](https://open.spotify.com/album/7f4BYiovopoUQKVPqRZhQj) | 3:16 | 2022-09-14 |  |
 | [The Way](https://open.spotify.com/track/0p0skXFLMR13GNiroa5cWQ) | [Auðura](https://open.spotify.com/artist/0DE6DqplF6aes6HrDbH29i) | [The Way](https://open.spotify.com/album/3tI5c6YGOY8VFLgaD89kI5) | 2:20 | 2023-04-28 |  |
 | [thelightestbreeze](https://open.spotify.com/track/7tzn02Ocbvy8M10Qmeup6S) | [Axpro Oum](https://open.spotify.com/artist/4XX60hMPnPt7Y90qRP9XgZ) | [thelightestbreeze](https://open.spotify.com/album/7DFijxI7h9XYmK0EzqrxMB) | 2:34 | 2023-04-14 |  |
-| [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 |  |
+| [Thies](https://open.spotify.com/track/3RfjNVMgziqIzos59Vi586) | [Bottle of Stars](https://open.spotify.com/artist/0l5ciixkdvIhJVQFvkrejW) | [Thies](https://open.spotify.com/album/7omeZxsKnZeYzqe03dzWsc) | 3:16 | 2022-03-30 | 2023-10-07 |
 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 | 2022-03-30 | 2023-01-12 |
 | [This Ordinary Life](https://open.spotify.com/track/1MGotIT07umRv2PYorLkhO) | [Northern Wind](https://open.spotify.com/artist/0Ygkex704K6hhGBzs83esJ) | [This Ordinary Life](https://open.spotify.com/album/5uI0QnIVhROGoYsgBIUdxa) | 3:01 | 2023-03-31 |  |
 | [Tides](https://open.spotify.com/track/5cTIWg6DXp6BRFswOhnOpt) | [A Clear Path](https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI) | [Tides](https://open.spotify.com/album/2lXiJjTnNIagnr6pwf3pQN) | 2:35 | 2023-03-17 |  |

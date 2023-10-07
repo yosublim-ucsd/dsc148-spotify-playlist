@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,135 songs - 6 day 0 hr 11 min
+2,136 songs - 6 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,9 +848,9 @@
 | [Guajida](https://open.spotify.com/track/06boJEDPuCNH8HpYUeUIzF) | [Jesus Acosta & The Professionals](https://open.spotify.com/artist/3oxUibMAtErJhtug1TjaIG) | [I Can See Clearly Now b/w Guajida](https://open.spotify.com/album/2xCS2lSm6rW9IkSBSpNJcB) | 3:13 | 2023-09-27 |  |
 | [Guajida](https://open.spotify.com/track/0QkyyRxU801HAhTPtDGYzi) | [Jesus Acosta & The Professionals](https://open.spotify.com/artist/3oxUibMAtErJhtug1TjaIG) | [Cult Cargo: Belize City Boil Up](https://open.spotify.com/album/2pjw16J7dxC2OxE9IXx3ap) | 3:13 | 2022-06-09 | 2022-07-29 |
 | [Guajida](https://open.spotify.com/track/1NhRLzfkjEr4s39xTht1pc) | [Jesus Acosta & The Professionals](https://open.spotify.com/artist/3oxUibMAtErJhtug1TjaIG) | [Cult Cargo: Belize City Boil Up](https://open.spotify.com/album/46Fr2kdOub7hUsctQeSLtm) | 3:13 | 2022-07-27 | 2023-10-02 |
-| [Guajira Con Arpa](https://open.spotify.com/track/0ZanlR9nn3tXTvCPQ0gyyl) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Hugo Blanco](https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 3:07 | 2022-07-27 |  |
+| [Guajira Con Arpa](https://open.spotify.com/track/0ZanlR9nn3tXTvCPQ0gyyl) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [El Palmas](https://open.spotify.com/artist/607tUX31sF7QoJVbCx3r6Y), [Hugo Blanco](https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu) | [Color de Trópico \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/0x29QRFTQuq7LvSwfEDHcz) | 3:07 | 2022-07-27 | 2023-10-07 |
 | [Guajira Con Arpa](https://open.spotify.com/track/01SvKQM4x1dUtvdZxJGLwf) | [Hugo Blanco](https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu) | [Guajira Con Arpa](https://open.spotify.com/album/2THZbZRL2oSxYIRG1jVZYM) | 3:07 | 2022-10-31 | 2022-11-13 |
-| [Guajira Con Arpa](https://open.spotify.com/track/2kO1fDCqg2i4kxel4h2EN9) | [Hugo Blanco](https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu) | [Guajira Con Arpa](https://open.spotify.com/album/4uN860E8tIR8H3wS5mOODb) | 3:07 | 2022-06-09 | 2022-07-29 |
+| [Guajira Con Arpa](https://open.spotify.com/track/2kO1fDCqg2i4kxel4h2EN9) | [Hugo Blanco](https://open.spotify.com/artist/3QggtBYoRVDqpIibHKnMgu) | [Guajira Con Arpa](https://open.spotify.com/album/4uN860E8tIR8H3wS5mOODb) | 3:07 | 2022-06-09 |  |
 | [Guajira Con Soul](https://open.spotify.com/track/2qSk9Tf5RLM82n0TzYZbIM) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [The Bad Boogaloo](https://open.spotify.com/album/1IO27M9pWsfssSfUsa2HlP) | 4:12 | 2022-07-12 | 2022-07-29 |
 | [Guajira con Soul](https://open.spotify.com/track/3R30hktsy99bgEprPCCpWb) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [The Bad Boogaloo](https://open.spotify.com/album/5QUXRAkzHdRyYVlUz6Bh0D) | 4:12 | 2022-07-27 |  |
 | [Guajira Con Soul](https://open.spotify.com/track/1S0XoCkmXIZbuPAD4TQrr0) | [Johnny Ventura y su Combo](https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR) | [Rareza en Guajira](https://open.spotify.com/album/5fztf7NpsCgIIabI23vOWl) | 4:12 | 2022-10-31 | 2022-11-13 |
@@ -1907,6 +1907,7 @@
 | [The Wizard](https://open.spotify.com/track/1uhtnliKhu2PKg3atbczsk) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 3:41 | 2022-07-12 | 2022-09-30 |
 | [Theme from the Godfather](https://open.spotify.com/track/48senMjSrJgtxnWkFJOEE9) | [Professionals](https://open.spotify.com/artist/0XBrvvqvFQ8CtBYjtUAMVe) | [Cult Cargo: Belize City Boil Up](https://open.spotify.com/album/46Fr2kdOub7hUsctQeSLtm) | 4:12 | 2022-07-27 |  |
 | [Theme from the Godfather](https://open.spotify.com/track/7oFE0bt8Cw9wss4x74lZUc) | [Professionals](https://open.spotify.com/artist/0XBrvvqvFQ8CtBYjtUAMVe) | [Cult Cargo: Belize City Boil Up](https://open.spotify.com/album/2pjw16J7dxC2OxE9IXx3ap) | 4:12 | 2022-07-12 | 2022-07-29 |
+| [There Goes My Man](https://open.spotify.com/track/4uuJ1IUsrMqUV06viXxvdH) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Fool](https://open.spotify.com/album/5PQsTMvwPh5SbNhteFxevk) | 3:53 | 2023-10-06 |  |
 | [There's Nothing I Can Do About It](https://open.spotify.com/track/7mJ3AvP0vadGTxSOAhGoHN) | [Mike And The Censations](https://open.spotify.com/artist/7DCyHqwRZmOsSI7Ixn0P2A) | [These Are the Breaks](https://open.spotify.com/album/43Bjkb2eTF9r0moZBa8YRo) | 2:29 | 2022-10-31 | 2022-11-13 |
 | [There's Nothing I Can Do About It](https://open.spotify.com/track/5GsTTFveyY7KNH3lYZcWQh) | [Mike James Kirkland](https://open.spotify.com/artist/7i8I9JnERHRALditUnoC0v) | [Luv N' Haight \(Edit Series: Mike James Kirkland\), Vol.1](https://open.spotify.com/album/1cCDZKjCm03bFHjSnh5qPd) | 2:29 | 2022-07-27 |  |
 | [There's Nothing I Can Do About It](https://open.spotify.com/track/2pvGgCtPATSGRLjSPPIZ5V) | [Mike James Kirkland](https://open.spotify.com/artist/7i8I9JnERHRALditUnoC0v), [Nicolas Jaar and 78 Edits](https://open.spotify.com/artist/0dXzLgwXzfcTswmRkavdHh) | [Luv N' Haight \(Edit Series Vol.1: Mike James Kirkland\)](https://open.spotify.com/album/2LnaUW8q3pw4cJunPH0Yif) | 2:29 | 2022-06-09 | 2022-07-29 |

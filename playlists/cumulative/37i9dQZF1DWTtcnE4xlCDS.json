@@ -3473,6 +3473,32 @@
     },
     {
       "album": {
+        "name": "teardrop 2nd",
+        "url": "https://open.spotify.com/album/1Lijibbmer82LhVL0tpKGV"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        },
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        },
+        {
+          "name": "\u685c\u4e43\u7f8e\u3005\u514e (CV: \u5c0f\u5742\u4e95\u7950\u8389\u7d75)",
+          "url": "https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "teardrop 2nd",
+      "url": "https://open.spotify.com/track/4mTiz8TSXz7wdwxkK64WVk"
+    },
+    {
+      "album": {
         "name": "The Magic of Happiness",
         "url": "https://open.spotify.com/album/2xtXqkPmoILiZUxNnMXwgM"
       },

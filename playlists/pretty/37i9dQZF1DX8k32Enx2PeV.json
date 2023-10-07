@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 7859,
+  "num_followers": 7876,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODQ4YWQ1MjYyOTM0OWI3MzFmNDlmZDUwOTA2YWU3MjFhYjQzOGNh",
+  "snapshot_id": "MCwwMmQxMDY1MzdiMGI5MzFkODlhYWRkOTBhYzM5NzBlOGQ4ZmNlYTBl",
   "tracks": [
     {
       "added_at": "2023-09-22 05:25:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Conexi\u00f3n Total",
-      "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Conexi\u00f3n Total",
+      "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
+      },
+      "artists": [
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/5UqBaTISwlVwyjVZJZP8ec"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/5W6rZxS6qNfdGsnify1ctY"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "ni una foto",
         "url": "https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 192385,
       "name": "ni una foto",
       "url": "https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
-      },
-      "artists": [
-        {
-          "name": "Naty Botero",
-          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
     },
     {
       "added_at": "2023-09-22 05:25:00",
@@ -1047,6 +1047,30 @@
     {
       "added_at": "2023-09-22 05:25:00",
       "album": {
+        "name": "Adi\u00f3s Batata (Cerrero Dub Mix)",
+        "url": "https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo"
+      },
+      "artists": [
+        {
+          "name": "Son Palenque",
+          "url": "https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "El Le\u00f3n Pardo",
+          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+        }
+      ],
+      "duration_ms": 407295,
+      "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
+    },
+    {
+      "added_at": "2023-09-22 05:25:00",
+      "album": {
         "name": "Rumbo a Tiera",
         "url": "https://open.spotify.com/album/3ly8UdrXp9i8tlOiRft6We"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 202888,
       "name": "Azul",
       "url": "https://open.spotify.com/track/7sIE5XUDPjx7W0kygSwQUU"
-    },
-    {
-      "added_at": "2023-09-22 05:25:00",
-      "album": {
-        "name": "Adi\u00f3s Batata (Cerrero Dub Mix)",
-        "url": "https://open.spotify.com/album/7o7iFlxztqfLv1FbaSg8Zo"
-      },
-      "artists": [
-        {
-          "name": "Son Palenque",
-          "url": "https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
-        }
-      ],
-      "duration_ms": 407295,
-      "name": "Adi\u00f3s Batata - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/1VJi7PtheTX2oJYIJZ7bWD"
     },
     {
       "added_at": "2023-09-22 05:25:00",

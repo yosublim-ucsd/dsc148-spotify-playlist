@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Dannylux en portada.
 
-219 songs - 12 hr 28 min
+220 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [La Casa](https://open.spotify.com/track/4lJRxIW4WKjowKQloinr2C) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [La Casa](https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe) | 2:43 | 2022-05-06 | 2023-03-25 |
 | [La Música Puede Llevarte](https://open.spotify.com/track/40v0r3ChshozzYYciCKtgP) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Lo Que Me Haces Sentir](https://open.spotify.com/album/7KhylKVPFvw83sag5eROHg) | 4:37 | 2022-05-06 | 2022-07-29 |
 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 | 2023-02-28 |  |
+| [LA NOTA](https://open.spotify.com/track/26Wn0xpOkIRrFulsjZzuMj) | [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [LA NOTA](https://open.spotify.com/album/3QLxisHqYsMHKqaka1gyEQ) | 2:38 | 2023-10-06 |  |
 | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [La Rosa del Penal \(Llamar\)](https://open.spotify.com/album/0TgnR5s6e8YQMwQEZPvPuh) | 2:50 | 2022-05-06 | 2023-03-25 |
 | [Le Dome](https://open.spotify.com/track/7uKKVNn2svkLSqZur9hnCO) | [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB) | [Le Dome](https://open.spotify.com/album/60TW5MVt9E41QYbJNOQVhu) | 5:27 | 2022-05-06 | 2022-09-12 |
 | [Legoo](https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Legoo](https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS) | 2:28 | 2022-05-06 | 2023-03-25 |

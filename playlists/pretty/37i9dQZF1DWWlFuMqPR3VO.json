@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12903,
+  "num_followers": 12907,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj",
+  "snapshot_id": "MCwwNTdjYTMwYTU5ZWM2MjNiODZlOWJkODZmYzE1Y2JmMjAyY2YwZjNj",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -311,22 +311,6 @@
       "duration_ms": 147440,
       "name": "Well I Done Got Over It",
       "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Alligator",
-        "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -379,6 +363,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Alligator",
+        "url": "https://open.spotify.com/album/7bWzWGdmK5QepRg00IoKDV"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "I Hear You Knockin'!",
         "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Classified (Remixed & Expanded Edition)",
+        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "One For The Highway",
+      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Good Neighbor",
         "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 144800,
       "name": "Accentuate The Positive",
       "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
-      },
-      "artists": [
-        {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Hooked On Your Love",
         "url": "https://open.spotify.com/album/53zsMq7ZaqjdF46y42ctJ1"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 277933,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7vzerXDJCquhoncLgnJtHJ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Louis Armstrong Plays W. C. Handy",
-        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Yellow Dog Blues",
-      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Classified (Remixed & Expanded Edition)",
-        "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
+        "name": "Louis Armstrong Plays W. C. Handy",
+        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
       "artists": [
         {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 154400,
-      "name": "One For The Highway",
-      "url": "https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb"
+      "duration_ms": 255933,
+      "name": "Yellow Dog Blues",
+      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
     },
     {
       "added_at": "2022-03-28 20:10:01",

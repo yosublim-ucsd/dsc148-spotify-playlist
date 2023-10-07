@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "IT GIRL (Sped up Version)",
+        "url": "https://open.spotify.com/album/4OXIscygWnydT362qnaKGK"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "IT GIRL - Sped up Version",
+      "url": "https://open.spotify.com/track/1uwMSX0OAZO5jzX2GqTjYV"
+    },
+    {
+      "album": {
         "name": "It\u2019s Called: Freefall (Rainbow Kitten Surprise) [Sped Up Version]",
         "url": "https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki"
       },
@@ -4491,7 +4509,7 @@
         },
         {
           "name": "Cryjng",
-          "url": "https://open.spotify.com/artist/6p3gd6Lun8nEXrZ2BJtCBM"
+          "url": "https://open.spotify.com/artist/7JTq755rsKBR5quNKYD4Ku"
         }
       ],
       "date_added": "2023-01-18",

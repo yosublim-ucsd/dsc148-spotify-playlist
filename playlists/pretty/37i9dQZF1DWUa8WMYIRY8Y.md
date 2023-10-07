@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Slowdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,688 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,705 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/track/20JIsSw5ZYDg6ikx91vnVV) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [DooM Dance \(feat\. Carpenter Brut, Gavin Rossdale\)](https://open.spotify.com/album/23pEJLlwOx3z0qOw3rT1AY) | 3:36 |
 | 50 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 |
 
-Snapshot ID: `MCxmYTBjNmU2M2Y1YWU3YmI3MmIxOWVhOWFmYjc0NDBkMWEzZTdkOTI2`
+Snapshot ID: `MCw5OGIxODUwZDA1NmE4MjMwNGY4ZDQ0OGU5MTJlMDFkZDQ3Nzg0YmU2`

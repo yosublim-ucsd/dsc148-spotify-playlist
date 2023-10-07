@@ -2,7 +2,7 @@
 
 ### [SABOR](https://open.spotify.com/playlist/37i9dQZF1DWSgM16hVIBq6)
 
-> Dance the night away with your favorite tropical tunes, featuring Marc Anthony.
+> Se prendió la fiesta, featuring Marc Anthony.
 
 201 songs - 14 hr 7 min
 

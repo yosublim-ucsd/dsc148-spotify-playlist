@@ -399,6 +399,28 @@
     },
     {
       "album": {
+        "name": "Ardiendo Lento",
+        "url": "https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176636,
+      "name": "Ardiendo Lento",
+      "url": "https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH"
+    },
+    {
+      "album": {
         "name": "Aroma A Nostalgia",
         "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
       },
@@ -736,7 +758,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226572,
       "name": "Calles de Talcahuano",
       "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
@@ -928,6 +950,28 @@
       "duration_ms": 184226,
       "name": "Claroscuro",
       "url": "https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh"
+    },
+    {
+      "album": {
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "album": {
@@ -2646,7 +2690,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 232706,
       "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
       "url": "https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv"
@@ -4074,7 +4118,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 187699,
       "name": "MORE",
       "url": "https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0"
@@ -6582,6 +6626,24 @@
       "duration_ms": 241898,
       "name": "Vuelve A Empezar Sin M\u00ed",
       "url": "https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4"
+    },
+    {
+      "album": {
+        "name": "V\u00edctimas",
+        "url": "https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238809,
+      "name": "V\u00edctimas",
+      "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
     },
     {
       "album": {

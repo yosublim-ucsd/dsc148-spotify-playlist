@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\ud834\udd22Because bass. Cover: Victor Wooten\ud834\udd22",
+  "description": "Because bass. Cover: Victor Wooten",
   "name": "Bottoms Up",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 138791,
       "name": "Beyond The Rift",
       "url": "https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib"
@@ -552,6 +552,24 @@
       "duration_ms": 401320,
       "name": "Elephants On Ice Skates",
       "url": "https://open.spotify.com/track/0K6pSQ1hwpkIi73on3rqJ6"
+    },
+    {
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/4sdTcc5QzYmZxXcFxYnRdn"
+      },
+      "artists": [
+        {
+          "name": "Charles Berthoud",
+          "url": "https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120032,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/7gv8CzdonKjJkQPgGcGQcz"
     },
     {
       "album": {

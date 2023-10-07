@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,449 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,659 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [I'm Good \(Blue\) \- Gabry Ponte Remix](https://open.spotify.com/track/1Ic76JMsAbHdDscO9ooJm9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [I'm Good \(Blue\) \[Gabry Ponte Remix\]](https://open.spotify.com/album/0yspiEXcvJqcTMScgu04gq) | 2:45 |
 | 50 | [New \- Ryan Riback Remix](https://open.spotify.com/track/6bdZCqyQeoYp7AkdWK1eeb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [New \(Ryan Riback Remix\)](https://open.spotify.com/album/7HjLbfxU3GXwWEanY6pXGj) | 3:26 |
 
-Snapshot ID: `MCxiZWE5MTEwMDMwZTU2ODM3ZjgzNDJkZjRiMmJmM2Q0NDNjYjgyZjE5`
+Snapshot ID: `MCxlZWI5NDViZjAzMWIxNDk2OWNmZGRmM2MxZDM0N2M2ZGNiZWFiZDg0`

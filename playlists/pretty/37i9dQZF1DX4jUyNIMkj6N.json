@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 189711,
+  "num_followers": 189774,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODljNmM3NGYwN2I1MTYwODgxYmEzNGJhNjhiNzU3MzM4ZGQzZDNl",
+  "snapshot_id": "MCxiZjE4MmEyOGEyYjFkYzIyZjBlZDI3YzY1N2M4YjA4MzMyMWM0Y2U5",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 267711,
-      "name": "1989",
-      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 178746,
       "name": "Away",
       "url": "https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 267711,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Norwegian Black Metal",
+        "url": "https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        },
+        {
+          "name": "Ea Othilde",
+          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
+        }
+      ],
+      "duration_ms": 185545,
+      "name": "Norwegian Black Metal",
+      "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Magic Chairs",
         "url": "https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Norwegian Black Metal",
-        "url": "https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        },
-        {
-          "name": "Ea Othilde",
-          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
-        }
-      ],
-      "duration_ms": 185545,
-      "name": "Norwegian Black Metal",
-      "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Your Ghost",
         "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Palomino Deluxe (Child of Summer Edition)",
-        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Angel - Acoustic String Version",
-      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+      "duration_ms": 174553,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
       },
       "artists": [
         {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
         }
       ],
-      "duration_ms": 174553,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
-      },
-      "artists": [
-        {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Svarteboka",
         "url": "https://open.spotify.com/album/34RiGqZ1AlGsAPtecMiclC"
       },
@@ -951,26 +951,6 @@
       "duration_ms": 240360,
       "name": "Svarteboka",
       "url": "https://open.spotify.com/track/5hssjRpOTbxPmWBPTV4KIK"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "We're All The Way",
-        "url": "https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        },
-        {
-          "name": "Christel Alsos",
-          "url": "https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn"
-        }
-      ],
-      "duration_ms": 189632,
-      "name": "We're All the Way",
-      "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1003,6 +983,26 @@
       "duration_ms": 227760,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "We're All The Way",
+        "url": "https://open.spotify.com/album/6uxe99gY0arAqJb6f3TLFq"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        },
+        {
+          "name": "Christel Alsos",
+          "url": "https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn"
+        }
+      ],
+      "duration_ms": 189632,
+      "name": "We're All the Way",
+      "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"
     }
   ],
   "unique_name": "Nordic Folk",

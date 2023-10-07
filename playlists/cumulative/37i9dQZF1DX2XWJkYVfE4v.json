@@ -133,6 +133,28 @@
     },
     {
       "album": {
+        "name": "Destination Paris - Autumn Leaves",
+        "url": "https://open.spotify.com/album/7jtTQZLAzYbH2RTUyYJsfw"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/51bdaCz4HISQ08sb93z6Xs"
+    },
+    {
+      "album": {
         "name": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
         "url": "https://open.spotify.com/album/3sHvm5DrEOV6r2tsQNGlov"
       },
@@ -1132,6 +1154,28 @@
       "duration_ms": 179152,
       "name": "Near Light",
       "url": "https://open.spotify.com/track/49kvaxWkvLCNHka049HuVF"
+    },
+    {
+      "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/1RfMMbOvEdHIscrFZ8OgbI"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        },
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162916,
+      "name": "Night on the Balcony",
+      "url": "https://open.spotify.com/track/1Iksy9DnilSiEjCdDsICKT"
     },
     {
       "album": {

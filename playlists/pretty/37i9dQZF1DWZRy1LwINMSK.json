@@ -1,12 +1,12 @@
 {
   "description": "La casa del trap chileno. Foto: King Savagge & Il Nene De Oro.",
-  "num_followers": 90324,
+  "num_followers": 90433,
   "original_name": "Trapperz Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjUxYWU4YzY3ZmFkZDA5ZTMxNWQ5NzA1NDdlMjJkNmYxNmY2ZTFk",
+  "snapshot_id": "MCwxMzg2YmIwN2VjN2I2NzIwMzY3NDk2YjRlZDA4NjA3ZmJkMDA5Zjkx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -51,6 +51,22 @@
       "duration_ms": 183333,
       "name": "Seguimo Joseando",
       "url": "https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/0OAew01eul7YxIgc2P7dJA"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 123066,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5FrbeoopwtCCEcOh3qp0V8"
     },
     {
       "added_at": "2023-09-15 04:01:00",

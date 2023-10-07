@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DANSAR DOM I HIMMELEN??
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,278 likes - 97 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,416 likes - 97 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 96 | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/track/5VVnrRV8VpJjGlRlQ0NKt7) | [BJØRNES](https://open.spotify.com/artist/0oSU27mh8UZ25AbZ3eC7YB), [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [STUPA I ETT DIKE \(IKVÄLL\)](https://open.spotify.com/album/6kn7eJbPLKRP6EmFW2xnwd) | 2:46 |
 | 97 | [SLUT MED DIG](https://open.spotify.com/track/1jYZAJC6gWTK9Ps68YwI6b) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [SLUT MED DIG](https://open.spotify.com/album/1bGWrWBNfkREIkhPP5LDAJ) | 2:12 |
 
-Snapshot ID: `MCwxYjNhZjU1Nzk4MzM2OGU3OTJjZTYxNzU2YTExNjMyYzk1MmVmOTI0`
+Snapshot ID: `MCxkNTgxYTY0ZjJhNDUzZjE2YTk0OTczOThlMjE1ZWU5MmEzNjRmMmYy`

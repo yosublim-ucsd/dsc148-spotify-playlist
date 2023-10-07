@@ -2,7 +2,7 @@
 
 ### [sentimiento.](https://open.spotify.com/playlist/37i9dQZF1DX4Ghyz32wen4)
 
-> Una selección de temas de amor y desamor, con mucho feeling\. Feid en portada.
+> Una selección de temas de amor y desamor, con mucho feeling\. Quevedo y Saiko en portada.
 
 132 songs - 7 hr 5 min
 

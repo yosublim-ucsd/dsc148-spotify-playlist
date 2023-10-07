@@ -4,7 +4,7 @@
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-58 songs - 2 hr 55 min
+60 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Amable](https://open.spotify.com/track/7pUNfOGqmrjJbSdQT6pYhf) | [Bagno Sonoro](https://open.spotify.com/artist/7nC2s0P8VNSHZtVBdvGWPe) | [Massima Calma](https://open.spotify.com/album/35Ual1h57LWz1JcJBtwJ27) | 3:13 | 2023-09-28 |  |
 | [Ambient Rain](https://open.spotify.com/track/458TLdY9RwkXQaDTSaiLYi) | [chill phil](https://open.spotify.com/artist/05vcu9lox3COSrjc4QpjAp) | [Rain & Thunder \- Ambient Music](https://open.spotify.com/album/0bLBcbcUFNQw66I4MrGtSd) | 2:14 | 2023-09-28 |  |
 | [Beyond Stillness](https://open.spotify.com/track/67PdNBxAbTOC7Tc1siRsrx) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Beyond Stillness](https://open.spotify.com/album/4rdtBWNEGTtROhwD3DCq10) | 2:13 | 2023-09-28 |  |
+| [Bless the rain](https://open.spotify.com/track/4316Vo0mHiEqYZyPaAO8QJ) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Bless the rain](https://open.spotify.com/album/5drsnpcHv3MDvyAFzsANay) | 2:32 | 2023-10-06 |  |
 | [By The Lakehouse](https://open.spotify.com/track/05DFwrJqmwjlv6tcNfuJ3q) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [By The Lakehouse](https://open.spotify.com/album/3gzwA51J94cjdbljjKfVcE) | 3:03 | 2023-09-28 |  |
 | [Cabinessence \(Sound Bath\)](https://open.spotify.com/track/0zE61QnSwzduQyweBA1hr5) | [Aleksy Nowak](https://open.spotify.com/artist/2CXq4IRNqG54c9NBHuBWLw) | [Cabinessence \(Sound Bath\)](https://open.spotify.com/album/7eVsjzBFWYFv2Djm9WzG3K) | 2:30 | 2023-09-28 |  |
 | [Calm Days](https://open.spotify.com/track/3aNwhEA7ykYCnEj4Sf99h4) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Calm Days](https://open.spotify.com/album/2zVPHiw3M08Rtq7QT66FQM) | 2:06 | 2023-09-28 |  |
@@ -46,6 +47,7 @@
 | [Natural Spirit](https://open.spotify.com/track/0mWtYOhlnlUsVLCO1opzLJ) | [Spiritualizer](https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C) | [Natural Spirit](https://open.spotify.com/album/3oDBpldNDHsvRAoFcMAkNo) | 2:48 | 2023-09-28 |  |
 | [Pravaah](https://open.spotify.com/track/77Fh1GDyA2ZW5NCe9yCTR8) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Pravaah](https://open.spotify.com/album/6GaachOqzYq44kStPLeLBd) | 2:46 | 2023-09-28 |  |
 | [Rain Cleanse](https://open.spotify.com/track/3s90wLosZi7wuOowbk8qKn) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Infinite](https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1) | 2:41 | 2023-09-28 |  |
+| [Rain Dreamer](https://open.spotify.com/track/7KhXKmFezMJ7PqAfBt0XfH) | [Glacier Wave](https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN) | [Rain Dreamer](https://open.spotify.com/album/0I0Z0Rs9nmAim5d77xU36N) | 3:05 | 2023-10-06 |  |
 | [Rainfall](https://open.spotify.com/track/1JijyH27FEgUfQI6VJ39hQ) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Rainfall](https://open.spotify.com/album/5doTmyH5erYnc3GMQwZVgX) | 2:31 | 2023-09-28 |  |
 | [Recalibrated Mind](https://open.spotify.com/track/4VmbFJJGKSKxWkO1L6z0Ca) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Crystal Sound Bath Sanctuary](https://open.spotify.com/album/0F9ckcZjOUN0mvg1tU2yil) | 3:28 | 2023-09-28 |  |
 | [Retrospection](https://open.spotify.com/track/4An4WDJ8b9GX9oR6qOiIyY) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Retrospection](https://open.spotify.com/album/2gVUUXlyossh8kZYUaKZYH) | 2:55 | 2023-09-28 |  |

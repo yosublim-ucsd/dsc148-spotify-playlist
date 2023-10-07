@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Ferreck Dawn
+> The biggest house bangers popping off in the UK, let's go! Arielle Free
 
-608 songs - 1 day 12 hr 7 min
+610 songs - 1 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/3PkiB253ErJjaAfsiDm7Kk) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Can’t Get Enough](https://open.spotify.com/album/1oKRqKeB5whEFhn3ceXIgo) | 3:30 | 2021-12-17 | 2022-02-18 |
 | [Can't Grumble](https://open.spotify.com/track/6r7CKP0iNCHkYxJYuiNjH7) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Can't Grumble](https://open.spotify.com/album/0xoplHdK3KXDdDjbNr6V8H) | 3:00 | 2023-03-03 | 2023-07-21 |
 | [Can't Help U](https://open.spotify.com/track/79zAJa2VTxDkzAj1BrvVpn) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Can't Help U](https://open.spotify.com/album/3PaKSgJ1bnI6u53LbiPkES) | 3:45 | 2022-05-06 | 2022-07-30 |
-| [Can't Let Go](https://open.spotify.com/track/0tAZfq3M0QkF12UsbVyFzy) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Jess Kidd](https://open.spotify.com/artist/00PPjSt954K0mT5tDgfOan) | [Can't Let Go](https://open.spotify.com/album/0rEUHc40q7gBNzhnT3zX78) | 6:49 | 2023-07-06 |  |
+| [Can't Let Go](https://open.spotify.com/track/0tAZfq3M0QkF12UsbVyFzy) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Jess Kidd](https://open.spotify.com/artist/00PPjSt954K0mT5tDgfOan) | [Can't Let Go](https://open.spotify.com/album/0rEUHc40q7gBNzhnT3zX78) | 6:49 | 2023-07-06 | 2023-10-07 |
 | [Can't Stop Thinking About You](https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Can’t Stop Thinking About You](https://open.spotify.com/album/75HTnkSTvIf4r4UtOjRLKo) | 3:45 | 2023-01-13 | 2023-04-07 |
 | [Can't You See \- Radio Edit](https://open.spotify.com/track/6zRBMIDHnuuvWyaumNNcQF) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Can't You See](https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy) | 3:22 | 2022-04-15 | 2022-07-08 |
 | [Care Less \(feat\. Mafro\)](https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4) | [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Care Less \(feat\. Mafro\)](https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee) | 3:05 | 2023-03-24 | 2023-09-08 |
@@ -156,6 +156,7 @@
 | [DRMR](https://open.spotify.com/track/4UgVrmgkzGFf6eQQEfUd1r) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [DRMR](https://open.spotify.com/album/3m0QwDurxW1DYa0Vb0LWN3) | 5:00 | 2022-06-16 | 2022-07-22 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-09-22 | 2022-12-03 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-25 | 2022-09-30 |
+| [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 |  |
 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-03 |  |
 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 | 2023-06-09 | 2023-07-14 |
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-07-06 | 2022-09-23 |
@@ -579,7 +580,7 @@
 | [Unusual](https://open.spotify.com/track/4ZNhYJ1LLd4m6ZZ6aZ2eFn) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Unusual](https://open.spotify.com/album/5wyTGzXZJvp4Wc8nJ8IvHF) | 3:17 | 2022-07-07 | 2022-10-28 |
 | [Verde](https://open.spotify.com/track/6Zr4nhKCUeAjttMntltVkk) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Verde](https://open.spotify.com/album/4oXLvrJLs0TgvJgNL1KpxF) | 4:52 | 2022-11-04 | 2023-04-14 |
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 |  |
-| [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-02 |  |
+| [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-02 | 2023-10-07 |
 | [Voices](https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Voices](https://open.spotify.com/album/016CiaX63Hugtj7w1IKcJz) | 3:40 | 2023-02-03 | 2023-07-21 |
 | [Voices](https://open.spotify.com/track/58jkrdRSuprEZJJ9V21BpM) | [James iD](https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS) | [Voices](https://open.spotify.com/album/4udoGwIaDyavjgzFNu0Dcy) | 3:31 | 2022-04-08 | 2022-07-07 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-03-10 | 2023-09-22 |
@@ -614,6 +615,7 @@
 | [You Give Me A Feeling](https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [You Give Me A Feeling](https://open.spotify.com/album/4N1rhGq5PivmmavHBBDz12) | 3:05 | 2021-12-17 | 2022-04-02 |
 | [You Make Me Feel](https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [You Make Me Feel](https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as) | 3:23 | 2022-05-27 | 2022-07-21 |
 | [Your Dreams](https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Your Dreams](https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc) | 2:31 | 2022-02-07 | 2022-05-06 |
+| [You’re So High \(10 Years On\)](https://open.spotify.com/track/59wygKiI3oZ1dQNlClWzeP) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [You’re So High \(10 Years On\)](https://open.spotify.com/album/08iIEsoNGBA4Q8oI3SDiDC) | 4:32 | 2023-10-06 |  |
 | [Zora \- Radio Edit](https://open.spotify.com/track/4XRyFcREciTdfxHHCHK5ax) | [Phil Harris](https://open.spotify.com/artist/06icPsYb2sw6FlJKYhwsv0) | [Zora \(Radio Edit\)](https://open.spotify.com/album/22LYpuTROMwPa2mctJXbLh) | 2:40 | 2023-07-06 | 2023-09-29 |
 | [Zorro](https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Zorro](https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch) | 3:36 | 2022-09-01 | 2022-11-11 |
 

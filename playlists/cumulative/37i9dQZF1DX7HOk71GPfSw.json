@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Cover: Hannah Diamond",
+  "description": "dorian alert",
   "name": "hyperpop",
   "tracks": [
     {
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 197538,
       "name": "better outside",
       "url": "https://open.spotify.com/track/3mRcJdUeBCT3z3toRxnPh4"
@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 130560,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
@@ -7218,7 +7218,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 96000,
       "name": "Contest",
       "url": "https://open.spotify.com/track/2tBihXIDl8dkIVd6qoGK7A"
@@ -9176,7 +9176,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 158117,
       "name": "dr34m3r",
       "url": "https://open.spotify.com/track/1EzIRJUKNOKl2jRDBoKOZL"
@@ -9820,6 +9820,32 @@
       "duration_ms": 117408,
       "name": "Eieio",
       "url": "https://open.spotify.com/track/7s2b8nis9iSoaBHOoTxzn9"
+    },
+    {
+      "album": {
+        "name": "Elysian Park",
+        "url": "https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        },
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Elysian Park",
+      "url": "https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64"
     },
     {
       "album": {
@@ -11995,6 +12021,24 @@
     },
     {
       "album": {
+        "name": "GFOTYBUCKS",
+        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
+      },
+      "artists": [
+        {
+          "name": "GFOTY",
+          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
+    },
+    {
+      "album": {
         "name": "drive-by lullabies",
         "url": "https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05"
       },
@@ -12050,7 +12094,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 130615,
       "name": "FruitNinja.ipa",
       "url": "https://open.spotify.com/track/0Ukv1JUvVApUcleaxS8xvb"
@@ -13580,6 +13624,28 @@
       "duration_ms": 174656,
       "name": "good things",
       "url": "https://open.spotify.com/track/2QwZiXrFmyPjgGh9akgfid"
+    },
+    {
+      "album": {
+        "name": "good things 2 (with tana)",
+        "url": "https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/4QZVVLf3qrubL7BI5cbcIG"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174656,
+      "name": "good things 2 (with tana)",
+      "url": "https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr"
     },
     {
       "album": {
@@ -16548,7 +16614,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 208175,
       "name": "i'm so tired",
       "url": "https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp"
@@ -16886,6 +16952,24 @@
       "duration_ms": 135300,
       "name": "Idol",
       "url": "https://open.spotify.com/track/4WfQvP6lj8CKTspnFUUq38"
+    },
+    {
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145414,
+      "name": "Idolize",
+      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
     },
     {
       "album": {
@@ -22795,6 +22879,24 @@
     },
     {
       "album": {
+        "name": "No.1 Crush",
+        "url": "https://open.spotify.com/album/5VtLOIjLEdC0izqKvTqE6b"
+      },
+      "artists": [
+        {
+          "name": "nil00",
+          "url": "https://open.spotify.com/artist/3TADf84189Yznq4sPkRrXs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118333,
+      "name": "No.1 Crush",
+      "url": "https://open.spotify.com/track/4GFfewzz3DGvsPowTn7no1"
+    },
+    {
+      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -23892,7 +23994,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 189000,
       "name": "Open",
       "url": "https://open.spotify.com/track/1N3GP64durAzTxsSELqX9i"
@@ -24878,7 +24980,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 254119,
       "name": "Pink flame",
       "url": "https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t"
@@ -26688,7 +26790,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 117438,
       "name": "Red Eye",
       "url": "https://open.spotify.com/track/35U5ZWVge94oHMCOAwwWYf"
@@ -34217,6 +34319,24 @@
     },
     {
       "album": {
+        "name": "Undo U",
+        "url": "https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122204,
+      "name": "Undo U",
+      "url": "https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU"
+    },
+    {
+      "album": {
         "name": "undo(ctrl+z)",
         "url": "https://open.spotify.com/album/7s6FKkJSGtT1P8hUneJvxG"
       },
@@ -35354,7 +35474,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "welcome to the plant cell bath",
       "url": "https://open.spotify.com/track/0ZcfKkYG7QcXouXpPNhiDo"

@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-145 songs - 8 hr 13 min
+146 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Balada para un Loco](https://open.spotify.com/track/4wJr6OTtHaPlq7MWhKMKxw) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [El Nuevo Rumbo](https://open.spotify.com/album/1KGQqsIDFBur5kKWuOa3z7) | 5:37 | 2022-03-18 | 2022-07-29 |
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2022-03-18 |  |
 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 | 2022-03-18 |  |
-| [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 |  |
+| [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 | 2023-10-07 |
 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 | 2023-08-22 |
 | [Cafetín De Buenos Aires](https://open.spotify.com/track/6kAwFibVpTv18fdjBTI57S) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Cuarenta Obras Fundamentales](https://open.spotify.com/album/4yrpuF07ee39tCE3mfeXfs) | 2:51 | 2022-03-18 | 2022-07-29 |
 | [Cambalache \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/2cebuDRXBsi89lb1Jz3TFs) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:04 | 2022-03-18 |  |
@@ -60,6 +60,7 @@
 | [El Ultimo Café \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:05 | 2022-03-18 |  |
 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 | 2022-03-18 |  |
 | [Escualo \- Remastered](https://open.spotify.com/track/0UuOfhMNXEtTRckg7SltxU) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [Verano Porteño \(Remastered\)](https://open.spotify.com/album/0GelTIz0kebUk598Cg8Ftq) | 3:23 | 2022-03-18 | 2022-07-28 |
+| [Esperarte](https://open.spotify.com/track/1zAoX7MQEhFn1hXJqCUAmJ) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Esperarte](https://open.spotify.com/album/5I0dw9jdaRbYmEPV63nNMT) | 3:25 | 2023-10-06 |  |
 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 | 2022-03-18 |  |
 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 | 2022-03-18 |  |
 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 | 2022-03-18 |  |

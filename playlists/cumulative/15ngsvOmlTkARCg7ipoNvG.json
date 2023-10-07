@@ -4641,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "Dona Nobis Pacem Arr. For Grand Piano",
+        "url": "https://open.spotify.com/album/2VVdmXV3QuwhF5u8GUw7gV"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63803,
+      "name": "Dona Nobis Pacem Arr. For Grand Piano",
+      "url": "https://open.spotify.com/track/6vZ8hY7sGgenfJqTKcI7bw"
+    },
+    {
+      "album": {
         "name": "Eternal Sky",
         "url": "https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX"
       },
@@ -18500,6 +18518,24 @@
       "duration_ms": 64235,
       "name": "Winter Dreamscape",
       "url": "https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K"
+    },
+    {
+      "album": {
+        "name": "Winter Joy (Cello Version)",
+        "url": "https://open.spotify.com/album/3aKy1dE8T76fPsnpNKVItx"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61258,
+      "name": "Winter Joy - Cello Version",
+      "url": "https://open.spotify.com/track/3lSCFg0RTevXxghYTTyMoI"
     },
     {
       "album": {

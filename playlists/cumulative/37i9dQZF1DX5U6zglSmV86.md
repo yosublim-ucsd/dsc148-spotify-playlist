@@ -4,7 +4,7 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-73 songs - 4 hr 39 min
+75 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 | 2023-08-04 |  |
 | [Ilegal](https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9) | [Don Tkt Hemafia](https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw), [69 Lokos](https://open.spotify.com/artist/4sJC9ncqXO3ulcAhomHevu), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Ilegal](https://open.spotify.com/album/5xdzsNhg4IP4FXUMiT70Be) | 4:27 | 2023-09-29 |  |
 | [La Bachona](https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [La Bachona](https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye) | 2:51 | 2023-09-01 |  |
+| [La Calle Llora](https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB) | [Made X La Calle](https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Alexis Linares](https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4), [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI), [Kush](https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh), [Skubby.V](https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m) | [La Calle Llora](https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC) | 4:50 | 2023-10-06 |  |
 | [La Cara de Loco](https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 2:47 | 2023-08-04 |  |
 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 | 2023-08-04 |  |
 | [La Mision 3](https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [La Mision 3](https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6) | 4:42 | 2023-08-04 |  |
@@ -56,6 +57,7 @@
 | [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-08-04 |  |
 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 | 2023-08-04 |  |
 | [No Cambio](https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ) | [Mudo Beats](https://open.spotify.com/artist/1TDWRnXFEYnOO4gUn1ZXN1), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Vizual Dealer](https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY) | [No Cambio](https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU) | 5:30 | 2023-08-04 |  |
+| [No Tengo Cura](https://open.spotify.com/track/6lk6v8pYFjDbMxYZVMpHPR) | [Chikano Jcr](https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC), [Maniako](https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3) | [No Tengo Cura](https://open.spotify.com/album/1Jx62LgAEuVk0PRRwk4g6S) | 3:26 | 2023-10-06 |  |
 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 | 2023-08-04 |  |
 | [Otra Bala](https://open.spotify.com/track/6aSyWYtMLf7S3XyOkZPvbo) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Otra Bala](https://open.spotify.com/album/3wXuxf14i0TeW7XUy01Xgu) | 3:08 | 2023-08-04 |  |
 | [Pa Arriba](https://open.spotify.com/track/7eQMkuflKhCY1MDHriexeo) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [Pa Arriba](https://open.spotify.com/album/2rXzKNVYlPsgEN4yYUVy33) | 2:58 | 2023-08-04 |  |

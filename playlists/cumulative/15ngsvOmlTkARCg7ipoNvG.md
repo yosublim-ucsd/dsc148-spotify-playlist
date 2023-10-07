@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,044 songs - 23 hr 15 min
+1,046 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Divided](https://open.spotify.com/track/6ZsneTepMm115P6isojL6R) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Divided](https://open.spotify.com/album/1s5iJHPOqx0gCVVwwXR82B) | 2:11 | 2022-01-12 |  |
 | [Do We Wake](https://open.spotify.com/track/5nEvhoKxYs665DDlRyhtrU) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Do We Wake](https://open.spotify.com/album/3Dc0xwwuSUKPQ0FxuuN8VZ) | 3:36 | 2022-01-12 |  |
 | [Dona Nobis Pacem \- Ambient Piano Version](https://open.spotify.com/track/6uL24uD7DAqmuJJgPlnxAj) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dona Nobis Pacem \(Ambient Piano Version\)](https://open.spotify.com/album/6oDmNKWzW3nS1sYg3OldYH) | 1:01 | 2023-09-17 |  |
+| [Dona Nobis Pacem Arr\. For Grand Piano](https://open.spotify.com/track/6vZ8hY7sGgenfJqTKcI7bw) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Dona Nobis Pacem Arr\. For Grand Piano](https://open.spotify.com/album/2VVdmXV3QuwhF5u8GUw7gV) | 1:03 | 2023-10-06 |  |
 | [Doorways](https://open.spotify.com/track/0x1yZZapJzD58BXSdvvaVE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Eternal Sky](https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX) | 1:01 | 2022-05-17 |  |
 | [Doves](https://open.spotify.com/track/1V1XmnRJBDg0zX88ZqLHRG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:53 | 2022-01-12 |  |
 | [Dreaming In Color](https://open.spotify.com/track/2iu4AUVDOtM0We0x66fEs3) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:02 | 2022-03-11 |  |
@@ -1031,6 +1032,7 @@
 | [Winter Afternoon Dreams](https://open.spotify.com/track/7oiZPTvoNEMu74wh3jYkAg) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Winter Afternoon Dreams](https://open.spotify.com/album/77yTybaDwDuOSKBEdzEl8B) | 1:01 | 2023-01-10 |  |
 | [Winter Dreams](https://open.spotify.com/track/7x9qvMCDgjmTP9pbIsmJKj) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Winter Dreams](https://open.spotify.com/album/2QAa1S8RsaQ2GQwBfQPgO7) | 2:26 | 2022-01-12 |  |
 | [Winter Dreamscape](https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 |  |
+| [Winter Joy \- Cello Version](https://open.spotify.com/track/3lSCFg0RTevXxghYTTyMoI) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Winter Joy \(Cello Version\)](https://open.spotify.com/album/3aKy1dE8T76fPsnpNKVItx) | 1:01 | 2023-10-06 |  |
 | [Winter Joy Arr\. For Felt Piano](https://open.spotify.com/track/2Q7XjnRsbbKgsYN20oSoPe) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Felt Piano Lullabies](https://open.spotify.com/album/32PpJ7q4DdWKYEiy0EtRLw) | 1:00 | 2023-07-06 |  |
 | [Winter Night Dreaming](https://open.spotify.com/track/1qwNOmRur3omktx18WaMLP) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Night Dreaming](https://open.spotify.com/album/7IARHzklJ27xLT4SanosIv) | 1:01 | 2022-11-26 |  |
 | [Winter Nights](https://open.spotify.com/track/1a66JrFqufh32uT7FGv3D6) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Seasons](https://open.spotify.com/album/336oLXBbHOoXUMlolO0knz) | 2:11 | 2022-01-12 |  |

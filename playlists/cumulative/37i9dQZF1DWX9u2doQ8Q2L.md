@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,013 songs - 2 day 14 hr 35 min
+1,015 songs - 2 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Mabushii Sekai](https://open.spotify.com/track/7urd5ed6VVT9s3g1fVZL5p) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Mabushii Sekai](https://open.spotify.com/album/1rMfgMG2eMuqFjPpmCUdCC) | 5:20 | 2022-11-24 | 2022-12-07 |
 | [Machagama \(平安名のマチャガマ\)](https://open.spotify.com/track/4Qxwp7wq2tpbnrmHIJaxl8) | [HARIKUYAMAKU](https://open.spotify.com/artist/2RANRmuadtyn5Pb3bX1Ih0) | [Machagama](https://open.spotify.com/album/0Gb5oTPO3RCY64SztMHhes) | 4:20 | 2023-07-18 | 2023-07-26 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
+| [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 |  |
 | [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/2JkklrsIvVWkk80uuUo4SA) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/6r8hh6x975jAzS4Mi3OD3u) | 3:38 | 2022-09-21 | 2022-10-21 |
 | [Magic Mirror feat\. AAAMYYY, TENDRE](https://open.spotify.com/track/6gEYqzu9uNwLHrtYHURAml) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Circus](https://open.spotify.com/album/4Ii8q4sE5ZtQ7XnZAd6KqQ) | 3:38 | 2022-09-20 | 2022-09-22 |
 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 | 2022-09-30 |
@@ -590,6 +591,7 @@
 | [Shady Bitch](https://open.spotify.com/track/6VAnUL6Btt9kSaRKc32HWZ) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl) | [Shady Bitch](https://open.spotify.com/album/6GSJnk3Xg91cdfBdLFs5Bd) | 5:08 | 2023-09-12 | 2023-10-04 |
 | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-17 | 2023-08-23 |
 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 | 2022-09-13 | 2022-10-22 |
+| [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-10-05 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-27 | 2023-02-15 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-01-24 | 2023-06-07 |
 | [short short](https://open.spotify.com/track/3GsUIqbzPxQPhYcBGchpWu) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [short short](https://open.spotify.com/album/2vT5XBZqx4iOmzqk7vRsuK) | 3:22 | 2022-12-06 | 2022-12-28 |
@@ -834,7 +836,7 @@
 | [ほのめかし](https://open.spotify.com/track/3hoeVSC5c2wDbCRV7uiK92) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [ほのめかし](https://open.spotify.com/album/1KQEzVgtOlVKjA9gWv3iUE) | 3:41 | 2023-07-26 | 2023-07-27 |
 | [またね](https://open.spotify.com/track/3b9eglykqfxtTaSpSidP9u) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [またね](https://open.spotify.com/album/4ZAqpzyaWQ5nJG9YgSDVsv) | 3:36 | 2023-03-14 | 2023-08-16 |
 | [まつり](https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [まつり](https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5) | 3:45 | 2022-05-26 | 2023-06-14 |
-| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 |  |
+| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 | 2023-09-20 |  |
 | [わたしは拒絶する](https://open.spotify.com/track/44W2lLgDqbP06m3d9JiW5x) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [わたしは拒絶する](https://open.spotify.com/album/2o67tneHxUqu03nqENYij1) | 3:47 | 2023-09-06 | 2023-09-09 |
 | [エジソン](https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [招き猫 / エジソン](https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa) | 3:13 | 2022-07-07 | 2022-07-29 |
@@ -936,7 +938,7 @@
 | [宝船](https://open.spotify.com/track/7kJ8JbfuFYKF1IUiyWUsvp) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [宝船](https://open.spotify.com/album/7o8SgwRmF7fLqKWyMDuSqK) | 4:33 | 2023-07-20 | 2023-07-26 |
 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
-| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 |  |
+| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2023-10-07 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2022-11-08 | 2023-01-18 |
 | [後光](https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [後光](https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg) | 3:24 | 2023-07-26 |  |
 | [微熱](https://open.spotify.com/track/5J1J23if5Y1Hzb7kqCNzyC) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [微熱](https://open.spotify.com/album/6gVBOfnwKrMvau7I4u90BL) | 4:22 | 2022-05-26 | 2022-07-06 |

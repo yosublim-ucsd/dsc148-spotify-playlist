@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-226 songs - 11 hr 35 min
+227 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BIEN O MAL](https://open.spotify.com/track/4n0MBJuHpZ9dnD1BtsOIxB) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 2:56 | 2022-05-12 |  |
 | [Bon Appétit](https://open.spotify.com/track/3Ej1Dmfevd7EYIWcKbbAcK) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Bon Appétit](https://open.spotify.com/album/62blDJznrMxkPNK60YQgHG) | 2:40 | 2021-11-26 |  |
 | [Buska](https://open.spotify.com/track/4zlFO8LSYmzttjwm8K5TOi) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Buska](https://open.spotify.com/album/5mlk2pOB2lzcUvOOHa2RDm) | 3:01 | 2021-11-26 | 2023-04-29 |
+| [Búscame](https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Búscame](https://open.spotify.com/album/11NTTKfT7MWt8g8na0JZ06) | 3:44 | 2023-10-06 |  |
 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 | 2022-04-11 |  |
 | [Callar Lo Que Siento](https://open.spotify.com/track/5xFuu6Io7zyxiNPLdmYe0X) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd) | [Callar Lo Que Siento](https://open.spotify.com/album/0g4wmnw7flK30K2KyLAn07) | 2:38 | 2021-11-26 | 2022-03-12 |
 | [CANGURO](https://open.spotify.com/track/4wyNKAZe82BNlp2lHiR1FX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [CANGURO](https://open.spotify.com/album/7EFoBWXYfQ6QmA5wsxjl4s) | 3:16 | 2021-11-26 |  |
@@ -127,7 +128,7 @@
 | [La Cara Del Barrio](https://open.spotify.com/track/5CRqtYLTHXpNwztvaEW29C) | [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [La Cara Del Barrio](https://open.spotify.com/album/615IhDA8nIoq89V0qLzsvV) | 2:40 | 2023-05-12 | 2023-08-26 |
 | [La Vibe](https://open.spotify.com/track/3YCMLVzfHHZIcuQTjoeVGg) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [La Vibe](https://open.spotify.com/album/1x2JTHTEXqF5XvadfXOujT) | 3:15 | 2023-04-24 |  |
 | [LLENO DE ZAFIROS](https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:40 | 2021-11-26 |  |
-| [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 | 2022-03-11 |  |
+| [Lo Importante](https://open.spotify.com/track/4GRrsacA6p5AqwZMYwmjQS) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [No Name](https://open.spotify.com/artist/4D58BLqL09mSKPaQy2xAno), [Sonhorus](https://open.spotify.com/artist/5dDZwuxurOnCyKgxJmFGKB) | [Lo Importante](https://open.spotify.com/album/5iVQhgHm6DKSf9BTJnQIRg) | 3:05 | 2022-03-11 | 2023-10-07 |
 | [Lo Que Se Fue](https://open.spotify.com/track/5LEssCmCg4xpjySBOGiuQQ) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Lo Que Se Fue](https://open.spotify.com/album/5iPNnC9h8e3appfs7SsfJk) | 3:45 | 2023-06-09 |  |
 | [Los Pumas](https://open.spotify.com/track/4yN6f9onu86pSfpayG7ryc) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Los Pumas](https://open.spotify.com/album/2Q95rrB6nNBee2PXD2hGnD) | 2:38 | 2023-08-25 |  |
 | [Low La](https://open.spotify.com/track/7tWS3WOhV4OErtDDB7YE65) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c), [T&K](https://open.spotify.com/artist/2SMK4TrK8djKN6CuunZpcr), [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Low La](https://open.spotify.com/album/2YNDW8yGbk1ITM68xgLatS) | 4:02 | 2021-11-26 |  |

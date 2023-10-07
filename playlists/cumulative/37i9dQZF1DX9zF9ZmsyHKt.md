@@ -4,7 +4,7 @@
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-210 songs - 12 hr 21 min
+211 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2021-10-15 |  |
 | [Cafeína](https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Cafeína](https://open.spotify.com/album/5NmVr6admdym5ik1G7v5Lo) | 3:11 | 2021-10-15 | 2022-07-29 |
 | [Cafeína](https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv) | 3:11 | 2021-10-15 | 2023-09-21 |
+| [Cafeína](https://open.spotify.com/track/5FWVI1VWVmEuuzP5pVjJ6d) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [De Cabeça Pra Baixo](https://open.spotify.com/album/2mgNZSUNUVTsnjMWQflmd5) | 3:11 | 2022-10-07 |  |
 | [Cafofo da Surica](https://open.spotify.com/track/15rXpXgdKFurbiTE2lGEzJ) | [Tia Surica](https://open.spotify.com/artist/7aSYRWqbMKGDQXsfjBnYTh), [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Tia Surica](https://open.spotify.com/album/0C0Ol1nrSlnY4hnSYSyPHt) | 3:08 | 2021-10-15 | 2022-07-29 |
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2021-10-15 |  |
 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 | 2021-10-15 |  |
@@ -75,7 +76,7 @@
 | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [E Nós Tem um Charme Que É da Hora](https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy) | 3:17 | 2021-10-15 |  |
 | [Empate](https://open.spotify.com/track/4iKIpH3IuU153VBxRgvvlI) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Empate](https://open.spotify.com/album/3YSm45Hf6SXCzjbYiQ1nHI) | 2:30 | 2021-10-15 | 2022-07-28 |
 | [Empoderada](https://open.spotify.com/track/3VUVVKwHljrks6y6oNVpE4) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Empoderada](https://open.spotify.com/album/2R2kp1iansPl2JUa4Gal01) | 1:59 | 2021-10-15 | 2022-06-16 |
-| [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 | 2021-10-15 |  |
+| [Encantos de Sereia](https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob) | [Ceumar](https://open.spotify.com/artist/4lTstEgQJelAPnmAuNg5Nu) | [Silencia](https://open.spotify.com/album/4Yft0S0ZM9u4m7AlN5wzkF) | 4:10 | 2021-10-15 | 2023-10-07 |
 | [Encosta na Parede](https://open.spotify.com/track/7DrHxbU4ILRGyyDqDM10qJ) | [Tamara Franklin](https://open.spotify.com/artist/5Y9dtVLdhTkabuDGfFgerX), [Berêta](https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq) | [Fugio \- Rotas de Fuga Pro Aquilombamento](https://open.spotify.com/album/0iuNUkTeaYvpOquMn6WhaY) | 4:03 | 2021-10-15 | 2022-07-29 |
 | [Entre as Arvores](https://open.spotify.com/track/0GIBD1ORJ9AVmB17zqbPwe) | [Iara Rennó](https://open.spotify.com/artist/2feEGmwdkpKsC798UP17tX), [M\. Takara](https://open.spotify.com/artist/7q5WNXMCIqlce5fgijxDtB) | [AfrodisíacA](https://open.spotify.com/album/6CFRtIVPJT7NnkIt6iDAlw) | 3:55 | 2021-10-15 | 2022-07-29 |
 | [Envolvimento](https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs) | [MC Loma e As Gêmeas Lacração](https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u) | [Envolvimento](https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv) | 2:26 | 2021-10-15 |  |

@@ -2923,7 +2923,7 @@
     },
     {
       "album": {
-        "name": "Bana Ba (feat. Shaunmusiq & Ftears)",
+        "name": "Bana Ba (feat. Shaunmusiq, Ftears, Tyla & TitoM)",
         "url": "https://open.spotify.com/album/6hUbvBuO0lhjRLldlvXUFi"
       },
       "artists": [
@@ -2938,13 +2938,21 @@
         {
           "name": "Ftears",
           "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
         }
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 365342,
-      "name": "Bana Ba (feat. Shaunmusiq & Ftears)",
+      "name": "Bana Ba (feat. Shaunmusiq, Ftears, Tyla & TitoM)",
       "url": "https://open.spotify.com/track/0kjzHOp1ap6wrJYCZevhVG"
     },
     {
@@ -16132,15 +16140,15 @@
           "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
         },
         {
-          "name": "LeeMccrazy",
-          "url": "https://open.spotify.com/artist/6wW021CPQBQdYFVDwIWgA5"
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
         }
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 385731,
-      "name": "Mratata (feat. LeeMccrazy)",
+      "name": "Mratata (feat. Leemckrazy)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {

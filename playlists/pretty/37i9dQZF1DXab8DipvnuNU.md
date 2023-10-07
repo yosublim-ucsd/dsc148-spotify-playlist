@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,940 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,964 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 70 | [Barre Baby \(feat\. Ronnetta Spencer\)](https://open.spotify.com/track/1NVv0XLVxypQEuoQa4bjAQ) | [Big Moe](https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr) | [City Of Syrup](https://open.spotify.com/album/6WqHRoNaFwM6K5KkTsQPGn) | 2:59 |
 | 71 | [Getto Jam](https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx) | [Domino](https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1) | [Domino](https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR) | 4:19 |
 | 72 | [The Choice Is Yours](https://open.spotify.com/track/1I1ycyokEiLqNHeRR3c63i) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 3:23 |
-| 73 | [Southside](https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Don't Mess Wit Texas](https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN) | 4:50 |
-| 74 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
+| 73 | [I Know You Got Soul](https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:44 |
+| 74 | [Southside](https://open.spotify.com/track/7kkOuhyWcINZMDh4QGVyMB) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T) | [Don't Mess Wit Texas](https://open.spotify.com/album/7zys39FMYPFyJkob8RYzJN) | 4:50 |
 | 75 | [Trap Or Die](https://open.spotify.com/track/4JHpFKUFC7uVzaXBBhjQeD) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:00 |
 | 76 | [It's a Party \(feat\. Zhane\)](https://open.spotify.com/track/0Ml8PkxnlGUrrMPpJWPBc3) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:37 |
 | 77 | [Bout It, Bout It II](https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt) | [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW), [Mia X](https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu) | [Ice Cream Man](https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL) | 5:08 |
 | 78 | [The Way We Ball](https://open.spotify.com/track/5FEBritagmW6iAy5wL5uXg) | [Lil' Flip](https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS) | [Undaground Legend \(Explicit\)](https://open.spotify.com/album/5GkzesERHAJvYGw3L5r4qm) | 4:43 |
-| 79 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
-| 80 | [Friends](https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:39 |
-| 81 | [Space Age Pimpin'](https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE) | [8Ball & MJG](https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq) | [On Top Of The World](https://open.spotify.com/album/2UBBDl07r4miPVFPp0OMCX) | 5:10 |
-| 82 | [Like A Boss](https://open.spotify.com/track/5Z4LYEHH8PmYKU2NEK672L) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 3:18 |
+| 79 | [Friends](https://open.spotify.com/track/2GLDYbNCRgsZTBhrBqhdm0) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz) | 4:39 |
+| 80 | [Space Age Pimpin'](https://open.spotify.com/track/1b8WvjQ6aT3MrqouZHCqsE) | [8Ball & MJG](https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq) | [On Top Of The World](https://open.spotify.com/album/2UBBDl07r4miPVFPp0OMCX) | 5:10 |
+| 81 | [Like A Boss](https://open.spotify.com/track/5Z4LYEHH8PmYKU2NEK672L) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 3:18 |
+| 82 | [25 Lighters](https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG) | [Lil' Keke](https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T), [Fat Pat](https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh), [DJ DMD](https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL) | [From Coast To Coast](https://open.spotify.com/album/4hy6cljF4XEK7uhbckH3Dx) | 4:47 |
 | 83 | [Happy Feelin's](https://open.spotify.com/track/2YQ4R8eICy851TjCdFYUSd) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [The Greatest Hits: Lifelines Volume 1](https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6) | 7:12 |
 | 84 | [Draped Up](https://open.spotify.com/track/4oJYNhYWONVv8wh78LZmd2) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill](https://open.spotify.com/album/5wLh7wfNzSjV0hEtVTwNUw) | 4:16 |
 | 85 | [Icy](https://open.spotify.com/track/1TK07KcIGCUCli3lLx79yW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Boo](https://open.spotify.com/artist/5Z3tsYTS1kfBUfGjCLXmqy) | [Trap House \(Explicit\)](https://open.spotify.com/album/409XrSXXeeZ3eMLCARmWx8) | 4:43 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`
+Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`

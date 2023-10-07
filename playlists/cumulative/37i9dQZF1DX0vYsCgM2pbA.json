@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 259354,
       "name": "DEVOTION - Mansionair Remix",
       "url": "https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
@@ -1280,10 +1280,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 248533,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/6v6TnpusHVcVTiIpLXQU1m"
+    },
+    {
+      "album": {
+        "name": "Lustre",
+        "url": "https://open.spotify.com/album/4ItxYoE7OV3dGs7xswvnCx"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/7MF2sZdu9QmAe9ABVjE5Y3"
     },
     {
       "album": {

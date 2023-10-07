@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 215147,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 206997,
       "name": "BORED",
       "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 212980,
       "name": "Bruise The Sore",
       "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 176750,
       "name": "Burning Like Violets",
       "url": "https://open.spotify.com/track/77RIyIGnTtiXAHoE3tKNC0"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 231560,
       "name": "bury me.",
       "url": "https://open.spotify.com/track/7IdjwIpuBjKePJr8erOepG"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 176369,
       "name": "Cold Walks To The Liquor Store",
       "url": "https://open.spotify.com/track/0yLiQkBUW3KpIVgbv0v9T3"
@@ -1598,6 +1598,28 @@
       "duration_ms": 204593,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6PPrhOoVydbr2lBlgE7G0h"
+    },
+    {
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/31E9Vx9Il8LdlZsZYuhDVc"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        },
+        {
+          "name": "Patrick Miranda",
+          "url": "https://open.spotify.com/artist/3fzSiBL0wpt7sxX4Q9n4YI"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Coming Home (feat. Patrick Miranda)",
+      "url": "https://open.spotify.com/track/7rg2l98HzPTXC7yU7WeRix"
     },
     {
       "album": {
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 203766,
       "name": "Creature",
       "url": "https://open.spotify.com/track/4Jyiy6CRiKRQmlVt3JztNt"
@@ -1836,7 +1858,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 191323,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
@@ -2338,7 +2360,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 230509,
       "name": "Everything's Glitter",
       "url": "https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2"
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 186052,
       "name": "Fail You",
       "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
@@ -2464,7 +2486,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 222156,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/1SG5OMNLi4WIexCt7UDDj7"
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 194355,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl"
@@ -4392,7 +4414,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 170823,
       "name": "medicine",
       "url": "https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4"
@@ -4428,7 +4450,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 297750,
       "name": "Merchant",
       "url": "https://open.spotify.com/track/4X8LIhjfLIG4t0GjKqJseo"
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 195850,
       "name": "Message Like a Bomb",
       "url": "https://open.spotify.com/track/02Om4tDIjg1RjkcwVwM870"
@@ -4648,7 +4670,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 228542,
       "name": "Morning Haze",
       "url": "https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE"
@@ -4774,7 +4796,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 140027,
       "name": "Never Fucked Up Once",
       "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
@@ -5354,7 +5376,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 230617,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/3arD7QPp1MCbaNT5DraorN"
@@ -5876,7 +5898,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 217786,
       "name": "Rose",
       "url": "https://open.spotify.com/track/3qIbYFc1e3ETWGVhvuDzRu"
@@ -5984,7 +6006,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 261345,
       "name": "Savior Mode",
       "url": "https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK"
@@ -6002,7 +6024,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-26",
+      "date_removed": null,
       "duration_ms": 152800,
       "name": "Say",
       "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
@@ -6135,6 +6157,24 @@
     },
     {
       "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142158,
+      "name": "Seventh Hell",
+      "url": "https://open.spotify.com/track/0K134na0zJBSypTieFgNlN"
+    },
+    {
+      "album": {
         "name": "SEX DOPE GOLD",
         "url": "https://open.spotify.com/album/1eu5Cb1GTFJjTGOABSKjsI"
       },
@@ -6218,7 +6258,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 215735,
       "name": "Silver Sun",
       "url": "https://open.spotify.com/track/7g2paPF2JQLYBuEwLswKkH"
@@ -6254,7 +6294,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 135682,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/773VTGnDzSNTZaCGfZuX45"
@@ -6290,7 +6330,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "SNAKES",
       "url": "https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY"
@@ -6398,7 +6438,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "Sonny",
       "url": "https://open.spotify.com/track/1HMAGmRUH8BdyvwyEAeJAR"
@@ -6766,7 +6806,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
@@ -6946,7 +6986,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 207482,
       "name": "Swim Back",
       "url": "https://open.spotify.com/track/634SY94b36GK9hBKcI3GaB"
@@ -7058,7 +7098,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 230181,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/0EnhQ7imjcQu06rNVQuXdX"
@@ -7112,7 +7152,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
@@ -7278,7 +7318,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 224957,
       "name": "The Lens",
       "url": "https://open.spotify.com/track/5Jgd7T6LCgGynv0mh6zPSq"
@@ -7610,7 +7650,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 127151,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: izdeb \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,218 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,223 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Exchange](https://open.spotify.com/track/7COMGuTOHGlYCoUagQfBe5) | [VVaxplay](https://open.spotify.com/artist/7MpX31Evn7kYzh6lIgEPwi) | [Exchange](https://open.spotify.com/album/02Bo9sQapkG5jHQKkJOmYG) | 5:12 |
 | 100 | [Dziewczyno! \- Radio Edit](https://open.spotify.com/track/5iCcWuRcvM0mBChojababL) | [Rusty Pine](https://open.spotify.com/artist/5rTQ3vT7yhFi3bxpDRY3UE) | [Dziewczyno! \(Radio Edit\)](https://open.spotify.com/album/0ihKE0LEB3rOLKW6Tme2aI) | 2:53 |
 
-Snapshot ID: `MCw2MzhlYjcxZWNlMDE2NGMyNzMwNmViZGNkMmY1MGU3MGE3NzBmYTY4`
+Snapshot ID: `MCw5YWQ4MzFlNmY5M2RjZWY2Mjg0ZGRiZmRmNjA0MmVkZGE1ZmE0Mzlm`

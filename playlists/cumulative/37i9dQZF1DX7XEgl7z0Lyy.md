@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-104 songs - 3 hr 32 min
+107 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,10 +31,12 @@
 | [Disturbia](https://open.spotify.com/track/7q44fdiZgGQpALVU1bFvog) | [Xanahxlic](https://open.spotify.com/artist/4zub1IAca1K3f0c3rnvuo4) | [Disturbia](https://open.spotify.com/album/7oWfvwnsulIkd4Vsz186mA) | 2:28 | 2023-07-21 |  |
 | [do tonight](https://open.spotify.com/track/6uwVzUJ2WyoGb9iSqj1vvH) | [skypebf](https://open.spotify.com/artist/3NHAjoEh2QxIFZmKEWxh61), [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [do tonight](https://open.spotify.com/album/6s8ugTv4KJAG2HtxFWhduM) | 1:51 | 2023-09-01 |  |
 | [ecstacy](https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy](https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q) | 1:36 | 2023-07-21 | 2023-09-02 |
+| [ESSENCE](https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [ESSENCE](https://open.spotify.com/album/1DduJ6kIDWQP2mtN4xiWzs) | 2:27 | 2023-10-06 |  |
 | [every pill](https://open.spotify.com/track/0DaqmS2yJdMHG6cRZKpzMm) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [every pill](https://open.spotify.com/album/0tFssJxBg5J4IevBjXIphw) | 1:55 | 2023-09-22 |  |
 | [EXT4S1S!](https://open.spotify.com/track/3NeEc5CrA92NcKCx1Gzl28) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [EXT4S1S!](https://open.spotify.com/album/3Z4qSs3BcOX6tMem3YDUHx) | 1:15 | 2023-07-21 | 2023-08-05 |
 | [fairy](https://open.spotify.com/track/33S1CJ4uVRitpmqONx9pOt) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [33.1FM](https://open.spotify.com/album/49XVwHNdaXCLgGkxSk5bcZ) | 2:15 | 2023-07-21 |  |
 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
+| [GIVE EM HELL](https://open.spotify.com/track/6P92k8JnqxqPyHLB7UwyN8) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [KOLLECTIVE](https://open.spotify.com/album/53i6MDOkEaGjpTrRZeW1ah) | 2:33 | 2023-10-06 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2023-07-27 |  |
 | [go\_hard](https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [go\_hard](https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q) | 2:06 | 2023-08-25 |  |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-07-21 |  |
@@ -45,7 +47,8 @@
 | [HYPNOTIC DATA](https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS](https://open.spotify.com/album/7dfODAnexuCQljq6ewTjtB) | 2:08 | 2023-09-15 |  |
 | [I <3 LATINAS](https://open.spotify.com/track/5ZYc494Yhj18o8nbG777LV) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [I <3 LATINAS](https://open.spotify.com/album/1MtzbdSdDZZBopNu7IcskV) | 1:33 | 2023-07-21 | 2023-09-30 |
 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 | 2023-07-21 | 2023-09-02 |
-| [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-08 |  |
+| [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-08-08 | 2023-10-07 |
+| [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/album/35WsRcsKXK9VkwgWrLs2Is) | 2:25 | 2023-10-06 |  |
 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 | 2023-07-21 |  |
 | [iSSUE](https://open.spotify.com/track/3sGgq1Lqig56CQagEPz66T) | [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4), [lostrushi](https://open.spotify.com/artist/5Q2SPodgRF5DgI5Vs8y0Ve) | [iSSUE](https://open.spotify.com/album/0bj9tQpxckNFKsGzCWUWhO) | 1:05 | 2023-07-21 | 2023-07-29 |
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2023-07-21 | 2023-07-29 |

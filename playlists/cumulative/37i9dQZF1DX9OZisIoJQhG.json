@@ -289,6 +289,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Berceuse, Op. 16",
+        "url": "https://open.spotify.com/album/3q7lJbflaSLEkDu3h5cazc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Cocomi",
+          "url": "https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV"
+        },
+        {
+          "name": "Niu Niu",
+          "url": "https://open.spotify.com/artist/59coobPsuoo30nDvDa0SOi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/7sSSQHaGVwm0rNSlI2M7so"
+    },
+    {
+      "album": {
         "name": "Air - a baroque journey",
         "url": "https://open.spotify.com/album/7mcePKkJLonpU7l3RFFEwH"
       },
@@ -1516,6 +1542,28 @@
       "duration_ms": 406240,
       "name": "Sinfonietta, FP 141: III. Andante cantabile",
       "url": "https://open.spotify.com/track/4vii1l0Y3VZB2IrVkbRSs1"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+        "url": "https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+      "url": "https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY"
     },
     {
       "album": {

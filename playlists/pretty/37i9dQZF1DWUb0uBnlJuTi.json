@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 307634,
+  "num_followers": 307784,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThlYTA1OGQ5OWM5MDJmMzYyMDk0YWNkMzViNWI1M2E3ZDE3ZjI3",
+  "snapshot_id": "MCxkMzlmYzk1ZjhlMjY5ZTQxNjlkYTA0YzRjYzNkMDhiODgzMzRiMWI5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -103,6 +103,26 @@
       "duration_ms": 283864,
       "name": "That Bop",
       "url": "https://open.spotify.com/track/13l9DL9EA5hResA7mVmd7M"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Picante",
+        "url": "https://open.spotify.com/album/5D5k6gpm85kIQJ5eumduv4"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "San Juan Project",
+          "url": "https://open.spotify.com/artist/0OvRTd6sJc06xSW6ZkESFi"
+        }
+      ],
+      "duration_ms": 223289,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/1hhD04AfEtZWt1MG4IyhJw"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -2811,22 +2831,6 @@
       "duration_ms": 295176,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Education & Recreation",
-        "url": "https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 169319,
-      "name": "Money Music",
-      "url": "https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw"
     },
     {
       "added_at": "2021-09-03 04:01:00",

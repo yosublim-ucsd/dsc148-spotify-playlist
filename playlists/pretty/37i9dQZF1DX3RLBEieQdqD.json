@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Manuel Turizo & Grupo Frontera",
-  "num_followers": 117139,
+  "num_followers": 117207,
   "original_name": "Ranchenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzIyMTg3YmIxODk0MzczNDJmZmU0YjFiMWZiNmYzOGQ1ZWEyNDhm",
+  "snapshot_id": "MCxlYWYzNGI0OWQ5MTAwZjUxZjMwMDM4MTYzYmJlMjQ5NWQ5YzdjZTVi",
   "tracks": [
     {
       "added_at": "2023-09-01 05:41:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52"
     },
     {
+      "added_at": "2023-10-06 04:31:50",
+      "album": {
+        "name": "Demalas (Versi\u00f3n Popular)",
+        "url": "https://open.spotify.com/album/23cktyZ2hQpZ0L5Dbzy87x"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 189551,
+      "name": "Demalas (Versi\u00f3n Popular)",
+      "url": "https://open.spotify.com/track/0vLu56tq0xPdClMMPiBDeQ"
+    },
+    {
       "added_at": "2023-09-01 05:41:00",
       "album": {
         "name": "Ella Baila Sola",
@@ -111,26 +127,6 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2023-09-01 05:41:00",
-      "album": {
-        "name": "Corro A Tus Brazos",
-        "url": "https://open.spotify.com/album/31MyEJ9tC42clCwri2yMQG"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 224312,
-      "name": "Corro A Tus Brazos",
-      "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
     },
     {
       "added_at": "2023-09-01 05:41:00",

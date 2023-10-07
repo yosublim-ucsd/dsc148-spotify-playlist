@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Shemekia Copeland",
-  "num_followers": 51754,
+  "num_followers": 51760,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2RhZDI2MjVmYWM2NWVhYTA1OWQxZjFiNTM4NjUwZDAyYjEwNTYy",
+  "snapshot_id": "MCwzZTA0NTg2ZjU5ZjU1ZGQ4MzRjMjRkMjRiMWIwYmI0OWY5M2RhNWVj",
   "tracks": [
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Blues Deluxe Vol. 2",
+        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 382040,
+      "name": "Is It Safe To Go Home",
+      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
+    },
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 193844,
       "name": "Nobody Wants To Be Lonely",
       "url": "https://open.spotify.com/track/04AyFkLrP4bbrDjcXGPhfz"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Sweet Feeling",
+        "url": "https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 334066,
+      "name": "Sweet Feeling",
+      "url": "https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -59,6 +91,22 @@
       "duration_ms": 255084,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Help Me",
+        "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 210083,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1671,42 +1719,6 @@
       "duration_ms": 227539,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/5FfUJfRvU5qQ7xxjzJJjQ6"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Sun is Shining Down",
-        "url": "https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt"
-      },
-      "artists": [
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        },
-        {
-          "name": "Melvin Taylor",
-          "url": "https://open.spotify.com/artist/2JBKZGnF8j5nadn67i5B10"
-        }
-      ],
-      "duration_ms": 300143,
-      "name": "Hungry and Ready (feat. Melvin Taylor)",
-      "url": "https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2021-09-24 04:02:00",

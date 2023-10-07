@@ -1,12 +1,12 @@
 {
   "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Luke Combs",
-  "num_followers": 105165,
+  "num_followers": 105192,
   "original_name": "Stay Tuned!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODUyNGIwYTM4ZTBiZDFjZDk0MzM5NWRhN2QyNzZlMWIwMDg3YmQz",
+  "snapshot_id": "MCwzNjNlNDg5ODkwNmM5MWI3ZDI1ODE4MzczYWEwYTYzNTU1N2EwZWIz",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
       "artists": [
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 243815,
-      "name": "She Calls Me Back",
-      "url": "https://open.spotify.com/track/1LvU6IFqQnXOIwJyBDb2io"
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
     },
     {
       "added_at": "2023-10-05 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,112 likes - 443 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,233 likes - 443 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 118 | [Turkish Food](https://open.spotify.com/track/4Qv0BGzszfxtbJ59wfXhOC) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [RR](https://open.spotify.com/album/2CKz9HiJ6FanN8J3g6H0db) | 3:50 |
 | 119 | [Little\-London\-Ed](https://open.spotify.com/track/243xfm5FndMMRWpHd3Bpm0) | [< b a r u b e a t >](https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL) | [Little\-London\-Ed](https://open.spotify.com/album/1Fmi8IPxNjOp9FraQCX6BE) | 2:24 |
 | 120 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 |
-| 121 | [nocturnal interruptions](https://open.spotify.com/track/64VnE0AELYbrGlvZfZFB6I) | [willie johns](https://open.spotify.com/artist/2ALnfwJWQqVHvL3BRkE6q2) | [nocturnal interruptions](https://open.spotify.com/album/0mwy7Trud8eCHzF9HHZrQp) | 2:20 |
+| 121 | [nocturnal interruptions](https://open.spotify.com/track/64VnE0AELYbrGlvZfZFB6I) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [nocturnal interruptions](https://open.spotify.com/album/0mwy7Trud8eCHzF9HHZrQp) | 2:20 |
 | 122 | [Recycle](https://open.spotify.com/track/12IiT0rZC12d6KxwfzdoDL) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Recycle](https://open.spotify.com/album/7briPpRhxJQOGe3JGBzU2H) | 2:03 |
 | 123 | [secrets i keep](https://open.spotify.com/track/66mov52eOGweiC5cec6FSO) | [O k O](https://open.spotify.com/artist/54FTacKE0BxtzKWB19zsem) | [secrets i keep](https://open.spotify.com/album/6LKZY7oL4ZFI5Ba6MN8Rpv) | 2:01 |
 | 124 | [Stuck At The Office](https://open.spotify.com/track/30cEw6hfS5KHcdSSPF9goH) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Stuck At The Office](https://open.spotify.com/album/4R6V9rSYDulNrPupOSM3vl) | 2:26 |
@@ -452,4 +452,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 442 | [Walking On Sunshine](https://open.spotify.com/track/7FwyuMqGORtxC0j42IdSiY) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Walking On Sunshine](https://open.spotify.com/album/4FpNn5mvTNKF8myvzhs09l) | 1:52 |
 | 443 | [good morning](https://open.spotify.com/track/7eoJ5QWlPolLvQcy8cbYFa) | [chxn records](https://open.spotify.com/artist/5tEcRZkq7jh2WhE2G43u63), [boy in skirt](https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft) | [skirt & lofi](https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe) | 2:11 |
 
-Snapshot ID: `MCw4MDkwOWRiMGNiZDZiYjY0ZGQ3NzYzZTdjNDY1NzU1MTIwYmExZTMy`
+Snapshot ID: `MCxkNWU3M2YyODRjZjAyYTg3OWI2MmQyNWQ3OWU2N2RiZmJhY2ViNDZm`

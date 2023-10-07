@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
 
-394 songs - 19 hr 49 min
+398 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/track/03ElQaGbZDwOSDMiEPwFPz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/album/0i9uYmJwovycbfOBYUCwXK) | 3:33 | 2021-12-10 | 2022-06-11 |
 | [I Wish You Would](https://open.spotify.com/track/0FOMpHsaQZwmotamMWYWYi) | [Ross Ellis](https://open.spotify.com/artist/3aUXK61VCf5255a0LqhuPQ) | [I Wish You Would](https://open.spotify.com/album/7hhLvB1Q6h1z6rVaglBrX6) | 3:22 | 2021-12-10 | 2022-02-26 |
 | [I'd Be You](https://open.spotify.com/track/3Yach59menOOaF34Qdfiuh) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I'd Be You](https://open.spotify.com/album/4hPICUHhNOwxjcMlNlbzLE) | 2:58 | 2022-06-10 |  |
+| [I'll Be A Bartender](https://open.spotify.com/track/5amuqAOkKdHenSjPaAUQXA) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [I'll Be A Bartender](https://open.spotify.com/album/4fnYR5Po3N0OsBpaCaKmKE) | 3:17 | 2023-10-06 |  |
 | [I'm The One](https://open.spotify.com/track/1oX0dEo74asYCL9sBVPec3) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [I'm The One](https://open.spotify.com/album/4qn0GauE7JcVX5WlzYv9UD) | 2:24 | 2022-02-04 |  |
 | [If You Were My Girl](https://open.spotify.com/track/4lJHWJx0QXiQO4bwLGJEft) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [If You Were My Girl](https://open.spotify.com/album/1ne7atFrKKogLQ2SVvk4by) | 2:59 | 2023-02-24 |  |
 | [Independent With You](https://open.spotify.com/track/3e90277REF5UJoUrZQPnIY) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Independent With You](https://open.spotify.com/album/3KXIuxq6GgclGOfde5I0mK) | 2:42 | 2022-02-25 | 2023-05-04 |
@@ -215,6 +216,7 @@
 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/28YeYqCPDyhmJ76h5OE139) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/3t85iYWW2ZcXFvTJwW02nr) | 2:57 | 2023-08-25 |  |
 | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/track/3bo6LIVTrJAyn0CJOeBxXK) | [Gabrielle Mooney](https://open.spotify.com/artist/33zGyZkIKniFsuzrFTkZwe), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [James Dean \(Feat\. Lathan Warlick\)](https://open.spotify.com/album/2ltEv5M5IiJEUkrQurPSVx) | 2:57 | 2023-08-11 | 2023-08-27 |
 | [Jenny's Song](https://open.spotify.com/track/7yY0HunOjMwS2ayLprriyT) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Jenny's Song](https://open.spotify.com/album/2RKCEj13IUvnlx3gA9wqwK) | 4:42 | 2023-05-26 | 2023-09-30 |
+| [Jim Beam \(F.U.\)](https://open.spotify.com/track/4kGsgdooSIG4Iu7hRP8f3r) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Jim Beam \(F.U.\)](https://open.spotify.com/album/1Uo9oGQzaUT9lgXQWF39GM) | 3:58 | 2023-10-06 |  |
 | [JOSIE \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6BHcMNbc3ZMU4aVjWeluJb) | [Liza Owen](https://open.spotify.com/artist/7rMi39MYgKE1TdRCTK3xqm), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Monte Nido](https://open.spotify.com/album/3hFdLwXe8yCZOE4W6lGSsl) | 3:47 | 2021-12-10 | 2022-06-25 |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-10 | 2022-02-26 |
 | [K\[no\]w Better](https://open.spotify.com/track/44HYuoGSPTgV8yKXccrOuW) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 2:47 | 2023-02-24 |  |
@@ -228,6 +230,7 @@
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-03-04 | 2022-09-10 |
 | [Left Me \(with YNW BSlime\)](https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [Left Me \(with YNW BSlime\)](https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q) | 2:41 | 2022-01-21 | 2022-07-23 |
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-12-10 | 2022-05-20 |
+| [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-06 |  |
 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 | 2022-09-16 |  |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-10 | 2022-02-26 |
 | [Lighter](https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Lighter](https://open.spotify.com/album/33xPs7wlbzfrw5blbL63Ez) | 2:13 | 2023-05-19 |  |
@@ -389,6 +392,7 @@
 | [Wild Frontier](https://open.spotify.com/track/57gjWu6xmWpk0XoNEIi08w) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/2yG5wph6NJ77bHAAuNvBNG) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Wild Frontier](https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/0sapxQX0SyPrNUMT1N9Qi5) | 3:36 | 2022-11-11 | 2022-11-13 |
 | [Wild Man](https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Wild Man](https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ) | 2:48 | 2023-05-26 | 2023-09-30 |
+| [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-06 |  |
 | [Winning](https://open.spotify.com/track/5qEb5GTv9yy7Y7kLJCSMFN) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Winning](https://open.spotify.com/album/28HlFH22jF08ZKNMF15a0E) | 2:56 | 2021-12-10 | 2023-01-04 |
 | [Withdrawal](https://open.spotify.com/track/1f9fvRvOgREiC3xTUaDFr3) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Withdrawal](https://open.spotify.com/album/7LV4Vj7cl5fxT4DAL6TU7R) | 4:03 | 2023-02-24 |  |
 | [Without You \(feat\. Elle King\)](https://open.spotify.com/track/17RGvFoLuxUHsHI28Jkvsx) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Without You \(feat\. Elle King\)](https://open.spotify.com/album/7rBJQWobzmbaii5d34VBLX) | 3:01 | 2023-06-23 |  |

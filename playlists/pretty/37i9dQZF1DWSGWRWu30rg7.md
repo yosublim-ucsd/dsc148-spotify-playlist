@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shindy Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,465 likes - 97 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,472 likes - 97 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 2 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [KEI](https://open.spotify.com/artist/2i3SDiSxLRtSz9ulxxgR7v) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
 | 3 | [NAHAS](https://open.spotify.com/track/40uKwK8K5mWAjWOMdYunW6) | [CHAI](https://open.spotify.com/artist/3exPjjKtzxcXIijRCKFCbX) | [NAHAS](https://open.spotify.com/album/5sQK8VnWbEcZ4hFVmjUwqC) | 3:32 |
 | 4 | [Kekasih Sepertiku Lagi \- From "Aku Rindu The Movie"](https://open.spotify.com/track/1JZjmUMrSVhsev2Eop7kdk) | [Lyrics Syabila](https://open.spotify.com/artist/3a8zdCRlznehAHsP8d7UKs) | [Kekasih Sepertiku Lagi \(From "Aku Rindu The Movie"\)](https://open.spotify.com/album/4OR83Qe5oLoKs5paJXYmRP) | 4:21 |
-| 5 | [Kampiun](https://open.spotify.com/track/28xxKXEqdD5ddmQb9EnjkU) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Kampiun](https://open.spotify.com/album/3vLqHIJx6tkxOW0uw6cndi) | 4:20 |
+| 5 | [Kampiun](https://open.spotify.com/track/2vtFjq8aArtm1QxUnTJBPN) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Kampiun](https://open.spotify.com/album/3wAlONvaxabXPKoqdXPqfh) | 4:20 |
 | 6 | [The Fever Song](https://open.spotify.com/track/2sYqDFotpX28ejfdhkU4FV) | [Brunobauer](https://open.spotify.com/artist/4P9ERUuNo9SbjenkhtwbDN) | [Mother's Love / The Fever Song](https://open.spotify.com/album/5sywZjp8dv1ej3L1W17bVt) | 2:48 |
 | 7 | [Is It Worth? \(It Ain't\)](https://open.spotify.com/track/2iKMTU0VoWlrNIMemwdvn4) | [Salim Lubis](https://open.spotify.com/artist/1obCpOs5IobBUuRXjc6xho) | [Is It Worth? \(It Ain't\)](https://open.spotify.com/album/4QZ9p7vTe0NW2CYqg6KrRj) | 3:26 |
 | 8 | [In\-Between](https://open.spotify.com/track/7tfUsyNfZAG2tC3V9bOQRQ) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [WINONA](https://open.spotify.com/album/6kXD2cHObk1ykiyoZ1KJL0) | 3:32 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 96 | [Get off of Me](https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM) | [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA), [Shierly Jane](https://open.spotify.com/artist/3Ps12w6PNzjzrNdtEKVJAs), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Get off of Me](https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT) | 2:15 |
 | 97 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 
-Snapshot ID: `MCxmMWQ5OWNkMGJkOWI3ZjQxZWI0YzQ4ZmI3YTM1MDAzMzdlZmY0MWMy`
+Snapshot ID: `MCxiYjA4ZGE3MzM0M2ZlZGQ1NGI2YzFlMDU1M2FkM2M5MThkMmE1MWEw`

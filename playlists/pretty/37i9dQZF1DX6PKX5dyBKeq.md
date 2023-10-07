@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,589 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,020 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 21 | [What Can I Say?](https://open.spotify.com/track/4CPQFa10uJlKKTxkbqRb3z) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [What Can I Say?](https://open.spotify.com/album/5phWrwWAZ9rzWxYbMPmKfy) | 2:31 |
 | 22 | [Quarter Past 3](https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Unfinished Business](https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v) | 2:55 |
 | 23 | [where you been?](https://open.spotify.com/track/4RXWjqC56ecdnvpzVbCxcB) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [my neighbours don't know.](https://open.spotify.com/album/26nbJ8gBWq4XxxIWaE2i2N) | 3:17 |
-| 24 | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/track/5heTEtDHaBVXIlx5DIjaGb) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/album/7lW53fPwJofbQ0x5dc7wiR) | 2:59 |
+| 24 | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Still Working 2](https://open.spotify.com/album/6Bh2znaTLb4uZkY99tRvde) | 2:59 |
 | 25 | [summers over](https://open.spotify.com/track/4I4HnXLIdHBcamz2VKLqE1) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [summers over](https://open.spotify.com/album/2PCWUDyV1fkV4lDdigoSa8) | 3:00 |
 | 26 | [Waste Time](https://open.spotify.com/track/1KnXMdJGQIu3w1VG4BoRmD) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [TRAPPING](https://open.spotify.com/artist/0f2YKqC2t6A77UsAJ9s1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [TRAPPING \- The Movie Soundtrack](https://open.spotify.com/album/13ABxjXthQ8LLYi5xKWRV1) | 3:04 |
 | 27 | [Stick To The Plan](https://open.spotify.com/track/70LSkaIGJp3vClVP1G513o) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc) | [Stick To The Plan](https://open.spotify.com/album/2P2x81BNcG0Njj1ivyS6km) | 3:06 |
 | 28 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 29 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
-| 30 | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/4fkN5DJIDwOniwT0DGGbaV) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/album/6H2int0KUSOoPpRfkaV2Of) | 2:58 |
+| 30 | [Toxic \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/5igGT00gBoAj8FieNnUkjL) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Crop Circle 3](https://open.spotify.com/album/6SUtgIpgq9qxA3VfjzS0rq) | 2:58 |
 | 31 | [CATFISH](https://open.spotify.com/track/3KVrGYmxpd86Mw1t3dUA6k) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [M1onTheBeat](https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH) | [STRENGTH TO STRENGTH](https://open.spotify.com/album/71Vce7DsRUb7z4yHE4t9Bn) | 2:25 |
 | 32 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 33 | [CELLY](https://open.spotify.com/track/7ItFjL0zfTNC6QPn3tUlaD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [RUSH HOUR](https://open.spotify.com/album/7uiiweBAaAaw8JtpivRhxU) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 49 | [of course](https://open.spotify.com/track/67ZEHFld41PZdanUBCilfN) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [of course](https://open.spotify.com/album/0neqduBZznQHqCIHQalpoO) | 2:40 |
 | 50 | [Hackney](https://open.spotify.com/track/4afmKYuTcUCeKqRWPCQgBU) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Hackney](https://open.spotify.com/album/6WfjPDPhZDL9tnhMTUEVEZ) | 3:12 |
 
-Snapshot ID: `MCxjOGE4ZTQ2NGMzMjA3MDFiNjE3NzJkNWZhMTU5MjBmZjJlMGY4NjJh`
+Snapshot ID: `MCwzNGE1ZWQ1MDllMWQ5ZjBjZDk0ZDcwZDE4NzRkNTk4YmJhNjE0ZTAz`

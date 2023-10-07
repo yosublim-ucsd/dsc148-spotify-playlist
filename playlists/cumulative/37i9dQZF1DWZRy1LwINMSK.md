@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-181 songs - 9 hr 50 min
+182 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Brokeboi](https://open.spotify.com/track/0EoolsXtSPPpapygXOv9BU) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Las Crónicas de Ngangu](https://open.spotify.com/album/2fk8VUTdS2sYc8HYyPozRE) | 3:43 | 2022-07-22 |  |
 | [Brokeboi](https://open.spotify.com/track/1BPxaV5p4ofFhwQoKEvhLR) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Brokeboi](https://open.spotify.com/album/4TPGkYYg8mtuJ7SehPElnq) | 3:43 | 2022-08-25 | 2022-11-13 |
 | [Brokeboi](https://open.spotify.com/track/6go2VEJUSmwls8c3a8aggf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Las Crónicas De Ngangu](https://open.spotify.com/album/7Lj5OzGoQBzSb4PeghYlLp) | 3:43 | 2022-01-20 | 2022-07-29 |
+| [Bugatti](https://open.spotify.com/track/5FrbeoopwtCCEcOh3qp0V8) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bugatti](https://open.spotify.com/album/0OAew01eul7YxIgc2P7dJA) | 2:03 | 2023-10-06 |  |
 | [Capi Capichi](https://open.spotify.com/track/2AM3EwEYcaDO0ZK6Z90CS2) | [Martín Acertijo](https://open.spotify.com/artist/6IesInVaMMNtX7DZchRTbJ) | [Mal de Amore](https://open.spotify.com/album/4jRI21AKiwDc7fLQ6Nfi6o) | 3:07 | 2023-08-11 | 2023-09-02 |
 | [CARAS VEMOS \- Remix](https://open.spotify.com/track/45bDKqcXUgd7IVAvFYsTTe) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [CARAS VEMOS \(Remix\)](https://open.spotify.com/album/6YDlWZ01O0RboiJIOs00Tz) | 6:50 | 2022-01-20 |  |
 | [CELULAR](https://open.spotify.com/track/0g0Ipiv8a9kWSq4acp8L1H) | [KAZE KENZO](https://open.spotify.com/artist/73pLtWPm3Lw8ikjuX6BX0P), [Max Valenzuela](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [CELULAR](https://open.spotify.com/album/7zpODfVIHAMlfw0wNXWRFN) | 2:35 | 2022-02-11 | 2022-05-28 |

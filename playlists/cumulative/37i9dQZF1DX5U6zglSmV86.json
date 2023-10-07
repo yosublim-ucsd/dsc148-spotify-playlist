@@ -657,6 +657,44 @@
     },
     {
       "album": {
+        "name": "La Calle Llora",
+        "url": "https://open.spotify.com/album/7ikJ4foUE0oHwoJdASOwlC"
+      },
+      "artists": [
+        {
+          "name": "Made X La Calle",
+          "url": "https://open.spotify.com/artist/65XnSO2UIDvG0zQIjcrFAJ"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Alexis Linares",
+          "url": "https://open.spotify.com/artist/0mJWgWivNI3ioDcrlz5jy4"
+        },
+        {
+          "name": "Nueve Siete",
+          "url": "https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/7oScaVlu12AMNd8miidieh"
+        },
+        {
+          "name": "Skubby.V",
+          "url": "https://open.spotify.com/artist/6oHOsV3QP5gYuCqcPdSO9m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290397,
+      "name": "La Calle Llora",
+      "url": "https://open.spotify.com/track/0YxCHyRniH8traBWNtmgoB"
+    },
+    {
+      "album": {
         "name": "Frenia",
         "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
       },
@@ -1074,6 +1112,28 @@
       "duration_ms": 330230,
       "name": "No Cambio",
       "url": "https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ"
+    },
+    {
+      "album": {
+        "name": "No Tengo Cura",
+        "url": "https://open.spotify.com/album/1Jx62LgAEuVk0PRRwk4g6S"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Maniako",
+          "url": "https://open.spotify.com/artist/4XVWGb0bUVdiBhmWbSKSF3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206473,
+      "name": "No Tengo Cura",
+      "url": "https://open.spotify.com/track/6lk6v8pYFjDbMxYZVMpHPR"
     },
     {
       "album": {

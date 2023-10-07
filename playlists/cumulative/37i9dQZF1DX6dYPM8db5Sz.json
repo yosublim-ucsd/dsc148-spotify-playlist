@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/6I2p0OQapwvqHXFaAqKmoI?si=XAqW2HNdRdGVqo7cVrQvoA\">Carla Franco</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=QKXC5s4zQk-r0hpZqnAVjA\">HONEYMOAN</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Between Hours",
+        "url": "https://open.spotify.com/album/4m7JqOER1Fe8Qj2sOoIf05"
+      },
+      "artists": [
+        {
+          "name": "The Plastics",
+          "url": "https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213587,
+      "name": "Between Hours",
+      "url": "https://open.spotify.com/track/53QBNfLalfxNU82XrQANO2"
+    },
+    {
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/4xx7g07nLqQEVr2WZ23W0K"
       },
@@ -1585,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Clock Hands",
+        "url": "https://open.spotify.com/album/7HIaCsIoIIuQ4esSKYXCra"
+      },
+      "artists": [
+        {
+          "name": "Justin Prins",
+          "url": "https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159295,
+      "name": "Clock Hands",
+      "url": "https://open.spotify.com/track/4LAolAI2L8hQ32VPV0P4Tn"
+    },
+    {
+      "album": {
         "name": "cold",
         "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
       },
@@ -2048,6 +2084,24 @@
       "duration_ms": 200270,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/4uWssK0aDkP8gwd9psKyzh"
+      },
+      "artists": [
+        {
+          "name": "THE BLACK GREG",
+          "url": "https://open.spotify.com/artist/0N36JTw1rW47LDXtlc4Edt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192575,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/7CKgqXbgl5wngmvCgWVD3J"
     },
     {
       "album": {
@@ -4461,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/61asLyV0SRvt9XrcqpHeZt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130539,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/1FEZnCbas8ET6pfyB3u6Rb"
+    },
+    {
+      "album": {
         "name": "Lift Me Higher",
         "url": "https://open.spotify.com/album/3XcxajmXq3K30HC6Vqqv2W"
       },
@@ -4676,6 +4748,24 @@
       "duration_ms": 187653,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/152r40YkplZWECHc392lTa"
+    },
+    {
+      "album": {
+        "name": "Magic in you",
+        "url": "https://open.spotify.com/album/4kbiIlmmzbdJd6MtwQhDRM"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181730,
+      "name": "Magic in you",
+      "url": "https://open.spotify.com/track/46T0G1ko3VSHSMv5UcqFFL"
     },
     {
       "album": {
@@ -6078,7 +6168,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
@@ -6208,6 +6298,24 @@
       "duration_ms": 216851,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
+    },
+    {
+      "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/2r4xJDMLSKBtfg5LDcl4LD"
+      },
+      "artists": [
+        {
+          "name": "Kiash Arjun",
+          "url": "https://open.spotify.com/artist/00gKlgFBYwZqFuA7n8beqw"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/1tnoTZtQVaihdZddKAgcUY"
     },
     {
       "album": {
@@ -6680,7 +6788,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/6OvAFU5qsu1BjBxY8IjtkU"
@@ -6818,6 +6926,28 @@
       "duration_ms": 197333,
       "name": "Simple Things (feat. Theo Croker)",
       "url": "https://open.spotify.com/track/1Q8JyxW2AUpKtqScjz1hkT"
+    },
+    {
+      "album": {
+        "name": "Sink Not Swim",
+        "url": "https://open.spotify.com/album/3JSHYDeU0lhAeX8xY5nqyx"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Jade Garisch",
+          "url": "https://open.spotify.com/artist/4Ek7jRRsy7yczCU0wl5SgG"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177389,
+      "name": "Sink Not Swim",
+      "url": "https://open.spotify.com/track/6Cy82dWcSMEbFZf3f3AAGA"
     },
     {
       "album": {
@@ -8696,6 +8826,42 @@
       "duration_ms": 229480,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/4guLuOYxgOyORZGjWPQuCo"
+    },
+    {
+      "album": {
+        "name": "Not So Bad Down Here",
+        "url": "https://open.spotify.com/album/7fCXNPx7cQlXwJZ1G6dd1G"
+      },
+      "artists": [
+        {
+          "name": "Katy Hallauer",
+          "url": "https://open.spotify.com/artist/7g1bTthu5ETWFuq5igUMRm"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223857,
+      "name": "Where Are You?",
+      "url": "https://open.spotify.com/track/4gSpaf6cVMZgPVqwl3BUrT"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/6Daj5SCEbrRk4VZAjE673z"
+      },
+      "artists": [
+        {
+          "name": "Miles Sievwright",
+          "url": "https://open.spotify.com/artist/0JlHD2QNc6R8IzoCzdsp08"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249252,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1BhmdVGe9VdfcoB3MWZQfU"
     },
     {
       "album": {

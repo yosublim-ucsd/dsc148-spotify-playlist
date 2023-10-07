@@ -1,12 +1,12 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 43034,
+  "num_followers": 43068,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGNhZDQwZGE0ZWFjM2UyYjAzZWIxODEyNmNhYWRjZDNhNjEzMTYy",
+  "snapshot_id": "MCwwOTMwZTFiY2Q4ODhkMmU2Mjg5YmIzNzIzZjk1MmQ0MzA1ZWY0ODAw",
   "tracks": [
     {
       "added_at": "2020-09-18 04:02:00",
@@ -39,6 +39,26 @@
       "duration_ms": 275386,
       "name": "Give Life Back to Music",
       "url": "https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Groovin' Through the Galaxy",
+        "url": "https://open.spotify.com/album/1QFxPz9HrcIwZPf7Mrg8ON"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "astreaux.",
+          "url": "https://open.spotify.com/artist/2mpuoJyvskmbVZfvOrlHmL"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "Goodbye Earth",
+      "url": "https://open.spotify.com/track/6xjKMuVMz0om4n5CA8S7Kl"
     },
     {
       "added_at": "2020-09-18 04:02:00",

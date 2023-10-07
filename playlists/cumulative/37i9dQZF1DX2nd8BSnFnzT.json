@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Fresno",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Pitty",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -2939,6 +2939,28 @@
     },
     {
       "album": {
+        "name": "Espelhos \u2013 Vers\u00f5es Completas de Admir\u00e1vel V\u00eddeo Novo",
+        "url": "https://open.spotify.com/album/1yFxl1VPjOj3FmzMJTLPh0"
+      },
+      "artists": [
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        },
+        {
+          "name": "Jason",
+          "url": "https://open.spotify.com/artist/70t5J0JdC7dRV2gXTyVaR4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87893,
+      "name": "Imagem \u00c9 Tudo, Sua Cabe\u00e7a N\u00e3o Tem Nada",
+      "url": "https://open.spotify.com/track/7mpHoeijOKCkAkU7rkdQN7"
+    },
+    {
+      "album": {
         "name": "Imposs\u00edvel de Ser Assim",
         "url": "https://open.spotify.com/album/6Z0DzOwJwVCUlMhfjsmJd2"
       },
@@ -3410,7 +3432,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 267808,
       "name": "Luar Neon",
       "url": "https://open.spotify.com/track/6Uk8xAVT0YS5ubSsjNjoSO"

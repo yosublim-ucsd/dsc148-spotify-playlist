@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-163 songs - 10 hr 56 min
+164 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 | 2022-03-30 | 2022-08-23 |
 | [Mawal](https://open.spotify.com/track/13yJKMCV044A6WDfNQnL1K) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Mawal](https://open.spotify.com/album/5PWaUTA0ezATBmK2AnNJbe) | 2:49 | 2023-06-24 |  |
 | [Mawjou3 Galbi](https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Mawjou3 Galbi](https://open.spotify.com/album/450bx2egvP32rGdLekadr0) | 3:18 | 2022-03-30 | 2023-06-24 |
-| [Mbarka](https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo) | [Ismailovic](https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8) | [Mbarka](https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd) | 6:15 | 2023-09-13 |  |
+| [Mbarka](https://open.spotify.com/track/1Nb3n0i8SkrdHJmFZ8UvYo) | [Ismailovic](https://open.spotify.com/artist/7eafY5MVTDx6MZCKNRvkt8) | [Mbarka](https://open.spotify.com/album/0NDIU1tmuW2N794nt3yEBd) | 6:15 | 2023-09-13 | 2023-10-07 |
 | [Mbarka \- Original Mix](https://open.spotify.com/track/55uwSianyiBX7CAwPY5Jnf) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [M.Ali](https://open.spotify.com/artist/2h1ioVI51vRKxXyhrCs6et) | [Mbarka \(Original Mix\)](https://open.spotify.com/album/0Dh2vSHSdz59MyhTt5Zuox) | 6:15 | 2023-08-04 | 2023-09-29 |
 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-18 |  |
 | [Mn Alby Baghany](https://open.spotify.com/track/4zViTBjVXkd5eaUsSjrhHv) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:50 | 2022-03-30 | 2023-06-24 |
@@ -123,9 +123,10 @@
 | [Party Every Day](https://open.spotify.com/track/2TMBACl98EE97KJOmjiXG3) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 2:36 | 2023-05-04 | 2023-06-24 |
 | [People](https://open.spotify.com/track/286H8buvzhio16dP4VeV0q) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [People](https://open.spotify.com/album/4Ajsb1xa7tIaXziRqzutdn) | 8:08 | 2023-06-30 |  |
 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 | 2023-06-23 | 2023-08-17 |
-| [Rafat Rafat](https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Rafat Rafat](https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU) | 6:24 | 2023-06-23 |  |
+| [Rafat Rafat](https://open.spotify.com/track/0wxdCmO95St6JnlOLKciql) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Rafat Rafat](https://open.spotify.com/album/76PuKGEhebdwJSPxApNDDU) | 6:24 | 2023-06-23 | 2023-10-07 |
 | [Raina Rai](https://open.spotify.com/track/0MPpH8PpO8uOqQB7NyaH4F) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2WnZTH37xIN3HTUAsMoiqc) | 3:34 | 2022-03-30 | 2022-07-29 |
 | [Raina Rai](https://open.spotify.com/track/6uXkNygGn4fIMSitwP47wa) | [Ihan](https://open.spotify.com/artist/0RVR0TMGf3tNszGwldUu6O), [Twelve](https://open.spotify.com/artist/5zQrcUTf7m5hTwoOdXuk6E) | [Raina Rai](https://open.spotify.com/album/2kPkBpH8Mnu89fomCSUPfP) | 3:34 | 2022-06-30 | 2022-11-26 |
+| [Roots \(Prologue\)](https://open.spotify.com/track/3JpxQf1XqwrfzgDX1r98WA) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Roots \(Prologue\)](https://open.spotify.com/album/37SismGfvBzlp112TzApiQ) | 4:51 | 2023-10-06 |  |
 | [Route 55](https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp) | [Mr Oasis](https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex) | [Route 55](https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR) | 4:38 | 2022-03-30 | 2022-11-26 |
 | [Rush \- Moody Jones Remix](https://open.spotify.com/track/760wWZ9MSOKKqYjIlmwkDF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Rush \(Moody Jones Remix\)](https://open.spotify.com/album/0IHjPMsQQWcYbiMl9wp9gm) | 3:54 | 2023-06-23 |  |
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 | 2023-08-19 |

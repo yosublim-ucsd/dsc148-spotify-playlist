@@ -4029,6 +4029,28 @@
     },
     {
       "album": {
+        "name": "Grizzley 2Tymes (feat. Finesse2Tymes)",
+        "url": "https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Grizzley 2Tymes (feat. Finesse2Tymes)",
+      "url": "https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY"
+    },
+    {
+      "album": {
         "name": "Grocery Freestyle",
         "url": "https://open.spotify.com/album/786kdQmaDyMSLBemNzzoDM"
       },
@@ -6910,7 +6932,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 125926,
       "name": "No Panties (with Sexyy Red) - From Rap Sh!t S2: The Mixtape",
       "url": "https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba"
@@ -7376,7 +7398,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212266,
       "name": "OUT OF MY BODY",
       "url": "https://open.spotify.com/track/2rplRMLE3Ig1qtSb06LyOM"
@@ -7854,6 +7876,28 @@
       "duration_ms": 99279,
       "name": "Poised",
       "url": "https://open.spotify.com/track/246mkx0FW2nU6nGXz4ReUX"
+    },
+    {
+      "album": {
+        "name": "Pop My Shit (feat. Baby Money)",
+        "url": "https://open.spotify.com/album/7kBPCTGDf5CXQgvV9RCgb6"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Pop My Shit (feat. Baby Money)",
+      "url": "https://open.spotify.com/track/0e8EtbmBNnfAuBmnUy0Mas"
     },
     {
       "album": {

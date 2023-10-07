@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Gaab",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Kynnie",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -380,6 +380,32 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "album": {
+        "name": "Bal\u00e9",
+        "url": "https://open.spotify.com/album/20Eeg7wH8X8Se1dylEDOzB"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "JovemBlues",
+          "url": "https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH"
+        },
+        {
+          "name": "Malibbre",
+          "url": "https://open.spotify.com/artist/67T2348EyWZ8v3mHJD2T4K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Bal\u00e9",
+      "url": "https://open.spotify.com/track/7AD5Hbzsh4zsHCBDeMAqJh"
     },
     {
       "album": {
@@ -2107,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Pacotinho (M\u00fasica Pra Ch\u00e1 Revela\u00e7\u00e3o)",
+        "url": "https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162634,
+      "name": "Pacotinho (Menino)",
+      "url": "https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR"
+    },
+    {
+      "album": {
         "name": "Paierin",
         "url": "https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt"
       },
@@ -2198,7 +2242,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 148733,
       "name": "PLAYLIST TRANSANTE 2.0",
       "url": "https://open.spotify.com/track/4V5GHvgM5B9ZSzactTSM0b"
@@ -2546,7 +2590,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 215094,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/6NuvEZnlowoiq4Ht40qT1u"

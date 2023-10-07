@@ -749,6 +749,28 @@
     },
     {
       "album": {
+        "name": "Thank You for Coming (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ"
+      },
+      "artists": [
+        {
+          "name": "Devashri Manohar",
+          "url": "https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1"
+        },
+        {
+          "name": "Rajesh Johri",
+          "url": "https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101319,
+      "name": "Pari Hoon Main (Jazz Version)",
+      "url": "https://open.spotify.com/track/5GBG8qe6XDkw19QULbZWMK"
+    },
+    {
+      "album": {
         "name": "Honeymoon Travels Pvt. Ltd.",
         "url": "https://open.spotify.com/album/4OkX72Pbnh40SH9Rib11tD"
       },
@@ -910,7 +932,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 241918,
       "name": "Tum Jo Mil Gaye Ho (From \"Carvaan Lounge - Season 1\")",
       "url": "https://open.spotify.com/track/7Ly3FqcM2e6KP5yGGwsxth"

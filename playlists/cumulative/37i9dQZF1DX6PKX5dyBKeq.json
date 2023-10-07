@@ -15899,6 +15899,28 @@
     },
     {
       "album": {
+        "name": "Still Working 2",
+        "url": "https://open.spotify.com/album/6Bh2znaTLb4uZkY99tRvde"
+      },
+      "artists": [
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Let's Talk Money (feat. Headie One)",
+      "url": "https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7"
+    },
+    {
+      "album": {
         "name": "Let's Talk Money (feat. Headie One)",
         "url": "https://open.spotify.com/album/7lW53fPwJofbQ0x5dc7wiR"
       },
@@ -15914,7 +15936,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 179154,
       "name": "Let's Talk Money (feat. Headie One)",
       "url": "https://open.spotify.com/track/5heTEtDHaBVXIlx5DIjaGb"
@@ -29262,10 +29284,32 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 178280,
       "name": "Toxic (feat. Bad Boy Chiller Crew)",
       "url": "https://open.spotify.com/track/4fkN5DJIDwOniwT0DGGbaV"
+    },
+    {
+      "album": {
+        "name": "Crop Circle 3",
+        "url": "https://open.spotify.com/album/6SUtgIpgq9qxA3VfjzS0rq"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Toxic (feat. Bad Boy Chiller Crew)",
+      "url": "https://open.spotify.com/track/5igGT00gBoAj8FieNnUkjL"
     },
     {
       "album": {

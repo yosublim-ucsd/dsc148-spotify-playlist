@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/7tmLCVy3YeRzByi0rwhREV"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "30 A\u00f1os",
+      "url": "https://open.spotify.com/track/3MROCu02TzR1Ovu1Xq1S7r"
+    },
+    {
+      "album": {
         "name": "Sweet and Dandy",
         "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
@@ -2868,6 +2886,24 @@
       "duration_ms": 181773,
       "name": "Free Time",
       "url": "https://open.spotify.com/track/5DAnKlgL5eVGQxoIkPOYHO"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300028,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ"
     },
     {
       "album": {
@@ -5678,7 +5714,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 213263,
       "name": "No Nice",
       "url": "https://open.spotify.com/track/26bHbXsen0oxissCASvdL3"

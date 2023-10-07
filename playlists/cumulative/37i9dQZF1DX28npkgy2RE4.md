@@ -2,13 +2,14 @@
 
 ### [Modern Eclectic](https://open.spotify.com/playlist/37i9dQZF1DX28npkgy2RE4)
 
-> New styles, deep sounds\. Cover: Brent Cobb
+> New styles, deep sounds\. Cover: Tré Burt
 
-425 songs - 1 day 2 hr 7 min
+426 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 | 2021-11-12 | 2022-07-21 |
+| [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
 | [A Dream Of Home](https://open.spotify.com/track/4LINukxWI1NvCP7NUA9mKI) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [A Dream Of Home](https://open.spotify.com/album/2HSl3zIGxIG78lMrPIhWQK) | 6:02 | 2021-11-12 | 2022-07-29 |
 | [A Dream Of Home](https://open.spotify.com/track/1gus1NMkhoa9HqHflUh4f0) | [Tyler Ramsey](https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK) | [For The Morning](https://open.spotify.com/album/5Zktlm6wdERfJnqGCNN3n6) | 6:02 | 2022-07-11 |  |
 | [A Light On In The Dark](https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7) | 3:51 | 2021-11-12 | 2022-07-29 |
@@ -418,7 +419,7 @@
 | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Weather Balloons \[Feat\. Frances Cone\]](https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju) | 3:32 | 2021-11-12 | 2023-07-19 |
 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 | 2022-07-11 |  |
 | [What A Day \- Edit](https://open.spotify.com/track/5MWHZvCOAFSfxVwAsYtrSj) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Crowhurst's Meme](https://open.spotify.com/album/7zkOd0394lMZtxzohKtvYc) | 4:17 | 2021-11-12 | 2022-07-29 |
-| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 |  |
+| [What Comes After Certainty](https://open.spotify.com/track/3sSfpC7N0UC5GeaqwquTMq) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 3:42 | 2023-04-28 | 2023-10-07 |
 | [What Comes After Certainty](https://open.spotify.com/track/5ZZwQkDUUzsIbSBhnaWJfG) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/7sfkWJ14gZywjyv3wtQ5WC) | 3:42 | 2021-11-12 | 2022-07-29 |
 | [When You're Away](https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Texas Piano Man](https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9) | 3:26 | 2021-11-12 | 2023-01-16 |
 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 | 2023-09-08 |  |

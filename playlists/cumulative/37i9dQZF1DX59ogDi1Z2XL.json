@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Sean Leon",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Drake \ud83d\udc15 ",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 120058,
       "name": "01 Freestyle",
       "url": "https://open.spotify.com/track/0DR8QBEGggmumpglPEguoB"
+    },
+    {
+      "album": {
+        "name": "10 Freaky 10's",
+        "url": "https://open.spotify.com/album/2kGz0oeG0rnY5nzG7D8EQo"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190051,
+      "name": "10 Freaky 10's",
+      "url": "https://open.spotify.com/track/0yY8KJYR55jUsVdKjthtri"
     },
     {
       "album": {
@@ -2475,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/3y6LMh8HdDj0FjhQuS6UTw"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/5gCq2MdyTBUiNjDmEYk3tI"
+    },
+    {
+      "album": {
         "name": "Big Show",
         "url": "https://open.spotify.com/album/4NIBpD7kxQ5lfIFKTV99Y8"
       },
@@ -4429,6 +4469,28 @@
     },
     {
       "album": {
+        "name": "COUNT SHEEP",
+        "url": "https://open.spotify.com/album/2gAw0x0urfJOOWX35mDbBg"
+      },
+      "artists": [
+        {
+          "name": "I.R.B",
+          "url": "https://open.spotify.com/artist/06ZYLwI2i8bSaqgeC6mEQb"
+        },
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "COUNT SHEEP",
+      "url": "https://open.spotify.com/track/7pismjI4OiuJNM0yK3E73A"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/72yidR4p7A7dgVtc4yM2dd"
       },
@@ -5660,7 +5722,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 140800,
       "name": "Duh",
       "url": "https://open.spotify.com/track/1EcL3vyichgDa5X2KM0RT4"
@@ -6508,7 +6570,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 135529,
       "name": "Fatality",
       "url": "https://open.spotify.com/track/0PN3ehH0hcjSbwCmy5WtWR"
@@ -6792,6 +6854,28 @@
       "duration_ms": 159992,
       "name": "Firm",
       "url": "https://open.spotify.com/track/06JgbvJP9EeyAg3DciGvNK"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "album": {
@@ -8054,7 +8138,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 174025,
       "name": "Gods Will",
       "url": "https://open.spotify.com/track/0WP6GE82DQtvfTmWAmuL5y"
@@ -9026,7 +9110,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 154444,
       "name": "Hilayi Jaa",
       "url": "https://open.spotify.com/track/3QoHjZv16dodLql23EJbVb"
@@ -9456,6 +9540,24 @@
       "duration_ms": 156000,
       "name": "How Much She Needs Me",
       "url": "https://open.spotify.com/track/7c5LfHEYbBkbTJIlBG7I59"
+    },
+    {
+      "album": {
+        "name": "How R U",
+        "url": "https://open.spotify.com/album/2HrhR7GQqZbHl0BvXO9Pwf"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153707,
+      "name": "How R U",
+      "url": "https://open.spotify.com/track/1cH8CJex6ouAyvs3rLCXj5"
     },
     {
       "album": {
@@ -10296,7 +10398,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 189183,
       "name": "Inhale Exale",
       "url": "https://open.spotify.com/track/2lxD7mHyVfEbvZv7Z0oZsP"
@@ -13284,7 +13386,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 191149,
       "name": "More Life, Less Names - Remix",
       "url": "https://open.spotify.com/track/65MoTkG0mpjP4ZTMlnCxQH"
@@ -15210,7 +15312,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 275280,
       "name": "On The Radar Freestyle",
       "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
@@ -16372,7 +16474,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 161882,
       "name": "Prada",
       "url": "https://open.spotify.com/track/0fsXtdf7N7hLOKgqanZ2Pt"
@@ -17168,6 +17270,32 @@
       "duration_ms": 171103,
       "name": "Ric Flair Flo",
       "url": "https://open.spotify.com/track/4TbWunQP478kjcIlK4U3fP"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319191,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
       "album": {
@@ -18052,7 +18180,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 272112,
       "name": "Search & Rescue",
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
@@ -18295,6 +18423,24 @@
     },
     {
       "album": {
+        "name": "SHOULD I ?",
+        "url": "https://open.spotify.com/album/3f1IierbFvj70gGYcTZTai"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "SHOULD I ?",
+      "url": "https://open.spotify.com/track/6TTmWfbqFVyDZwCEJGgubC"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/4jEfbVIUT05emUZkSS4LW1"
       },
@@ -18394,6 +18540,24 @@
       "duration_ms": 134321,
       "name": "SiCK MEDZ",
       "url": "https://open.spotify.com/track/2FCtlho5JlIX3Gkaee5scz"
+    },
+    {
+      "album": {
+        "name": "Silly Side",
+        "url": "https://open.spotify.com/album/1ELf79Psb5fV4yCmfGMZtc"
+      },
+      "artists": [
+        {
+          "name": "Lindasson",
+          "url": "https://open.spotify.com/artist/6DXbnRlv1UgusrKOxc39j7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108169,
+      "name": "Silly Side",
+      "url": "https://open.spotify.com/track/0MOz8BUfafbbAPq39Wb9NS"
     },
     {
       "album": {
@@ -19964,7 +20128,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 192000,
       "name": "Tennis Chains",
       "url": "https://open.spotify.com/track/5TQkSGkqRWZ6SU7EUlYi6M"
@@ -20220,6 +20384,28 @@
       "duration_ms": 195000,
       "name": "The Empty Man",
       "url": "https://open.spotify.com/track/4TmzkFvaVtscot5ohf5Rrb"
+    },
+    {
+      "album": {
+        "name": "The Fruit",
+        "url": "https://open.spotify.com/album/6MNbOpzPNCWYoFQjPSybJR"
+      },
+      "artists": [
+        {
+          "name": "Skiii",
+          "url": "https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU"
+        },
+        {
+          "name": "John Da Lemon",
+          "url": "https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165413,
+      "name": "The Fruit",
+      "url": "https://open.spotify.com/track/5bohmqpFzM0iZP6Up5uTaw"
     },
     {
       "album": {
@@ -21563,6 +21749,24 @@
     },
     {
       "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/41t5Ocybm0xJKmO7AKN8lz"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/4EVUeR2sbqG1cI96Csz2vo"
+    },
+    {
+      "album": {
         "name": "Unfollow Me",
         "url": "https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ"
       },
@@ -21578,6 +21782,24 @@
       "duration_ms": 129473,
       "name": "Unfollow Me",
       "url": "https://open.spotify.com/track/3ATtfA96hbQx3RS6FkhZ5N"
+    },
+    {
+      "album": {
+        "name": "UNSTOPPABLE FREESTYLE",
+        "url": "https://open.spotify.com/album/0qshc4hFbH0jd5iV6eYXz1"
+      },
+      "artists": [
+        {
+          "name": "TARiiiQ",
+          "url": "https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "UNSTOPPABLE FREESTYLE",
+      "url": "https://open.spotify.com/track/309L3Xv3OhZcxDGzxSua9T"
     },
     {
       "album": {

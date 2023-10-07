@@ -203,6 +203,36 @@
     },
     {
       "album": {
+        "name": "Akeli Dar Lage",
+        "url": "https://open.spotify.com/album/7gc7BvRVhaXC2r4vtLQLy5"
+      },
+      "artists": [
+        {
+          "name": "Abhijit Pohankar",
+          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
+        },
+        {
+          "name": "Ramakant Gaikwad",
+          "url": "https://open.spotify.com/artist/4qfbDj4ydFDTxGFklq4Ajj"
+        },
+        {
+          "name": "Samarth Desai",
+          "url": "https://open.spotify.com/artist/0GjFXeu7FwaS5KVldRtKw4"
+        },
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/1Cr4oTUz9yoA9FORBlX396"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244974,
+      "name": "Akeli Dar Lage",
+      "url": "https://open.spotify.com/track/0Fkz1sfYAK6z8Yut4EVD4D"
+    },
+    {
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -566,7 +596,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183049,
       "name": "Barse Badariya",
       "url": "https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId"
@@ -1032,6 +1062,32 @@
       "duration_ms": 247155,
       "name": "Ghir Ghir Ke",
       "url": "https://open.spotify.com/track/510UTDROfJ1pQQLrFZgo9Y"
+    },
+    {
+      "album": {
+        "name": "Ghule",
+        "url": "https://open.spotify.com/album/2Lf8HLjJ8N9OxXiNloWMzA"
+      },
+      "artists": [
+        {
+          "name": "Abby V",
+          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
+        },
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336586,
+      "name": "Ghule",
+      "url": "https://open.spotify.com/track/1SRw6AawwihNR3uQUOTSAi"
     },
     {
       "album": {
@@ -2204,7 +2260,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181374,
       "name": "Mehki",
       "url": "https://open.spotify.com/track/3s7HqsfITsd6mc42L98RBx"

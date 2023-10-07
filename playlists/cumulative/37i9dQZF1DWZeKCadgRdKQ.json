@@ -7431,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/4vz1CjpZZN9CIz3P1ESHK4"
+      },
+      "artists": [
+        {
+          "name": "June Wysh",
+          "url": "https://open.spotify.com/artist/0WPOnxr3VJ9tgP8WzA5yhR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132015,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/4LkTkQK2xkU5S4uWN5LWI4"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/21HRbFxgdYeTeNSwgEglyZ"
       },
@@ -7518,6 +7536,24 @@
       "duration_ms": 109469,
       "name": "Resolutions",
       "url": "https://open.spotify.com/track/6zUDEI1myhSL5mAHRlKrIo"
+    },
+    {
+      "album": {
+        "name": "rest assured",
+        "url": "https://open.spotify.com/album/7AA5ZVLIx4EAsb8Pea200W"
+      },
+      "artists": [
+        {
+          "name": "Dreams Ahead",
+          "url": "https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172108,
+      "name": "rest assured",
+      "url": "https://open.spotify.com/track/6KTvKuSutuH0eWRNaFSZG3"
     },
     {
       "album": {
@@ -9560,6 +9596,24 @@
       "duration_ms": 195612,
       "name": "The Top Brink",
       "url": "https://open.spotify.com/track/6GgnlnCWIw7QsIBFewAnuE"
+    },
+    {
+      "album": {
+        "name": "The Wake Up",
+        "url": "https://open.spotify.com/album/5TDeW52hvcGzkCpOSAFTOZ"
+      },
+      "artists": [
+        {
+          "name": "Cherries & Daydreams",
+          "url": "https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158570,
+      "name": "The Wake Up",
+      "url": "https://open.spotify.com/track/5dilFfmJTngIHt0uCapLo4"
     },
     {
       "album": {

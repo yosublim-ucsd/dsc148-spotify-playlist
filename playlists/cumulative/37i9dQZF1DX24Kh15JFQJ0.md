@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Tanya Tucker
+> The latest music from our Country Heroes\. Cover: Reba McEntire
 
-232 songs - 13 hr 41 min
+233 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-10-15 |  |
 | [Sent From Above](https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Sent From Above](https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3) | 2:25 | 2021-10-15 | 2022-09-21 |
 | [Set In Stone](https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Set In Stone](https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8) | 3:04 | 2021-10-15 |  |
+| [Seven Minutes In Heaven](https://open.spotify.com/track/5zKwF0J5TJn8z2YorAo9zr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Not That Fancy](https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ) | 4:24 | 2023-10-06 |  |
 | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \- Remix](https://open.spotify.com/track/557rfmFFNH4YwsE2OYZfhF) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [She Had Me At Heads Carolina \(with Jo Dee Messina\) \[Remix\]](https://open.spotify.com/album/19PdywBe6KaiBhaws1cUPC) | 3:43 | 2022-11-18 |  |
 | [She's Everything to Me](https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [She's Everything to Me](https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt) | 3:43 | 2021-10-15 |  |
 | [Sitting Alone](https://open.spotify.com/track/2SFK85dn2BPKGOmcj4wKpO) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Sitting Alone](https://open.spotify.com/album/4pOcJnDKF4ZqwboJyJWZ1c) | 2:54 | 2023-03-24 |  |

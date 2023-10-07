@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-690 songs - 1 day 2 hr 6 min
+692 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Last Chance](https://open.spotify.com/track/4Dk38EtWuCEv9XIES350re) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9) | 2:01 | 2023-07-06 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-08 |  |
 | [late night train](https://open.spotify.com/track/1HdY90S677tBxCIglQs8rB) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [late night train](https://open.spotify.com/album/0Qlzxc487GyxRnHPqJQDgX) | 2:23 | 2023-09-22 |  |
-| [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-06 |  |
+| [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-06 | 2023-10-07 |
 | [Laurel Canyon](https://open.spotify.com/track/44qZfwmOOTfLY8eBwhHRsW) | [cuttingwood](https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw) | [Laurel Canyon](https://open.spotify.com/album/3d1wydqwhtpXOvGFJqWYsq) | 2:24 | 2023-09-22 |  |
 | [Leaps Of Faith](https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Leaps Of Faith](https://open.spotify.com/album/2tdVnz8aJLwRWcIp15rTY6) | 2:18 | 2023-09-22 |  |
 | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/track/3r92YrLWSVmwbCpyl0saJ1) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Lemme Just Sunbleach \(All Day All Night\)](https://open.spotify.com/album/1d6qrcmACFopMLcBqBhe5A) | 3:03 | 2023-09-22 |  |
@@ -354,6 +354,7 @@
 | [Loved Ones](https://open.spotify.com/track/43iOWRh6448rFtwBX6CAfZ) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Loved Ones](https://open.spotify.com/album/003wT1hqfT8gxrYkg3KkjC) | 1:39 | 2022-04-08 |  |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-09-22 |  |
 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2023-09-22 |  |
+| [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
 | [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2023-10-06 |  |
 | [Mangos](https://open.spotify.com/track/19Lkk1hRKKOwE4qTOL36nf) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Mangos](https://open.spotify.com/album/7GISc4x59WUJlbOapq2IHK) | 3:38 | 2022-04-08 |  |
 | [Marbles](https://open.spotify.com/track/5Gc0CM7a83XeqbrW5O5a6S) | [tusken.](https://open.spotify.com/artist/43P02sF00xAIa3d9mp1n24), [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Complex Channel Collective Tapes Vol\. 3](https://open.spotify.com/album/3I51mayU1aBAzUdTFQ3SrR) | 1:50 | 2022-04-08 | 2023-09-09 |
@@ -364,7 +365,7 @@
 | [mello](https://open.spotify.com/track/2JTi1Aj1mRGz7r8OCCr6sV) | [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [oldsoul.](https://open.spotify.com/album/7ay3yfaGH18QmquatBYmXH) | 1:08 | 2022-04-08 | 2022-07-29 |
 | [mello](https://open.spotify.com/track/41E6swWhglkp7zSr1L65t0) | [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [oldsoul.](https://open.spotify.com/album/40crGJnaetiAhiqKjHueky) | 1:08 | 2022-07-08 | 2023-09-09 |
 | [Mellowly](https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [Mellowly](https://open.spotify.com/album/0ctjkoVtkNRRNLlW24w0OQ) | 2:18 | 2023-10-06 |  |
-| [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
+| [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 | 2023-10-07 |
 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 | 2023-09-22 |  |
 | [memories we made](https://open.spotify.com/track/01dT6aejWkATblUn3zs0l0) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [memories we made](https://open.spotify.com/album/0tH4sqm0Rpc9fLcJfRRAFN) | 2:25 | 2023-09-22 |  |
 | [Memory Lane](https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Memory Lane](https://open.spotify.com/album/280ABIKRcVoUXHuuPC5MGv) | 1:56 | 2023-10-06 |  |
@@ -680,6 +681,7 @@
 | [When the Time Comes](https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R) | [Gordon](https://open.spotify.com/artist/6Y9LyKatIXZuMSIKI04oTc) | [When the Time Comes](https://open.spotify.com/album/4bPg3cepOhvfIjBn1lHoZ9) | 2:04 | 2022-04-08 | 2023-09-23 |
 | [Where Were You](https://open.spotify.com/track/1vGQOxqFAlGJdyGRhcN8y9) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [Where Were You](https://open.spotify.com/album/2DcEZpW2pWgy2T5EaHMIg4) | 2:37 | 2023-10-06 |  |
 | [Who Are We](https://open.spotify.com/track/20pxIVsAEvIxbKwh3rjIju) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Who Are We](https://open.spotify.com/album/0GsrMWjwpZOn14T7My0r0i) | 1:56 | 2023-09-22 |  |
+| [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-08 |  |
 | [Wings](https://open.spotify.com/track/63daV8ZkxFe70vRXyTwQL3) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Wings](https://open.spotify.com/album/73CS9J7T2wALFYinRWLi4G) | 1:26 | 2023-09-22 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2023-10-06 |  |

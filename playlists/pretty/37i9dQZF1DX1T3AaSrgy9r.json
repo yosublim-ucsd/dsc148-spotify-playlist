@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 108483,
+  "num_followers": 108633,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTA0ZDdmNTdkNzk0NGMxZDJkZTAyZGEyMmIyZjI0NzI5NTlkNTJi",
+  "snapshot_id": "MCxmYzZlNTBiODk4YzdjOTY3MTVjMTg0Mjc4MmQ3YzgzNDhlMTQ4MTJl",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
         }
       ],
-      "duration_ms": 388200,
-      "name": "The Box, Pt. 1",
-      "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
+      "duration_ms": 379160,
+      "name": "We Have Explosive",
+      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
       },
       "artists": [
         {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
         }
       ],
-      "duration_ms": 379160,
-      "name": "We Have Explosive",
-      "url": "https://open.spotify.com/track/0VNfwqLDcbKk5eDBOdYWTI"
+      "duration_ms": 388200,
+      "name": "The Box, Pt. 1",
+      "url": "https://open.spotify.com/track/5TbwZ0OSuU1fGtQ8aTgiZP"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Dead Cities",
+        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound Of London",
+          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "My Kingdom",
+      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Atom Bomb",
         "url": "https://open.spotify.com/album/5TbRo1rBrhgHSTB4i2wdZS"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Abc Music - The Radio 1 Sessions",
-        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
-      },
-      "artists": [
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
-        }
-      ],
-      "duration_ms": 260640,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Halfway Between The Gutter And The Stars",
         "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Dead Cities",
-        "url": "https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay"
+        "name": "Abc Music - The Radio 1 Sessions",
+        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
       },
       "artists": [
         {
-          "name": "The Future Sound Of London",
-          "url": "https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3"
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
         }
       ],
-      "duration_ms": 347106,
-      "name": "My Kingdom",
-      "url": "https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB"
+      "duration_ms": 260640,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"
     },
     {
       "added_at": "2021-07-14 17:36:34",

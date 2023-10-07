@@ -2757,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "Teenage Crime",
+        "url": "https://open.spotify.com/album/0pMzkM2vW0PF5o3gPRK2ha"
+      },
+      "artists": [
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        },
+        {
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/7vNo4R4tN5dQmexJ3YxB8m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Teenage Crime",
+      "url": "https://open.spotify.com/track/56ZNwbRyLVDwcf3nUzXwUX"
+    },
+    {
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/2n0lPOStK5EVaQxiTKsF3Z"
       },

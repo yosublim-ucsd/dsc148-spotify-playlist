@@ -3629,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/5W8d6Co4CvHGH5WQ2VTGUF"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260021,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/1lBpl7dFv6n9nNzcn93bD2"
+    },
+    {
+      "album": {
         "name": "Independent Artist",
         "url": "https://open.spotify.com/album/6tahA5ozFUvGAU43dH5ICC"
       },

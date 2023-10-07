@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Sleep Theory",
+  "description": "The hardest songs, loud. Very loud. Cover: Mike Shinoda",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 172353,
       "name": "$wing",
       "url": "https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO"
+    },
+    {
+      "album": {
+        "name": "(i)",
+        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183404,
+      "name": "(i)",
+      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
     },
     {
       "album": {
@@ -648,6 +666,24 @@
       "duration_ms": 228977,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
+    },
+    {
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "album": {
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 197540,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/6AOkDgCpsnruITzR45dxry"
@@ -2384,7 +2420,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 239872,
       "name": "Bygones (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie"
@@ -2756,6 +2792,24 @@
       "duration_ms": 181666,
       "name": "Chewing Glass",
       "url": "https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys"
+    },
+    {
+      "album": {
+        "name": "CHILDREN OF SORROW",
+        "url": "https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "CHILDREN OF SORROW",
+      "url": "https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd"
     },
     {
       "album": {
@@ -4688,7 +4742,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185060,
       "name": "Dream Big",
       "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
@@ -7395,6 +7449,24 @@
     },
     {
       "album": {
+        "name": "Hyperactive",
+        "url": "https://open.spotify.com/album/721XYQjwy2HJcLBVsDLOF8"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178207,
+      "name": "Hyperactive",
+      "url": "https://open.spotify.com/track/1er58pTJbvjLsBG0bWTo6K"
+    },
+    {
+      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -8724,7 +8796,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 377560,
       "name": "Last Word",
       "url": "https://open.spotify.com/track/0e0SA8QXA85qkGhLPOD0Rr"
@@ -9711,6 +9783,24 @@
     },
     {
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/0XrvDMEKT1ppWab1df27PV"
+      },
+      "artists": [
+        {
+          "name": "Tropic Gold",
+          "url": "https://open.spotify.com/artist/25My38UxRbqlegmRn61zQP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0ukaxzdMO2WGxugrJaHzbN"
+    },
+    {
+      "album": {
         "name": "March of the Insane",
         "url": "https://open.spotify.com/album/2JGSRUldESbdFxQIMw2OQT"
       },
@@ -9852,6 +9942,24 @@
       "duration_ms": 312200,
       "name": "Meeting The Master",
       "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266621,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1"
     },
     {
       "album": {
@@ -10758,7 +10866,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
@@ -10820,6 +10928,24 @@
       "duration_ms": 235714,
       "name": "Nothing Ever After",
       "url": "https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk"
+    },
+    {
+      "album": {
+        "name": "NOTHINGNESS",
+        "url": "https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "NOTHINGNESS",
+      "url": "https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX"
     },
     {
       "album": {
@@ -11000,7 +11126,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 335733,
       "name": "Old Wounds",
       "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
@@ -14562,7 +14688,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 213066,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw"
@@ -14950,7 +15076,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
@@ -15012,6 +15138,28 @@
       "duration_ms": 231666,
       "name": "The Body",
       "url": "https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3"
+    },
+    {
+      "album": {
+        "name": "The Boom Went The Boom (feat. Phil Collen)",
+        "url": "https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        },
+        {
+          "name": "Phil Collen",
+          "url": "https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219541,
+      "name": "The Boom Went The Boom (feat. Phil Collen)",
+      "url": "https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt"
     },
     {
       "album": {
@@ -15636,7 +15784,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173614,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
@@ -16132,7 +16280,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
@@ -16204,7 +16352,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 229212,
       "name": "Too Good At Raising Hell",
       "url": "https://open.spotify.com/track/7oob8M60wM76SlqThEwoTC"
@@ -17044,7 +17192,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 218722,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/4feiiZw3v2tj0SagHrkwQv"
@@ -17120,6 +17268,24 @@
       "duration_ms": 135208,
       "name": "We Came To Play",
       "url": "https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP"
+    },
+    {
+      "album": {
+        "name": "We Love You Moar (feat. Pussy Riot)",
+        "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/4Cb1wCZV9jCeBMcVYH9ihH"
     },
     {
       "album": {

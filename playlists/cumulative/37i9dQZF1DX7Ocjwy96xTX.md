@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-203 songs - 12 hr 18 min
+205 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 | 2023-08-18 |  |
 | [Contingency Song](https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Contingency Song](https://open.spotify.com/album/2Vlh2FhevwagFT6TICYYmU) | 6:31 | 2023-05-24 | 2023-06-03 |
 | [Couch](https://open.spotify.com/track/62jTONp5YKMM1XSNbz9cF3) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Couch](https://open.spotify.com/album/4gUzr9JEqJosoZ5UV7F3VI) | 2:03 | 2022-11-10 | 2023-05-25 |
+| [Covet](https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:47 | 2023-10-06 |  |
 | [Crash](https://open.spotify.com/track/25SwJzzyuKCAHSIIcgYEjo) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Crash](https://open.spotify.com/album/2bGQnP0JUPy0tL3MZq67kD) | 4:43 | 2023-08-18 |  |
 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 | 2022-09-02 | 2022-11-11 |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-09-02 | 2022-09-17 |
@@ -168,6 +169,7 @@
 | [Rose In A Glass](https://open.spotify.com/track/0oACcecqRIuP0vi2wvBq5o) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Body Jumper](https://open.spotify.com/album/34wILh42l9lFTepPd128Jg) | 2:58 | 2022-09-16 | 2023-09-30 |
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-06-02 | 2023-08-19 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 | 2023-09-30 |
+| [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-10-06 |  |
 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 | 2023-03-22 |  |
 | [Shellshock \- Dubyshkin Feed Your Pet Mix](https://open.spotify.com/track/5DPoMqEbmuENT6EKpVY5OQ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [Vladimir Dubyshkin](https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 4:07 | 2023-01-19 | 2023-05-25 |
 | [Singing To Let England Shake](https://open.spotify.com/track/4WgPnx0VIchYHqhIBK6I7y) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [Singing To Let England Shake](https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9) | 3:36 | 2022-09-09 | 2023-05-25 |

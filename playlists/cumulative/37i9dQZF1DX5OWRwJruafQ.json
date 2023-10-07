@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Characters",
+        "url": "https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0"
+      },
+      "artists": [
+        {
+          "name": "Barinder Dhapai",
+          "url": "https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158260,
+      "name": "Characters",
+      "url": "https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi"
+    },
+    {
+      "album": {
         "name": "Check It Out",
         "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
       },
@@ -930,6 +948,24 @@
       "duration_ms": 144255,
       "name": "Defender",
       "url": "https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9"
+    },
+    {
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/2bEjkwncDxc9oZCpbZ1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harpreet Kalewal",
+          "url": "https://open.spotify.com/artist/2nT4wsPEIZH3ONWnv5VvxQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/0DoyE2iuXrUjrHr9cLqCmp"
     },
     {
       "album": {
@@ -1144,7 +1180,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 164543,
       "name": "Face Off",
       "url": "https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw"
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 171428,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/1kaKltt8lpftj69XODO4RM"
@@ -1984,6 +2020,32 @@
       "duration_ms": 207272,
       "name": "Jail",
       "url": "https://open.spotify.com/track/4vq09IiRwg2EdJtovCl5H2"
+    },
+    {
+      "album": {
+        "name": "Jatt Bande",
+        "url": "https://open.spotify.com/album/1h9UkIIWgLsV6r5o1r2yj7"
+      },
+      "artists": [
+        {
+          "name": "Deep Dosanjh",
+          "url": "https://open.spotify.com/artist/2wfWZhs4Vfsaebzcqg6QSR"
+        },
+        {
+          "name": "J Chahal",
+          "url": "https://open.spotify.com/artist/4jGSwWsGAs9KOrd6LPxg2E"
+        },
+        {
+          "name": "Money On The Beat",
+          "url": "https://open.spotify.com/artist/5bx5ppUrhA6GF5l2swMOk9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199020,
+      "name": "Jatt Bande",
+      "url": "https://open.spotify.com/track/13h6cUhOMSOrZsxjboUCqC"
     },
     {
       "album": {
@@ -2426,7 +2488,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 193216,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/38RA9VH12NmpiVBamNJtSy"
@@ -2612,6 +2674,24 @@
       "duration_ms": 213131,
       "name": "Modern Mirza",
       "url": "https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z"
+    },
+    {
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1YG4HJc27GqLQ9MAxhNiEh"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145785,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/45DhouHXEV4vLcatvoW9qK"
     },
     {
       "album": {
@@ -3551,6 +3631,28 @@
     },
     {
       "album": {
+        "name": "Sher Jatt",
+        "url": "https://open.spotify.com/album/4wKOpjJooFss9cVWYTnvnM"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Nav Garhiwala",
+          "url": "https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Sher Jatt",
+      "url": "https://open.spotify.com/track/5rhKSzzT9Y7yBGcdmU0j82"
+    },
+    {
+      "album": {
         "name": "Shohrat",
         "url": "https://open.spotify.com/album/67gVqqexjN9khVmggJsLg5"
       },
@@ -3974,7 +4076,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 167441,
       "name": "The Remains",
       "url": "https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4"
@@ -4351,6 +4453,28 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137395,
+      "name": "Whatcha Doin'",
+      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
+    },
+    {
+      "album": {
         "name": "WHIPZ",
         "url": "https://open.spotify.com/album/5wHzhNd4mvCJDLElJ4863a"
       },
@@ -4498,7 +4622,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 140752,
       "name": "You Talking To Me?",
       "url": "https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ"

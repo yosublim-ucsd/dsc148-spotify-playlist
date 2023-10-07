@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,995 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 32 | [Chingon \(with Peso Peso\)](https://open.spotify.com/track/5QCVFEOXmI9mCqiAZvokpW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Chingon \(with Peso Peso\)](https://open.spotify.com/album/3FalVFmeeAijs0YIuD39px) | 2:05 |
 | 33 | [Ran It Up](https://open.spotify.com/track/7KSQcZeFYQlF8lugakrTV3) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Be Right Back](https://open.spotify.com/album/4HttlJdK5FmQkrcSZZip4n) | 1:26 |
 | 34 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
-| 35 | [Ww3](https://open.spotify.com/track/40fS9HNRLevyJewxseOioF) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:36 |
-| 36 | [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 |
+| 35 | [Morals & Principles](https://open.spotify.com/track/7taqc8ECCZeRWtjaCEYzlc) | [Acito](https://open.spotify.com/artist/01oY6wumU3INVxo8ddX7mj), [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [The Ace Of Spades](https://open.spotify.com/album/0HNREpMTFSwFnURnDYEYS8) | 2:40 |
+| 36 | [Ww3](https://open.spotify.com/track/40fS9HNRLevyJewxseOioF) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD) | [For the Hood](https://open.spotify.com/album/72Qs7WVuNMwizR3mI6vEME) | 2:36 |
 | 37 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
 | 38 | [Too Late](https://open.spotify.com/track/2As5tC03TNPCufeYzEK57H) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [HorHey](https://open.spotify.com/album/0jAR7h9XobZFsum1WpFcJW) | 2:17 |
 | 39 | [Villain](https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Villain](https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 50 | [Toxic](https://open.spotify.com/track/0aS10pGB1AyvV8YKlModuD) | [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Abandoned Love](https://open.spotify.com/album/4NB6CVW0MxLuMwKz9emUPK) | 3:20 |
 
-Snapshot ID: `MCw1ZDc4YTlkNDM3MGYxZmRmNWVlOGMwMmI1ZTI0M2MzMTI5ZDVjMjUw`
+Snapshot ID: `MCwwMGNiNmRjMGU4YzQxMTI1NjJiM2Q3N2Y5Mjc2NzgyNDIyYWM3YzQ5`

@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-291 songs - 13 hr 39 min
+292 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2021-12-10 |  |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 | 2021-12-10 | 2023-10-03 |
+| [Qhov Cua](https://open.spotify.com/track/4dvLRtGX5cGeBjVQE8CGvu) | [Rufus Odobata](https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK) | [Qhov Cua](https://open.spotify.com/album/3as6EwVglrYWsSbXDYr8wE) | 3:21 | 2023-10-06 |  |
 | [Quartz](https://open.spotify.com/track/6fEgQLmEhvE5Y04aldWGyd) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 6](https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn) | 2:36 | 2021-12-10 |  |
 | [Quietism](https://open.spotify.com/track/2elxb3dMZkZPtS6jqE6nRP) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Quietism](https://open.spotify.com/album/74n9JKT7nUeShC9rJWKaoM) | 2:43 | 2023-04-28 |  |
 | [Ready \(Eventide\)](https://open.spotify.com/track/3TkZqdoFUtauvCxBsgNglY) | [Adrian Disch](https://open.spotify.com/artist/48EcVRzDBk0MSyRat8Blte) | [Ready \(Eventide\)](https://open.spotify.com/album/2WwbwLqaikwVbdzthgMYps) | 4:51 | 2021-12-10 | 2022-12-03 |
@@ -229,7 +230,7 @@
 | [sincerity](https://open.spotify.com/track/5Iqot3xa0XOdBKC3X6GbIj) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [fading memories](https://open.spotify.com/album/2hUqUrgwvgD7Syr8wdNcar) | 3:44 | 2021-12-10 | 2023-07-18 |
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2021-12-10 | 2022-08-13 |
 | [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2021-12-10 |  |
-| [Sleep Under The Stars](https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Sleep Under The Stars](https://open.spotify.com/album/2vilvq8rCXcEETrH8JeoXT) | 3:01 | 2021-12-10 |  |
+| [Sleep Under The Stars](https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb) | [The Boy And The String Machine](https://open.spotify.com/artist/6vCDShB6lc6Ew6geXGjVNS) | [Sleep Under The Stars](https://open.spotify.com/album/2vilvq8rCXcEETrH8JeoXT) | 3:01 | 2021-12-10 | 2023-10-07 |
 | [Sleeping like the Birchwood](https://open.spotify.com/track/2FCFesDX0QOFkKIzpoqWD6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Sleeping Like the Birchwood](https://open.spotify.com/album/0uf3tqNtWuAyznHWI6foBg) | 3:24 | 2021-12-10 | 2023-07-18 |
 | [Sleepy Mountains](https://open.spotify.com/track/5pNEVP7GH0wgK3PCL5oEws) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Sleepy Mountains](https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr) | 2:50 | 2021-12-10 |  |
 | [Solitaire](https://open.spotify.com/track/4YMvriirsclBSASn6serSA) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Solitaire](https://open.spotify.com/album/3Ji3wmlRwoq8eCnOR8uXpS) | 3:04 | 2021-12-10 | 2023-08-12 |

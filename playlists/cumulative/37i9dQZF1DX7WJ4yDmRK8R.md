@@ -4,14 +4,14 @@
 
 > This is the best of ska, new and classic\. Cover: Jeff Rosenstock
 
-258 songs - 13 hr 36 min
+259 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\*\*\*SKA](https://open.spotify.com/track/6atKAG2vpccwtNNnHgCXPu) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [SKA DREAM](https://open.spotify.com/album/62q3iMl7Lfpw19xxWzr52x) | 2:30 | 2021-09-02 | 2022-07-28 |
 | [007 \(Shanty Town\)](https://open.spotify.com/track/7LOAChK8Lkj8ZdF1LuhNWP) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe), [ACES](https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG) | [007 Shanty Town](https://open.spotify.com/album/5lJvmBzHTq7POLabCLvzOm) | 2:32 | 2022-12-09 |  |
 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 | 2021-09-02 |  |
-| [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 | 2022-12-09 |  |
+| [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 | 2022-12-09 | 2023-10-07 |
 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 | 2022-12-09 |  |
 | [9mm and a Three Piece Suit](https://open.spotify.com/track/0TBEx3nrsV7gnEL3gQPj9W) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/3qr6t93uRL9vO4VSIEziCF) | 1:56 | 2021-09-02 | 2022-07-29 |
 | [9mm And A Three Piece Suit](https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 1:56 | 2022-04-14 |  |
@@ -70,6 +70,7 @@
 | [Fire and Forget](https://open.spotify.com/track/2z6npC2l0uzhzXaPIDeb5o) | [Rude Tins](https://open.spotify.com/artist/20XsDMN8RhkHSmnH2DrgAz) | [Fire and Forget](https://open.spotify.com/album/7iCb1LsZwy3zNQa85oIzyD) | 3:05 | 2021-09-02 | 2022-05-10 |
 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 | 2022-04-14 |  |
 | [Free Time](https://open.spotify.com/track/5DAnKlgL5eVGQxoIkPOYHO) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/58CENOcpf0isuLHgtQYadO) | 3:01 | 2021-09-02 | 2022-07-29 |
+| [Freedom](https://open.spotify.com/track/37mol8ORH3HXWx2TrLR6EJ) | [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Freedom](https://open.spotify.com/album/6RllYZ84AUMAiCpdYgEydg) | 5:00 | 2023-10-06 |  |
 | [Friday](https://open.spotify.com/track/7IjLHbXOVXZNxJiiNHL6hF) | [Accidental President](https://open.spotify.com/artist/2aIOJOEIVx1EzZ8k7N2p2E) | [I Don't Need This](https://open.spotify.com/album/4mDDsLJO8DvOZcmudfMUpK) | 1:42 | 2021-09-02 | 2022-07-29 |
 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 | 2023-08-31 |  |
 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 | 2022-12-09 |  |

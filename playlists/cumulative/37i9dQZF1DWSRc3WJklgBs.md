@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,203 songs - 2 day 22 hr 25 min
+1,204 songs - 2 day 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Easy Love](https://open.spotify.com/track/6Sr8JkH7XRVk7Dnar9Xsr5) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/1rMPJblLr89uOAzmmfr2Zp) | 3:47 | 2019-08-09\* | 2019-08-27 |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-01-06 |  |
 | [Echoes](https://open.spotify.com/track/2EeujvJimt6SNSbIKOjI4v) | [Solstis](https://open.spotify.com/artist/0cWwLbhs4bX6RLNR0r3FMN) | [Echoes](https://open.spotify.com/album/2amSeQJMX3Y94pwa1LNkyk) | 4:00 | 2019-08-09\* | 2019-08-27 |
+| [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2023-10-06 |  |
 | [Elise](https://open.spotify.com/track/4a0ODo3VbYGHP4qK7RAsXp) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Elise](https://open.spotify.com/album/6tKs4EDIFLYzrIwguSx5c4) | 3:54 | 2020-05-15 | 2021-09-25 |
 | [Elsewhere](https://open.spotify.com/track/617i6aEXqo8RW7ZsM4yn3q) | [Define Light](https://open.spotify.com/artist/1cv1zasjsfwUWfDMqYuRSP), [Miles Dominic](https://open.spotify.com/artist/6XUyOrwcS0IbQ3hZnSSKCq) | [Elsewhere](https://open.spotify.com/album/48pQBdxuaYxWjACrmUo9Vk) | 4:56 | 2019-08-09\* | 2019-09-02 |
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2019-08-09\* | 2020-03-29 |
@@ -539,7 +540,7 @@
 | [In Your Arms](https://open.spotify.com/track/7oW2II81S5jF0VaULnfKTR) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [In Your Arms \[UKF10\]](https://open.spotify.com/album/1x1GW2sm6hoTHVwbMEFiFu) | 4:12 | 2019-08-20 | 2020-10-30 |
 | [In Your Arms \(For An Angel\)](https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [In Your Arms \(For An Angel\)](https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b) | 2:30 | 2022-01-28 | 2023-05-20 |
 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 | 2019-08-27 | 2020-10-30 |
-| [in YOUR EYES](https://open.spotify.com/track/4twkHZHHfnFKhIFOe2Z0I6) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [PATCHWORK](https://open.spotify.com/album/77RgmwOBFjOnQC0GXwdk8A) | 2:52 | 2023-06-09 |  |
+| [in YOUR EYES](https://open.spotify.com/track/4twkHZHHfnFKhIFOe2Z0I6) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [PATCHWORK](https://open.spotify.com/album/77RgmwOBFjOnQC0GXwdk8A) | 2:52 | 2023-06-09 | 2023-10-07 |
 | [In Your Eyes](https://open.spotify.com/track/1lUjPwJpoW1fJK35XLSl79) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB) | [Wanderlust](https://open.spotify.com/album/5FDLJc6wSkoj1gstHyE5lA) | 3:06 | 2019-08-09\* | 2020-03-29 |
 | [Indian Summer](https://open.spotify.com/track/3YZJIHIX3kPd5wLwKLWIZA) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Indian Summer](https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0) | 3:20 | 2020-10-30 | 2021-09-25 |
 | [Indian Summer](https://open.spotify.com/track/42nkVBjWYVhiijbof5zySm) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/2afNG92zO2m0WT1FvU8PvA) | 4:08 | 2019-08-09\* | 2019-08-27 |

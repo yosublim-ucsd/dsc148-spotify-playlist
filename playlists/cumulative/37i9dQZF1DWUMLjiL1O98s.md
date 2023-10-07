@@ -2,7 +2,7 @@
 
 ### [calorcito afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWUMLjiL1O98s)
 
-> La nueva ola del Afrobeats con un toque latino\. Feid en portada
+> La nueva ola del Afrobeats con un toque latino\. Feid y Rema en portada
 
 133 songs - 6 hr 49 min
 

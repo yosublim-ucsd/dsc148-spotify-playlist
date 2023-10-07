@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese female rock icons\. Cover: SCANDAL
 
-1,155 songs - 3 day 0 hr 50 min
+1,156 songs - 3 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Lucky Days](https://open.spotify.com/track/0Ru8fmxLWjvpMwFuVZ6cYU) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Lucky Days](https://open.spotify.com/album/2OoO1VK1Ukap8wNoVWXnvL) | 3:52 | 2022-05-26 | 2022-07-25 |
 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 | 2022-10-18 | 2023-01-18 |
 | [made in Miracles](https://open.spotify.com/track/6smcutOPvXpDeqGms5AHOB) | [meh meh white sheeps](https://open.spotify.com/artist/2pS4I1UmsiGaOcunZ99qxo) | [made in Miracles](https://open.spotify.com/album/2PdwLLA7lVbtBIylOuVuQe) | 2:46 | 2022-06-07 | 2022-06-09 |
+| [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 |  |
 | [MAKE IT EASY!](https://open.spotify.com/track/3mWckOPMu3DdILa5WjrBxt) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [MAKE IT EASY!](https://open.spotify.com/album/6SC62SB41Xh0WAmUs6bvhQ) | 3:14 | 2022-07-14 | 2022-07-17 |
 | [Memorable](https://open.spotify.com/track/17owggiNAYFzigM57niXUb) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/7IRqHHRA0aiUelyyU7cRpn) | 3:13 | 2023-02-21 | 2023-02-23 |
 | [Memorable](https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Memorable](https://open.spotify.com/album/2Cz21KfjA5eGgvS7262T4o) | 3:13 | 2023-02-21 | 2023-05-31 |
@@ -648,7 +649,7 @@
 | [また夏を追う](https://open.spotify.com/track/4JyWjpfWLFqdbqPzhpLhzC) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [また夏を追う](https://open.spotify.com/album/5p5ssxTw4ifdGrhjq4Q6pN) | 4:47 | 2022-08-25 | 2022-11-16 |
 | [また音の鳴る場所で](https://open.spotify.com/track/7qbLM5Y5x3VBbNlKF7II8V) | [すいらん](https://open.spotify.com/artist/27pStGXgCMBKFX3yLj5WCR) | [また音の鳴る場所で](https://open.spotify.com/album/0wJi47q0tYm7eoGtng5mRS) | 5:18 | 2022-06-23 | 2022-07-18 |
 | [まちのなか](https://open.spotify.com/track/7ujwXfDarMYApUCFYpyNwd) | [Riho Nishikata](https://open.spotify.com/artist/4xU4KNUaARwgoW0LYDYwq8) | [まどろみのひかり](https://open.spotify.com/album/6FaU5u4o1YqeqgNObEMB4I) | 2:23 | 2022-06-07 | 2022-07-06 |
-| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 |  |
+| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まぼろし](https://open.spotify.com/track/1cAullkJ0hxb6oGmBwywoA) | [Nyanzonu Deshi](https://open.spotify.com/artist/1SvVh1zDPdsm49YyhmsqTX) | [まぼろし](https://open.spotify.com/album/6x3dcUijP9smui7faeOLLE) | 4:30 | 2022-05-26 | 2022-07-08 |
 | [まるで](https://open.spotify.com/track/5OUBCbnj8yNgg4YfuvJ2jj) | [Niiiya](https://open.spotify.com/artist/2ouzqdQoRdpwti2dT4Kbqh) | [まるで](https://open.spotify.com/album/459ZidjRP3u3psdmS3bsct) | 3:24 | 2023-08-01 | 2023-08-09 |
 | [みんなおなじ](https://open.spotify.com/track/7HVfRqzsoiwpQ20rrkaLw8) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [みんなおなじ](https://open.spotify.com/album/6kdiQ4aRSv01HPXsGttVBK) | 4:23 | 2022-06-02 | 2022-07-04 |

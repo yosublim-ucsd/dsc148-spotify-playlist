@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月4日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,476 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,550 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [愛唄](https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。はじめまして。](https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh) | 3:56 |
 | 50 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 |
 
-Snapshot ID: `MCw2MDBmN2U3MmUxMDJkN2VkZTYwZjYwOTViYTc4YzkyM2ZjMDU3NGQ5`
+Snapshot ID: `MCxhYzhkNDhjOTc1ZGM4M2Y0YjRhMDNjYWUzMTVjNzQxZWNhOTU5ZWVm`

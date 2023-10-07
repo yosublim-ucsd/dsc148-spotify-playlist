@@ -4,7 +4,7 @@
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-176 songs - 11 hr 49 min
+177 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Medley de Coritos](https://open.spotify.com/track/05d0deNBSJhofh0XOxT38x) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Ocasiones Especiales](https://open.spotify.com/album/1VhaBSZDvTZaSOOTNy9PaV) | 4:32 | 2021-12-24 | 2022-11-13 |
 | [Medley de Coritos](https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidades en Mi Tierra](https://open.spotify.com/album/6rqzU8FpFgpCKsn5uyUsCX) | 4:32 | 2021-12-24 |  |
 | [Medley de Coritos](https://open.spotify.com/track/0KsL7ntQptxiIGfuLqH4ue) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Navidad en Mi Tierra](https://open.spotify.com/album/3bBEvMvpx2UnVRIYMTn6S0) | 4:32 | 2021-12-24 | 2022-07-29 |
+| [Medley: Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/5wXK9uS1x7FWSnXYACa23s) | [Ricardo Rodríguez](https://open.spotify.com/artist/6TuV05yTWyO6c0El5dzBd9) | [En Navidad](https://open.spotify.com/album/6o0ntlD4u83NeaMhLqisNP) | 4:25 | 2022-12-10 |  |
 | [Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad](https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 4:23 | 2021-12-24 | 2023-09-24 |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd) | [Gospa](https://open.spotify.com/artist/3GCcJfWP2nPa1mGLVrZvEJ) | [Navidad Con Gospa](https://open.spotify.com/album/2fZz4vPNGsMzyaAilfRJx6) | 3:07 | 2021-12-24 | 2023-04-26 |
 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-10 |  |
@@ -127,7 +128,7 @@
 | [Noche de paz](https://open.spotify.com/track/1FgGbxn7dhxkjxivVUxF96) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/3ASFoKaxRtfLItf3UthC91) | 3:06 | 2021-12-24 | 2022-07-29 |
 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 | 2021-12-24 | 2023-09-29 |
 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 | 2021-12-24 |  |
-| [Noche De Paz \(feat\. Betsy\)](https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:06 | 2021-12-24 |  |
+| [Noche De Paz \(feat\. Betsy\)](https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7) | [Betsy](https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK) | [Feliz Navidad](https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc) | 3:06 | 2021-12-24 | 2023-10-07 |
 | [Oh Pueblecito De Belen](https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 3:05 | 2021-12-24 | 2023-07-22 |
 | [Oh ven, Emanuel](https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Oh ven, Emanuel](https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV) | 4:14 | 2021-12-24 |  |
 | [Oh ven, Emanuel](https://open.spotify.com/track/5YQntlCDSQQk6x1cLKZYre) | [Alfarero](https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq) | [Oh ven, Emanuel](https://open.spotify.com/album/2Iif4im5XNU94vBoMCOm6b) | 4:14 | 2021-12-24 | 2022-07-29 |

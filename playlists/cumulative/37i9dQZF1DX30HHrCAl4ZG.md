@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring new music by Briston Maroney.
+> Explore all things indie rock right now\. Featuring new music by Slow Pulp
 
-1,207 songs - 2 day 17 hr 46 min
+1,210 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Belinda Says](https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:45 | 2022-09-23 | 2022-10-15 |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-23 | 2022-10-10 |
 | [Ben Franklin](https://open.spotify.com/track/5epwtR5dDDRzxdD7AGorzX) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Ben Franklin](https://open.spotify.com/album/2VfCI8EO1rfuGF0VmcM57O) | 3:01 | 2021-10-22 | 2022-04-12 |
+| [best friend](https://open.spotify.com/track/3CuMLuNAPPl1jNrOuSImuU) | [Small Forward](https://open.spotify.com/artist/6V2pAcwTwmzCs6T5HwlJLh) | [best friend](https://open.spotify.com/album/1PoLUKiOuc1DLqoYyTz3Zx) | 2:59 | 2023-10-06 |  |
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-07 | 2023-05-20 |
 | [Best of It](https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Best of It](https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v) | 2:08 | 2022-10-21 | 2022-10-29 |
 | [Best of Me](https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [All The Ways We Are Together](https://open.spotify.com/album/44wiGP3EtCvu6lDACZAvkC) | 2:37 | 2021-06-07 | 2022-05-04 |
@@ -292,7 +293,7 @@
 | [Daydreams / Heartbreaks](https://open.spotify.com/track/7ii2viOBMRgDUtjIKkphS0) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Daydreams / Heartbreaks](https://open.spotify.com/album/1uLAb2C8Y9QwRxouFCPjre) | 3:08 | 2021-06-11 | 2022-04-20 |
 | [Dayglow](https://open.spotify.com/track/6Mi8q6mFuC2U5pPBNYGyOv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Dayglow](https://open.spotify.com/album/5Xr2av8BUCDDdvhaJ0Mm0n) | 2:57 | 2021-06-07 | 2022-04-20 |
 | [Days Like Lost Dogs](https://open.spotify.com/track/6oSEQDTq66SDlyNTrwvzbN) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Days Like Lost Dogs](https://open.spotify.com/album/35gZjxY7yjWmqXvwJygKSP) | 3:45 | 2021-11-19 | 2022-06-11 |
-| [Days Move Slow](https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:40 | 2023-07-21 |  |
+| [Days Move Slow](https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:40 | 2023-07-21 | 2023-10-07 |
 | [Days Move Slow](https://open.spotify.com/track/4zeGdv0J2HFfTaZIyUPwrq) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Days Move Slow](https://open.spotify.com/album/5rC3BK6aGWCePOsQxbvGHO) | 2:40 | 2023-03-24 | 2023-05-20 |
 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 | 2022-10-07 | 2022-11-12 |
 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 | 2022-08-16 | 2022-09-03 |
@@ -387,7 +388,7 @@
 | [Everything \(all at once\)](https://open.spotify.com/track/4G1a2dYMI9PkgLb6MRoFtT) | [Archways](https://open.spotify.com/artist/1wBXSyOwOUX2Vlm3fz37XA) | [Coloured Pills](https://open.spotify.com/album/6PAQidIQCcGE837tJGmE2M) | 5:03 | 2023-07-28 | 2023-09-09 |
 | [Everything Is Boring](https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Everything Is Boring](https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX) | 2:56 | 2023-04-07 | 2023-08-12 |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2023-08-04 | 2023-09-30 |
-| [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-08 |  |
+| [Evicted](https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 3:29 | 2023-09-08 | 2023-10-07 |
 | [Expert In A Dying Field](https://open.spotify.com/track/7v5SMNpbt9eaO7dFHGoXLZ) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 4:11 | 2022-10-07 | 2023-01-19 |
 | [Expired Candy](https://open.spotify.com/track/4yzF9uOJ8JwyK5rE3TKNWK) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Expired Candy](https://open.spotify.com/album/27EWNCik4t25bvCJ9J55Hc) | 3:02 | 2023-06-02 | 2023-07-15 |
 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 | 2021-11-19 | 2022-06-01 |
@@ -1072,6 +1073,7 @@
 | [They Don't Know](https://open.spotify.com/track/2y6ENcGCRfpH6Vbeu19GMq) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [They Don't Know](https://open.spotify.com/album/0e79HmvVdyBdU9yFiPfGxl) | 3:27 | 2022-06-10 | 2022-07-16 |
 | [They Don't See Us](https://open.spotify.com/track/7cEN0BqzxPLohVdFddS7jo) | [The Tiarras](https://open.spotify.com/artist/3mqFKiCvxacWEy7rzKSe12) | [They Don't See Us](https://open.spotify.com/album/1ofkZOmwAf9UKiW0ESYi7i) | 3:38 | 2022-03-25 | 2022-04-20 |
 | [Thick of the Honey](https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw) | 2:17 | 2022-10-14 | 2022-12-08 |
+| [Thick Skull \(Re: Julien Baker\)](https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 4:54 | 2023-10-06 |  |
 | [Thin Air](https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Thin Air](https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco) | 3:34 | 2023-03-03 | 2023-04-13 |
 | [Thin Thing](https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:30 | 2022-07-01 | 2022-08-17 |
 | [Think It's Real](https://open.spotify.com/track/06nE4D9SWTUFkFDhOnc4l4) | [Stanley](https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc) | [Think It's Real](https://open.spotify.com/album/2ShZJhDFUtup4Fm8TsF39h) | 4:42 | 2022-06-17 | 2022-07-09 |
@@ -1176,6 +1178,7 @@
 | [Where Is My Mind?](https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Where Is My Mind?](https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE) | 2:57 | 2021-06-09 | 2022-04-21 |
 | [Where The Lightning Strikes Twice](https://open.spotify.com/track/7dCCRi1ccwVyRZMXVmLDXy) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Where The Lightning Strikes Twice](https://open.spotify.com/album/29XTdQ2FDoFRRLZdBcykoV) | 3:43 | 2021-06-07 | 2022-04-16 |
 | [While Away](https://open.spotify.com/track/0dwH3M8DZ6Xv2VKAXgwbBy) | [TOMMASO](https://open.spotify.com/artist/5xjogwT9Hr7K7CftiTulht), [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [While Away](https://open.spotify.com/album/1KtMWQF432FGw0UysdI1wg) | 2:26 | 2022-06-10 | 2022-06-17 |
+| [Whiplash](https://open.spotify.com/track/1MJufTcD44UNVHu9V6dPN7) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Whiplash](https://open.spotify.com/album/2gMPJQtv74we9PPvxeVbv0) | 4:21 | 2023-10-06 |  |
 | [Who Knows](https://open.spotify.com/track/75bBKbZzQsO6MX8o4Baig7) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Who Knows](https://open.spotify.com/album/1bAcgjeUL4cY7rdSN2FBRz) | 2:44 | 2022-05-20 | 2022-07-23 |
 | [Who Put You Up To This?](https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Who Put You Up To This?](https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR) | 3:19 | 2022-02-11 | 2022-04-20 |
 | [Why You?](https://open.spotify.com/track/2eRMRIXoOSNLl3xHiztwBM) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Why You?](https://open.spotify.com/album/046qCSIYim69H3Vt7pM9cq) | 2:40 | 2023-08-18 |  |

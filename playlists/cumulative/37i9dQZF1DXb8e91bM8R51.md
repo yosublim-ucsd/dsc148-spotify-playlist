@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-351 songs - 20 hr 8 min
+352 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [FYBRSPACE SUMMIT \(GuggenheimGoon\)](https://open.spotify.com/track/7LihfQlJ3AYHaZJnOh8IDF) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Vanilla Sky](https://open.spotify.com/album/0JBYjJ6QJrZ0nyr8whq35E) | 2:40 | 2022-01-14 | 2022-02-19 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-04 | 2022-03-26 |
 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 | 2022-01-14 | 2022-03-12 |
+| [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 |  |
 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 | 2022-01-14 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-02-11 | 2022-04-09 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2022-01-14 | 2022-02-26 |
@@ -348,7 +349,7 @@
 | [Want It Bad \(with Nigo\)](https://open.spotify.com/track/6PzDwzYlw2gH6pYFQqNnFA) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [Want It Bad](https://open.spotify.com/album/3MuAhnruoa9XOopdaIL3JT) | 3:20 | 2022-02-18 | 2022-03-12 |
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2022-01-14 | 2022-02-26 |
 | [We Set The Trends](https://open.spotify.com/track/56NJwtpBTG8RHlITXg7v7s) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [We Set The Trends](https://open.spotify.com/album/6IOsvcH7VwhoX14VfH6kwq) | 3:40 | 2022-01-14 |  |
-| [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 | 2022-01-14 |  |
+| [What It Feels Like](https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [What It Feels Like](https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3) | 4:35 | 2022-01-14 | 2023-10-07 |
 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 | 2022-01-14 | 2022-05-23 |
 | [What's Life \- From "Liberated / Music For the Movement Vol\. 3"](https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [What's Life \(From "Liberated / Music For the Movement Vol\. 3"\)](https://open.spotify.com/album/6UzuK8kBzwIpKbEex4BouB) | 3:11 | 2022-01-14 | 2022-08-30 |
 | [What's Mine \(feat\. Mick Jenkins\) \[Remix\]](https://open.spotify.com/track/6oR9RjUKb9RhUnl4jaPNXe) | [Ridgio](https://open.spotify.com/artist/5r8qfCuOo2mfyB5gxCq5jt), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [What's Mine \(feat\. Mick Jenkins\) \[Remix\]](https://open.spotify.com/album/4H38sKAmyzTmA1qKfF6UL8) | 2:47 | 2022-02-25 | 2022-07-29 |

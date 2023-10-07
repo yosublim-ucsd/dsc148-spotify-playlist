@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,307 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,425 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 31 | [foreplay perfume](https://open.spotify.com/track/6LAyR6XDWI4fkESEkAhehx) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [midnight special](https://open.spotify.com/album/5YOL7cRFekvhQ2CmItnQzu) | 1:55 |
 | 32 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 |
 | 33 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
-| 34 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
+| 34 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 |
 | 35 | [Touching Realness](https://open.spotify.com/track/2ESa9s5W3Cr80IseEzHP7O) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 2:01 |
 | 36 | [D\. Flutie](https://open.spotify.com/track/0dM5IvlcBc53e5OcW3GaNG) | [The Doppelgangaz](https://open.spotify.com/artist/4J8pjytuR06BizCeBKBIDk) | [Beats for Brothels, Vol\. 2](https://open.spotify.com/album/6d0v2nW62OOEHXyK6eLgvr) | 2:41 |
 | 37 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 95 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
 | 96 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
 
-Snapshot ID: `MCw2NjA4ZGEwYmQ4Njk0M2ZiYjA0MzZkYTMxNzZlMGQ1ZTliODcxOGJh`
+Snapshot ID: `MCwxNjc1ZmQ0N2JlNmJmNjk0YTI5NjUyZTA0NGE1NzFlMDIwYTRhY2Yw`

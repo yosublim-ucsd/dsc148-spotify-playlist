@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cheat Codes x A7S
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,881 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,922 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 74 | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 |
 | 75 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 
-Snapshot ID: `MCxlMjhjMGVmYzViNzZhMzAwNTg2NWVhNmM5NTM0NDRmODk2MDU3NWJj`
+Snapshot ID: `MCwxMGFmNzI0MmUwNzIzODJiZDYzNGMzYzhkNDUxN2M4YTdmYzEwMDg3`

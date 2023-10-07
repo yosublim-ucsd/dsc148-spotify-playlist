@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Bored In The USA",
+        "url": "https://open.spotify.com/album/1zFmSMDc0RqGhY8jbKlUOO"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142658,
+      "name": "Bored In The USA",
+      "url": "https://open.spotify.com/track/7BRtyna9liXwcmTIAmeeX0"
+    },
+    {
+      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 111818,
       "name": "Hits Different",
       "url": "https://open.spotify.com/track/6ASzn7AXEkOf6XtOIus9BZ"
@@ -1204,6 +1222,32 @@
       "duration_ms": 211498,
       "name": "Holler Boys",
       "url": "https://open.spotify.com/track/3z0dzcrMa0e9TpP6xxKwaU"
+    },
+    {
+      "album": {
+        "name": "Hoodbillies",
+        "url": "https://open.spotify.com/album/5GvnX7ydKmQLN5IqzbOxsf"
+      },
+      "artists": [
+        {
+          "name": "HoodBillies",
+          "url": "https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        },
+        {
+          "name": "Krizz Kaliko",
+          "url": "https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109534,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/3STVAAAa4TasjdcYPMtbJN"
     },
     {
       "album": {
@@ -1971,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "Southern Son Rising",
+        "url": "https://open.spotify.com/album/5XGvXPGOcXITUh8TGfopVw"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        },
+        {
+          "name": "JJ & Sissy",
+          "url": "https://open.spotify.com/artist/57bzCuijw6UJJWH8X4MIBq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170044,
+      "name": "Southern Son Rising",
+      "url": "https://open.spotify.com/track/1mxC7Co5LM1WgRoHasWT3l"
+    },
+    {
+      "album": {
         "name": "The Reload 2.0",
         "url": "https://open.spotify.com/album/1vqjfnMlzdUQ3TaVLD7Rsk"
       },
@@ -2000,7 +2066,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 164550,
       "name": "Straw Hat - Remix",
       "url": "https://open.spotify.com/track/4SgOKIQLkGlW8RH2v2vgLx"

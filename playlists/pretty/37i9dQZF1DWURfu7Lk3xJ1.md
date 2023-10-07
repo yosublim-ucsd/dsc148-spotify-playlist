@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,541 likes - 204 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,661 likes - 204 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 26 | [safely](https://open.spotify.com/track/6Okq0eiISWNzUvtQ2DILBe) | [Cafe Burrito](https://open.spotify.com/artist/1njjr5nwqbiRtFnoKPylMR) | [safely](https://open.spotify.com/album/3h6JHhSvEeZIG0bbPiD6zi) | 2:30 |
 | 27 | [Persona](https://open.spotify.com/track/3FFuTbrQPsRS0D4eICmroy) | [Jan Preacher](https://open.spotify.com/artist/4VWIKZWMxqkSHTkKfXkYdk) | [Persona](https://open.spotify.com/album/6Ye5LAmvInQI5qWwKhv5Dv) | 2:00 |
 | 28 | [Blanket](https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Blanket](https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs) | 2:07 |
-| 29 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/4OT0brXyp1UK31SrzEzJtw) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
+| 29 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
 | 30 | [dreamwave](https://open.spotify.com/track/3xCPcijGi5qeVMawkASxyb) | [rippie](https://open.spotify.com/artist/0q6Ld7B12mIn5K0MbMVaGB) | [dreamwave](https://open.spotify.com/album/3AjOIbxehUBjy2HTyGi9az) | 2:43 |
 | 31 | [Watching From Afar](https://open.spotify.com/track/6vTlufIXRYYdEVMFWNFErG) | [Exxecs](https://open.spotify.com/artist/5mE0QIp3dX5LWAgqKfm2RG) | [Watching From Afar](https://open.spotify.com/album/73aiocjxsWBKec0l3UQVi9) | 2:18 |
 | 32 | [too cold to leave my bed](https://open.spotify.com/track/7ck2fBntkqLd02zjqWRQX0) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [too cold to leave my bed](https://open.spotify.com/album/59SisEzP3UYCiBoWmDSDzt) | 2:27 |
@@ -213,4 +213,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 203 | [Waterfall](https://open.spotify.com/track/1grYJu7GMZMXIGIAir2Evd) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Waterfall](https://open.spotify.com/album/4E9ewJZgeQ4zO4wEh40N0s) | 2:22 |
 | 204 | [Gentle](https://open.spotify.com/track/6SCNLaxZas2Hqalh4zeAGr) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [Gentle](https://open.spotify.com/album/5lx736CiAjCBRgrqgqF5dt) | 3:30 |
 
-Snapshot ID: `MCxmM2ZiODdhN2U4MWM5OTM0MzlkYTY1NTFlNzNhYTFiZmIxYzZiZmYx`
+Snapshot ID: `MCw1OThhMTg2ODljMjZmZmViOGY2OTZjYTA2YWMxZTYyMDg4MTM3M2U2`

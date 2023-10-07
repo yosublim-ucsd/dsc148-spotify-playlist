@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-460 songs - 1 day 3 hr 18 min
+461 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 3:26 | 2022-01-10 |  |
 | [Drag Me Down / As Long As You Love Me](https://open.spotify.com/track/3qH8dFZIeOilLz8Zn60D8v) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/0pFKSvcpPypfbxxTqI77qa) | 3:26 | 2021-03-09 | 2022-07-29 |
 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 | 2021-03-09 |  |
-| [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 | 2022-01-10 |  |
+| [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:16 | 2022-01-10 | 2023-10-07 |
 | [Dye My Hair \- Acoustic Version](https://open.spotify.com/track/5m2w90coBqSleD39GduE7h) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/0k7raGYOx98ogiwvjeeeXF) | 3:16 | 2022-01-10 | 2022-07-18 |
 | [Everlong \- Acoustic Version](https://open.spotify.com/track/3QmesrvdbPjwf7i40nht1D) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:10 | 2021-03-09 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/2JcfyEmEWwdlgLKq44ALCU) | [Chlara](https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc) | [\#acousticNOW5](https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU) | 3:38 | 2021-03-09 |  |
@@ -275,6 +275,7 @@
 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 | 2022-01-10 |  |
 | [Nobody's Perfect \- Acoustic Version](https://open.spotify.com/track/5AHyWDQc3l2yalJVXbL5Yk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Nobody's Perfect](https://open.spotify.com/album/17OX0eFpormIwzgjFRolkK) | 4:42 | 2021-03-09 |  |
 | [Omen \- Acoustic](https://open.spotify.com/track/0G7zUWU575zYyHCrOy14yz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:25 | 2021-03-09 | 2023-10-05 |
+| [Omen \- Acoustic](https://open.spotify.com/track/4838tqXJWrfVJMe0xeYAAI) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:25 | 2022-01-10 |  |
 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 | 2021-03-09 |  |
 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 | 2021-03-09 | 2022-07-29 |
 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 | 2022-01-10 |  |

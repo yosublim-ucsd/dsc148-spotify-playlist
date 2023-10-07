@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Royale BR",
+  "description": "Ou\u00e7a as novidades da cena eletr\u00f4nica. Foto: Bolth",
   "name": "Novos Beats",
   "tracks": [
     {
@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Algo-Rhythm",
+        "url": "https://open.spotify.com/album/0WtnaH4yQfcENErwoa3zcu"
+      },
+      "artists": [
+        {
+          "name": "From House To Disco",
+          "url": "https://open.spotify.com/artist/4Om5TKdmuYUR1Slg1jKBnc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382080,
+      "name": "Algo-Rhythm",
+      "url": "https://open.spotify.com/track/0d0sOLCfbxF9dLy5gihuir"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1bxgtNtqdiMlt5PyKvMmPJ"
       },
@@ -86,6 +104,24 @@
       "duration_ms": 122812,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1ALWJAg2OHZyyjoAHB2hZg"
+    },
+    {
+      "album": {
+        "name": "Arabian",
+        "url": "https://open.spotify.com/album/6pNMn6QSm9P40gpMR3OVBO"
+      },
+      "artists": [
+        {
+          "name": "Zolrac",
+          "url": "https://open.spotify.com/artist/30dgOwHLJHzJZnHjRECz9u"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Arabian",
+      "url": "https://open.spotify.com/track/1pvzyztDDh7pfsSsRlCNFf"
     },
     {
       "album": {
@@ -428,7 +464,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 134173,
       "name": "Dirty Mtfk Funk",
       "url": "https://open.spotify.com/track/7pmcOqMgnxOb8RfgNZjJgm"
@@ -660,10 +696,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 152380,
       "name": "Get The F*** Down",
       "url": "https://open.spotify.com/track/14zDs39mus5oEs4DKZpcz4"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/0P3BWt3FWwy4PCiVo4xO4z"
+      },
+      "artists": [
+        {
+          "name": "Phael",
+          "url": "https://open.spotify.com/artist/1zWOPmDwXSO50211NJHi0g"
+        },
+        {
+          "name": "Cool 7rack",
+          "url": "https://open.spotify.com/artist/4csVM6wJgy2PcaH8aKSkT7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183154,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/0zRVIO4GWFugJk5taaym0f"
     },
     {
       "album": {
@@ -700,7 +758,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185714,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/03AMYFWydfyeyv6v94N8rs"
@@ -922,6 +980,24 @@
       "duration_ms": 374409,
       "name": "Laha",
       "url": "https://open.spotify.com/track/5kaBa5XzSlgiwg4ArBDmRZ"
+    },
+    {
+      "album": {
+        "name": "Lay Down",
+        "url": "https://open.spotify.com/album/4wfYn8TbTw3ROMnXWJEseB"
+      },
+      "artists": [
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/2xjPXHyvzpg1cFzBPpjd2J"
     },
     {
       "album": {
@@ -1269,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "Ordinary World",
+        "url": "https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        },
+        {
+          "name": "JOY RIVO & JTO",
+          "url": "https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC"
+    },
+    {
+      "album": {
         "name": "Out of Time",
         "url": "https://open.spotify.com/album/3e8PYgcrCI6sDOQKXXhhRq"
       },
@@ -1556,7 +1654,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 178064,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5yDjrOfCUPzCrPWUFB1QST"
@@ -1578,10 +1676,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 253455,
       "name": "San Andreas",
       "url": "https://open.spotify.com/track/4aogNwcaLdqWPxnXc420oU"
+    },
+    {
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/15r8eNP4g8O0U3SYl2F4I7"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235753,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/5nZAfBlMVSaJtbZy2DVqzm"
     },
     {
       "album": {
@@ -2264,7 +2380,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 219375,
       "name": "Your Vibe",
       "url": "https://open.spotify.com/track/4EFch1nFqMzYj4fc4H9FUJ"

@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-355 songs - 22 hr 3 min
+356 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Break My Broken Heart](https://open.spotify.com/track/2UfDeOnKQgquiKyStdgCDj) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Break My Broken Heart](https://open.spotify.com/album/44KkghWRHAWdnTlDRAGjK3) | 3:34 | 2021-12-06 | 2022-01-19 |
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2021-12-06 | 2022-11-13 |
 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 | 2023-02-03 | 2023-02-25 |
-| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 |  |
+| [Breakups](https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups](https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua) | 3:43 | 2021-12-06 | 2023-10-07 |
 | [Broken Ones](https://open.spotify.com/track/0VYCUWNFIYLIOQqu3bFzs0) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Broken Ones](https://open.spotify.com/album/6F6usgNiD6yrnTVgvC76ub) | 3:49 | 2022-01-05 | 2022-11-13 |
 | [brokenhearted \(together\)](https://open.spotify.com/track/45BmSERHSfZFaLH9oWtA1e) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5), [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [brokenhearted \(together\)](https://open.spotify.com/album/7EQo6zfVoU9iJuIDo9xAW7) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [brokenhearted \- sunset](https://open.spotify.com/track/2fIhX68Y1P0xLfnJh160tk) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [partly cloudy](https://open.spotify.com/album/5PN7GeludLF7xbeWtk5Sy7) | 4:21 | 2021-12-06 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Love Story](https://open.spotify.com/track/1JR0kZfJpeNPJKo4HhdQJP) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story](https://open.spotify.com/album/28Nq4AiAa0BW54KGWYFxot) | 3:54 | 2021-12-06 | 2022-01-13 |
 | [Love You From a Distance](https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [One Eighty](https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu) | 3:24 | 2022-07-08 |  |
 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 | 2021-12-06 | 2022-07-29 |
+| [Make It To Me](https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 2:42 | 2023-04-07 |  |
 | [Make It To Me](https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 2:42 | 2022-12-16 | 2023-10-04 |
 | [Maybe It Was Me](https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Maybe It Was Me](https://open.spotify.com/album/2SQwOrBSBV5cOaXA39ALrP) | 2:59 | 2021-12-06 | 2023-02-04 |
 | [memories](https://open.spotify.com/track/2MZwipRl9tCBcsHNA0qBWZ) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [memories](https://open.spotify.com/album/4NMzBBnbxwKcifgnqdqqnA) | 3:54 | 2022-04-11 | 2022-04-21 |

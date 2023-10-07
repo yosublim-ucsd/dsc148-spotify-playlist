@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Bless the rain",
+        "url": "https://open.spotify.com/album/5drsnpcHv3MDvyAFzsANay"
+      },
+      "artists": [
+        {
+          "name": "Tin Shui",
+          "url": "https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152624,
+      "name": "Bless the rain",
+      "url": "https://open.spotify.com/track/4316Vo0mHiEqYZyPaAO8QJ"
+    },
+    {
+      "album": {
         "name": "By The Lakehouse",
         "url": "https://open.spotify.com/album/3gzwA51J94cjdbljjKfVcE"
       },
@@ -686,6 +704,24 @@
       "duration_ms": 161229,
       "name": "Rain Cleanse",
       "url": "https://open.spotify.com/track/3s90wLosZi7wuOowbk8qKn"
+    },
+    {
+      "album": {
+        "name": "Rain Dreamer",
+        "url": "https://open.spotify.com/album/0I0Z0Rs9nmAim5d77xU36N"
+      },
+      "artists": [
+        {
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185786,
+      "name": "Rain Dreamer",
+      "url": "https://open.spotify.com/track/7KhXKmFezMJ7PqAfBt0XfH"
     },
     {
       "album": {

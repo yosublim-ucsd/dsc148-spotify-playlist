@@ -2,7 +2,7 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Humberto Gessinger
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Raphael Ota
 
 96 songs - 5 hr 51 min
 

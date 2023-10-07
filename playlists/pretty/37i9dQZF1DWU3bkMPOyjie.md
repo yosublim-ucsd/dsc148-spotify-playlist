@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,709 likes - 77 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,711 likes - 78 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 68 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 69 | [Here Comes the Summer](https://open.spotify.com/track/2m9L38IcOCraTHrtz58pr9) | [Moke](https://open.spotify.com/artist/2Ar8qR3eFdAdR2ZN6ndxTN) | [Shorland \(Limited Festival Edition\)](https://open.spotify.com/album/50YDHmGKQ7Hg00JhhrnPea) | 3:58 |
 | 70 | [Don't Look Back into the Sun](https://open.spotify.com/track/4KspXoCVJXGY1VrvEe1Hdm) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Don't Look Back into the Sun](https://open.spotify.com/album/4p8bvIgDBZ7eLvuflo6YhI) | 3:00 |
-| 71 | [Livin' La Vida Loca](https://open.spotify.com/track/4f3w2PoA3b9CWDSwVYWil1) | [Patent Pending](https://open.spotify.com/artist/0xNdN9NbR572rKrGQBjPlH) | [Other People's Greatest Hits](https://open.spotify.com/album/0PNWoX3z0HgJBR96Bx7R5f) | 3:42 |
-| 72 | [Rebel Beat](https://open.spotify.com/track/0QXSKayRWtfxMKHJxVurkZ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:34 |
-| 73 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
-| 74 | [Always Summer](https://open.spotify.com/track/4ilpew1AcHAc38SIf4GQbN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 3:09 |
-| 75 | [High On The Crime](https://open.spotify.com/track/0Sow14hk1ISHQBQVZ2P8aK) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 3:21 |
-| 76 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
-| 77 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
+| 71 | [It's Summertime](https://open.spotify.com/track/4bTXFLSWqZiUrrXD202tVG) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Yoshimi Battles the Pink Robots](https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf) | 4:20 |
+| 72 | [Livin' La Vida Loca](https://open.spotify.com/track/4f3w2PoA3b9CWDSwVYWil1) | [Patent Pending](https://open.spotify.com/artist/0xNdN9NbR572rKrGQBjPlH) | [Other People's Greatest Hits](https://open.spotify.com/album/0PNWoX3z0HgJBR96Bx7R5f) | 3:42 |
+| 73 | [Rebel Beat](https://open.spotify.com/track/0QXSKayRWtfxMKHJxVurkZ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:34 |
+| 74 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 75 | [Always Summer](https://open.spotify.com/track/4ilpew1AcHAc38SIf4GQbN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 3:09 |
+| 76 | [High On The Crime](https://open.spotify.com/track/0Sow14hk1ISHQBQVZ2P8aK) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 3:21 |
+| 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
+| 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `MCwzMTQ4MDk1OGFlYzQxMGEzMDgwYWI1MDAyY2U3YmU2OGJlNjhjYjBj`
+Snapshot ID: `MCwzMTM1NTRhMThiMWFiNzQzYTY1ZGM3N2NjOGQ1MjFkZjU0ZjQxZGMy`

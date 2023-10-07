@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Marina Sena, Fleezus",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cynthia Luz",
   "name": "Palco POP",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 176000,
       "name": "43 Licor",
       "url": "https://open.spotify.com/track/35cfiw0V40lXLP2LKljJY0"
+    },
+    {
+      "album": {
+        "name": "700 Por Minuto",
+        "url": "https://open.spotify.com/album/1AiC9mfD2CthG6UFSHsh0O"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105553,
+      "name": "700 Por Minuto",
+      "url": "https://open.spotify.com/track/1wqpmI5TSI18ywTOCYe7PE"
     },
     {
       "album": {
@@ -1955,6 +1977,32 @@
     },
     {
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
+      },
+      "artists": [
+        {
+          "name": "Lily Nobre",
+          "url": "https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD"
+        },
+        {
+          "name": "MC RUAN RZAN",
+          "url": "https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE"
+        },
+        {
+          "name": "Skorps",
+          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
+    },
+    {
+      "album": {
         "name": "Camisa Floral",
         "url": "https://open.spotify.com/album/0pVLLvqFORgONmlq24kL0L"
       },
@@ -2014,6 +2062,32 @@
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
+    },
+    {
+      "album": {
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "FreezaMC",
+          "url": "https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
     },
     {
       "album": {
@@ -3307,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
+    },
+    {
+      "album": {
         "name": "Escala de D\u00f3",
         "url": "https://open.spotify.com/album/4oI2poa1RjCuob6xPxE665"
       },
@@ -3568,7 +3660,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 130677,
       "name": "FAMOZIN",
       "url": "https://open.spotify.com/track/0zFDNAzOo2bRp16A5enPC5"
@@ -8917,6 +9009,32 @@
     },
     {
       "album": {
+        "name": "PROCURANDO AMOR",
+        "url": "https://open.spotify.com/album/4BZBRpBRpgrqKQZRT1fIXN"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Procurando Amor",
+      "url": "https://open.spotify.com/track/3pjy8hxCpTOIzJYU0CgNHm"
+    },
+    {
+      "album": {
         "name": "PROIBIDONA",
         "url": "https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU"
       },
@@ -11220,6 +11338,24 @@
       "duration_ms": 146490,
       "name": "Toda Manh\u00e3",
       "url": "https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw"
+    },
+    {
+      "album": {
+        "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+        "url": "https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178654,
+      "name": "Todo Mundo Que Amei J\u00e1 Me Fez Chorar",
+      "url": "https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU"
     },
     {
       "album": {

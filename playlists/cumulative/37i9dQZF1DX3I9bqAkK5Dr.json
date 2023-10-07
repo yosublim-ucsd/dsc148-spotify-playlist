@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Love Pill",
+        "url": "https://open.spotify.com/album/0qMqSvjKxmDKAOARmiNyub"
+      },
+      "artists": [
+        {
+          "name": "Gershom Penugula",
+          "url": "https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Love Pill",
+      "url": "https://open.spotify.com/track/5xOVz87ylswUTTX6vlCPYU"
+    },
+    {
+      "album": {
         "name": "Maakkikirkiri",
         "url": "https://open.spotify.com/album/7tGakiVZjFCUKw3uh8LUuS"
       },

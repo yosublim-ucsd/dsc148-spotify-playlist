@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-350 songs - 21 hr 16 min
+352 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 | 2021-12-03 | 2022-11-14 |
 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 | 2023-07-07 |  |
 | [Groceries](https://open.spotify.com/track/2h6c3yoLPhiQKcuSW7pQDX) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Groceries](https://open.spotify.com/album/1ECtQFMPTKqxnAXMTYrVl6) | 2:23 | 2022-04-22 | 2023-04-30 |
-| [Groceries](https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 2:23 | 2022-04-29 |  |
+| [Groceries](https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 2:23 | 2022-04-29 | 2023-10-07 |
 | [Guilty](https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/5QVrsV0URTnFNv4nfRN5BR) | 3:34 | 2021-07-09 | 2022-07-29 |
 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 | 2021-07-09 | 2023-02-18 |
 | [Half at Home in Love](https://open.spotify.com/track/5Fc7tNYVtof24BmrbUjVqM) | [The Commonheart](https://open.spotify.com/artist/74fgnoMTNfvWwayrEMa3lT) | [For Work or Love](https://open.spotify.com/album/6q0rhobSIHGHSxum4MbNEx) | 4:49 | 2022-09-16 | 2022-10-08 |
@@ -165,6 +165,7 @@
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2021-07-09 | 2023-01-28 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-09 | 2023-03-25 |
 | [Keep Your Light on Me](https://open.spotify.com/track/6K5amLJlmAibFCpzMooDv7) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [A Good Woman](https://open.spotify.com/album/0Z8ZC3m2EbhMMXcmlpB2S1) | 4:07 | 2023-04-28 | 2023-06-03 |
+| [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 |  |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 | 2023-01-28 |
 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 | 2023-07-14 |  |
@@ -282,6 +283,7 @@
 | [Solution](https://open.spotify.com/track/6TMNizvP8FeJ4SaWxZ45f3) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [Solution](https://open.spotify.com/album/3zYDc5MslFWL04Qup4OOQb) | 3:40 | 2022-09-23 | 2022-10-08 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Soul to Blessed Soul](https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf) | 5:35 | 2022-01-07 | 2023-04-30 |
 | [Soul to Blessed Soul](https://open.spotify.com/track/6DM57XfNV5YH6zjv6xlSQ3) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [I Need a Job..\. So I Can Buy More Auto\-Tune](https://open.spotify.com/album/63dzRXGEgarXDceMVjOFPu) | 5:35 | 2022-01-14 | 2023-07-08 |
+| [Spaceships](https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Saturday Night](https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK) | 3:48 | 2023-10-06 |  |
 | [Stack The Deck](https://open.spotify.com/track/7KlAw9Himd2Er1gflw2DML) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ) | [Stack The Deck](https://open.spotify.com/album/1n90dYXUXhGKtENEogNg3C) | 3:21 | 2021-11-05 | 2022-07-20 |
 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 | 2022-02-04 | 2023-03-18 |
 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 | 2021-07-16 | 2023-09-09 |
@@ -296,7 +298,7 @@
 | [Sure Don't Miss You](https://open.spotify.com/track/5SUhvsoXryK7M4OhQXXKVV) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sure Don't Miss You](https://open.spotify.com/album/650kATa4wiGNPX25qf6ddb) | 2:54 | 2021-07-09 | 2022-11-13 |
 | [Słońce](https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb) | [Udoo](https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Słońce](https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb) | 4:13 | 2022-07-29 |  |
 | [Take Me to the Good Times](https://open.spotify.com/track/4VwAIIQDPR3T7EPnzk7Fv1) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Take Me to the Good Times](https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh) | 4:24 | 2021-07-09 | 2022-07-29 |
-| [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 |  |
+| [Take My Troubles Away \- Radio Edit](https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Take My Troubles Away \(Radio Edit\)](https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb) | 3:30 | 2023-07-21 | 2023-10-07 |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 |  |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-02-10 | 2023-08-19 |
 | [TELL THE TRUTH](https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE \(The Deluxe Edition\)](https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy) | 3:22 | 2021-12-03 | 2022-07-29 |

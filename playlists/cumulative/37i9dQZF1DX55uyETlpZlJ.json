@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Arere",
+        "url": "https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238416,
+      "name": "Arere",
+      "url": "https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh"
+    },
+    {
+      "album": {
         "name": "Avarisu (SKODA Deccan Beats)",
         "url": "https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 202682,
       "name": "Hey Sanchari",
       "url": "https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN"
@@ -1326,6 +1344,36 @@
       "duration_ms": 258276,
       "name": "Jai Ganesha",
       "url": "https://open.spotify.com/track/3AaghYGVFOfmrLui28QIq9"
+    },
+    {
+      "album": {
+        "name": "Janani",
+        "url": "https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Mandoth",
+          "url": "https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w"
+        },
+        {
+          "name": "Vignesh Shankar",
+          "url": "https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP"
+        },
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
+        },
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220875,
+      "name": "Janani",
+      "url": "https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV"
     },
     {
       "album": {
@@ -2330,6 +2378,28 @@
       "duration_ms": 217046,
       "name": "Nanna Hrudaya",
       "url": "https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1"
+    },
+    {
+      "album": {
+        "name": "Nanna Jeevana",
+        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        },
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136605,
+      "name": "Nanna Jeevana",
+      "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
     },
     {
       "album": {

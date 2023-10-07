@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Ookay & JSTJR
 
-551 songs - 1 day 5 hr 7 min
+552 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All About U](https://open.spotify.com/track/1xoUL5CDpAB66vB8qZzMXY) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All About U](https://open.spotify.com/album/4BoLtiThigu3dTXSRCDsW9) | 2:51 | 2021-10-29 | 2021-12-30 |
 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 | 2022-09-30 |  |
 | [All I Wanna Do](https://open.spotify.com/track/1ExWt42DF0GzaPIBfaX6qp) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [All I Wanna Do](https://open.spotify.com/album/3X8cM72cVFMPwRDZjDQLDF) | 2:59 | 2023-09-29 |  |
+| [All In My Head](https://open.spotify.com/track/6RFWHk1d0D8s8UJ4zQg7BP) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [All In My Head](https://open.spotify.com/album/7qzHhlLgqJrA2vi9U7jgmU) | 2:55 | 2023-10-06 |  |
 | [Another Level](https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH) | [NO SIGNE](https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Another Level](https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs) | 3:08 | 2022-11-11 | 2023-03-18 |
 | [Anything \- Malaa Remix](https://open.spotify.com/track/2LVMVLS3QG6zDhETZrMqoK) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Anything \(Malaa Remix\)](https://open.spotify.com/album/2pio6W2gqGJ6zbxuCnPFUG) | 4:13 | 2021-10-29 | 2022-05-28 |
 | [Armageddon](https://open.spotify.com/track/6t0sQM20nfzukV8mzsFEWe) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Armageddon](https://open.spotify.com/album/6aDDd2jtcs4rPodWsAdliA) | 3:04 | 2021-10-29 | 2022-08-13 |
@@ -443,7 +444,7 @@
 | [Shalala](https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Shalala](https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv) | 2:48 | 2022-07-29 | 2022-11-23 |
 | [Show Me](https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Show Me](https://open.spotify.com/album/58XBbETLzxSyXVcboNyifS) | 2:54 | 2021-10-29 | 2022-05-28 |
 | [Show Me Love \- Jauz Remix](https://open.spotify.com/track/3ipDel0cxGt9bQLT0cLJTm) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love \(Jauz Remix\)](https://open.spotify.com/album/7JhtyZyqlpGggrgh3RugTT) | 4:24 | 2021-10-29 | 2022-05-28 |
-| [Shrine Banger](https://open.spotify.com/track/3a3YhO3gL4WaiQCkLVAY01) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Shrine Banger](https://open.spotify.com/album/47AObpvZWhRdPjKgI9f5Ky) | 3:59 | 2023-08-25 |  |
+| [Shrine Banger](https://open.spotify.com/track/3a3YhO3gL4WaiQCkLVAY01) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Shrine Banger](https://open.spotify.com/album/47AObpvZWhRdPjKgI9f5Ky) | 3:59 | 2023-08-25 | 2023-10-07 |
 | [Sick N Heavy](https://open.spotify.com/track/1DcBJpHytoBKoNlSJ3JQar) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Crucast Vs Night Bass](https://open.spotify.com/album/5gb2j2cj1LgHMcHArs0dA2) | 3:07 | 2021-10-29 | 2022-01-15 |
 | [Silent](https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Silent](https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs) | 3:10 | 2022-05-13 |  |
 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 | 2023-02-24 |  |

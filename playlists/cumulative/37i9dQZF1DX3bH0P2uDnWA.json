@@ -825,6 +825,28 @@
     },
     {
       "album": {
+        "name": "Club Noir (Shemian Remix)",
+        "url": "https://open.spotify.com/album/1gaYBbZsRpkF0IjiFw2OHZ"
+      },
+      "artists": [
+        {
+          "name": "Alice Francis",
+          "url": "https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA"
+        },
+        {
+          "name": "Shemian",
+          "url": "https://open.spotify.com/artist/2J8Xx644y5aH664DxjFUZj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190547,
+      "name": "Club Noir - Shemian Remix",
+      "url": "https://open.spotify.com/track/0VAP9wrJgNgShi3Td0B3RD"
+    },
+    {
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
       },
@@ -1924,7 +1946,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 311250,
       "name": "Halloween Party",
       "url": "https://open.spotify.com/track/5DAoCXLfuoVEtSVEQWW8I4"
@@ -4779,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Spooky Scary Skeletons (Future Swing Mix)",
+        "url": "https://open.spotify.com/album/3tzzZsexgmlx8JZUui1K3O"
+      },
+      "artists": [
+        {
+          "name": "Bbop",
+          "url": "https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133874,
+      "name": "Spooky Scary Skeletons - Future Swing Mix",
+      "url": "https://open.spotify.com/track/1DeKQNRXSeLMWy0Ln6L0RC"
+    },
+    {
+      "album": {
         "name": "Spooky Swing",
         "url": "https://open.spotify.com/album/49Cw0kwcQeScZc8oHlyYf2"
       },
@@ -5464,7 +5504,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 166323,
       "name": "The Freakshow",
       "url": "https://open.spotify.com/track/69MAGK0nCax1nJOrrS2ckW"

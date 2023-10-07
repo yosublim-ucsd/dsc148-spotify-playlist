@@ -2,9 +2,9 @@
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
-> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Shakira
+> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
 
-100 songs - 6 hr 8 min
+101 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Sleeper](https://open.spotify.com/track/5HxSSP718isqXzYOCPS2qP) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Sleeper](https://open.spotify.com/album/36wVbw8SexuotSSoWS3zJs) | 2:23 | 2023-09-25 |  |
 | [Sonámbulos](https://open.spotify.com/track/5WcdnmiTRE4PHzmSBwZuoA) | [Sofia Cordoba](https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM) | [Sonámbulos](https://open.spotify.com/album/0yGnWZZyz9iKsCzXQzhpYf) | 3:13 | 2023-09-25 |  |
 | [Tarantinero](https://open.spotify.com/track/1KxUzY6eWEKsXmZ6fjv1GC) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [777: A Quemarropa](https://open.spotify.com/album/231YzqIbLQ9ddB3fsVSRDg) | 4:37 | 2023-09-25 |  |
+| [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-10-07 |  |
 | [Tiempo Calavera](https://open.spotify.com/track/5TUuSeFNmnMh7GzoIXgqsH) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Tiempo Calavera](https://open.spotify.com/album/77OKhLQx0zi7TJ9ets4IUw) | 2:56 | 2023-09-25 |  |
 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 | 2023-09-25 |  |
 | [Turn Blue](https://open.spotify.com/track/2jOZHTpq7g4H6IrcJLEukR) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH) | [Turn Blue](https://open.spotify.com/album/6858YL398K8QZgy6FFSw1q) | 2:48 | 2023-09-25 |  |
@@ -103,7 +104,7 @@
 | [Vendaval](https://open.spotify.com/track/5vfwB6HaAOY1ofk9EZjczR) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Vendaval](https://open.spotify.com/album/7de9PQSloceoxwFJ9Nc3Qg) | 3:25 | 2023-09-25 |  |
 | [Venice](https://open.spotify.com/track/0pbrGo2qewg5ZvgMnmgEEL) | [Sat Colibri](https://open.spotify.com/artist/0Oy5rXUmVv1raiUoQ4H6VD) | [Venice](https://open.spotify.com/album/0hZFQCKannIOV8lBrDUob7) | 4:26 | 2023-09-25 |  |
 | [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 | 2023-09-25 |  |
-| [Vuelve](https://open.spotify.com/track/74DGE82ZVx7VKCoMgbyKBD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:53 | 2023-09-25 |  |
+| [Vuelve](https://open.spotify.com/track/74DGE82ZVx7VKCoMgbyKBD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:53 | 2023-09-25 | 2023-10-07 |
 | [Ya No Importa](https://open.spotify.com/track/1FkrSRXKb8kg4eUf4stNyU) | [Not Berlin](https://open.spotify.com/artist/6uM2ZMwwaTYmWmTTM223GR) | [Ya No Importa](https://open.spotify.com/album/7jTAmzvhohcdBv3ATeC81W) | 4:12 | 2023-09-25 |  |
 | [Ya No Importa Tanto](https://open.spotify.com/track/4o1liMpPh1rdyyVhse40hF) | [Vencejo Común](https://open.spotify.com/artist/1Ca8HMyCmPXrzAQLdjDydl), [Ricardito :c](https://open.spotify.com/artist/6aZwZO827gIDumG0hzEqEA) | [Sobre Cálidos Finales](https://open.spotify.com/album/6swxlXsc2wrzMAC2MkI5Li) | 3:38 | 2023-09-25 |  |
 | [Yo También Estoy Creciendo](https://open.spotify.com/track/0FCnnbnZYzVM7vo7IpdfU5) | [David Vaillancourt](https://open.spotify.com/artist/7g3tP24UOfiNFgcIUxK3AD) | [Entre Lo Irreversible](https://open.spotify.com/album/0SsLkUkrfSRfjUgQKlCFFA) | 3:33 | 2023-09-25 |  |

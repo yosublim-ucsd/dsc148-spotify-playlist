@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jasper Tygner, Art School Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,632 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,651 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Four Thirty](https://open.spotify.com/track/3GRzGFVipiF8cDS3heRdoP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Focus](https://open.spotify.com/album/6ZfkXGIGWjgk7SUn0rOB3S) | 2:43 |
 | 100 | [These Days](https://open.spotify.com/track/5wl0mc25Mn6YcFsXv1GR3e) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [These Days](https://open.spotify.com/album/54VcrpotCamxH0BcC2mlm3) | 3:34 |
 
-Snapshot ID: `MCw1ZDNmMWM3M2E3OTA3YjBmMzg4ZWMxYzdkNmQwMmUxODM4ZTJmMTc0`
+Snapshot ID: `MCxlNDU5YTI2MTgzZmMxOTZhZmVjODQ0NGI0OTk1OGUyNTg4YmIxYjRl`

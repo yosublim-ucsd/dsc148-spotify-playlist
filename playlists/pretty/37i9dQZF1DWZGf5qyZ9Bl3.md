@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,474 likes - 102 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,525 likes - 102 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 17 | [mist](https://open.spotify.com/track/1BQgnlfrinYnFAWhqFRUs9) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [mist](https://open.spotify.com/album/01WEJ4ByBPIULdDnxokdFg) | 2:14 |
 | 18 | [pearls](https://open.spotify.com/track/0Kh41UU4vey50k23eMKkzu) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [pearls & the professor](https://open.spotify.com/album/34QnvaYVCWi8GS8oCIcUl4) | 2:10 |
 | 19 | [circadian](https://open.spotify.com/track/1KRg7ukXj2ziwqs6dEw9hk) | [yellow book](https://open.spotify.com/artist/6JE9upCogY91a2Tm5UB8fe) | [circadian](https://open.spotify.com/album/7ByLoclcVHUGiAy2tKrY76) | 2:16 |
-| 20 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6GDuVqrJldMcLnbJgAAiOI), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
+| 20 | [back home](https://open.spotify.com/track/0w1Ks9tosBEHZ8fy4VU7q6) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [back home](https://open.spotify.com/album/0SFmHUVtWj4Ph5XuDId3e3) | 2:20 |
 | 21 | [Summer Haze](https://open.spotify.com/track/7uscoXbsRGFkDXhPBay6uq) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Summer Haze](https://open.spotify.com/album/4xH8gyM3x1NfQrxab8ip9i) | 2:27 |
 | 22 | [We'll Always Have the Café](https://open.spotify.com/track/3rIWvpCtN0oNKfYqkMtSLb) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [We'll Always Have the Café](https://open.spotify.com/album/1aAqH1OBhvX5SPsLyst6wX) | 2:59 |
 | 23 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 |
 | 24 | [Just Not Right](https://open.spotify.com/track/1A2QgnkHKihTJq4wP9So2i) | [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Just Not Right](https://open.spotify.com/album/7vFqx76sNBIm0c8fLUVs44) | 2:06 |
-| 25 | [vast](https://open.spotify.com/track/6y2x2jTYVkEyQdvP0y60Uq) | [Gramercy](https://open.spotify.com/artist/4OT0brXyp1UK31SrzEzJtw) | [vast](https://open.spotify.com/album/7ohxuoDMfH18BxEN999qnP) | 2:07 |
+| 25 | [vast](https://open.spotify.com/track/6y2x2jTYVkEyQdvP0y60Uq) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [vast](https://open.spotify.com/album/7ohxuoDMfH18BxEN999qnP) | 2:07 |
 | 26 | [Serenity](https://open.spotify.com/track/74EY4R1qANF25iAvTNPGvS) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Serenity](https://open.spotify.com/album/3j7w2vGxCd8H01GjZsSfrb) | 4:20 |
 | 27 | [Rain on a train](https://open.spotify.com/track/5fwV9gvxDehRq760bJYBst) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Rain on a train](https://open.spotify.com/album/5zlyQWR1roEcOru70HTVkl) | 2:12 |
 | 28 | [Mochi](https://open.spotify.com/track/4kvnA0lfUsVEqJtOyty0iG) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [Mochi](https://open.spotify.com/album/1SsGk6aGUXW4M2vefcu2ZF) | 2:52 |
 | 29 | [Been Up Late](https://open.spotify.com/track/26PhJlzeqe0FgLzjxWX2RT) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Been Up Late](https://open.spotify.com/album/7m8y89ElzYGrgst01C8Ir9) | 2:05 |
-| 30 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/4OT0brXyp1UK31SrzEzJtw) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
+| 30 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 |
 | 31 | [Weather Baloon](https://open.spotify.com/track/3dsAdpPpUBcrhyS1y933o1) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Weather Baloon](https://open.spotify.com/album/2MTInJUFRb99PariU5xr1A) | 2:08 |
 | 32 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 |
 | 33 | [Sakura Sunset](https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Sakura Sunset](https://open.spotify.com/album/4quCoWKk640mavwa0F1Ykj) | 2:22 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 101 | [Breath Of Eternal](https://open.spotify.com/track/0f43LSmKqevW1BOpF9TPvl) | [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Breath Of Eternal](https://open.spotify.com/album/0Amml1IYryuyFdzVzuDol0) | 2:12 |
 | 102 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
 
-Snapshot ID: `MCw3OTlmOWU4NmExZmFlYTMzYTViODI2MjllYTQ0NzNjYjE2NmRmMDU5`
+Snapshot ID: `MCw1NzBkN2JlNTBhZGQ5NjExNjk3ZGI0NWQyZGFiOTk3NGE3ZTI3NWU1`

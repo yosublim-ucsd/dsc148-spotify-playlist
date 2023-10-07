@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-179 songs - 9 hr 26 min
+180 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
 | [Radiant](https://open.spotify.com/track/2leJrTGeB6reJMKvvAkOb6) | [Kumatra](https://open.spotify.com/artist/5I6mjLaJjYhtmDJY2nsF5H) | [Radiant](https://open.spotify.com/album/0cRHU8IubGRGBH2tIBiCff) | 3:08 | 2023-09-01 |  |
-| [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 |  |
+| [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 | 2023-10-07 |
 | [Reflexiones](https://open.spotify.com/track/5yxmYoPu75KeKkLbPJbDpZ) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Reflexiones](https://open.spotify.com/album/3rmS5XRb3vLM6xyritTjxu) | 3:08 | 2023-05-19 |  |
 | [Rejected](https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Personal Disasters](https://open.spotify.com/album/0HPHeEu6npThQPFPKtx3di) | 2:13 | 2021-12-10 |  |
 | [Relation](https://open.spotify.com/track/5iqBmtdacMA04rzUGrPAcS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Zooz Dream](https://open.spotify.com/album/2IXS0dHhY4EFQVUAG2SuLf) | 3:24 | 2023-06-02 |  |
@@ -171,6 +171,7 @@
 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 | 2022-12-02 |  |
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2021-12-10 |  |
 | [Tranquil Words](https://open.spotify.com/track/2RvWyBpbUwNqAghZ7r49ya) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Tranquil Words](https://open.spotify.com/album/6c6OD7843RI08pEBLUHuRv) | 2:53 | 2023-05-19 |  |
+| [Transcendent Tranquility](https://open.spotify.com/track/0bz6iGkPb4HiBE9knyGdCF) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Transcendent Tranquility](https://open.spotify.com/album/2PZCjFavks3YfHgov1os3V) | 3:08 | 2023-10-06 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2021-12-10 |  |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-12-10 | 2022-08-13 |
 | [Vitality](https://open.spotify.com/track/2qq70CnufPOLYgcjHv00ht) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Vitality](https://open.spotify.com/album/3CRqKw05hXRMqxaYDC59r1) | 3:12 | 2021-12-10 |  |

@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Bring Back Tomorrows",
+        "url": "https://open.spotify.com/album/412kjFRYXfikRw7Zigwfsh"
+      },
+      "artists": [
+        {
+          "name": "Survivalkid",
+          "url": "https://open.spotify.com/artist/65wFvy79iE0Azpc3qR6Egd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Bring Back Tomorrows",
+      "url": "https://open.spotify.com/track/5H2dGWVl476Fusgvmbw0B7"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/7oikaRbWRSqMSUYh3BDMSj"
       },
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 210681,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/0DPmpz0gyr87VmXK1faXWc"

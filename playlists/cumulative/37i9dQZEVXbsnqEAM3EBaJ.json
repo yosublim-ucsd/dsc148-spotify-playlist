@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "(i)",
+        "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183404,
+      "name": "(i)",
+      "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
+    },
+    {
+      "album": {
         "name": "1971",
         "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
       },
@@ -116,6 +134,24 @@
       "duration_ms": 193626,
       "name": "24 Preludes & Fugues, Op. 87: No. 23b, Fugue in F Major",
       "url": "https://open.spotify.com/track/5QwCUjwC8hVBneMeCxhCXk"
+    },
+    {
+      "album": {
+        "name": "40 y MM",
+        "url": "https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "40 y MM",
+      "url": "https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc"
     },
     {
       "album": {
@@ -755,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "album": {
         "name": "Alternate Endings",
         "url": "https://open.spotify.com/album/7iFiHLTulnvfJmiXSTIGpK"
       },
@@ -1032,7 +1086,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 648267,
       "name": "Andante with Variations in F Minor, H.XVII:6 - Duca 516",
       "url": "https://open.spotify.com/track/6J2pJKriat9L0TNuzpU9aZ"
@@ -2108,7 +2162,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 202442,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5NX5CdXj24m5fQQci6u8JJ"
@@ -2188,6 +2242,32 @@
       "duration_ms": 256823,
       "name": "Cabalgando",
       "url": "https://open.spotify.com/track/0ddZU1EUOP6F8sKhtdZ9OM"
+    },
+    {
+      "album": {
+        "name": "Call Your Name (Remixes)",
+        "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        },
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Call Your Name - Andromedik Remix",
+      "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
     },
     {
       "album": {
@@ -2752,7 +2832,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 193294,
       "name": "Climber - Demo",
       "url": "https://open.spotify.com/track/5weIZ06HP5ESdFf4bOnpow"
@@ -2796,6 +2876,24 @@
       "duration_ms": 165303,
       "name": "CODE MISTAKE",
       "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+    },
+    {
+      "album": {
+        "name": "Live At AFAS Live",
+        "url": "https://open.spotify.com/album/3XvorgWlkOVsKNZCLHxt3P"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375447,
+      "name": "Code of Life - Live At The AFAS Live",
+      "url": "https://open.spotify.com/track/3rYrPc3LSpgCsECFby8LVI"
     },
     {
       "album": {
@@ -3180,7 +3278,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 305757,
       "name": "Crossing Over - 2023 Remaster",
       "url": "https://open.spotify.com/track/1XLRqJpQF7nRVUKDb2oTtV"
@@ -3325,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
+    },
+    {
+      "album": {
         "name": "DANSE MACABRE",
         "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
       },
@@ -3448,7 +3564,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 310360,
       "name": "Daysleeper - Live At The Palace / 1999",
       "url": "https://open.spotify.com/track/2CSa4A0TBdcE6d4lyaAkHO"
@@ -3680,6 +3796,24 @@
       "duration_ms": 187804,
       "name": "Diabla - En Vivo",
       "url": "https://open.spotify.com/track/2BpBai63B5TzLRsGXjNpWy"
+    },
+    {
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
     },
     {
       "album": {
@@ -4733,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230256,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
+    },
+    {
+      "album": {
         "name": "Two Rooms",
         "url": "https://open.spotify.com/album/2A3RyDWQbBQQmuHXmh8vhB"
       },
@@ -5060,7 +5212,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 309026,
       "name": "Free To Decide - Paris Demo",
       "url": "https://open.spotify.com/track/3Z4lCM5i4f6yJVwoqgSlIa"
@@ -6863,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "I'm On The Lamb But I Ain't No Sheep (Live)",
+        "url": "https://open.spotify.com/album/4GrEbPIoWJVmKb8BBjHNH3"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "I'm On The Lamb But I Ain't No Sheep - Live",
+      "url": "https://open.spotify.com/track/2n31ApOKHdhiqZkT7iK0sd"
+    },
+    {
+      "album": {
         "name": "Live USA... '71",
         "url": "https://open.spotify.com/album/0l0c222KP2LfzeXfQTCrTo"
       },
@@ -6878,6 +7048,24 @@
       "duration_ms": 428634,
       "name": "I've Seen All Good People - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/79E74cEOPLkFbdOdnErNjl"
+    },
+    {
+      "album": {
+        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
+        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
     },
     {
       "album": {
@@ -7210,7 +7398,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 221000,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/0nDzTiBd4yfZkywYaNGmr1"
@@ -7284,6 +7472,24 @@
       "duration_ms": 205775,
       "name": "Infiel.",
       "url": "https://open.spotify.com/track/0Wy4cGh0gfuw84BGmFeqDK"
+    },
+    {
+      "album": {
+        "name": "Necromanteum",
+        "url": "https://open.spotify.com/album/581ToRMWBjDECfy931Zoip"
+      },
+      "artists": [
+        {
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240756,
+      "name": "Infinite Night Terror",
+      "url": "https://open.spotify.com/track/1q3ktDemgD0vPUv4BEPHwJ"
     },
     {
       "album": {
@@ -7362,6 +7568,36 @@
       "duration_ms": 481900,
       "name": "Insatiable (Early Mix)",
       "url": "https://open.spotify.com/track/44DsZlTn7qgFUZtPFewHXW"
+    },
+    {
+      "album": {
+        "name": "Insatiable Remixes Vol. 001",
+        "url": "https://open.spotify.com/album/71suyBVVP754NLECru0cZo"
+      },
+      "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        },
+        {
+          "name": "BLVCK CROWZ",
+          "url": "https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169533,
+      "name": "Insatiable - BLVCK CROWZ Remix",
+      "url": "https://open.spotify.com/track/1Az1YG8U4nuNuNLnfALqas"
     },
     {
       "album": {
@@ -7446,6 +7682,24 @@
       "duration_ms": 259173,
       "name": "Into The Fire - Live At The Royal Albert Hall",
       "url": "https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr"
+    },
+    {
+      "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
     },
     {
       "album": {
@@ -8329,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "The Collection II",
+        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316046,
+      "name": "Learning to See - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1B9Cf7gVcYR7gBWXD9YnRK"
+    },
+    {
+      "album": {
         "name": "Suffer in Heaven",
         "url": "https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x"
       },
@@ -8667,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (Deluxe)",
         "url": "https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC"
       },
@@ -8830,6 +9120,24 @@
       "duration_ms": 223269,
       "name": "Loser Kid 2.0",
       "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion (Live At The Palace / 1999)",
+        "url": "https://open.spotify.com/album/0ZgBowXpVfQ1V1RiIucMvH"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305293,
+      "name": "Losing My Religion - Live At The Palace / 1999",
+      "url": "https://open.spotify.com/track/2Mot3tzO0hS1x8aX83uVsK"
     },
     {
       "album": {
@@ -10767,6 +11075,24 @@
     },
     {
       "album": {
+        "name": "Hot N' Ready In Texas - Live 1979",
+        "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251514,
+      "name": "Only You Can Rock Me - Live",
+      "url": "https://open.spotify.com/track/0cw9jCePiR9GXedNBJUy8U"
+    },
+    {
+      "album": {
         "name": "Live In Vienna 1998",
         "url": "https://open.spotify.com/album/0zEmVfGL3K1lMqF3IpwCPs"
       },
@@ -11216,7 +11542,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 238365,
       "name": "Pennyroyal Tea - Live In Los Angeles, Great Western Forum - December 30, 1993",
       "url": "https://open.spotify.com/track/7g8wYvj1XPFu7CRNFH7zsa"
@@ -11270,7 +11596,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 854413,
       "name": "Perpetual Change - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/1AddVSixWyY5c0kJxAYsko"
@@ -11486,6 +11812,24 @@
       "duration_ms": 197000,
       "name": "Poison Pill",
       "url": "https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM"
+    },
+    {
+      "album": {
+        "name": "Live 1978 - 1992",
+        "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442360,
+      "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
+      "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
     },
     {
       "album": {
@@ -12357,6 +12701,24 @@
     },
     {
       "album": {
+        "name": "Rizen",
+        "url": "https://open.spotify.com/album/7d4zGzDx7FhWsIubaqFysd"
+      },
+      "artists": [
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156048,
+      "name": "Rizen",
+      "url": "https://open.spotify.com/track/5HkE8b6FZ143omeRfTxKSn"
+    },
+    {
+      "album": {
         "name": "Road to Joy (Bright-Side Mix)",
         "url": "https://open.spotify.com/album/6coGXkjr3LDx4ZqYFJcrSE"
       },
@@ -13174,6 +13536,28 @@
       "duration_ms": 276659,
       "name": "Shine again",
       "url": "https://open.spotify.com/track/6SpGa1uZ4gWZgZx1Jcf3SZ"
+    },
+    {
+      "album": {
+        "name": "Delta Machine | The 12\" Singles",
+        "url": "https://open.spotify.com/album/2fjQkaOCx5vQSkNCEhundG"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "MPIA3",
+          "url": "https://open.spotify.com/artist/2QAqNriCEYXQGX9yaMNHc7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353317,
+      "name": "Should Be Higher - MPIA3 Definition",
+      "url": "https://open.spotify.com/track/1eTXEksU6g7jzvodZJqGX2"
     },
     {
       "album": {
@@ -14094,7 +14478,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 406306,
       "name": "Sultans Of Swing - Live At The Rainbow / Dec 1979",
       "url": "https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O"
@@ -14124,6 +14508,28 @@
       "duration_ms": 188470,
       "name": "Superstar (feat. Remington Leith)",
       "url": "https://open.spotify.com/track/0k7V0datb9PpWRDGkB0xzq"
+    },
+    {
+      "album": {
+        "name": "Swan Lake Op. 20: Intermezzo (Piano arrangement by K. Kornienko)",
+        "url": "https://open.spotify.com/album/4qRac6oi9UIszAMwCDutKT"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187236,
+      "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
+      "url": "https://open.spotify.com/track/7t41HqDyE7ZugAQZBy9aVw"
     },
     {
       "album": {
@@ -14274,6 +14680,24 @@
       "duration_ms": 164533,
       "name": "Take the World Apart",
       "url": "https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB"
+    },
+    {
+      "album": {
+        "name": "Tania",
+        "url": "https://open.spotify.com/album/6Boi6nNfxwJz0mfXSbqzXy"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243435,
+      "name": "Tania",
+      "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
     },
     {
       "album": {
@@ -16043,6 +16467,28 @@
     },
     {
       "album": {
+        "name": "Una notte",
+        "url": "https://open.spotify.com/album/1a7quaBHWknG4DVff4ecs4"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        },
+        {
+          "name": "CIALQUADRATO",
+          "url": "https://open.spotify.com/artist/6rhdRzCuTMgc6dODkP25l5"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174549,
+      "name": "Una notte",
+      "url": "https://open.spotify.com/track/1VqZl4klK4Sv9rJGRuZ8Ag"
+    },
+    {
+      "album": {
         "name": "Unchained",
         "url": "https://open.spotify.com/album/3aGVgBtMuRrvOTdDRM9wNm"
       },
@@ -16163,6 +16609,24 @@
     },
     {
       "album": {
+        "name": "The Dark Side of the Moon Redux",
+        "url": "https://open.spotify.com/album/2LywAZA9wrn0VmDYnkp1CU"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456485,
+      "name": "Us and Them",
+      "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
+    },
+    {
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/70Zug3bslmFJ7lccWDIo9J"
       },
@@ -16226,6 +16690,24 @@
       "duration_ms": 54800,
       "name": "Variations on a Theme of Corelli, Op. 42: Theme. Andante",
       "url": "https://open.spotify.com/track/2J3WtVMp6HnsyCredUu06n"
+    },
+    {
+      "album": {
+        "name": "Velas Ciegas",
+        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173209,
+      "name": "Velas Ciegas",
+      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
     },
     {
       "album": {
@@ -16693,6 +17175,28 @@
     },
     {
       "album": {
+        "name": "We Love You Moar (feat. Pussy Riot)",
+        "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        },
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275564,
+      "name": "We Love You Moar (feat. Pussy Riot)",
+      "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
+    },
+    {
+      "album": {
         "name": "Ten Summoner's Tales (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IKj6bT2X51L1xEuQhKcMC"
       },
@@ -16937,6 +17441,24 @@
     },
     {
       "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "When You're Gone - Paris Demo",
+      "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
+    },
+    {
+      "album": {
         "name": "White Line Frankenstein",
         "url": "https://open.spotify.com/album/5XodKvil0Thw2XAMBFAuxv"
       },
@@ -17062,6 +17584,24 @@
       "duration_ms": 300906,
       "name": "Wicked Place",
       "url": "https://open.spotify.com/track/6hwEpA4b1XmlLv4x7TksbV"
+    },
+    {
+      "album": {
+        "name": "Widow",
+        "url": "https://open.spotify.com/album/4UlmQoxwNwH2atOdEz3ZSh"
+      },
+      "artists": [
+        {
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "Widow",
+      "url": "https://open.spotify.com/track/1uXAHCCoenBSWINkLfa0tU"
     },
     {
       "album": {
@@ -17334,10 +17874,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 208298,
       "name": "Ya No Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/5qJMvyGIJryYsDQ8SVStQ0"
+    },
+    {
+      "album": {
+        "name": "Yo Ya Lo Dejo",
+        "url": "https://open.spotify.com/album/4QbuO5zOiA2SH0m8POyv78"
+      },
+      "artists": [
+        {
+          "name": "BARRAC\u00dcDA",
+          "url": "https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx"
+        },
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215361,
+      "name": "Yo Ya Lo Dejo",
+      "url": "https://open.spotify.com/track/0jREdJv8cIEdRQNY2Dexd4"
     },
     {
       "album": {
@@ -17390,7 +17952,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
@@ -17556,6 +18118,24 @@
       "duration_ms": 712370,
       "name": "Yours Is No Disgrace - Live: Yale Bowl, USA 24th July 1971",
       "url": "https://open.spotify.com/track/7xhyCH2gmbWKINV4KO0Dqc"
+    },
+    {
+      "album": {
+        "name": "Z0mbie",
+        "url": "https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191470,
+      "name": "Z0mbie",
+      "url": "https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj"
     },
     {
       "album": {

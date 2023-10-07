@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 | 2023-10-04 |
+| [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 |  |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 |  |
 | [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-07-10 |  |
@@ -86,7 +86,7 @@
 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 | 2023-07-10 |  |
 | [Como Noide](https://open.spotify.com/track/2rO5c5C7ZjPhmvO05BfZ9B) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Como Noide](https://open.spotify.com/album/7F40dc8XuDfuWC0CQegd9y) | 4:37 | 2023-07-10 |  |
 | [Con el Sol de la Mañana](https://open.spotify.com/track/0X8FKQkmmxoZFwgUajjn0s) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [De Aquí Son](https://open.spotify.com/album/260g05EqAq0W9HZZTDDD3K) | 4:22 | 2023-07-10 |  |
-| [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2023-07-10 |  |
+| [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2023-07-10 | 2023-10-07 |
 | [Corneteiro Luís](https://open.spotify.com/track/058beKosGKglMtEQ3sZwq6) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 3:39 | 2023-07-10 |  |
 | [Cuba 1970](https://open.spotify.com/track/4CKT7aRJHmPWy4MoksOkzl) | [Dead Combo](https://open.spotify.com/artist/4DbBi3EWMhdHMnX8WqRIev) | [Dead Combo e as Cordas da Má Fama](https://open.spotify.com/album/2H8dOZvDGr1mJP0xeIyNQ2) | 3:48 | 2023-07-10 |  |
 | [Cumbia de Mochilla](https://open.spotify.com/track/3w8pnNOI6MLUdaHbvnegYZ) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:29 | 2023-07-10 |  |

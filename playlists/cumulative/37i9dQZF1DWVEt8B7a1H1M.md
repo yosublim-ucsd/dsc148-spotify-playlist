@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-124 songs - 6 hr 55 min
+125 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Birds & Stream](https://open.spotify.com/track/6SenwdFqWVglPfDRUJhBSl) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [My Forest](https://open.spotify.com/album/1oe0LQiGTDp2tjxgEjpXtc) | 2:52 | 2023-06-20 |  |
 | [Birds & The Bees](https://open.spotify.com/track/4wdgM2i2X3jMCvq5bCnNJ9) | [Zen Master](https://open.spotify.com/artist/5TM7S7xrOB6o7deUWGAmup) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 1:34 | 2021-12-08 |  |
 | [Birds After The Rain](https://open.spotify.com/track/3sgOhjx9zNhxEQIransTTP) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:09 | 2021-12-08 | 2022-07-05 |
-| [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 | 2023-06-20 |  |
+| [Birds and Creeks](https://open.spotify.com/track/5pSCU0t63yx1nyKYQKyJT8) | [Ruidos de la Selva](https://open.spotify.com/artist/02QfOJ9WoHBZ7SOc016zJ0) | [A Symphony of the Sky](https://open.spotify.com/album/6xLgC9GRpyZtvuBk40x7ft) | 2:19 | 2023-06-20 | 2023-10-07 |
 | [Birds and Nest noise](https://open.spotify.com/track/1cF59CDiXxxasWRe6UTrS4) | [Pájaros De La Mañana](https://open.spotify.com/artist/6O1qgGuqEKfKHjESGbyvxa) | [Birds and Nest Noise](https://open.spotify.com/album/6RCImJPRCPLXJRnZV8AbhY) | 2:15 | 2023-06-19 | 2023-06-30 |
 | [Birds and Rain](https://open.spotify.com/track/0eQgJL7i10K9jDSDwHUcEH) | [The Sound Of The Rain](https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh) | [Volume 2](https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB) | 3:25 | 2021-12-08 | 2022-02-19 |
 | [Birds Around The Brook](https://open.spotify.com/track/62DNn8FKECcxRXw5Du456T) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:01 | 2021-12-08 | 2022-07-05 |
@@ -132,5 +132,6 @@
 | [Up Above, Where Birds Sing](https://open.spotify.com/track/7o5sqfEC5qffpmWxctGPAX) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Birdopia](https://open.spotify.com/album/3e6UQ4ZftjswTJFXTfAdmO) | 15:09 | 2021-12-08 | 2022-07-05 |
 | [Vogelgezwitscher](https://open.spotify.com/track/1g6cnSGhFUyP3XIJ1Jku1f) | [Berlin Rain](https://open.spotify.com/artist/367WqYA55AUDT7u8TMBVsy) | [Vogelgezwitscher](https://open.spotify.com/album/3d2efairwF2VEGbYPjDigj) | 2:56 | 2021-12-08 | 2022-07-05 |
 | [Wide Forest Birds](https://open.spotify.com/track/1LpNmVAC0WE75GCwcOzAIr) | [House Bird](https://open.spotify.com/artist/5QWe1SYr4B5uriokmL0pSg) | [Wide Forest Birds](https://open.spotify.com/album/5TowgUxxmnHsGWBYbTdFn5) | 2:37 | 2023-06-20 | 2023-08-26 |
+| [Wildwood Meditation](https://open.spotify.com/track/3h2KfUN6qMnM85VxTVyx1t) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 3:56 | 2023-06-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

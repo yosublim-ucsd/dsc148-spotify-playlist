@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Vers\u00f5es desplugadas do mundo pop. ",
+  "description": "Vers\u00f5es desplugadas do mundo pop. Foto: Thiago Pantale\u00e3ozinho",
   "name": "Pop Ac\u00fastico",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 243955,
       "name": "America",
       "url": "https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk"
@@ -840,6 +840,28 @@
       "duration_ms": 229026,
       "name": "Entrelace",
       "url": "https://open.spotify.com/track/03XgNXtE6y5xO972gxQl6v"
+    },
+    {
+      "album": {
+        "name": "Espero Que N\u00e3o Dure (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2dmxASah4bRnBadFadPbXM"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        },
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Espero Que N\u00e3o Dure - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2LipaKn124ClsUoFjCoQIJ"
     },
     {
       "album": {
@@ -1830,7 +1852,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 209741,
       "name": "New Rules - Piano, Acoustic; Live",
       "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
@@ -1852,6 +1874,24 @@
       "duration_ms": 182906,
       "name": "Nothing But a Song - Bonus Acoustic Version",
       "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
+    },
+    {
+      "album": {
+        "name": "N\u00f3 na Garganta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4zvib7ats67UVhjatwn2Sg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161449,
+      "name": "N\u00f3 na Garganta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6jrCdriDRqJEghjr7Nadtk"
     },
     {
       "album": {
@@ -1942,7 +1982,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 142177,
       "name": "Only Want You - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
@@ -1990,6 +2030,24 @@
       "duration_ms": 238000,
       "name": "parte - Ao Vivo",
       "url": "https://open.spotify.com/track/3SEAfqyL6t7SWr5duH9xBA"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico Luana Berti",
+        "url": "https://open.spotify.com/album/0aBngiuQTX84LPbuqeJhAy"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "pele - ao vivo",
+      "url": "https://open.spotify.com/track/6Obz4fjPvcQJUyH2kqd3vS"
     },
     {
       "album": {

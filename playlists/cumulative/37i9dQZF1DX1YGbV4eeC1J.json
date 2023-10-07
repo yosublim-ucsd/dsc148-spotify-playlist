@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Ibraah",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Anjella",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 191007,
       "name": "Everybody (feat. Nadia Mukami)",
       "url": "https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD"
@@ -442,6 +442,24 @@
       "duration_ms": 186666,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8"
+    },
+    {
+      "album": {
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/0SuFal0Q6lCaiN2StecdhB"
+      },
+      "artists": [
+        {
+          "name": "Haitham Kim",
+          "url": "https://open.spotify.com/artist/750ujPfB38qROElCTru0vL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/5SRVeuiI9GkdtDmpi43APu"
     },
     {
       "album": {
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169937,
       "name": "Napona",
       "url": "https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv"
@@ -1612,6 +1630,28 @@
       "duration_ms": 195249,
       "name": "Popo",
       "url": "https://open.spotify.com/track/68vAcSVvyxY1j5peKjNYzS"
+    },
+    {
+      "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I"
+      },
+      "artists": [
+        {
+          "name": "Anjella",
+          "url": "https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls"
+        },
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153463,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI"
     },
     {
       "album": {

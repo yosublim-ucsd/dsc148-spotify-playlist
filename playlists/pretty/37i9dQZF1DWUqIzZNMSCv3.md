@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,332 likes - 66 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,487 likes - 66 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Consolations, S\. 172: No\. 3, Lento placido](https://open.spotify.com/track/4ExtqIKNZLLmatRTVzlzFu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth](https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e) | 5:12 |
 | 2 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5oc54CC6nWMJPmzsgLvYnR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [David Fray](https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR) | [Bach, JS: Goldberg Variations](https://open.spotify.com/album/3WLdlJT0bQwUxN9RW6unsK) | 5:12 |
-| 3 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 |
+| 3 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
 | 4 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 | 5 | [3 Gymnopédies: No\. 1 Lent et douloureux](https://open.spotify.com/track/7kTVe6XhIveidvkt8nb7jK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Magic of Satie](https://open.spotify.com/album/1cLRjf5m6cTcqaFljda0r1) | 3:39 |
 | 6 | [Après un rêve, Op\. 7, No\. 1 \(Arr\. Piano\)](https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Alan Feinberg](https://open.spotify.com/artist/7cTvdUU1BZYBATq6QdfZO6) | [The American Virtuoso](https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD) | 3:18 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 65 | [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 |
 | 66 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MCw2NzlhMGMwYTgwNjI3ZDAwNmUwMzRmYjFhMjBmNzhhNDc3ZjNmOGRi`
+Snapshot ID: `MCxlYzYyNWU0YThkOWY0ODBmNTAzNjg2MWJiMjAyMjMwYWE4NmI2OWU5`

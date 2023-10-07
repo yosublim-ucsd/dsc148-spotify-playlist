@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=gX9Ki4eNRh-Ok0etAYYfFA\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=qnCa5ScGSdu0Hn1d7GAZ4g\">Maglera Doe Boy</a> ",
-  "num_followers": 1227,
+  "num_followers": 1228,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWU5NWFmYzNhOTAxYTVhNTVjZjJiZGZjYjQxMGI4MjBjNDYwMmMx",
+  "snapshot_id": "MCxjOWExOGJhYWYyYzY4MWQ4OWYzNWM3ZWY1NjhjODAxM2UzMjMyYjIz",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/07pekB0VlTJg0tpb8qvTcH"
     },
     {
+      "added_at": "2023-10-06 04:59:04",
+      "album": {
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
+    },
+    {
       "added_at": "2023-08-31 21:59:00",
       "album": {
         "name": "3 Eye",
@@ -227,6 +243,22 @@
       "duration_ms": 205440,
       "name": "Trap In Die Hood",
       "url": "https://open.spotify.com/track/1knJxiQusxbgHW0oKjwOym"
+    },
+    {
+      "added_at": "2023-10-06 04:59:04",
+      "album": {
+        "name": "Master",
+        "url": "https://open.spotify.com/album/1VBh6aNJi2dcXprXcczPYT"
+      },
+      "artists": [
+        {
+          "name": "Wboy",
+          "url": "https://open.spotify.com/artist/04JztP9AaI1fxKtfZ6eQVW"
+        }
+      ],
+      "duration_ms": 136532,
+      "name": "Master",
+      "url": "https://open.spotify.com/track/2oqEDL2aK5Ac0VIbEMCAq3"
     },
     {
       "added_at": "2023-08-31 21:59:00",
@@ -561,22 +593,6 @@
       "url": "https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm"
     },
     {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Mooiste Meisies",
-        "url": "https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF"
-      },
-      "artists": [
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 221571,
-      "name": "Mooiste Meisies",
-      "url": "https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw"
-    },
-    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Grammadoelas",
@@ -739,26 +755,6 @@
       "duration_ms": 158000,
       "name": "Is Duidelik",
       "url": "https://open.spotify.com/track/0XsFvyPoCtoLsZ9oZ2JQsa"
-    },
-    {
-      "added_at": "2023-07-20 21:59:00",
-      "album": {
-        "name": "Dubbel of Niks",
-        "url": "https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8"
-      },
-      "artists": [
-        {
-          "name": "RoYal King",
-          "url": "https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q"
-        },
-        {
-          "name": "Wanie",
-          "url": "https://open.spotify.com/artist/6Foq05rhSXH00XxLrvt6yn"
-        }
-      ],
-      "duration_ms": 198456,
-      "name": "Dubbel of Niks",
-      "url": "https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s"
     },
     {
       "added_at": "2023-06-02 07:29:20",

@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-195 songs - 10 hr 51 min
+198 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Fall Apart](https://open.spotify.com/track/5tT058LyJehDH10hhwMdrE) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Fall Apart](https://open.spotify.com/album/7tsyXOh3p1VqqWOQfqX9PY) | 2:46 | 2021-12-06 | 2023-08-16 |
 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/6trPCW8cYTZChs64WNRl8F) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:10 | 2023-08-28 |  |
 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2023-08-15 | 2023-08-29 |
+| [False Perspectives](https://open.spotify.com/track/1cJonqwsfQM4ciVtNFyrAd) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [False Perspectives](https://open.spotify.com/album/52wbuXA4ebA6qfbzagkPly) | 2:32 | 2023-10-06 |  |
 | [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 | 2023-08-28 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2023-08-15 | 2023-08-29 |
 | [Field Guide for the Night Sky](https://open.spotify.com/track/4pEJJLiImZ3FVS7kn6uUHO) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Field Guide for the Night Sky](https://open.spotify.com/album/23HLEZx1iwZEr7StbTAbsZ) | 2:34 | 2021-12-06 | 2023-08-16 |
@@ -68,7 +69,7 @@
 | [From up Here](https://open.spotify.com/track/6rdHZ6VLgH52eARNMj5uPH) | [Sofia Wolfson](https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN) | [From up Here](https://open.spotify.com/album/6Nv8R0f555sPwWA1B5lJEx) | 3:08 | 2023-09-08 | 2023-09-23 |
 | [Garment Bag](https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Garment Bag](https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN) | 2:25 | 2023-08-15 |  |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-08-15 | 2023-08-29 |
-| [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 | 2023-08-28 |  |
+| [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 | 2023-08-28 | 2023-10-07 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-06 | 2023-08-16 |
 | [Give You Love](https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Give You Love](https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG) | 3:03 | 2023-08-15 | 2023-08-29 |
 | [Glass on the Shelf](https://open.spotify.com/track/0coaS3vPUhouAAWWhZtXYx) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Glass on the Shelf](https://open.spotify.com/album/31ig3AL64lmrzBDbuTRdJa) | 3:40 | 2023-08-15 | 2023-08-29 |
@@ -103,6 +104,7 @@
 | [Little by Little](https://open.spotify.com/track/4kVGV71oxRjr1pgAgbZwRd) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Little by Little](https://open.spotify.com/album/4VwxXvie3oXV5EfxC8nG4t) | 2:58 | 2023-08-28 |  |
 | [Little Did I Know](https://open.spotify.com/track/5t1o6xvTRq7ZOCqnS1dYPw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Little Did I Know](https://open.spotify.com/album/6JhJcb6Ql2dSQv5mohmwJJ) | 2:37 | 2021-12-06 | 2023-08-16 |
 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 | 2023-08-15 | 2023-08-29 |
+| [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-10-06 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-08-15 | 2023-08-29 |
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-15 | 2023-08-29 |
 | [Lying](https://open.spotify.com/track/1GsFAbxNUsYIrqY1p5gOgD) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Lying](https://open.spotify.com/album/1M0c54SpS4tyuPC54ftu3T) | 2:10 | 2023-08-15 |  |
@@ -127,6 +129,7 @@
 | [Olympus](https://open.spotify.com/track/428djqRa5cPXovbZIYQOIO) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 3:36 | 2023-08-28 |  |
 | [One Day](https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One Day](https://open.spotify.com/album/5yGros4T4Mwwd1dE8UWpvZ) | 2:26 | 2021-12-06 | 2023-08-16 |
 | [One Step Back](https://open.spotify.com/track/5qoEg8mIXDbEy6pwWZjEF0) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/2UlxAQMoQOarg3nnSkGUzF) | 3:34 | 2023-08-15 | 2023-08-29 |
+| [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 | 2023-10-06 |  |
 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 | 2021-12-06 | 2023-08-16 |
 | [outside world](https://open.spotify.com/track/3VcMS5H8mIsV3K7mro9JfB) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [outside world](https://open.spotify.com/album/6CEfIgvkztTumJQ2A44lXz) | 2:53 | 2021-12-06 | 2023-08-16 |
 | [Palm Trees](https://open.spotify.com/track/0TyTbWW4xMI6M1Q5HXs3Fj) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Palm Trees](https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp) | 2:47 | 2021-12-06 | 2023-08-16 |
@@ -157,7 +160,7 @@
 | [sPaCe \(528hz\)](https://open.spotify.com/track/23zct1MabUAB9WL1nR7WZW) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:00 | 2023-09-08 | 2023-09-16 |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-08-28 |  |
 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 | 2023-08-28 |  |
-| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-28 |  |
+| [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-28 | 2023-10-07 |
 | [Stains](https://open.spotify.com/track/7yCZNi9rvhRUkuvN7kqYsr) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Stains](https://open.spotify.com/album/5NXk9SSME4rxNK809ODU1e) | 2:53 | 2023-08-28 |  |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-09-22 |  |
 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 | 2023-08-15 | 2023-08-29 |

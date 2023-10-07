@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Lonnie Liston Smith,  Ali Shaheed Muhammad & Adrian Younge",
+  "description": "New jazz for open minds. Cover: Dana and Alden",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -931,6 +931,28 @@
     },
     {
       "album": {
+        "name": "All the Bones Had Names",
+        "url": "https://open.spotify.com/album/24dPIyeFjnfYxpnjnGVJYK"
+      },
+      "artists": [
+        {
+          "name": "Roy Nathanson",
+          "url": "https://open.spotify.com/artist/3amr1OnN76azwuK5gwyGFi"
+        },
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271564,
+      "name": "All the Bones Had Names",
+      "url": "https://open.spotify.com/track/3sYHvMpa9O7qQ8ZXWQ6QBx"
+    },
+    {
+      "album": {
         "name": "All The Memories That Objects Carry",
         "url": "https://open.spotify.com/album/4My7R3aD9yZp7PT8fJxHoY"
       },
@@ -1752,7 +1774,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 458312,
       "name": "ASR (feat. Jeff Parker)",
       "url": "https://open.spotify.com/track/5MLWJZfgMuSHOJtcfZC5vM"
@@ -2732,6 +2754,28 @@
       "duration_ms": 341120,
       "name": "Big George - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/15KAGTNN1N5b7mBUeL94tc"
+    },
+    {
+      "album": {
+        "name": "Re: This Is Why",
+        "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179851,
+      "name": "Big Man, Little Dignity (Re: DOMi & JD BECK)",
+      "url": "https://open.spotify.com/track/45D0aZpY8muBiprlulURde"
     },
     {
       "album": {
@@ -4623,6 +4667,28 @@
     },
     {
       "album": {
+        "name": "D.O.T.S.",
+        "url": "https://open.spotify.com/album/36v6d0XfgyWnWTB3cuck7P"
+      },
+      "artists": [
+        {
+          "name": "Move 78",
+          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
+        },
+        {
+          "name": "Aquiles Navarro",
+          "url": "https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268784,
+      "name": "D.O.T.S.",
+      "url": "https://open.spotify.com/track/7rDKF3YrD0pVIW5CGPP3Ni"
+    },
+    {
+      "album": {
         "name": "Dahab Days",
         "url": "https://open.spotify.com/album/3DnTeaT3pKAZT1dFmEGXi3"
       },
@@ -5005,6 +5071,36 @@
     },
     {
       "album": {
+        "name": "Days to Save",
+        "url": "https://open.spotify.com/album/7e4wNEclZkRP9dwzUXphzs"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Lindsey Webster",
+          "url": "https://open.spotify.com/artist/3lBD383C0a92MbCRj9dEHZ"
+        },
+        {
+          "name": "Davonte \u201cDeuce\u201d Harris",
+          "url": "https://open.spotify.com/artist/2YTkwM1CWU90CML5QuZQTW"
+        },
+        {
+          "name": "Ledaris \"LJ\" Jones",
+          "url": "https://open.spotify.com/artist/24fKdc1YoPQlaqiGZ0F6Wx"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172598,
+      "name": "Days to Save",
+      "url": "https://open.spotify.com/track/5Z9XL2vGaVftUz5XqHmpoV"
+    },
+    {
+      "album": {
         "name": "De-Dah",
         "url": "https://open.spotify.com/album/1DFK5fTxzRp5Hlk5lPAR3I"
       },
@@ -5178,7 +5274,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 166933,
       "name": "Devil Doesn't Dance",
       "url": "https://open.spotify.com/track/1xMSayO9HnbfvyHqqDW5mm"
@@ -5740,6 +5836,24 @@
       "duration_ms": 223475,
       "name": "Dr. Disclosure",
       "url": "https://open.spotify.com/track/3UekZOLmo7XP1zofrdAltA"
+    },
+    {
+      "album": {
+        "name": "Quiet Music For Young People",
+        "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
+      },
+      "artists": [
+        {
+          "name": "Dana and Alden",
+          "url": "https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357709,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
     },
     {
       "album": {
@@ -7356,7 +7470,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 295573,
       "name": "Freedom Praise",
       "url": "https://open.spotify.com/track/0lbB2VlCHGSbJZSz6pUeKX"
@@ -8560,6 +8674,24 @@
       "duration_ms": 366236,
       "name": "Heather Grey (BK Gritty)",
       "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
+    },
+    {
+      "album": {
+        "name": "Bad With Names",
+        "url": "https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175148,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
     },
     {
       "album": {
@@ -10983,6 +11115,28 @@
     },
     {
       "album": {
+        "name": "Late Night Rendezvous",
+        "url": "https://open.spotify.com/album/7HtbimMr4j8e4OqgB0MiK6"
+      },
+      "artists": [
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "Rhesa Siregar",
+          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "Late Night Rendezvous",
+      "url": "https://open.spotify.com/track/1FbA175uritak8MnIijMz2"
+    },
+    {
+      "album": {
         "name": "Latency",
         "url": "https://open.spotify.com/album/2GdN1zVGThhW0YLSViECgF"
       },
@@ -10994,7 +11148,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226332,
       "name": "Latency",
       "url": "https://open.spotify.com/track/0sGeZR0HjMbEx5o1xTWpvF"
@@ -12276,7 +12430,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 509031,
       "name": "Maimoun",
       "url": "https://open.spotify.com/track/46ZgUJQCJMI6IMhqCEskzU"
@@ -12892,7 +13046,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 156915,
       "name": "Mischief",
       "url": "https://open.spotify.com/track/68xOMknCX6P1tC5KIe9Use"
@@ -13026,7 +13180,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 155730,
       "name": "Moments",
       "url": "https://open.spotify.com/track/517TcSjay7c3TRLwhl6Y3U"
@@ -14282,7 +14436,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 191948,
       "name": "Oahoo",
       "url": "https://open.spotify.com/track/6hLK1q43Yi67HXNumAVQ1t"
@@ -16119,6 +16273,24 @@
     },
     {
       "album": {
+        "name": "QR",
+        "url": "https://open.spotify.com/album/5drh2CrQbLSQ2ZHE9gykN6"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166288,
+      "name": "QR",
+      "url": "https://open.spotify.com/track/394dE7wi1Y9YKtP5KzcAcp"
+    },
+    {
+      "album": {
         "name": "Massimo Fara\u00f2 Plays Pino Daniele's Ballads",
         "url": "https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy"
       },
@@ -16530,6 +16702,32 @@
       "duration_ms": 339133,
       "name": "Renewal",
       "url": "https://open.spotify.com/track/5IUOEqMpmnd8zQB35gDOWc"
+    },
+    {
+      "album": {
+        "name": "Lados B",
+        "url": "https://open.spotify.com/album/6L8oYhLjODb72DcDJFqgjW"
+      },
+      "artists": [
+        {
+          "name": "Daniel Villarreal",
+          "url": "https://open.spotify.com/artist/0fyMykWT1iIv2Xof7BQphz"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "Anna Butterss",
+          "url": "https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173826,
+      "name": "Republic",
+      "url": "https://open.spotify.com/track/61pLnej65GTj3Rex1NHTYU"
     },
     {
       "album": {
@@ -20145,6 +20343,36 @@
     },
     {
       "album": {
+        "name": "The Atlantiques (feat. Ana\u00efs Maviel, Jeff Parker, Josh Johnson)",
+        "url": "https://open.spotify.com/album/22w398INGNR8RllSDwpAGt"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Ana\u00efs Maviel",
+          "url": "https://open.spotify.com/artist/2nRnf4g05Ihyy7Q87FlogJ"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324243,
+      "name": "The Atlantiques (feat. Ana\u00efs Maviel, Jeff Parker, Josh Johnson)",
+      "url": "https://open.spotify.com/track/5OXgjjil0Gl6wrRvoR3IsI"
+    },
+    {
+      "album": {
         "name": "The Avenues",
         "url": "https://open.spotify.com/album/2UFYbuQl5FSYae42onHWde"
       },
@@ -22780,7 +23008,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 158009,
       "name": "Up on Harvard Ave.",
       "url": "https://open.spotify.com/track/4S4Cmnk1vHIToGPttXLHnh"
@@ -24846,7 +25074,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 122146,
       "name": "\u708e\u306e\u30a4\u30f3\u30d7\u30ed\u30d3\u30bc\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP"

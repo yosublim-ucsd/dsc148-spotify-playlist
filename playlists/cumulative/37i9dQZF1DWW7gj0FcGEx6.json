@@ -865,6 +865,32 @@
     },
     {
       "album": {
+        "name": "Castlevania Nocturne (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1RXziB6CQgiMH4j28vt6NQ"
+      },
+      "artists": [
+        {
+          "name": "Trevor Morris",
+          "url": "https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq"
+        },
+        {
+          "name": "Trey Toy",
+          "url": "https://open.spotify.com/artist/064lAbwkbIta0J7fJPAFx6"
+        },
+        {
+          "name": "Ari Mason",
+          "url": "https://open.spotify.com/artist/0V8zk3mDbTH54fs1bdqx8y"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154520,
+      "name": "Divine Bloodlines (feat. Ari Mason) [Trailer Version]",
+      "url": "https://open.spotify.com/track/7yywthwlBemMszf7EXXcoG"
+    },
+    {
+      "album": {
         "name": "Three Thousand Years of Longing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/53YwItUiceECIImcxDFSPf"
       },

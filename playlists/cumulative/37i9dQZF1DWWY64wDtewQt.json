@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 226152,
       "name": "Automotivo Blindado",
       "url": "https://open.spotify.com/track/1wynWAVM1KqUQMhytk89rO"
@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "BACK2BACK",
+        "url": "https://open.spotify.com/album/7l8OQ87fY1GBN9eWP8w7RH"
+      },
+      "artists": [
+        {
+          "name": "STRLGHT",
+          "url": "https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx"
+        },
+        {
+          "name": "ROONIN",
+          "url": "https://open.spotify.com/artist/2n63EtoHVF4ZjplzJSzEr0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "BACK2BACK",
+      "url": "https://open.spotify.com/track/1cQnwmwwUDB1G64mIi78O0"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/5do94hiALxLzO7Y10UuAoP"
       },
@@ -752,6 +774,24 @@
       "duration_ms": 134400,
       "name": "bad!",
       "url": "https://open.spotify.com/track/5LEwPPegulMXShjwMYOfmH"
+    },
+    {
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
       "album": {
@@ -3696,7 +3736,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 151971,
       "name": "Flare",
       "url": "https://open.spotify.com/track/3hzelPptWzx0OrSDTyIuuy"
@@ -4978,7 +5018,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 125029,
       "name": "infinite universe",
       "url": "https://open.spotify.com/track/2U155vVDxWPXEaKy2QvK99"
@@ -5484,6 +5524,24 @@
       "duration_ms": 150164,
       "name": "LAST ONE",
       "url": "https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe"
+    },
+    {
+      "album": {
+        "name": "LEAVE 'EM",
+        "url": "https://open.spotify.com/album/2XFA6X7LSMlwy9xZp3meT8"
+      },
+      "artists": [
+        {
+          "name": "NIVEK FFORHS",
+          "url": "https://open.spotify.com/artist/4PUbhYyuHOrbVt6SIA4QPG"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69357,
+      "name": "LEAVE 'EM",
+      "url": "https://open.spotify.com/track/0Kw4lElym53ZdiikZlr9ts"
     },
     {
       "album": {
@@ -6564,7 +6622,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 210024,
       "name": "Montagem Celestial de Atenas",
       "url": "https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz"
@@ -6616,6 +6674,32 @@
       "duration_ms": 145188,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK"
+    },
+    {
+      "album": {
+        "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
+        "url": "https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD"
+      },
+      "artists": [
+        {
+          "name": "DJ Crazy 013",
+          "url": "https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29"
+        },
+        {
+          "name": "Dj Gk7 Original",
+          "url": "https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB"
+        },
+        {
+          "name": "DJ Lipe Da Zn",
+          "url": "https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150130,
+      "name": "Montagem Dilata\u00e7\u00e3o Hipn\u00f3tica 5.0",
+      "url": "https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU"
     },
     {
       "album": {
@@ -6792,6 +6876,24 @@
       "duration_ms": 159842,
       "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
       "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
+    },
+    {
+      "album": {
+        "name": "MTG PATRONO",
+        "url": "https://open.spotify.com/album/1voYue1fOt5KXCqbxQsXCq"
+      },
+      "artists": [
+        {
+          "name": "CHXSE WAVE",
+          "url": "https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99875,
+      "name": "MTG PATRONO",
+      "url": "https://open.spotify.com/track/3NQOcWmMK1YDhcES2DRlQI"
     },
     {
       "album": {
@@ -7980,7 +8082,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa"
@@ -8046,6 +8148,24 @@
       "duration_ms": 184905,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0Uym38yYXOvZLjiIFYP8T0"
+    },
+    {
+      "album": {
+        "name": "poki poki",
+        "url": "https://open.spotify.com/album/5GP3S0Rk16GLOR896t31NE"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96197,
+      "name": "poki poki",
+      "url": "https://open.spotify.com/track/2eccOEPsRxOCVLGhTbDZ0b"
     },
     {
       "album": {
@@ -9136,7 +9256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 126666,
       "name": "SHOOT TO KILL",
       "url": "https://open.spotify.com/track/4yELBnJLaQ3OAnEeHRzsPs"

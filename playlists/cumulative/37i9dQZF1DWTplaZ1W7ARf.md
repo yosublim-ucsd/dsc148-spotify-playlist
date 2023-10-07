@@ -4,7 +4,7 @@
 
 > Neighborhood Storytellers\. Cover: Rod Wave
 
-225 songs - 11 hr 18 min
+226 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abandoned](https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Abandoned](https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP) | 2:56 | 2021-12-17 | 2022-06-04 |
 | [All The Way Up](https://open.spotify.com/track/0LbyKoFKOsLhhEpg7BsKQo) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [All The Way Up](https://open.spotify.com/album/7jNtmENfhyfT0BL24uMdSH) | 1:53 | 2023-07-28 |  |
 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 | 2022-08-12 | 2022-11-20 |
+| [Alone Out Here](https://open.spotify.com/track/2xx71dWJoxs5bxufeyhEVQ) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Alone Out Here](https://open.spotify.com/album/6A7VXdrdqlFzAxmnrEVvP5) | 3:01 | 2023-10-06 |  |
 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2021-08-20 | 2022-03-12 |
 | [alright](https://open.spotify.com/track/4zivXJkUD87842VhywHGFn) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:04 | 2023-06-23 |  |
 | [Angels Never Cry \(feat\. MoneyBagg Yo & Kodak Black\)](https://open.spotify.com/track/1NGEkrPq8SaBWXSx3Re839) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 4:13 | 2021-07-23 | 2022-02-26 |
@@ -231,7 +232,7 @@
 | [Work Fa My Spot](https://open.spotify.com/track/4JM1LvyEEwYxkQFzrTT75T) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p) | [Work Fa My Spot](https://open.spotify.com/album/2pg1hiiYOJtbVOwiGWJIJR) | 2:14 | 2022-11-19 | 2023-06-24 |
 | [Wrong Decisions](https://open.spotify.com/track/51tMT5eSEaUo40GcSjTZZt) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Wrong Decisions](https://open.spotify.com/album/77P2YNeTVk6kXjgEsz6dCD) | 2:59 | 2022-08-26 | 2022-09-17 |
 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 | 2023-06-23 |  |
-| [You Was Laughing](https://open.spotify.com/track/6SiaytZHmZ8TjfvGqAOG9m) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 2:02 | 2023-06-23 |  |
+| [You Was Laughing](https://open.spotify.com/track/6SiaytZHmZ8TjfvGqAOG9m) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [My Vision](https://open.spotify.com/album/5BhNoQhsPhUMwAmkCw7v8X) | 2:02 | 2023-06-23 | 2023-10-07 |
 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 | 2022-08-12 | 2022-09-10 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

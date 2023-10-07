@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-96 songs - 7 hr 13 min
+97 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Get It Off \- 10th Anniversary Version](https://open.spotify.com/track/6Qs5PIaD5j26Ny3viBKLF3) | [Tom Glide](https://open.spotify.com/artist/0Ja5umiXEEPCeouaeU7PJh) | [Get It Off \(10th Anniversary Version\)](https://open.spotify.com/album/21AzNLz9nEm0X0ASAhCkzk) | 2:59 | 2020-09-18 |  |
 | [Give Life Back to Music](https://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:35 | 2020-09-18 |  |
 | [Give Me a Sign](https://open.spotify.com/track/7bMYVi7vwumt36NA0XY356) | [Chromatiks](https://open.spotify.com/artist/2kgYddab6YcXcoDek1zivO), [Bona Bones](https://open.spotify.com/artist/5gW0xZN1FxeI1Wdi1qY3tN) | [Give Me a Sign](https://open.spotify.com/album/3qvmT1RzSwCBJaGnOVLWKL) | 3:12 | 2020-10-23 |  |
+| [Goodbye Earth](https://open.spotify.com/track/6xjKMuVMz0om4n5CA8S7Kl) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR), [astreaux.](https://open.spotify.com/artist/2mpuoJyvskmbVZfvOrlHmL) | [Groovin' Through the Galaxy](https://open.spotify.com/album/1QFxPz9HrcIwZPf7Mrg8ON) | 3:44 | 2023-10-06 |  |
 | [GROUPIES \(feat\. Jose Rios & Maurice Brown\)](https://open.spotify.com/track/6DeGNhPYvc4fgf3yrtVaLJ) | [T.Nava](https://open.spotify.com/artist/30Utx0xoArdV237AnYyu6o), [Jose Rios](https://open.spotify.com/artist/108R3jGhL1XPwujQuZ3OKZ), [Maurice Brown](https://open.spotify.com/artist/2eHu2a3osPU7tSMnCw5cgQ) | [Blackberry Mango](https://open.spotify.com/album/71bHOjhdk1ksqHlmpZnOny) | 4:23 | 2020-09-18 |  |
 | [Have You Heard?](https://open.spotify.com/track/3ZACQUwSnDnDo9DjCYk3I8) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr) | [Have You Heard?](https://open.spotify.com/album/78HvtkRKA4lZ3oh9goixXF) | 4:49 | 2023-03-31 |  |
 | [Heartbreaker \(Pt\. I, Pt\. II\)](https://open.spotify.com/track/487lDz6QPxnAgrVTpykRHb) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:15 | 2020-09-18 |  |

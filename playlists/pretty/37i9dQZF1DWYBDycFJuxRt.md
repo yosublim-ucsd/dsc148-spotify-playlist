@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kroi \*👉 <a href="https://spice.eplus.jp/articles/322638?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,184 likes - 79 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,256 likes - 79 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [砂漠の恋](https://open.spotify.com/track/6qErtYgeQFUjV1nFo1kZPk) | [キッサ・コッポラ](https://open.spotify.com/artist/4Jm5SUBhLazbZchBTSkJHY) | [砂漠の恋](https://open.spotify.com/album/0fzjVqWylGI3j64HsKkROd) | 4:03 |
 | 79 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 |
 
-Snapshot ID: `MCw3ZjZkMGZlMTFlOTVhYzE0ZmQxNGMwMDY2ZjcwYzhjMWUzZmUyNDY5`
+Snapshot ID: `MCxlZGMwNDZkZjQ3YTdhZjRjYWUzNzU4NDliOTk1ZDEyMGNlZDAzZDBk`

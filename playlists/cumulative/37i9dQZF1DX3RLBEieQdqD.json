@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 224312,
       "name": "Corro A Tus Brazos",
       "url": "https://open.spotify.com/track/77jXK0SAJO3QlJUPeVqJ3K"
@@ -758,6 +758,24 @@
       "duration_ms": 187397,
       "name": "De Pura Rabia",
       "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
+    },
+    {
+      "album": {
+        "name": "Demalas (Versi\u00f3n Popular)",
+        "url": "https://open.spotify.com/album/23cktyZ2hQpZ0L5Dbzy87x"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189551,
+      "name": "Demalas (Versi\u00f3n Popular)",
+      "url": "https://open.spotify.com/track/0vLu56tq0xPdClMMPiBDeQ"
     },
     {
       "album": {

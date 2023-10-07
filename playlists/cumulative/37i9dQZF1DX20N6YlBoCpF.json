@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ?si=c5VwU5WaQl68RAzW_A-_Dw\">Riana Nel</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=ZDrhHF6ESvuB3CUMvhiFAw\">Biggy</a> & <a href=\"https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0?si=n2SIN0QKTpeWzH-CNMJUPw\">Coenie</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Belowe",
+        "url": "https://open.spotify.com/album/7bLnWwUUVn6dZXQpfhqqn9"
+      },
+      "artists": [
+        {
+          "name": "ALTEREGO",
+          "url": "https://open.spotify.com/artist/19uOX9mgY6MpWpy8TZPeVN"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Belowe",
+      "url": "https://open.spotify.com/track/1AkX0ASx7C5U9z7wqlNXY3"
+    },
+    {
+      "album": {
         "name": "Beskerm Jou Hart",
         "url": "https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv"
       },
@@ -1188,6 +1206,24 @@
       "duration_ms": 223714,
       "name": "Bou Aan 'n Vrou",
       "url": "https://open.spotify.com/track/5JifoftIfvhWm5UQtCKzLL"
+    },
+    {
+      "album": {
+        "name": "The Gqom Ep, Vol. 2",
+        "url": "https://open.spotify.com/album/2duiMzhZ6b60fa7eM5Sotr"
+      },
+      "artists": [
+        {
+          "name": "Gqom Kids",
+          "url": "https://open.spotify.com/artist/0RV1WS9M92YN0qEACphYec"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157098,
+      "name": "Bozza",
+      "url": "https://open.spotify.com/track/4On81iRsK375lDoXjZc9sJ"
     },
     {
       "album": {
@@ -3482,7 +3518,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 247638,
       "name": "Hou Bene Hou",
       "url": "https://open.spotify.com/track/0PwwO8REYMl65SU8esvtxc"
@@ -3943,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "Jonk en Verlore",
+        "url": "https://open.spotify.com/album/4xqHF6D3DHEWLDQI1azyNN"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224258,
+      "name": "Jonk en Verlore",
+      "url": "https://open.spotify.com/track/3INo7lcd1JKS9vxUOb8N10"
+    },
+    {
+      "album": {
         "name": "Jou Lewe",
         "url": "https://open.spotify.com/album/52fdYMXWTbAFIqPn4ZJtcR"
       },
@@ -4330,7 +4384,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 223370,
       "name": "Klein Bietjie Liefde",
       "url": "https://open.spotify.com/track/7l7i3v1gizWL3wqTnPHUWc"
@@ -6203,6 +6257,28 @@
     },
     {
       "album": {
+        "name": "Niks Nie",
+        "url": "https://open.spotify.com/album/3rFDa4VyIQwzfh9DA7ui4d"
+      },
+      "artists": [
+        {
+          "name": "Coenie",
+          "url": "https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0"
+        },
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193050,
+      "name": "Niks Nie",
+      "url": "https://open.spotify.com/track/1A046NzhEiaILRVAefVXvh"
+    },
+    {
+      "album": {
         "name": "NIKS OM OOR HUIS TOE TE SKRYF NIE",
         "url": "https://open.spotify.com/album/2wmWlHaZ0TgQ6SkymBEgSK"
       },
@@ -7098,7 +7174,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 126923,
       "name": "Polo",
       "url": "https://open.spotify.com/track/58gtz4Z3N7BJeqX1HSABq3"
@@ -7340,6 +7416,28 @@
       "duration_ms": 224000,
       "name": "Rooi Rok",
       "url": "https://open.spotify.com/track/2DGaQWTmkG0ZYRaVcceIq0"
+    },
+    {
+      "album": {
+        "name": "Ruggas",
+        "url": "https://open.spotify.com/album/7AM2vY6LsKdLudQis43fPc"
+      },
+      "artists": [
+        {
+          "name": "Ampie",
+          "url": "https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx"
+        },
+        {
+          "name": "Christiaan Baartman",
+          "url": "https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164827,
+      "name": "Ruggas",
+      "url": "https://open.spotify.com/track/26Bwk9fGWYxc6TevBQcfFC"
     },
     {
       "album": {
@@ -8864,7 +8962,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 222837,
       "name": "Treffers vir Tannies",
       "url": "https://open.spotify.com/track/7BlZyyyaCjZeuRNRdb98ig"
@@ -9016,7 +9114,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183159,
       "name": "Vakansieliefde (Hartenbos)",
       "url": "https://open.spotify.com/track/4WcDlImGV6UXC7paulD4t6"

@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-142 songs - 8 hr 43 min
+143 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Syrupse\-α](https://open.spotify.com/track/5DliMfmbMwAy5NBHv8moVh) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf), [安藤啓希](https://open.spotify.com/artist/7q3POrwo1aV9kTG1TfRE9e) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 5:31 | 2022-08-24 |  |
 | [Syrupse\-α \- HIDEYA KOJIMA REMIX](https://open.spotify.com/track/5DfqtGOg5G3qzKtuYQW4mq) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Hideya Kojima](https://open.spotify.com/artist/3qrYUk6aQclmjm55p4P3P6), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [水上 雛 \(CV: 大森日雅\)](https://open.spotify.com/artist/6jCy1P04z78DNhIeHjzEC2), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [DENONBU \(HARAJUKU Kawaii Halloween REMIX\)](https://open.spotify.com/album/5e5pkM1cSsDKE5PCaDDvXc) | 5:35 | 2022-08-24 |  |
 | [teardrop](https://open.spotify.com/track/3TYNQm2F0p6KX3AcHuS9Bw) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [teardrop](https://open.spotify.com/album/2cBHn11uOtQyNnet1BjlG3) | 3:15 | 2023-01-12 |  |
+| [teardrop 2nd](https://open.spotify.com/track/4mTiz8TSXz7wdwxkK64WVk) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [teardrop 2nd](https://open.spotify.com/album/1Lijibbmer82LhVL0tpKGV) | 3:39 | 2023-10-06 |  |
 | [The Magic of Happiness](https://open.spotify.com/track/2FkPvV6AXvoWhbxyfdHIZ4) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [Jun Kuroda](https://open.spotify.com/artist/3RfdQlmxIQ1tQAjnrPXsuJ) | [The Magic of Happiness](https://open.spotify.com/album/2xtXqkPmoILiZUxNnMXwgM) | 4:44 | 2022-08-24 |  |
 | [THE ONE](https://open.spotify.com/track/5G7iWfLidPNFKgnq2M5Klw) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ) | [THE ONE](https://open.spotify.com/album/0Zu5SmlTbjp1pHRbBFkcuu) | 3:33 | 2022-10-13 |  |
 | [Toarutowa](https://open.spotify.com/track/62IiUWRDn9bMQBlOo9isqZ) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0), [東雲和音\(CV:天音みほ\)](https://open.spotify.com/artist/66nXwB0bML5ETI8cGQxoNr) | [Toarutowa](https://open.spotify.com/album/3N860l8PV2gNbQO8xCjptw) | 4:42 | 2022-08-24 |  |

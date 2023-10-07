@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-115 songs - 6 hr 51 min
+117 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Dead](https://open.spotify.com/track/7cdOiZBLqp31qFjMTBAXTL) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Duality](https://open.spotify.com/album/4VT2smjUwrP73Ni00hyLta) | 3:20 | 2021-10-28 |  |
 | [Dead To Me \- Original Mix](https://open.spotify.com/track/6yaihZ7YizWwJ61Cu6Kktl) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 3:50 | 2021-10-28 |  |
 | [DEADZONE](https://open.spotify.com/track/3I8sa5jauQT4bDGLLsCPB0) | [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj), [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [Welcome Presents Little Comp Of Horrors Vol\. 4](https://open.spotify.com/album/3wwM2kBsfuXEYiiVtMiSLg) | 3:39 | 2022-10-14 | 2023-09-09 |
+| [Death Toll](https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr), [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Death Toll](https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun) | 3:33 | 2023-10-06 |  |
 | [Dem Fraid](https://open.spotify.com/track/3Ui9jL2IyUyu2EzffYmqPp) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Taranchyla](https://open.spotify.com/artist/2xSkGZBEbUVJ8z1E0d0pzB) | [Cartel](https://open.spotify.com/album/6ElpxZorQUL5VgWl4TVVQi) | 3:30 | 2021-10-28 |  |
 | [ET](https://open.spotify.com/track/2XcIWtg0axDhkJ0TbpCdbN) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [ET](https://open.spotify.com/album/44zUhPD7drtNUrSkGIAmLH) | 3:11 | 2021-10-28 |  |
 | [Evil Inside \- VIP](https://open.spotify.com/track/3WK7bi8adAzITYZdoSQuZz) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Evil Inside \(VIP\)](https://open.spotify.com/album/53dtE8qPToUhpY5U8HFzPc) | 3:10 | 2021-10-28 |  |
@@ -115,6 +116,7 @@
 | [Weeping Ghost](https://open.spotify.com/track/1OoU6dyZX6XWCpQTymP6He) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Weeping Ghost](https://open.spotify.com/album/65jZ8l9cpAjwv4H5Fw5UIS) | 3:33 | 2021-10-28 | 2022-07-29 |
 | [Weeping Ghost](https://open.spotify.com/track/4mqFrT3oGrx9dvSm0cbjJK) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes III: Alive After Death](https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT) | 3:33 | 2021-10-28 |  |
 | [Welcome to the Zombie Disco](https://open.spotify.com/track/3sWYJawOFRDom4ghfmmdgK) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Trick or Treat](https://open.spotify.com/album/26Fb4hs1Hadb6XXkH5bzYj) | 4:54 | 2021-10-28 |  |
+| [Whispers in the Dark](https://open.spotify.com/track/4hiWbebUSIyK9lIUfvDHCG) | [Whitepumpkin](https://open.spotify.com/artist/10NlN9XAoQgAjPfLk2cW32), [Sary](https://open.spotify.com/artist/64IRUxTrpRi86hkZqJEreW) | [Whispers in the Dark](https://open.spotify.com/album/2hwKjdNvxEkF7ZeKdmvx61) | 2:41 | 2023-10-06 |  |
 | [Wicked Witch](https://open.spotify.com/track/2MN7IMJJf1uanHSUnPG2tc) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [String Theory](https://open.spotify.com/album/6PD17jvyBOJ0JloBKCe121) | 3:12 | 2021-10-28 | 2022-07-29 |
 | [Wicked Witch \- Original Mix](https://open.spotify.com/track/3rolMdFNBd85KXMawmAazE) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [String Theory EP](https://open.spotify.com/album/0LN2Wji8Ln7g2daCcHkeaI) | 3:12 | 2021-10-28 |  |
 | [Winter Is Coming \- Rome in Silver Remix](https://open.spotify.com/track/0oIuyHFFWzaST9UpKGDqPD) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Neon Jungle Remixes](https://open.spotify.com/album/5AI6x0gSgltmlev2f6yec7) | 3:26 | 2022-10-28 |  |

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-160 songs - 7 hr 54 min
+161 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Kepler's Law](https://open.spotify.com/track/6KI4H8nNADQYHQXrcWgJ4k) | [Aislinn Delarosa](https://open.spotify.com/artist/3uwheBIstOkeaW8Mx2hEv9) | [Greet The Day](https://open.spotify.com/album/7x4emLYlGslRZDwlffehF9) | 3:05 | 2022-02-28 | 2023-05-06 |
 | [Kulning](https://open.spotify.com/track/66hBtNKN7ofJ4tWy0kSqQ3) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Kulning](https://open.spotify.com/album/0FQQzyWWFlrWYil8EyTTQw) | 1:50 | 2022-02-28 | 2022-11-23 |
 | [Lake Como](https://open.spotify.com/track/4WstvhelZEHggLOZ4SyOqm) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Lake Como](https://open.spotify.com/album/5oSXlTvivXtQfW0YypVrRi) | 3:03 | 2022-09-30 |  |
+| [Layers Of Trust](https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Layers Of Trust](https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ) | 2:36 | 2023-10-06 |  |
 | [Ledande Ljus](https://open.spotify.com/track/2wiHBKhOZicIlyBWYgdyEn) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 |  |
 | [Ledande Ljus \(Nature\)](https://open.spotify.com/track/1s1cl2adF275sqQnVD7Par) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [Ledande ljus](https://open.spotify.com/album/0eMvV2wJBjoimDJqe49HpD) | 2:48 | 2023-06-16 | 2023-08-05 |
 | [Light Within](https://open.spotify.com/track/7rNnrVwbsVBp9ft4i35ARA) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Light Within](https://open.spotify.com/album/4KynjAVJdNcPdu4ZgBzPad) | 2:33 | 2023-01-09 |  |
@@ -152,7 +153,7 @@
 | [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 | 2022-11-11 | 2023-10-06 |
 | [The Shed](https://open.spotify.com/track/6zVrlSfa7L9bRuYcgq8Di4) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [The Shed](https://open.spotify.com/album/6sVPnW1rebLMRMSFBfmhp4) | 2:30 | 2022-02-28 |  |
 | [Thoughtsurfing](https://open.spotify.com/track/3hwHqRtc1JJD37wreiLL78) | [Thoughtsurfing](https://open.spotify.com/artist/1ecXldlIFJPftmiDd4K25a) | [Thoughtsurfing](https://open.spotify.com/album/2Q5VhpyKC9HJKeYCtNuonN) | 2:13 | 2022-02-28 |  |
-| [Tidal Flow](https://open.spotify.com/track/519f6rIBUjy8bZ8yl06gwR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Tidal Flow](https://open.spotify.com/album/6eNwDrsRWJ6jXWS9H5VYX6) | 3:29 | 2022-11-11 |  |
+| [Tidal Flow](https://open.spotify.com/track/519f6rIBUjy8bZ8yl06gwR) | [Dag Sommer](https://open.spotify.com/artist/7C14yKyhGQefwbz7ckNHmy) | [Tidal Flow](https://open.spotify.com/album/6eNwDrsRWJ6jXWS9H5VYX6) | 3:29 | 2022-11-11 | 2023-10-07 |
 | [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 | 2022-07-22 |  |
 | [Travel in Time](https://open.spotify.com/track/1mZIS3P7VQuPUu8hQPg0Bk) | [Christos Konstantinidis](https://open.spotify.com/artist/1r6SmaBSJVyCN1gT5mMODO) | [State of Existence](https://open.spotify.com/album/4VBg4QcYhgsnVVFGEU5wzI) | 2:51 | 2022-02-28 |  |
 | [Tremoland](https://open.spotify.com/track/13z3AL9gEDxGWr1sGk0UZe) | [Palacín](https://open.spotify.com/artist/4AFGBpC7hxvSJArGRadDoL) | [Tremoland](https://open.spotify.com/album/1PLLrdOtibrkAzPxV8j3jj) | 2:43 | 2022-02-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 3689,
+  "num_followers": 3732,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzAzOWM0NjhkMTQzOTlkZDQ2OGQxZjc3NDRhMGYyMWVmYmI3ZmI1",
+  "snapshot_id": "MCxhZmMzMTYzMzdhYWI1NmRjNTk0MzgxMDdiNTg2ZTQwOThkOTIyM2Vj",
   "tracks": [
     {
       "added_at": "2023-09-14 03:10:41",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "La Magia",
+      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
+    },
+    {
+      "added_at": "2023-09-14 03:10:41",
+      "album": {
         "name": "dEsANiMaO :(",
         "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 187317,
       "name": "dEsANiMaO :(",
       "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
-    },
-    {
-      "added_at": "2023-09-14 03:10:41",
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "La Magia",
-      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
     },
     {
       "added_at": "2023-09-14 03:10:41",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+    },
+    {
+      "added_at": "2023-09-14 03:10:41",
+      "album": {
         "name": "CAEN LAS ESTRELLAS",
         "url": "https://open.spotify.com/album/3h0g10s1tSbqlYZtt9xbo2"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 145171,
       "name": "CAEN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/3M4netHXzaZnamkdGr72xb"
-    },
-    {
-      "added_at": "2023-09-14 03:10:41",
-      "album": {
-        "name": "Lovers to Strangers",
-        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 174086,
-      "name": "Lovers to Strangers",
-      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
     },
     {
       "added_at": "2023-09-14 03:10:41",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 180003,
+      "name": "No Te Sientes Igual",
+      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
+    },
+    {
+      "added_at": "2023-09-14 03:10:41",
+      "album": {
         "name": "Me Gustas Un Chingo",
         "url": "https://open.spotify.com/album/3p95DVCmGDAUhU8tcux7kY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 199000,
       "name": "Me Gustas Un Chingo",
       "url": "https://open.spotify.com/track/1UE7zm8d5bhuM1vskPLOUy"
-    },
-    {
-      "added_at": "2023-09-14 03:10:41",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 180003,
-      "name": "No Te Sientes Igual",
-      "url": "https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543"
     },
     {
       "added_at": "2023-09-14 03:10:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
-    },
-    {
-      "added_at": "2023-09-14 03:10:41",
-      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
-        "name": "Me Quieres Cuando No Est\u00e1s Bien",
-        "url": "https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw"
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
       "artists": [
         {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
         }
       ],
-      "duration_ms": 197938,
-      "name": "Me Quieres Cuando No Est\u00e1s Bien",
-      "url": "https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2"
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2023-09-14 03:10:41",
@@ -919,6 +903,22 @@
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-09-14 03:10:41",
+      "album": {
+        "name": "Me Quieres Cuando No Est\u00e1s Bien",
+        "url": "https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "Me Quieres Cuando No Est\u00e1s Bien",
+      "url": "https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2"
     },
     {
       "added_at": "2023-09-14 03:10:41",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-09-14 03:10:41",
       "album": {
-        "name": "Dame Guerra",
-        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Dame Guerra",
-      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
-    },
-    {
-      "added_at": "2023-09-14 03:10:41",
-      "album": {
         "name": "malos h\u00e1bitos",
         "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 155017,
       "name": "luna de miel",
       "url": "https://open.spotify.com/track/7GbwfqWyFodSvKZVxvgNyw"
+    },
+    {
+      "added_at": "2023-09-14 03:10:41",
+      "album": {
+        "name": "Dame Guerra",
+        "url": "https://open.spotify.com/album/0WczcRttRVj6UIoAO8HSnN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Dame Guerra",
+      "url": "https://open.spotify.com/track/1gmfe3QPovAq7jvHXGwXEa"
     },
     {
       "added_at": "2023-09-14 03:10:41",

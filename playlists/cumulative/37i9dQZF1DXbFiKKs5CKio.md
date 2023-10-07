@@ -2,9 +2,9 @@
 
 ### [suíte.](https://open.spotify.com/playlist/37i9dQZF1DXbFiKKs5CKio)
 
-> Muito romance, groove suave e R&B feitos no Brasil.
+> Muito romance, groove suave e R&B feitos no Brasil\. Foto: Luthuly
 
-51 songs - 2 hr 52 min
+52 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 | 2023-09-15 |  |
 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 | 2023-09-15 |  |
 | [Meu Querubim](https://open.spotify.com/track/2yBr0BtvA0fDD7ciQApe4b) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv), [Jucy](https://open.spotify.com/artist/4L31ewbdCE5LxYxwGO3oR1) | [Como eu vim parar aqui?](https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK) | 5:06 | 2023-09-15 |  |
-| [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-09-15 |  |
+| [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-09-15 | 2023-10-07 |
 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 | 2023-09-15 |  |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2023-09-15 |  |
 | [Nunca Te Deixei](https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Nunca Te Deixei](https://open.spotify.com/album/0pF4py857zGGCEty1CeelF) | 3:46 | 2023-09-15 |  |
@@ -50,6 +50,7 @@
 | [Química Perfeita](https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI) | [JE$$I](https://open.spotify.com/artist/5dNWhZSPl0VSzZgvChB11Q), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Química Perfeita](https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw) | 2:57 | 2023-09-15 |  |
 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 | 2023-09-15 |  |
 | [Se Foi](https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Hip Hop Machine \#18](https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS) | 5:57 | 2023-09-15 |  |
+| [Sede](https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sede](https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5) | 3:04 | 2023-10-06 |  |
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-09-15 |  |
 | [Sinal de Fumaça](https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI) | [Sinal de Fumaça](https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi) | 2:30 | 2023-09-15 | 2023-09-23 |
 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 | 2023-09-15 |  |

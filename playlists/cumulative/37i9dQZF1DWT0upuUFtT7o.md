@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: juju <3
 
-1,898 songs - 4 day 7 hr 45 min
+1,900 songs - 4 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Better](https://open.spotify.com/track/1UXWq1CIkQ64thOiVS3ULx) | [Angel Abaya](https://open.spotify.com/artist/5LJFmizHbr1z46HUEl1F13) | [Better](https://open.spotify.com/album/4V0ivNqTT0JdGcFnDUojXS) | 3:58 | 2023-03-22 | 2023-04-06 |
 | [Better](https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt) | [Bunk Buddy](https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg) | [Better](https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf) | 5:34 | 2023-01-11 | 2023-02-16 |
 | [Better Days](https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [A Life Designed for Fun \(Pastimes Vol\. II\)](https://open.spotify.com/album/645TLVk1UxX0AM8FWFxuQ3) | 3:57 | 2022-07-27 | 2022-08-25 |
+| [Bhuta Kala](https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [Bhuta Kala](https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v) | 3:39 | 2023-10-06 |  |
 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 | 2022-10-25 | 2022-12-01 |
 | [Bicycle \(Rework\)](https://open.spotify.com/track/0IrnXvUh1uDvsNIWajE8Su) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle \(Rework\)](https://open.spotify.com/album/3p9Jejp6QR3IlOEHIxdyYK) | 3:05 | 2023-01-18 | 2023-02-09 |
 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-06-07 | 2023-07-12 |
@@ -634,7 +635,7 @@
 | [Gentle Pets](https://open.spotify.com/track/39RO0RUE2jBwEUijOHlCWx) | [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Strawberry Season](https://open.spotify.com/album/3gQuZtriWCxdUEo9sJR4DI) | 3:26 | 2023-02-01 | 2023-03-02 |
 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 | 2023-03-20 | 2023-04-13 |
 | [Gently, Dreamer](https://open.spotify.com/track/0KA6ceIREcn5faI34kAkZa) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Gently, Dreamer](https://open.spotify.com/album/2N14yYLWpAu8LYvH0H9Ooy) | 2:47 | 2023-07-19 | 2023-08-24 |
-| [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 | 2023-08-30 |  |
+| [george's shelter](https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2) | [Planet Ibiza](https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW) | [george's shelter](https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY) | 3:01 | 2023-08-30 | 2023-10-07 |
 | [Germaphobe](https://open.spotify.com/track/7etS3cjv6GvXvLmpdNDMS0) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [Germaphobe](https://open.spotify.com/album/0HpqNDpCRilFNZso1M2XJX) | 4:20 | 2023-01-11 | 2023-02-16 |
 | [Get By](https://open.spotify.com/track/5AMbxo6n0Hp6GLNhjshVDz) | [Riarosa](https://open.spotify.com/artist/5Rj6VDIagmf2GV76KfRCcB) | [Get By](https://open.spotify.com/album/48bvoJZUfZl4iPs6vcI6gc) | 3:35 | 2023-09-27 |  |
 | [Get Her](https://open.spotify.com/track/1diokBKhzTbxfNFYKmG418) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV) | [Get Her](https://open.spotify.com/album/2hiMDhuOZd92L7roNcA5S8) | 2:25 | 2023-02-08 | 2023-03-23 |
@@ -769,6 +770,7 @@
 | [HONEYMOON](https://open.spotify.com/track/6cOGSlZKf1nJMiNs13qZnq) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [HONEYMOON](https://open.spotify.com/album/3ZlXGoYwk5wTQfeECSPulw) | 3:19 | 2022-11-30 | 2023-01-12 |
 | [Hopeless Romantic](https://open.spotify.com/track/0yZGo0JRf8ligEAHgT2k6p) | [02Apollo](https://open.spotify.com/artist/4P0hC4yq6wYrDANYRNjsGn) | [Hopeless Romantic](https://open.spotify.com/album/7CmfAlV0BPcIH4EhyIA3aO) | 2:34 | 2022-10-25 | 2023-01-12 |
 | [Hopes High](https://open.spotify.com/track/6SxVDSPWhvgfvDQKYzXuA1) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Hopes High](https://open.spotify.com/album/3knvsA0g6Lg9bNfpDibi6e) | 3:19 | 2022-03-09 | 2022-03-17 |
+| [Hot Fruit](https://open.spotify.com/track/4aXKmTLg2uXrFQhJV1MBgv) | [Adeline Hotel](https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv) | [Hot Fruit](https://open.spotify.com/album/7hdEeakKFU0iVwntNnwNRu) | 3:22 | 2023-10-06 |  |
 | [Hot Shame](https://open.spotify.com/track/1KoVgGdqLCCB6RKPLXQ5yo) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Hot Shame](https://open.spotify.com/album/3sFuKDZnPVaWozj2s0cFsh) | 3:19 | 2023-09-27 |  |
 | [Hotbox](https://open.spotify.com/track/003gf5cYmxmKECV7lRg2Op) | [Nic Nim](https://open.spotify.com/artist/1QGB9aFcq4jrj4Mpg3gIbX) | [Hotbox](https://open.spotify.com/album/5qJ1QbRZshFDVEhgwuNE56) | 2:11 | 2023-03-01 | 2023-03-29 |
 | [Hotel Dom Pancho](https://open.spotify.com/track/5y0i60p7cVwtbRxlKrtHEW) | [Anna's Anchor](https://open.spotify.com/artist/7mMC8BRvVxjXEj12fRagqV) | [Hotel Dom Pancho](https://open.spotify.com/album/4kvaPl45DS6ISMtpJcyjVh) | 3:46 | 2023-05-24 | 2023-06-15 |
@@ -1347,7 +1349,7 @@
 | [red lights](https://open.spotify.com/track/3mklwlSrZAYcG2iByZI0cM) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [red lights](https://open.spotify.com/album/3eO3zGY58zGFSEyTQWfFQA) | 3:02 | 2023-08-30 |  |
 | [Redwoods](https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Artifacts of Summer](https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN) | 3:32 | 2022-02-02 | 2022-03-03 |
 | [Remember](https://open.spotify.com/track/2XGJUfoeh47wvJ0v2ery1s) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Remember](https://open.spotify.com/album/5VCO6P0rS3TZO5X8XXrqaY) | 4:22 | 2023-01-11 | 2023-02-16 |
-| [Remember the Heart](https://open.spotify.com/track/3fGbFU0d4hFU6xe9Mr37he) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Remember the Heart](https://open.spotify.com/album/7MF6xrAVQIKZCuIIRchJCb) | 3:31 | 2023-09-06 |  |
+| [Remember the Heart](https://open.spotify.com/track/3fGbFU0d4hFU6xe9Mr37he) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Remember the Heart](https://open.spotify.com/album/7MF6xrAVQIKZCuIIRchJCb) | 3:31 | 2023-09-06 | 2023-10-07 |
 | [Remember Why You Fell in Love \(Unplugged\)](https://open.spotify.com/track/3lSJBIvJJadF3L2z9p59Hv) | [Natalie Madigan](https://open.spotify.com/artist/0VqERH28tjwguO9olLjkJd) | [Remember Why You Fell in Love \(Unplugged\)](https://open.spotify.com/album/4Z0Vytilw2EuDIANbQaYhT) | 4:32 | 2022-07-07 | 2022-08-25 |
 | [Repeater](https://open.spotify.com/track/1T7Pm8nH8miLVcmfNL4fFq) | [rocky](https://open.spotify.com/artist/3uKIbqbr72ZTmJC6jxX2ju) | [rocky](https://open.spotify.com/album/5Uytyw6QM6wN3qP99N9YgP) | 3:40 | 2023-08-02 | 2023-09-14 |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2022-04-06 | 2022-04-27 |

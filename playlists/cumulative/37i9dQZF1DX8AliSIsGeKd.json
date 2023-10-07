@@ -12089,6 +12089,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/6lYFoDZ0TmSSSuwLDtmfI2"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370858,
+      "name": "Dopemine",
+      "url": "https://open.spotify.com/track/1DHpTZqedmXOahLu8HFHxT"
+    },
+    {
+      "album": {
         "name": "Dopemine",
         "url": "https://open.spotify.com/album/4cYYqDG4cF6r6QiobnjPxR"
       },
@@ -12100,7 +12118,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 370858,
       "name": "Dopemine",
       "url": "https://open.spotify.com/track/4xcyDEJ7WIfhfqZX4oL2xw"
@@ -13896,6 +13914,24 @@
       "duration_ms": 259545,
       "name": "Escape",
       "url": "https://open.spotify.com/track/71wVJnGhRNiG42cjOSxX7r"
+    },
+    {
+      "album": {
+        "name": "Escape Your Mind",
+        "url": "https://open.spotify.com/album/19bo4ZOGTvFKLwv6JQxwqh"
+      },
+      "artists": [
+        {
+          "name": "Sylvie Miles",
+          "url": "https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392061,
+      "name": "Escape Your Mind",
+      "url": "https://open.spotify.com/track/6JdmNFfflazkhEXlTYAk0P"
     },
     {
       "album": {
@@ -39278,7 +39314,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 185821,
       "name": "Skipping Like A Stone (feat. Beck) - Gerd Janson Remix",
       "url": "https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo"
@@ -40064,10 +40100,40 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 243013,
       "name": "Something On My Mind (feat. Nothing But Thieves) [Solomun Remix]",
       "url": "https://open.spotify.com/track/3Ivf3f3BHYeNg2STmsrlfH"
+    },
+    {
+      "album": {
+        "name": "Something On My Mind (Solomun Remix) (feat. Nothing But Thieves)",
+        "url": "https://open.spotify.com/album/5Nhg2ajevsFpPQM2wwccGH"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "Something On My Mind (Solomun Remix)",
+      "url": "https://open.spotify.com/track/7qoIMEX58PlFTai18Uf1ic"
     },
     {
       "album": {

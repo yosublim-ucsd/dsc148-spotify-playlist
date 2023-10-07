@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-272 songs - 13 hr 45 min
+273 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Addicted](https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:48 | 2023-06-02 |  |
 | [Adua \(Remix\)](https://open.spotify.com/track/7oZDRbZggx7wHJpQJqUGFp) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Adua \(Remix\)](https://open.spotify.com/album/1qkEUpHPioAcOlMjDkEGLV) | 2:53 | 2022-06-09 | 2023-03-04 |
 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 | 2022-06-09 | 2022-08-22 |
+| [Alinko](https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Alinko](https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne) | 2:29 | 2023-09-29 |  |
 | [Alive](https://open.spotify.com/track/0uh6nYYNadWJnos3Zg5aiM) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Freckles](https://open.spotify.com/album/6z5JNzljLRS4ZULgIrvv24) | 2:29 | 2023-08-10 | 2023-09-10 |
 | [Alone](https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Alone](https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg) | 2:46 | 2022-06-09 | 2023-04-28 |
 | [alright, ok](https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [alright, ok](https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7) | 2:53 | 2022-06-09 | 2023-03-28 |
@@ -132,7 +133,7 @@
 | [Kilode](https://open.spotify.com/track/01t7q7rORkWX4qjfQHeil1) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 2:19 | 2023-09-09 | 2023-09-29 |
 | [Kondo](https://open.spotify.com/track/7k6pqLzmKGrFC5DJfTKEJy) | [Afrisounds](https://open.spotify.com/artist/7xRBFwkWrKG1Ql2OOOLT1A), [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R), [Madi Banja](https://open.spotify.com/artist/0LdzDrRc2RESpGqwyhbE3t), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Kondo](https://open.spotify.com/album/2uCfT1EHCbCJPciM5D5xtL) | 4:25 | 2022-06-09 | 2022-08-07 |
 | [Labadi](https://open.spotify.com/track/0UP371eP3lmySxTUF79jLK) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi) | [Labadi](https://open.spotify.com/album/7tlYleJ9w1xTOa8WX94K31) | 2:16 | 2023-09-29 | 2023-10-03 |
-| [Lately](https://open.spotify.com/track/5Cs9XAqvVqv8hcTO0Q9iCR) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [Lately](https://open.spotify.com/album/5TDwRF1rZqw9lqfdXKFQXS) | 2:10 | 2023-09-29 |  |
+| [Lately](https://open.spotify.com/track/5Cs9XAqvVqv8hcTO0Q9iCR) | [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh) | [Lately](https://open.spotify.com/album/5TDwRF1rZqw9lqfdXKFQXS) | 2:10 | 2023-09-29 | 2023-10-07 |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-19 |  |
 | [Level Up](https://open.spotify.com/track/13C83mBRF1HW2cQ1ThDn9q) | [Tha Boy Myles](https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Level Up](https://open.spotify.com/album/4HRPdNNrlFdvye0nyGEfBK) | 2:43 | 2023-08-10 | 2023-09-29 |
 | [Life](https://open.spotify.com/track/3xBSBXvY0mSQuiWh58XP05) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s) | [Ada](https://open.spotify.com/album/6nZ7n5DR6sqV7AqsGAithg) | 3:50 | 2022-06-09 | 2022-10-14 |

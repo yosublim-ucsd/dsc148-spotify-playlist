@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-451 songs - 22 hr 23 min
+452 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 | 2023-07-22 |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-11-10 | 2023-05-06 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |
+| [Envision](https://open.spotify.com/track/1E05Z2lKEAtQmKkDtpmmJy) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Envision](https://open.spotify.com/album/2TDOLO4nM5aoKWRVEJjoGf) | 2:45 | 2023-10-06 |  |
 | [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
 | [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2022-10-21 |  |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-06 |  |
@@ -368,7 +369,7 @@
 | [Shimmer in the Morning](https://open.spotify.com/track/0oZcBTfv9wd9Oh2JBicCmz) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3y5jiEGMaWTGelesFKGtPR) | 2:06 | 2021-11-10 |  |
 | [Shine](https://open.spotify.com/track/131a48LbaLB1vIM0YBukSU) | [Majah Thur](https://open.spotify.com/artist/5vN4R8d2SYwCmNx4l70OaL) | [Shine](https://open.spotify.com/album/2tTf8Fd6uT5r845f4mMzEK) | 2:50 | 2023-02-17 |  |
 | [sierra star](https://open.spotify.com/track/2dGmw1z9W32GGeofbAdNY1) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [sierra star](https://open.spotify.com/album/1YZIh0zHuUjAAZChz65fW4) | 3:21 | 2022-05-05 |  |
-| [Silk](https://open.spotify.com/track/2kEk2uIKtoJD5r65cH7XBP) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Contemplate](https://open.spotify.com/album/4YPmrvr0GCO4errUctduu7) | 2:53 | 2022-02-17 |  |
+| [Silk](https://open.spotify.com/track/2kEk2uIKtoJD5r65cH7XBP) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Contemplate](https://open.spotify.com/album/4YPmrvr0GCO4errUctduu7) | 2:53 | 2022-02-17 | 2023-10-07 |
 | [Similarities](https://open.spotify.com/track/7rVzvyU7kX76Io48DBfs6r) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Similarities](https://open.spotify.com/album/2ITuZdG2V43N5pS2f2KXZb) | 2:38 | 2022-05-19 |  |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-11-10 |  |
 | [Sleep Drone](https://open.spotify.com/track/2lRINOduUGo6lyIMP8kUh4) | [One Stop](https://open.spotify.com/artist/5CUQzPQ7rkBBtBFWzJ0QkQ) | [Focus Drone](https://open.spotify.com/album/01s7HgIfA4qINX7kZNijYz) | 2:02 | 2021-11-10 |  |

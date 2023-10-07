@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: juju <3",
-  "num_followers": 190677,
+  "num_followers": 190741,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MWRkOTBhZjVhZDQ0OWEzYmQzZWFmNzZhNzViNzc4NDJmYTA0ZDE4",
+  "snapshot_id": "MCxjZDE5MjZmOWMyNjVlMzkyZjBiZmY3YjQ5NzAzODFmZjRlOWQwMWE5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
     },
     {
+      "added_at": "2023-10-06 14:51:12",
+      "album": {
+        "name": "Bhuta Kala",
+        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
+      },
+      "artists": [
+        {
+          "name": "Meernaa",
+          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
+        }
+      ],
+      "duration_ms": 219634,
+      "name": "Bhuta Kala",
+      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
+    },
+    {
       "added_at": "2023-10-04 04:00:00",
       "album": {
         "name": "Hang Up the Lights",
@@ -103,6 +119,22 @@
       "duration_ms": 196779,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/6i6dn8rcT3cE6SHqzjrhxv"
+    },
+    {
+      "added_at": "2023-10-06 14:51:12",
+      "album": {
+        "name": "Hot Fruit",
+        "url": "https://open.spotify.com/album/7hdEeakKFU0iVwntNnwNRu"
+      },
+      "artists": [
+        {
+          "name": "Adeline Hotel",
+          "url": "https://open.spotify.com/artist/3BOfygYBFwHTBFyCbsQVMv"
+        }
+      ],
+      "duration_ms": 202476,
+      "name": "Hot Fruit",
+      "url": "https://open.spotify.com/track/4aXKmTLg2uXrFQhJV1MBgv"
     },
     {
       "added_at": "2023-09-20 16:00:00",
@@ -384,7 +416,7 @@
           "url": "https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu"
         }
       ],
-      "duration_ms": 133072,
+      "duration_ms": 133143,
       "name": "Blurt",
       "url": "https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd"
     },
@@ -1341,22 +1373,6 @@
       "url": "https://open.spotify.com/track/2tAr4OkKQRfkeQcSXaJ7sK"
     },
     {
-      "added_at": "2023-09-06 20:30:13",
-      "album": {
-        "name": "Remember the Heart",
-        "url": "https://open.spotify.com/album/7MF6xrAVQIKZCuIIRchJCb"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 211641,
-      "name": "Remember the Heart",
-      "url": "https://open.spotify.com/track/3fGbFU0d4hFU6xe9Mr37he"
-    },
-    {
       "added_at": "2023-08-30 15:40:56",
       "album": {
         "name": "Safe",
@@ -1451,22 +1467,6 @@
       "duration_ms": 212458,
       "name": "Celebrity Lookalikes",
       "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
-    },
-    {
-      "added_at": "2023-08-30 15:40:56",
-      "album": {
-        "name": "george's shelter",
-        "url": "https://open.spotify.com/album/3tp3rMzZnwovJYZc89OsaY"
-      },
-      "artists": [
-        {
-          "name": "Planet Ibiza",
-          "url": "https://open.spotify.com/artist/2f0fVIP8exBDlW5SHhKosW"
-        }
-      ],
-      "duration_ms": 181250,
-      "name": "george's shelter",
-      "url": "https://open.spotify.com/track/771Otb2pCjDvsZMorD3AO2"
     },
     {
       "added_at": "2023-08-30 15:40:56",

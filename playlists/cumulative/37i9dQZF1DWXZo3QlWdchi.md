@@ -2,7 +2,7 @@
 
 ### [Rock Acústico](https://open.spotify.com/playlist/37i9dQZF1DWXZo3QlWdchi)
 
-> O melhor do rock acústico nacional e internacional para curtir e relaxar.
+> O melhor do rock acústico nacional e internacional para curtir e relaxar\. Foto: Cássia Eller
 
 84 songs - 5 hr 45 min
 

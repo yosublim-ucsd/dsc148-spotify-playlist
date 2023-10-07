@@ -1,15 +1,15 @@
 {
   "description": "Discover new releases and rising artists from the classical world. Cover: Erland Cooper",
-  "num_followers": 9007,
+  "num_followers": 9028,
   "original_name": "Classical Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjI0ZWI4MTMzMjlmZjY5MTBjOGNjNDc5MTJkMDE3YzE2NGY5OTY5",
+  "snapshot_id": "MCw2ZTA5M2VmNjE2NWI5YmY1MzMzZDcyNDdhNWE2NTc5MzY1OTQ2NmI5",
   "tracks": [
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Rachmaninoff: Piano Concerto No. 4 in G Minor, Op. 40 (1941 3rd Version): II. Largo",
         "url": "https://open.spotify.com/album/5YaVrmukRke8MpFGqwLV5w"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/31R1QNhXa9RwcgCdKvpnB8"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3y3Z3ZoxelCsCEIYZXXAyR"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bachianinha No. 2 / Araponga (Arr. for Guitar by S\u00e9rgio Assad)",
         "url": "https://open.spotify.com/album/0w7Xt9qFIxkRD6y76wdlRW"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1grIEfpjLsBGyDnAtDgCi3"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Nocturne in C-Sharp Minor, Op. Posth.",
         "url": "https://open.spotify.com/album/3qgkh9Z2MUqhP4wGQl2FKm"
@@ -129,7 +129,23 @@
       "url": "https://open.spotify.com/track/5SNE9Fx3Xd5FDaHUFmorI7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "Voices of Bantu",
+        "url": "https://open.spotify.com/album/2H24Z2OxGMlpJk0B4vep1R"
+      },
+      "artists": [
+        {
+          "name": "Abel Selaocoe",
+          "url": "https://open.spotify.com/artist/44LUiqh2zLIWA4UPdPmvWU"
+        }
+      ],
+      "duration_ms": 290956,
+      "name": "Voices of Bantu",
+      "url": "https://open.spotify.com/track/76ZmGB666bFJrEYQCPNLss"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
         "url": "https://open.spotify.com/album/5oFks9ZFUYBv8Ia3pkmtuX"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Brahms: 3 Intermezzi, Op. 117: No. 3, Andante con moto",
         "url": "https://open.spotify.com/album/46EJrz3vVGAkdEgaKfQ8Jy"
@@ -169,7 +185,35 @@
       "url": "https://open.spotify.com/track/1XJdcuybWyLsgDTPdpj7fc"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "Pagliacci: Intermezzo",
+        "url": "https://open.spotify.com/album/1RguEDjIWBchJycJoyM7IN"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Domingo Hindoyan",
+          "url": "https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg"
+        },
+        {
+          "name": "Royal Liverpool Philharmopnic Orchestra",
+          "url": "https://open.spotify.com/artist/6cE6l2zY3xSJFbGQmMZDXc"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Pagliacci: Intermezzo",
+      "url": "https://open.spotify.com/track/6d0Ag8UTzshJ2DMclt59Y1"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bruch: Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
         "url": "https://open.spotify.com/album/3jKsaoFTxljjiz6Rf10Gp2"
@@ -197,7 +241,27 @@
       "url": "https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "Letter(s) to Erik Satie - 6 Gnossiennes: No. 5, Mod\u00e9r\u00e9",
+        "url": "https://open.spotify.com/album/6UQKa3ie7Oq3ATOuIOoM1i"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "Satie: 6 Gnossiennes: No. 5, Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/5SFylO8blMRUoTHfHd7rJ8"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Love Is Stronger Than Pride (Arr. Simon for Piano)",
         "url": "https://open.spotify.com/album/0vfaZ5hgbnt49rHlwooRuw"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/5XyaoHmuxdVWUg2vkO1McG"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bach Generations",
         "url": "https://open.spotify.com/album/5yOf6Z2tkIAkI3q43OAe5L"
@@ -249,7 +313,35 @@
       "url": "https://open.spotify.com/track/2tx1OGhwMuaS456NgiuEuP"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "P\u00e4rt: Littlemore Tractus",
+        "url": "https://open.spotify.com/album/3SZkEOsrTeLdvGDtkk8AbY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "Tallinn Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/7tfdeMvKnIuwmpWfM86VcC"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "The Blue Album",
         "url": "https://open.spotify.com/album/1gINO8mH8uSF8YDCTXtsrX"
@@ -269,7 +361,7 @@
       "url": "https://open.spotify.com/track/27Y0yJ0KaBjhFpkQjBpEo7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "II. Lento - Allegro molto",
         "url": "https://open.spotify.com/album/4TukBQCyyb3X8gEBDJ2fvf"
@@ -289,7 +381,7 @@
       "url": "https://open.spotify.com/track/0xd33Pb2lH5UTDduxxD1Qk"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Discovering Mendelssohn",
         "url": "https://open.spotify.com/album/4kx3vz3ZZj1XoqhewXx4jQ"
@@ -317,7 +409,23 @@
       "url": "https://open.spotify.com/track/1y7FHOSD63QGlcJmDxV2Iq"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "Peaceful Music (Three)",
+        "url": "https://open.spotify.com/album/3toMJlJjsS6eV768AdGXtk"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Peaceful Music (Three)",
+      "url": "https://open.spotify.com/track/2hQQSxIxbJyiLSsDvrLJmp"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Vivaldi: Concerto in B Minor, RV 580 (Adapt. for 4 Mandolins, Strings and Continuo)",
         "url": "https://open.spotify.com/album/38bHaOFRqAC53ML0PKmUtI"
@@ -345,7 +453,7 @@
       "url": "https://open.spotify.com/track/0A8qJGRhqmvWcC5Pm6Kq4i"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Price: Piano Concerto in One Movement: Adagio cantabile",
         "url": "https://open.spotify.com/album/7ICuukmLLzvOAgrHzvHGOh"
@@ -373,7 +481,7 @@
       "url": "https://open.spotify.com/track/3Yf8ais15iSDj9i0at2fOC"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Liszt: 3 Liebestr\u00e4ume, S. 541: No. 2",
         "url": "https://open.spotify.com/album/1PHUM5WeAVxcOofKOE598U"
@@ -393,7 +501,7 @@
       "url": "https://open.spotify.com/track/0VWEJL1npobt3gQLhhyV0J"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "One World",
         "url": "https://open.spotify.com/album/4Rp1dc3xxnzSsozWZpJ8GQ"
@@ -429,7 +537,27 @@
       "url": "https://open.spotify.com/track/530UjwGDCk1nYmqhu2rPm7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
+      "album": {
+        "name": "Pisendel: Sonata for Solo Violin in A Minor: III. Giga",
+        "url": "https://open.spotify.com/album/0rm0fXqym4H8ij3kGEWNOO"
+      },
+      "artists": [
+        {
+          "name": "Johann Georg Pisendel",
+          "url": "https://open.spotify.com/artist/2A1dlEsuOOFYaqRRyGu1Sb"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Sonata for Solo Violin in A Minor: III. Giga",
+      "url": "https://open.spotify.com/track/3eH2aaeNQ8xKwneLjoHUjn"
+    },
+    {
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Concerto in D Minor: II. Adagio",
         "url": "https://open.spotify.com/album/1pltLL7r1kjV06GxqeobnV"
@@ -457,7 +585,7 @@
       "url": "https://open.spotify.com/track/5kynOCu6wmrjLm5pEp6DNQ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Price: String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
         "url": "https://open.spotify.com/album/50Cnys8oPsROratizJAoed"
@@ -477,7 +605,7 @@
       "url": "https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mozart: Violin Sonata in C Major, K. 296: III. Rondeau. Allegro",
         "url": "https://open.spotify.com/album/5oHEpWUXJEyeWoknAJdl45"
@@ -501,7 +629,7 @@
       "url": "https://open.spotify.com/track/4hiWqY21ruQO8OPPsZ57FZ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Lumi\u00e8res",
         "url": "https://open.spotify.com/album/5HXlQ7GvXy7iORgnYJIi8o"
@@ -517,7 +645,7 @@
       "url": "https://open.spotify.com/track/5a25wA4ObPtHPqxa5FQWtm"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
@@ -541,7 +669,7 @@
       "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Price: Symphony No. 4 in D Minor: III. Juba. Allegro",
         "url": "https://open.spotify.com/album/2SkDNfQkoZbaFzR7Loxyns"
@@ -565,7 +693,7 @@
       "url": "https://open.spotify.com/track/1qdLOyoGRdCyBDYHaBp1XW"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Lullabies for Piano and Cello",
         "url": "https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz"
@@ -581,7 +709,7 @@
       "url": "https://open.spotify.com/track/7DGpgdGHbdv3vty9CddXBQ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Chalmin: Eclipse",
         "url": "https://open.spotify.com/album/3AA3RMOXpmgzcbOd53ASix"
@@ -609,7 +737,7 @@
       "url": "https://open.spotify.com/track/2ceWw21cHWMOqJypY8G9cq"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Whitacre: The Seal Lullaby",
         "url": "https://open.spotify.com/album/2XSavbluGQ1XUhqzOEuMNS"
@@ -633,7 +761,7 @@
       "url": "https://open.spotify.com/track/29b5TcQl92h4S0qcV33ZaU"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "The Chopin Project : The Franchomme Legacy",
         "url": "https://open.spotify.com/album/37ukXSyDBPuOMkSZsxf91F"
@@ -665,7 +793,7 @@
       "url": "https://open.spotify.com/track/2bHvQDx7KWAWxlopZGZDMo"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Midnight Sessions at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/2qzOhpiSgXLTkXmRRaZhoK"
@@ -681,7 +809,7 @@
       "url": "https://open.spotify.com/track/33MkgxN6dzxSf24HW4hO1w"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Ravel: Pi\u00e8ce en forme de Habanera, M. 51 (Version for Oboe and Piano)",
         "url": "https://open.spotify.com/album/6MctQ5ElW8Mi9rYJTjCbAD"
@@ -705,7 +833,7 @@
       "url": "https://open.spotify.com/track/4ekLDziyE2Nxow4nGHZb1X"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Shostakovich: Symphony No. 8 in C Minor, Op. 65: III. Allegro non troppo",
         "url": "https://open.spotify.com/album/3C48hGYRxdrsRlybFp6YMj"
@@ -729,7 +857,7 @@
       "url": "https://open.spotify.com/track/6FFZbtg273iQI49nWoWhoM"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "The American Project",
         "url": "https://open.spotify.com/album/62yaHCNdy2u9miQXcvwPS8"
@@ -753,7 +881,7 @@
       "url": "https://open.spotify.com/track/3VI0Ble94EP7HE6JMzyFzD"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "The Sorcerer's Apprentice Variation (From L'Apprenti Sorcier, Arr. for Piano by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/7aSKkLYSb8UC3rAy0ojkxe"
@@ -773,7 +901,7 @@
       "url": "https://open.spotify.com/track/4LCgjNwIfDKgO6qSHNWvSl"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "SLEEP: Tranquility Base",
         "url": "https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL"
@@ -801,7 +929,7 @@
       "url": "https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Tan Dun: Buddha Passion, Act I \"The Bodhi Tree\": Equality",
         "url": "https://open.spotify.com/album/1MLiOdIuI7Yaw50Eox12NX"
@@ -825,7 +953,7 @@
       "url": "https://open.spotify.com/track/0oT2Dz2mpzjQc6w8WnrhiT"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/2qABE7PUapInELpIowCMQp"
@@ -841,7 +969,7 @@
       "url": "https://open.spotify.com/track/5eHG0eRylKF2c1baT7OeBD"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Schumann & Brahms",
         "url": "https://open.spotify.com/album/4BGkbzqf7R95Ce9lrSzflR"
@@ -861,7 +989,7 @@
       "url": "https://open.spotify.com/track/0nJzrxHup9vkQyc9Eg698s"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Po\u00e9tiques de l'instant II: Ravel & Mantovani",
         "url": "https://open.spotify.com/album/4Bh8OAnYx89v0QBr47Lazv"
@@ -881,7 +1009,7 @@
       "url": "https://open.spotify.com/track/2CyYvFLIAnNdzztFHcChpp"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Arctic",
         "url": "https://open.spotify.com/album/6zjO4KFrZqymBNORPdm1CE"
@@ -905,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2CSDYt8EYIsZtDQuv3OdgJ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Royer: Pi\u00e8ces de clavecin: No. 6, L'aimable (Arr. Feuill\u00e2tre for Guitar)",
         "url": "https://open.spotify.com/album/3i2VcAdQfART09tpSp85Nm"
@@ -925,7 +1053,7 @@
       "url": "https://open.spotify.com/track/3dWkIk4z7awBkoKYCnCbAU"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "J.S. Bach: Vor deinen Thron tret' ich, Chorale Prelude, BWV 668 (Arr. for String Quartet)",
         "url": "https://open.spotify.com/album/0LasVIUs6IHVGkmsQirqeh"
@@ -945,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3kh2SSiYu0r9h90r2YYL8J"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Kerber (Solo Piano)",
         "url": "https://open.spotify.com/album/739SgH5SoCbzVOWQw59o5r"
@@ -961,7 +1089,7 @@
       "url": "https://open.spotify.com/track/7xmmQMR8TQUFq6ADEo5YqP"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Morning Piano - Scarlatti: Keyboard Sonata Kk. 1",
         "url": "https://open.spotify.com/album/2ghAvMb23anmRQiKtqQ7B5"
@@ -981,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1KuUdkh97fawcdgjZ0am8t"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Saint-Georges: Violin Concerto, Op. 7 No. 1: II. Adagio",
         "url": "https://open.spotify.com/album/2jO8krKlYgNIaOfFu2evey"
@@ -1009,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6WmjXazGnWVQBbsuFzbmF4"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Eine Alpensinfonie, Op. 64, TrV 233: XXII. Nacht",
         "url": "https://open.spotify.com/album/7G7xjExpBvmoL07csrNOfd"
@@ -1033,7 +1161,7 @@
       "url": "https://open.spotify.com/track/03z0KD68ZV3rQLyuGE07JY"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/29lk5i3YQWTxNh9AANUPrL"
@@ -1049,7 +1177,7 @@
       "url": "https://open.spotify.com/track/7xkADeHElLMNmQ4yyo6O0S"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "C.P.E. Bach: W\u00fcrttemberg Sonatas / Sonata No. 3 in E Minor, H. 33: I. Allegro",
         "url": "https://open.spotify.com/album/0RKflaotF1cIJewQc9gM3u"
@@ -1069,7 +1197,7 @@
       "url": "https://open.spotify.com/track/26x7jjMJoZIljbxPNR053C"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Schubert: An die Nachtigall, D. 497",
         "url": "https://open.spotify.com/album/4RPAayUD9g50JWUsiRNmV8"
@@ -1089,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3dq5GCDjNxB14ht2DpCnUY"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Symphony No. 2: IV. Urlicht (Arr. for Orchestra and Saxophone by Carl Wilder)",
         "url": "https://open.spotify.com/album/2A1y9nYmObSWLBYrfQtfwm"
@@ -1117,7 +1245,7 @@
       "url": "https://open.spotify.com/track/3fGonVOBwGVQQWVKgN3Zz7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Conquest Of Paradise (From \"1492: Conquest of Paradise\")",
         "url": "https://open.spotify.com/album/55vsLr9fALUc7clghDw4Me"
@@ -1133,7 +1261,7 @@
       "url": "https://open.spotify.com/track/40vF4Lfvt7hHdXePgV3Z2o"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "One World",
         "url": "https://open.spotify.com/album/4Rp1dc3xxnzSsozWZpJ8GQ"
@@ -1173,7 +1301,7 @@
       "url": "https://open.spotify.com/track/7flhZ8mwGH9FaoxvAFapna"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Five Souls",
         "url": "https://open.spotify.com/album/2gTToLaVErvwGIJg9XKJM1"
@@ -1193,7 +1321,7 @@
       "url": "https://open.spotify.com/track/3ntVmKmb4l02ggvveI5eEo"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Elgar: Salut d'amour, Op. 12",
         "url": "https://open.spotify.com/album/3eiqAHARM68mlx3T2FYmgw"
@@ -1217,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0Qx2iQnf6GNg8epu8rYrS5"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mozart: Ecstasy & Abyss [PRAGUE, 1791]",
         "url": "https://open.spotify.com/album/2c69Z15sDrOpOpCJmPPPgI"
@@ -1241,7 +1369,7 @@
       "url": "https://open.spotify.com/track/70h1nYoPh4869FrsT9IILv"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Two Pianos 2",
         "url": "https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N"
@@ -1265,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Sinesi: El abrazo",
         "url": "https://open.spotify.com/album/60U4yWh5TGDuPqKpMadFXS"
@@ -1285,7 +1413,7 @@
       "url": "https://open.spotify.com/track/5qbnxwnIF29nZXXOh7dpD7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Golden Oldies \u2013 More Favourite Encores",
         "url": "https://open.spotify.com/album/6kfVR0aOq5RMUvdHQXDU4f"
@@ -1309,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6FWiBFCqVMEvsqR55B83BQ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Grid//Off",
         "url": "https://open.spotify.com/album/1bUu784jbEZECRNaIedGR1"
@@ -1329,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0RQoznMkcdGfFDwpJetGMZ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "J.S. Bach: French Suite No. 5 in G Major, BWV 816: I. Allemande",
         "url": "https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo"
@@ -1349,7 +1477,7 @@
       "url": "https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "MozartReworked",
         "url": "https://open.spotify.com/album/0iscfEvEjrQFkNTV7Hitgb"
@@ -1369,7 +1497,7 @@
       "url": "https://open.spotify.com/track/3DYxUyNeBa9MbT867F9gMO"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Invocations",
         "url": "https://open.spotify.com/album/1eQcStHHIT6dKDfRAxJcKh"
@@ -1389,7 +1517,7 @@
       "url": "https://open.spotify.com/track/5Ab2aR0dnezaz23JVR7vso"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Ysa\u00ffe: Berceuse, Op. 20",
         "url": "https://open.spotify.com/album/4MXg9MNn7aciS0ukAWF0v7"
@@ -1417,7 +1545,7 @@
       "url": "https://open.spotify.com/track/564yK5wGK9PI36Kmqa8ZeU"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mendelssohn: Variations Concertantes, Op. 17",
         "url": "https://open.spotify.com/album/38QqAYKcPRnpQiTXtBBBsz"
@@ -1441,7 +1569,7 @@
       "url": "https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Rachmaninoff: Rhapsody on a Theme of Paganini, Op. 43: Var. 18. Andante cantabile",
         "url": "https://open.spotify.com/album/7Lw0k6fBB9EsbKQ28MNKI8"
@@ -1469,7 +1597,7 @@
       "url": "https://open.spotify.com/track/7xi6ZVsxqf8XsW3AeECFm0"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "85mm",
         "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
@@ -1485,7 +1613,7 @@
       "url": "https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Tchaikovsky & Lalo",
         "url": "https://open.spotify.com/album/0RAfGBhZmV6gg9u97NLP3F"
@@ -1513,7 +1641,7 @@
       "url": "https://open.spotify.com/track/2ngKHDnsDq1xBmMCEgchFO"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mahler Symphony No. 5",
         "url": "https://open.spotify.com/album/3Nx1090nmrlHmEsEEghTMZ"
@@ -1537,7 +1665,7 @@
       "url": "https://open.spotify.com/track/2Q6oMiVkWeebaWuCsyVOAg"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Boulanger: Soleils couchants",
         "url": "https://open.spotify.com/album/1kYPOa4kQbl3Wd0Gdxhop4"
@@ -1561,7 +1689,7 @@
       "url": "https://open.spotify.com/track/0X33shXvv1HxGKGCP14ZNX"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mozart: String Quintet No. 4 in G Minor, K. 516: III. Adagio ma non troppo",
         "url": "https://open.spotify.com/album/7txKJX4HvzYAl17yVMT4m5"
@@ -1585,7 +1713,7 @@
       "url": "https://open.spotify.com/track/0y9zxfEtKrQ8LscQwtCd7Y"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Lumi\u00e8res nordiques",
         "url": "https://open.spotify.com/album/04yb7EVKoCx2iX6To8j3K9"
@@ -1609,7 +1737,7 @@
       "url": "https://open.spotify.com/track/0GmhexEizO6gmN6Dvabiib"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "After the chaos",
         "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
@@ -1625,7 +1753,7 @@
       "url": "https://open.spotify.com/track/3hMNkYWt4gr1asYEj97goF"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mamma",
         "url": "https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo"
@@ -1641,7 +1769,7 @@
       "url": "https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "A Watchful Gaze",
         "url": "https://open.spotify.com/album/4qKhAhh7J5diRFJ07nDjqy"
@@ -1669,7 +1797,7 @@
       "url": "https://open.spotify.com/track/5o4sgZrP65RcbsvG5K73zB"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Julie Cooper: VENUS in Sunlight Grey",
         "url": "https://open.spotify.com/album/56FKDpbyULonv8MK1dHeJD"
@@ -1693,7 +1821,7 @@
       "url": "https://open.spotify.com/track/1vAUDGCObZGyxUxgh3rtl6"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Dreamscapes",
         "url": "https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF"
@@ -1709,7 +1837,7 @@
       "url": "https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bruckner: Symphony No. 9 in D Minor, WAB 109 (Edition Nowak)",
         "url": "https://open.spotify.com/album/2IVcpFjvVFN6hTUe0ypxdf"
@@ -1733,7 +1861,7 @@
       "url": "https://open.spotify.com/track/5RosK5bHAjgWlCH6Wbmi02"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Forgotten Melodies",
         "url": "https://open.spotify.com/album/33NwHpXn2hewQ3GwvruAUO"
@@ -1753,7 +1881,7 @@
       "url": "https://open.spotify.com/track/01Wtra76hWGRxIhF7JityY"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Piano Concerto: II. Languid Blues",
         "url": "https://open.spotify.com/album/4Gr8BMQitpZmIkmHLTcYWY"
@@ -1781,7 +1909,7 @@
       "url": "https://open.spotify.com/track/3ctQF0EFNWBDiSSPxk4sxj"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Stravaganze consonanti",
         "url": "https://open.spotify.com/album/5k5g2ePiR4tO2E6bRsjptV"
@@ -1825,7 +1953,7 @@
       "url": "https://open.spotify.com/track/1MyEvvQzgO8iLg6FpxWwfW"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Richter: The Four Seasons: Winter 1",
         "url": "https://open.spotify.com/album/3oG0quWo6XHOFa3xrOwTxz"
@@ -1845,7 +1973,7 @@
       "url": "https://open.spotify.com/track/06l5bOe9KdHs1hgooVIvUn"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Beethoven: Symphonies Nos. 1 - 9",
         "url": "https://open.spotify.com/album/2MQ6SBrWJJKyx9kccfsQLM"
@@ -1869,7 +1997,7 @@
       "url": "https://open.spotify.com/track/1Kkl78NcbBCwqMiVYuil8G"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "On the Shoulders of Giants",
         "url": "https://open.spotify.com/album/3SFTWZBnEbwxvPdRuvtAIB"
@@ -1893,7 +2021,7 @@
       "url": "https://open.spotify.com/track/57OiauvfjITixDT3rBhyB7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "II. Adagio doloroso",
         "url": "https://open.spotify.com/album/7tssZ8AcBp7lI2xVHZd0x3"
@@ -1921,7 +2049,7 @@
       "url": "https://open.spotify.com/track/249zExJbZ90sdT2pjjcpIf"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
@@ -1941,7 +2069,7 @@
       "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Chopin",
         "url": "https://open.spotify.com/album/2y7XA7KLJXRPzTgULfXK5F"
@@ -1961,7 +2089,7 @@
       "url": "https://open.spotify.com/track/00x8ogYPKcIAAtDzC414DR"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Beethoven: Symphony No. 5 in C Minor, Op. 67: II. Andante con moto",
         "url": "https://open.spotify.com/album/509lCKz4WittRQRhtlDeOC"
@@ -1985,7 +2113,7 @@
       "url": "https://open.spotify.com/track/2rVqZvpWghaShS4C3UN19U"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Steve Reich: The String Quartets",
         "url": "https://open.spotify.com/album/0amlo8GN6h7ChMUJvRpHbM"
@@ -2005,7 +2133,7 @@
       "url": "https://open.spotify.com/track/0mIMV6fYaS5kqXAqaOICPb"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Stravinsky: Le sacre du printemps / Pt. 2: Le sacrifice: XIV. Danse sacrale: L'\u00c9lue",
         "url": "https://open.spotify.com/album/6sQUIVQxAxMQvliDgseLcQ"
@@ -2029,7 +2157,7 @@
       "url": "https://open.spotify.com/track/736llxXEMkdZjjQQzu71L6"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Femmes",
         "url": "https://open.spotify.com/album/7dXJjabk2Fcn4lE3g3VpPU"
@@ -2057,7 +2185,7 @@
       "url": "https://open.spotify.com/track/7BXEyMmzTPhGVtRmcNC1pK"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/2i1PTcdiE1SQlmOXyJvTqx"
@@ -2077,7 +2205,7 @@
       "url": "https://open.spotify.com/track/3H3Lumww4SpO3ywuHbytIL"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Blackfriars",
         "url": "https://open.spotify.com/album/6a5Gl4FDc2uoCDe5mIevGE"
@@ -2097,7 +2225,7 @@
       "url": "https://open.spotify.com/track/7H5EyhkBFd3R2ksjJhDtDH"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "EMOTIONALLY BLUE",
         "url": "https://open.spotify.com/album/5m9fe3pWOP1LEUsub28BYJ"
@@ -2113,7 +2241,7 @@
       "url": "https://open.spotify.com/track/2ZmRPBuW4KWN4JVXl645sK"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Mozart: Requiem - Paisiello: Messe pour le sacre de Napol\u00e9on",
         "url": "https://open.spotify.com/album/6CpIwi1Rzu2a6WXsELVfuW"
@@ -2141,7 +2269,7 @@
       "url": "https://open.spotify.com/track/1KHHLHhXkJaKcaNYVx9dOJ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Nielsen & Szymanowski, Violin Concertos",
         "url": "https://open.spotify.com/album/1Fp1GRlXp7p4l2WWBbgiHb"
@@ -2169,7 +2297,7 @@
       "url": "https://open.spotify.com/track/1NNpIvaNBYKammQL7aO85G"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Bart\u00f3k / Casken / Beethoven",
         "url": "https://open.spotify.com/album/0kNSfjnOQua9ycoVi3Z5VC"
@@ -2197,7 +2325,7 @@
       "url": "https://open.spotify.com/track/29Keu2XudCjMFLbHGwKUuK"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Passacalle de la Follie",
         "url": "https://open.spotify.com/album/0QvihhdMKMqy9aNKUx6m3u"
@@ -2225,7 +2353,7 @@
       "url": "https://open.spotify.com/track/16bJYMBZ3CpCtnoHsoD51m"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Orchestral Suite in D Major, BWV 1068: II. Air",
         "url": "https://open.spotify.com/album/42AC2SbjtoFFGEPHLYHiVf"
@@ -2245,7 +2373,7 @@
       "url": "https://open.spotify.com/track/0pyfPTKGyrDRrffTExB9HP"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Jan\u00e1\u010dek: In the Mists",
         "url": "https://open.spotify.com/album/0u3dmv18z82ZJeIGXART4W"
@@ -2269,7 +2397,7 @@
       "url": "https://open.spotify.com/track/0JrsEDY8kQPfj9rVrOTplX"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6xDm92xqj6M7OFzG4I1ogI"
@@ -2297,7 +2425,7 @@
       "url": "https://open.spotify.com/track/3Y5XDE0OeVshw8j5xvbHKa"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Silvestrov: Silent Songs",
         "url": "https://open.spotify.com/album/3IJS5yESHm39Fcn0ofcwhJ"
@@ -2321,7 +2449,7 @@
       "url": "https://open.spotify.com/track/6W2ht6xiLiq6r00v6oL7uJ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Prelude in B Minor, BWV 855a (Arr. For Violin and Orchestra by David Le Page and Alexander Siloti)",
         "url": "https://open.spotify.com/album/47UPrEs4aIQfwGbThg9cBR"
@@ -2345,7 +2473,7 @@
       "url": "https://open.spotify.com/track/0VGvaT3wo0zqWu8Y77G5SH"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Puccini: Turandot",
         "url": "https://open.spotify.com/album/33qVzTsGTzDXsnTuUsXoFn"
@@ -2377,7 +2505,7 @@
       "url": "https://open.spotify.com/track/3913Y7fMxegIni9Zxqnj9Q"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Aria",
         "url": "https://open.spotify.com/album/2GomaYg5hxXyKOwQpjnrSX"
@@ -2397,7 +2525,7 @@
       "url": "https://open.spotify.com/track/3Bes3wz2IszpLilZGjuMmX"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "II. Adagio cantabile",
         "url": "https://open.spotify.com/album/48VkQcbirAKS3XwaqAzx3m"
@@ -2417,7 +2545,7 @@
       "url": "https://open.spotify.com/track/49DrVoI0cf1WmzZoLWAdwG"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Schubert: Schwanengesang",
         "url": "https://open.spotify.com/album/5Vvo1140sH0OfbUne56hk8"
@@ -2441,7 +2569,7 @@
       "url": "https://open.spotify.com/track/0g1jGEagWPXjrUsIFkYAS7"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Also sprach Zarathustra, Op. 30, TrV 176: I. Prelude 'Sonnenaufgang'",
         "url": "https://open.spotify.com/album/0PBUx4sIMTkyDSPImmXajW"
@@ -2465,7 +2593,7 @@
       "url": "https://open.spotify.com/track/1QVTJS7UUFWryqJ459TeL2"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Visions fugitives, Op. 22: No. 7, Pittoresco (Arpa)",
         "url": "https://open.spotify.com/album/1UTlTK6ixVq7wSJlH4k6WO"
@@ -2485,7 +2613,7 @@
       "url": "https://open.spotify.com/track/2oc1tOIUmlbxIp8CJYTjr6"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Ariane et Bacchus, Prologue: Ouverture",
         "url": "https://open.spotify.com/album/7fqMgFqxCGbVjEEZ9G8Wmo"
@@ -2513,7 +2641,7 @@
       "url": "https://open.spotify.com/track/3Y4RK5tnZzJrHebiUigXn9"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "In Transit",
         "url": "https://open.spotify.com/album/6Bvy3VdjMddprT8qQn9UEs"
@@ -2533,7 +2661,7 @@
       "url": "https://open.spotify.com/track/5J9WtGaILyrpnqNOJiAuIy"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Ich steh mit einem Fu\u00df im Grabe, BWV 156: I. Sinfonia (Arioso)",
         "url": "https://open.spotify.com/album/5ZK8cOkZKgisSiksiho7z5"
@@ -2557,7 +2685,7 @@
       "url": "https://open.spotify.com/track/1y8gELdtDVvZ9jcxD5kROZ"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Age-old",
         "url": "https://open.spotify.com/album/4Fm3Zkch2gLBriZoLE8vZi"
@@ -2577,7 +2705,7 @@
       "url": "https://open.spotify.com/track/1j6lUHeL4j4iIVCENWObSL"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Rachmaninoff: Vespers - All-Night Vigil",
         "url": "https://open.spotify.com/album/2lzqCFnlVLlHuS5vOFypte"
@@ -2601,7 +2729,7 @@
       "url": "https://open.spotify.com/track/3UtECjqLsvARh20hWqH6XW"
     },
     {
-      "added_at": "2023-08-18 10:16:15",
+      "added_at": "2023-10-06 12:42:59",
       "album": {
         "name": "Schreker: Romantische Suite: III. Intermezzo (In sanfter Bewegung)",
         "url": "https://open.spotify.com/album/4wQcKGVE0WfuIVxDjIWEyJ"

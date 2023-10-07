@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 22878,
+  "num_followers": 22887,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmFkYjQ2OWUyYWYxZDE1ZTZiNjEzODcwOGZmNDU4ZDA1MTc0M2Y4",
+  "snapshot_id": "MCw5NmZjOWRkNjczN2RjMjI1OTdiNGE4NWRhOWRhNGY2NGExN2VjM2Qw",
   "tracks": [
     {
       "added_at": "2023-09-29 12:57:07",
@@ -101,6 +101,34 @@
       "url": "https://open.spotify.com/track/14zs6XjzSjwq0n7hriMaiO"
     },
     {
+      "added_at": "2023-10-06 04:30:14",
+      "album": {
+        "name": "Janani",
+        "url": "https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Mandoth",
+          "url": "https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w"
+        },
+        {
+          "name": "Vignesh Shankar",
+          "url": "https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP"
+        },
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
+        },
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        }
+      ],
+      "duration_ms": 220875,
+      "name": "Janani",
+      "url": "https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV"
+    },
+    {
       "added_at": "2023-10-04 05:44:55",
       "album": {
         "name": "Saviyada",
@@ -121,6 +149,26 @@
       "url": "https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7"
     },
     {
+      "added_at": "2023-10-06 11:00:45",
+      "album": {
+        "name": "Nanna Jeevana",
+        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        },
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "duration_ms": 136605,
+      "name": "Nanna Jeevana",
+      "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
+    },
+    {
       "added_at": "2023-08-21 06:03:47",
       "album": {
         "name": "Chaa",
@@ -135,6 +183,22 @@
       "duration_ms": 201142,
       "name": "Chaa",
       "url": "https://open.spotify.com/track/1MGXOBkxHXJACP6zm16kf2"
+    },
+    {
+      "added_at": "2023-10-06 11:00:04",
+      "album": {
+        "name": "Arere",
+        "url": "https://open.spotify.com/album/2NAKOi8TeqzEJZDcwdaP61"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "duration_ms": 238416,
+      "name": "Arere",
+      "url": "https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh"
     },
     {
       "added_at": "2023-09-16 06:18:46",
@@ -1471,26 +1535,6 @@
       "duration_ms": 224158,
       "name": "Nenapaagiru",
       "url": "https://open.spotify.com/track/72hwWV8M33IeJaYjKnR2JJ"
-    },
-    {
-      "added_at": "2023-03-06 09:23:00",
-      "album": {
-        "name": "Hey Sanchari",
-        "url": "https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S"
-      },
-      "artists": [
-        {
-          "name": "Aravind Murali",
-          "url": "https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy"
-        },
-        {
-          "name": "Sunil BT",
-          "url": "https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9"
-        }
-      ],
-      "duration_ms": 202682,
-      "name": "Hey Sanchari",
-      "url": "https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN"
     },
     {
       "added_at": "2023-03-03 12:06:21",

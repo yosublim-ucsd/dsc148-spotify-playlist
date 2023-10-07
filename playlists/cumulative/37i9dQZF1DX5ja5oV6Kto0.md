@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=Izso5YApS1qcjiLgMp9M6Q"> Lady Donli </a>
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=p00iAOWFRAyx6PqoW684Bg"> Prettyboy D\-O </a>
 
-474 songs - 23 hr 23 min
+475 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [SEX APPEAL](https://open.spotify.com/track/3zP864oEbAOOJm168btZfG) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Ronehi](https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv) | [SEX APPEAL](https://open.spotify.com/album/1wqYr4iyCkkYPKzLMIoPMM) | 2:58 | 2023-05-11 | 2023-06-17 |
 | [Sexy Sexy](https://open.spotify.com/track/6hC0PQL1Kr3Qgmjhs3csZF) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Reggie Rockstone](https://open.spotify.com/artist/5Q73WzWI1MkAbAwi2ZhG8K) | [Her Vibe Is Right Vol\. 2](https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy) | 3:37 | 2023-07-28 | 2023-09-15 |
 | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/track/4vxJVCRV3CZR7Wy2NCsMBf) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l), [Arieenati](https://open.spotify.com/artist/4ylIqJiqWnd05U4Ng8f616), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Shayo Galore \(feat\. Le Mav\)](https://open.spotify.com/album/3CFoj1BZZ61ZKTWWTuKDmj) | 2:18 | 2023-09-14 |  |
+| [SHEGE](https://open.spotify.com/track/3XeQnvXkAXX6LVErx2F0vw) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [SHEGE](https://open.spotify.com/album/7ynX70WRFESVn0SSQR9iaH) | 2:16 | 2023-10-06 |  |
 | [Shining \(feat\. Tay Iwar & Zlatan\)](https://open.spotify.com/track/5YRTadZ4cj2kxzEG2UcS28) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Afrikan Rebel](https://open.spotify.com/album/4iEeNMH7ooC4Hwy0J6rQB4) | 3:40 | 2021-09-16 | 2022-03-12 |
 | [Should We Try](https://open.spotify.com/track/5SLGCYDB44nVPKRQf1jJHj) | [David Bolton](https://open.spotify.com/artist/4rpPz9ZDWhFXcMKnkGF7CG) | [Should We Try](https://open.spotify.com/album/2lhXDm1QXyIpXVeEOAGxNQ) | 3:45 | 2022-01-13 | 2022-02-04 |
 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 | 2023-02-09 |  |

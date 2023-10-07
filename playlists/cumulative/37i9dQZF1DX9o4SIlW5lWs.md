@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-344 songs - 19 hr 50 min
+345 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Mentirosa](https://open.spotify.com/track/5l84vnSjoeOeMFNVbyRKVH) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:14 | 2022-11-04 | 2022-11-13 |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-21 | 2022-09-11 |
 | [Mi Figurita](https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V) | [Como Suena](https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe) | [Mi Figurita](https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd) | 3:04 | 2022-02-04 | 2022-07-12 |
+| [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/3mrRVpo3r93hi6qdQm2bLw) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/1om4tN4zbd13XwYmFk6B7O) | 3:24 | 2023-10-06 |  |
 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2022-01-14 |  |
 | [Mientele](https://open.spotify.com/track/21ygs5dGjRIpOnXMjDiXZd) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Mientele](https://open.spotify.com/album/7bR6mVOH2sWX9qNGgYA7g5) | 3:43 | 2022-04-01 | 2022-05-28 |
 | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mientes / Te Fuiste de Aqui / Me Duele Amarte](https://open.spotify.com/album/6sdJVuMEJlJOWP7rrLISiQ) | 5:41 | 2022-01-14 | 2022-07-07 |
@@ -240,7 +241,7 @@
 | [Que Nos Volvamos a Ver](https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Que Nos Volvamos a Ver](https://open.spotify.com/album/1XKy6pkSLzHHq3ldyftbKA) | 2:47 | 2022-01-14 | 2022-05-20 |
 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 | 2022-01-14 |  |
 | [Que Vuelvas](https://open.spotify.com/track/4bTnLWORGx7b3TtTNizgZI) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Que Vuelvas](https://open.spotify.com/album/4WovYXrsDxqaUgtMLF9LUq) | 2:43 | 2023-06-02 | 2023-06-10 |
-| [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 |  |
+| [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 | 2022-07-22 | 2023-10-07 |
 | [Quitame Ese Hombre](https://open.spotify.com/track/6laZGHZ4p75Vb1DAJ1DE9D) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Mejor de la Diosa](https://open.spotify.com/album/52rTOkOAsNU7SAVNcVnso8) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Qué Agonía](https://open.spotify.com/track/5opUwRIhCuOG0AA8H3gFQL) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Qué Agonía](https://open.spotify.com/album/74lyeT4vwsCCOiScrFz5xy) | 3:37 | 2023-09-08 |  |
 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 |  |

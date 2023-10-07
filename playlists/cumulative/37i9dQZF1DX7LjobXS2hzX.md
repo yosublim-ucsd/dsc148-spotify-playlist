@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Aliocha Schneider
+> Voici les hits du moment\. Photo: Manuel Turizo
 
 316 songs - 16 hr 43 min
 

@@ -3216,12 +3216,12 @@
           "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
         },
         {
-          "name": "Masi Rooc",
-          "url": "https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc"
-        },
-        {
           "name": "NASA NOVA",
           "url": "https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR"
+        },
+        {
+          "name": "Masi Rooc",
+          "url": "https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc"
         }
       ],
       "date_added": "2023-10-05",
@@ -3492,10 +3492,32 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 243815,
       "name": "She Calls Me Back",
       "url": "https://open.spotify.com/track/0JOcEj8CDO0KFArxMLYrD3"
+    },
+    {
+      "album": {
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/3hDGygu7fiVEjuf04f2rz4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/6Y54zhe1RF8fbNGgX670Kg"
     },
     {
       "album": {

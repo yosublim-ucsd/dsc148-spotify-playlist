@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
-> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Shakira
+> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Armenia
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,901 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,905 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vuelve](https://open.spotify.com/track/74DGE82ZVx7VKCoMgbyKBD) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:53 |
+| 1 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 |
 | 2 | [No Es Tan Simple](https://open.spotify.com/track/39arkeng7T81lC2yHM6Wvw) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ) | [No Es Tan Simple](https://open.spotify.com/album/7AOTGfAah3ni08RZbNcBP8) | 2:56 |
 | 3 | [Fractal](https://open.spotify.com/track/6TIXTXy6L0jc60dDr8I7KD) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Un Lugar Más Cierto](https://open.spotify.com/album/55zE2uof8VlS0kZgUNDULu) | 4:23 |
 | 4 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 99 | [Salvavidas](https://open.spotify.com/track/26sncSwReSsEXl5CxS1hMX) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 4:11 |
 | 100 | [Luces Neón](https://open.spotify.com/track/3Y8EuhwZ6LdGi3leKQHBXZ) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Luces Neón](https://open.spotify.com/album/1e4X4ReVQErGDwchkE34sN) | 3:47 |
 
-Snapshot ID: `MCw3YzFmY2Y2YmQ5MGU3NjA4MTRlMDlmNzc2Zjc4NTcyZTAxZjA0YTc2`
+Snapshot ID: `MCw3ZmVmNjM3NWRkNGJjZGY2MDQzMWEyYjM4ZjVjNjNhNWM2Zjk1YjVk`

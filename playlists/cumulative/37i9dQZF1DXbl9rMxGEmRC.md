@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-518 songs - 1 day 20 hr 11 min
+519 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Path Of Fierce Resistance](https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Path Of Fierce Resistance](https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5) | 3:39 | 2023-05-19 |  |
 | [Path to Paradise](https://open.spotify.com/track/6d1Hee07EoLcPAVkswj2i2) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Path to Paradise](https://open.spotify.com/album/086hwE3ZkLpf3CjhrVWPuf) | 3:16 | 2022-04-08 | 2022-07-23 |
 | [Permeating the Undergrowth](https://open.spotify.com/track/443jqzPCjCZeV6IRbD63wb) | [Cursebinder](https://open.spotify.com/artist/7umzEXJVLLeLp7SWogQMs1) | [Drifting](https://open.spotify.com/album/2zpWBELSInWYQNAALrKur9) | 6:19 | 2023-04-21 | 2023-05-20 |
+| [Perpetual Deception](https://open.spotify.com/track/1DWHlzz7lv3v9DuKPnuYlI) | [Suffocation](https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1) | [Perpetual Deception](https://open.spotify.com/album/5boSzmKbmKtWxYsUKiN5n0) | 4:15 | 2023-10-06 |  |
 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 | 2022-07-13 |  |
 | [Pipe Dreams](https://open.spotify.com/track/0UkBBPriZLFvN8t9jsaK5Y) | [Konvent](https://open.spotify.com/artist/0GLSraWh95uXS5s8nIuJ8Q) | [Pipe Dreams](https://open.spotify.com/album/45QoSSOld1MCnxRqUbeAnl) | 4:05 | 2022-02-11 | 2022-07-29 |
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 | 2022-08-18 |
@@ -416,7 +417,7 @@
 | [Summoned for Sacrifice](https://open.spotify.com/track/0GLpbCjpeIhdVyPRJmV9h6) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Summoned for Sacrifice](https://open.spotify.com/album/3iDio1Sl1rBOOiSjTN70wr) | 4:05 | 2023-08-11 |  |
 | [Sunholy](https://open.spotify.com/track/0up8bZXZqgKg9TzlrSPOTR) | [Shade Empire](https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH) | [Sunholy](https://open.spotify.com/album/3wPqeHtegyMuh6LsNyTjJ9) | 6:57 | 2023-07-03 | 2023-07-15 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
-| [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 | 2023-09-01 |  |
+| [Svart Industriell Olycka](https://open.spotify.com/track/5xltwwuGP4FKjUQkEMtWxO) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III: Angst](https://open.spotify.com/album/0bmWUXx7WGseDggqGUFgTt) | 8:05 | 2023-09-01 | 2023-10-07 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |
 | [Swan Season](https://open.spotify.com/track/2hqNNF4viFvXsEd7sDozD6) | [Deadly Carnage](https://open.spotify.com/artist/6Smmabcnt0gxJ3PnXAFq1L) | [Swan Season](https://open.spotify.com/album/0qxGwkCxJYjfGRP2d0XsgZ) | 4:30 | 2023-07-21 | 2023-08-12 |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |

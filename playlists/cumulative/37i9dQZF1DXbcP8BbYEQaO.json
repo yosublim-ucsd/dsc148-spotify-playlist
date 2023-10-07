@@ -10014,7 +10014,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -10238,7 +10238,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 246306,
       "name": "Violet Chemistry",
       "url": "https://open.spotify.com/track/4C2Y3Y2x2PbOqwdNBuLjP3"
@@ -10636,6 +10636,24 @@
       "duration_ms": 168880,
       "name": "Wish You Were Sober",
       "url": "https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk"
+    },
+    {
+      "album": {
+        "name": "With A Smile",
+        "url": "https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp"
+      },
+      "artists": [
+        {
+          "name": "Maiah Manser",
+          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176756,
+      "name": "With A Smile",
+      "url": "https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o"
     },
     {
       "album": {

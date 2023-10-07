@@ -2,7 +2,7 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: Xis
+> Ouça grandes MCs do hip hop nacional\. Foto: Edi Rock
 
 110 songs - 8 hr 47 min
 

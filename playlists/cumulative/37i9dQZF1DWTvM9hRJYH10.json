@@ -3863,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "Record High",
+        "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208453,
+      "name": "Record High",
+      "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
+    },
+    {
+      "album": {
         "name": "Western",
         "url": "https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy"
       },
@@ -5160,7 +5178,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189320,
-      "name": "Ways To Miss You",
+      "name": "Ways to Miss You",
       "url": "https://open.spotify.com/track/7tL3FQZW9j7mV0G1Y5CRps"
     },
     {

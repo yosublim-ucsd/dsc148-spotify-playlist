@@ -6175,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "Nemurasareta Lineage",
+        "url": "https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268306,
+      "name": "Nemurasareta Lineage",
+      "url": "https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd"
+    },
+    {
+      "album": {
         "name": "Never Fear",
         "url": "https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N"
       },
@@ -10336,6 +10354,24 @@
       "duration_ms": 214855,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/1kAXDCUimESViN8p0UpjSP"
+    },
+    {
+      "album": {
+        "name": "ZOOM ZOOM",
+        "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "ZOOM ZOOM",
+      "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
     },
     {
       "album": {
@@ -16560,7 +16596,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 268306,
       "name": "\u7720\u3089\u3055\u308c\u305f\u30ea\u30cd\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/5A2K5W8s9v0MR594JMjDL5"

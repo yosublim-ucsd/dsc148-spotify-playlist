@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,172 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,292 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Chora Gaam Ka](https://open.spotify.com/track/0yeDyNCGJvISdOsjox9Gnr) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/5xThnynFtoQBLacgNGXYrS) | 3:51 |
 | 50 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 |
 
-Snapshot ID: `MCw4ZGQ2YjFjYzAzYzk1MDY4MjJhNWNjMjdmYWZhMjI0Nzg2YjNkNGVm`
+Snapshot ID: `MCwxMmVjZTMwNmU4ZTI0OTY3MzQ4YWEwNTEyNjA1MmRmMTM2MzkxZGI4`

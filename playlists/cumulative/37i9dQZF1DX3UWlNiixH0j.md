@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. Cover: Tohji
 
-896 songs - 2 day 7 hr 47 min
+898 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,10 +44,11 @@
 | [Ame no Nioi wa Message](https://open.spotify.com/track/7npdHuWN0SFOFGohsWjnef) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Kisetsu no Tsukamaekata](https://open.spotify.com/album/0embyCrpQVh3CnXeKMIaFb) | 4:10 | 2023-04-18 | 2023-05-10 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
-| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 |  |
+| [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 | 2023-10-07 |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 |  |
 | [Astroswing](https://open.spotify.com/track/6bsDAWeneq2lQUnVyAU0cI) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Astroswing](https://open.spotify.com/album/7Mcmf6CowVfAh4XnJQbW4H) | 5:43 | 2023-07-25 | 2023-08-16 |
-| [Atlantic Ocean](https://open.spotify.com/track/4ht2BBpRPK0xH77b2uV6V6) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv) | 2:39 | 2023-10-05 |  |
+| [Atlantic Ocean](https://open.spotify.com/track/0NZ1WA4wLJgbdpVrHyZ6cs) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/2OTZ3ap5ScBuOVHz4ksfyE) | 2:39 | 2023-10-05 |  |
+| [Atlantic Ocean](https://open.spotify.com/track/4ht2BBpRPK0xH77b2uV6V6) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv) | 2:39 | 2023-10-05 | 2023-10-07 |
 | [aTOZ / BATH](https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O) | [yangdoe](https://open.spotify.com/artist/5vyv06gQtkjX0DrZwAKcoX) | [aTOZ / BATH](https://open.spotify.com/album/2wrAK0JqzIBU1bX7IQQ06n) | 3:05 | 2023-04-11 | 2023-04-26 |
 | [Aura](https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ) | [Masaya Kudo](https://open.spotify.com/artist/2Jw7yBPDAHziuP4rQf0dEX) | [View from the window](https://open.spotify.com/album/0iQmiTEWmnTHA8FmMManGC) | 3:48 | 2023-06-20 | 2023-06-28 |
 | [BABY END](https://open.spotify.com/track/7vIMvvEMQu2Su8qyHrUtPQ) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [BABY END](https://open.spotify.com/album/0dwHmTKqojEP054Y8SoZiZ) | 4:40 | 2023-08-22 | 2023-09-09 |
@@ -448,6 +449,7 @@
 | [Shangri\-Ra](https://open.spotify.com/track/5EbXeDHm7LEZwo995W8Uty) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [Shangri\-Ra](https://open.spotify.com/album/1lfI8BKatDabAwkQLbe0Ot) | 4:25 | 2023-07-25 | 2023-09-06 |
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-12 | 2023-02-08 |
 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-04-27 | 2023-08-31 |
+| [Shiawase no Mawarimichi](https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Shiawase no Mawarimichi](https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW) | 3:45 | 2023-10-05 |  |
 | [SHIRAFU](https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7imFignbAwW3BYnduyaEjQ) | 3:40 | 2023-06-21 | 2023-06-28 |
 | [Shoes](https://open.spotify.com/track/0qerrB7fpmT1O2GkyHmDDg) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [Shoes](https://open.spotify.com/album/0SjNCfSX1tskAsTPW2TZA7) | 2:51 | 2023-01-24 | 2023-02-22 |
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-03-30 | 2023-04-05 |
@@ -776,7 +778,7 @@
 | [少年セゾン](https://open.spotify.com/track/6mhif68sfKzj8Tp4nEKEWY) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [少年セゾン](https://open.spotify.com/album/08uVRPJ95oNwUI2TyHUim2) | 3:43 | 2023-07-06 | 2023-09-27 |
 | [市井のディスコ](https://open.spotify.com/track/4jqvN0dBhk1I0H3pRxsbcN) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [市井のディスコ](https://open.spotify.com/album/0s5So4ezp7cPd7bxnoFWTd) | 4:06 | 2023-08-22 | 2023-08-30 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-23 | 2023-09-20 |
-| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 |  |
+| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2023-10-07 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2023-01-12 | 2023-01-27 |
 | [幽霊 \- voquote Remix](https://open.spotify.com/track/1iDc6abxNzQh7TEAgIcJQx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4), [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR) | [幽霊 \(voquote Remix\)](https://open.spotify.com/album/1vA15DfdrQNmFCH8Uz88Sz) | 3:21 | 2023-09-26 | 2023-10-04 |
 | [広高](https://open.spotify.com/track/5JjTcAbdvKPX3JLBP150EL) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [広高](https://open.spotify.com/album/0YHpnNrAojzAUWTnfk35kq) | 2:26 | 2023-03-16 | 2023-03-29 |
@@ -818,7 +820,7 @@
 | [格好悪いふられ方](https://open.spotify.com/track/0NUtGGMrDe0uCEsOgwaKnX) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [格好悪いふられ方](https://open.spotify.com/album/7z1XV7hTBPhaLEFAGc3bPm) | 3:29 | 2023-09-05 |  |
 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 | 2023-07-04 |  |
 | [桜 super love \- Cover](https://open.spotify.com/track/2xP0DHOUveqDwX2YxWpZpT) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [桜 super love \(Cover\)](https://open.spotify.com/album/46HduRUsP5IkQwX2BlA5OS) | 4:50 | 2023-03-21 | 2023-03-23 |
-| [横に縦に](https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [横に縦に](https://open.spotify.com/album/17r34hNz2CXnfkSu8RuRjb) | 3:44 | 2023-09-26 | 2023-10-04 |
+| [横に縦に](https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [横に縦に](https://open.spotify.com/album/17r34hNz2CXnfkSu8RuRjb) | 3:44 | 2023-09-26 |  |
 | [橙](https://open.spotify.com/track/0neeR547nkdTBSTWeTEAAH) | [Saboten Neon House](https://open.spotify.com/artist/4YiEZJEh5hD4zNhPtTpp5C) | [橙 / 一杯分のコーヒー](https://open.spotify.com/album/3Y2u7Wy7T4bnkBnBDf5ieV) | 3:08 | 2023-04-11 | 2023-04-13 |
 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-05-30 | 2023-09-06 |
 | [母船](https://open.spotify.com/track/3ZATN9nilk2MxQXkl2B7AL) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [卵](https://open.spotify.com/album/4qe0XanRyN4rIkJxjdSoh6) | 4:01 | 2023-01-12 | 2023-01-25 |

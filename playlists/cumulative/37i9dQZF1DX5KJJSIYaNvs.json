@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 219692,
       "name": "Aeri Sakhi",
       "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
@@ -462,6 +462,28 @@
       "duration_ms": 220267,
       "name": "Barsaat Aa Gayi",
       "url": "https://open.spotify.com/track/1JBm3IDx7yiXnB4LrnQ7k5"
+    },
+    {
+      "album": {
+        "name": "Berang",
+        "url": "https://open.spotify.com/album/45ZIuB3SzUQqMxyIbnWbyX"
+      },
+      "artists": [
+        {
+          "name": "Raveena Paul",
+          "url": "https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se"
+        },
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196252,
+      "name": "Berang",
+      "url": "https://open.spotify.com/track/1YnNzDtqdYOmiW7PMSpqxg"
     },
     {
       "album": {
@@ -974,7 +996,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 189183,
       "name": "Dil Khanjar",
       "url": "https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6"
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 168545,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
@@ -4001,6 +4023,28 @@
     },
     {
       "album": {
+        "name": "Raavan",
+        "url": "https://open.spotify.com/album/5VZBNteoMladEq8McyODLx"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352062,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/6IFsUWHbinvsqfEQvrP8xR"
+    },
+    {
+      "album": {
         "name": "Ranjha Tere Naal",
         "url": "https://open.spotify.com/album/0diPLupHYMFojFKXjtpfZv"
       },
@@ -4411,6 +4455,28 @@
     },
     {
       "album": {
+        "name": "Savaria",
+        "url": "https://open.spotify.com/album/3oMktrcEUa7JaqmzrpWSln"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Vikram Montrose",
+          "url": "https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Savaria",
+      "url": "https://open.spotify.com/track/060UbVPBhXeQhMLtef21WG"
+    },
+    {
+      "album": {
         "name": "Ek Villain Returns",
         "url": "https://open.spotify.com/album/6DCj9zSkRhSN77UQe3J4s1"
       },
@@ -4596,6 +4662,28 @@
       "duration_ms": 172800,
       "name": "Soneya Ve",
       "url": "https://open.spotify.com/track/4akTHm2aoFHbAr1ulm9eui"
+    },
+    {
+      "album": {
+        "name": "Khufiya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197205,
+      "name": "Tanhai (Female Vocals)",
+      "url": "https://open.spotify.com/track/0waDYhYPvK5Ch7085j7Si3"
     },
     {
       "album": {
@@ -4812,7 +4900,7 @@
       ],
       "date_added": "2023-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 270196,
       "name": "The Soul Of Satya (From \"Satya\")",
       "url": "https://open.spotify.com/track/2hAHMq2LmlV1HcbETMz4Q7"

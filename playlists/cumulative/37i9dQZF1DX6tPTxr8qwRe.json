@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: sad alex",
+  "description": "Dark, hard hitting pop. Cover: Chandler Leighton & Meg Smith",
   "name": "SALT",
   "tracks": [
     {
@@ -1681,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
+        "url": "https://open.spotify.com/album/7oXLJl1mwaPoewLLvE9emw"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        },
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169521,
+      "name": "Cross My Heart I Hope U Die (With Chandler Leighton)",
+      "url": "https://open.spotify.com/track/2YWQGk9zzkAkGXmjP027db"
+    },
+    {
+      "album": {
         "name": "Cruel World",
         "url": "https://open.spotify.com/album/2KLQvgaPDzX9mhwKHdgoXn"
       },
@@ -2640,6 +2662,24 @@
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
+    },
+    {
+      "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "album": {
@@ -4130,6 +4170,24 @@
       "duration_ms": 168034,
       "name": "I've Got A Bad Side",
       "url": "https://open.spotify.com/track/3zaSRGFPFnNKY42TUjoGwM"
+    },
+    {
+      "album": {
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145414,
+      "name": "Idolize",
+      "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
     },
     {
       "album": {
@@ -5629,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "OOPS",
+        "url": "https://open.spotify.com/album/4nNz1bA7kjUNNjgwiKLDC6"
+      },
+      "artists": [
+        {
+          "name": "Ktlyn",
+          "url": "https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123512,
+      "name": "OOPS",
+      "url": "https://open.spotify.com/track/7eoOFgRL66Dw9PnWxyz7s1"
+    },
+    {
+      "album": {
         "name": "ORAL HEX (spell on you)",
         "url": "https://open.spotify.com/album/3Z6ZQizuBnh4w78dlm6HZ1"
       },
@@ -5680,7 +5756,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 146065,
       "name": "over my ex",
       "url": "https://open.spotify.com/track/2JWC7a6oGu7OHDVpOaRrLW"
@@ -8908,6 +8984,24 @@
       "duration_ms": 159821,
       "name": "Witch Hunt",
       "url": "https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb"
+    },
+    {
+      "album": {
+        "name": "With A Smile",
+        "url": "https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp"
+      },
+      "artists": [
+        {
+          "name": "Maiah Manser",
+          "url": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176756,
+      "name": "With A Smile",
+      "url": "https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o"
     },
     {
       "album": {

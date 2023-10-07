@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Laurence-Anne",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Barracuda",
+        "url": "https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0"
+      },
+      "artists": [
+        {
+          "name": "Miels",
+          "url": "https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132596,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw"
+    },
+    {
+      "album": {
         "name": "Beau bapt\u00eame",
         "url": "https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
@@ -1797,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Pourquoi qu'on dort pas",
+        "url": "https://open.spotify.com/album/0TBfTbNl7lbI36jDQmivjg"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321005,
+      "name": "Pourquoi qu'on dort pas",
+      "url": "https://open.spotify.com/track/0e2zBjXM7NfhB780xyNhWX"
+    },
+    {
+      "album": {
         "name": "Razz",
         "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
       },
@@ -2024,7 +2060,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"

@@ -2,7 +2,7 @@
 
 ### [Copão na Mão](https://open.spotify.com/playlist/37i9dQZF1DXbTYpRASjxaF)
 
-> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Abbot
+> Pega o gelo de coco, chama o bonde e vem pra festa\. Foto: Major RD
 
 281 songs - 14 hr 59 min
 

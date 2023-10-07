@@ -2,9 +2,9 @@
 
 ### [AULAS](https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi)
 
-> ogi é AULAS
+> bk menorzin é AULAS
 
-224 songs - 12 hr 40 min
+225 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Vida É Um Sopro](https://open.spotify.com/track/4G48JuYeAiap585RaG4gvR) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/0PHk8G1R0bLl6Tm4uVrBcu) | 4:21 | 2023-08-11 | 2023-09-09 |
 | [Abençoado](https://open.spotify.com/track/4KdbIsaPbgBke0NNwcu2Te) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Matheusiddy](https://open.spotify.com/artist/61Zw1DZ8Use6z9JATEiV93) | [Abençoado](https://open.spotify.com/album/2wmoonsjdu80s2YBtu5Knr) | 2:29 | 2023-04-28 | 2023-06-03 |
 | [Algo Íntimo](https://open.spotify.com/track/7e0DPzHixf5MyclQRCUkJa) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Algo Íntimo](https://open.spotify.com/album/5r8KbnTBjBDQe0yp0h3WHE) | 2:43 | 2022-08-12 | 2022-08-27 |
+| [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 | 2023-10-06 |  |
 | [AmarElo \(Sample: Sujeito de Sorte \- Belchior\) \(feat\. Pabllo Vittar, Majur & Thiago Jamelão\)](https://open.spotify.com/track/1aN92D8xslPjXPO9VWUgXU) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Thiago Jamelão](https://open.spotify.com/artist/7zHj1zkd6BDHQhMwWXLxQj) | [Emicida](https://open.spotify.com/album/2XCvcQhzrwrDn0sHq4jwru) | 5:28 | 2022-04-29 | 2022-06-11 |
 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 | 2023-05-05 |  |
 | [Antes do baile](https://open.spotify.com/track/4siwpjEBypNdJzlaf4zZGv) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Antes do baile](https://open.spotify.com/album/3Spa7un8tuyjiHOpAB4pPZ) | 2:18 | 2023-09-29 |  |

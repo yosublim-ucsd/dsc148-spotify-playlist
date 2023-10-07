@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "pra curtir o puro afrobeats feito no Brasil",
+  "description": "pra curtir o puro afrobeats feito no Brasil. Foto: Paulla",
   "name": "pique afrobeats",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 156600,
       "name": "Incertezas",
       "url": "https://open.spotify.com/track/5Id3vKSAubS0XxJMg1g3xx"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 187200,
       "name": "larissa",
       "url": "https://open.spotify.com/track/3CgVFbz5OQDGuRURKKTvmE"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
@@ -1312,6 +1312,28 @@
       "duration_ms": 198070,
       "name": "Yo Quiero Te Namorar",
       "url": "https://open.spotify.com/track/6scYrkXq1wfxADlx9aeOyf"
+    },
+    {
+      "album": {
+        "name": "SOU + EU",
+        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Zero Buxixo",
+      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4PfwA6GHHNV"

@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 118000,
       "name": "Amicitia",
       "url": "https://open.spotify.com/track/4tARuHIlzeVp0XCdz2QlRj"
@@ -434,6 +434,24 @@
       "duration_ms": 180353,
       "name": "Changing Colors",
       "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
+    },
+    {
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd"
+      },
+      "artists": [
+        {
+          "name": "Calma Totalis",
+          "url": "https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8"
     },
     {
       "album": {
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 108936,
       "name": "Part 1, Good Morning Tubac",
       "url": "https://open.spotify.com/track/3ZrVhaB84vn6hJiZrLi0DE"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 114007,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 231341,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF"

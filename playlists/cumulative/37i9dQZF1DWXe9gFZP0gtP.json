@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196291,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1A227JO30dAB3OYMu0hJux"
@@ -6292,6 +6292,24 @@
       "duration_ms": 184250,
       "name": "Ut Ameris, Amabilis Esto",
       "url": "https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M"
+    },
+    {
+      "album": {
+        "name": "Values Of Silence",
+        "url": "https://open.spotify.com/album/7pkxfF84viQD0A2kWfvXIf"
+      },
+      "artists": [
+        {
+          "name": "Hector Warrens",
+          "url": "https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183097,
+      "name": "Values Of Silence",
+      "url": "https://open.spotify.com/track/1e3b9snZ8WCK3Ty1F9Fb0v"
     },
     {
       "album": {

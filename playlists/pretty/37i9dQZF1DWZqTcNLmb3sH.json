@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 53700,
+  "num_followers": 53782,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWQyYTk1ODAyY2Y0ZTgzMjgzMTBkM2YzZjE3ZjAxYjY4N2Q1ODBh",
+  "snapshot_id": "MCxhMmIwNDEyY2ZmNTM3MGZhMDhiMDAyMTNiYTc3ODI2M2FjNWQwYmJk",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -97,6 +97,26 @@
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
     },
     {
+      "added_at": "2023-10-06 10:56:03",
+      "album": {
+        "name": "Samayave Saaladu",
+        "url": "https://open.spotify.com/album/6MlNNbgEbayMwkaLyZygar"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhat",
+          "url": "https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96"
+        },
+        {
+          "name": "Kalyan Manjunath",
+          "url": "https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6"
+        }
+      ],
+      "duration_ms": 295381,
+      "name": "Samayave Saaladu",
+      "url": "https://open.spotify.com/track/3XRMSg7cT5tgrzkRFYDDpE"
+    },
+    {
       "added_at": "2023-10-04 12:07:55",
       "album": {
         "name": "Preetisabeda",
@@ -111,6 +131,30 @@
       "duration_ms": 193851,
       "name": "Yenidhu Hosa",
       "url": "https://open.spotify.com/track/3lgCFLGxttkoHVcMn0greF"
+    },
+    {
+      "added_at": "2023-10-06 10:58:50",
+      "album": {
+        "name": "Luv You Shankar - Title Track (From \"Luv You Shankar\")",
+        "url": "https://open.spotify.com/album/5OZLW3cofyZPmhU7MekAwn"
+      },
+      "artists": [
+        {
+          "name": "Mohitha",
+          "url": "https://open.spotify.com/artist/3LJVIFm67XD9bT7N2gKbB6"
+        },
+        {
+          "name": "Vardan Singh",
+          "url": "https://open.spotify.com/artist/4yeoysFmRgrJrMYtLlA7mF"
+        },
+        {
+          "name": "Heena Kanojia",
+          "url": "https://open.spotify.com/artist/00b6NVTO2ZcsFrhtYzjChU"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "Luv You Shankar - Title Track (From \"Luv You Shankar\")",
+      "url": "https://open.spotify.com/track/2Z4PprrBUBGVtFOuq1k2f1"
     },
     {
       "added_at": "2023-09-25 13:17:12",
@@ -1449,46 +1493,6 @@
       "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
     },
     {
-      "added_at": "2023-08-10 11:59:55",
-      "album": {
-        "name": "Partner",
-        "url": "https://open.spotify.com/album/0mvY3Hex1UgwTFpQhOVF9p"
-      },
-      "artists": [
-        {
-          "name": "Mehaboob Saab",
-          "url": "https://open.spotify.com/artist/1pBFn1uxnCrIFkWdljm8tN"
-        }
-      ],
-      "duration_ms": 262368,
-      "name": "Geleya O Geleya",
-      "url": "https://open.spotify.com/track/5PYgMZMicR7zJVidbA0wXw"
-    },
-    {
-      "added_at": "2023-08-02 11:54:06",
-      "album": {
-        "name": "Bhoomige Bhanu (From \"Dvandva\")",
-        "url": "https://open.spotify.com/album/4sP855EvzZpxIPuGuPFNgH"
-      },
-      "artists": [
-        {
-          "name": "Adithi Akash",
-          "url": "https://open.spotify.com/artist/6rkIqmWukoPqE7iS49n3BY"
-        },
-        {
-          "name": "Prathap s",
-          "url": "https://open.spotify.com/artist/2Hbu16ngEZhHp5c7IIU4Pm"
-        },
-        {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Bhoomige Bhanu (From \"Dvandva\")",
-      "url": "https://open.spotify.com/track/3oME8ZVqiYLOEosvCXZtrq"
-    },
-    {
       "added_at": "2023-08-04 09:58:42",
       "album": {
         "name": "Aa Mugilinalli (From \"Naalkane Aayama\")",
@@ -1603,30 +1607,6 @@
       "duration_ms": 273962,
       "name": "Modala Male (From \"Thothapuri 2\")",
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
-    },
-    {
-      "added_at": "2023-07-25 11:15:09",
-      "album": {
-        "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
-        "url": "https://open.spotify.com/album/495C2w4sl56F4LGcFSRUq1"
-      },
-      "artists": [
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        },
-        {
-          "name": "Simple Suni",
-          "url": "https://open.spotify.com/artist/2FOfBMh8JQNVyKGc3lJKrJ"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
-      "url": "https://open.spotify.com/track/5XLCyX3kqNwDoBOvVhORUD"
     },
     {
       "added_at": "2023-07-24 06:31:36",

@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-403 songs - 23 hr 55 min
+405 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Amanhã Fará Sorrir](https://open.spotify.com/track/3VQoJKND4uspzkNAlzq7IO) | [Corcel Mágico](https://open.spotify.com/artist/2GKouH9V9g8BoUrR5MPUgz) | [Por Onde Eu Vim](https://open.spotify.com/album/1ZFkpZ9zOt0c4UmD21tOHZ) | 3:56 | 2022-01-21 | 2022-07-08 |
 | [Ameno](https://open.spotify.com/track/5xOceLdXjI6xdDiN0z33QU) | [Jéf](https://open.spotify.com/artist/1oQx7H437iFRCuhv4HOsNR), [Ana Caetano](https://open.spotify.com/artist/12zdfTW9H2vtFe0WriVUhG) | [Solar](https://open.spotify.com/album/5jAiSA1sO1BDl28Ieqq6Jl) | 3:38 | 2021-12-24 | 2022-07-28 |
 | [America Latina](https://open.spotify.com/track/0lo72AddH6tm7gkpcNzKcV) | [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Esperança](https://open.spotify.com/album/2n7oWUeEcKoYDZ6KCWuEaO) | 2:25 | 2022-03-04 | 2022-05-01 |
+| [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-10-06 |  |
 | [amor manso](https://open.spotify.com/track/0Da8JDOp8WIY1CMIPpjB5d) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [amor manso](https://open.spotify.com/album/4Ar2Eg6g0VWsaFUj6ZAgMN) | 3:06 | 2022-03-04 | 2022-07-29 |
 | [amores de verão](https://open.spotify.com/track/2DQmQrqo19ZG0fRdOqI9Hr) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [amores de verão](https://open.spotify.com/album/2DIVxMDnt68pjd8JbXbd87) | 2:39 | 2021-12-24 | 2022-07-29 |
 | [Ansiedade](https://open.spotify.com/track/1lo3yzrfwEAdahs8rw3R3s) | [Bola](https://open.spotify.com/artist/0vSYheQ4exKMuzSbTWOo4Z) | [Ansiedade](https://open.spotify.com/album/5nZuctYO8fOUvB1TQQhToq) | 3:22 | 2021-12-24 | 2022-05-10 |
@@ -59,7 +60,7 @@
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-04 |  |
 | [Bloodstream](https://open.spotify.com/track/5v4sZRuvWDcisoOk1PFv6T) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 5:00 | 2022-04-06 | 2023-01-14 |
 | [Blue Moon](https://open.spotify.com/track/2uWwCU5X1TjJiiN6BbUaB8) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/3BBFUxPg8KFmAv96SmY4ok) | 4:02 | 2022-03-25 | 2022-04-15 |
-| [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 |  |
+| [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 | 2022-10-14 | 2023-10-07 |
 | [Bones](https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c) | [Feliz](https://open.spotify.com/artist/3Kgb1mPd8ZiYrCKqLw6Wvh) | [Dreams and Airplanes](https://open.spotify.com/album/6Ad3RaB9WT6U6W81lWM21g) | 3:05 | 2021-12-24 | 2022-06-25 |
 | [Brigadeiro](https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi) | [Mira](https://open.spotify.com/artist/66c0QYupOFnMOiTXzHQbcH) | [Brigadeiro](https://open.spotify.com/album/4A1hlTcYv5LdjJ13ctr8Gl) | 3:14 | 2021-12-24 | 2022-04-10 |
 | [Budapest](https://open.spotify.com/track/48gsLPdOUEDjr7P8Wvykne) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Did You Hear the Rain?](https://open.spotify.com/album/17a7gzqcZt6SjXRQVoXN6M) | 3:22 | 2022-03-25 | 2022-04-20 |
@@ -123,7 +124,7 @@
 | [Elo](https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Cais](https://open.spotify.com/album/6wCle6ZgoAQcpmMuRCO21h) | 3:29 | 2021-12-24 | 2022-07-23 |
 | [Enquanto](https://open.spotify.com/track/5r18JRKA7qH6Vl6MSINCn9) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Enquanto](https://open.spotify.com/album/7MZRN9NJekWq9jPl7DCXaf) | 2:53 | 2022-02-18 | 2022-07-25 |
 | [Entre](https://open.spotify.com/track/1OtVYzbyHjpPcVW5v20xTF) | [VEIGA](https://open.spotify.com/artist/3uW1Rs9bE57BG8nmicYtxM) | [Entre](https://open.spotify.com/album/4CW2H3YJKOzvAwzErJTJ7a) | 3:54 | 2021-12-24 | 2022-04-18 |
-| [Era amor](https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd) | 3:19 | 2023-04-28 |  |
+| [Era amor](https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd) | 3:19 | 2023-04-28 | 2023-10-07 |
 | [Era amor](https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/6Mm1M4h84mJcptcSmkf2iE) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Era uma Vez](https://open.spotify.com/track/16GaPObSFlhVFjDwyDAWww) | [Duas Casas](https://open.spotify.com/artist/5u6VFPY9oSlE49LEiKxpl4) | [Duas Casas](https://open.spotify.com/album/7LCwn4L67zTyBC7ndmykcA) | 2:58 | 2022-02-11 | 2022-07-04 |
 | [Era uma Vez](https://open.spotify.com/track/0ctRDZD6Nk8z8NtmoWwcC8) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/6eQnanktKogiVmNgBQzLR3) | 3:44 | 2021-12-24 | 2022-07-28 |
@@ -337,6 +338,7 @@
 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 | 2022-04-06 |  |
 | [Simples Assim](https://open.spotify.com/track/4MCbvDv7oVtzPPlI5VSLSy) | [Manash](https://open.spotify.com/artist/4kqPOFNe2NVb9vrxLumvUd) | [Simples Assim](https://open.spotify.com/album/1KRJbSuJ3pRGKadLjzHRKE) | 2:58 | 2021-12-24 | 2022-06-08 |
 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 | 2021-12-24 | 2022-06-08 |
+| [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 | 2023-10-06 |  |
 | [Sinner's Prayer](https://open.spotify.com/track/7tDYKT2AT0RX6yOb7s8gNG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor) | 3:43 | 2022-04-06 | 2022-04-16 |
 | [Sleeping On The Phone](https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy](https://open.spotify.com/album/3mSrMuAvI7GNxaxhrTx4ry) | 3:09 | 2022-03-25 | 2022-04-21 |
 | [Slowmotion Cameraman](https://open.spotify.com/track/6nAJoXxWKSp7OsE10n3pOo) | [Leo Quintella](https://open.spotify.com/artist/6Rb1kQndjICzingrL0jXW9) | [Slowmotion Cameraman](https://open.spotify.com/album/0FBNHe4jU5USsdtE0qFsB5) | 3:35 | 2021-12-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 123150,
+  "num_followers": 123189,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzM1MGVjNWFmNzU1MDYxZTg2N2IzODc1MGQ1Yzk3YWQ4OTIyMWJm",
+  "snapshot_id": "MCw5NzFlZWYzODY4ODA3MmNiNjYwN2NjMTg2ZTE4ODkyOWFmNzNmYTFk",
   "tracks": [
     {
       "added_at": "2023-10-05 16:00:00",
@@ -76,7 +76,7 @@
       "added_at": "2023-10-05 16:00:00",
       "album": {
         "name": "Sent",
-        "url": "https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D"
+        "url": "https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR"
       },
       "artists": [
         {
@@ -85,8 +85,8 @@
         }
       ],
       "duration_ms": 241893,
-      "name": "\u6c7a\u5b9a\u4e0d\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6"
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM"
     },
     {
       "added_at": "2023-10-05 16:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-10-05 16:00:00",
       "album": {
-        "name": "\u660e\u5ba4",
-        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 259308,
-      "name": "\u660e\u5ba4",
-      "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
-    },
-    {
-      "added_at": "2023-10-05 16:00:00",
-      "album": {
         "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
         "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 295025,
       "name": "\u5e74\u8f2a\u8aaa",
       "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2023-10-05 16:00:00",
+      "album": {
+        "name": "\u660e\u5ba4",
+        "url": "https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 259308,
+      "name": "\u660e\u5ba4",
+      "url": "https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m"
     },
     {
       "added_at": "2023-10-05 16:00:00",
@@ -600,7 +600,7 @@
       },
       "artists": [
         {
-          "name": "Naiwen Yang",
+          "name": "Edward Chen",
           "url": "https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue"
         }
       ],

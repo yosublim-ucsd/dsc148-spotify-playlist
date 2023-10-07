@@ -281,6 +281,24 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/7qzHhlLgqJrA2vi9U7jgmU"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175810,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/6RFWHk1d0D8s8UJ4zQg7BP"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
       },
@@ -8986,7 +9004,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 239062,
       "name": "Shrine Banger",
       "url": "https://open.spotify.com/track/3a3YhO3gL4WaiQCkLVAY01"

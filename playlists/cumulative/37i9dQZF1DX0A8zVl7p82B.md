@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-227 songs - 12 hr 32 min
+228 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Dear Santa](https://open.spotify.com/track/6U8QFYAKBNbAl1HOVW0xch) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Dear Santa](https://open.spotify.com/album/1isojn5RpxnqQ2vYeMu4ck) | 3:48 | 2021-12-24 | 2022-07-29 |
 | [December](https://open.spotify.com/track/7zrhy9OhtcO7MdIvbbJiOa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 1:56 | 2021-12-24 | 2022-10-26 |
 | [Deck the Halls](https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Deck the Halls](https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0) | 1:37 | 2021-12-24 | 2022-10-26 |
+| [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 | 2023-10-06 |  |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know Its Christmas?](https://open.spotify.com/album/5v6oVunOk4DA8SMlBFqsKG) | 3:42 | 2021-12-24 | 2022-07-29 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-12-24 |  |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:32 | 2021-12-24 |  |
@@ -105,7 +106,7 @@
 | [I'll Be Home](https://open.spotify.com/track/4ZWiQrSCsoZZsHm7GCYxv1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [I'll Be Home](https://open.spotify.com/album/4wjIJBPsLBaBqaY0gDG8BX) | 3:39 | 2021-12-24 | 2022-07-29 |
 | [I'll Be Home](https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:39 | 2021-12-24 | 2022-10-26 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/3OfiRybgoMcTtEFKuvyx0r) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 3:27 | 2021-12-24 | 2022-07-29 |
-| [I'll Be Home For Christmas](https://open.spotify.com/track/5P5rUzjpgTkZeQbr0CVdsZ) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:27 | 2021-12-24 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/5P5rUzjpgTkZeQbr0CVdsZ) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:27 | 2021-12-24 | 2023-10-07 |
 | [It Was A… \(Masked Christmas\) \(feat\. Ariana Grande & Megan Thee Stallion\)](https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [It Was A… \(Masked Christmas\)](https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs) | 3:00 | 2021-12-24 | 2022-11-12 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 | 2021-12-24 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/5TN42y2ut6ATB0IDEEgQay) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/0umBSdiP8pZULTwvn7TNEU) | 2:59 | 2021-12-24 |  |

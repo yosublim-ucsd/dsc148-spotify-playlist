@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Faye Webster",
+  "description": "A new shade of Country. Cover: Flatland Cavalry",
   "name": "Indigo",
   "tracks": [
     {
@@ -766,6 +766,24 @@
       "duration_ms": 255440,
       "name": "Bells Of Every Chapel [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/2ckXdMhlCVl2bzWjAD0BqX"
+    },
+    {
+      "album": {
+        "name": "Beneath Oak Trees",
+        "url": "https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Beneath Oak Trees",
+      "url": "https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW"
     },
     {
       "album": {
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181642,
       "name": "Free and Clean - DBPC",
       "url": "https://open.spotify.com/track/40A0f4gSfEgUtIxdrngA9c"
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 171306,
       "name": "Home",
       "url": "https://open.spotify.com/track/2pEZB5Kspa0V28uIZUG46U"
@@ -6432,6 +6450,24 @@
       "duration_ms": 146531,
       "name": "Poster Child",
       "url": "https://open.spotify.com/track/5l2dSqEv2SRH2HrHI36b3S"
+    },
+    {
+      "album": {
+        "name": "Heat Comes Down",
+        "url": "https://open.spotify.com/album/6VcQbbneWsPFS89mH5QWqN"
+      },
+      "artists": [
+        {
+          "name": "John R. Miller",
+          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217653,
+      "name": "Press On",
+      "url": "https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs"
     },
     {
       "album": {

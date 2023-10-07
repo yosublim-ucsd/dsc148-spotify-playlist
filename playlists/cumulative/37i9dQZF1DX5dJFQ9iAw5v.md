@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-96 songs - 8 hr 2 min
+97 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Infinite Universe](https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN) | [Verónica Sala](https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP), [Santiago Deluca](https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ) | [Infinite Universe](https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ) | 4:40 | 2022-08-12 | 2023-04-07 |
 | [Juventud](https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [Manto de Carne](https://open.spotify.com/album/10ZoS4b1TByFyer9vaFGzH) | 5:14 | 2022-09-09 | 2022-09-11 |
 | [Kua Nalu](https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 7:16 | 2022-08-12 |  |
+| [La Novena](https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:45 | 2023-08-11 |  |
 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 | 2022-08-12 |  |
 | [Lago de Forma Mía \- En Vivo](https://open.spotify.com/track/6X93eJyebGn9Ij6QWqNeT9) | [Hernán Jacinto Trío](https://open.spotify.com/artist/3rEYWsUIZi9p21uqEwrOyq) | [Live At CCK \(En Vivo\)](https://open.spotify.com/album/0moewfR5pB4Z35cdT8MExB) | 8:02 | 2022-09-23 | 2022-11-19 |
 | [Last Happy Hour \(feat\. Martin Bejerano\)](https://open.spotify.com/track/4Vv73WKOQzQ9LxgpWyJ6nx) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:50 | 2022-08-12 |  |
@@ -94,7 +95,7 @@
 | [Tatami](https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Matías Méndez](https://open.spotify.com/artist/4Z4xMf2xHuZ6iXpw6Wkhxg), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [El Sapo Argentino de Boca Ancha](https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX) | 6:59 | 2022-08-12 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 | 2022-08-12 |  |
 | [Tico Tico No Fubà](https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:49 | 2022-08-12 |  |
-| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 |  |
+| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 | 2023-10-07 |
 | [Todavía Quedan Cosas \- Remastered 2022](https://open.spotify.com/track/3QSEcqzwzoidLP7Q9600RC) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Rosario \(Remastered 2022\)](https://open.spotify.com/album/5CeWD0ca25q5bzcBfdp8D7) | 5:18 | 2022-08-12 |  |
 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 | 2022-08-12 |  |
 | [Veinte Trajes Verdes](https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2) | [Roberto Pettinato](https://open.spotify.com/artist/1RhJ2fO0OeSKrLoYRGCrb5), [Andrés Marino](https://open.spotify.com/artist/0ZLoxnTo4vfJHdHBV93CnP), [Hernán Cassibba](https://open.spotify.com/artist/0Ot2klGEPr9a6SasU8SxP8), [Omar Menendez](https://open.spotify.com/artist/6UvK0mGX8XoVtbYUImxvKK) | [Pettinato Plays García](https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO) | 5:39 | 2022-08-12 |  |

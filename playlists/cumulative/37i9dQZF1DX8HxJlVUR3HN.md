@@ -2,7 +2,7 @@
 
 ### [VOLUME FRANCE](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : FFF
+> Les meilleures nouveautés de la scène rock française\. Photo : F.F.F.
 
 56 songs - 3 hr 23 min
 

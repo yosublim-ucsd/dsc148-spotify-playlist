@@ -1,12 +1,12 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
-  "num_followers": 148769,
+  "num_followers": 148790,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWEyM2E1NGM3NzBjZGUzM2JkMGUwNmEzNWIxOWYzMDVjNjBhYjI2",
+  "snapshot_id": "MCwxMWM4MmFmMTdjNjg4Y2UzMzU4YThiYzUxMWYzMmU0ODU2NWMyNjRi",
   "tracks": [
     {
       "added_at": "2023-09-29 21:35:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-09-29 21:35:53",
       "album": {
-        "name": "Sleep Through The Static",
-        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 274813,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
-    },
-    {
-      "added_at": "2023-09-29 21:35:53",
-      "album": {
         "name": "One Day Remains",
         "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
+    },
+    {
+      "added_at": "2023-09-29 21:35:53",
+      "album": {
+        "name": "Sleep Through The Static",
+        "url": "https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 274813,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK"
     },
     {
       "added_at": "2023-09-29 21:35:53",

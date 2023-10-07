@@ -4,7 +4,7 @@
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-50 songs - 3 hr 29 min
+51 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Neeyat](https://open.spotify.com/track/4jUnFiyug6wlf9I7lrHLbj) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Teen Patti](https://open.spotify.com/album/73yp3yX2sUyxA7V4uvxXHV) | 3:55 | 2023-07-04 |  |
 | [Old School Girl](https://open.spotify.com/track/1lpuzTi4BcTejXCPoX5iIs) | [Anmol Malik](https://open.spotify.com/artist/1NuyYLdcAzg9EmaLxMkKZE) | [Tanu Weds Manu Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/66GxOwfWVlbVRPwoi5dbhd) | 3:39 | 2023-07-04 |  |
 | [Pardesi](https://open.spotify.com/track/12cK3COq4z4MwaZyjc51zX) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Dev D](https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT) | 3:58 | 2023-07-04 |  |
+| [Pari Hoon Main \(Jazz Version\)](https://open.spotify.com/track/5GBG8qe6XDkw19QULbZWMK) | [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1), [Rajesh Johri](https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 1:41 | 2023-10-06 |  |
 | [Pyaar Ki Yeh Kahani](https://open.spotify.com/track/7cRyUMxmpNGbWG9xpDoPn5) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Gayatri Iyer](https://open.spotify.com/artist/6dgPKPKtpOXxPpMe8STn1N) | [Honeymoon Travels Pvt\. Ltd.](https://open.spotify.com/album/4OkX72Pbnh40SH9Rib11tD) | 5:28 | 2023-07-04 |  |
 | [Quaid \- From "Sergeant"](https://open.spotify.com/track/2XS3shLqt7e2UzI4pAsFiI) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Tushar Lall](https://open.spotify.com/artist/0mYyv7oJBTdZTZSDSkOLRr), [Anupam Sidhant](https://open.spotify.com/artist/6GigXGHMnDcWYxYjwZb2H6) | [Quaid \(From "Sergeant"\)](https://open.spotify.com/album/46DvUS0MM0nyRbmg4OmEg8) | 2:16 | 2023-07-04 |  |
 | [Rehna Tu](https://open.spotify.com/track/5RZbS87YI2wd87SWuO0YAX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 6:49 | 2023-07-04 |  |
@@ -51,7 +52,7 @@
 | [Taarefon Se](https://open.spotify.com/track/2uwZSBvQer73esf6tV1wQG) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Dear Zindagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29njH6pDF6JE65D2VJbAxW) | 4:38 | 2023-07-04 |  |
 | [Tu Bole .Main Boloon](https://open.spotify.com/track/73m0ROzv1B86iNvuo8rh8z) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jaane Tu..\. Ya Jaane Na](https://open.spotify.com/album/7J5iE51Mk97Mf0BjjwYXUZ) | 4:33 | 2023-07-04 |  |
 | [Tu Saamane Hai](https://open.spotify.com/track/1JZSGul5gS4mfn29YXcBql) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Parth Bharat Thakkar](https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5) | [Lakiro \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6POpCM7SN0TYVqPOLw7Me4) | 4:24 | 2023-07-04 |  |
-| [Tum Jo Mil Gaye Ho \(From "Carvaan Lounge \- Season 1"\)](https://open.spotify.com/track/7Ly3FqcM2e6KP5yGGwsxth) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Tum Jo Mil Gaye Ho \(From "Carvaan Lounge \- Season 1"\) \- Single](https://open.spotify.com/album/5uxP7FwleRiEVcRaZtOj9J) | 4:01 | 2023-07-04 |  |
+| [Tum Jo Mil Gaye Ho \(From "Carvaan Lounge \- Season 1"\)](https://open.spotify.com/track/7Ly3FqcM2e6KP5yGGwsxth) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Tum Jo Mil Gaye Ho \(From "Carvaan Lounge \- Season 1"\) \- Single](https://open.spotify.com/album/5uxP7FwleRiEVcRaZtOj9J) | 4:01 | 2023-07-04 | 2023-10-07 |
 | [Udi](https://open.spotify.com/track/3B5pWnmR739mZFh4eVdFla) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC) | [Guzaarish](https://open.spotify.com/album/5aNyDyemGpcaJGMuLvUife) | 3:21 | 2023-07-04 |  |
 | [Ye Tumhari Meri Baatein](https://open.spotify.com/track/1xaj4bm3GMthtoZHUfepl1) | [Dominique](https://open.spotify.com/artist/4iKhzZlW5dpmbF2LWnNlPr) | [Rock On](https://open.spotify.com/album/43Fh1hMumKDCcax2JOWEmR) | 5:24 | 2023-07-04 |  |
 | [Yeh Lamha](https://open.spotify.com/track/7FaM3dosWGKwhr4aPp6kWQ) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chameli](https://open.spotify.com/album/2KM6alMpwGJCiVnDNE6Z8C) | 4:08 | 2023-07-04 |  |

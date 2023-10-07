@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: Cash Cobain",
-  "num_followers": 1395583,
+  "num_followers": 1395565,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWFiZWQ3ZDdlZGI4ZGFjMDVjYzQ1NzBhZGQ3MGJmODRkODIwZjVl",
+  "snapshot_id": "MCw1M2Q1MDE3NzNiMjc2NDJhNTY2YzFkNjc0YzZiNmU3NGJkYmZlYWFk",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Special K",
+        "url": "https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "duration_ms": 147049,
+      "name": "Special K",
+      "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
+    },
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7"
     },
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Special K",
-        "url": "https://open.spotify.com/album/2D926NuFDl3yhbM10yhZQG"
+        "name": "Pretty Girls Love Slizzy",
+        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
       },
       "artists": [
         {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
         }
       ],
-      "duration_ms": 147049,
-      "name": "Special K",
-      "url": "https://open.spotify.com/track/20LjVwLgn8EaT2LvEoK0Nl"
+      "duration_ms": 176620,
+      "name": "Clocking U",
+      "url": "https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -109,6 +125,38 @@
       "url": "https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "You Is Not Havin",
+        "url": "https://open.spotify.com/album/6EoQ6gT2h72WsJQHn0lIEa"
+      },
+      "artists": [
+        {
+          "name": "Lil Kari",
+          "url": "https://open.spotify.com/artist/2QXvHlMnUVw9LKYlxuCRHd"
+        }
+      ],
+      "duration_ms": 132519,
+      "name": "You Is Not Havin",
+      "url": "https://open.spotify.com/track/4dUj9KBYC8ob9MGgTPaRTF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "1500 Shawty",
+        "url": "https://open.spotify.com/album/2l7bKq7tXeprSdqjnbGFUh"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "duration_ms": 124661,
+      "name": "1500 Shawty",
+      "url": "https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT"
+    },
+    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "Lil Pump 2 Deluxe",
@@ -123,6 +171,26 @@
       "duration_ms": 122880,
       "name": "Rick Rubin",
       "url": "https://open.spotify.com/track/5NOOxxawp4MU1remSX2eJQ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -177,24 +245,20 @@
       "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "BING BONG (Remix) [feat. Sexyy Red]",
-        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+        "name": "ICEY",
+        "url": "https://open.spotify.com/album/5507PerHYF9zo9yCFcdfv4"
       },
       "artists": [
         {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
         }
       ],
-      "duration_ms": 166956,
-      "name": "BING BONG (Remix) [feat. Sexyy Red]",
-      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+      "duration_ms": 131422,
+      "name": "ICEY",
+      "url": "https://open.spotify.com/track/05k4xJfpBqkLoO9FBl9XrE"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -213,22 +277,6 @@
       "url": "https://open.spotify.com/track/27z0n0bxgN8GGaWd32wVfw"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "GFU!",
-        "url": "https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 82048,
-      "name": "GFU!",
-      "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
-    },
-    {
       "added_at": "2023-09-01 04:00:00",
       "album": {
         "name": "Aft\u00ebrLyfe",
@@ -243,6 +291,22 @@
       "duration_ms": 211253,
       "name": "Nun id change",
       "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Truth or Rare",
+        "url": "https://open.spotify.com/album/2GMsbSuX1rQ5DsFuJyCqat"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "Lady Cop",
+      "url": "https://open.spotify.com/track/7IbucrVf4NXY4tADmFdZpm"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -277,20 +341,20 @@
       "url": "https://open.spotify.com/track/4sZJgYizP3YR9MkQ7SaRjX"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Truth or Rare",
-        "url": "https://open.spotify.com/album/2GMsbSuX1rQ5DsFuJyCqat"
+        "name": "Just In Time",
+        "url": "https://open.spotify.com/album/5gKEIPtqlPK7WWOEUdB6W9"
       },
       "artists": [
         {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
         }
       ],
-      "duration_ms": 167516,
-      "name": "Lady Cop",
-      "url": "https://open.spotify.com/track/7IbucrVf4NXY4tADmFdZpm"
+      "duration_ms": 134522,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -377,6 +441,26 @@
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
     },
     {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Karma (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/3aPhYdYEo8CWIiotS0Vilo"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 180764,
+      "name": "Karma (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/3kfDCacVarF4H8xKsFDGrq"
+    },
+    {
       "added_at": "2023-08-25 15:42:48",
       "album": {
         "name": "Rare Story Pt. 2",
@@ -411,22 +495,6 @@
       "duration_ms": 212266,
       "name": "OUT OF MY BODY",
       "url": "https://open.spotify.com/track/2rplRMLE3Ig1qtSb06LyOM"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Pretty Girls Love Slizzy",
-        "url": "https://open.spotify.com/album/7rQOwlPx5Ma7u6PVRrljVO"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 176620,
-      "name": "Clocking U",
-      "url": "https://open.spotify.com/track/4hNdFY5XiWlcdVY8zBoE8b"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -511,6 +579,22 @@
       "duration_ms": 137532,
       "name": "Tomioka (with Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "GFU!",
+        "url": "https://open.spotify.com/album/2CG9sQtUBAhvncyYrUAIGA"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 82048,
+      "name": "GFU!",
+      "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -927,26 +1011,6 @@
       "duration_ms": 173383,
       "name": "waiting alonE",
       "url": "https://open.spotify.com/track/4kZgxSySjVSLRpegVw8SsX"
-    },
-    {
-      "added_at": "2023-08-25 15:42:48",
-      "album": {
-        "name": "Rump (feat. Chow Lee)",
-        "url": "https://open.spotify.com/album/6UuDdz6UNlBFSxpOACU3mm"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        }
-      ],
-      "duration_ms": 169736,
-      "name": "Rump (feat. Chow Lee)",
-      "url": "https://open.spotify.com/track/33jK0OMIl7zNzj5R9niW3A"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1643,30 +1707,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "FIGURE IT OUT",
-        "url": "https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L"
-      },
-      "artists": [
-        {
-          "name": "Chandler",
-          "url": "https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx"
-        },
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        },
-        {
-          "name": "Stafford Beats",
-          "url": "https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr"
-        }
-      ],
-      "duration_ms": 150424,
-      "name": "FIGURE IT OUT",
-      "url": "https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "BAD SON",
         "url": "https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf"
       },
@@ -1719,26 +1759,6 @@
       "duration_ms": 152814,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/1OXBgL6v7PbBlsW04YTqHr"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Sad & Alone",
-        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
-      },
-      "artists": [
-        {
-          "name": "Zzz.",
-          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 165431,
-      "name": "Sad & Alone",
-      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
     },
     {
       "added_at": "2023-07-14 04:00:00",

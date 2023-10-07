@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212000,
       "name": "Desert Walk",
       "url": "https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY"
@@ -3570,6 +3570,32 @@
       "duration_ms": 305840,
       "name": "Georgians",
       "url": "https://open.spotify.com/track/6XOcs06duhRLTz6wBBS6M2"
+    },
+    {
+      "album": {
+        "name": "ghost (feat. HUMAN) [Alex Wann Remix]",
+        "url": "https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        },
+        {
+          "name": "HUMAN",
+          "url": "https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232131,
+      "name": "ghost (feat. HUMAN) - Alex Wann Remix",
+      "url": "https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM"
     },
     {
       "album": {
@@ -6155,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "NA NA NA",
+        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
+      },
+      "artists": [
+        {
+          "name": "WAALAAXXX",
+          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430819,
+      "name": "NA NA NA",
+      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
+    },
+    {
+      "album": {
         "name": "Nabia",
         "url": "https://open.spotify.com/album/47AuV8Pbbz8XYMddhvIU1n"
       },
@@ -7224,7 +7268,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 219212,
       "name": "Pilgrim",
       "url": "https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG"

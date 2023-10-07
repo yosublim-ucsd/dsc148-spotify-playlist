@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Pase lo Que Pase",
-        "url": "https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Isla Disco",
         "url": "https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 181280,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Cool Down (Ice Cream Donut)",
+        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 222990,
+      "name": "Cool Down (Ice Cream Donut)",
+      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
+      },
+      "artists": [
+        {
+          "name": "La Dame Blanche",
+          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+        }
+      ],
+      "duration_ms": 152639,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Cool Down (Ice Cream Donut)",
-        "url": "https://open.spotify.com/album/4qoS5Sayi1rJByfNv3S8te"
-      },
-      "artists": [
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 222990,
-      "name": "Cool Down (Ice Cream Donut)",
-      "url": "https://open.spotify.com/track/5pEzjDbX4jBfv3UUtVVYTp"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -319,18 +319,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/6yuzeH4O1nI1Uzi5MQ2JPp"
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
       "artists": [
         {
-          "name": "La Dame Blanche",
-          "url": "https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG"
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 152639,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/09qD1snE7hw2IWYCf8BNph"
+      "duration_ms": 188520,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -371,26 +375,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "El Juidero",
         "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 299533,
       "name": "Bajito a selva",
       "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "0000+0000",
+        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
+      },
+      "artists": [
+        {
+          "name": "\u00ccF\u00c9",
+          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
+        }
+      ],
+      "duration_ms": 250846,
+      "name": "Heart Full of Love",
+      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -459,18 +459,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "0000+0000",
-        "url": "https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp"
+        "name": "Cr\u00f3nico",
+        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
       },
       "artists": [
         {
-          "name": "\u00ccF\u00c9",
-          "url": "https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF"
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 250846,
-      "name": "Heart Full of Love",
-      "url": "https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0"
+      "duration_ms": 181874,
+      "name": "Cr\u00f3nico",
+      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Cr\u00f3nico",
-        "url": "https://open.spotify.com/album/0TO7obZfq3fJWuorgrTUae"
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
       "artists": [
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Cr\u00f3nico",
-      "url": "https://open.spotify.com/track/5lYzXlMGYuo6KEb9EZueVA"
+      "duration_ms": 258013,
+      "name": "Yo S\u00e9 Que T\u00fa Me Conoces",
+      "url": "https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+        "name": "Te Crees T\u00fa",
+        "url": "https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
         }
       ],
-      "duration_ms": 258013,
-      "name": "Yo S\u00e9 Que T\u00fa Me Conoces",
-      "url": "https://open.spotify.com/track/3H2VzqCdBQCJ5I0Zd8iUlp"
+      "duration_ms": 212443,
+      "name": "Te Crees T\u00fa",
+      "url": "https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -555,22 +555,6 @@
       "duration_ms": 171807,
       "name": "NTE",
       "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "Te Crees T\u00fa",
-        "url": "https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd"
-      },
-      "artists": [
-        {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        }
-      ],
-      "duration_ms": 212443,
-      "name": "Te Crees T\u00fa",
-      "url": "https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "Agua que Lleg\u00f3",
+        "url": "https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV"
+      },
+      "artists": [
+        {
+          "name": "La Marimba",
+          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
+        }
+      ],
+      "duration_ms": 241850,
+      "name": "Agua que Lleg\u00f3",
+      "url": "https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "No Es Importante",
         "url": "https://open.spotify.com/album/3oKNrRZlkCeSqYaCjGNaLe"
       },
@@ -643,18 +643,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Agua que Lleg\u00f3",
-        "url": "https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV"
+        "name": "Nice & Easy",
+        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
       },
       "artists": [
         {
-          "name": "La Marimba",
-          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        },
+        {
+          "name": "Gomba Jahbari",
+          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
         }
       ],
-      "duration_ms": 241850,
-      "name": "Agua que Lleg\u00f3",
-      "url": "https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi"
+      "duration_ms": 216590,
+      "name": "Nice & Easy",
+      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -695,22 +699,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Mandinga Times",
-        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/5O5uV0ywfQ4Hl1LVyHdJp7"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "Prisma Tropical",
         "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
       },
@@ -727,22 +715,34 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Nice & Easy",
-        "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
+        "name": "No Se Puede Apagar",
+        "url": "https://open.spotify.com/album/43TL4TcOE1GvuBchmIp70C"
       },
       "artists": [
         {
-          "name": "International Dub Ambassadors",
-          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
-        },
-        {
-          "name": "Gomba Jahbari",
-          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
+          "name": "La Marimba",
+          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
         }
       ],
-      "duration_ms": 216590,
-      "name": "Nice & Easy",
-      "url": "https://open.spotify.com/track/7G01Y33GZ4IA2BJMoGtWTt"
+      "duration_ms": 226500,
+      "name": "No Se Puede Apagar",
+      "url": "https://open.spotify.com/track/6efFBz9FKFwz4Ma1bL4igt"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Mandinga Times",
+        "url": "https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/5O5uV0ywfQ4Hl1LVyHdJp7"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -779,22 +779,6 @@
       "duration_ms": 264760,
       "name": "Si T\u00fa Quieres M\u00e1s",
       "url": "https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
-        "name": "No Se Puede Apagar",
-        "url": "https://open.spotify.com/album/43TL4TcOE1GvuBchmIp70C"
-      },
-      "artists": [
-        {
-          "name": "La Marimba",
-          "url": "https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "No Se Puede Apagar",
-      "url": "https://open.spotify.com/track/6efFBz9FKFwz4Ma1bL4igt"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -867,6 +851,22 @@
       "duration_ms": 257497,
       "name": "Fake Blood",
       "url": "https://open.spotify.com/track/6Yww6YfgWVZiLE4oP7NS3Y"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
+        "name": "Dub Ambassador",
+        "url": "https://open.spotify.com/album/7BbBRWou2A0N8bcqG61FVh"
+      },
+      "artists": [
+        {
+          "name": "International Dub Ambassadors",
+          "url": "https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Sweet Reggae Music",
+      "url": "https://open.spotify.com/track/0osXzU5Ao7oLwL5l7B2o0y"
     }
   ],
   "unique_name": "Caribe At\u00f3mico",

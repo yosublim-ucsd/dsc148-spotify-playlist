@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=mZ8ikRBSTVSQSEDaw\_NeXA">Marno van der Merwe</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=pk0hGHdJQMKTKVFyaPULLA">Karlien Van Jaarsveld</a>
 
 174 songs - 9 hr 44 min
 

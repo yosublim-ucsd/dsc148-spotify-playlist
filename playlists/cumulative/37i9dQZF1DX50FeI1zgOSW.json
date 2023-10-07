@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 169999,
       "name": "i Aval",
       "url": "https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 198545,
       "name": "Kaadhal Kolluthe",
       "url": "https://open.spotify.com/track/2eB6gQjZdls4ZGckkf20Gw"
@@ -2460,10 +2460,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 254708,
       "name": "Puzhudhi | Coke Studio Tamil",
       "url": "https://open.spotify.com/track/4ZoDl4LLSQfAnXkdO6OlXC"
+    },
+    {
+      "album": {
+        "name": "Raasa",
+        "url": "https://open.spotify.com/album/3EZM5E5QJRagk2uI3Drnfh"
+      },
+      "artists": [
+        {
+          "name": "Keerthana Kunalan",
+          "url": "https://open.spotify.com/artist/7vpsJyzheyIsSDtsjJzxUe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255333,
+      "name": "Raasa",
+      "url": "https://open.spotify.com/track/44RNmePDzDzuyEMkuZ1OKe"
     },
     {
       "album": {
@@ -2598,6 +2616,24 @@
       "duration_ms": 223992,
       "name": "Sernthom Pirinthom",
       "url": "https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS"
+    },
+    {
+      "album": {
+        "name": "Shoe Theriyudha",
+        "url": "https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk"
+      },
+      "artists": [
+        {
+          "name": "Sumesh Kumar",
+          "url": "https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Shoe Theriyudha",
+      "url": "https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm"
     },
     {
       "album": {
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 153333,
       "name": "Tiku Tiku",
       "url": "https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS"

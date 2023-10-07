@@ -5899,6 +5899,24 @@
     },
     {
       "album": {
+        "name": "Point of Hue",
+        "url": "https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368145,
+      "name": "POH (Point of Hue)",
+      "url": "https://open.spotify.com/track/3A4Ond3OwEGCIp7TYarWbv"
+    },
+    {
+      "album": {
         "name": "porchless",
         "url": "https://open.spotify.com/album/2iYFrs9Qg4A7KiWopSOJyO"
       },

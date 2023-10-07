@@ -24278,7 +24278,7 @@
     {
       "album": {
         "name": "Weird Punx",
-        "url": "https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L"
+        "url": "https://open.spotify.com/album/0BJ3CYCD7CIJyzVUNT8b54"
       },
       "artists": [
         {
@@ -24289,6 +24289,24 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154582,
+      "name": "Weird Punx",
+      "url": "https://open.spotify.com/track/0UsB58cZuu6C8x53SGdXId"
+    },
+    {
+      "album": {
+        "name": "Weird Punx",
+        "url": "https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
       "duration_ms": 154582,
       "name": "Weird Punx",
       "url": "https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz"

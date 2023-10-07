@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 124116,
+  "num_followers": 124127,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFhNWU3YmE5MTM2YjNhNWRjNDZiNTRhMjJiNGE1MTlkNzU3Y2Iy",
+  "snapshot_id": "MCw4MDNkMDFmNjE2YWU4NzdmOTRlZThlM2NhMTY1MGFmZTNmNzNmNjMx",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Mexican Superstar",
+        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Mexican Superstar",
+      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mirla",
         "url": "https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mexican Superstar",
-        "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Mexican Superstar",
-      "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -459,22 +475,6 @@
       "duration_ms": 303197,
       "name": "Koro Kemboro",
       "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
@@ -571,34 +587,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+        "name": "Mas Amable",
+        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
-    },
-    {
-      "added_at": "2022-12-21 17:17:38",
-      "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
+      "duration_ms": 271573,
+      "name": "Descanse",
+      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -629,20 +629,20 @@
       "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
+      "added_at": "2022-12-21 17:17:38",
       "album": {
-        "name": "Mas Amable",
-        "url": "https://open.spotify.com/album/2WpHf0NARcxAamPoMSgCvM"
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
       },
       "artists": [
         {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Descanse",
-      "url": "https://open.spotify.com/track/5sWwuI8g0WyZI3tddeU6WO"
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
     },
     {
       "added_at": "2022-12-21 17:17:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "I Can't Find",
-        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
-      },
-      "artists": [
-        {
-          "name": "The Mechanic",
-          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "I Can't Find",
-      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mala Hierba",
         "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215111,
       "name": "Mala Hierba",
       "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "I Can't Find",
+        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
+      },
+      "artists": [
+        {
+          "name": "The Mechanic",
+          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Can't Find",
+      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "La Nueva Mortalidad (Remaster 2021)",
-        "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
+        "name": "Club Jams, Vol. 2",
+        "url": "https://open.spotify.com/album/4SyZdMiBglZDnJ5go3lBod"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Sonido Berzerk",
+          "url": "https://open.spotify.com/artist/50nztpMMHYN1XE9RiuvQts"
         }
       ],
-      "duration_ms": 351157,
-      "name": "La Nueva Mortalidad",
-      "url": "https://open.spotify.com/track/0Mrl7x8w70d4eTm5aaFDMW"
+      "duration_ms": 135211,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/2CPkF7Q5xNTeMKA9Sxmkbh"
     },
     {
       "added_at": "2022-08-18 23:29:09",

@@ -7645,6 +7645,24 @@
     },
     {
       "album": {
+        "name": "Madoromi",
+        "url": "https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263654,
+      "name": "Madoromi",
+      "url": "https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d"
+    },
+    {
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/6r8hh6x975jAzS4Mi3OD3u"
       },
@@ -11726,6 +11744,24 @@
       "duration_ms": 205300,
       "name": "Sherbet",
       "url": "https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz"
+    },
+    {
+      "album": {
+        "name": "Shiawase no Mawarimichi",
+        "url": "https://open.spotify.com/album/0K0nIz0V6KZbfq3uM66yiW"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "Shiawase no Mawarimichi",
+      "url": "https://open.spotify.com/track/20riqOrK0iWFV2mpjbcbDr"
     },
     {
       "album": {
@@ -16648,7 +16684,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 263654,
       "name": "\u307e\u3069\u308d\u307f",
       "url": "https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX"
@@ -18608,7 +18644,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"

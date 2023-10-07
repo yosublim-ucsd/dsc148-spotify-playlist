@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-404 songs - 22 hr 44 min
+405 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-28 |  |
 | [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2023-04-30 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-12 |  |
+| [Live It Up \(High Tide\)](https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Live It Up \(High Tide\)](https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3) | 2:34 | 2023-10-06 |  |
 | [Long Way Home](https://open.spotify.com/track/23VdpjPPUgWscU45SAZFIM) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Long Way Home](https://open.spotify.com/album/2wTI2Oc4lMH7NEPeAx6mRo) | 3:21 | 2020-11-13 | 2022-03-17 |
 | [Lost & Alive](https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Moorea Masa & the Mood](https://open.spotify.com/artist/4Hs0J7IFJzXGJLhnytbCfR) | [Lost & Alive](https://open.spotify.com/album/6DKdIrezZM0dA2zC8KrAPP) | 3:01 | 2022-01-28 | 2022-11-13 |
 | [Lost a Little](https://open.spotify.com/track/41sV7uznvg52Cp9MDI9sqa) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [Lost a Little](https://open.spotify.com/album/4Yps6djInQAR3P50zsncHA) | 3:32 | 2020-11-13 | 2022-03-26 |
@@ -275,7 +276,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2022-07-28 |
 | [Preach](https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW) | 3:28 | 2022-04-29 | 2022-11-20 |
 | [Preach](https://open.spotify.com/track/6FaTiIqd2hAKtEZfrsaVuz) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/3yAkHqTGPYTUIsNvNoEsvI) | 3:28 | 2022-04-29 | 2023-01-30 |
-| [Preach](https://open.spotify.com/track/0yx0mGjfdB9ZpEJ3FI8oTu) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:29 | 2022-04-29 |  |
+| [Preach](https://open.spotify.com/track/0yx0mGjfdB9ZpEJ3FI8oTu) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:29 | 2022-04-29 | 2023-10-07 |
 | [Princess Pouty](https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Princess Pouty](https://open.spotify.com/album/30OuMUBR1zRI4cdHDhNo1z) | 3:42 | 2021-04-30 | 2022-04-21 |
 | [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 |  |
 | [Raincheck](https://open.spotify.com/track/4uLayl2QxBKcnNE9A34rev) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 3:06 | 2020-11-13 | 2022-03-26 |

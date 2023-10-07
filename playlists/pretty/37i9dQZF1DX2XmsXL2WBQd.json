@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 374000,
+  "num_followers": 374102,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "Loc-ed After Dark",
-        "url": "https://open.spotify.com/album/6xE6A0Vwd2LmopR6Mn8UFG"
-      },
-      "artists": [
-        {
-          "name": "Tone-Loc",
-          "url": "https://open.spotify.com/artist/5Y8EphH8Vdqu5SLj6K5vjj"
-        }
-      ],
-      "duration_ms": 263573,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
         "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
       },
@@ -139,18 +123,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+        "name": "Loc-ed After Dark",
+        "url": "https://open.spotify.com/album/6xE6A0Vwd2LmopR6Mn8UFG"
       },
       "artists": [
         {
-          "name": "Slick Rick",
-          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+          "name": "Tone-Loc",
+          "url": "https://open.spotify.com/artist/5Y8EphH8Vdqu5SLj6K5vjj"
         }
       ],
-      "duration_ms": 242040,
-      "name": "Children's Story",
-      "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
+      "duration_ms": 263573,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -167,6 +151,22 @@
       "duration_ms": 238266,
       "name": "Just a Friend",
       "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Children's Story",
+      "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Sugar Hill Records Story",
-        "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
       "artists": [
         {
-          "name": "Funky 4 + 1",
-          "url": "https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C"
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
         }
       ],
-      "duration_ms": 562066,
-      "name": "That's the Joint",
-      "url": "https://open.spotify.com/track/1sby5Tqlj9BjJKBl27e7Ie"
+      "duration_ms": 326920,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
+        "name": "The Sugar Hill Records Story",
+        "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
       },
       "artists": [
         {
-          "name": "Mantronix",
-          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+          "name": "Funky 4 + 1",
+          "url": "https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C"
         }
       ],
-      "duration_ms": 326920,
-      "name": "Bassline",
-      "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+      "duration_ms": 562066,
+      "name": "That's the Joint",
+      "url": "https://open.spotify.com/track/1sby5Tqlj9BjJKBl27e7Ie"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

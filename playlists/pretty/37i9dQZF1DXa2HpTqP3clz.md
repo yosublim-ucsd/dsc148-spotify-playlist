@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,106 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,148 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 66 | [Wildflowers](https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr) | [Mikele Buck Band](https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN) | [Wildflowers](https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX) | 3:43 |
 | 67 | [I Could Get Used to This](https://open.spotify.com/track/4b1DeHoA9huGEvRofgk6ih) | [Tim Raybon Band](https://open.spotify.com/artist/5uvZdQTX9FuYQu0shFfGm3) | [I Could Get Used to This](https://open.spotify.com/album/6BZugxwnCajSLG9uPbIwjW) | 2:47 |
 | 68 | [Stress Dreams](https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW) | 8:01 |
-| 69 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
-| 70 | [Homemade Wine](https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde) | 3:11 |
-| 71 | [Honky Tonk Nights](https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Almost Proud](https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP) | 2:32 |
+| 69 | [Homemade Wine](https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [In The Ground](https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde) | 3:11 |
+| 70 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
+| 71 | [Super Moon](https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:19 |
 | 72 | [Don't Make Me Get up and Go](https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Ink, Dust & Luck](https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA) | 3:10 |
-| 73 | [Super Moon](https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 2:19 |
+| 73 | [Honky Tonk Nights](https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Almost Proud](https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP) | 2:32 |
 | 74 | [Sweet Spot](https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Sweet Spot](https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV) | 4:23 |
 | 75 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 |
 | 76 | [A Distant Land to Roam](https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM) | [Mighty Poplar](https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD), [Andrew Marlin](https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL), [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW), [Alex Hargreaves](https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P), [Greg Garrison](https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ) | [Grey Eagle / A Distant Land to Roam](https://open.spotify.com/album/0WVGCRxGwBwBWk6Jjrpa85) | 2:33 |
-| 77 | [Blue Railroad Train](https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Blue Railroad Train](https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm) | 3:08 |
-| 78 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
+| 77 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 |
+| 78 | [Blue Railroad Train](https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Blue Railroad Train](https://open.spotify.com/album/30ccEntmZBvjhe7KuuP0vm) | 3:08 |
 | 79 | [Orphan Annie](https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 5:00 |
 | 80 | [Last Chance](https://open.spotify.com/track/21TryieQX3eY96LemAyX28) | [Trout Steak Revival](https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd) | [Spirit to the Sea](https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC) | 3:59 |
 | 81 | [The More I Learn](https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm) | [The More I Learn](https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 |
 | 100 | [The Whole of the Moon](https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [The Whole of the Moon](https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC) | 4:42 |
 
-Snapshot ID: `MCxlNWRlNzY3MDAwYmRlMDU1MDFjYWYyMmZkNzQ1ZmY5NDUzOTAyNDQy`
+Snapshot ID: `MCwyY2YyNWRkZTY3OWI3ZTY0ZjlhMzViYjMwNWIwNGM4MzIxNmExNjM4`

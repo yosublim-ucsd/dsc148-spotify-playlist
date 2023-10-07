@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover:  Shye \(Singapore\)
 
-1,005 songs - 2 day 12 hr 7 min
+1,006 songs - 2 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-23 | 2023-03-18 |
 | [Get Up](https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Get Up](https://open.spotify.com/album/002rBz3Sdq0ES9zNCFg76j) | 3:32 | 2023-03-02 | 2023-05-19 |
 | [ghost everyday](https://open.spotify.com/track/0oHlUYSlYtaYDT3JihDBdp) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF), [Mellow Blush](https://open.spotify.com/artist/41kB8xHvAQWKVmmP201cU7) | [ghost everyday](https://open.spotify.com/album/5F7ub9vl3S0SvfpxALwMjQ) | 3:05 | 2022-10-28 | 2022-12-16 |
-| [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-10 | 2023-10-05 |
+| [ghosts](https://open.spotify.com/track/0PQ4VI53cK9ZeKluejZmoC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [ghosts](https://open.spotify.com/album/4q37Z0rAJjMmxHf3ORQHb8) | 3:40 | 2023-08-10 |  |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-04-28 | 2022-06-10 |
 | [Giá Như](https://open.spotify.com/track/4LAhAPG2urDP2j00BlI878) | [Quờ](https://open.spotify.com/artist/0SHFKeut4NctFFYAnzDfoq), [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Giá Như](https://open.spotify.com/album/3rauH3HdGAdw0on4FKo9rD) | 3:13 | 2022-08-18 | 2022-10-14 |
 | [Giấc Mơ](https://open.spotify.com/track/4DgmIQldBtmOMAayyxc7wi) | [Những Đứa Trẻ](https://open.spotify.com/artist/3UjpgK0RqZLxsJqa4akrNn) | [Giấc Mơ](https://open.spotify.com/album/4VW4KftA5xxknjIV6PVzch) | 5:23 | 2022-05-19 | 2022-07-01 |
@@ -348,7 +348,7 @@
 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 | 2023-05-04 | 2023-06-30 |
 | [Hey Molly](https://open.spotify.com/track/54IE9zQKLBvlwCWEN6AThL) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [Hey Molly](https://open.spotify.com/album/0x4OQypKeySPVnldwJHS6u) | 2:32 | 2023-01-19 | 2023-03-10 |
 | [Hey Nina](https://open.spotify.com/track/0TjGz2TBgKmmoBXs48qy3b) | [Haliya](https://open.spotify.com/artist/3mElqeVM0OocytLEYXJpYh) | [Hey Nina](https://open.spotify.com/album/47E2z4EcJRLDrHRP49EjVv) | 3:43 | 2023-03-09 | 2023-04-21 |
-| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-16 |  |
+| [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-16 | 2023-10-07 |
 | [History Of You](https://open.spotify.com/track/54wlNjIXeQKDk3DFF5C7BU) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [History Of You](https://open.spotify.com/album/1W4RW7pGOSln4nypumplni) | 4:08 | 2023-09-15 | 2023-09-22 |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-03-24 | 2022-04-08 |
 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 | 2022-08-18 | 2022-08-26 |
@@ -504,6 +504,7 @@
 | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/track/7AKwZD4xfKyTlsn890SopS) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [Lucifer \(with ZOMBIE\-CHANG\)](https://open.spotify.com/album/6ySfq9uaapwG22pGbb8BHP) | 3:33 | 2023-02-02 | 2023-03-18 |
 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 | 2023-08-03 | 2023-09-16 |
 | [Lurch](https://open.spotify.com/track/23UHhRbTmYijznf3RTbO9O) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Lurch](https://open.spotify.com/album/3hmBRBfr7oQeDH1WjVs0uG) | 4:39 | 2023-03-16 | 2023-04-21 |
+| [Madoromi](https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Madoromi](https://open.spotify.com/album/0Gw3Ag34k3rrQKQE7onPfB) | 4:23 | 2023-10-05 |  |
 | [MAIA](https://open.spotify.com/track/2arPLMtslp1KsYUO3h02Pw) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [\(\(\( 4 \)\)\)](https://open.spotify.com/album/1vuo6cSdhF9bO9sqzkSgQN) | 2:00 | 2023-08-31 | 2023-09-16 |
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-03-16 | 2023-04-21 |
 | [Make Me Fallin in Love Again](https://open.spotify.com/track/3lvqBeQk3VNH1mtGbiUrBm) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [A Tiny Bit of Gold In The Dark Ocean](https://open.spotify.com/album/2ye0rT388zwLfuvv4RdRM0) | 4:08 | 2022-09-22 | 2022-11-18 |
@@ -951,7 +952,7 @@
 | [いちごミルク](https://open.spotify.com/track/7Inby7iP2ikZhnfeISXFZO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [いちごミルク](https://open.spotify.com/album/6FLvaoPDHbhvl3bYfLpLa5) | 2:37 | 2023-04-13 | 2023-07-28 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-07-14 | 2023-07-28 |
 | [こんにちは](https://open.spotify.com/track/46ffXVe06tGBKlfwWRig2z) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [Impossible Isle](https://open.spotify.com/album/02USyfjHAF5ISwxoM1uCgZ) | 2:52 | 2022-08-11 | 2022-09-23 |
-| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 |  |
+| [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-12 | 2023-01-20 |
 | [らぶちぇん](https://open.spotify.com/track/2ukxLlNK4BjFnnVMSkhGN0) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [らぶちぇん](https://open.spotify.com/album/1bjqIDOvT3CUHkm6g4HdsE) | 3:31 | 2023-09-15 | 2023-09-22 |
 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Ayano Kaneko](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 | 2022-04-14 | 2022-04-29 |

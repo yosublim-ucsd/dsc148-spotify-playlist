@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: English Teacher
 
-1,789 songs - 4 day 10 hr 28 min
+1,790 songs - 4 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,7 +763,7 @@
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-27 | 2023-10-06 |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-27 | 2023-08-11 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-04-23 | 2021-07-15 |
-| [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Version\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 | 2023-10-06 |  |
+| [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 | 2023-10-06 |  |
 | [I Want A Love Like This](https://open.spotify.com/track/5Fpn28eEVPqWLiwQmGmWpz) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [I Want A Love Like This](https://open.spotify.com/album/1eq2IYUBMX1mincEtLL06J) | 3:27 | 2022-03-31 | 2022-05-20 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-12 | 2021-12-10 |
 | [I Want You \(To Be My Woman\) \[feat\. DOPE LEMON\]](https://open.spotify.com/track/68JBzSwTObjU1LXGZQpzm2) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Panna Cotta](https://open.spotify.com/album/28Ymo5sEs0gwOoZYdaLkNY) | 4:01 | 2022-11-11 | 2023-05-19 |
@@ -819,7 +819,8 @@
 | [It Holds And It Holds](https://open.spotify.com/track/5M7iggZ96oQFV6SVorUcFn) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [It Holds And It Holds](https://open.spotify.com/album/7jcyaVtnsr2xNUx8CDzTWq) | 3:40 | 2023-02-24 | 2023-03-18 |
 | [It Might Take A Woman](https://open.spotify.com/track/1kVyVPvuaQsuiuCE7YF2Ek) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/0X5Kci2c2u1wctZJ06K9mn) | 3:10 | 2020-10-23 | 2022-03-09 |
 | [It Took A Lot To Get To This](https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 3:05 | 2022-06-09 | 2022-09-02 |
-| [It Wasn't Love](https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:11 | 2023-10-06 |  |
+| [It Wasn't Love](https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:11 | 2023-10-06 | 2023-10-07 |
+| [It Wasn't Love](https://open.spotify.com/track/6ciSRA9AM7DfcxMfZETZdz) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/6YKimEru6vgGigbZfOPsI5) | 3:11 | 2023-10-06 |  |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-14 | 2022-03-11 |
 | [It's good to be back](https://open.spotify.com/track/7DVJtbrOizACre54dibkXE) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [It's good to be back](https://open.spotify.com/album/3CNCq8Hdu9TSI57jj6mYgJ) | 3:53 | 2021-10-29 | 2022-02-04 |
 | [It's Not Doing Me Any Good](https://open.spotify.com/track/2o2xIJCMSbZI0JViuUY9QX) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [It's Not Doing Me Any Good](https://open.spotify.com/album/6aWIkalBlrpb0gGk1KzHxL) | 3:13 | 2023-09-08 | 2023-09-29 |

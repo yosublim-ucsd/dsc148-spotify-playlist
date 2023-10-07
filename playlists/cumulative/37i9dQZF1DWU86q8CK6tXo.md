@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:5GGJosGMs08YEmKTZJe1fL”>Suki Waterhouse</a>
 
-1,140 songs - 2 day 12 hr 57 min
+1,141 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-06-07 | 2023-07-06 |
 | [Festive Day](https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:51 | 2023-09-06 | 2023-10-05 |
 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 | 2023-08-02 | 2023-09-07 |
-| [FFIL](https://open.spotify.com/track/0nAKtgvoYMoncLINOswmZ2) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [FFIL](https://open.spotify.com/album/1eJc0iFAsBBaX84prTlz8B) | 2:39 | 2023-10-04 |  |
+| [FFIL](https://open.spotify.com/track/0nAKtgvoYMoncLINOswmZ2) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [FFIL](https://open.spotify.com/album/1eJc0iFAsBBaX84prTlz8B) | 2:39 | 2023-10-04 | 2023-10-07 |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-03 | 2023-06-08 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-01-04 | 2023-02-02 |
 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 | 2022-09-12 | 2022-10-06 |
@@ -393,6 +393,7 @@
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2023-01-04 | 2023-02-02 |
 | [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-07-06 | 2022-07-29 |
 | [girls \(feat\. phem\)](https://open.spotify.com/track/2zIxK13yUttVriKeFu4cE9) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [searching for nirvana](https://open.spotify.com/album/1M1PKj1f22TovEZmC6yKel) | 2:06 | 2021-12-01 | 2022-01-06 |
+| [GIRLS GIRLS GIRLS](https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/1ZHkFJ13emPD3qYZVOGMqx) | 2:57 | 2023-10-06 |  |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-10-07 | 2022-11-03 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-11-02 | 2023-01-05 |
 | [Give Her That](https://open.spotify.com/track/6Shb0psixdhEjdlDkyexeu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Give Her That](https://open.spotify.com/album/4JRl2IAzcpYlvjX6DnD4wb) | 3:21 | 2023-09-06 | 2023-10-05 |

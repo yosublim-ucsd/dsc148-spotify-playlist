@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-946 songs - 2 day 11 hr 45 min
+948 songs - 2 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Nascent Sacrifice](https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Nascent Sacrifice](https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6) | 3:12 | 2023-04-20 | 2023-07-12 |
 | [Natsuyume noisy](https://open.spotify.com/track/1i4VjLtf3rtqF1eBPPJe92) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Natsuyume noisy](https://open.spotify.com/album/2JzBHYayYFeqaG1WntbNXk) | 4:16 | 2022-08-16 | 2022-10-19 |
 | [Natsuyume noisy \- TVSize](https://open.spotify.com/track/2lsWz3ZllOTzVKRnuyguAG) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Natsuyume noisy \(TVSize\)](https://open.spotify.com/album/0zPfUlKgvMxhyW7UNF8XH2) | 1:36 | 2022-07-28 | 2022-08-03 |
+| [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2023-10-05 |  |
 | [Never Fear](https://open.spotify.com/track/1WXGIXUZJjvA0hW7fNgLks) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/7Am4DaBuhF6LVo4II4Y43N) | 3:49 | 2023-01-10 | 2023-01-12 |
 | [Never Fear](https://open.spotify.com/track/6Wc3ht8CQwssQHH8RiJ9N3) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Never Fear](https://open.spotify.com/album/4r5HxFiF4zT8gLn5dpWIgT) | 3:49 | 2023-01-10 | 2023-02-18 |
 | [Never Fear](https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 3:49 | 2023-02-16 | 2023-04-09 |
@@ -563,6 +564,7 @@
 | [yurukuru\*love\(TV Size\)](https://open.spotify.com/track/4LdGwBH4qfF6vidBc7l5Ha) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [yurukuru\*love\(TV Size\)](https://open.spotify.com/album/7cguqibLdZHDG6lPW1vs94) | 1:33 | 2023-01-12 | 2023-01-18 |
 | [Z.E.R.O.](https://open.spotify.com/track/72q1f85sG2GZRo3i9GdkOg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Z.E.R.O.](https://open.spotify.com/album/1Oz6fVlYIPMO4VKT8UmPPx) | 4:05 | 2022-09-29 | 2023-01-06 |
 | [ZERO](https://open.spotify.com/track/1kAXDCUimESViN8p0UpjSP) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [ZERO](https://open.spotify.com/album/4XBfIIqZabQ23EkPq9dniS) | 3:34 | 2022-10-11 | 2023-01-06 |
+| [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-05 |  |
 | [℃](https://open.spotify.com/track/0Ak4R2wHWIv49cCKBeHZi0) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [℃](https://open.spotify.com/album/5mZkRx5kPB0Ude08mHnrxR) | 3:34 | 2023-01-05 | 2023-04-02 |
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 | 2022-08-05 |
 | [あかね組活動日誌 \~戌班\~](https://open.spotify.com/track/3Qa8YxZnfvB5fOAXeMxRsH) | [ツバキ\(CV.夏吉ゆうこ\)](https://open.spotify.com/artist/7tOxPicOurwzotqSOOyJ3e), [サザンカ\(CV.根本京里\)](https://open.spotify.com/artist/05ofTrdMQI3YIRgSMRTcYR), [アサガオ\(CV.鈴代紗弓\)](https://open.spotify.com/artist/4fs0KnSXQVtyQI9Wk8CNLp) | [くノ一ツバキの胸の内 あかね組音楽集](https://open.spotify.com/album/5CqMoquYlIMeLagF72UxLW) | 1:31 | 2023-01-19 | 2023-01-25 |
@@ -890,7 +892,7 @@
 | [白と黒](https://open.spotify.com/track/0HeyOMO01z3r0zJoCUquq3) | [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM), [ヒプノシスマイク \-D.R.B\- \(入間銃兎\)](https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o) | [The Block Party \-HOODs\-](https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z) | 3:43 | 2023-08-22 | 2023-09-27 |
 | [真夜中のラブ](https://open.spotify.com/track/2IPoCAPMf4v47mRM4d0kNS) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [真夜中のラブ](https://open.spotify.com/album/7EFeya32KPx1BTMMPwxdjl) | 3:23 | 2022-09-20 | 2022-09-22 |
 | [真祖にして無敵のドラルク様](https://open.spotify.com/track/0ZCEXwZIKgoy5vs1w8mgcS) | [ドラルク\(CV:福山 潤\)](https://open.spotify.com/artist/0snE8deysjN9XkroJFqvFO) | [真祖にして無敵のドラルク様](https://open.spotify.com/album/3GiQ3U0BReXbBKotjYIJvA) | 3:09 | 2022-12-13 | 2022-12-15 |
-| [眠らされたリネージュ](https://open.spotify.com/track/5A2K5W8s9v0MR594JMjDL5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [眠らされたリネージュ](https://open.spotify.com/album/2Kd6rOFw49jWatAzMJKwIj) | 4:28 | 2023-10-05 |  |
+| [眠らされたリネージュ](https://open.spotify.com/track/5A2K5W8s9v0MR594JMjDL5) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [眠らされたリネージュ](https://open.spotify.com/album/2Kd6rOFw49jWatAzMJKwIj) | 4:28 | 2023-10-05 | 2023-10-07 |
 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 | 2023-07-13 |  |
 | [祈](https://open.spotify.com/track/2zA8ieFjvQNetHoSnXCYyb) | [Masatoshi Ono](https://open.spotify.com/artist/2R1ubdXY4sUiDqsCtoAVUE) | [祈](https://open.spotify.com/album/6l6gilWLojDjJIUXVdm2qD) | 4:40 | 2023-01-26 | 2023-04-12 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2022-10-01 | 2023-01-18 |

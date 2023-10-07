@@ -4,7 +4,7 @@
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-113 songs - 7 hr 39 min
+114 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bandido](https://open.spotify.com/track/7ipxhMVfluSfUdaunwFbxi) | [Bandido](https://open.spotify.com/artist/2kxjS2TnYDEKcSPn8xJdva) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 7:37 | 2021-09-06 | 2022-07-26 |
 | [Better Watch What You Do](https://open.spotify.com/track/2vK1U3UP6CRt4j8TybtIBD) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa) | 2:18 | 2021-09-06 | 2022-07-28 |
 | [Black Magic Woman / Gypsy Queen](https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 5:19 | 2021-09-06 |  |
-| [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 | 2021-09-06 | 2023-10-02 |
+| [Boom! Boom! Boom!](https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I) | [The Spiders](https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL) | [Slitherama: Teen Trash From Psychedelic Tokyo '66 \- '69 \(Volume 3\)](https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb) | 2:34 | 2021-09-06 |  |
 | [Born Under a Bad Sign](https://open.spotify.com/track/4bsD4PDZklk1wb6l1IyfZ5) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Sesiones del Brujo, Vol\. 2](https://open.spotify.com/album/09Yp1YPNLrrzI1xtT6GDGc) | 4:03 | 2021-09-06 | 2022-07-28 |
 | [Buscando Alrededor](https://open.spotify.com/track/5yVnnBm29IVUB4clieoecf) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/63B4lWimPrXKs9XfNfAgRa) | 3:29 | 2021-09-06 | 2022-07-24 |
 | [Buscando Alrededor](https://open.spotify.com/track/2DCkcms3GQKZLrefroSjWR) | [Free Minds](https://open.spotify.com/artist/0kGveKppn8AMtl7Jmt5scY) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:29 | 2021-09-06 | 2023-08-20 |
@@ -27,7 +27,7 @@
 | [Change of Mind](https://open.spotify.com/track/2RUqjoWkthUIWyCfWnlyoi) | [Cossa Nostra](https://open.spotify.com/artist/3wLZEAt80jqCe3F2XJaSIT) | [Cosa Nostra](https://open.spotify.com/album/0E2pdvJQkI37xy9A8FDGyG) | 5:13 | 2021-09-06 | 2022-07-23 |
 | [Chavo de onda](https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 3:30 | 2021-09-06 |  |
 | [Ciudad Hippie](https://open.spotify.com/track/5LdkkBK0i72xJku8NXkXcw) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/0G9ib5qvTV85OSIQlAW9Pj) | 5:07 | 2021-09-06 | 2022-07-27 |
-| [Ciudad Hippie](https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 5:07 | 2021-09-06 |  |
+| [Ciudad Hippie](https://open.spotify.com/track/6VwQN0X2kpPnnYohDCPK7v) | [Rabbits And Carrots](https://open.spotify.com/artist/5FjZWiU4wLCmX0QBaMKhwQ) | [Soul Latino](https://open.spotify.com/album/53nfvyyeuDSxk7PZjptrFE) | 5:07 | 2021-09-06 | 2023-10-07 |
 | [Como Yo](https://open.spotify.com/track/5OLjJx0sqC7LraFH3k0PB9) | [La Libre Expresión](https://open.spotify.com/artist/5Fm9hQ0qOWQjOQauEcsh0C) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:37 | 2021-09-06 | 2022-07-18 |
 | [Cosa Nostra](https://open.spotify.com/track/7At3CefKNTxcUAFeHgWFRO) | [Cossa Nostra](https://open.spotify.com/artist/3wLZEAt80jqCe3F2XJaSIT) | [Cosa Nostra](https://open.spotify.com/album/0E2pdvJQkI37xy9A8FDGyG) | 5:13 | 2021-09-06 | 2022-07-25 |
 | [Dama Con Alma](https://open.spotify.com/track/3B8bO0zU861MfWo71ItySI) | [División Del Norte](https://open.spotify.com/artist/1tWeuKQu8RxbmUNMCpnFjr) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 3:31 | 2021-09-06 | 2022-07-27 |
@@ -67,7 +67,8 @@
 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 | 2021-09-06 |  |
 | [Lucifer](https://open.spotify.com/track/7ivdF9GuhQFXPr4IOXEoNr) | [Lucifer](https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9) | [Lucifer](https://open.spotify.com/album/5RNzBhRf0NoQ9E6H6S6srh) | 3:45 | 2021-09-06 | 2022-07-16 |
 | [Mariguana](https://open.spotify.com/track/7tg2dbJi72K4cK4kjdp2g2) | [Peace and Love](https://open.spotify.com/artist/5wDBmKAwsm1Tp69yh3xV2Z) | [Peace and Love](https://open.spotify.com/album/6iNEmKhA3QO1yBo2syHKr2) | 6:02 | 2021-09-06 |  |
-| [Mi Dulce Dama Maria Juana](https://open.spotify.com/track/6aJ6Gh8xOEyr5NSASi4gfr) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/2aPI3nlQ9h71HiktRGuKZK) | 3:20 | 2021-09-06 |  |
+| [Mi Dulce Dama Maria Juana](https://open.spotify.com/track/6aJ6Gh8xOEyr5NSASi4gfr) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/2aPI3nlQ9h71HiktRGuKZK) | 3:20 | 2021-09-06 | 2023-10-07 |
+| [Mi Dulce Dama Maria Juana](https://open.spotify.com/track/4ErfTCmYH3XZGbm8qfRwx3) | [Toncho Pilatos](https://open.spotify.com/artist/3RKNiMGSJ4dfDpizaqm9X3) | [Segunda Vez](https://open.spotify.com/album/6C15fWSpPG0hcrV7p5ryed) | 3:20 | 2021-09-06 |  |
 | [Mi Juramento](https://open.spotify.com/track/7mV3hxL2j2xBhmXCv6mULs) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Sirenas Al Ataque](https://open.spotify.com/album/4Yn1pX0PmCE6TtiksEOunF) | 3:56 | 2021-09-06 | 2022-07-25 |
 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 | 2021-09-06 | 2023-09-28 |
 | [Mony Mony](https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Rock Sound](https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ) | 2:43 | 2021-09-06 |  |

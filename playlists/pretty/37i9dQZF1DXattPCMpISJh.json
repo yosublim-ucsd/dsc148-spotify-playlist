@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 99360,
+  "num_followers": 99420,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWNkZGVlYjBkNTg0MDAzYThlMjZkMzkxYzEyNTVkZjRmZWEzODVk",
+  "snapshot_id": "MCxlZGE5YzNhNmY3MjhkYTgyODA4MDcxNWJlZjVmNTVlZWM1MjEyOWM2",
   "tracks": [
     {
       "added_at": "2023-08-18 04:01:00",
@@ -55,6 +55,34 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Groove Continental: Side B",
+        "url": "https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Fight My Demons",
+      "url": "https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1867,26 +1895,6 @@
       "duration_ms": 162733,
       "name": "Ticket to the Moon",
       "url": "https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy"
-    },
-    {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "Retro Magic",
-        "url": "https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5"
-      },
-      "artists": [
-        {
-          "name": "Donhowe",
-          "url": "https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT"
-        },
-        {
-          "name": "Koa",
-          "url": "https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Retro Magic",
-      "url": "https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF"
     }
   ],
   "unique_name": "Nu-Disco",

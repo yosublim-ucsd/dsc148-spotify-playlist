@@ -1,13 +1,29 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 126601,
+  "num_followers": 126843,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjNiY2Q0YzM4ODQwM2U0ZTNmZmZjMGM2OWY3YjJkYTZjZWRjMzFk",
+  "snapshot_id": "MCxlZjM5NzE3YmRmNGY4NGNkYTNlMzBhNDZiZDIxMmE0OTQ0NTNiZjE0",
   "tracks": [
+    {
+      "added_at": "2023-10-06 05:48:21",
+      "album": {
+        "name": "ZOOM ZOOM",
+        "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "ZOOM ZOOM",
+      "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
+    },
     {
       "added_at": "2023-08-18 08:48:25",
       "album": {

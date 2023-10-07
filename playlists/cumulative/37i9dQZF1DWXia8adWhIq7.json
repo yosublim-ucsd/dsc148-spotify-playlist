@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Amor do Pai",
+        "url": "https://open.spotify.com/album/7c5pWQSfNRrLIaUKuvEovY"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161652,
+      "name": "Amor do Pai",
+      "url": "https://open.spotify.com/track/7us7e6aFcl59tiE745fGPQ"
+    },
+    {
+      "album": {
         "name": "Amor Leal",
         "url": "https://open.spotify.com/album/2XNWrlxoCDchGediXzLTRd"
       },
@@ -611,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+    },
+    {
+      "album": {
         "name": "Dono do Tempo",
         "url": "https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD"
       },
@@ -816,7 +856,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 231910,
       "name": "Esse Algu\u00e9m",
       "url": "https://open.spotify.com/track/6ZzI1J5Ivj5EKG9kTPLGdm"
@@ -960,7 +1000,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 118153,
       "name": "Faz Arder",
       "url": "https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB"
@@ -1146,6 +1186,28 @@
       "duration_ms": 193793,
       "name": "Luz do Mundo",
       "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
+    },
+    {
+      "album": {
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/3eE7CHTzouV35tI3ndrjjO"
+      },
+      "artists": [
+        {
+          "name": "Keven Be",
+          "url": "https://open.spotify.com/artist/4O7qWGPD4cqXCma90NK0vk"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "Mais",
+      "url": "https://open.spotify.com/track/779Ex6ZFFjTJs4EtTEGamv"
     },
     {
       "album": {
@@ -1352,10 +1414,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 165000,
       "name": "Mude as Coisas do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa"
+    },
+    {
+      "album": {
+        "name": "Na Paz",
+        "url": "https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Isaque Music",
+          "url": "https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181340,
+      "name": "Na Paz",
+      "url": "https://open.spotify.com/track/5N2s5dO33NZqwA6TE5b14I"
     },
     {
       "album": {
@@ -1610,7 +1694,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 246000,
       "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
       "url": "https://open.spotify.com/track/7vNtlSFNUazrOHOTp8Ed7u"
@@ -1976,7 +2060,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 193388,
       "name": "Sabe Tudo",
       "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
@@ -2129,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "SEMENTES",
+        "url": "https://open.spotify.com/album/3JYgncdrjqEgyqJwWHDXgx"
+      },
+      "artists": [
+        {
+          "name": "LARAIAN",
+          "url": "https://open.spotify.com/artist/6d7FoULORaLQORWSXoPVn3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224896,
+      "name": "sua colheita",
+      "url": "https://open.spotify.com/track/4IMf9Kwx8CfO5rlaqDjlg3"
+    },
+    {
+      "album": {
         "name": "Sua Paz",
         "url": "https://open.spotify.com/album/1EtfVJ2AQkFGwIrRquN00y"
       },
@@ -2271,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
+      },
+      "artists": [
+        {
+          "name": "Avipa",
+          "url": "https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Testemunho",
+      "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "album": {
         "name": "Teu Amor",
         "url": "https://open.spotify.com/album/2Xc9hJsZGqo70af62TgXRO"
       },
@@ -2344,7 +2464,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 224083,
       "name": "Teu Calor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS"

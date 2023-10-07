@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Roseglass",
+        "url": "https://open.spotify.com/album/5sSbBgb0iJDjknZE06LQLQ"
+      },
+      "artists": [
+        {
+          "name": "House of Harm",
+          "url": "https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280552,
+      "name": "Roseglass",
+      "url": "https://open.spotify.com/track/2d1bUoHwDY2cRJVea0zCj2"
+    },
+    {
+      "album": {
         "name": "World Class",
         "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
       },

@@ -4,7 +4,7 @@
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-1,075 songs - 3 day 13 hr 37 min
+1,077 songs - 3 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [2/2 \- Remastered 2004](https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 9:38 | 2022-04-08 | 2022-04-15 |
 | [20210310](https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 6:53 | 2023-04-05 | 2023-04-14 |
 | [20220302 \- sarabande](https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 3:10 | 2023-03-03 |  |
-| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2023-03-03 |  |
+| [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2023-03-03 | 2023-10-07 |
 | [3](https://open.spotify.com/track/0OIAMw3i4SHUHI1NABC7dp) | [Pita](https://open.spotify.com/artist/2i3zTPExXMxUJ8lwU2oss7) | [Get Out](https://open.spotify.com/album/0lFozuBp78iWigdvkCcwDM) | 11:18 | 2022-09-16 | 2022-10-01 |
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2023-03-04 |
 | [34\-46](https://open.spotify.com/track/12OE00ciFg4FWrZY1sw1L2) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Insula](https://open.spotify.com/album/0ATWho0WmSadHHvkYp6DdE) | 4:01 | 2022-11-30 | 2023-01-01 |
@@ -65,6 +65,7 @@
 | [After the Flood](https://open.spotify.com/track/5uDNJnKd1gWSZnz0QeP6TO) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [After the Flood](https://open.spotify.com/album/6AbZWAv1wudSm3Ee8QkJ0w) | 4:55 | 2023-07-14 |  |
 | [After the Rain \- Piano Solo](https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [atr/cal \(Piano Solo\)](https://open.spotify.com/album/2dFYwEwAWrNp2iOylWskYx) | 2:59 | 2021-12-24 |  |
 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-09-02 | 2023-03-04 |
+| [Afterglow](https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 3:48 | 2023-10-06 |  |
 | [Agalma VI](https://open.spotify.com/track/67oHNuPeVcPe0mM97wYQra) | [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4) | [Agalma](https://open.spotify.com/album/2y82aUBnl81FdYBLqpA1C6) | 5:48 | 2022-09-16 | 2022-10-01 |
 | [Agape](https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [Agape](https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML) | 5:06 | 2021-12-24 | 2022-02-13 |
 | [Air](https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Air](https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S) | 5:56 | 2021-12-24 | 2022-07-29 |
@@ -279,7 +280,7 @@
 | [Du repos](https://open.spotify.com/track/1HTyYBqbbyKH8zHRgUru2q) | [Brique a Braq](https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF), [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge) | [Du repos](https://open.spotify.com/album/0JUoY8mPqBIJXOL9qStPrC) | 5:11 | 2021-12-24 | 2022-07-29 |
 | [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2023-04-28 |  |
 | [Dust Bunnies](https://open.spotify.com/track/1uG8DEmAZnIVTkjnKdM2bP) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Music For Photographers](https://open.spotify.com/album/6XeL6PInmZHGz0mvxlRoAM) | 6:30 | 2021-12-24 | 2022-01-08 |
-| [Dustlight](https://open.spotify.com/track/4wVkEXl1cGlLHnIrKnGGL5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight](https://open.spotify.com/album/3kHsgHE9cPsOxDcw3nVBMx) | 3:34 | 2023-09-22 |  |
+| [Dustlight](https://open.spotify.com/track/4wVkEXl1cGlLHnIrKnGGL5) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight](https://open.spotify.com/album/3kHsgHE9cPsOxDcw3nVBMx) | 3:34 | 2023-09-22 | 2023-10-07 |
 | [Dwelling](https://open.spotify.com/track/5tm9QZP0Mu4El6IzWSoNcw) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Κλίμα \(Klima\)](https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN) | 3:52 | 2023-09-29 |  |
 | [E 79th](https://open.spotify.com/track/0EPzV2wwWphNKWwRbCRnl5) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [Music for Video Stores](https://open.spotify.com/album/28K15xgaACIyyqiVAtuNyp) | 3:30 | 2022-12-31 | 2023-03-04 |
 | [E 79th](https://open.spotify.com/track/1FnIBD4V0ou7JcQSBPrC7o) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [E 79th](https://open.spotify.com/album/44zEpGPLV7vHhmESPKSfdc) | 3:30 | 2021-12-24 | 2022-07-28 |
@@ -629,6 +630,7 @@
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 | 2022-03-10 |
 | [nostalgia](https://open.spotify.com/track/768xi4B8fL5dG028KbCjLl) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nostalgia](https://open.spotify.com/album/7pBF8GrCJah3ZXbVeTm5e1) | 2:04 | 2023-03-03 |  |
 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 | 2022-03-30 | 2023-03-04 |
+| [nothing is real](https://open.spotify.com/track/5BirxDD0oRxIzzg6Dh4Y5h) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [A Shimmer in the Void](https://open.spotify.com/album/573u28okxfMLC50wzehOWy) | 2:19 | 2023-10-06 |  |
 | [Nouveau\-Né \(Re\-Imagined\)](https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Nouveau\-Né](https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm) | 3:20 | 2021-12-24 |  |
 | [Novu Hisy](https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Novu Hisy](https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL) | 3:43 | 2022-01-07 | 2022-03-12 |
 | [Now \- Lisa Morgenstern Rework](https://open.spotify.com/track/3INz8huCXxy8IFHMDnnh1S) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [Now \(Lisa Morgenstern Rework\)](https://open.spotify.com/album/1apge78pR0WkGrzF4wAN59) | 4:31 | 2022-02-18 | 2022-07-29 |

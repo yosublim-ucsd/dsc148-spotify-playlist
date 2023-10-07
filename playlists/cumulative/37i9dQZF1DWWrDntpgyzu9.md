@@ -2,9 +2,9 @@
 
 ### [Cantando no Chuveiro](https://open.spotify.com/playlist/37i9dQZF1DWWrDntpgyzu9)
 
-> Solte a voz no chuveiro e liberte o cantor dentro de você!
+> Solte a voz no chuveiro e liberte o cantor dentro de você! Foto: Luan Santana
 
-167 songs - 10 hr 13 min
+168 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [Mentalmente](https://open.spotify.com/track/0Chw8wzV8Fyjv8ahoCIr7u) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Mentalmente](https://open.spotify.com/album/3AQPCZzBkYeekl94fTtoOv) | 2:40 | 2021-09-22 | 2022-07-20 |
 | [Meu talismã](https://open.spotify.com/track/5aayWOEE7u7bxZ3r7dwIrX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Meu talismã](https://open.spotify.com/album/04v9Y24xkH51aIIixDzCAO) | 2:45 | 2021-09-22 | 2022-07-29 |
 | [Milla \- Ao Vivo Em Aracaju / 1996](https://open.spotify.com/track/22Ekdb1dJdXVDckNpZGZLG) | [Netinho](https://open.spotify.com/artist/3Qyjq5eQNKo5tHVmXyhvtB) | [Netinho Ao Vivo](https://open.spotify.com/album/1Fl9ili8vn7fIW9oxiCvOh) | 4:53 | 2021-09-22 | 2022-07-29 |
-| [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 | 2023-08-11 |  |
+| [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 | 2023-08-11 | 2023-10-07 |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2021-09-22 | 2022-07-07 |
+| [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2023-10-06 |  |
 | [Mulher de fases](https://open.spotify.com/track/624ra5mDiibqvFYDK4yhmo) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [So No Forevis](https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE) | 3:33 | 2021-09-22 | 2022-07-29 |
 | [No Dia em Que Eu Saí de Casa](https://open.spotify.com/track/3TPVkq85S5r0EoXZHn5zxU) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT) | [Zezé Di Camargo & Luciano 1995](https://open.spotify.com/album/6Ls690GTjzbU4YNHnyCg1M) | 3:15 | 2021-09-22 | 2022-07-13 |
 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 | 2021-09-22 | 2022-07-25 |

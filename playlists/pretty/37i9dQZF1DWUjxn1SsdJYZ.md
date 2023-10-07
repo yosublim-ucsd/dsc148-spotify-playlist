@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: No Money Enterprise
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,894 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,912 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 11 | [Avalanche](https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Avalanche](https://open.spotify.com/album/3uyRVYklYijNZbk5wgfsEr) | 2:36 |
 | 12 | [TALKIN DIS DAT](https://open.spotify.com/track/1NtVBfmd9lCTXOpaW3t9pD) | [POOKIE](https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq) | [TALKIN DIS DAT](https://open.spotify.com/album/04DN2Sn2XDRZc6IZhL4xks) | 2:23 |
 | 13 | [CFB](https://open.spotify.com/track/01aqLd3IeFjrRbIGFCsajv) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [CFB](https://open.spotify.com/album/57GpJDPLmbaTDaDBAU48Bo) | 2:30 |
-| 14 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 |
+| 14 | [Proper](https://open.spotify.com/track/3Dz7D9Ve3VLFBpmsQXiUJv) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Sinning Winning Living](https://open.spotify.com/album/6cq7FuEXbkgunvfNfVBshk) | 3:22 |
 | 15 | [Paid](https://open.spotify.com/track/5s7xEh1bY1a3543Uyl2hAb) | [T Breezy](https://open.spotify.com/artist/1BsZ2phLGWpVR921nKHs4E), [Walkerboy](https://open.spotify.com/artist/6zl9LGhOEuvQOHDwOKvj8r) | [Paid](https://open.spotify.com/album/0vROoT7XfqIs6GTo3eVzzG) | 1:59 |
 | 16 | [GHOST](https://open.spotify.com/track/0RWdTYTC4Vr0HYUs6Uz2TE) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [GHOST](https://open.spotify.com/album/4AWX3NaFPug2zqRTIOEIy1) | 1:35 |
 | 17 | [Rtr](https://open.spotify.com/track/1qCz701lWN4xaC5AGdvv3U) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Rtr](https://open.spotify.com/album/2WjsVMTw6Bk7hF7IpS9k83) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Let It Go](https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Let It Go](https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ) | 2:43 |
 | 100 | [Blacked Out Tint](https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [Blacked Out Tint](https://open.spotify.com/album/4QPr1TkGC7FLVK03uyTzQG) | 2:35 |
 
-Snapshot ID: `MCwyYjFkM2E4YzgyYzAxMTI2NmFjODBiZDVmYjU4ZDVlYTI1ZjI1ZGY0`
+Snapshot ID: `MCwwOTBjYWQwNzNkMDljZTgyYzg0ZDQyNWJmNzUyZDg5ODU0ZDAyNDA0`

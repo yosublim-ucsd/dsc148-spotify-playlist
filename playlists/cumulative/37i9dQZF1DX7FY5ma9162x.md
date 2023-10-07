@@ -2,7 +2,7 @@
 
 ### [R&B Favourites](https://open.spotify.com/playlist/37i9dQZF1DX7FY5ma9162x)
 
-> The tracks you can put on repeat all day\. Cover: Cleo Sol
+> The tracks you can put on repeat all day\. Cover: Burna Boy
 
 572 songs - 1 day 7 hr 52 min
 

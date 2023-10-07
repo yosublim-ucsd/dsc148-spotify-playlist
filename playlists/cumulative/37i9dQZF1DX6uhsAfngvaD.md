@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-368 songs - 23 hr 20 min
+369 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Birch Tree](https://open.spotify.com/track/6R7qvSSuG7Hy7C15ESlHIv) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/7BY4eDWiXAkc8sMu1asVw9) | 4:40 | 2020-08-09 | 2020-12-22 |
 | [Birthday](https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 4:30 | 2020-09-19 | 2020-12-22 |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-05-10 |  |
+| [Blue](https://open.spotify.com/track/53OYJRSlGUpTU0TJGxx8mA) | [Mega Fäuna](https://open.spotify.com/artist/3iqpnLfw9ZHGpf5f2skfwb) | [Blue](https://open.spotify.com/album/2wBfLfni62DPkDdrQJ6Lep) | 4:09 | 2023-09-29 |  |
 | [Blue Arcade](https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Blue Arcade](https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd) | 3:37 | 2022-01-27 | 2022-08-14 |
 | [Blue Bell](https://open.spotify.com/track/4bFtkOCmHiRx6SjIAL1hdm) | [Golden Daze](https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn) | [Blue Bell](https://open.spotify.com/album/38JQDHoEIUAkmSE6XwVQ2Z) | 3:45 | 2019-11-19\* | 2020-11-06 |
 | [Bonsai](https://open.spotify.com/track/2Js2COGl7htc00CjZ2L2CO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Infinite Summer](https://open.spotify.com/album/2UgS0gIHCafJEhhKVEDH4p) | 2:35 | 2019-11-19\* | 2020-11-06 |
@@ -316,7 +317,7 @@
 | [Suddenly](https://open.spotify.com/track/14IN2apSi57uPG9hAC8kfL) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Suddenly](https://open.spotify.com/album/5FIsJmUeD5KVcc4aMOqkEh) | 4:10 | 2019-11-19\* | 2020-12-22 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 |  |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-10 |  |
-| [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-30 |  |
+| [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-30 | 2023-10-07 |
 | [Summer of 99](https://open.spotify.com/track/3u9UGiselHBzeiLaxEw1sG) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Summer of 99](https://open.spotify.com/album/4FRR0DmKDiQZZ7j4e1XxrS) | 5:02 | 2020-09-19 | 2020-12-22 |
 | [Sundried](https://open.spotify.com/track/5tJghWo8o7FYLtRDFpRg3R) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Sundried](https://open.spotify.com/album/2wsd0aPGO1PEJJZ583Cs41) | 3:20 | 2019-11-19\* | 2020-08-09 |
 | [Survival Of The Strongest](https://open.spotify.com/track/78xMNvfmAiTAtZsJLqSZ6v) | [Moon King](https://open.spotify.com/artist/6hTzDsb4gaKGZMNtfC70c5) | [The Audition](https://open.spotify.com/album/6a7WtgHQTCUKXkoWKEzZBK) | 4:10 | 2021-08-11 | 2022-07-29 |

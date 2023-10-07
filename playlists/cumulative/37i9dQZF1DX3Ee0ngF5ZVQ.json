@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "Live From Cheatham Street",
+        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254013,
+      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
+      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
+    },
+    {
+      "album": {
         "name": "All We Are Is Memories",
         "url": "https://open.spotify.com/album/5Hz5PIPFSlJdTr9HJXmbGc"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 206848,
       "name": "Bend",
       "url": "https://open.spotify.com/track/1hd2FhXKSbH7X6DsGZWPmw"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183405,
       "name": "Border Radio",
       "url": "https://open.spotify.com/track/3JpXOvjKO49lZt5mh7JKLC"
@@ -2194,6 +2212,24 @@
       "duration_ms": 225194,
       "name": "Dancing Shoes",
       "url": "https://open.spotify.com/track/0VsJggPyMWdXSH3FNSKd6e"
+    },
+    {
+      "album": {
+        "name": "Dark Bar Daisy",
+        "url": "https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a"
+      },
+      "artists": [
+        {
+          "name": "Harper O'Neill",
+          "url": "https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244032,
+      "name": "Dark Bar Daisy",
+      "url": "https://open.spotify.com/track/1I4CgfY1bvPRPF08Rs2yEG"
     },
     {
       "album": {
@@ -3832,7 +3868,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 240098,
       "name": "Hell I Am",
       "url": "https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu"
@@ -6008,7 +6044,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 182044,
       "name": "Nothin\u2019s Changed",
       "url": "https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1"
@@ -6939,6 +6975,46 @@
     },
     {
       "album": {
+        "name": "Same Place Twice",
+        "url": "https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU"
+      },
+      "artists": [
+        {
+          "name": "Chad Cooke Band",
+          "url": "https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H"
+        },
+        {
+          "name": "Amanda Kate Ferris",
+          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194722,
+      "name": "Same Place Twice",
+      "url": "https://open.spotify.com/track/2dZzwDaLXppokzSL8TR3U3"
+    },
+    {
+      "album": {
+        "name": "Border Radio",
+        "url": "https://open.spotify.com/album/0dXxHFUV0SNhMjvCEBaUfG"
+      },
+      "artists": [
+        {
+          "name": "John Baumann",
+          "url": "https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244655,
+      "name": "Saturday Night Comes Once A Week",
+      "url": "https://open.spotify.com/track/4wRjg54YqSBl1MN3gEGbkc"
+    },
+    {
+      "album": {
         "name": "Josh Abbott Band and Friends: , Vol. 2",
         "url": "https://open.spotify.com/album/6ChJQZB1aW5kOM6A3tJ2wT"
       },
@@ -7172,6 +7248,24 @@
       "duration_ms": 245426,
       "name": "Shooting Hand",
       "url": "https://open.spotify.com/track/0Ce7IONNgK3YPWcHPBIu0P"
+    },
+    {
+      "album": {
+        "name": "Shooting Stars & Whiskey",
+        "url": "https://open.spotify.com/album/2chesc96Y3mPPu47c6EYUw"
+      },
+      "artists": [
+        {
+          "name": "Keller Cox",
+          "url": "https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217955,
+      "name": "Shooting Stars & Whiskey",
+      "url": "https://open.spotify.com/track/4SJA8haD1UeBsmHMOr4PIj"
     },
     {
       "album": {
@@ -8398,7 +8492,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196357,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/3uE5rVJPkJilTKs6ixpI6B"
@@ -9418,7 +9512,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 196598,
       "name": "When You Love Me",
       "url": "https://open.spotify.com/track/16wqJpp4cDPlrntWaV5v5S"
@@ -10044,6 +10138,24 @@
       "duration_ms": 214306,
       "name": "Young Man's Game",
       "url": "https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN"
+    },
+    {
+      "album": {
+        "name": "Your Alpine",
+        "url": "https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279435,
+      "name": "Your Alpine",
+      "url": "https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi"
     },
     {
       "album": {

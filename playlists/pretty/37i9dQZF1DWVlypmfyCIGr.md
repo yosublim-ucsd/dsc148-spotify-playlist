@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,646 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,672 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Ray Of Lie](https://open.spotify.com/track/0BZOQ3f5UNbbWeJHYg5Zmv) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [Ray Of Lie](https://open.spotify.com/album/5WY48FktznLDnmKEoNZnap) | 2:41 |
 | 80 | [あなたと生活](https://open.spotify.com/track/24e6LnUNSveOKRLfrX2qCQ) | [Minori](https://open.spotify.com/artist/4nf48giqdQZMAxlSDixnbY) | [あなたと生活](https://open.spotify.com/album/6BFh9AQ7xz8hxUgEa2Voip) | 3:22 |
 
-Snapshot ID: `MCwwMWE1OWY3YWUzOWIxOGRkODNmZmVjMzlmNzdlOGUwOWFlZTNkNWUx`
+Snapshot ID: `MCxjMzFlM2UwNWI3NzRhZjI4NzgwNDZlYmM2YjI5NWNlMWM0YzA4MGRh`

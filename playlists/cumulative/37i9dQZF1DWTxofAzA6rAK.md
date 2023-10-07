@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-189 songs - 9 hr 21 min
+191 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 | 2023-05-15 |  |
 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 | 2023-05-15 |  |
 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 | 2023-05-15 |  |
-| [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 | 2021-10-20 |  |
+| [Skeng Live Large](https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ) | 2:40 | 2021-10-20 | 2023-10-07 |
+| [Skeng Live Large](https://open.spotify.com/track/0Kf9LnXqUasemdFJyB8iFV) | [Guhoffentertainment](https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV), [Skeng](https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc) | [Skeng Live Large](https://open.spotify.com/album/19inWvC8yqCa376wxe0Hca) | 2:40 | 2023-05-24 |  |
 | [Smood Wid It](https://open.spotify.com/track/0PwkNE1fRJIsbHCQnSGCyp) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Jigsta](https://open.spotify.com/artist/5PrbR0obhZ9w3TzgNaiEZ4) | [Smood Wid It](https://open.spotify.com/album/20Vpcybdb2w2aDsIfXR9SA) | 2:18 | 2023-05-15 |  |
 | [Solemn Request](https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Solemn Request](https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM) | 3:06 | 2023-05-15 |  |
 | [Solid](https://open.spotify.com/track/2VaNkF1sBKCr1G5lKutDnZ) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [JayStylez](https://open.spotify.com/artist/4Lbe5oO1hTQW4DwUMS4HVh) | [Solid](https://open.spotify.com/album/5PMd3N5kBbLiynnY3OkaaW) | 2:24 | 2023-05-15 |  |
@@ -165,7 +166,8 @@
 | [Stuntin](https://open.spotify.com/track/43aG4bC4H0IW8gMuoSeLxL) | [Mix Master David](https://open.spotify.com/artist/61awrAWH5MxH42AZy7v5Pd), [Verse Simmonds](https://open.spotify.com/artist/0EgUow5z0SXVA9lunNSB1q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Stuntin](https://open.spotify.com/album/2JFHrjfrvh0iTavW94wdJp) | 2:26 | 2021-10-20 |  |
 | [Suffering Days](https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Suffering Days](https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw) | 2:15 | 2021-10-20 |  |
 | [Sweepstake Life](https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Sweepstake Life](https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn) | 3:00 | 2023-05-15 |  |
-| [Sweet Love](https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6) | 3:13 | 2021-10-20 |  |
+| [Sweet Love](https://open.spotify.com/track/0CowtwmJJ6m8dz9UBj80tE) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/5YkMw0i1q2HKsjIn9VRMre) | 3:13 | 2023-05-24 |  |
+| [Sweet Love](https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6) | 3:13 | 2021-10-20 | 2023-10-07 |
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-15 |  |
 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 | 2023-05-19 |
 | [Three Little Birds](https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP) | 3:28 | 2022-08-05 |  |

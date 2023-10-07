@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrkDm7pLWC.md) - [plain]
 | 123 | [A Place To Call Home](https://open.spotify.com/track/1flCNGkRXEk58gkcJ4X6DV) | [Michael Ottosson](https://open.spotify.com/artist/3dz4vgXeam9Ba1Bo7gud9b) | [Three Waltzes](https://open.spotify.com/album/28DqpGRLUjFtNPTaSs2rgr) | 3:08 |
 | 124 | [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 |
 | 125 | [Raindrops](https://open.spotify.com/track/6w2FKNd3zDRJGJ0krZxWPi) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Raindrops](https://open.spotify.com/album/4B0q3wDobd2jeXO5vmf8Qm) | 1:54 |
-| 126 | [Hidden Beauty](https://open.spotify.com/track/1NM9gkYVJ0sPaviZs6rXG0) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y4o9cpBtSxZNZj9dMISJO) | [Hidden Beauty](https://open.spotify.com/album/69WSbMMTX4xvYmmVg3d33s) | 2:56 |
+| 126 | [Hidden Beauty](https://open.spotify.com/track/1NM9gkYVJ0sPaviZs6rXG0) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Hidden Beauty](https://open.spotify.com/album/69WSbMMTX4xvYmmVg3d33s) | 2:56 |
 | 127 | [Tamburello](https://open.spotify.com/track/2op6YTHPWoONdqsknhR9fq) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Tamburello](https://open.spotify.com/album/74iaIl3d0hmWtf9wBcI6iJ) | 2:20 |
 | 128 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 |
 | 129 | [Zala](https://open.spotify.com/track/0mTNIBqWyosvtyYerntoBV) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Zala](https://open.spotify.com/album/050hlTMs6fuyM4Uuk6ecvf) | 1:53 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrkDm7pLWC.md) - [plain]
 | 233 | [Wisdom Valley](https://open.spotify.com/track/2yHHq5iNkGv3Vh0mn3GZ0p) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 2:28 |
 | 234 | [Don't Let Me Go](https://open.spotify.com/track/0NTNYW3E9mPy9jZjlHalDb) | [Mark Souzek](https://open.spotify.com/artist/472ZY6kKXhDcCXcOV0wxc2) | [Don't Let Me Go](https://open.spotify.com/album/4ozcA642MNNioVbF8ehgJ3) | 1:55 |
 
-Snapshot ID: `MCwxODBhMmI2NTg4MTliOWE1ZjljMTQ0ZmE1ODgzZDRiMzlkZTI0YjIy`
+Snapshot ID: `MCwzODAwOGM0NzMzMmJiZGI0NjlmYzA2YjEzOTVjOWY4MDNkYzNiMGY4`

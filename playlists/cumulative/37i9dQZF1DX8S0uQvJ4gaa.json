@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jade Eagleson",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Colbie Caillat",
   "name": "New Boots",
   "tracks": [
     {
@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Beneath Oak Trees",
+        "url": "https://open.spotify.com/album/5rxcUws1sdLRSVBLbQw6JK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Beneath Oak Trees",
+      "url": "https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW"
+    },
+    {
+      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/3DEtw4rE3qCEtwBR2cmvkb"
       },
@@ -3566,6 +3584,24 @@
       "duration_ms": 183560,
       "name": "Breakable",
       "url": "https://open.spotify.com/track/1RcCSGyHYHU7mamMrKP53j"
+    },
+    {
+      "album": {
+        "name": "Breakin' in Boots",
+        "url": "https://open.spotify.com/album/1sHuCLfs5sMWVneNgcCoqS"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155173,
+      "name": "Breakin' in Boots",
+      "url": "https://open.spotify.com/track/4usnf7irdy9PrVsmb82BXI"
     },
     {
       "album": {
@@ -5066,7 +5102,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 209723,
       "name": "Country Music Made Me Do It",
       "url": "https://open.spotify.com/track/2hV9ZAWIPDoMxAglFbIwEb"
@@ -5262,6 +5298,24 @@
       "duration_ms": 236085,
       "name": "Covered In Dirt",
       "url": "https://open.spotify.com/track/3EY88M2B3fR0WZodOc1mVq"
+    },
+    {
+      "album": {
+        "name": "Cowboy Back",
+        "url": "https://open.spotify.com/album/10QuywIUAjgUqvMKjM67n8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Cowboy Back",
+      "url": "https://open.spotify.com/track/671XjQmF7A0w5aN74AhNWt"
     },
     {
       "album": {
@@ -6180,6 +6234,24 @@
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
+    },
+    {
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Different About You",
+      "url": "https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW"
     },
     {
       "album": {
@@ -9220,7 +9292,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 172364,
       "name": "Get The Girl",
       "url": "https://open.spotify.com/track/4USdlx544NYIuGc4I1Orbl"
@@ -10132,7 +10204,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183240,
       "name": "Gone as You",
       "url": "https://open.spotify.com/track/2GIK8Tv99iHQDfDJHUOq4w"
@@ -12078,6 +12150,24 @@
       "duration_ms": 217813,
       "name": "Heavyweight",
       "url": "https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB"
+    },
+    {
+      "album": {
+        "name": "Heels Over Head",
+        "url": "https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Heels Over Head",
+      "url": "https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ"
     },
     {
       "album": {
@@ -14144,7 +14234,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
@@ -14600,6 +14690,24 @@
       "duration_ms": 212533,
       "name": "I'd Take Another One of Those",
       "url": "https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ"
+    },
+    {
+      "album": {
+        "name": "I'll Be A Bartender",
+        "url": "https://open.spotify.com/album/4fnYR5Po3N0OsBpaCaKmKE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "I'll Be A Bartender",
+      "url": "https://open.spotify.com/track/5amuqAOkKdHenSjPaAUQXA"
     },
     {
       "album": {
@@ -16122,7 +16230,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 195488,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
@@ -16296,6 +16404,24 @@
       "duration_ms": 214238,
       "name": "Leave You Alone",
       "url": "https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3"
+    },
+    {
+      "album": {
+        "name": "Run, Run, Baby",
+        "url": "https://open.spotify.com/album/5el3z43Bnf5ebDM5UDTipi"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "Leaving Looks Good on You",
+      "url": "https://open.spotify.com/track/4pbC1GVfup5aAKGeXgPNvC"
     },
     {
       "album": {
@@ -18435,6 +18561,24 @@
     },
     {
       "album": {
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195176,
+      "name": "Meant For Me",
+      "url": "https://open.spotify.com/track/7Gt9tznlLCCe2gZoRzuLhD"
+    },
+    {
+      "album": {
         "name": "Meet Me in the City",
         "url": "https://open.spotify.com/album/1NFk1LIH24WS3jQZqDuYL2"
       },
@@ -19758,6 +19902,24 @@
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
+    },
+    {
+      "album": {
+        "name": "Carolyn's Boy",
+        "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Never Been Over",
+      "url": "https://open.spotify.com/track/5Izy5w7WRKyOTH7CtWgyPG"
     },
     {
       "album": {
@@ -21282,7 +21444,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 182013,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/4G1i8QJ2htH4Syo2vDeqSt"
@@ -23225,6 +23387,24 @@
     },
     {
       "album": {
+        "name": "Remember Us?",
+        "url": "https://open.spotify.com/album/0I2zXhEwS95x0MkuFhzpny"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209506,
+      "name": "Remember Us",
+      "url": "https://open.spotify.com/track/1gViTTMR3v0COYuvIHIxVL"
+    },
+    {
+      "album": {
         "name": "Remind You",
         "url": "https://open.spotify.com/album/2qq0mjmv5RUhE867evGksg"
       },
@@ -23928,7 +24108,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 219960,
       "name": "Same Car",
       "url": "https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO"
@@ -26240,7 +26420,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 190093,
       "name": "Southern Comfort",
       "url": "https://open.spotify.com/track/2oNXyZLQcsd0vJhhCjPnbb"
@@ -26964,7 +27144,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212224,
       "name": "Strawberry Wine And A Cheap Six Pack",
       "url": "https://open.spotify.com/track/2rHH4cQyxEhJwvr0zmMVZV"
@@ -27822,6 +28002,24 @@
       "duration_ms": 215040,
       "name": "Thank God For You",
       "url": "https://open.spotify.com/track/2ao6FpQOr2pdDZmGWssXE3"
+    },
+    {
+      "album": {
+        "name": "Thank God She's A Country Girl",
+        "url": "https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "Thank God She's A Country Girl",
+      "url": "https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g"
     },
     {
       "album": {
@@ -33000,7 +33198,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 183107,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S"
@@ -33256,7 +33454,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"

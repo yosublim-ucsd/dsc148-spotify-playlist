@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> pov: se ainda nao escutaram Tyla ta na hora d escuta, bora / Foto: Tyla
+> ONTI MAMAI AMA ESSA NENE / Foto: Miley Cyrus
 
 274 songs - 14 hr 44 min
 

@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "ALLERLAATSTE FEESTJE",
+        "url": "https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3"
+      },
+      "artists": [
+        {
+          "name": "DIKKE BAAP",
+          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183017,
+      "name": "ALLERLAATSTE FEESTJE",
+      "url": "https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m"
+    },
+    {
+      "album": {
         "name": "Masters Of Hardcore Chapter XLIV",
         "url": "https://open.spotify.com/album/2Y0PWBnphib2osozApxHou"
       },
@@ -148,7 +174,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 222315,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK"
@@ -392,7 +418,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 173657,
       "name": "BLACK HOLE",
       "url": "https://open.spotify.com/track/2zHjYnNKADys8LidsZUIjG"
@@ -3916,6 +3942,32 @@
       "duration_ms": 204631,
       "name": "We are Frenchcore",
       "url": "https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf"
+    },
+    {
+      "album": {
+        "name": "We are One (Official Leaderz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j"
+      },
+      "artists": [
+        {
+          "name": "F. Noize",
+          "url": "https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7"
+        },
+        {
+          "name": "Broken Brains",
+          "url": "https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8"
+        },
+        {
+          "name": "Mc Braincase",
+          "url": "https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "We are One (Official Leaderz 2023 Anthem)",
+      "url": "https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt"
     },
     {
       "album": {

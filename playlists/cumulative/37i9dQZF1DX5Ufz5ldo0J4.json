@@ -3533,6 +3533,24 @@
     },
     {
       "album": {
+        "name": "Qhov Cua",
+        "url": "https://open.spotify.com/album/3as6EwVglrYWsSbXDYr8wE"
+      },
+      "artists": [
+        {
+          "name": "Rufus Odobata",
+          "url": "https://open.spotify.com/artist/5x7BmkqNC3iDXqN4PvDwdK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201750,
+      "name": "Qhov Cua",
+      "url": "https://open.spotify.com/track/4dvLRtGX5cGeBjVQE8CGvu"
+    },
+    {
+      "album": {
         "name": "Gemstones, Vol. 6",
         "url": "https://open.spotify.com/album/4ca7z1pgOg98DEiailChTn"
       },
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 181800,
       "name": "Sleep Under The Stars",
       "url": "https://open.spotify.com/track/5SphLwiaAIfqGvgy2jBUIb"

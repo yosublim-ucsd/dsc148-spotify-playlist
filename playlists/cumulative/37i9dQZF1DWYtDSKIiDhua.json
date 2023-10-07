@@ -1917,6 +1917,28 @@
     },
     {
       "album": {
+        "name": "DIVINE",
+        "url": "https://open.spotify.com/album/4o7qgk1JV9Y6m8Qchfd0y2"
+      },
+      "artists": [
+        {
+          "name": "hyejin",
+          "url": "https://open.spotify.com/artist/5zLd9DhI6ebR8fvwunp4bX"
+        },
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182938,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/4jgrU5aVVGSYwTaWZJyfo4"
+    },
+    {
+      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
       },

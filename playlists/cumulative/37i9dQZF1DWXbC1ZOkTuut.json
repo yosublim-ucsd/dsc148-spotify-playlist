@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-20",
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: La Fiera de Ojinaga",
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Junior H",
   "name": "New M\u00fasica Mexicana Albums",
   "tracks": [
     {
@@ -103,6 +103,42 @@
     },
     {
       "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128921,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/1wt6Be3W0fN1qC7BljEpDf"
+    },
+    {
+      "album": {
+        "name": "Buena Suerte",
+        "url": "https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161905,
+      "name": "Adivina D\u00f3nde Estoy",
+      "url": "https://open.spotify.com/track/1m9xETNiRKEE5h2UxGZFA1"
+    },
+    {
+      "album": {
         "name": "No Tengo Rival",
         "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
       },
@@ -118,6 +154,24 @@
       "duration_ms": 130875,
       "name": "Ah\u00ed No Era",
       "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
+    },
+    {
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138222,
+      "name": "Amar Mal",
+      "url": "https://open.spotify.com/track/5HX8clpxyczyJThi9N8bZ8"
     },
     {
       "album": {
@@ -514,6 +568,24 @@
       "duration_ms": 124512,
       "name": "Brilla Una Cadena",
       "url": "https://open.spotify.com/track/4W2uoWmNAfnr8TrHWl3DMy"
+    },
+    {
+      "album": {
+        "name": "Buena Suerte",
+        "url": "https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/2MaStYe0PIrqKdIMN6rWo9"
     },
     {
       "album": {
@@ -982,6 +1054,24 @@
       "duration_ms": 215572,
       "name": "Disfrutando Lo Mejor",
       "url": "https://open.spotify.com/track/1mLIKXenzgkz5z0xpzVLxJ"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico con Escalas en Mi Coraz\u00f3n (Ciudades)",
+        "url": "https://open.spotify.com/album/6crc7s1ElftoT9ksHKt3Qg"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199693,
+      "name": "Divino Canc\u00fan",
+      "url": "https://open.spotify.com/track/4aFpBpsFQ79O7496V0704X"
     },
     {
       "album": {
@@ -1697,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico con Escalas en Mi Coraz\u00f3n (Ciudades)",
+        "url": "https://open.spotify.com/album/6crc7s1ElftoT9ksHKt3Qg"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241063,
+      "name": "Es Bonito, Es Bonito Y Es Bonito (Par\u00e1cuaro, Michoac\u00e1n)",
+      "url": "https://open.spotify.com/track/3ztYB96Xyghj817bZeOBKV"
+    },
+    {
+      "album": {
         "name": "Paso Fino",
         "url": "https://open.spotify.com/album/02CC6Z2uIGm248DgXALu5b"
       },
@@ -2109,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico con Escalas en Mi Coraz\u00f3n (Ciudades)",
+        "url": "https://open.spotify.com/album/6crc7s1ElftoT9ksHKt3Qg"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254932,
+      "name": "La Mera Mera (Tijuana, Baja California Norte)",
+      "url": "https://open.spotify.com/track/2XsoiYV8Rd8kduladPPKuk"
+    },
+    {
+      "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
       },
@@ -2318,6 +2448,24 @@
       "duration_ms": 257000,
       "name": "Las Ganas",
       "url": "https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226298,
+      "name": "LAS NOCHES",
+      "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
     },
     {
       "album": {
@@ -2661,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Buena Suerte",
+        "url": "https://open.spotify.com/album/1mpRBVz9p8tRlZKgU9WGzK"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187571,
+      "name": "Me Gusta Y Me Asusta",
+      "url": "https://open.spotify.com/track/0T2er1MpyBGOHUP5wT2uY4"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -2806,6 +2972,24 @@
       "duration_ms": 222968,
       "name": "Mi Vida Sin Ti",
       "url": "https://open.spotify.com/track/7aDq8oxYo6nOdNrhmBTBXi"
+    },
+    {
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181525,
+      "name": "Mil Pedazos",
+      "url": "https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC"
     },
     {
       "album": {
@@ -3326,6 +3510,24 @@
       "duration_ms": 165919,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/6aS2cZfHXu8LPbPT8uyBL6"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247538,
+      "name": "OTRO AMOR",
+      "url": "https://open.spotify.com/track/45jWNNpTqJ4gSty54msOLx"
     },
     {
       "album": {
@@ -4522,6 +4724,24 @@
       "duration_ms": 199426,
       "name": "Y Hoy",
       "url": "https://open.spotify.com/track/3kj9NO8joEef3AnBcqriCs"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Y LLORO",
+      "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
     },
     {
       "album": {

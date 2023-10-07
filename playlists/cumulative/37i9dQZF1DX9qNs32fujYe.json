@@ -3375,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/76bXuxiCtxCW0OIsGOtW2U"
+      },
+      "artists": [
+        {
+          "name": "Frozen Land",
+          "url": "https://open.spotify.com/artist/3D5YAQD9yRu8ohjM9SW948"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226840,
+      "name": "Dying Of The Light",
+      "url": "https://open.spotify.com/track/3kBsOgVKo2Xy4HtgznGO0U"
+    },
+    {
+      "album": {
         "name": "Blood & Stone",
         "url": "https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx"
       },
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 220885,
       "name": "Hard Habit",
       "url": "https://open.spotify.com/track/6TCPTqQTI2PHbOe2mUFDu6"
@@ -5715,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/7f0BnKdZMy902smde28brF"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179360,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0"
+    },
+    {
+      "album": {
         "name": "Into the Black",
         "url": "https://open.spotify.com/album/4b99g7dJp9C9tCOIT03JaF"
       },
@@ -5798,7 +5834,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 267290,
       "name": "IOU",
       "url": "https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj"

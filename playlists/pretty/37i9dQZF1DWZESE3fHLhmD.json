@@ -1,12 +1,12 @@
 {
   "description": "Endlich wieder Strickpullover & Gem\u00fctlichkeit.",
-  "num_followers": 1280366,
+  "num_followers": 1281021,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjg2YmU4OTE5OTNlMTc2MWE3NjhmM2RlZjNiOTM1NzU2NDAzYTJi",
+  "snapshot_id": "MCxkZDc2MDQ2OTJmM2ZhNjQ4ZWYyZmI5MjczNGFmYmJjY2EwOTkyZmZh",
   "tracks": [
     {
       "added_at": "2023-09-29 15:13:07",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-29 15:13:07",
       "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
-    },
-    {
-      "added_at": "2023-09-29 15:13:07",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/0LbZLBBZI1NfaDgb4dx0UD"
+    },
+    {
+      "added_at": "2023-09-29 15:13:07",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda"
     },
     {
       "added_at": "2023-09-29 15:13:07",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-29 15:13:07",
       "album": {
-        "name": "Spiegelbild",
-        "url": "https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Spiegelbild",
-      "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
-    },
-    {
-      "added_at": "2023-09-29 15:13:07",
-      "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 198448,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1SBsBiDUROntxMXINn8Cak"
+    },
+    {
+      "added_at": "2023-09-29 15:13:07",
+      "album": {
+        "name": "Spiegelbild",
+        "url": "https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Spiegelbild",
+      "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
     },
     {
       "added_at": "2023-09-29 15:13:07",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-09-29 15:13:07",
       "album": {
+        "name": "This Thing Called Living",
+        "url": "https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 188185,
+      "name": "Subside",
+      "url": "https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk"
+    },
+    {
+      "added_at": "2023-09-29 15:13:07",
+      "album": {
         "name": "More To This Life",
         "url": "https://open.spotify.com/album/4GAoGetqEAbfALqARE0s4I"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 200840,
       "name": "More To This Life",
       "url": "https://open.spotify.com/track/6zPyE3kqAboGKv2iKNOEcR"
-    },
-    {
-      "added_at": "2023-09-29 15:13:07",
-      "album": {
-        "name": "This Thing Called Living",
-        "url": "https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 188185,
-      "name": "Subside",
-      "url": "https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk"
     }
   ],
   "unique_name": "Herbstgef\u00fchle",

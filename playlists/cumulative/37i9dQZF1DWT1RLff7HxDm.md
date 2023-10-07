@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-141 songs - 14 hr 24 min
+142 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville \(Deluxe\)](https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe) | 8:29 | 2020-10-30 |  |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville](https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf) | 8:29 | 2020-10-30 | 2022-05-18 |
 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 | 2020-10-30 |  |
+| [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 | 2023-10-06 |  |
 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 4:49 | 2021-02-26 |  |
 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \[Live from The London Palladium\]](https://open.spotify.com/album/1z9quT1fn0GLbg7401MS0z) | 4:49 | 2021-02-26 | 2022-07-29 |
 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 | 2020-10-30 |  |

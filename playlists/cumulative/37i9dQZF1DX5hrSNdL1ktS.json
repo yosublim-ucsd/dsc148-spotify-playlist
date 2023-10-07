@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Alex Hoyer y Mario Bautista en portada ",
-  "name": "Urbano Fresh",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Alu Mix y Los Menores en portada ",
+  "name": "Reggaet\u00f3n MX ",
   "tracks": [
     {
       "album": {
@@ -2173,6 +2173,28 @@
     },
     {
       "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Starboooy",
+          "url": "https://open.spotify.com/artist/5UEbfQYZZxAERpYqwOrtHp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162693,
+      "name": "Es tu culpa",
+      "url": "https://open.spotify.com/track/6FUlTqITf2JYTdu5Go6CfN"
+    },
+    {
+      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
       },
@@ -2958,6 +2980,40 @@
       "duration_ms": 233130,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE"
+    },
+    {
+      "album": {
+        "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
+        "url": "https://open.spotify.com/album/1WEHAfCuVdBCKUU0cUMZjp"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Young Gallo",
+          "url": "https://open.spotify.com/artist/1AfxlMLCP8GSIoyA5htFUd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "INSTAL\u00c1RTELO (feat. Sleezy O & Young Gallo)",
+      "url": "https://open.spotify.com/track/4iiLT6wrLtcoW3vOUjjlbS"
     },
     {
       "album": {
@@ -4434,7 +4490,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 201235,
       "name": "Morrita",
       "url": "https://open.spotify.com/track/5Pzzu7TwNaML451aIPrBAJ"
@@ -4620,7 +4676,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 180681,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/3ztX6HUSCfakBo9tPPpUrm"
@@ -5189,6 +5245,24 @@
     },
     {
       "album": {
+        "name": "PAL CIELO",
+        "url": "https://open.spotify.com/album/5Zt3eIlfitHBEHfaACqTf9"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "PAL CIELO",
+      "url": "https://open.spotify.com/track/2aQurrxYljh8pFejntNDwq"
+    },
+    {
+      "album": {
         "name": "Pal Piso",
         "url": "https://open.spotify.com/album/0e6Nt0OXxodh9djO8Gky7X"
       },
@@ -5590,7 +5664,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 188235,
       "name": "PILA",
       "url": "https://open.spotify.com/track/5STAtsFUSynpkjs356hopG"
@@ -5804,7 +5878,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 188446,
       "name": "QNP",
       "url": "https://open.spotify.com/track/09gMULwqn15GTwu25KmoBz"
@@ -6777,6 +6851,24 @@
     },
     {
       "album": {
+        "name": "Subete",
+        "url": "https://open.spotify.com/album/3Zm1ajMFbmMTTvecodCzac"
+      },
+      "artists": [
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96432,
+      "name": "Subete",
+      "url": "https://open.spotify.com/track/3b4WaBXRi2vVtoBFo475Xw"
+    },
+    {
+      "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
       },
@@ -7173,6 +7265,36 @@
     },
     {
       "album": {
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Gitana",
+          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
+    },
+    {
+      "album": {
         "name": "Tirando Flow Sesh #11 (feat. El Bogueto & Ritorukai)",
         "url": "https://open.spotify.com/album/4qYgFOOlhq4gi2nipKRCMb"
       },
@@ -7398,10 +7520,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-07",
       "duration_ms": 212757,
       "name": "Tu Me Salvaste",
       "url": "https://open.spotify.com/track/5qlAItyj8BQC14zZi6vA83"
+    },
+    {
+      "album": {
+        "name": "Tu Te La Vas a Comer",
+        "url": "https://open.spotify.com/album/0Q1bpvXDQmRH1iAeNRyX6t"
+      },
+      "artists": [
+        {
+          "name": "Salon Sandunga",
+          "url": "https://open.spotify.com/artist/7GO5cbRGVs48OP0lPdjLyo"
+        },
+        {
+          "name": "Bairon The Choke",
+          "url": "https://open.spotify.com/artist/3bImY92sFQ7ouiGaz51Eg7"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122006,
+      "name": "Tu Te La Vas a Comer",
+      "url": "https://open.spotify.com/track/5k6LkKXrk6B6Js31V9j3f9"
     },
     {
       "album": {

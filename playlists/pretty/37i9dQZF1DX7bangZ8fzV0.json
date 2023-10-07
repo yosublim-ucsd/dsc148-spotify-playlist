@@ -1,12 +1,12 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=mZ8ikRBSTVSQSEDaw_NeXA\">Marno van der Merwe</a>  ",
-  "num_followers": 83591,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=pk0hGHdJQMKTKVFyaPULLA\">Karlien Van Jaarsveld</a>  ",
+  "num_followers": 83742,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTMwNWE2OGM3NTQ4OTYwYjdmZDUyM2NjZGQwNmNkM2NmMTAzZGZk",
+  "snapshot_id": "MCwwM2VhZjBkZWJlMDQ5NmQwMDA1NDczNTc1NzQ2OTY2MDBiYTg0NTdl",
   "tracks": [
     {
       "added_at": "2023-09-21 21:59:00",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
     },
     {
-      "added_at": "2023-09-21 21:59:00",
-      "album": {
-        "name": "Ouens Soos Ek",
-        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
-      },
-      "artists": [
-        {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
-        }
-      ],
-      "duration_ms": 163035,
-      "name": "Ouens Soos Ek",
-      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Koue Kole",
@@ -89,6 +73,34 @@
       "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
     },
     {
+      "added_at": "2023-09-15 03:24:00",
+      "album": {
+        "name": "Saam Suid-Afrika",
+        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
+      },
+      "artists": [
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        },
+        {
+          "name": "Anlia Star",
+          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
+        },
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 226229,
+      "name": "Saam Suid-Afrika",
+      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
+    },
+    {
       "added_at": "2023-08-17 22:01:39",
       "album": {
         "name": "Almal Gly",
@@ -119,6 +131,22 @@
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
+      "added_at": "2023-09-21 21:59:00",
+      "album": {
+        "name": "Ouens Soos Ek",
+        "url": "https://open.spotify.com/album/6qagm31j3HbFae3BV3I2Ab"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 163035,
+      "name": "Ouens Soos Ek",
+      "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -201,34 +229,6 @@
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
     },
     {
-      "added_at": "2023-09-15 03:24:00",
-      "album": {
-        "name": "Saam Suid-Afrika",
-        "url": "https://open.spotify.com/album/795PoyrlQBseo7X9SQsNJA"
-      },
-      "artists": [
-        {
-          "name": "Robbie Wessels",
-          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
-        },
-        {
-          "name": "Anlia Star",
-          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
-        },
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        },
-        {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
-        }
-      ],
-      "duration_ms": 226229,
-      "name": "Saam Suid-Afrika",
-      "url": "https://open.spotify.com/track/4Nngq9WlJXvN3AyDnocQAz"
-    },
-    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Spontaan",
@@ -263,6 +263,22 @@
       "duration_ms": 212533,
       "name": "Skobbejak",
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "added_at": "2023-09-21 21:59:00",
@@ -311,54 +327,6 @@
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
-    },
-    {
-      "added_at": "2023-09-15 03:24:00",
-      "album": {
-        "name": "Die Bokmasjien",
-        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
-      },
-      "artists": [
-        {
-          "name": "Leon Schuster",
-          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
-        }
-      ],
-      "duration_ms": 226539,
-      "name": "Die Bokmasjien",
-      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
-    },
-    {
-      "added_at": "2023-08-10 21:59:00",
-      "album": {
-        "name": "As Hy Weer Kom",
-        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
-      },
-      "artists": [
-        {
-          "name": "Bernice West",
-          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "As Hy Weer Kom",
-      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "ATKV",
-      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -733,6 +701,22 @@
       "url": "https://open.spotify.com/track/3ZHlUA6rI4xaljhilmWDtN"
     },
     {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "As Hy Weer Kom",
+        "url": "https://open.spotify.com/album/7lkDfSy0MUwIp6N8JQCZQF"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "As Hy Weer Kom",
+      "url": "https://open.spotify.com/track/5XRiNFuNKfDBUlAIUqmNSm"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "My Nannas",
@@ -1031,6 +1015,22 @@
       "duration_ms": 205973,
       "name": "Kom En L\u00ea My Neer",
       "url": "https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW"
+    },
+    {
+      "added_at": "2023-09-15 03:24:00",
+      "album": {
+        "name": "Die Bokmasjien",
+        "url": "https://open.spotify.com/album/7mAkMSrrW44f9SbtVv5oZm"
+      },
+      "artists": [
+        {
+          "name": "Leon Schuster",
+          "url": "https://open.spotify.com/artist/39RqxQROFqqcfA4TJmKgbs"
+        }
+      ],
+      "duration_ms": 226539,
+      "name": "Die Bokmasjien",
+      "url": "https://open.spotify.com/track/3IgEWo5IVygGPj1gIXGnEK"
     },
     {
       "added_at": "2023-06-29 21:59:00",

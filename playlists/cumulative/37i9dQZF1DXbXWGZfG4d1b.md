@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-516 songs - 1 day 6 hr 39 min
+517 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amorestream](https://open.spotify.com/track/36Pq4Q9JAmPrrKVXcOypEM) | [Bruno Albano](https://open.spotify.com/artist/5SPn97xEYlWyf9SYzzD731) | [Amorestream](https://open.spotify.com/album/046EjpYevPhRy74d8c9y5T) | 4:09 | 2022-07-01 | 2022-07-26 |
 | [Amuleto](https://open.spotify.com/track/6EAN9mfCYKzQx4AWoKhNJT) | [El Hipnotizador Romántico](https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku) | [Amuleto](https://open.spotify.com/album/3Tu4K48pBVeOWJI65Te4jy) | 3:34 | 2022-06-03 | 2022-07-19 |
 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 | 2023-07-28 |  |
-| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 |  |
+| [Animales](https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Animales](https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p) | 3:41 | 2022-06-03 | 2023-10-07 |
 | [Antes de que Olvide](https://open.spotify.com/track/0o2l3E5VuQuHXV4t5B3PoK) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Lo Más Cercano a Caer](https://open.spotify.com/album/5TsOqXNqzC1ZiHtVpeqvQK) | 2:53 | 2023-05-26 |  |
 | [Aproximación](https://open.spotify.com/track/1JAem2p729DQdOOa0PxKZl) | [Luca Bocci](https://open.spotify.com/artist/1h3H1KWtfAC1YRqYrQmXLF) | [Aproximación](https://open.spotify.com/album/6rDzecsrwaCylhex4VBFho) | 3:15 | 2023-08-18 |  |
 | [Ariel](https://open.spotify.com/track/53cZ2u5osTGHMIkDtSx7KV) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Ariel](https://open.spotify.com/album/7eb9kb0GxEUuK8HFuWKIya) | 4:00 | 2023-08-04 | 2023-10-06 |
@@ -493,6 +493,7 @@
 | [Un Secreto](https://open.spotify.com/track/6DpFtcYZwHLh0Lz5WLcCIZ) | [Un Pasillo](https://open.spotify.com/artist/2RqgJvWs8T8DBZouPrOREw) | [Un Secreto](https://open.spotify.com/album/4uxwhFNLUv5vpnrohAmxl7) | 2:52 | 2023-08-25 | 2023-09-25 |
 | [Un Sencillo de Nadia](https://open.spotify.com/track/41up2ORs1QRWXUb4wMllIR) | [Nadia Sandrone](https://open.spotify.com/artist/2G5QfSxYMNMRYPMWGi492n), [Violeta García](https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ), [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Un Sencillo de Nadia](https://open.spotify.com/album/0tzNeL1YRoC2Rzd0mBwRaF) | 3:28 | 2023-04-14 | 2023-04-22 |
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-08-11 |  |
+| [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/track/40MPDxMqHq23QYbF692L9K) | [Calequi](https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u), [Las Panteras](https://open.spotify.com/artist/2H9bvz22G7CnbT0Gm3uarb), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Facundo Balta](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ), [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Una ciudad de cristal \(Montevideo\)](https://open.spotify.com/album/7IFPI1gBOZi7Vsiyx2cCbt) | 3:57 | 2023-10-05 |  |
 | [Una Curita para el Raspón](https://open.spotify.com/track/6oaHnpYZSyy7nSysc2o3HP) | [El Chavez](https://open.spotify.com/artist/78At4Kngmy7acsoeNPRHZN), [Marcos Insurgente](https://open.spotify.com/artist/3vcMKTlZppgP6exZh5WTDV) | [Una Curita para el Raspón](https://open.spotify.com/album/5rsBzvDMqOiu71KctWNIEC) | 3:27 | 2022-07-01 | 2022-07-17 |
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-06-03 |  |
 | [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 | 2022-06-03 |  |
