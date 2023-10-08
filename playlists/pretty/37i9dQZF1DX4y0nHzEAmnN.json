@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODVmMjc0MmQyY2Y0MjU1ZmYyMWY5YjkyNGFiNWU0M2I1MGZiNWQx",
+  "snapshot_id": "MCwwMGUxNTc3ZWMyNTE5NzczZTRmNzNlZDBiMTNlN2Y1ZGU0OWVmOGU4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Fantastic Voyages",
         "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Moey's Music Party",
         "url": "https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 200920,
       "name": "Getting Dressed Is the Best",
       "url": "https://open.spotify.com/track/0sRYvGZX6GeAVuKQ1YZNE5"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 43626,
+      "name": "Please and Thank You Song",
+      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -507,18 +523,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
       },
       "artists": [
         {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+          "name": "Love to Sing",
+          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
         }
       ],
-      "duration_ms": 43626,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO"
+      "duration_ms": 131600,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -543,22 +559,6 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/12Bh0hHZUqDxCYy11xCxBv"
-      },
-      "artists": [
-        {
-          "name": "Love to Sing",
-          "url": "https://open.spotify.com/artist/5dz42IMRAYRfEn0igXDjoz"
-        }
-      ],
-      "duration_ms": 131600,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/1IFnPPBJrH6QQkeOybxmff"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Music for Classroom Management",
-        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
-      },
-      "artists": [
-        {
-          "name": "Heidi Butkus",
-          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
-        }
-      ],
-      "duration_ms": 66613,
-      "name": "The Potty Dance Song",
-      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Songs to Brush Your Teeth To",
         "url": "https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 109388,
       "name": "Cover Your Sneeze",
       "url": "https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Music for Classroom Management",
+        "url": "https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1"
+      },
+      "artists": [
+        {
+          "name": "Heidi Butkus",
+          "url": "https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au"
+        }
+      ],
+      "duration_ms": 66613,
+      "name": "The Potty Dance Song",
+      "url": "https://open.spotify.com/track/0zLK9oC1XI6x29tpm0YX1l"
     },
     {
       "added_at": "2023-03-17 09:43:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,640 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,693 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 42 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 |
 | 43 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
 | 44 | [Como Eu Virei A Bad Girl](https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Carta Aberta \(Lado A\)](https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA) | 2:11 |
-| 45 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
-| 46 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 |
-| 47 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 |
-| 48 | [Refiz uma de Amor](https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ) | [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8) | [Refiz uma de Amor](https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no) | 3:11 |
-| 49 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
-| 50 | [Facim](https://open.spotify.com/track/3R6ywVCDqkW6gvuLEfgD1x) | [Lorak](https://open.spotify.com/artist/4lAgDPv5o0YoLrqUIKWFnu), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko) | [Lótus](https://open.spotify.com/album/07i6uDxq5RYgTUlsyGCuwL) | 2:05 |
+| 45 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
+| 46 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
+| 47 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/3X7HLxpqEgcA7f9lbXXKb5) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
+| 48 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 |
+| 49 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 |
+| 50 | [Refiz uma de Amor](https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ) | [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8) | [Refiz uma de Amor](https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no) | 3:11 |
 
-Snapshot ID: `MCwxZGM4NmVhZGZiMDI1MzYyNzNkODU1MDQwNTI0NWExZDM5ZmEzMTlh`
+Snapshot ID: `MCw3MzM1ZWQ5YWJmZDhlYTZlOTk4ZDJiYzIyOTY1MGE0MDg4ZGUyZGM5`

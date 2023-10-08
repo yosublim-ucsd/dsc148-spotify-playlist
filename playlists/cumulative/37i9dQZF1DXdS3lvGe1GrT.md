@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Shallow Alcove \| Visual Artist: Bailey Elder
 
-873 songs - 2 day 4 hr 24 min
+874 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Cowboy in London](https://open.spotify.com/track/5QC7cT16JXayKU12sefJkA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Cowboy in London](https://open.spotify.com/album/6OsovHPbu2W1ilfBj86VtO) | 3:25 | 2023-04-12 | 2023-06-08 |
 | [Cowboy Song](https://open.spotify.com/track/2AHDajtW9KnG8CS6PnZRt4) | [Bella Porter](https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3) | [Cowboy Song](https://open.spotify.com/album/3AyKiuWP2AWveRAqzRfxDq) | 4:35 | 2023-08-16 |  |
 | [Coyote](https://open.spotify.com/track/12AFcU2wS4AVy51SmOGuhE) | [Thomas LaVine](https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70) | [Coyote](https://open.spotify.com/album/4sZ02TuLWp3oQu9pOmNSdN) | 2:53 | 2022-08-31 | 2022-11-24 |
+| [CRM](https://open.spotify.com/track/6oWCVrmFhHy8OGc954jvjW) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 3:05 | 2023-10-06 |  |
 | [Crooked Creek](https://open.spotify.com/track/0mDww5zU1KP9X2Kx0hEzno) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Crooked Creek](https://open.spotify.com/album/5RkuHBZN2kIbUKpzIGyRl5) | 3:03 | 2023-01-25 | 2023-03-16 |
 | [Crossed Paths](https://open.spotify.com/track/13e0ZH44yMl5zMiFwTGXUD) | [Nydia Gonzalez](https://open.spotify.com/artist/3nH2RqalRI5Nf4WqQl51pI) | [Nydia Gonzalez](https://open.spotify.com/album/5KC0wppjb7Vz9PtvLtoZFP) | 2:29 | 2023-03-15 | 2023-04-21 |
 | [Crow](https://open.spotify.com/track/5UW5IgM1kZsYjkltaE3iGy) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Crow](https://open.spotify.com/album/2OSzhl1rtKVog2XrBMtkd1) | 3:23 | 2023-04-12 | 2023-05-18 |

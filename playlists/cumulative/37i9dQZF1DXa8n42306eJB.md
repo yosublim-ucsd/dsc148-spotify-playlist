@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-127 songs - 7 hr 42 min
+128 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Road Trip](https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh) | 3:09 | 2023-06-08 |  |
 | [Road Trip](https://open.spotify.com/track/6qNg20sM8sdhIiZTo1tstW) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [First XV](https://open.spotify.com/album/7iiz1chr32IjT3FLiC0dpt) | 3:09 | 2022-08-07 | 2023-07-14 |
 | [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 | 2021-08-24 | 2023-01-25 |
-| [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 | 2021-08-24 |  |
+| [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 | 2021-08-24 | 2023-10-08 |
+| [Roll Up](https://open.spotify.com/track/5EL3mthg2SPEdP9TwatN13) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/5pkgasaGKBAfkQaX9qh1cd) | 3:58 | 2023-06-08 |  |
 | [Rua Kenana](https://open.spotify.com/track/6TSOEqBlEZUdKpcNyvatne) | [David Grace & Injustice](https://open.spotify.com/artist/7bo4jTNuH0w9rlQXsrXnho) | [Rebelling](https://open.spotify.com/album/4TTD9CsTxSqBxNaLvPMRs8) | 4:53 | 2021-08-24 | 2023-03-10 |
 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 | 2021-08-24 |  |
 | [Show Me](https://open.spotify.com/track/2tCPIp83mRXvVTytTAf1W4) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:27 | 2021-08-24 |  |

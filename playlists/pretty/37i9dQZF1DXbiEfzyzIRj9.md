@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Mall Grab
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,923 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,948 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 33 | [Long Ago](https://open.spotify.com/track/3Sv8Txb3DxbalXwe5TlLAq) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Set The Roof](https://open.spotify.com/album/5QXXTODvdjHMUUTrMvS8lD) | 4:54 |
 | 34 | [Daydream](https://open.spotify.com/track/0cDL24bVUylhb8kw1BOeoQ) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr) | [Blueprint for The New Paradise EP](https://open.spotify.com/album/11C435OHLrwgdPfnJQrSp2) | 4:20 |
 | 35 | [End Credits](https://open.spotify.com/track/68CGQIywWzqe7snQrEOb9j) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [End Credits](https://open.spotify.com/album/74DMWfGIXby2BD5fmVhOJ0) | 3:33 |
-| 36 | [take notes.](https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [take notes\. EP](https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN) | 3:15 |
+| 36 | [take notes.](https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [take notes\. EP](https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN) | 3:15 |
 | 37 | [Take It](https://open.spotify.com/track/1sAZGCJEM8X7HeA93T7DcA) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Take It](https://open.spotify.com/album/4AWaBv2m15Ax6PC9qsCb9U) | 5:27 |
 | 38 | [Nobody Else Will Do](https://open.spotify.com/track/7523LoHW3sgiFG0GJcrV0C) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Nobody Else Will Do](https://open.spotify.com/album/6FQnPSIRDTKDxvZuFAH9qY) | 3:33 |
 | 39 | [Vajkoczy \- Edit](https://open.spotify.com/track/1yvQPboZAqEScMlwRR3XhW) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Vajkoczy](https://open.spotify.com/album/3oy1d5bjUEGw1GiJJ1vPLI) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 |
 | 100 | [Futaiten \- Original Mix](https://open.spotify.com/track/6sq4MZc6rH3IvpWBTeDOpG) | [Nobuharu Morimoto](https://open.spotify.com/artist/65alvKZhr7c6vuOZGb9CSa) | [Futaiten EP](https://open.spotify.com/album/6Mpkxa0xGGZCZ5dL4Nrpmo) | 5:33 |
 
-Snapshot ID: `MCw3N2RjNmE5MDA0YmNhOGYyYzE4MmVjM2Y5NDFhOTAxYjM0ODNkYjFk`
+Snapshot ID: `MCwxMjMzZTc1YTg5NGY2ODFkYzQ1NzMyNTc2ZmE5YzNhOTc2OGE0MjRk`

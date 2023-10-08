@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 
 > Let the hum of calming white noise box fans lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,512 likes - 116 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 116 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dcp04pqxsR.md) - [plain]
 | 115 | [Box Fan Rest Sound](https://open.spotify.com/track/6O5fgmjLSEtW1hHdFAR14I) | [Fan Sounds](https://open.spotify.com/artist/3rolEAXFOTW33tkUA2VOuo) | [Box Fan Hitzzz](https://open.spotify.com/album/178GPOUQv9AvmlVi0G5y3q) | 3:42 |
 | 116 | [Pedestal Floor Fan](https://open.spotify.com/track/0gYbTUF1cPlMjbsApYpps9) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Fans For Resting](https://open.spotify.com/album/4kXNVSB7wuEvwzKogxSL7s) | 3:22 |
 
-Snapshot ID: `MCwwZDllZDBhMzc4ZmQyZTk4ZGQxOTE1MzA4YmYwMzdmYzU4ZGE4ZjA3`
+Snapshot ID: `MCxiN2YyZDU4NzA5MTZhOTQ5NzkyM2Y5YmRlZWQzODlhZTdjZDAzNDlh`

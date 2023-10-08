@@ -790,6 +790,24 @@
     {
       "album": {
         "name": "Southern Hip Hop",
+        "url": "https://open.spotify.com/album/65JaPqNkS1B5VtfBZLgUS9"
+      },
+      "artists": [
+        {
+          "name": "Oilver Grey",
+          "url": "https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/0Qws7Y806JftF3TVAg7XAJ"
+    },
+    {
+      "album": {
+        "name": "Southern Hip Hop",
         "url": "https://open.spotify.com/album/3uaOPy2KG1oTOgGAsfPSed"
       },
       "artists": [
@@ -818,7 +836,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ"

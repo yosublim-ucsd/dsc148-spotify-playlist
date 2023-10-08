@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,171 likes - 109 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,190 likes - 109 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Still Working 2](https://open.spotify.com/album/6Bh2znaTLb4uZkY99tRvde) | 2:59 |
 | 109 | [Encore Une Fois](https://open.spotify.com/track/63kqU92X0Xxh0MiilmrpnW) | [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Classical 90s Dance \- The Icons](https://open.spotify.com/album/0owIszJHScaFc1U7GOVl0T) | 2:31 |
 
-Snapshot ID: `MCxlYTY0MzU0NzM5ZTg2ZGFjNzZmYjgwMDE4NTUxZTFjYzdiZTMwNTQw`
+Snapshot ID: `MCxlNWY4NTEyZTAzNTdjNGU0MGVjMzc1OGU4MjkwODQyYWM5MDQwODU2`

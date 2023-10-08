@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Sobel, Oki
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,756 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,917 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 4 | [ZERO SNU](https://open.spotify.com/track/0RN6FM4XRE2XvydGA3sLo5) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Kruzzo](https://open.spotify.com/artist/4To0MfuPYNKFChuiKFW50K), [XEIDEN](https://open.spotify.com/artist/40kXpqJi6aSgg9HNsWFyjx), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [ZERO SNU](https://open.spotify.com/album/4pmHsXsDswoTFSCtHkwtnG) | 3:15 |
 | 5 | [JEREMY SOCHAN](https://open.spotify.com/track/2WBejVahXeC1gjCXVOlgbq) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [bvdy47](https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4) | [JEREMY SOCHAN](https://open.spotify.com/album/1joqopmcT1uPuuXoQLvzVw) | 2:25 |
 | 6 | [Jolie Jolie](https://open.spotify.com/track/2JJ6WnAfVglnYfxZubSukn) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza) | [Jolie Jolie](https://open.spotify.com/album/11iiBc9zHpGhPrLWCgVZ2K) | 2:33 |
-| 7 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |
+| 7 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu), [Eklektik](https://open.spotify.com/artist/4pYFo3u8aGjSe38Ah436Bc) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |
 | 8 | [Stan](https://open.spotify.com/track/18bAMjHACL9Iphk0KB0z7o) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [Stan](https://open.spotify.com/album/4lSPL8p1PEevYs9RMgvqD0) | 3:01 |
 | 9 | [BFF](https://open.spotify.com/track/1kuhnhugcuXf4CiNdqCRUU) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [BFF](https://open.spotify.com/album/0eJ7DAYUyQmiE02ejiMuiO) | 2:54 |
 | 10 | [TYLE SŁOŃCA](https://open.spotify.com/track/2oILgeSykGjl0N9m0VvAjO) | [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0), [BAHsick](https://open.spotify.com/artist/0TuA7E5H4nlEtWvpXSr7uv) | [TYLE SŁOŃCA](https://open.spotify.com/album/34pnuaLEiWt0Cs4JQv2MM2) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [w aucie noc i 90bpm](https://open.spotify.com/track/4PG1vjjSiKQBdykSyqAHWG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Baltik Beatz](https://open.spotify.com/artist/5P2MqlvPHysck4DS90dBaW), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [w aucie noc i 90bpm](https://open.spotify.com/album/2XptoJZXg4ep4gAn91OQET) | 2:26 |
 | 50 | [NA ZAWSZE](https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 2:15 |
 
-Snapshot ID: `MCxjY2RlNzllMzczMjRhOWYzNWUwMWE5ZjEyMDU5ZDgzOWFkYjhjOTA4`
+Snapshot ID: `MCw1MDg1NGQzNWEwNGQxZWZiMjY3NmNlMzY4MWMxNjkwZDAzMzcyNjE0`

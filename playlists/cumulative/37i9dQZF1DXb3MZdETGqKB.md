@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Buffalo Nichols
 
-243 songs - 14 hr 11 min
+244 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,9 +185,10 @@
 | [SOUL SURVIVOR](https://open.spotify.com/track/73MKab27Y3FEniBWoBIyiT) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [COME AS YOU ARE](https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2) | 3:35 | 2023-08-18 |  |
 | [Spin Me Round](https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ) | [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg), [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Spin Me Round](https://open.spotify.com/album/4VegcvNuAqwaoVLpugOT2e) | 3:00 | 2022-02-25 |  |
 | [State of Mind](https://open.spotify.com/track/2Y6FugxQpIz6Nj88w4Bfd5) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [State of Mind](https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO) | 3:19 | 2022-07-01 |  |
-| [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-04-08 |  |
+| [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-04-08 | 2023-10-08 |
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-04-08 | 2023-08-21 |
 | [Stay away from me](https://open.spotify.com/track/7EaZMdAtVy23yoa8HELJgF) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/2B1YbPhjd2tp1KAcwM26Ra) | 2:42 | 2022-04-08 | 2022-08-05 |
+| [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 | 2022-04-08 |  |
 | [Storms from My Eyes](https://open.spotify.com/track/5ZWk8lQd6PHrJUCEQJkFGj) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene) | [Long River](https://open.spotify.com/album/5i3kWvr8Yj4iETRXlrQNVN) | 4:54 | 2022-03-11 |  |
 | [Strike Gold](https://open.spotify.com/track/3g3vayoe4Y10leAHdrvTnM) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5M6sqKBlKeBTACwzWexteZ) | 3:20 | 2022-10-07 | 2022-11-14 |
 | [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2022-10-07 |  |

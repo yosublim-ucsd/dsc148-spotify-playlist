@@ -4,7 +4,7 @@
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Abida Parveen
 
-59 songs - 8 hr 5 min
+60 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Maula\-E\-Kull](https://open.spotify.com/track/3zNiOIeRHP8Ag6ILRndRpo) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 9:52 | 2022-01-16 | 2022-07-29 |
 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 | 2022-01-16 |  |
 | [Nigah\-e\-Darwaishaan](https://open.spotify.com/track/17jviNB6XcZq7HeuqeIsry) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:52 | 2022-01-16 |  |
-| [Rabba Ho](https://open.spotify.com/track/21TUkZlJV8Z5viGmSuqL7r) | [Mulazim Hussain](https://open.spotify.com/artist/6H2TOX4OWT02uU3RjpCzRI) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:27 | 2022-01-16 |  |
+| [Rabba Ho](https://open.spotify.com/track/21TUkZlJV8Z5viGmSuqL7r) | [Mulazim Hussain](https://open.spotify.com/artist/6H2TOX4OWT02uU3RjpCzRI) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:27 | 2022-01-16 | 2023-10-08 |
+| [Rabba Ho](https://open.spotify.com/track/7zwHjxAcuPiBmov76BqglM) | [Mulazim Hussain](https://open.spotify.com/artist/2suttLotEY0zAuXYPswTEq) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:27 | 2022-10-12 |  |
 | [Rabba Ho](https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:57 | 2022-01-16 |  |
 | [Rabba Sacheya](https://open.spotify.com/track/1XCgN0cgIQOv7LdrYUPNiG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:50 | 2022-01-16 |  |
 | [Ramooz\-e\-Ishq](https://open.spotify.com/track/0ACKL5UYeC8Jut5ff8xQ7Y) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 10:22 | 2022-01-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 276397,
+  "num_followers": 276472,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjU3MTdiNTM3ZTU1YTIyOWY0MjdmYjJiNGE0NWQyZDZlNjhiOGM3",
+  "snapshot_id": "MCwwODEzYzQzMWNhNDkwYzE0MDMzMWY2Y2IwZTA4NmI0ZDE1Y2UzNDFj",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Auto-Pain",
-        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+        "name": "Ultra Mono",
+        "url": "https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7"
       },
       "artists": [
         {
-          "name": "Deeper",
-          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
         }
       ],
-      "duration_ms": 204786,
-      "name": "This Heat",
-      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
+      "duration_ms": 318694,
+      "name": "A Hymn",
+      "url": "https://open.spotify.com/track/0atNheZuMnQDtTnJOzd96N"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Auto-Pain",
+        "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
+      },
+      "artists": [
+        {
+          "name": "Deeper",
+          "url": "https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S"
+        }
+      ],
+      "duration_ms": 204786,
+      "name": "This Heat",
+      "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Ultra Mono",
-        "url": "https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 318694,
-      "name": "A Hymn",
-      "url": "https://open.spotify.com/track/0atNheZuMnQDtTnJOzd96N"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "It's a Myth",
+        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
+      },
+      "artists": [
+        {
+          "name": "Sneaks",
+          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+        }
+      ],
+      "duration_ms": 197613,
+      "name": "Look Like That",
+      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Demolition Row",
         "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 258250,
       "name": "Demolition Row",
       "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "TRU",
-        "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
-      },
-      "artists": [
-        {
-          "name": "Ovlov",
-          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
-        }
-      ],
-      "duration_ms": 202528,
-      "name": "Stick",
-      "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
     }
   ],
   "unique_name": "Post Punk",

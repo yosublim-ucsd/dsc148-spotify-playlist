@@ -2681,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Interstellare",
+        "url": "https://open.spotify.com/album/5fdQZkXP1jZ3CcekEpM2ms"
+      },
+      "artists": [
+        {
+          "name": "Luna Novina",
+          "url": "https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172875,
+      "name": "Interstellare",
+      "url": "https://open.spotify.com/track/1E4isOfwYnMGsDWVr3y9ox"
+    },
+    {
+      "album": {
         "name": "It Can Wait",
         "url": "https://open.spotify.com/album/3tF55dCt7sfIDY7YefEwre"
       },
@@ -5742,6 +5760,24 @@
       "duration_ms": 201224,
       "name": "Unity",
       "url": "https://open.spotify.com/track/0gcxkJ3YAK9xp7tPZaNVAJ"
+    },
+    {
+      "album": {
+        "name": "Univers",
+        "url": "https://open.spotify.com/album/4wtF3mGlPf6NCRxASPmz1J"
+      },
+      "artists": [
+        {
+          "name": "Airin",
+          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "Univers",
+      "url": "https://open.spotify.com/track/7eGnw3MNuTmUBO62M3skKL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,535 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,696 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 11 | [Aethu Kari Raavilum \- From "Bangalore Days"](https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Bangalore Days](https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN) | 5:25 |
 | 12 | [Cherathukal \(From "Kumbalangi Nights"\)](https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b) | 3:44 |
 | 13 | [Pala Palli \- From "Kaduva"](https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR) | [Pala Palli \(From "Kaduva"\)](https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk) | 4:30 |
-| 14 | [Jil Jil Jil](https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj) | [Varsha Renjith](https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb), [Meera Prakash](https://open.spotify.com/artist/7j6IFEqEjhyCZ7orLZDP8Y) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 5:36 |
-| 15 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 |
+| 14 | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61) | [Jeevamshamayi \(From "Theevandi"\)](https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1) | 5:23 |
+| 15 | [Jil Jil Jil](https://open.spotify.com/track/3DTtRxqlIhnWKW9WjRQnGj) | [Varsha Renjith](https://open.spotify.com/artist/2CJl46UZja5lOhOegAkQRb), [Meera Prakash](https://open.spotify.com/artist/7j6IFEqEjhyCZ7orLZDP8Y) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 5:36 |
 | 16 | [Nee Himamazhayayi \- From "Edakkad Battalion 06"](https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo) | [Kailas](https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P) | [Nee Himamazhayayi \(From "Edakkad Battalion 06"\)](https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k) | 5:04 |
 | 17 | [Uyiril Thodum \(From "Kumbalangi Nights"\)](https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Anne Amie](https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x) | [Kumbalangi Nights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b) | 3:56 |
 | 18 | [Ee Kaattu](https://open.spotify.com/track/2uddWiAVaH4owVLOHZgjGp) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3) | [Adam Joan](https://open.spotify.com/album/1c0bWXAeQ4tNpIB7Ok3pSo) | 5:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 59 | [Ollulleru](https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU) | [Praseetha Chalakudy](https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu) | [Ajagajantharam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q) | 3:22 |
 | 60 | [Nilamanaltharikalil](https://open.spotify.com/track/2YkAVDBfSlywIjTKZ70frH) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Shreya Raghav](https://open.spotify.com/artist/48uEViNP9e5Y3P4LGCknA7) | [Kismath](https://open.spotify.com/album/2ewjwb0heMH9lL49rMV7Ji) | 3:51 |
 
-Snapshot ID: `MCwxOGMxYTAyZTdkNGEzNzdhYTc1NjEzNTBmNzhkYzNkM2UyYmY3NTYx`
+Snapshot ID: `MCwyM2M0ZTE4ZTQ5OGI2YmY1ZWVhMDU0ZjUzOTJmOTM2ZTMxZGQ2YzM3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Cheat Codes x A7S
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,922 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,981 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [All The Things She Said](https://open.spotify.com/track/3a5VAKV2lXI2x2jQEgrX3B) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [All The Things She Said](https://open.spotify.com/album/6RaqLOaAQCJhhhn9xvTT9T) | 2:49 |
 | 3 | [Desire](https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Desire](https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR) | 4:05 |
 | 4 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 |
-| 5 | [Use Somebody](https://open.spotify.com/track/3OMPWTq5VHsR2P6Z5hx5Rn) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [R33NGHT](https://open.spotify.com/artist/3yzCjtolzKw78XHhlVhRrl), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Use Somebody](https://open.spotify.com/album/7G5FPlHK3nTzxH5ifV1bsj) | 2:50 |
+| 5 | [Use Somebody](https://open.spotify.com/track/3OMPWTq5VHsR2P6Z5hx5Rn) | [AISKA](https://open.spotify.com/artist/6ZA8fsdjN3o5ZUGs9avvwI), [R33nght](https://open.spotify.com/artist/0eSmAHSDDU77pXlr83pjEE), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Use Somebody](https://open.spotify.com/album/7G5FPlHK3nTzxH5ifV1bsj) | 2:50 |
 | 6 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 7 | [Don't Step On My Nikes](https://open.spotify.com/track/60rwDygmXmbkD5OVc508y9) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Don't Step On My Nikes](https://open.spotify.com/album/3IOrmd5uhcEwnLyWXEmM1d) | 2:36 |
 | 8 | [The One](https://open.spotify.com/track/2h5CVxnbUUM2g3VdcXjCuT) | [Small ToK](https://open.spotify.com/artist/6hV8ewHG3ztpkuoZATWO3I), [R\-CHY](https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd) | [The One](https://open.spotify.com/album/58LXm6XbKUp4SNSy83B2qM) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 74 | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Conor Byrne](https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB) | [What We Know \(feat\. Conor Byrne\)](https://open.spotify.com/album/1OeHZucueiMEy970AN5vHd) | 2:48 |
 | 75 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 
-Snapshot ID: `MCwxMGFmNzI0MmUwNzIzODJiZDYzNGMzYzhkNDUxN2M4YTdmYzEwMDg3`
+Snapshot ID: `MCxlMjhjMGVmYzViNzZhMzAwNTg2NWVhNmM5NTM0NDRmODk2MDU3NWJj`

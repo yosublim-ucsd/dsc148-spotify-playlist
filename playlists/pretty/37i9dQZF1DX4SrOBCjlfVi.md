@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake, Earl Sweatshirt and more\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,328 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,416 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 46 | [Someone I Knew](https://open.spotify.com/track/1fbgXK7wcdKu42CI5l0dTP) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Someone I Knew](https://open.spotify.com/album/2WpilJ7vktkFimmAKuuAay) | 4:28 |
 | 47 | [Like This](https://open.spotify.com/track/7w6IHqtK23V5hHNdHYc1a1) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL) | [Like This](https://open.spotify.com/album/4EHr4oTkxD3qdbmd3tJyzx) | 2:02 |
 | 48 | [Big Pimpin \(feat\. Gloss Up\)](https://open.spotify.com/track/4v0F8UiCSWI8tGpWxZXBTl) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Highly Favored](https://open.spotify.com/album/5ZYFLZN8cHB3YgHVmMCVcO) | 2:25 |
-| 49 | [Return of the Gangsta](https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Return of the Gangsta](https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx) | 2:44 |
+| 49 | [Return Of The Gangsta](https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Return Of The Gangsta](https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx) | 2:44 |
 | 50 | [Rap Game Dead](https://open.spotify.com/track/0XHuPRrqUSjup0cyPc1kSF) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Rap Game Dead](https://open.spotify.com/album/0WAtfFhLs7okYM50r51RIv) | 3:12 |
 
-Snapshot ID: `MCxjNDk0YzNlODhlN2Y3NjUzMjBhYWY4Y2E4MTNjMTRkY2RiYjAwMGM4`
+Snapshot ID: `MCwyZDJlNjFhNDE3YjgwM2ZmNzdlYmYwMzMwMDZlYTE5ODlmNDBhMjM5`

@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "album": {
         "name": "Pase lo Que Pase",
         "url": "https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179"
       },
@@ -810,7 +828,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 232546,
       "name": "Sweet Reggae Music",
       "url": "https://open.spotify.com/track/0osXzU5Ao7oLwL5l7B2o0y"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,952 likes - 52 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,183 likes - 52 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 4 | [Scotland](https://open.spotify.com/track/7MiNGcNnLD9YSnkxnj5lue) | [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [A History Of Scotland](https://open.spotify.com/album/0eUIFRjts9n258Sj83kpEY) | 2:12 |
 | 5 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |
 | 6 | [Discovering River](https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 1:11 |
-| 7 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 |
+| 7 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/39DhHP2vt6cCeZKuymyFmG) | 2:21 |
 | 8 | [Sherwood Forest](https://open.spotify.com/track/51zjgYMqhtxjYckGppYoce) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QN1oNiNm33SVenYlW7ADL) | 2:19 |
 | 9 | [Vesper](https://open.spotify.com/track/5XNXEhNaj04CgXy8JvYiIL) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Casino Royale](https://open.spotify.com/album/4GWyNknKDbVB8Lg1IiTy5k) | 1:44 |
 | 10 | [Alone](https://open.spotify.com/track/3QSRRHhArU8GeyBgmEFE1q) | [Stephen Warbeck](https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW) | [Princess Ka'iulani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XbaiobrzpOfX61PzppoRc) | 1:10 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 51 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 52 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `MCw4ZWE3MTFjNzYxNjZhYjAyNzI4ODNhYzRmMmUyM2EzY2U1N2MwZGFh`
+Snapshot ID: `MCwzYmY3YTFjMzZkNjM0YTgyNmZlODA0M2NiZGYwNGRmM2JlMGViNmM1`

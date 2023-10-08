@@ -166,6 +166,24 @@
     {
       "album": {
         "name": "Carnegie Hall Concert",
+        "url": "https://open.spotify.com/album/37k1QgDqGNemtteDpQ2jcU"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/6BUATFGBoLEuNKyZbbLagO"
+    },
+    {
+      "album": {
+        "name": "Carnegie Hall Concert",
         "url": "https://open.spotify.com/album/6wX2ZCo6yoB3H6lmTvpJc2"
       },
       "artists": [
@@ -1478,7 +1496,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 259839,
       "name": "Have Mercy - Live",
       "url": "https://open.spotify.com/track/4oqccT60r2CToU9ulJUvvD"
@@ -2344,7 +2362,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 308426,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/484oP58WwZ4wpMEUJKwnFR"
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 159266,
       "name": "Walking Shoes",
       "url": "https://open.spotify.com/track/5h6dIlsk8CBz0GHBp6EE0y"

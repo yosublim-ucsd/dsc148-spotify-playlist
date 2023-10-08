@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kris Kross Amsterdam, SERA, Conor Maynard
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,108 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,138 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 20 | [your girl](https://open.spotify.com/track/3VllMZ9CxrnFxPXheIjjJZ) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [your girl](https://open.spotify.com/album/0XnkQw1MuibGGpvaIVJ7so) | 3:23 |
 | 21 | [Realize](https://open.spotify.com/track/3czKSbTHpNu7MDq1O6HCOJ) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Realize](https://open.spotify.com/album/3SPOfZEyLWuEKBEtUxREDp) | 2:57 |
 | 22 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 |
-| 23 | [Slide \(feat\. Burleson, Oykie & C.Smoke\) \- Hosted by 4shobangers](https://open.spotify.com/track/6nV6pexMttJdQK2qnoi9m2) | [Taylorr](https://open.spotify.com/artist/0NhVoTFmR7nYqDwqJO4Uqz), [Hmizo](https://open.spotify.com/artist/6gYNHOJgGijmZUjpcEGCEB), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [C.SMOKE](https://open.spotify.com/artist/1xeyFlAHIrORp2L0HamXb6), [4shobangers](https://open.spotify.com/artist/3HcSTFQCKrlPFBfaurV3l5) | [Slide \(feat\. Burleson, Oykie & C.Smoke\) \[Hosted by 4shobangers\]](https://open.spotify.com/album/4QiixZVV8RN9jP55npbDSh) | 4:04 |
+| 23 | [Slide \(with C.Smoke, Burleson & Oykie\)](https://open.spotify.com/track/6nV6pexMttJdQK2qnoi9m2) | [Taylorr](https://open.spotify.com/artist/0NhVoTFmR7nYqDwqJO4Uqz), [Hmizo](https://open.spotify.com/artist/6gYNHOJgGijmZUjpcEGCEB), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [C.SMOKE](https://open.spotify.com/artist/1xeyFlAHIrORp2L0HamXb6), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [4shobangers](https://open.spotify.com/artist/3HcSTFQCKrlPFBfaurV3l5) | [Slide \(with Burleson, Oykie & C.Smoke\) \[Hosted by 4shobangers\]](https://open.spotify.com/album/4QiixZVV8RN9jP55npbDSh) | 4:04 |
 | 24 | [Amsterdam](https://open.spotify.com/track/4Og8EvfCAeVbdDYhE8T1r8) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Amsterdam](https://open.spotify.com/album/1LONxYwCZpkSvn1gbmEl2o) | 3:40 |
 | 25 | [Ultraviolet](https://open.spotify.com/track/5dluZPlQJhDp5IqDAjkrIV) | [Aafke Romeijn](https://open.spotify.com/artist/7JXt7NDSPYN39EDLs58huE), [Alex Callier](https://open.spotify.com/artist/78VQlKbqnXRBuqzysiPoOo) | [Ultraviolet](https://open.spotify.com/album/6wOCdsuRGSq6kLt0DaPx7P) | 3:43 |
 | 26 | [Fly By](https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Fly By](https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 |
 | 100 | [Rocketship](https://open.spotify.com/track/0vWQiEw7qjknJKiJ9fNy0y) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Rocketship](https://open.spotify.com/album/3xtsrCBIcf6TLsqOVbQZay) | 4:15 |
 
-Snapshot ID: `MCxjY2FmOTRmZDA1MTc5YTUwNWU3ODFhMjM3MTUyN2FkM2JiNGRiMTBm`
+Snapshot ID: `MCxmNjU1MzM4M2MwMWM3ZjhlYjFkYzU2ZjE4YTJkMWM5MGFjYTEyZDVh`

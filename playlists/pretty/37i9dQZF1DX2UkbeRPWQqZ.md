@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,289 likes - 152 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,304 likes - 152 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 31 | [On More Sleep](https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:59 |
 | 32 | [Goodnight Sweetheart Goodnight](https://open.spotify.com/track/6aSIzLuudxibkJ2tThjrRW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Goodnight Sweetheart Goodnight](https://open.spotify.com/album/2OO9vocjFJCDKbSEXUR2BT) | 1:56 |
 | 33 | [Five Little Ducks](https://open.spotify.com/track/0w1qbxTWTL464db5hu4JWj) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Five Little Ducks](https://open.spotify.com/album/1uQUnfMkzeLj5zaWxOevW5) | 2:39 |
-| 34 | [Sing a Song of Sixpence](https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC) | [Little Otis](https://open.spotify.com/artist/3KQob5Z5mFfoercRYtE6m4) | [Sing a Song of Sixpence](https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow) | 1:41 |
+| 34 | [Sing a Song of Sixpence](https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC) | [Little Otis](https://open.spotify.com/artist/6q2kdnpSw8kD7BzG2X6gxF) | [Sing a Song of Sixpence](https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow) | 1:41 |
 | 35 | [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 |
 | 36 | [The Wooden Boat](https://open.spotify.com/track/40NTbA5i01HrmuSvqjdfJ8) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [The Wooden Boat](https://open.spotify.com/album/2Rj5uDGfVr7Ey6McZH0YGL) | 2:19 |
 | 37 | [Elder](https://open.spotify.com/track/3zIeAw0QM8l0mElw7BnPV9) | [Hjalmar Lagerqvist](https://open.spotify.com/artist/3Zk8GcjOL3OAI8zS8t1b0S) | [Elder](https://open.spotify.com/album/47JRvUslwwHwfVF3cfVglr) | 1:58 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 151 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 |
 | 152 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 |
 
-Snapshot ID: `MCxjZjM5NDIzZDM4NzI3ZDQ3ODUxZjAyNTU1MmU3NWNkNjRlZGNjNjRm`
+Snapshot ID: `MCw3ZTM1ODdmZmUwMjJjZDc2M2M0ZGRkZTg2NGE1Yjg0MjJjNGE5MjQ1`

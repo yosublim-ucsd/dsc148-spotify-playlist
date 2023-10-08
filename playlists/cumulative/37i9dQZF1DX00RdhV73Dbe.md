@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-129 songs - 10 hr 31 min
+130 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Memories Fade](https://open.spotify.com/track/4sYvvnzal0yQJ8qGEJeR3M) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 5:03 | 2022-07-29 | 2023-04-14 |
 | [Memories Fade](https://open.spotify.com/track/1Qr9NCPskdaN394Oxt0eAA) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 5:05 | 2022-07-29 | 2022-11-13 |
 | [Midsommar](https://open.spotify.com/track/7xJT1Sge4iqzoclKg8FIDx) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Midsommar](https://open.spotify.com/album/1PrAfISnIa9BPJ21hAiA7u) | 4:35 | 2023-04-13 |  |
-| [Mimosa 2000](https://open.spotify.com/track/5zykwy5pua9TcKofW7ow7p) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/3a4zclzlx7gt1koqFqWwXD) | 2:20 | 2023-04-13 |  |
+| [Mimosa 2000](https://open.spotify.com/track/5zykwy5pua9TcKofW7ow7p) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/3a4zclzlx7gt1koqFqWwXD) | 2:20 | 2023-04-13 | 2023-10-08 |
+| [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 | 2023-04-13 |  |
 | [Momus](https://open.spotify.com/track/5Dk6NPiP14FqIml2okckiM) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b) | [Momus / Sacro](https://open.spotify.com/album/5RjynTbAenCC08h5ALbnvK) | 6:36 | 2022-07-29 | 2023-04-14 |
 | [Motion Sickness](https://open.spotify.com/track/4GsjpgN5cD2QpaXNVfcCrA) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:13 | 2023-04-13 |  |
 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 | 2022-07-29 | 2023-04-14 |

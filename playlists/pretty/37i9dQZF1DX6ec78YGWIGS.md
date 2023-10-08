@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Feat\. Maria Becerra y Enrique Iglesias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,322 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,873 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 99 | [Cursi](https://open.spotify.com/track/2ePVy5fIcduj4U70PKlA8Z) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Cursi](https://open.spotify.com/album/6MOLgG4WHVrY2iYFSY6KEZ) | 2:58 |
 | 100 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 
-Snapshot ID: `MCw5Mzg0YWFkNTEyMzdjZTc4M2ZkZDU5OGRkMTMyNzJiZGM2Njc3Njgx`
+Snapshot ID: `MCxiNmNlZTcxZTgyOTY5NjA1NTdmYjVjODg1MTAyMzAzZDM2NWIwNGNi`

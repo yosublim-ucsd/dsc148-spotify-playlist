@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,808 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,934 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 34 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Jorge Federico Osorio](https://open.spotify.com/artist/1Tt4CRnh4VCWn6UymYP057) | [The French Album](https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI) | 5:59 |
 | 35 | [Martyrdom \- Movement 1](https://open.spotify.com/track/50LqUYIes3bfMQ7mSHrXzA) | [Calum Martin](https://open.spotify.com/artist/6PVCEjWmAFpQwdHhVhBJIT), [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [Hugh Wilson](https://open.spotify.com/artist/7ncGVIFxTwhKnirYwJ2E6a), [Cecilia Weston](https://open.spotify.com/artist/7wDGcaDnFQX255UV92O8jt), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM), [Helen Thomson](https://open.spotify.com/artist/4ap43t2OsiKCMJbGvD98ck) | [The Edge of the Sea](https://open.spotify.com/album/3zq52RW2eBB7jvKiAYm6tH) | 2:08 |
 | 36 | [Maribel](https://open.spotify.com/track/0d7dpG6tUWelr6FiWwF9uy) | [Oskar Schuster](https://open.spotify.com/artist/06n2rDm62tW55l6cZEL15r) | [Maribel](https://open.spotify.com/album/0iIrXR9x55TcFUDdzHEvD0) | 2:43 |
-| 37 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 |
+| 37 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/39DhHP2vt6cCeZKuymyFmG) | 2:21 |
 | 38 | [Haar over Hamnavoe \- Bill Ryder\-Jones Rework](https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Haar over Hamnavoe \(Bill Ryder\-Jones Rework\)](https://open.spotify.com/album/20ek3LDlmNsbU44XmMP6cb) | 3:53 |
 | 39 | [Willow](https://open.spotify.com/track/3bMks007brAPs3uP8Vq9tu) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Willow](https://open.spotify.com/album/3KuZlFMLInM67TA7hmPs1k) | 3:05 |
 | 40 | [Dappled Light](https://open.spotify.com/track/5bhbv1xIbk0SbfQ2MEXe8F) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Howard: Dappled Light](https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF) | 4:11 |

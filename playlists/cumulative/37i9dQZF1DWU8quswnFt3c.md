@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Nadya Okamoto
 
-1,505 songs - 3 day 10 hr 58 min
+1,506 songs - 3 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [Dziewczyna z tatuażem](https://open.spotify.com/track/2Vj7I6BgiUEsCOI2gZiY5Q) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Dziewczyna z tatuażem](https://open.spotify.com/album/4lk4BJI6KHPfgVW1Mb28Re) | 5:04 | 2022-10-04 | 2022-11-03 |
 | [Dziwoląg](https://open.spotify.com/track/32UXpfgM7meOgdsr0VVk61) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Dziwoląg](https://open.spotify.com/album/3BY9C6MyCIOSEUTqV4jMsv) | 2:27 | 2022-09-07 | 2022-10-05 |
 | [Déconstruction](https://open.spotify.com/track/08TCJTR4MrhByX6prkVZ2A) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:47 | 2022-11-02 | 2022-12-01 |
-| [Déjà vu](https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Déjà vu](https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm) | 3:05 | 2023-09-06 |  |
+| [Déjà vu](https://open.spotify.com/track/65AkOkjVMHm8gwdg0j2khw) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Déjà vu](https://open.spotify.com/album/4mMT077W7zWQvtBJQNABkm) | 3:05 | 2023-09-06 | 2023-10-08 |
 | [Dér \(feat\. Wads.png\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads.png](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads.png\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2023-06-07 | 2023-07-06 |
 | [Echo](https://open.spotify.com/track/0YUYmUbaP8p7hPQPY5pdXe) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:40 | 2022-06-01 | 2022-07-07 |
 | [Eco \- A COLORS SHOW](https://open.spotify.com/track/3WkTWK2VCy8R9Lzb8q6AgP) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Eco \- A COLORS SHOW](https://open.spotify.com/album/28P2W9MunOGmfnDetyntYx) | 2:54 | 2021-12-11 | 2022-01-06 |
@@ -795,6 +795,7 @@
 | [mexico city](https://open.spotify.com/track/4yl95JyeOUopdg7GXlnY0o) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:27 | 2022-11-02 | 2022-11-10 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-07 | 2022-10-05 |
 | [Mi Milas](https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mi Milas](https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX) | 2:58 | 2023-05-03 | 2023-07-06 |
+| [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 | 2023-10-05 |  |
 | [Miasto](https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Miasto](https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv) | 2:25 | 2023-03-01 | 2023-03-09 |
 | [midnight rendezvous](https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [midnight rendezvous](https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J) | 2:36 | 2023-04-05 | 2023-05-04 |
 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-06-19 | 2023-07-06 |

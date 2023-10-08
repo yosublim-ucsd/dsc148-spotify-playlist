@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: Burna Boy
 
-392 songs - 21 hr 21 min
+393 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-19 |  |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2023-08-24 |  |
 | [CHOP N PRAY](https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [AFROSOUL \(Deluxe\)](https://open.spotify.com/album/69TI5V5QKajFC7ydxSbVgP) | 2:59 | 2021-09-10 | 2022-07-29 |
-| [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 | 2023-08-24 |  |
+| [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 | 2023-08-24 | 2023-10-08 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-08-24 |  |
 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:31 | 2022-07-08 | 2023-01-18 |
 | [Come Over \(Remix\)](https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Come Over \(Remix\)](https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt) | 2:25 | 2021-09-10 |  |
@@ -205,6 +205,7 @@
 | [Loose Guard \(I See, I Saw\) \- Remix](https://open.spotify.com/track/27WaGSGscMbmBInzVyva5o) | [Legendary Styles](https://open.spotify.com/artist/3HHlDTYCeYwlkweCllEUGL), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Loose Guard \(I See, I Saw\) \[Remix\]](https://open.spotify.com/album/0q9qzT28dnuJVaiy8I8UFz) | 2:08 | 2021-09-10 | 2022-04-20 |
 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 | 2022-08-05 | 2023-01-27 |
 | [Lost \(with Angelos feat\. Jinadu\)](https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 6:04 | 2022-03-25 | 2022-04-21 |
+| [Lotto](https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Lotto](https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ) | 3:05 | 2023-08-24 |  |
 | [Love & Loyalty \(feat\. Mannywellz\)](https://open.spotify.com/track/740vfmatXFtyNO8FzsQpSN) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Love & Loyalty \(feat\. Mannywellz\)](https://open.spotify.com/album/2P7btxS7XO271QeOm21qme) | 3:10 | 2022-03-25 | 2022-04-19 |
 | [Love In The Morning](https://open.spotify.com/track/5FJWwLHbfv7K6aT6SfPYsf) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Love In The Morning](https://open.spotify.com/album/2KHrefoZBiwAEtcC2Mr37l) | 2:39 | 2022-03-25 | 2022-04-21 |
 | [Love Nobody](https://open.spotify.com/track/2pg8Vb16ItDI2bovhZalrQ) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Love Nobody](https://open.spotify.com/album/6TIHRkJD000qOjjYc0gcSR) | 3:30 | 2021-09-10 | 2022-07-29 |

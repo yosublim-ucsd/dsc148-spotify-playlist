@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 189774,
+  "num_followers": 189864,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE4MmEyOGEyYjFkYzIyZjBlZDI3YzY1N2M4YjA4MzMyMWM0Y2U5",
+  "snapshot_id": "MCw1ODljNmM3NGYwN2I1MTYwODgxYmEzNGJhNjhiNzU3MzM4ZGQzZDNl",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Your Ghost",
-        "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Your Ghost",
-      "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Postcards",
         "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Your Ghost",
+        "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Your Ghost",
+      "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
     },
     {
       "added_at": "2023-10-05 22:00:00",

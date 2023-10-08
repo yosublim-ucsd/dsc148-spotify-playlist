@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="spotify:playlist:37i9dQZF1EFFaNIqhJxmrd"> Fanny Hultman</a>, <a href="spotify:artist:44pv88VpkRu39v0lupR2gZ">Maria Hazell</a> & <a href="spotify:artist:7AzjETXRUKNRSJHMW9GIqd">Nina Nesbitt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,360 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,412 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [99 Bottles](https://open.spotify.com/track/5zLW82dCjRf026PYvDgPmQ) | [Aria Lisslo](https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl) | [99 Bottles](https://open.spotify.com/album/2d4r9zI6jfm98wYSktbv0R) | 2:31 |
 | 40 | [Final Warning](https://open.spotify.com/track/6LoTdUBOWRHpKlXL06glRc) | [Demi Jordanae](https://open.spotify.com/artist/1KxYTEoVRJJrunEDMlYQm5) | [Final Warning](https://open.spotify.com/album/3Jfj0vVvCz7c4TjubMT55z) | 3:15 |
 
-Snapshot ID: `MCw5MzU3YWE0NDEwMTlkYzFjNTZjNDgyMTIzMDYxYjc2Y2MzNmI4MDZi`
+Snapshot ID: `MCwxNWZiMjczMDM0MmViZDdiZjdiOGRhYzI5ODk5OTQ5NTFkOGJkOWQ2`

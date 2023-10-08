@@ -5136,10 +5136,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 194732,
       "name": "Eine gute Frau",
       "url": "https://open.spotify.com/track/0KIh0zAr83if1GrCQBzLUN"
+    },
+    {
+      "album": {
+        "name": "Periodt",
+        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
+      },
+      "artists": [
+        {
+          "name": "Nura",
+          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194732,
+      "name": "Eine gute Frau",
+      "url": "https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk"
     },
     {
       "album": {

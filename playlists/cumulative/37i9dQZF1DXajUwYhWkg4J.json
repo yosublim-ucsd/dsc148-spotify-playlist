@@ -816,10 +816,28 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 387399,
       "name": "Rabba Ho",
       "url": "https://open.spotify.com/track/21TUkZlJV8Z5viGmSuqL7r"
+    },
+    {
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
+      },
+      "artists": [
+        {
+          "name": "Mulazim Hussain",
+          "url": "https://open.spotify.com/artist/2suttLotEY0zAuXYPswTEq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387399,
+      "name": "Rabba Ho",
+      "url": "https://open.spotify.com/track/7zwHjxAcuPiBmov76BqglM"
     },
     {
       "album": {

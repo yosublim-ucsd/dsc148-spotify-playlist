@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,119 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,132 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 39 | [El Hal](https://open.spotify.com/track/3v5NsC4haAYY45sdgbXcQa) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [El Hal](https://open.spotify.com/album/60Zh8DYe69XKcdMJnIuwP7) | 2:27 |
 | 40 | [SHOULD I ?](https://open.spotify.com/track/6TTmWfbqFVyDZwCEJGgubC) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [SHOULD I ?](https://open.spotify.com/album/3f1IierbFvj70gGYcTZTai) | 2:16 |
 | 41 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
-| 42 | [Return of the Gangsta](https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Return of the Gangsta](https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx) | 2:44 |
+| 42 | [Return Of The Gangsta](https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Return Of The Gangsta](https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx) | 2:44 |
 | 43 | [SHEEP](https://open.spotify.com/track/2uzIB1Yh0527gZ55T5LFjO) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM) | [SHEEP](https://open.spotify.com/album/0TCotQ7eABVgwu7dSzWIxI) | 2:58 |
 | 44 | [Risky \(Remix\)](https://open.spotify.com/track/1vjoN7nIgdXYpZpFSZxDgs) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [Risky \(Remix\)](https://open.spotify.com/album/4MwpAnktQ7RRyCO8KZv4VN) | 4:59 |
 | 45 | [UNSTOPPABLE FREESTYLE](https://open.spotify.com/track/309L3Xv3OhZcxDGzxSua9T) | [TARiiiQ](https://open.spotify.com/artist/2ALwFi4e5UaTvVMddicA4g) | [UNSTOPPABLE FREESTYLE](https://open.spotify.com/album/0qshc4hFbH0jd5iV6eYXz1) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Eulogy](https://open.spotify.com/track/7xJWGfDc84YaMb50OzNRnP) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Eulogy](https://open.spotify.com/album/14Ewo2Sl4sBze2RTuC6FKf) | 3:16 |
 | 50 | [Hiroshima](https://open.spotify.com/track/3LmLdqZji5uGH7DvcOExOh) | [MLNY](https://open.spotify.com/artist/0rkQpV5CBdnY1tHjBH0mVD) | [Hiroshima](https://open.spotify.com/album/1yt1hemh93PHMTRlwWZtec) | 1:51 |
 
-Snapshot ID: `MCw4NjE0MzRmNGMwOTNhMTYxYzA0Zjc2ODk4YTMwYTc2ZjhiNjE5YTQw`
+Snapshot ID: `MCw1NmNiODVhNmMxZjg0NjhhMmM2ZWQ5YTQ0ZGI3YzY5NDcxYTEzZWYy`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkle Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 52 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 53 likes - 52 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Song For You](https://open.spotify.com/track/2rZ9DFCQ1BvqGhEpwZY4xU) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 |
 | 2 | [HIGHER](https://open.spotify.com/track/3AO9Av55YyTGwCQM4ckIfm) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/035OFeGZ4rbCEqka7vGqUH) | 3:44 |
 | 3 | [SHINING](https://open.spotify.com/track/3paqBku7R2cpFcFgEWPjjV) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k) | 3:30 |
-| 4 | [Tomorrow](https://open.spotify.com/track/6qsC0eTGIDIjPduhKTtCM4) | [RP](https://open.spotify.com/artist/4FfXQphip6MyunLxtKWM4L) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
+| 4 | [Tomorrow](https://open.spotify.com/track/6qsC0eTGIDIjPduhKTtCM4) | [RP](https://open.spotify.com/artist/7c9BsV6rPkZhQpGXBOeZXx) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
 | 5 | [01 Curated by Choi Hyun Wook](https://open.spotify.com/track/7mELfCS8kSNYXGyLLiDFoK) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:18 |
 | 6 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
 | 7 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/1CKo7tzWiPzIGXc28DrABh) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 4:49 |
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 49 | [A Song For You \- Instrumental](https://open.spotify.com/track/1nhPQPqx3hCMetweBmcIpG) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [TwinkIing Watermelon \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3qgxfBEaP3OH8kM8PS5I07) | 3:54 |
 | 50 | [HIGHER \- Instrumental](https://open.spotify.com/track/7hgbJnXU9hgaYblX35yr3O) | [JU\-NE](https://open.spotify.com/artist/5tCgO9okyHkBJJxxAYv9uX) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/035OFeGZ4rbCEqka7vGqUH) | 3:44 |
 | 51 | [SHINING \- Instrumental](https://open.spotify.com/track/2Pc8vftGWCrP4nL8CtMV7r) | [김한겸](https://open.spotify.com/artist/01qikWSwB9BtwXkxXyBcWJ) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5aRhGb3W09rEYMNt4ie26k) | 3:30 |
-| 52 | [Tomorrow \- Instrumental](https://open.spotify.com/track/5ahMx9l7YzVICKv07dLtfH) | [RP](https://open.spotify.com/artist/4FfXQphip6MyunLxtKWM4L) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
+| 52 | [Tomorrow \- Instrumental](https://open.spotify.com/track/5ahMx9l7YzVICKv07dLtfH) | [RP](https://open.spotify.com/artist/7c9BsV6rPkZhQpGXBOeZXx) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
 
-Snapshot ID: `MCwxMzVhZjRmYTZkOTc0NDZlYjcyZjMxODljMGY1ZDJlMTgxNGJiNDNl`
+Snapshot ID: `MCwyMDg2YmNmMjg3MWYyYTk2YWRkNTY3NWFjMmIwMDMwZjAyNWM5OWNm`

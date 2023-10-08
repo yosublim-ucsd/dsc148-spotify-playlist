@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,299 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,320 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 135 | [Tomboy \(20syl Remix\)](https://open.spotify.com/track/55cFzYUexsnEqKy3Nz3y9W) | [Inüit](https://open.spotify.com/artist/7KFe5HjgvzsDZvgfzEXLVY), [20syl](https://open.spotify.com/artist/6mA4csYsYvf4Mq02PleZEV) | [Tomboy \(20syl Remix\)](https://open.spotify.com/album/2C3ANmz6pxbomH6fySOCSz) | 3:11 |
 | 136 | [Samt Und Stein](https://open.spotify.com/track/0JrVI6nmYrMonthfu78v8S) | [Velvet Condom](https://open.spotify.com/artist/751d4soU7iC3TfGl8y1EyU) | [Stadtgeil](https://open.spotify.com/album/6oQSgHSYewvXUz4bI56Y6i) | 2:51 |
 | 137 | [Half Alive](https://open.spotify.com/track/6PZep0AyFbiX2K3u44evKM) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [The Start \(Act II\)](https://open.spotify.com/album/2tWoCtDjl93XcMKzgN3nb7) | 3:35 |
-| 138 | [Dmgm](https://open.spotify.com/track/2iFkiqg4ewf64nIooIYitv) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/11e2dd4ueMQFnWgVE60fSF), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Le Danse](https://open.spotify.com/album/57GyOaQ66DuzQdHUxIg2B9) | 1:23 |
+| 138 | [Dmgm](https://open.spotify.com/track/2iFkiqg4ewf64nIooIYitv) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Le Danse](https://open.spotify.com/album/57GyOaQ66DuzQdHUxIg2B9) | 1:23 |
 | 139 | [Heaven's Nail and Hammer](https://open.spotify.com/track/4OKfEpmKFuWw8opI89yDjf) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 4:42 |
 | 140 | [Volta](https://open.spotify.com/track/4Qq8rERaPWkDuZsvSWR9LL) | [O Terno](https://open.spotify.com/artist/2TuVzZPwEPqpstqmA0qLl6) | [Melhor do Que Parece](https://open.spotify.com/album/7nf6cMzbnj1BqhY5VBwT16) | 3:42 |
 | 141 | [Foolius Caesar](https://open.spotify.com/track/2Q50Nd5HhZl1A3u7Z96qUs) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [I'm Not Sorry, I Was Just Being Me](https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC) | 3:46 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCw5YjcwNzkyMTg0ZWM5YjQwYjg1YjQ0NjcwNGQ3ZWQ3ODU0MWIxMzlk`
+Snapshot ID: `MCxhMjk2NGZkMTYwMDA5M2YxOTNhYzExYjYxNDYwMWFmNDRlNzZhYWU5`

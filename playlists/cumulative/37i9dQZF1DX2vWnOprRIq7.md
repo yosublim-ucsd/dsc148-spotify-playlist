@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Carolo.
 
-199 songs - 12 hr 3 min
+200 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Ficción](https://open.spotify.com/track/19ql2PoaEn31alAgeIpsp1) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Ficción](https://open.spotify.com/album/7kqvgYRCFIHjRTEXnVjSWW) | 3:21 | 2023-07-07 |  |
 | [Fiebre](https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF) | [DEFENSA](https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [7 canciones antes de que nos corten la luz](https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm) | 3:43 | 2023-03-17 |  |
 | [Flaps](https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs) | [FLAPS](https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn) | 3:45 | 2023-03-25 |  |
+| [Fotográfica](https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o) | [Mailen Pankonin](https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5) | [Fotográfica](https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH) | 4:11 | 2023-10-06 |  |
 | [fotosíntesis](https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd) | [los romances](https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [fotosíntesis](https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB) | 3:07 | 2023-08-18 |  |
 | [fribRitni](https://open.spotify.com/track/1A6xpBr2L2MTtj0SKrtJhW) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [fribRitni](https://open.spotify.com/album/6luUb5rdY8eNPkK6XEYXTN) | 3:16 | 2023-09-29 |  |
 | [FRONTERAS](https://open.spotify.com/track/190JPM6ySJgA6BAilTqdXH) | [Yuls](https://open.spotify.com/artist/7p3xvTVisjvZnUBSFV5LMS) | [FRONTERAS](https://open.spotify.com/album/5yCqO9RYOg1fWahWthseI8) | 3:33 | 2023-03-17 | 2023-08-31 |
@@ -156,7 +157,7 @@
 | [POLIDRAMA](https://open.spotify.com/track/541cVQIUsnOYmOna54whVE) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [ESFERA DE AMOR](https://open.spotify.com/album/2MxR4pWsCM8n0Bp8RhYcu9) | 2:31 | 2023-05-12 |  |
 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 | 2023-04-14 |  |
 | [PSICURA](https://open.spotify.com/track/08rHr2Hh3hVHfvQll5bFLk) | [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PSICURA](https://open.spotify.com/album/0Tk9AUF3GEQP9wyjAndHlY) | 3:22 | 2023-03-17 | 2023-04-22 |
-| [Puedo Buscar](https://open.spotify.com/track/7lM2IOzav0PLGiCnfvN4hQ) | [Ringo Galperin](https://open.spotify.com/artist/7zaSn96HaddSuMkSIun9Q3) | [RINGO](https://open.spotify.com/album/0VeTiYO5g15QjPvJksVBJi) | 2:38 | 2023-06-16 |  |
+| [Puedo Buscar](https://open.spotify.com/track/7lM2IOzav0PLGiCnfvN4hQ) | [Ringo Galperin](https://open.spotify.com/artist/7zaSn96HaddSuMkSIun9Q3) | [RINGO](https://open.spotify.com/album/0VeTiYO5g15QjPvJksVBJi) | 2:38 | 2023-06-16 | 2023-10-08 |
 | [pulso](https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [pulso/yotuoro](https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme) | 2:45 | 2023-03-17 | 2023-04-22 |
 | [Quemándome al Sol](https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y) | [Axel Krygier](https://open.spotify.com/artist/5wwTGwXSRQJ1te7xnwFtEF) | [Quemándome al Sol](https://open.spotify.com/album/5IstXnlnWjKScmuMQVnzmh) | 3:21 | 2023-03-17 | 2023-05-06 |
 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 | 2023-03-17 |  |

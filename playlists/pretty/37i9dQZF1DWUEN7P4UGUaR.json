@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 5256,
+  "num_followers": 5305,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl",
+  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 288990,
-      "name": "Turning Around(Live)",
-      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "VICTORY",
         "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 236769,
       "name": "VICTORY",
       "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 288990,
+      "name": "Turning Around(Live)",
+      "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
       },
       "artists": [
         {
-          "name": "Manuel Bless",
-          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
+        "name": "Ruach Hakodesh",
+        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
+      "duration_ms": 552000,
+      "name": "Ruach Hakodesh",
+      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -459,34 +459,34 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Ruach Hakodesh",
-        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Ruach Hakodesh",
-      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
     },
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/3dkgSTTZBFef5lc2JzftJG"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
+      "duration_ms": 241146,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/3HdoWrKP0zYDyJUjk82W2j"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Me Dan Wo (feat. Kweku Teye)",
         "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 781930,
       "name": "Deeper Medley",
       "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
+        "name": "Perfect Love (Romans 8:38-39)",
+        "url": "https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe"
+      },
+      "artists": [
+        {
+          "name": "De.ViZION",
+          "url": "https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Perfect Love (Romans 8:38-39)",
+      "url": "https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
         "name": "Adom Bi",
         "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
       },
@@ -851,26 +867,6 @@
       "duration_ms": 321881,
       "name": "More",
       "url": "https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6"
-      },
-      "artists": [
-        {
-          "name": "Jacquelyn Oforiwaa-Amanfo",
-          "url": "https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p"
-        },
-        {
-          "name": "Nana Amoah",
-          "url": "https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu"
-        }
-      ],
-      "duration_ms": 428307,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w"
     }
   ],
   "unique_name": "Aseda",

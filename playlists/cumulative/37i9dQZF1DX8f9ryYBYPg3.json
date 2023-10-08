@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "RISE FROM DEAD",
+        "url": "https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220359,
+      "name": "RISE FROM DEAD",
+      "url": "https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC"
+    },
+    {
+      "album": {
         "name": "The Block Party -HOMIEs-",
         "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
       },

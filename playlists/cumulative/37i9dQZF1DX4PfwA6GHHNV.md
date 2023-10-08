@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil\. Foto: Paulla
 
-56 songs - 2 hr 41 min
+57 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Andarilho](https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH) | [Vírus](https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv) | [VxRxS](https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6) | 1:30 | 2023-09-15 |  |
 | [Anel da Pandora](https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU) | [GR€G MC](https://open.spotify.com/artist/3rcpxbWqJ2yXAiWwwBOj0u), [ESCOB4R](https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy) | [Anel da Pandora](https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH) | 3:19 | 2023-09-15 |  |
 | [Arrepios](https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj) | [Arrepios](https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg) | 3:25 | 2023-09-15 |  |
+| [Cancún](https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [FreezaMC](https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU) | [Cancún](https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD) | 2:22 | 2023-10-06 |  |
 | [Cartier](https://open.spotify.com/track/7xo06VspucSbdF1tkJjbGZ) | [Enzo Bala](https://open.spotify.com/artist/3Cv1SqJgZTgIcM5Q7fzpq3), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Cartier](https://open.spotify.com/album/1hGai4xD4LU7HZzl51lpy6) | 2:33 | 2023-09-29 |  |
 | [COLADINHO](https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Liz Kaweria](https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77), [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [COLADINHO](https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj) | 2:32 | 2023-09-15 |  |
 | [Compasso](https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Shouga](https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql) | [Compasso](https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX) | 2:36 | 2023-09-15 |  |
@@ -37,7 +38,7 @@
 | [Lembra?](https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC) | [D'Castelo](https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR), [BRUNNOASH](https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd) | [Lembra?](https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD) | 3:40 | 2023-09-15 |  |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2023-09-15 |  |
 | [Me Deixa](https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Me Deixa](https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk) | 2:29 | 2023-09-15 |  |
-| [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 | 2023-09-29 |  |
+| [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 | 2023-09-29 | 2023-10-08 |
 | [Meio](https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf) | [Kult](https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Meio](https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7) | 2:50 | 2023-09-29 |  |
 | [Mentiras](https://open.spotify.com/track/0SpbQAtLtyIaV7Xjr6f8b6) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [Mentiras](https://open.spotify.com/album/1RiyzknGmlflh4SVt41sBD) | 2:13 | 2023-09-15 |  |
 | [Mexe](https://open.spotify.com/track/2ZAB7NNxi08CR1tfUf1qAP) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Mexe](https://open.spotify.com/album/1mqK9aWzwHg84PTR3ata3r) | 2:30 | 2023-09-15 | 2023-09-30 |

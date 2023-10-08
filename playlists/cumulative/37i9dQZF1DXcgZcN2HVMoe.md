@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-717 songs - 1 day 18 hr 51 min
+718 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@
 | [Say Something](https://open.spotify.com/track/6il3b4TaENjcTkZ7I72NTJ) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Say Something](https://open.spotify.com/album/6eKeZMJNnc13y8xs6vIkBQ) | 3:06 | 2022-01-24 | 2022-04-21 |
 | [Say Something Now](https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Say Something Now](https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI) | 3:29 | 2021-12-17 | 2022-07-11 |
 | [Seaside](https://open.spotify.com/track/04VGLPVSGvnqaVAWJV54G8) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Seaside](https://open.spotify.com/album/5LAwVyP3DUeJ073aQhYiTb) | 3:03 | 2021-12-17 | 2022-07-29 |
-| [Seasons](https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:03 | 2023-04-28 |  |
+| [Seasons](https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:03 | 2023-04-28 | 2023-10-08 |
 | [Seasons](https://open.spotify.com/track/0C4IaD9aowgnPgqVA9WIxT) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hang On / Seasons](https://open.spotify.com/album/6om9QgG1aY3whjxSTqvzXM) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Second](https://open.spotify.com/track/7xNh85nWehExA33uAqFIKP) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Second](https://open.spotify.com/album/5C0WgGqN1ugH3Jbw0kTzh1) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Sedona \- The Voice Performance](https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Sedona \(The Voice Performance\)](https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0) | 3:25 | 2021-12-17 | 2022-06-22 |
@@ -544,6 +544,7 @@
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-02-01 | 2022-04-21 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
+| [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 | 2022-07-29 |
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 | 2022-11-14 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 | 2023-09-20 |

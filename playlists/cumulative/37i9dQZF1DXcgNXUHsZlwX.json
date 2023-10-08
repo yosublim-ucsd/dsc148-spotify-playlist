@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-03",
-  "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
+  "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
   "name": "Caf\u00e9 montr\u00e9alais",
   "tracks": [
     {
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "album": {
         "name": "Les souvenirs flous",
         "url": "https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c"
       },
@@ -2422,6 +2440,24 @@
       "duration_ms": 185893,
       "name": "Heureux infid\u00e8les",
       "url": "https://open.spotify.com/track/5nOl6RJKPDlXrgxmLst4Yr"
+    },
+    {
+      "album": {
+        "name": "Horoscope / Cher Montr\u00e9al",
+        "url": "https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lachance",
+          "url": "https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242710,
+      "name": "Horoscope",
+      "url": "https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ"
     },
     {
       "album": {
@@ -4564,7 +4600,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
@@ -4978,7 +5014,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 273933,
       "name": "M\u00e8res",
       "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
@@ -5860,6 +5896,24 @@
       "duration_ms": 239186,
       "name": "Plus tard",
       "url": "https://open.spotify.com/track/0JmudqX8823E6sxCTbCWGn"
+    },
+    {
+      "album": {
+        "name": "Pomawsuwinuwok Wonakiyawolotuwok",
+        "url": "https://open.spotify.com/album/62EtcLFwwSuxQoQbrYlN7m"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Dutcher",
+          "url": "https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222215,
+      "name": "Pomawsuwinuwok Wonakiyawolotuwok",
+      "url": "https://open.spotify.com/track/2xMXcyYMzhMTr75P8tPyy6"
     },
     {
       "album": {
@@ -7280,7 +7334,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 182880,
       "name": "Un peu de magie",
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"

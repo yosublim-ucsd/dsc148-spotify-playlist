@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Drake \(pictured\), Yanga Chief, Doja Cat, FLVME, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,747 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,908 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 | 49 | [Back To The Kaap](https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Back To The Kaap](https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv) | 3:18 |
 | 50 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 |
 
-Snapshot ID: `MCxmMTUwYTg1OTBjZWU3Y2FjZDdhZThjZTdjODhmZTdlMTZlZTgxMTZm`
+Snapshot ID: `MCw3ZjMxZGQ5YzE3MGE0ZDBhODJiNWI0ZjY0NWVlMGNjODBiYTZhYmJh`

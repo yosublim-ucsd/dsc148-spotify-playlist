@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "Aix",
+        "url": "https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139906,
+      "name": "Aix",
+      "url": "https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0"
+    },
+    {
+      "album": {
         "name": "akalla",
         "url": "https://open.spotify.com/album/7MHDYC4TuelMHoRtAELi7o"
       },
@@ -1950,6 +1972,24 @@
       "duration_ms": 120000,
       "name": "avant garde",
       "url": "https://open.spotify.com/track/4AkXE5K2Zh9qUnTaHsbkPn"
+    },
+    {
+      "album": {
+        "name": "Ayways",
+        "url": "https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ"
+      },
+      "artists": [
+        {
+          "name": "A & C",
+          "url": "https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Ayways",
+      "url": "https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1"
     },
     {
       "album": {
@@ -4220,7 +4260,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 157714,
       "name": "Cloud Base",
       "url": "https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM"
@@ -5886,7 +5926,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 168093,
       "name": "Elevator Jam",
       "url": "https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ"
@@ -6670,7 +6710,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 195682,
       "name": "Feels Like Tomorrow",
       "url": "https://open.spotify.com/track/63dG83UMhVKzOOGaxeivf7"
@@ -6836,7 +6876,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 131001,
       "name": "First Impressions",
       "url": "https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB"
@@ -8050,7 +8090,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 73170,
       "name": "gradient",
       "url": "https://open.spotify.com/track/6oVBQh9zqVrw3ElEfWOiIm"
@@ -10225,6 +10265,24 @@
     },
     {
       "album": {
+        "name": "here for the night",
+        "url": "https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw"
+      },
+      "artists": [
+        {
+          "name": "Rustique Beats",
+          "url": "https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119916,
+      "name": "late night walking",
+      "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+    },
+    {
+      "album": {
         "name": "Laurel Canyon",
         "url": "https://open.spotify.com/album/3d1wydqwhtpXOvGFJqWYsq"
       },
@@ -10809,6 +10867,24 @@
     },
     {
       "album": {
+        "name": "Lo-fi Love Letters",
+        "url": "https://open.spotify.com/album/1LDYsz7AHxedlGPb2Mj3Jw"
+      },
+      "artists": [
+        {
+          "name": "Idris Kelly",
+          "url": "https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Lo-fi Love Letters",
+      "url": "https://open.spotify.com/track/1vwVgDd0EHURAjoTb2glnM"
+    },
+    {
+      "album": {
         "name": "Loafing About",
         "url": "https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi"
       },
@@ -10838,7 +10914,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 101333,
       "name": "LoFicious",
       "url": "https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e"
@@ -11369,6 +11445,24 @@
     },
     {
       "album": {
+        "name": "Maca",
+        "url": "https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA"
+      },
+      "artists": [
+        {
+          "name": "Breakfast For Brunch",
+          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Maca",
+      "url": "https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE"
+    },
+    {
+      "album": {
         "name": "Magic Mind",
         "url": "https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC"
       },
@@ -11682,6 +11776,24 @@
       "duration_ms": 138529,
       "name": "Mellowly",
       "url": "https://open.spotify.com/track/2ZhjgwoeBKVvfktIdGs7jg"
+    },
+    {
+      "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS"
+      },
+      "artists": [
+        {
+          "name": "eze east",
+          "url": "https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Melt",
+      "url": "https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ"
     },
     {
       "album": {
@@ -15752,7 +15864,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 92368,
       "name": "Rites of Summer - All Love",
       "url": "https://open.spotify.com/track/5wnlOiHUL6ihduM0jRpiul"
@@ -15988,7 +16100,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 120250,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/0h1ejKTkczqPpAaikKRpvJ"
@@ -16198,7 +16310,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 169500,
       "name": "Sapphire Lake",
       "url": "https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg"
@@ -16762,6 +16874,24 @@
       "duration_ms": 195225,
       "name": "She Ski Lifts My Spirits",
       "url": "https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa"
+    },
+    {
+      "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2"
+      },
+      "artists": [
+        {
+          "name": "G:sson",
+          "url": "https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9"
     },
     {
       "album": {
@@ -18517,6 +18647,24 @@
     },
     {
       "album": {
+        "name": "Sunsmoke",
+        "url": "https://open.spotify.com/album/0exel9vbsPocCd1v71wkhV"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73846,
+      "name": "Sunsmoke",
+      "url": "https://open.spotify.com/track/6O03dtr3K8ra6dmTrGwKYS"
+    },
+    {
+      "album": {
         "name": "Sunsoak",
         "url": "https://open.spotify.com/album/5tcXUxmQFntGbhJJcmsjVD"
       },
@@ -18702,7 +18850,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 79059,
       "name": "sweet pea",
       "url": "https://open.spotify.com/track/769jXDQMCJCfuBbcZvplDx"
@@ -19168,6 +19316,24 @@
       "duration_ms": 177461,
       "name": "The Carlton",
       "url": "https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK"
+    },
+    {
+      "album": {
+        "name": "The Day Before Yesterday",
+        "url": "https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS"
+      },
+      "artists": [
+        {
+          "name": "mer\u012bkurisumasu!",
+          "url": "https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "The Day Before Yesterday",
+      "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
     },
     {
       "album": {
@@ -20743,6 +20909,24 @@
     },
     {
       "album": {
+        "name": "Wait For Spring",
+        "url": "https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129972,
+      "name": "Wait For Spring",
+      "url": "https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4"
+    },
+    {
+      "album": {
         "name": "waiting",
         "url": "https://open.spotify.com/album/0QyHiel6ywfxdrhgkwnFja"
       },
@@ -21615,6 +21799,24 @@
     },
     {
       "album": {
+        "name": "Who's Driving?",
+        "url": "https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs"
+      },
+      "artists": [
+        {
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Who's Driving?",
+      "url": "https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH"
+    },
+    {
+      "album": {
         "name": "Dew",
         "url": "https://open.spotify.com/album/3N6iOoXO8kbOoTFLt8xqdv"
       },
@@ -21792,7 +21994,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 132413,
       "name": "wood flute",
       "url": "https://open.spotify.com/track/6p5VJXlFIpWJHaQYfO7hmd"

@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 125253,
+  "num_followers": 125451,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDQzNWFlOTFiMmI3MDhmMzc4Y2QxMmZhY2NiOGQyMmFkNWI1ZWRm",
+  "snapshot_id": "MCxhZjc5ODcwMmY2OWUxMjQ2NmQyMmZmNTRiYzgwMGNjODUyMDViZmU0",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 235680,
+      "name": "Where Are We Going?",
+      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 235680,
-      "name": "Where Are We Going?",
-      "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Movementt",
-        "url": "https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K"
+        "name": "Jazz, Vol. 1",
+        "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
       },
       "artists": [
         {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 213540,
-      "name": "Movementt",
-      "url": "https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO"
+      "duration_ms": 397477,
+      "name": "Jazz, Vol. 1",
+      "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Jazz, Vol. 1",
-        "url": "https://open.spotify.com/album/4xGe2QuoGL5Wc5O3Uk9SiA"
+        "name": "Movementt",
+        "url": "https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
         }
       ],
-      "duration_ms": 397477,
-      "name": "Jazz, Vol. 1",
-      "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
+      "duration_ms": 213540,
+      "name": "Movementt",
+      "url": "https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO"
     }
   ],
   "unique_name": "Turntable",

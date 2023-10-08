@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 89500,
       "name": "Avec tout mon coeur",
       "url": "https://open.spotify.com/track/0T0OkGcyDm0RwrdUV3w6QE"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 133786,
       "name": "Den Visslande Valen",
       "url": "https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4"
@@ -1496,6 +1496,24 @@
       "duration_ms": 105143,
       "name": "Faster than Fairies",
       "url": "https://open.spotify.com/track/6kgiFNyG4GQqaK1LoPHySV"
+    },
+    {
+      "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi"
+      },
+      "artists": [
+        {
+          "name": "Axel Pedersen",
+          "url": "https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195718,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo"
     },
     {
       "album": {
@@ -2648,7 +2666,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 67072,
       "name": "Kaninvisan",
       "url": "https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 140004,
       "name": "Le Petit Prince",
       "url": "https://open.spotify.com/track/4cURU7zDTEfQEvoth8abKj"
@@ -3879,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Nightingales Are Singing",
+        "url": "https://open.spotify.com/album/6VYSCZo2Q0wOObCsDDmRmc"
+      },
+      "artists": [
+        {
+          "name": "Gil Sunniver",
+          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "Nightingales Are Singing",
+      "url": "https://open.spotify.com/track/04ZnXL4VAjiDVQLNAS8eUq"
+    },
+    {
+      "album": {
         "name": "Nighty Night Little Child",
         "url": "https://open.spotify.com/album/44XT9aCUU1V4SZJCV7y5ZD"
       },
@@ -4603,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Six Little Ducks",
+        "url": "https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf"
+      },
+      "artists": [
+        {
+          "name": "Emily McQueen",
+          "url": "https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131753,
+      "name": "Six Little Ducks",
+      "url": "https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw"
+    },
+    {
+      "album": {
         "name": "Skidamarink",
         "url": "https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd"
       },
@@ -4920,7 +4974,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 141637,
       "name": "Sleepy Teddy",
       "url": "https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3"
@@ -5917,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Up In The Curtains",
+        "url": "https://open.spotify.com/album/3Qibqlh4XXy33DBIAd7O8U"
+      },
+      "artists": [
+        {
+          "name": "Amos Green",
+          "url": "https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73264,
+      "name": "Up In The Curtains",
+      "url": "https://open.spotify.com/track/3jSsN4hvktmcwju54QpOta"
+    },
+    {
+      "album": {
         "name": "Var Bor Du Lilla R\u00e5tta?",
         "url": "https://open.spotify.com/album/7rbBgeI6yjKUsyGXanmt38"
       },
@@ -5986,6 +6058,24 @@
       "duration_ms": 139442,
       "name": "Weightless Sleep",
       "url": "https://open.spotify.com/track/1BA6K5gxk0oGldorRcH6gG"
+    },
+    {
+      "album": {
+        "name": "Whatever Happens",
+        "url": "https://open.spotify.com/album/4B6EdTLWq7HQm56bVX5ocU"
+      },
+      "artists": [
+        {
+          "name": "Cosima Bradley",
+          "url": "https://open.spotify.com/artist/6l8VqzILTHqmDJfISU6bPg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79374,
+      "name": "Whatever Happens",
+      "url": "https://open.spotify.com/track/2gAfWIJA9wcWEDy6BmTosY"
     },
     {
       "album": {

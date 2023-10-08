@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Annalkande",
+        "url": "https://open.spotify.com/album/2rbOag8Yg0cQ58nmdVcubY"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142004,
+      "name": "Annalkande",
+      "url": "https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ"
+    },
+    {
+      "album": {
         "name": "As it is At Night",
         "url": "https://open.spotify.com/album/3llDds59tzLvV6Hb4LAJq4"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 198910,
       "name": "Liquid",
       "url": "https://open.spotify.com/track/1npn4kWD5AXwPuoQPmrkKN"

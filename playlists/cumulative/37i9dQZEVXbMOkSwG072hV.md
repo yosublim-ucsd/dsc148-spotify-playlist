@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,716 songs - 3 day 16 hr 28 min
+1,717 songs - 3 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,7 +1166,7 @@
 | [Pagode da Gica \- Lagrimas Vão e Vem / Deixa Tudo Como Tá / Sinais \- Ao Vivo](https://open.spotify.com/track/7kxMt5StiYL1VX8rJqAXgg) | [Gica](https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV) | [Pagode da Gica \- Lagrimas Vão e Vem / Deixa Tudo Como Tá / Sinais \(Ao Vivo\)](https://open.spotify.com/album/0Xqf0SgtBKfrquMvJlFFJM) | 6:11 | 2022-12-26 | 2023-01-14 |
 | [Pagodin](https://open.spotify.com/track/5cji6LNml8t6OR2vGkPXmw) | [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K) | [Pagodin](https://open.spotify.com/album/0qxF58RwVxjcah4ktJyc8I) | 4:50 | 2022-09-21 | 2022-09-25 |
 | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/track/75vGTHuhbJDrZ0oPb3FXQ9) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [Machadez](https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2) | [Pagodão do Birimbola \(Tchubirabirom\)](https://open.spotify.com/album/6zQPhs0e1oymLnczYz3EA2) | 2:05 | 2022-12-09 | 2022-12-17 |
-| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 |  |
+| [Paint The Town Red](https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 3:50 | 2023-09-23 | 2023-10-08 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-29 | 2023-09-24 |
 | [PAINTING PICTURES](https://open.spotify.com/track/0IdkFyYIDMhJqz0NL5zCk9) | [mxmy](https://open.spotify.com/artist/2b8lTkinW4n1MGXR6MTxYH) | [PAINTING PICTURES](https://open.spotify.com/album/2etmOpS2sIksLvcbAzTDpJ) | 2:01 | 2023-03-10 | 2023-03-12 |
 | [PAINTING PICTURES](https://open.spotify.com/track/6KXKcH4QO1MiGrMQOGoADP) | [Superstar Pride](https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa) | [PAINTING PICTURES](https://open.spotify.com/album/485hROfaw36i4rniIeXPbI) | 2:02 | 2023-03-17 | 2023-03-29 |
@@ -1405,6 +1405,7 @@
 | [Shut Up and Listen](https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/3wAAwpD30OPym42xsioMmc) | 4:03 | 2022-07-05 | 2022-08-14 |
 | [Shut Up and Listen](https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM) | [Nicholas Bonnin](https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Shut Up and Listen](https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ) | 4:03 | 2022-08-13 | 2022-08-15 |
 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 | 2022-11-21 | 2022-11-23 |
+| [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-07 |  |
 | [Si una Vez](https://open.spotify.com/track/6vrVXV89q3LKQtUhedVLOZ) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Andrea Chaparro](https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6), [Jeronimo Cantillo](https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 2:33 | 2022-02-01 | 2022-02-09 |
 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 4:26 | 2023-03-01 | 2023-03-13 |
 | [Simplesmente Ela](https://open.spotify.com/track/4NJKCE1TBC653P3dCnto0u) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K) | [Simplesmente Ela](https://open.spotify.com/album/1SuKWIQ4PxaWIiv0DfmqsQ) | 2:41 | 2022-03-08 | 2022-05-14 |

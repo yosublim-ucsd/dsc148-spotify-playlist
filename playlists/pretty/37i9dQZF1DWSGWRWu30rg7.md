@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shindy Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,472 likes - 97 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,471 likes - 97 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sinarku Selamanya](https://open.spotify.com/track/3pUrdouacTjsjLfG9jOtM5) | [Shindy Samuel](https://open.spotify.com/artist/0chKlCDVJnvvPfykjE4XNb) | [Sinarku Selamanya](https://open.spotify.com/album/5iiTLhqvLMpExOuxGqz8TS) | 4:00 |
-| 2 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [KEI](https://open.spotify.com/artist/2i3SDiSxLRtSz9ulxxgR7v) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
+| 2 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
 | 3 | [NAHAS](https://open.spotify.com/track/40uKwK8K5mWAjWOMdYunW6) | [CHAI](https://open.spotify.com/artist/3exPjjKtzxcXIijRCKFCbX) | [NAHAS](https://open.spotify.com/album/5sQK8VnWbEcZ4hFVmjUwqC) | 3:32 |
 | 4 | [Kekasih Sepertiku Lagi \- From "Aku Rindu The Movie"](https://open.spotify.com/track/1JZjmUMrSVhsev2Eop7kdk) | [Lyrics Syabila](https://open.spotify.com/artist/3a8zdCRlznehAHsP8d7UKs) | [Kekasih Sepertiku Lagi \(From "Aku Rindu The Movie"\)](https://open.spotify.com/album/4OR83Qe5oLoKs5paJXYmRP) | 4:21 |
 | 5 | [Kampiun](https://open.spotify.com/track/2vtFjq8aArtm1QxUnTJBPN) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Kampiun](https://open.spotify.com/album/3wAlONvaxabXPKoqdXPqfh) | 4:20 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 96 | [Get off of Me](https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM) | [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA), [Shierly Jane](https://open.spotify.com/artist/3Ps12w6PNzjzrNdtEKVJAs), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Get off of Me](https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT) | 2:15 |
 | 97 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 
-Snapshot ID: `MCxiYjA4ZGE3MzM0M2ZlZGQ1NGI2YzFlMDU1M2FkM2M5MThkMmE1MWEw`
+Snapshot ID: `MCxmMWQ5OWNkMGJkOWI3ZjQxZWI0YzQ4ZmI3YTM1MDAzMzdlZmY0MWMy`

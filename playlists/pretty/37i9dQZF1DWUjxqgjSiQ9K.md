@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="spotify:artist:5njxJJEEXE6Kxkr4yiFeJi">Kim Richards</a> y <a href="spotify:artist:4fdudhIT1GNNvtvM309dyM">Indiomar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,114 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,314 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DOPAMINA](https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [DOPAMINA](https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux) | 3:12 |
+| 1 | [DOPAMINA](https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [DOPAMINA](https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux) | 3:12 |
 | 2 | [lo que crees de mí](https://open.spotify.com/track/6SHBIYT7Woz5wAF0J3Vgq0) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [lo que crees de mí / ESFERA CELESTE](https://open.spotify.com/album/0Yao852MgDyr0yKwtICPIr) | 3:09 |
 | 3 | [Detras De Mi](https://open.spotify.com/track/1h4vdbJlwTksTjcY55KpVf) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Buzón de Voz](https://open.spotify.com/album/5RyQDplYD8TDxYJPP6oVOl) | 3:30 |
 | 4 | [Mi Anhelo](https://open.spotify.com/track/4iAJpme5FWkwb8gqH581v9) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Mi Anhelo](https://open.spotify.com/album/07OvRRRCXutthGWnGumKER) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Adorarte](https://open.spotify.com/track/4UjiwbR78RsS1ZKASBNKCi) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Adorarte](https://open.spotify.com/album/0ORfXwWPcTgjSOl22fIyCE) | 4:45 |
 | 100 | [Cordero y León](https://open.spotify.com/track/0dw8miCVMqM1nHamZuf4wj) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Joel Figueroa](https://open.spotify.com/artist/3TuURLCO7Vv4QTUtCTkwCl), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza) | [FLUIR 2](https://open.spotify.com/album/5pLu7Ml14FuBK8wa5W4OlZ) | 5:13 |
 
-Snapshot ID: `MCxhMGYwYzQ3MDg2YTQzMDdlMDFmYmRiMDY4YTg5NGFkOGJhM2RhNDM1`
+Snapshot ID: `MCxjOTdmMWExYzVhYzhkYmMzOGYzODMwZTc5Y2QyNDI2OWY0OWFiOTg3`

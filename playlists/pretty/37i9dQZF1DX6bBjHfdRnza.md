@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Matrefakt\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,876 likes - 101 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,894 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 100 | [My Boo](https://open.spotify.com/track/1llKYUFf4CczYmVDoeFgH4) | [Ally Ahern](https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM), [HOMI](https://open.spotify.com/artist/13AXwHXLSIs8kNOeV5NYAV) | [My Boo](https://open.spotify.com/album/59TfIFLi0rbLtsuSGodoOb) | 2:31 |
 | 101 | [C\-Quence Of Calamities \- Sedef Adasi Remix](https://open.spotify.com/track/7E7LJpIEOCSvdUdYgKP3Cz) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw), [Sedef Adasi](https://open.spotify.com/artist/4jY1cwyuyqQATeSI16ZeYD) | [C\-Quence Of Calamities \(Sedef Adasi Remix\)](https://open.spotify.com/album/6uj8RoEhoAC8xU9B8c8l3r) | 3:55 |
 
-Snapshot ID: `MCxhMzRjMDJkZmEzOTU1NzAzNzdiNDgwYTQ1NTY0ZmI1YmVjOTUwY2Fm`
+Snapshot ID: `MCw4MWMzMzE0NWQ1ZGRiODJmYzBkNzU1MjBlODgzZGY0NmJiYzZiNzhk`

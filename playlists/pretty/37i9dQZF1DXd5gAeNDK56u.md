@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5gAeNDK56u.md) - [plain]
 
 > Mic check, 1, 2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,264 likes - 90 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,528 likes - 90 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

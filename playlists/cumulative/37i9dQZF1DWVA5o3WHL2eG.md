@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Joy Denalane
 
-1,136 songs - 2 day 11 hr 11 min
+1,137 songs - 2 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [Egal was](https://open.spotify.com/track/71z6IWe0V0z5mfLcvxEJFt) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Egal was](https://open.spotify.com/album/51427tNhEqzDNVbtLQJyFZ) | 2:28 | 2023-08-01 | 2023-09-06 |
 | [Ego](https://open.spotify.com/track/76W3rxKoImvJAFC8h1RTJB) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Ego](https://open.spotify.com/album/1m2vCmA3Y6Cn2sFz6RS162) | 2:53 | 2022-05-31 | 2022-07-06 |
 | [Ein Freund](https://open.spotify.com/track/5FfNfDcUuYZXkA1RIRPDCI) | [Nichtseattle](https://open.spotify.com/artist/5zUhb5Aml8PD4UJqlPwVKW) | [Kommunistenlibido](https://open.spotify.com/album/1JRRC3uPMfvNvJNJTJDL2j) | 4:30 | 2022-05-03 | 2022-06-01 |
-| [Eine gute Frau](https://open.spotify.com/track/0KIh0zAr83if1GrCQBzLUN) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Eine gute Frau](https://open.spotify.com/album/4BVZvdM5SAMtjwlYuVAbZw) | 3:14 | 2023-10-03 |  |
+| [Eine gute Frau](https://open.spotify.com/track/0KIh0zAr83if1GrCQBzLUN) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Eine gute Frau](https://open.spotify.com/album/4BVZvdM5SAMtjwlYuVAbZw) | 3:14 | 2023-10-03 | 2023-10-08 |
+| [Eine gute Frau](https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Periodt](https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu) | 3:14 | 2023-10-03 |  |
 | [einschlafen](https://open.spotify.com/track/5erg4yqWoqlsBRtPssGSdW) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [einschlafen](https://open.spotify.com/album/78yuMwFMgJrzMZZnPrAK8s) | 2:48 | 2022-01-04 | 2022-02-02 |
 | [Emergency // Freeze](https://open.spotify.com/track/1E5g640mMzXNC4zS9Bp8hc) | [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Emergency // Freeze](https://open.spotify.com/album/4uGO4MkPRvWmtqexIFdTfu) | 3:08 | 2023-01-31 | 2023-03-01 |
 | [Emily](https://open.spotify.com/track/2U2lyoHXSjeseI46wG13dN) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Emily](https://open.spotify.com/album/1FDXDv6hx7cFn1Nx1mEnUI) | 2:53 | 2023-04-04 | 2023-05-03 |

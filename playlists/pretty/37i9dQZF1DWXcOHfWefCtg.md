@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 
 > Soulful takes on all your Holiday favorites\. Cover: James Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,721 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,720 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcOHfWefCtg.md) - [plain]
 | 40 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A) | 3:04 |
 | 41 | [Christmas Every Day](https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Christmas With The Miracles](https://open.spotify.com/album/4qcVByf8Hb7gSwypa4eXmI) | 2:27 |
 | 42 | [Gee Whiz, It's Christmas](https://open.spotify.com/track/3EYOHbUGZZcxijyyKQwuwX) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Tramp](https://open.spotify.com/album/6Z9LnVPxO2blsQtLsoeEjC) | 2:46 |
-| 43 | [Funky Funky Christmas](https://open.spotify.com/track/1tK6dIhdiPdQptlmJY9DTn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:05 |
-| 44 | [Everyday Will Be Like a Holiday](https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ) | [Kyla Jade](https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0) | [Everyday Will Be Like a Holiday](https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ) | 3:56 |
+| 43 | [Everyday Will Be Like a Holiday](https://open.spotify.com/track/461QQg3ncg2El2QWtUYXvQ) | [Kyla Jade](https://open.spotify.com/artist/53h8uFTiJyCrwu5SKsqAF0) | [Everyday Will Be Like a Holiday](https://open.spotify.com/album/5iXlwKBmIVd2eEvCHU3LiZ) | 3:56 |
+| 44 | [Funky Funky Christmas](https://open.spotify.com/track/1tK6dIhdiPdQptlmJY9DTn) | [Electric Jungle](https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ) | [Funky Funky Christmas / Soul Santa](https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o) | 3:05 |
 | 45 | [Christmas, Christmas](https://open.spotify.com/track/2TQArDxjfRt7GZCtDZn8eZ) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec), [Peter Michael Escovedo](https://open.spotify.com/artist/6VUMUlXqhTYrRnhmaQl3Fl) | [The Holiday's On!](https://open.spotify.com/album/0MtHS4b4SL8xoy8IeHcFmW) | 3:22 |
 | 46 | [Jingle Bell Rock](https://open.spotify.com/track/5YHiQdrWm4PmBSMah8tgvQ) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Home For Christmas](https://open.spotify.com/album/22iQ0h9GXq3J1HpPLq6ns1) | 3:23 |
-| 47 | [Joy To The World](https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9) | [James Casey](https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC) | [A Little Something For Everyone](https://open.spotify.com/album/6tKPpbcaVKvnGYyX6oG6yz) | 3:40 |
-| 48 | [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 |
+| 47 | [Christmas Gift](https://open.spotify.com/track/2PCTg3ZU5kJJicUMKkPH9D) | [Margie Joseph](https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc) | [Christmas Songs Xmas Tunes Festive Favourites](https://open.spotify.com/album/6oSAtGbM0LE7jCc6ISVSi3) | 3:28 |
+| 48 | [Joy To The World](https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9) | [James Casey](https://open.spotify.com/artist/6pWMQpuRTqhLCEZA0h2AuC) | [A Little Something For Everyone](https://open.spotify.com/album/6tKPpbcaVKvnGYyX6oG6yz) | 3:40 |
 | 49 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 |
 | 50 | [Hangin' On To Christmas](https://open.spotify.com/track/1DgsLlwMxd4uywMIYfL1k6) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Hangin' On To Christmas](https://open.spotify.com/album/60cXavBNBPKPGwGS9YNaRk) | 3:39 |
 
-Snapshot ID: `MCwyODkwOWY1ZDBmNjA3OGZhOTIwMjFjODVhZWUwMmI3YTczN2QzODcy`
+Snapshot ID: `MCwwZTkwYWI2MWNjNjVjMjBhM2YwN2U3NGVjMzQ1NWY0MDY1OTU2MDI5`

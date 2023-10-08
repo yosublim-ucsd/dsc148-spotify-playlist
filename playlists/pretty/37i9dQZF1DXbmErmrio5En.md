@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > cool music ft\. Riovaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,001 likes - 101 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,109 likes - 101 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 100 | [cherry](https://open.spotify.com/track/45MvVAvEVHeIh5eReP2m6o) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [cherry](https://open.spotify.com/album/32bC46BdtyzmMkNlKPlfGA) | 3:06 |
 | 101 | [GOD](https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 3:06 |
 
-Snapshot ID: `MCw4NzA1YjkzMzNlMDg1OTk3ZjNkYjIyNTA1MjYwNjdlMzhjOTllMmZh`
+Snapshot ID: `MCxkY2ZkYmZiNzBiNjg0NTZhMTk0NTQ5NDlmZTk4NTExZjY5MmFkYTY5`

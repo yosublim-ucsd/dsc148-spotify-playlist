@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with soft, calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,832 likes - 233 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,877 likes - 233 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 17 | [The lake](https://open.spotify.com/track/6V4TlZBtC8nk9de3rpYbGj) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [The lake](https://open.spotify.com/album/69H1nz2SYvGwh0F97bDvjs) | 2:42 |
 | 18 | [snowy moons](https://open.spotify.com/track/6lIFz8EFovWUWhVQame9Bw) | [one master key](https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF) | [snowy moons](https://open.spotify.com/album/4y0R9pkqPiroVU0rvdnkom) | 2:26 |
 | 19 | [Solace](https://open.spotify.com/track/2AHSUI2C0WLWrknZcPDpft) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Solace](https://open.spotify.com/album/2bq4ptv6LwMRFnNedCAp5n) | 2:12 |
-| 20 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/79qsqmSrE6RizkJI6yWm7k) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 |
+| 20 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 |
 | 21 | [On The Fields](https://open.spotify.com/track/3VDtQne6yzambbjKODbcxW) | [Jesse Porter](https://open.spotify.com/artist/4kQm2mvDJf859pkHFQBsdc) | [On The Fields](https://open.spotify.com/album/22VO3JfHEwEo31pja34U9Q) | 2:38 |
 | 22 | [Cold Fire](https://open.spotify.com/track/1C8yK8kQsb2J4wzavoa1gR) | [Lot Gordon](https://open.spotify.com/artist/1Q6LTB4M1mV3SVrtW0ZIWl) | [Cold Fire](https://open.spotify.com/album/3gcMnFOQNITW4ULBIGhpcj) | 3:01 |
 | 23 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 232 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 |
 | 233 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 
-Snapshot ID: `MCw1YzNiYTIzMWMxNzhkODFkMDUwMjFmMTQ4MDIwZTIyNTYyN2ZlOGY1`
+Snapshot ID: `MCw2OWQ3NTUyZDQwMzMyYjJhMjhiNDIyYTc0ZjM3MTMxZWU4NTJmMTRi`

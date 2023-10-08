@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,556 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,869 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Manga](https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:19 |
-| 2 | [ARRB](https://open.spotify.com/track/0T3pWguSvkMtvjgG7dJmIZ) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [ARRB](https://open.spotify.com/album/3yfMjN5m1lT78xgIEpUhXh) | 3:54 |
+| 2 | [ARRB \- قرب](https://open.spotify.com/track/0T3pWguSvkMtvjgG7dJmIZ) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [ARRB \- قرب](https://open.spotify.com/album/3yfMjN5m1lT78xgIEpUhXh) | 3:54 |
 | 3 | [Raha](https://open.spotify.com/track/0epZMFP9yDZP4imm5whVvO) | [Mahmoud Siam](https://open.spotify.com/artist/5qTGPUX2P4ShWiUyIoWCo9), [Hala Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Red Bull Sika](https://open.spotify.com/album/4Lo5BDtGFVcT1OOCu4Qp4b) | 2:32 |
 | 4 | [Saahabit Saif](https://open.spotify.com/track/6ftsJkHUh93b1VEFDKVmSy) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [Saahabit Saif](https://open.spotify.com/album/1X2ySoDIHfDk2pVBoR8cTc) | 2:57 |
 | 5 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 77 | [GALEK EIN](https://open.spotify.com/track/6qmxkmnQbq0lerMrj07NS0) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [GALEK EIN](https://open.spotify.com/album/5ihTnM8oVZm29OOYTWAWfL) | 3:46 |
 | 78 | [Ktab Maftoh](https://open.spotify.com/track/2HznblRR4j5w8QkSH1e8El) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ktab Maftoh](https://open.spotify.com/album/4Zk52gbAM5A88NjkghWQpR) | 4:30 |
 
-Snapshot ID: `MCw4ZjliZjM2NWQ4ODhjMWY0ZmFhNDhlMTE5MGUzNzM1YTM0MDY0OWQ3`
+Snapshot ID: `MCw5OTU0MDQxMmNkYzhiZTBlODdiZTZkZmEzMWQ3ZDNhODk0YjlmOTNj`

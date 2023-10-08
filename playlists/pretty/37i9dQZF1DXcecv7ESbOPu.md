@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,582 likes - 121 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,615 likes - 121 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 55 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 |
 | 56 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 |
 | 57 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
-| 58 | [Holy Shit \(with Kamohelo\)](https://open.spotify.com/track/2qTdZWYM0iG92C4aSMDT5I) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Holy Shit \(with Kamohelo\)](https://open.spotify.com/album/028AHBglxW0vvE3yZ077aw) | 2:42 |
+| 58 | [Holy Shit](https://open.spotify.com/track/2qTdZWYM0iG92C4aSMDT5I) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Holy Shit](https://open.spotify.com/album/028AHBglxW0vvE3yZ077aw) | 2:42 |
 | 59 | [Wow](https://open.spotify.com/track/1U5MwhYyRikbZNxlv925tz) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Wow](https://open.spotify.com/album/7KDWdaks0AVUtNOscfGiAj) | 4:04 |
 | 60 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 61 | [Till Death Do We Party \(feat\. Aya Anne\)](https://open.spotify.com/track/6JzbKWCXbS13NY3iZEk8dB) | [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1), [Adam Griffin](https://open.spotify.com/artist/7nttDj0mkM2evqtn8XzYiO), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [Till Death Do We Party \(feat\. Aya Anne\)](https://open.spotify.com/album/07eI3Iar8XgIvzVoI2bkQE) | 2:54 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 120 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
 | 121 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 |
 
-Snapshot ID: `MCwwMWY2ZTFjOTA3OGNjOGRkOGZhM2U5YzdjNTNmNDc4MTI4M2NkOTg3`
+Snapshot ID: `MCxiZjA2MmVjMDU1ZjVhMzAyMTg4Mzk2ODc4NTExN2QzMWI5ZmFiZWMz`

@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Trueno.
 
-227 songs - 11 hr 39 min
+228 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 |  |
 | [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 | 2023-02-04 |
 | [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 | 2022-11-19 |
-| [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 |  |
+| [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 | 2023-10-08 |
+| [R.A.P](https://open.spotify.com/track/5ueFyFfJ6mDmN9LfWMONn2) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/3OXVCPPJKjQVsFqoY8Zamc) | 2:27 | 2023-10-06 |  |
 | [Rap Shit](https://open.spotify.com/track/5SylEfJbstr5dBo0BnDOj5) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Rap Shit](https://open.spotify.com/album/195XFHc04zeLG8HuZOtFey) | 3:20 | 2021-11-26 | 2022-05-13 |
 | [Ready for Woo](https://open.spotify.com/track/1wLyibfcrsPwcJuh4WIuef) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [Haze](https://open.spotify.com/artist/4OYcQT9EHQHCYJVfbyGNzr) | [Ready for Woo](https://open.spotify.com/album/6qmJCYeyBHGguKX1lQuYXg) | 2:54 | 2021-11-26 | 2022-05-13 |
 | [Real \(Freestyle\)](https://open.spotify.com/track/2mUlvUlYYj5lyN21pdLQRG) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Real \(Freestyle\)](https://open.spotify.com/album/0MnDifOrRyGobTPpzBAzPm) | 1:45 | 2021-11-26 | 2022-04-12 |

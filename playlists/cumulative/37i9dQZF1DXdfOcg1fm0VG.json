@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Genshin Impact - Fountain of Belleau (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB"
+      },
+      "artists": [
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273360,
+      "name": "Fontaine",
+      "url": "https://open.spotify.com/track/7gEpP0zIY3lVwTl7I5GZmH"
+    },
+    {
+      "album": {
         "name": "Cyberpunk 2077: Phantom Liberty (Original Score)",
         "url": "https://open.spotify.com/album/0YmI7KdXpmTikNmFHVMilu"
       },
@@ -1838,6 +1856,32 @@
       "duration_ms": 259920,
       "name": "Metal Gear Saga",
       "url": "https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3"
+    },
+    {
+      "album": {
+        "name": "Mirage Theme (From Assassin's Creed Mirage)",
+        "url": "https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Angelides",
+          "url": "https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        },
+        {
+          "name": "Layth Sidiq",
+          "url": "https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212517,
+      "name": "Mirage Theme - From Assassin's Creed Mirage",
+      "url": "https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr"
     },
     {
       "album": {

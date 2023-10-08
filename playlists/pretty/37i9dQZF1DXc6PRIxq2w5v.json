@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 148958,
+  "num_followers": 149086,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2Y1MmY4YTkxZDUyNmY4M2JkNjBhYjE0YmI5MzVkYjU3MmY1N2Jk",
+  "snapshot_id": "MCxmYzM5NDViN2QzZjA4MTU4MmE0YzA0MzljOTc3MjM0NjFhZmU4MDUw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Rasgou o V\u00e9u",
-        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Rasgou o V\u00e9u",
-      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Bota F\u00e9 no Pai",
         "url": "https://open.spotify.com/album/5GusdgenYep0VWXQpH220I"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 168750,
       "name": "Bota F\u00e9 no Pai",
       "url": "https://open.spotify.com/track/0XYJiHecvwpRqmKbsBc7V5"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Rasgou o V\u00e9u",
+        "url": "https://open.spotify.com/album/1Wh4p4J1SQMjnbMlXZQrKC"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Rasgou o V\u00e9u",
+      "url": "https://open.spotify.com/track/4iqxItooSPTbhMm1otVoLu"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1423,6 +1423,58 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Semeadores 2",
+        "url": "https://open.spotify.com/album/2KgObumzQDqrTK53MHrkyS"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        },
+        {
+          "name": "Tom Calv\u00e1rio",
+          "url": "https://open.spotify.com/artist/6x3afvS3ZCpgpIQX0DnCRG"
+        },
+        {
+          "name": "Israel Rapper",
+          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
+        },
+        {
+          "name": "Mano Reco",
+          "url": "https://open.spotify.com/artist/4bSpt6DJcs2K8vSUyMJrNX"
+        },
+        {
+          "name": "P.N.D.K",
+          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
+        }
+      ],
+      "duration_ms": 385304,
+      "name": "Semeadores 2",
+      "url": "https://open.spotify.com/track/3t4KmsojPLgjtKvf1XpKWr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Na Paz",
+        "url": "https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Isaque Music",
+          "url": "https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe"
+        }
+      ],
+      "duration_ms": 181340,
+      "name": "Na Paz",
+      "url": "https://open.spotify.com/track/5N2s5dO33NZqwA6TE5b14I"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -1463,70 +1515,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Vida Rasa",
-        "url": "https://open.spotify.com/album/1GaygjDL3bSF6qqsvHhIpp"
+        "name": "Verificado",
+        "url": "https://open.spotify.com/album/0A4bMAdCzwm1jAqc9VTNlL"
       },
       "artists": [
         {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "LAEL BAYER",
+          "url": "https://open.spotify.com/artist/5rYOYWW1FNDS1LvWtDfkSd"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 194629,
-      "name": "Vida Rasa",
-      "url": "https://open.spotify.com/track/2t0D0VYarBz17GcNITr364"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Semeadores 2",
-        "url": "https://open.spotify.com/album/2KgObumzQDqrTK53MHrkyS"
-      },
-      "artists": [
-        {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
-        },
-        {
-          "name": "Tom Calv\u00e1rio",
-          "url": "https://open.spotify.com/artist/6x3afvS3ZCpgpIQX0DnCRG"
-        },
-        {
-          "name": "Israel Rapper",
-          "url": "https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX"
-        },
-        {
-          "name": "Mano Reco",
-          "url": "https://open.spotify.com/artist/4bSpt6DJcs2K8vSUyMJrNX"
-        },
-        {
-          "name": "P.N.D.K",
-          "url": "https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw"
-        }
-      ],
-      "duration_ms": 385304,
-      "name": "Semeadores 2",
-      "url": "https://open.spotify.com/track/3t4KmsojPLgjtKvf1XpKWr"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Aquebrantado",
-        "url": "https://open.spotify.com/album/0EWR2u8tkVhGnJ48xgyvvk"
-      },
-      "artists": [
-        {
-          "name": "LP Maromba",
-          "url": "https://open.spotify.com/artist/1rnDCA1L6frTG0LeaTvUnu"
-        },
-        {
-          "name": "Lou twb",
-          "url": "https://open.spotify.com/artist/5p280uiHU0e284i1QvNroa"
-        }
-      ],
-      "duration_ms": 199024,
-      "name": "Aquebrantado",
-      "url": "https://open.spotify.com/track/2xb1pT7KjRB6XKS4yAgu7b"
+      "duration_ms": 162406,
+      "name": "Verificado",
+      "url": "https://open.spotify.com/track/5SiaQt3ggeKEictCtaY6zY"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1555,6 +1563,42 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aquebrantado",
+        "url": "https://open.spotify.com/album/0EWR2u8tkVhGnJ48xgyvvk"
+      },
+      "artists": [
+        {
+          "name": "LP Maromba",
+          "url": "https://open.spotify.com/artist/1rnDCA1L6frTG0LeaTvUnu"
+        },
+        {
+          "name": "Lou twb",
+          "url": "https://open.spotify.com/artist/5p280uiHU0e284i1QvNroa"
+        }
+      ],
+      "duration_ms": 199024,
+      "name": "Aquebrantado",
+      "url": "https://open.spotify.com/track/2xb1pT7KjRB6XKS4yAgu7b"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Vida Rasa",
+        "url": "https://open.spotify.com/album/1GaygjDL3bSF6qqsvHhIpp"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        }
+      ],
+      "duration_ms": 194629,
+      "name": "Vida Rasa",
+      "url": "https://open.spotify.com/track/2t0D0VYarBz17GcNITr364"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Arca de No\u00e9",
         "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
       },
@@ -1571,50 +1615,6 @@
       "duration_ms": 176425,
       "name": "Arca de No\u00e9",
       "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Na Paz",
-        "url": "https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        },
-        {
-          "name": "Isaque Music",
-          "url": "https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe"
-        }
-      ],
-      "duration_ms": 181340,
-      "name": "Na Paz",
-      "url": "https://open.spotify.com/track/5N2s5dO33NZqwA6TE5b14I"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Verificado",
-        "url": "https://open.spotify.com/album/0A4bMAdCzwm1jAqc9VTNlL"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "LAEL BAYER",
-          "url": "https://open.spotify.com/artist/5rYOYWW1FNDS1LvWtDfkSd"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Verificado",
-      "url": "https://open.spotify.com/track/5SiaQt3ggeKEictCtaY6zY"
     },
     {
       "added_at": "2023-10-06 03:00:00",

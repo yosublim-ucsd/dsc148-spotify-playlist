@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 結集香港EQUAL女聲力量！\(cover: 鄧小巧\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,624 likes - 74 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,633 likes - 74 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 73 | [呼吸之間](https://open.spotify.com/track/1eVGIJZMTyms9dpWI70aJi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [呼吸之間](https://open.spotify.com/album/2W6R3leFpPzSrZLkF7oFJR) | 4:13 |
 | 74 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 |
 
-Snapshot ID: `MCw4YTMyMWZhMTA5ZGI1MDYzOWRjMTQzOTdmYjdjNmMzMDc2NDM0YmUz`
+Snapshot ID: `MCxhYTE5ZjM4YTYxM2IxMTVjNDhmZGJmZWIwZmRlZjgwNjc2M2YzY2E3`

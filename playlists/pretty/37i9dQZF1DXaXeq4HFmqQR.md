@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marineros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,778 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,781 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 11 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 12 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 |
 | 13 | [te amo y te odio </3](https://open.spotify.com/track/0aUJ7041QzwRa11tfnbtah) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [besitos, cuídate \(Deluxe\)](https://open.spotify.com/album/78jevg3CxuDBUeZeDT5yEE) | 3:11 |
-| 14 | [SAMURAI](https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SUSHI VENUS](https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu) | 3:20 |
-| 15 | [Tu Luz](https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Tu Luz](https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa) | 4:07 |
+| 14 | [Tu Luz](https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Tu Luz](https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa) | 4:07 |
+| 15 | [SAMURAI](https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Cris Jaker](https://open.spotify.com/artist/3ZcU2aRI3MSOZrVouwFr42) | [SUSHI VENUS](https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu) | 3:20 |
 | 16 | [Pájaros de fuego \- Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"](https://open.spotify.com/track/4qsgzEP6xq3jYHdj7eocub) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Pájaros de fuego \(Banda Sonora Original del documental "Hawker Hunter: El ruido del silencio"\)](https://open.spotify.com/album/3Xc48Ap1RROgCr5OTr8w7C) | 4:36 |
 | 17 | [perfecta](https://open.spotify.com/track/2D7iqf6lQMJbkVynbFv07S) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [perfecta](https://open.spotify.com/album/6be5PkRtr6n5UURCX3hvoK) | 2:40 |
 | 18 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 | 45 | [Temores](https://open.spotify.com/track/7L2dPSItNwM0gJIovdNWWS) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/5xiXFDgbaJhenJSuP5Rx2N) | 4:14 |
 | 46 | [Tarde](https://open.spotify.com/track/7AB2GfTdJKMt2NGYsGbYj1) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Tarde](https://open.spotify.com/album/5lzETSRR6bvofqCfW4VIuS) | 3:52 |
-| 47 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
-| 48 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
+| 47 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
+| 48 | [Luz](https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb) | [Emaflu](https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy), [Camila Bañados](https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq) | [EP Agua](https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk) | 3:50 |
 | 49 | [Tenkō](https://open.spotify.com/track/7x0gw63e2KKC5C1ZQNkLYY) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj) | [Tenkō](https://open.spotify.com/album/5cGVWjWvCUcc91HuAxv5pR) | 2:51 |
 | 50 | [No Resultó](https://open.spotify.com/track/5b1iIkqkzCFRgpaTAB29do) | [Carolina Nissen](https://open.spotify.com/artist/1DqfzBVRtZaQXS63wWCYMM) | [No Resultó](https://open.spotify.com/album/5Xu25GHIBlSxtOzSBAKCPm) | 3:24 |
 
-Snapshot ID: `MCw2MTM0ODU2NzI0ZTgyNjViMmRjZjE3YmFhM2UyNjFiOGZiMTNmYWY5`
+Snapshot ID: `MCxkM2RhZGM3MWMzNDFmZDI4NTVmZjEyZjMzN2UxNDlmZTAyMzA2ZDgz`

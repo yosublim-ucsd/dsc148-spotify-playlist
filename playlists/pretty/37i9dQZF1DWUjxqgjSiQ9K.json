@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica.  Foto:   <a href=\"spotify:artist:5njxJJEEXE6Kxkr4yiFeJi\">Kim Richards</a> y <a href=\"spotify:artist:4fdudhIT1GNNvtvM309dyM\">Indiomar</a>",
-  "num_followers": 594114,
+  "num_followers": 594314,
   "original_name": "\u00c9xitos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGYwYzQ3MDg2YTQzMDdlMDFmYmRiMDY4YTg5NGFkOGJhM2RhNDM1",
+  "snapshot_id": "MCxjOTdmMWExYzVhYzhkYmMzOGYzODMwZTc5Y2QyNDI2OWY0OWFiOTg3",
   "tracks": [
     {
       "added_at": "2023-10-06 11:56:46",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
           "name": "Kim Richards",
           "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
       "duration_ms": 192095,

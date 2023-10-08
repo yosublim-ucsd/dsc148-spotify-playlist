@@ -4,13 +4,13 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-370 songs - 1 day 6 hr 48 min
+371 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [01](https://open.spotify.com/track/3Ij5JfgKbiCF7h8J90TTpa) | [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Five Wooden Frames](https://open.spotify.com/album/6xQzhfDkGBLBRk2XrwHhkv) | 7:48 | 2023-09-22 | 2023-10-07 |
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2022-03-17 | 2023-03-18 |
-| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 |  |
+| [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 | 2022-09-12 | 2023-10-08 |
 | [A Field of Night](https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO) | 7:33 | 2023-04-21 |  |
 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 | 2023-04-20 |
 | [A Spire \- 2022 Remaster](https://open.spotify.com/track/7207n5INusM5trHSwl2dh3) | [Tape](https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW) | [Rideau \(2022 remaster\)](https://open.spotify.com/album/1hQkKy7llnXI08TnEdPfiw) | 11:45 | 2023-08-18 | 2023-09-01 |
@@ -24,6 +24,7 @@
 | [Adrift](https://open.spotify.com/track/3jexA82J4b3Nd72TbgMAZO) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Ocean Sleep](https://open.spotify.com/album/647uuDQfKJ5QZb1BSduDw2) | 5:00 | 2022-03-17 | 2022-12-06 |
 | [Adrift In Memory](https://open.spotify.com/track/0Cv17wDbSTPqkTXTTkt2KV) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:55 | 2022-05-25 | 2023-07-22 |
 | [after the rain](https://open.spotify.com/track/22ZVzlpTouAn4TrdIJNv6i) | [echo boi](https://open.spotify.com/artist/3pLgSyPwng015fy5T1QLoq), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [after the rain](https://open.spotify.com/album/6eJETVlEoQ5hsJcDZnxwpX) | 4:23 | 2023-08-04 |  |
+| [Afterglow](https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Dustlight / 光の塵 / Afterglow](https://open.spotify.com/album/577opext6ZuqRDwowBmMdc) | 3:48 | 2023-10-06 |  |
 | [Aguirre I \(l'acrime di rei\)](https://open.spotify.com/track/0M1pNHDApusajHZrITwyMT) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Aguirre \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2S5f7x42llDqzLYwIdlBMs) | 7:22 | 2023-09-22 | 2023-10-07 |
 | [Album 4](https://open.spotify.com/track/2b1rIFVf5aZogxGoDAcEoL) | [Mokira](https://open.spotify.com/artist/3rdStJL3GPEj3S5y8zyvn7) | [Album](https://open.spotify.com/album/0QgxbUQVAa5UN55VCDxdaa) | 6:45 | 2023-03-16 |  |
 | [All We Can't See](https://open.spotify.com/track/5CO4UIfBWDillkIS3a1oTb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [All We Can't See / An Image](https://open.spotify.com/album/7yAAi4irn34TeF2i7xUZk6) | 1:56 | 2022-03-17 | 2022-07-29 |

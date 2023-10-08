@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Zé Neto & Cristiano
+> O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo
 
 164 songs - 7 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Flatland Cavalry
 
-500 songs - 1 day 6 hr 51 min
+501 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 |  |
 | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR) | [Ashley Ray](https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/album/3ZwAfNsL44QuYkOA0rCzk0) | 3:36 | 2023-06-16 | 2023-09-30 |
 | [Breaking Point](https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:50 | 2021-12-17 | 2022-01-22 |
-| [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-09-29 |  |
+| [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 | 2023-10-06 |  |
+| [Broadview](https://open.spotify.com/track/4cT18W9YXAJEVfc7sNJvRe) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Broadview](https://open.spotify.com/album/0eHcS12QA8Xm0V87yqvrOK) | 4:05 | 2023-09-29 | 2023-10-08 |
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 | 2022-04-02 |
 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 | 2021-12-17 | 2023-03-18 |
 | [Broken Token](https://open.spotify.com/track/0Hrud84lLW4GiCeHILpY1z) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Broken Token](https://open.spotify.com/album/603kTkT5RDUYY40nsI1Xg4) | 2:38 | 2022-08-19 | 2022-10-31 |

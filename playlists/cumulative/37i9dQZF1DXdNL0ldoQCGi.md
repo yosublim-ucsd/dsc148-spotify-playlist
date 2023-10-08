@@ -2,7 +2,7 @@
 
 ### [faz a trend](https://open.spotify.com/playlist/37i9dQZF1DXdNL0ldoQCGi)
 
-> aquela lá q viralizou na net
+> aquela lá q viralizou na net / Foto: Gordão do Pczinho
 
 452 songs - 22 hr 58 min
 

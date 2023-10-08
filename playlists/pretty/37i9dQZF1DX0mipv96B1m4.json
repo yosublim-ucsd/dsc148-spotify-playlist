@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 806,
+  "num_followers": 809,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDRiZWZmZjIxM2M2YTRmZGQ2ZjE4NDc1YmJiN2JjZjE1NTMyNmRl",
+  "snapshot_id": "MCw4NGNjY2NlNWFmMGQwZTcyOGJlZWUxM2JlMzNmMmUxZmIxMjBjMWM2",
   "tracks": [
     {
       "added_at": "2023-08-18 12:29:53",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Tumbiza Sound",
+        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
+        }
+      ],
+      "duration_ms": 190772,
+      "name": "Tumbiza Sound",
+      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Kyoyina Omanya (Remix)",
         "url": "https://open.spotify.com/album/3tbEc4SFKe31ayuw09YmLD"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 180062,
       "name": "Kyoyina Omanya (Remix)",
       "url": "https://open.spotify.com/track/1JZvvNFskJttTabmaJA2ji"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Tumbiza Sound",
-        "url": "https://open.spotify.com/album/6S0MhOixwEiXG0mI1IL3nx"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/6YrpkEXBoYwwsz9FNqVNYg"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Tumbiza Sound",
-      "url": "https://open.spotify.com/track/2LXid4PVkzPh9ftAnFqKvu"
     },
     {
       "added_at": "2023-08-18 12:29:53",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-18 12:29:53",
       "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
+      "added_at": "2023-08-18 12:29:53",
+      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2023-08-18 12:29:53",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2023-08-18 12:29:53",

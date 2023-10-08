@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-389 songs - 22 hr 16 min
+391 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Another You](https://open.spotify.com/track/1zmkJElrB0ghx5v5jJ4x3i) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Digital Heart](https://open.spotify.com/album/5WpyVMapI2A3fz6WHq8UEG) | 3:03 | 2022-01-07 |  |
 | [April \(Eyes\)](https://open.spotify.com/track/2KaM0vJC3mpraNUjDmjr0C) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [APRIL \(EYES\)](https://open.spotify.com/album/7p24hLtyoSdmLHHFnr6Uft) | 2:08 | 2023-02-17 | 2023-07-24 |
 | [ARCADE NIGHT](https://open.spotify.com/track/3VUPk0XASJ8a0HDyj4omX5) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Hikaru Station](https://open.spotify.com/artist/43CwK7mj1NRZuXaC9SO6Zj) | [ARCADE NIGHT](https://open.spotify.com/album/3c8kfHbvA1fbSC52TxEWPI) | 3:59 | 2022-01-07 |  |
-| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 |  |
+| [Are We Dreaming?](https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Are We Dreaming?](https://open.spotify.com/album/1RTNYYi5KHwhG4Z9zMrrO8) | 4:58 | 2022-01-07 | 2023-10-08 |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2022-01-07 |  |
 | [Artificial Love](https://open.spotify.com/track/5lAbIEjU5D832P9ILBPzAe) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [Artificial Love](https://open.spotify.com/album/10AxppKXa2VrVF4G2rxBBF) | 3:12 | 2022-02-11 | 2022-02-23 |
 | [Astatine](https://open.spotify.com/track/666PI2ou8H5MI98weRgnXI) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Astatine](https://open.spotify.com/album/1PTdPcuA4PZOFiqCA4h4iR) | 5:48 | 2022-12-02 |  |
@@ -103,6 +103,7 @@
 | [ebb and flow](https://open.spotify.com/track/0pOiVq4xFmpeXwjEkzpD9U) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [ebb and flow](https://open.spotify.com/album/25TyFNrtJLZbIciT9udRhp) | 4:17 | 2022-07-14 | 2022-08-06 |
 | [Echoes In Eternity](https://open.spotify.com/track/7ooTt6NVRZlH9AcHY4fTZm) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [Echoes In Eternity](https://open.spotify.com/album/7HNcC4FVhg4Fis8cVsZwNh) | 3:15 | 2023-09-29 |  |
 | [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 | 2022-11-14 |
+| [Encounter](https://open.spotify.com/track/7Ddm5bTLA3nLATCx1LtHd0) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Encounter](https://open.spotify.com/album/257jBmJSZWVkr2p0XB5kli) | 5:11 | 2023-10-06 |  |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-01-07 | 2022-07-29 |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-01-07 |  |
 | [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 | 2022-10-07 | 2023-05-27 |
@@ -179,6 +180,7 @@
 | [I have something to tell you](https://open.spotify.com/track/3w0Hy2IxxClVnhcmAwX7Ej) | [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [I have something to tell you](https://open.spotify.com/album/3W2avuXXusN1quj1JvIKXn) | 3:40 | 2022-01-07 | 2022-07-27 |
 | [I Like America & America Likes Me](https://open.spotify.com/track/1RHuBRoACkLRo2vjGqFCwf) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:26 | 2022-07-14 | 2022-08-06 |
 | [I Love This](https://open.spotify.com/track/1rZA151rIhOBq1pL5l5pay) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [I Love This](https://open.spotify.com/album/3v2kXhB9ttUu3LeKXdpN07) | 4:00 | 2023-04-13 | 2023-04-25 |
+| [I Tried It](https://open.spotify.com/track/1aT90LrFdM4Nmosb0PxhhU) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [I Tried It](https://open.spotify.com/album/78pdflobgQ0fKGzTeAJ0m3) | 3:33 | 2023-10-06 |  |
 | [I'll Be There for You](https://open.spotify.com/track/6TxceRnA4BeLn0XFRNbl5Y) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Polychrome](https://open.spotify.com/album/0NdJ9dK8zavK2oB68fJFva) | 4:46 | 2023-05-12 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-21 |  |
 | [i'm so tired](https://open.spotify.com/track/0hgEllIA9AgQBIPpkbNVmp) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [i'm so tired](https://open.spotify.com/album/1F6iYkfAJm0yrkgEON86lS) | 3:28 | 2023-06-23 |  |
@@ -386,7 +388,7 @@
 | [WONDER POP](https://open.spotify.com/track/2LJRpUkMAyBmuBSxQDN61i) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [WONDER POP](https://open.spotify.com/album/5Qfzvs1Xso9ZaZwbqN8a42) | 6:06 | 2022-01-07 |  |
 | [Worlds Away](https://open.spotify.com/track/7oN714ES39BtIurjS46BQt) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [GLNNA](https://open.spotify.com/artist/3X4wc5UBBeJBehpL1E8hQG) | [Worlds Away](https://open.spotify.com/album/54qisi0X9GjPyLA0MTlnSN) | 3:52 | 2022-01-07 |  |
 | [You Make It Look So Easy \- S.M.I.L.E.Y](https://open.spotify.com/track/00k4OQ83GU3zlGINUJngQA) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj) | [You Make It Look so Easy \(S.M.I.L.E.Y\)](https://open.spotify.com/album/76cQqQjAjGYy8aoBJTXXis) | 4:41 | 2022-01-28 | 2022-07-27 |
-| [You Make Me Better](https://open.spotify.com/track/6RnBCZ7caDIpkauSYrTqzp) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [You Make Me Better](https://open.spotify.com/album/2VfC59wqz3dEf7gNIi6ZkF) | 4:48 | 2022-10-27 |  |
+| [You Make Me Better](https://open.spotify.com/track/6RnBCZ7caDIpkauSYrTqzp) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [You Make Me Better](https://open.spotify.com/album/2VfC59wqz3dEf7gNIi6ZkF) | 4:48 | 2022-10-27 | 2023-10-08 |
 | [You Should Run](https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [You Should Run](https://open.spotify.com/album/40y7qJlPfbOoR6V32c0CcY) | 4:59 | 2022-01-07 |  |
 | [‎amends](https://open.spotify.com/track/5DUxg2EeFywPHiH14tG7zh) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎amends](https://open.spotify.com/album/6hsaOsyPPxC0LAsS2OvDdB) | 2:23 | 2022-05-13 | 2022-07-29 |
 | [‎melodies ‎from ‎heaven](https://open.spotify.com/track/48YSjXbdKqfU9OpD2RBGWk) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎melodies ‎from ‎heaven](https://open.spotify.com/album/4hEdkhGJoR7xHyqx3oPTy6) | 4:29 | 2022-11-11 | 2023-03-12 |

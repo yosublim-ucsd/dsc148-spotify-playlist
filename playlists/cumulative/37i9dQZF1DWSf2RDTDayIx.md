@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-373 songs - 19 hr 53 min
+374 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2022-02-25 |  |
 | [Sad Songs \(feat\. Clide\)](https://open.spotify.com/track/7hBAZYZpQTyp3BrbnF7T7W) | [One Bit](https://open.spotify.com/artist/7jlMwr0xUcRO1xS6WjkkUT), [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [Sad Songs \(feat\. Clide\)](https://open.spotify.com/album/7DmDFq4YJCYjEtoPQOWtKw) | 2:41 | 2021-12-03 | 2022-01-08 |
 | [San Pellegrino](https://open.spotify.com/track/0NFjqDNm7MyB7PtjouP5Z1) | [Wizman](https://open.spotify.com/artist/5qDEpgWy2vZpWvdZddb63V) | [San Pellegrino](https://open.spotify.com/album/7x2lqnsF39dQXhqSUyeGdg) | 4:00 | 2021-12-03 | 2022-01-08 |
+| [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 |  |
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-05-12 |  |
 | [Self Care \(with COIN\)](https://open.spotify.com/track/3mvwfSbI3vM5mu7D9RDfFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Self Care \(with COIN\)](https://open.spotify.com/album/1Bt9B6h6ZAQiPIx5RCHkJS) | 3:09 | 2021-12-03 | 2022-01-08 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-11 |  |
@@ -357,7 +358,7 @@
 | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [What A Life \(feat\. Stevie Appleton\)](https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw) | 2:51 | 2022-07-29 |  |
 | [What It Feels Like](https://open.spotify.com/track/5Yg3kRGlB8UB6Sa8Fq4njc) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [What It Feels Like](https://open.spotify.com/album/0IMdcAOMTVKZ0VRShzII45) | 2:26 | 2022-04-08 |  |
 | [Whatever You Want \(GOLDHOUSE Remix\)](https://open.spotify.com/track/1KrlP4LxckHjLp7faoUw26) | [Kaptan](https://open.spotify.com/artist/7yNfjZY3QJpm4cUj1i0fWD), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Whatever You Want \(GOLDHOUSE Remix\)](https://open.spotify.com/album/2hq7DOqQz21VCzQyZ3RFqO) | 3:15 | 2021-12-03 | 2022-01-08 |
-| [When I'm Alone](https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [When I'm Alone](https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva) | 3:20 | 2023-05-12 |  |
+| [When I'm Alone](https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [When I'm Alone](https://open.spotify.com/album/4UMsTVhkLkDmUj02ttuAva) | 3:20 | 2023-05-12 | 2023-10-08 |
 | [When I'm Right](https://open.spotify.com/track/2CK74bmcRamAsB7DUBR4aJ) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Asia Whiteacre](https://open.spotify.com/artist/2QeSqTVejTEPtgPaI1mLl4) | [When I'm Right](https://open.spotify.com/album/5Zd59G8Cc9JDb5FnvPuhc4) | 2:44 | 2021-12-03 | 2023-05-13 |
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-02-04 | 2022-07-29 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,574 likes - 36 songs - 1 hr 58 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,580 likes - 36 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 29 | [Reach Out \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/3qaL7Tu7HDQuTpJAfUgDnU) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Reach Out \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/0zwOMIivLNYzwn6e6dS9hs) | 3:19 |
 | 30 | [Blueprint](https://open.spotify.com/track/4DAfNjiubDTrgP8fyRKBmj) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground EP](https://open.spotify.com/album/6008kfSHje7BIjBEw9sGPF) | 3:54 |
 | 31 | [How it is \- Subshift Remix](https://open.spotify.com/track/0Hfss4Bbjukqm44GRxsJvF) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Don Malaa – After Hours](https://open.spotify.com/album/2Cbwm5jHgXBW2KrKtGiCVY) | 4:51 |
-| 32 | [Every Little Time](https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Every Little Time](https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC) | 3:09 |
+| 32 | [Every Little Time](https://open.spotify.com/track/5ThtmhhQkaGSbVq9CSK6Qn) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Every Little Time](https://open.spotify.com/album/1GT4rl83DhiEsl6yvUwOHC) | 3:05 |
 | 33 | [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 |
 | 34 | [Demon Time](https://open.spotify.com/track/4Rjr9hSQOlviDN3XZE3w3A) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma), [King Saaidi](https://open.spotify.com/artist/41SptUOO4HsFNu7EayYspX), [Supply & Demand \(US\)](https://open.spotify.com/artist/0UHA3j6mogPKFBOpHQDPQ1) | [Demon Time](https://open.spotify.com/album/2eyOhgQY4OLEmwRjSoAE3i) | 3:35 |
 | 35 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |

@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Uzielito Mix, El Bogueto y Dani Flow en portada ",
-  "num_followers": 10778,
+  "num_followers": 10831,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGVkNTQzYzQxZmI1MDcxZjg5YmJlMmZhYzQyMTEzZTE2OTY4ODRh",
+  "snapshot_id": "MCw3M2JhYjY4YzcwMzBjZTYxNGQ5NjAzZTY3Mzk4ZDZlNmI3OTIyZmRj",
   "tracks": [
     {
       "added_at": "2023-10-06 20:09:59",
@@ -171,26 +171,18 @@
     {
       "added_at": "2023-10-06 20:09:59",
       "album": {
-        "name": "MERCHO",
-        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 161451,
-      "name": "MERCHO",
-      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
     },
     {
       "added_at": "2023-10-06 20:09:59",
@@ -243,18 +235,26 @@
     {
       "added_at": "2023-10-06 20:09:59",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "MERCHO",
+        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+      "duration_ms": 161451,
+      "name": "MERCHO",
+      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
     },
     {
       "added_at": "2023-10-06 20:09:59",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-10-06 20:09:59",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
-    },
-    {
-      "added_at": "2023-10-06 20:09:59",
-      "album": {
         "name": "MODO CHAKALON",
         "url": "https://open.spotify.com/album/5EBFVJPchw9dyLJRrzc3qr"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
+    },
+    {
+      "added_at": "2023-10-06 20:09:59",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
     },
     {
       "added_at": "2023-10-06 20:09:59",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2023-10-06 20:09:59",
       "album": {
+        "name": "DOCE",
+        "url": "https://open.spotify.com/album/1jCDlwlLxrRkMUFq0MyC4b"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "MagiaBeats",
+          "url": "https://open.spotify.com/artist/2VtpXTU8gqWLHabwXxACcw"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "DOCE",
+      "url": "https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH"
+    },
+    {
+      "added_at": "2023-10-06 20:09:59",
+      "album": {
         "name": "Puta Rara, Puta Dominicana",
         "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
-    },
-    {
-      "added_at": "2023-10-06 20:09:59",
-      "album": {
-        "name": "DOCE",
-        "url": "https://open.spotify.com/album/1jCDlwlLxrRkMUFq0MyC4b"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        },
-        {
-          "name": "MagiaBeats",
-          "url": "https://open.spotify.com/artist/2VtpXTU8gqWLHabwXxACcw"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "DOCE",
-      "url": "https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH"
     },
     {
       "added_at": "2023-10-06 20:09:59",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2023-10-06 20:09:59",
       "album": {
-        "name": "Bugu",
-        "url": "https://open.spotify.com/album/2WPELRRTwKBNh48B32Xd7Q"
-      },
-      "artists": [
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Super Kai",
-          "url": "https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK"
-        }
-      ],
-      "duration_ms": 209302,
-      "name": "Bugu",
-      "url": "https://open.spotify.com/track/6WV7h73AArddBvXjExvYS9"
-    },
-    {
-      "added_at": "2023-10-06 20:09:59",
-      "album": {
         "name": "Mal Trato",
         "url": "https://open.spotify.com/album/7lGYxJafuQ8kBviQzlrEmf"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 142040,
       "name": "Mal Trato",
       "url": "https://open.spotify.com/track/6Ywzm54HyRJZjlnGBGzXYQ"
+    },
+    {
+      "added_at": "2023-10-06 20:09:59",
+      "album": {
+        "name": "Bugu",
+        "url": "https://open.spotify.com/album/2WPELRRTwKBNh48B32Xd7Q"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Super Kai",
+          "url": "https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "Bugu",
+      "url": "https://open.spotify.com/track/6WV7h73AArddBvXjExvYS9"
     },
     {
       "added_at": "2023-10-06 20:09:59",

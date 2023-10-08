@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth joints from around the globe\. Cover: Say She She
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,389 likes - 85 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,507 likes - 85 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 34 | [Last Words](https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm) | [NO ZU](https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P) | [Last Words](https://open.spotify.com/album/11rsTNOr3mFKfGJ0JjtSJy) | 5:09 |
 | 35 | [Regular Groove](https://open.spotify.com/track/7IiJt2xY8hfkDQUFn5udUL) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Regular Groove](https://open.spotify.com/album/49otrUutRG82UtwxkOifrl) | 3:20 |
 | 36 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 |
-| 37 | [Bowie](https://open.spotify.com/track/2Rr5PghSBFo5xXx1WqFLua) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Peace](https://open.spotify.com/album/6wOfQboyYEwNX3j23XUUPV) | 4:18 |
+| 37 | [Bowie](https://open.spotify.com/track/0hVKrrJGlQYzD88ytKZ2H7) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Peace](https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ) | 4:18 |
 | 38 | [Black Gleam](https://open.spotify.com/track/7evuSa4SWrFSDzR5ZXQnse) | [K'shore](https://open.spotify.com/artist/5wxQox4p6Q0KpR6RGyyJKf), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Silas Futura](https://open.spotify.com/artist/3mdRkSmrkUaSbVf4pT6qan) | [Grief Sessions](https://open.spotify.com/album/2qEIe58oO3sD7IGDkoY3vs) | 4:13 |
 | 39 | [Thoughtless Feeling](https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk) | [Bloomhaus](https://open.spotify.com/artist/0YlHl0Fe4sUrNKM5U1pTKb) | [Thoughtless Feeling](https://open.spotify.com/album/6OqwBX07u1gDecyoxkmL4Z) | 4:04 |
 | 40 | [Coming Back](https://open.spotify.com/track/2oZJ4OZOP7DHMdSrpx4fwq) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:21 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 59 | [disconnected](https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [Disconnected](https://open.spotify.com/album/5K4RBUcOvxdBdS0r8UvqPz) | 2:02 |
 | 60 | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/track/4MjQCE1rN1xjLLr8xcYFA9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [matt mcwaters](https://open.spotify.com/artist/3jUCC3z6XfyxBbGir9OcHK), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf) | [WAY OUT \(feat\. Milan Ring, matt mcwaters, & ?uestlove\)](https://open.spotify.com/album/1uggfls8BO7LmNnyhtqpRP) | 3:17 |
 | 61 | [Let's Go to Trader Joe's](https://open.spotify.com/track/0z5l7DO1gTxysQagz2ze8M) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr), [Cinya Khan](https://open.spotify.com/artist/7nv9u1rH0xrKytpgKfDKfz) | [Quiet Music For Young People](https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm) | 2:36 |
-| 62 | [Echo In The Chamber](https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Echo In The Chamber](https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ) | 3:20 |
+| 62 | [Echo In The Chamber](https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:20 |
 | 63 | [Sunbursting](https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Sunbursting](https://open.spotify.com/album/4YjPkjnA20KAcFmYa3Jz04) | 3:19 |
 | 64 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
 | 65 | [Drream](https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Zombie Juice](https://open.spotify.com/artist/3yAXW26fnch5fOTDL1vvJR) | [Drream](https://open.spotify.com/album/3LTsCYKj2YIWrlq5GiZ2dy) | 3:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 85 | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/track/4ptwKUD9Tsbi5Tz5MVehvy) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Top Steppa V2 \(feat\. Nightmares On Wax\)](https://open.spotify.com/album/5ZGQes5uklrLNQvwUxVBhN) | 4:42 |
 
-Snapshot ID: `MCw5MWFhMmYzZmE1YzljMjRjMDI0M2RjOTY5NmI3NWU4MzBmMDM5MDNm`
+Snapshot ID: `MCxjOWU4NzE4ZWI2YjgwODBjNjJiMzBhMjkwZGRkOGY3YjYyOTc1M2Rk`

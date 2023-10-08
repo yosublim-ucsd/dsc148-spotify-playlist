@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-519 songs - 1 day 20 hr 16 min
+520 songs - 1 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-25 | 2023-02-13 |
 | [Conquer All](https://open.spotify.com/track/2MYdLzcBnDnk97PutLCRWP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/7cNc742gxDcixwJcg3Jtm2) | 3:31 | 2022-07-13 | 2022-07-29 |
 | [Conquer All](https://open.spotify.com/track/5pKdvuth8EyC6pLxMu3aSr) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Demigod](https://open.spotify.com/album/0agVluQ3DkGd2dIec20gU6) | 3:31 | 2022-07-13 |  |
-| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 |  |
+| [Contorted Monuments](https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/5IIUnGjaxM97FERMxqFKwg) | 3:56 | 2023-09-01 | 2023-10-08 |
 | [Contorted Monuments](https://open.spotify.com/track/67eZWGltRRLeC6CqGo8OI4) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Contorted Monuments](https://open.spotify.com/album/3T2mwxswFJP50QjDFF2jnH) | 3:56 | 2023-01-20 | 2023-03-03 |
 | [Corpus Asunder](https://open.spotify.com/track/22LDsQ4MS0UCfjFxxzWK5d) | [Hooded Menace](https://open.spotify.com/artist/10mjw8SFRZjS0d8tecdEW8) | [The Tritonus Bell](https://open.spotify.com/album/0x4i70nD0RJfABpctTg7zn) | 7:18 | 2021-12-17 | 2022-04-09 |
 | [Corset](https://open.spotify.com/track/6FdqR9WXfCJEcz3pMV84lJ) | [Cloud Rat](https://open.spotify.com/artist/6Fbes1fH0ZDS0XGjDx2YeG) | [Corset](https://open.spotify.com/album/29K85KqmBKVepENRzTXK2K) | 1:46 | 2022-09-16 | 2022-09-30 |
@@ -470,6 +470,7 @@
 | [Tides of Glass](https://open.spotify.com/track/48HhbpVOPnKvJBKo23rZfz) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Tides of Glass](https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl) | 4:17 | 2022-09-01 | 2022-11-19 |
 | [Tilbake Til Opprinnelsen](https://open.spotify.com/track/1zIu37Rj840KEAtDl6FYbJ) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Tilbake Til Opprinnelsen](https://open.spotify.com/album/4seH77vBDdWdCsIVG3OgzN) | 6:15 | 2023-03-10 | 2023-04-01 |
 | [Till Valhall \- Svitjod Edition](https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Till Valhall](https://open.spotify.com/album/6xgmB5t5CUzD47ppBQg2CY) | 3:43 | 2021-12-17 | 2022-01-22 |
+| [To Wilt Beneath The Weight](https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [The Weight Of The Mask](https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre) | 5:39 | 2023-10-06 |  |
 | [Totentanz \- Dance Macabre](https://open.spotify.com/track/5VdUHQEaxWFRbKbnxLQ0tG) | [Belphegor](https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM) | [Totentanz \- Dance Macabre](https://open.spotify.com/album/5XZO6D5qfdUyYkSWt6ezoa) | 3:40 | 2022-04-15 | 2022-05-28 |
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 | 2022-07-27 |
 | [Transilvanian Hunger](https://open.spotify.com/track/6lJstSMcbosFzereFQ3bWm) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Transilvanian Hunger](https://open.spotify.com/album/5zaZAdRdcwZRsxexixMC2p) | 6:09 | 2022-07-13 | 2022-07-29 |

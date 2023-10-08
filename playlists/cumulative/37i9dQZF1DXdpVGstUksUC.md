@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-303 songs - 1 day 4 hr 59 min
+304 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 | 2021-11-30 | 2022-07-29 |
 | [I'll Cut You Down](https://open.spotify.com/track/2f9K9Gm9CLj0eKFW3BQZE8) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3) | 5:01 | 2022-04-28 |  |
 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 | 2021-11-30 |  |
+| [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 | 2023-10-06 |  |
 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 | 2021-11-30 | 2022-10-02 |
 | [In Procession](https://open.spotify.com/track/5FViPAjuOcT5IWiPW12iB2) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Omens](https://open.spotify.com/album/78OcH9fP0a6iyfaCgo4qUN) | 9:21 | 2021-11-30 | 2022-02-05 |
 | [Innocent](https://open.spotify.com/track/3fzDxRXvN39hxFyGosiUiT) | [Goatsnake](https://open.spotify.com/artist/5Ij5H3Ck98GRZoWSeyu4vz) | [I + Dog Days](https://open.spotify.com/album/2aTNR1RO5hVGGcOZrOEoix) | 3:32 | 2021-11-30 | 2022-02-15 |
@@ -276,7 +277,7 @@
 | [The Willow](https://open.spotify.com/track/2xL00osDc8ThgyQfNUbBrs) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 3:41 | 2021-11-30 | 2022-02-14 |
 | [The Wizard](https://open.spotify.com/track/3JvMig6Sc8XRLqHseNsccM) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2009 Remastered Version\)](https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10) | 4:20 | 2021-11-30 | 2022-07-29 |
 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 | 2022-04-28 | 2023-03-23 |
-| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 |  |
+| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 | 2023-10-08 |
 | [Therion](https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Therion](https://open.spotify.com/album/5ALsc13niDZ7ORzmpPOOL9) | 3:18 | 2022-02-22 | 2022-03-18 |
 | [Time Is Going On](https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt.1](https://open.spotify.com/album/43zW0PaCnakqNHm98btuno) | 3:38 | 2021-11-30 | 2022-07-28 |
 | [Times Missing](https://open.spotify.com/track/60csY2knifHsghAL0qr5kl) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [Times Missing](https://open.spotify.com/album/2DyQxKCnSNtbQvQqjVA68U) | 5:04 | 2021-11-30 | 2022-02-14 |

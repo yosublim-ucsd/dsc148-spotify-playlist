@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Majid Jordan\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,790 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,813 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 96 | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 |
 | 97 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [ANASTAASIA](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 |
 | 98 | [Good People, Good Vibes](https://open.spotify.com/track/1ttgLaCgoUcsgddZoJtXFL) | [Gary Beals](https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes) | [Good People, Good Vibes](https://open.spotify.com/album/2wSYszfNEwNAbx8rT7D3vD) | 2:36 |
-| 99 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 |
+| 99 | [MORAL](https://open.spotify.com/track/4FVeq46pcFppDtiMd8GReE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H) | 2:45 |
 | 100 | [Closure](https://open.spotify.com/track/7LtlYlVrSuM54aKxa0FxDZ) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Closure \(Remix\)](https://open.spotify.com/album/0Sg1F7YdSv1ApoTBpzcvSM) | 3:56 |
 
-Snapshot ID: `MCw4M2JmYzI1ZTM2NTE5M2Y3NWQ3NDU3NzY0NDJhNDlmMWI1ODIxYjZi`
+Snapshot ID: `MCwxMTkyMzRkZGFmOWNlMmRhZmVhZmFhNDczZTFkMjkyNzFjODExZmFl`

@@ -3123,6 +3123,28 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/5HSnQUDLG6vxwHQeAGQsnl"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Bahati",
+          "url": "https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/733bVgbJZKLFwtSRwsMckd"
+    },
+    {
+      "album": {
         "name": "Madem Wa Nai",
         "url": "https://open.spotify.com/album/5HtIiLcsMzvYKnF2UpcsbV"
       },

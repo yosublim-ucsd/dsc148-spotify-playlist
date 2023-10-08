@@ -4,7 +4,7 @@
 
 > we hear you.
 
-629 songs - 1 day 7 hr 7 min
+630 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Addicted 2 U](https://open.spotify.com/track/29KOLiu6sn8AIw46BYSJOw) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Addicted 2 U](https://open.spotify.com/album/1MzHMufnsAiofLR8UezqnF) | 3:31 | 2021-04-02 | 2022-04-15 |
 | [Aesthetic](https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4) | 2:38 | 2021-04-02 | 2022-04-19 |
 | [After](https://open.spotify.com/track/2d94jEmBfS2NO4nBg5PIRB) | [saaaz](https://open.spotify.com/artist/6MdmDH4ws2thbEQsYGUL7g) | [After](https://open.spotify.com/album/37noqZzJHyfis9oh0hzxwv) | 2:28 | 2021-04-02 | 2022-07-29 |
-| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 |  |
+| [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 | 2023-10-08 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-04-02 | 2022-07-24 |
 | [all i want is you](https://open.spotify.com/track/6IBJR6RxxAc9wfJjDaYJoJ) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [all i want is you](https://open.spotify.com/album/74GgZoswGgIaZVp1aPCpK6) | 2:12 | 2021-04-02 | 2022-05-26 |
 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 | 2022-09-27 |  |
@@ -333,6 +333,7 @@
 | [leave](https://open.spotify.com/track/4I58ty0bcrOGlE8E9Pj7zg) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [leave](https://open.spotify.com/album/0XSbI6BvEhoG5qwJQdcJmq) | 2:53 | 2021-04-02 | 2022-04-21 |
 | [Leaves](https://open.spotify.com/track/0PP2siOtzEjx8eACGM0QLf) | [John MacLane](https://open.spotify.com/artist/2aSTfnofbScUvFGn4kIiVr) | [Leaves](https://open.spotify.com/album/0HP8gVzObLaIc7SdXCtqrR) | 2:31 | 2021-04-02 | 2022-07-28 |
 | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC) | 2:16 | 2022-01-25 | 2023-08-16 |
+| [Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 2:20 | 2023-10-07 |  |
 | [Let You Go](https://open.spotify.com/track/7nvEGau7nhYGC2zttQCtwG) | [Dathan](https://open.spotify.com/artist/1ZbYvGN9FcTc6aRFm30oxw) | [Let You Go](https://open.spotify.com/album/1Nkzud0ZJtrTAbDjcpq4ef) | 2:03 | 2021-04-02 | 2022-04-21 |
 | [Lie to Me \(feat\. Mac Wetha\)](https://open.spotify.com/track/4sEDzQiqz1Prr7Wghm9Roo) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP) | [No Place for Patience, Vol\. 3](https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l) | 2:48 | 2021-04-02 | 2022-04-20 |
 | [life got crazy](https://open.spotify.com/track/14hRptRzFo5MZCIPjDxyag) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [life got crazy](https://open.spotify.com/album/3vXO75QQjWOwEVL8Y8iGj4) | 2:18 | 2021-07-29 | 2022-04-21 |

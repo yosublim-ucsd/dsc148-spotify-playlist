@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Georgio, Patrick Watson
 
-2,084 songs - 4 day 15 hr 20 min
+2,085 songs - 4 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Encre rose](https://open.spotify.com/track/2ozGNfYebzpA8mEoQbtAP3) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Dashny Jules](https://open.spotify.com/artist/0qBG4ysV4DQXkZ1D5mcj5w) | [Encre rose](https://open.spotify.com/album/0Qsu1nA0ajaW7wbRCoywq2) | 2:51 | 2022-03-25 | 2022-04-09 |
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2023-01-06 | 2023-01-21 |
 | [Enfantôme \- Radio edit](https://open.spotify.com/track/49PUrNvfMIGLKQlWeuyhoH) | [Feu la nuit](https://open.spotify.com/artist/68zfHjuBHS2StJIhmlr0iZ) | [Feu la nuit](https://open.spotify.com/album/6sSau2uCJFQd9ShExnfxXB) | 2:46 | 2022-10-28 | 2022-11-12 |
-| [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 |  |
+| [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 | 2023-08-25 | 2023-10-08 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-09-02 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |
@@ -1975,6 +1975,7 @@
 | [Vanille](https://open.spotify.com/track/0VGhs7p3D7aeXBcmcRWhk0) | [Georgette](https://open.spotify.com/artist/0XWZoub8BMI2GUcGmcH2ts) | [Chansons Vivaces](https://open.spotify.com/album/0xJIHQoJ55kNq85ieK59r1) | 3:16 | 2022-11-18 | 2022-12-03 |
 | [Vanille](https://open.spotify.com/track/0xk8f8yJPn2z3H9SEcunic) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Vanille](https://open.spotify.com/album/0FkprGiBKN6MKMLXNTCSB1) | 2:57 | 2022-05-27 | 2022-06-11 |
 | [Vaslaw](https://open.spotify.com/track/5Tsc2kib1Ver0jqZloT8nY) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Vaslaw](https://open.spotify.com/album/3AAj7Qak7bNlcwUqSF20Yc) | 4:34 | 2022-04-22 | 2022-05-07 |
+| [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 | 2023-10-06 |  |
 | [Vendeur de bière](https://open.spotify.com/track/0wa3tRQrqKlHeow3TmpUQp) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1) | [L'an 8000](https://open.spotify.com/album/7i55NtPr5ZQ1hsg42WemjU) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Verre de trop](https://open.spotify.com/track/3TP7rff5C07nasdDYOtVMD) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:39 | 2023-03-17 | 2023-04-15 |
 | [VERS LE SOLEIL](https://open.spotify.com/track/3p5XOcprH4snIOohtBxnPv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [VERS LE SOLEIL](https://open.spotify.com/album/2oDjLFFA6rKnEMogxIJZ8Y) | 4:04 | 2022-05-27 | 2022-06-04 |

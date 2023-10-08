@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: JayO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,769 likes - 170 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,866 likes - 170 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 14 | [Late Show](https://open.spotify.com/track/5I3CwhQ0Q5IyHnr1HRAIB3) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Late Show](https://open.spotify.com/album/2GHtbcQZP7exIJ0DmIdudB) | 3:13 |
 | 15 | [Spaceships](https://open.spotify.com/track/31bc2FenRg2KVCoIeSPg7E) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Saturday Night](https://open.spotify.com/album/77RyGk8HtT1Vj05qrAaKUK) | 3:48 |
 | 16 | [Loyal \(feat\. Isah\)](https://open.spotify.com/track/2M2ZmLhg1u62z3CPdA5b6E) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Loyal \(feat\. Isah\)](https://open.spotify.com/album/7kC7rRk40ww6ecoifuE6yM) | 3:03 |
-| 17 | [Therapy](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
+| 17 | [Therapist](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
 | 18 | [Get Together](https://open.spotify.com/track/4SNYTtR22PfL7UF0pouvFf) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Get Together](https://open.spotify.com/album/2ZwskA00mDrM1aGi1VTCai) | 2:44 |
 | 19 | [\(my\)PLEASURE ft\. Liv.e](https://open.spotify.com/track/3HwjXJksF9RtHMpZFLB9VZ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [\(my\)PLEASURE \(feat\. Liv.e\)](https://open.spotify.com/album/5oRnZSzimZBKPlgWw7XbzV) | 1:56 |
 | 20 | [Crash](https://open.spotify.com/track/6JFs4H4fmU2sVMTHAURY6Y) | [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Crash](https://open.spotify.com/album/07lbRphIO8Yv2DiYyMc1gr) | 3:54 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 169 | [Fantasy \(Give It All\)](https://open.spotify.com/track/29dLm7RhrSMQi6niCNRCut) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [Hoofy Baby](https://open.spotify.com/artist/5Bb8NSase0poSD0lXSyBSp) | [Fantasy \(Give It All\)](https://open.spotify.com/album/7exmvMCbKRJUDrjNxxIyF9) | 2:57 |
 | 170 | [Golden Highs](https://open.spotify.com/track/0jJZZit9EZdmbuG8lHPV4u) | [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Golden Highs](https://open.spotify.com/album/2qxq7n2YzyVwRBskiPFYn4) | 3:51 |
 
-Snapshot ID: `MCw0MjA1ZmY3YzRiMjkzNTVmYjcwNGRiOTA1ZDAxNzUxMWRiYzkyNzhj`
+Snapshot ID: `MCw1MjVkZmE5YThkODEwZjNiYjY1Y2VlMTk2Y2VhYmVjNmQzN2MyMGZi`

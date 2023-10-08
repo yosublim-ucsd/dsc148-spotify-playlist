@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12778,
+  "num_followers": 12781,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTM0ODU2NzI0ZTgyNjViMmRjZjE3YmFhM2UyNjFiOGZiMTNmYWY5",
+  "snapshot_id": "MCxkM2RhZGM3MWMzNDFmZDI4NTVmZjEyZjMzN2UxNDlmZTAyMzA2ZDgz",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "SUSHI VENUS",
         "url": "https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "EP Agua",
-        "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
-      },
-      "artists": [
-        {
-          "name": "Emaflu",
-          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
-        },
-        {
-          "name": "Camila Ba\u00f1ados",
-          "url": "https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 203475,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "EP Agua",
+        "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
+      },
+      "artists": [
+        {
+          "name": "Emaflu",
+          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
+        },
+        {
+          "name": "Camila Ba\u00f1ados",
+          "url": "https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
     },
     {
       "added_at": "2023-10-04 04:00:00",

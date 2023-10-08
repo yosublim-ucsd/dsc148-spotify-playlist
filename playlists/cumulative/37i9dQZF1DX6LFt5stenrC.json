@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 157360,
       "name": "Just Fine (Sam & Cat Theme Song)",
       "url": "https://open.spotify.com/track/73iysPDdIf3M505nHzfflY"
@@ -1978,6 +1978,24 @@
       "duration_ms": 155771,
       "name": "Shimmer and Shine Theme Song - Extended Version",
       "url": "https://open.spotify.com/track/6zE8WAlvEiCW3riCVoOqJQ"
+    },
+    {
+      "album": {
+        "name": "PJ Power Up",
+        "url": "https://open.spotify.com/album/4NplMo0hWhheo1PR9LQOie"
+      },
+      "artists": [
+        {
+          "name": "PJ Masks",
+          "url": "https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101850,
+      "name": "Shine On Everyone",
+      "url": "https://open.spotify.com/track/5Qy4yGFjXdkEAsmIIcagWg"
     },
     {
       "album": {

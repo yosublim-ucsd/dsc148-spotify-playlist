@@ -67,13 +67,17 @@
     },
     {
       "album": {
-        "name": "All Night (UMEK Remix)",
+        "name": "All Night (Umek Remix)",
         "url": "https://open.spotify.com/album/6HnbEuGFZXROfrGtyCLzdN"
       },
       "artists": [
         {
           "name": "Parov Stelar",
           "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
         }
       ],
       "date_added": "2013-09-05",

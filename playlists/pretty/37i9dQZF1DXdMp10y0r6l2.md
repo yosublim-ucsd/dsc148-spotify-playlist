@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,054 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,131 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 74 | [We Will Rock You \- Udo Dirkschneider Version](https://open.spotify.com/track/5EARD3LqHo44LlvOmLJapD) | [Udo Dirkschneider](https://open.spotify.com/artist/07CIzmTuAiQk4N2OikMfbw) | [We Will Rock You \(Udo Dirkschneider Version\)](https://open.spotify.com/album/1tYRBdrU3at54ASdnsvIxj) | 3:12 |
 | 75 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 
-Snapshot ID: `MCw4NmY4N2JhNjZhM2FmOGQ1NTJkYmUzZGQ5ZmJiYzdmODg2YjU1ZDE0`
+Snapshot ID: `MCwxMjQwOTdlMzVkMDJjN2UzM2FkYjRjM2EzY2JjNzA1MzkxMzAwOThl`

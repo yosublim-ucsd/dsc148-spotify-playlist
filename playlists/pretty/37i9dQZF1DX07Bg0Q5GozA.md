@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Polo & Pan
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,085 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,119 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Under the Moon](https://open.spotify.com/track/7JyZjlTWvCMJcbimNOAOkC) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Under the Moon](https://open.spotify.com/album/7fn5WEWdDR10ccAxgsrMKp) | 2:52 |
 | 75 | [Carbon Dioxide \- Avalon Emerson Remix](https://open.spotify.com/track/1izkZudygEfMyRbUirb9ik) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Carbon Dioxide \(Avalon Emerson Remix\)](https://open.spotify.com/album/2U1gbN87t9nWpsxFQwDv0A) | 6:11 |
 
-Snapshot ID: `MCw1NWQ3MTQwMzAyMDM2YTIzMWUwMDA1NWY0MmEzNmRhMGQ5YTk1ZjRl`
+Snapshot ID: `MCwyZDI4M2Q0ZWIzYWZjMmVmNDlmZjhiODI4MWU1YTllZTlmMjdlMWVh`

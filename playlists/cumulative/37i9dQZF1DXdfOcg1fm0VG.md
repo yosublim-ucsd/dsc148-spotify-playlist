@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-159 songs - 9 hr 15 min
+161 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [First Steps](https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf) | 3:38 | 2022-07-27 |  |
 | [Flame of Hope](https://open.spotify.com/track/2LRj7dos9qXcoMSJZ7E9xy) | [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98), [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Soundtrack\)](https://open.spotify.com/album/74coE6457t07plLwF26Bmo) | 3:51 | 2022-09-09 |  |
 | [Flame of Hope](https://open.spotify.com/track/1by9jxofwB9YKUqOqqOzZM) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz) | [Tales of Arise \(Original Game Soundtrack\)](https://open.spotify.com/album/4It1n0UCx3YTbe0vmWeVdS) | 3:51 | 2022-09-09 | 2022-10-03 |
+| [Fontaine](https://open.spotify.com/track/7gEpP0zIY3lVwTl7I5GZmH) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Fountain of Belleau \(Original Game Soundtrack\)](https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB) | 4:33 | 2023-10-06 |  |
 | [Force Projection](https://open.spotify.com/track/1ZJevzwhAH7YHB6AFmoIqG) | [P.T\. Adamczyk](https://open.spotify.com/artist/27VhXJzIph9c75cBh1e8XM) | [Cyberpunk 2077: Phantom Liberty \(Original Score\)](https://open.spotify.com/album/0YmI7KdXpmTikNmFHVMilu) | 2:46 | 2023-09-15 |  |
 | [Further](https://open.spotify.com/track/5SWI7JbAwfTPgs0cuorR7H) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Serena McKinney](https://open.spotify.com/artist/7gKCfXkWzSIIqF28LtrnsV) | [Far Cry 3 \(Original Game Soundtrack\)](https://open.spotify.com/album/2AxcQVfBSBQzozMlX8yVxv) | 4:04 | 2021-12-15 |  |
 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 | 2021-12-15 | 2022-07-29 |
@@ -100,6 +101,7 @@
 | [Main Title](https://open.spotify.com/track/3ynOh82NOks4d4YcKkcrnt) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Fallout 3: Original Game Soundtrack](https://open.spotify.com/album/5eikNDtOsRBp4npSO9nFOJ) | 2:04 | 2021-12-15 |  |
 | [Menu \(Protect the Loop\)](https://open.spotify.com/track/0HGknL22SeV3WN0hrWffhp) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Deathloop \(Original Game Soundtrack\)](https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y) | 1:14 | 2022-01-04 |  |
 | [Metal Gear Saga](https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) | 4:19 | 2022-08-30 |  |
+| [Mirage Theme \- From Assassin's Creed Mirage](https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Mirage Theme \(From Assassin's Creed Mirage\)](https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK) | 3:32 | 2023-10-06 |  |
 | [Monkey Island Theme](https://open.spotify.com/track/6xgicG9zxRtZnauyqurAuW) | [Michael Z\. Land](https://open.spotify.com/artist/5vlxfbCfKvnlesc4rE3w2S) | [Return to Monkey Island \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4XB1SVZfzNnMCybZQbC3aR) | 1:44 | 2023-09-15 |  |
 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 | 2022-07-27 |  |
 | [Nascence](https://open.spotify.com/track/6zcP5A5Xv6bvCUpwXrswKa) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/0ndOKj9ShVUgDc2UiR8b2M) | 1:46 | 2021-12-15 | 2022-07-29 |

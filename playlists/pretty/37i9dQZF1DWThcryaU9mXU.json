@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 46973,
+  "num_followers": 47027,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2VhNmIwMTBiNTRlYWY4Y2E3MjY5OThlNWNhZjhiOWJlNWNjMjM5",
+  "snapshot_id": "MCw1MDc4MjgwMzNjNWNmNzBmN2Y3Yzg3ZGFmMjRlMDdmMmRmNTczYWYz",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Jackie Sings The Blues",
-        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 124786,
-      "name": "Please Tell Me Why",
-      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Man of the World: The Anthology 1968-1988",
         "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Jackie Sings The Blues",
+        "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 124786,
+      "name": "Please Tell Me Why",
+      "url": "https://open.spotify.com/track/4MiSIiIZQFOQFg9O0I9DCR"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Iron Man",
         "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 412920,
       "name": "Icepick Through My Heart",
       "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Mr. Wonderful (Deluxe)",
-        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "I've Lost My Baby",
-      "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Straight from the Heart",
         "url": "https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 262651,
       "name": "Blues Keep Chasing Me",
       "url": "https://open.spotify.com/track/3GK95DlclAn2RFYY36IHoc"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Mr. Wonderful (Deluxe)",
+        "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "I've Lost My Baby",
+      "url": "https://open.spotify.com/track/1K3L55HIhx61FIn173umta"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV"
-      },
-      "artists": [
-        {
-          "name": "Ben Levin",
-          "url": "https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Pass It On Down",
         "url": "https://open.spotify.com/album/6VLp6e4Bxv03KOfrDQ7IsM"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 313447,
       "name": "Son I Never Knew",
       "url": "https://open.spotify.com/track/3Wjk0hGlJVw2lnEL3ZC0x8"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV"
+      },
+      "artists": [
+        {
+          "name": "Ben Levin",
+          "url": "https://open.spotify.com/artist/7JPxlItTC9DxZ7YwAOwLci"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Love & Gravity",
         "url": "https://open.spotify.com/album/69yCg5lBESdddDIGkmovLB"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 228746,
       "name": "Love & Gravity",
       "url": "https://open.spotify.com/track/5YU3qtXOLff4lm01iLplgR"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-10-02 12:57:01",

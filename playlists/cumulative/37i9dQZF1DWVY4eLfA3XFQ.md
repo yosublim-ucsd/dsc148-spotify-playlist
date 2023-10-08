@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring John Summit & VLTRA
 
-1,293 songs - 3 day 2 hr 17 min
+1,294 songs - 3 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,7 +754,7 @@
 | [Mucho Mambo \(Sway\)](https://open.spotify.com/track/4m1cQA02c6OK2mlAfkhDCh) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Mucho Mambo \(Sway\)](https://open.spotify.com/album/7vtFACz1sTgcFRGOhl1xjp) | 2:20 | 2023-06-09 | 2023-09-23 |
 | [Mucho Tiempo](https://open.spotify.com/track/58R6Ua18hdDJ7576ugCEE0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Marco Tropeano](https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb) | [Mucho Tiempo](https://open.spotify.com/album/144tzxsJOE8473sAmCAeNB) | 3:20 | 2022-07-29 | 2022-08-20 |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-21 | 2023-06-10 |
-| [Music Is Life \- Main Mix](https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:05 | 2023-07-28 |  |
+| [Music Is Life \- Main Mix](https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9) | [Bushwacka!](https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Music Is Life](https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn) | 6:05 | 2023-07-28 | 2023-10-08 |
 | [Music Is The Medication](https://open.spotify.com/track/5FRsalFMNTPxCPEzpoVCF4) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [I Jah](https://open.spotify.com/artist/2zoDXV6Ko316CBoCnGLDoS) | [Music Is The Medication](https://open.spotify.com/album/6rXEvtsxkwDdGqRpN0nthf) | 3:12 | 2023-01-13 | 2023-04-01 |
 | [Muzik](https://open.spotify.com/track/7sxNIBN7lyjt2p6a9a9AwH) | [Fergie](https://open.spotify.com/artist/1si6WHnb1ywwJ2lpFRUHcc) | [Muzik](https://open.spotify.com/album/5keWp7LxxbvDKdsR6k1lwK) | 4:03 | 2022-11-11 | 2022-12-10 |
 | [Muévete](https://open.spotify.com/track/7wR5PZBN5JqVNJEAx7x2xx) | [Nolek](https://open.spotify.com/artist/3lqYpuRWMveuEstXognq7q), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Más EP](https://open.spotify.com/album/1qtCUy1YhIEU6H2a5C0OKX) | 3:23 | 2023-06-16 | 2023-06-18 |
@@ -1277,6 +1277,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-08 | 2022-10-01 |
 | [Wormhole](https://open.spotify.com/track/4IDUZtryCyknQNNa9D61Rb) | [Dillon Marinez](https://open.spotify.com/artist/1M1DknkrhbuC17RUTHcOXC) | [Wormhole](https://open.spotify.com/album/0xKStQRWOfYN8CebSyHGX1) | 5:39 | 2022-05-13 | 2022-05-28 |
 | [WTF](https://open.spotify.com/track/7KghlrJKm7Kz67AxyITAgb) | [CVMPANILE](https://open.spotify.com/artist/57xJDNhXj9OxeNKYrM3c8W), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [WTF](https://open.spotify.com/album/4dwN2SEgXaagfaDfHt7Yuq) | 2:30 | 2023-07-21 | 2023-08-17 |
+| [WTF](https://open.spotify.com/track/0HfwmVJGd0kzoVXLB6g7cX) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [WTF](https://open.spotify.com/album/4Lg781foL2p5Ws6A64t8z8) | 3:35 | 2023-10-06 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-09-24 |
 | [WUTT](https://open.spotify.com/track/2jxHmWJCL5XMGCySVf2NbJ) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [WUTT](https://open.spotify.com/album/6vucmSOhJo0JUzKDRyMlRP) | 3:21 | 2023-06-09 |  |
 | [X](https://open.spotify.com/track/6f8GQk4wOXgaZ0XXimibwq) | [AW](https://open.spotify.com/artist/07klEuoeAcIFT4YY6tkcVJ) | [X](https://open.spotify.com/album/6tG7LYjswrutL1hMESh4Zw) | 3:07 | 2022-12-16 | 2023-02-04 |

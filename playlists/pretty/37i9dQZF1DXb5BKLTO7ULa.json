@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Kris Kross Amsterdam, SERA, Conor Maynard",
-  "num_followers": 259108,
+  "num_followers": 259138,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2FmOTRmZDA1MTc5YTUwNWU3ODFhMjM3MTUyN2FkM2JiNGRiMTBm",
+  "snapshot_id": "MCxmNjU1MzM4M2MwMWM3ZjhlYjFkYzU2ZjE4YTJkMWM5MGFjYTEyZDVh",
   "tracks": [
     {
       "added_at": "2023-10-06 13:05:56",
@@ -399,7 +399,7 @@
     {
       "added_at": "2023-10-06 13:05:56",
       "album": {
-        "name": "Slide (feat. Burleson, Oykie & C.Smoke) [Hosted by 4shobangers]",
+        "name": "Slide (with Burleson, Oykie & C.Smoke) [Hosted by 4shobangers]",
         "url": "https://open.spotify.com/album/4QiixZVV8RN9jP55npbDSh"
       },
       "artists": [
@@ -412,10 +412,6 @@
           "url": "https://open.spotify.com/artist/6gYNHOJgGijmZUjpcEGCEB"
         },
         {
-          "name": "Burleson",
-          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
-        },
-        {
           "name": "Oykie",
           "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
         },
@@ -424,12 +420,16 @@
           "url": "https://open.spotify.com/artist/1xeyFlAHIrORp2L0HamXb6"
         },
         {
+          "name": "Burleson",
+          "url": "https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8"
+        },
+        {
           "name": "4shobangers",
           "url": "https://open.spotify.com/artist/3HcSTFQCKrlPFBfaurV3l5"
         }
       ],
       "duration_ms": 244951,
-      "name": "Slide (feat. Burleson, Oykie & C.Smoke) - Hosted by 4shobangers",
+      "name": "Slide (with C.Smoke, Burleson & Oykie)",
       "url": "https://open.spotify.com/track/6nV6pexMttJdQK2qnoi9m2"
     },
     {

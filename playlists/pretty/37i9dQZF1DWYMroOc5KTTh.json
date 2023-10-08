@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 439227,
+  "num_followers": 439461,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDc0OWU5MWUyYTFhOTNiMWU5NWQyOWVhNjNhOGJjZDgxZWVhN2I1",
+  "snapshot_id": "MCw5MzIyMGNhYmMzODc3NTFhNDgzY2MwMzRiMDYxODA0ZDYwNzQyNDE5",
   "tracks": [
     {
       "added_at": "2023-10-06 00:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-10-06 00:00:00",
       "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 229743,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2023-10-06 00:00:00",
+      "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "J Warner",
+          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
+        }
+      ],
+      "duration_ms": 229743,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
     },
     {
       "added_at": "2023-10-06 00:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-10-06 00:00:00",
       "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "added_at": "2023-10-06 00:00:00",
+      "album": {
         "name": "Sweet Time",
         "url": "https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h"
       },
@@ -819,18 +835,18 @@
     {
       "added_at": "2023-10-06 00:00:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
       },
       "artists": [
         {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 160127,
-      "name": "Good Lies",
-      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2023-10-06 00:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 556924,
       "name": "Let It Happen - Soulwax Remix",
       "url": "https://open.spotify.com/track/5Z1E4jrUzitOQRczI8gfSL"
-    },
-    {
-      "added_at": "2023-10-06 00:00:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/76dHlXRYZm3JsTuNCFvtDn"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Where Angels Fear To Tread",
-      "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
     },
     {
       "added_at": "2023-10-06 00:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-10-06 00:00:00",
       "album": {
-        "name": "JOY (Head To The Sky)",
-        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+        "name": "Missing You / Something About Your Love",
+        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 230650,
-      "name": "JOY (Head To The Sky)",
-      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+      "duration_ms": 323109,
+      "name": "Something About Your Love",
+      "url": "https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu"
     }
   ],
   "unique_name": "Serotonin",

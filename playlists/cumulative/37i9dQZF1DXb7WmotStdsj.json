@@ -932,10 +932,32 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 325212,
       "name": "Fi Hawmtek Tayah",
       "url": "https://open.spotify.com/track/49EW3aFH5ORawt7n24NYKm"
+    },
+    {
+      "album": {
+        "name": "Fi Hawmtk Tayh",
+        "url": "https://open.spotify.com/album/6iv0JgmVA17gmNUVialSf9"
+      },
+      "artists": [
+        {
+          "name": "Abdou Gambetta",
+          "url": "https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2"
+        },
+        {
+          "name": "Raouf Samorai",
+          "url": "https://open.spotify.com/artist/73AJQgudvAFKMhRQWOlEck"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Fi Hawmtk Tayh",
+      "url": "https://open.spotify.com/track/58qcHWC6FE7hUw1MXW9Qlw"
     },
     {
       "album": {

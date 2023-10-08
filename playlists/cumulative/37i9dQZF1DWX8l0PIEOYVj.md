@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: JVNA.
 
-442 songs - 1 day 2 hr 22 min
+443 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [JSYK](https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [JSYK](https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe) | 3:48 | 2023-03-10 |  |
 | [Just A Dream](https://open.spotify.com/track/0FpXOnJP3OtKU5zGKUtrdu) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Just A Dream](https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx) | 2:48 | 2022-07-08 | 2022-11-13 |
 | [Just Be Honest](https://open.spotify.com/track/71KO4zAbFDtx8oDQx7qtka) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Just Be Honest](https://open.spotify.com/album/66LWQi0GbFve8X4IFpOiiG) | 3:33 | 2022-07-08 | 2022-07-29 |
-| [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 | 2022-07-08 |  |
+| [Just Like You](https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Just Like You](https://open.spotify.com/album/4PPUdNjkbbVWrdby0AamEx) | 4:28 | 2022-07-08 | 2023-10-08 |
 | [Knock On Wood](https://open.spotify.com/track/1dqt7PgZm65K8Ctm7nOimH) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Lousy](https://open.spotify.com/artist/2KbWUA7pMd5ZpNdj5LPp3s) | [Knock On Wood](https://open.spotify.com/album/7mhsD3T9IWt5pkP90a1In3) | 3:08 | 2022-07-08 | 2022-08-06 |
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
@@ -309,6 +309,7 @@
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-07-08 | 2023-05-27 |
 | [PART OF ME](https://open.spotify.com/track/1Hn4Yt7ByliodvxeanCQkS) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/53ZBt5Wzau79tfbpKAupE6) | 2:32 | 2022-07-29 | 2023-05-17 |
 | [PART OF ME](https://open.spotify.com/track/2wW67KaLBLCaLxeyCNBEjo) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/0Bgx5cjJDNSeC7n54K7LPX) | 2:32 | 2022-07-08 | 2022-07-29 |
+| [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-06 |  |
 | [Phantoms](https://open.spotify.com/track/0WUVe3Nkd1BMuGecBkGGLr) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Phantoms](https://open.spotify.com/album/5TuRd84g8N14luBq3Jbwkg) | 3:19 | 2023-06-16 |  |
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-18 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |

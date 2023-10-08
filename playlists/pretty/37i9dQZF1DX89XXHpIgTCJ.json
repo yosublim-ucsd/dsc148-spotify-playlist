@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 286387,
+  "num_followers": 286692,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWMyNjFjYmI1MTQyZTcwZjJiZGRjN2ZjZjI4OTMwMTY2NTRlZGJj",
+  "snapshot_id": "MCxmNTRhMzcxYzg3MWQ5NDBmYTM5NTY2NTg0NDc0NzU1YzI4NjYyMmNi",
   "tracks": [
     {
       "added_at": "2023-10-01 21:11:39",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2023-10-01 21:11:39",
-      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
@@ -951,22 +935,18 @@
     {
       "added_at": "2023-10-01 21:11:39",
       "album": {
-        "name": "Crooked Teeth",
-        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
         }
       ],
-      "duration_ms": 227749,
-      "name": "Sunrise Trailer Park",
-      "url": "https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y"
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2023-10-01 21:11:39",
@@ -987,6 +967,26 @@
       "duration_ms": 227080,
       "name": "Game On (feat. Good Charlotte) - From \"Pixels - The Movie\"",
       "url": "https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx"
+    },
+    {
+      "added_at": "2023-10-01 21:11:39",
+      "album": {
+        "name": "Crooked Teeth",
+        "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 227749,
+      "name": "Sunrise Trailer Park",
+      "url": "https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y"
     },
     {
       "added_at": "2023-10-01 21:11:39",

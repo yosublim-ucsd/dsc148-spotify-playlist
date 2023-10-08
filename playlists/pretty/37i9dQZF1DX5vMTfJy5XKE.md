@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,348 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,341 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 54 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/1HQiM7uCA8GtLq0MlaGod5) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/3Bsr60nqZmKOu2xAvEdFgs) | 3:00 |
 | 55 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
 
-Snapshot ID: `MCw0ZDU3YjE4ZDZlYTE4NjMyMDNiYTBmZjQ5ZmQzN2RjNjRmZTIwN2Q4`
+Snapshot ID: `MCwzMDk5N2UxN2ExY2YwM2NmNDRiNTYzYzE4ZTkwNTkwYzgwNTkzYzQw`

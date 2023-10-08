@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Hannah Laing
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,285 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,323 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desire \(with Sam Smith\) \- Hannah Laing Remix](https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Desire \(with Sam Smith\) \[Hannah Laing Remix\]](https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb) | 3:08 |
-| 2 | [Prada \- Ronnie Pacitti Remix](https://open.spotify.com/track/3MxwMM6A3Itnuokz1sNxRo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [Prada \(Ronnie Pacitti Remix\)](https://open.spotify.com/album/6JoicOpp8g2RueDQ67TGkR) | 3:05 |
+| 2 | [Prada \(feat\. Ronnie Pacitti\) \- Ronnie Pacitti Remix](https://open.spotify.com/track/3MxwMM6A3Itnuokz1sNxRo) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh) | [Prada \(Ronnie Pacitti Remix\)](https://open.spotify.com/album/6JoicOpp8g2RueDQ67TGkR) | 3:05 |
 | 3 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
 | 4 | [Drinkin' \- Joel Corry VIP Mix](https://open.spotify.com/track/3mOl6R9Rvtp7o3nqWJs4Jh) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin' \(The Remixes\)](https://open.spotify.com/album/6H0pgNDo4V8NQYfiErY5aN) | 2:52 |
 | 5 | [The Weekend \- Bou Remix](https://open.spotify.com/track/0bHzvICBdoUXsG4D0IntMb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [The Weekend \(Bou Remix\)](https://open.spotify.com/album/3XAKsF8KTg4Ete5WN3Hvso) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
 | 50 | [Where Are You Now \- Kungs Remix](https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Where Are You Now \(Remix Pack\)](https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX) | 3:12 |
 
-Snapshot ID: `MCxhNDVlN2VlMmFkOTc2OTZmNmIwYjAwNWI5NmQwZWIwZmUxNzgyODQx`
+Snapshot ID: `MCxiNzAyYWVmNjkxNjk5ODIzNTEwZjAzNWZlZjA2NTZiZDY2NmIxNGVl`

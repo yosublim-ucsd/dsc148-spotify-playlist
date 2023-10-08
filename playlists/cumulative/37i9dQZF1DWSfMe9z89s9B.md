@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Majid Jordan
 
-980 songs - 2 day 4 hr 33 min
+981 songs - 2 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Pretty Ass Bish](https://open.spotify.com/track/1UbTy9jNH2JdFrkehNv8J8) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Pretty Ass Bish](https://open.spotify.com/album/2h9UYKJHwFPF25rg28AQj8) | 2:23 | 2023-07-28 |  |
 | [Primal Design](https://open.spotify.com/track/72go9p5GOwd87BuAxOkitl) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Primal Design](https://open.spotify.com/album/1BbC0yD5Cu1CtivfdILB3w) | 3:16 | 2022-11-25 | 2022-12-10 |
 | [Problems](https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Problems](https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL) | 2:34 | 2021-09-17 | 2022-09-10 |
+| [protect](https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [protect](https://open.spotify.com/album/6vLi4z1axDYhVrB0idim09) | 2:47 | 2023-10-06 |  |
 | [Pseudo](https://open.spotify.com/track/5osYao2SrXpR13kqF43OGA) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Pseudo](https://open.spotify.com/album/0wUIVK2RgEzIWgxmihbaiz) | 4:33 | 2023-04-14 | 2023-04-29 |
 | [Pull Up](https://open.spotify.com/track/3GyQuQRsVxOG5mZw98FG4n) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Pull Up](https://open.spotify.com/album/6KkUuZEtuJhMNIsiFiJvY7) | 3:14 | 2021-08-13 | 2022-01-09 |
 | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/track/18MXCyUdrs0LFmEcuneOPL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Pull Up \(Remix\) \[feat\. Mick Jenkins\]](https://open.spotify.com/album/5jr9iXRLsDgW434mGuzOFt) | 3:12 | 2022-04-01 | 2022-04-12 |
@@ -769,7 +770,7 @@
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-08-25 |  |
 | [Slumber](https://open.spotify.com/track/0oF0OIjGA5DGl7WkyHjSXz) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [April + VISTA](https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj) | [Slipping Into Color](https://open.spotify.com/album/6kuxykEjfFWmGv8IwXlmrO) | 3:45 | 2023-09-22 |  |
-| [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 |  |
+| [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 | 2023-10-08 |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 | 2023-04-01 |
 | [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2023-04-09 |
 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 | 2022-08-19 | 2023-07-22 |

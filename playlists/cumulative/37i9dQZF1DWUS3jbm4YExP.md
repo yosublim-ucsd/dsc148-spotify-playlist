@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-599 songs - 1 day 19 hr 22 min
+600 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Asiko \(In a Silent Mix\) \- Motor City Drum Ensemble Remix](https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Dekmantel 10 Years 10.2](https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF) | 7:23 | 2021-10-06 |  |
 | [Atlantic Oscillations](https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE) | 5:51 | 2021-10-06 | 2022-07-29 |
 | [Atlantic Oscillations](https://open.spotify.com/track/4c0MBMraTqhHafXnATV1st) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/7m3CyxNH2qJ5COtYLC7PPp) | 5:51 | 2021-10-06 | 2022-09-02 |
-| [Atlantic Oscillations](https://open.spotify.com/track/6B48flYjBKnKObVOYlcTle) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/0Xfv1090bD2UFe8i7R9MDy) | 5:51 | 2023-08-31 |  |
+| [Atlantic Oscillations](https://open.spotify.com/track/6B48flYjBKnKObVOYlcTle) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Atlantic Oscillations](https://open.spotify.com/album/0Xfv1090bD2UFe8i7R9MDy) | 5:51 | 2023-08-31 | 2023-10-08 |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-06 |  |
 | [Avocado Dance](https://open.spotify.com/track/4iv05a9SwSKOOARqw5DMSa) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3) | [Time Grove Roots](https://open.spotify.com/album/59umCDU7qBz8Iyvtb58J6V) | 5:29 | 2021-10-06 | 2022-07-02 |
 | [Ayonha](https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 3:39 | 2021-10-06 |  |
@@ -574,6 +574,7 @@
 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 | 2022-03-11 | 2022-04-15 |
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Waile](https://open.spotify.com/track/2SQ1RHD0v47oggTFmR68q1) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/2cYQVweVo4ZuMgIB40YRxl) | 5:15 | 2022-09-30 | 2022-11-22 |
+| [Waile](https://open.spotify.com/track/7CrdlbRadEBmd16KQWt4xf) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Zango](https://open.spotify.com/album/2J92im3sUEJM3pvDqDeS7f) | 5:15 | 2023-10-05 |  |
 | [Watch me Dance](https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl) | [The Architect](https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv) | [Watch me Dance](https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ) | 3:22 | 2021-10-06 | 2022-04-21 |
 | [We Give Thanks](https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb) | 3:40 | 2022-04-07 | 2022-07-29 |
 | [We Give Thanks](https://open.spotify.com/track/4eYtBs2OYlnKbGRsHnAwWN) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [We Give Thanks](https://open.spotify.com/album/5R7v0oLGY2reMD4GkKpdqq) | 3:40 | 2022-08-08 | 2022-08-10 |

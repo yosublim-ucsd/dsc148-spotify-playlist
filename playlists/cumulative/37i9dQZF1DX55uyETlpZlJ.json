@@ -1893,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "Manaseega Birukagidhe",
+        "url": "https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX"
+      },
+      "artists": [
+        {
+          "name": "Manasa Holla",
+          "url": "https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239374,
+      "name": "Manaseega Birukagidhe",
+      "url": "https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn"
+    },
+    {
+      "album": {
         "name": "Manasindha",
         "url": "https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p"
       },

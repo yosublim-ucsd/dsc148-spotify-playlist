@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nines \(pictured\), Kenya Grace, Tems and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,787 likes - 130 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,884 likes - 130 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 28 | [What Can I Say?](https://open.spotify.com/track/4CPQFa10uJlKKTxkbqRb3z) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [What Can I Say?](https://open.spotify.com/album/5phWrwWAZ9rzWxYbMPmKfy) | 2:31 |
 | 29 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 30 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 |
-| 31 | [Therapy](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
+| 31 | [Therapist](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
 | 32 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 33 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
 | 34 | [1 On 1](https://open.spotify.com/track/1AlHibxD7NCwSXYPJHVQ15) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [1 On 1](https://open.spotify.com/album/26gGXTFrJrtgjRgqgXfwKm) | 2:57 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 130 | [Wrong](https://open.spotify.com/track/5xrW5jzKsnDAHPH12XSAyw) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Wrong](https://open.spotify.com/album/4sJFz2cCDGchd6Muns7o4T) | 5:20 |
 
-Snapshot ID: `MCw5NjdmYzcyM2YxNjQzOWEyNTJiYWE5ZjFjNzQzMTZmNmMyMzJiMzYw`
+Snapshot ID: `MCw4NTVjOWI1NDllYTM5NjRmNjIxMmMwMGRiMjNkN2NhZmU2M2IxMjYz`

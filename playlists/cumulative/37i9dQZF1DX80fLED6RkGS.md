@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=26xgX\_9dQdeX\_1gV5SR9ZA"> Boutross</a>
 
-284 songs - 15 hr 34 min
+285 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Lazima Ibambe](https://open.spotify.com/track/3bvNYB78FUEGb90a36gPM6) | [Team Psycho](https://open.spotify.com/artist/24v7cO9PN9dqIykt0Nz5SU), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7), [Nuclear](https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Lazima Ibambe](https://open.spotify.com/album/1Q0t19Iwyybd9oPzMYIHqB) | 4:19 | 2021-11-19 | 2022-04-01 |
 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 | 2023-08-07 |  |
 | [Lewa](https://open.spotify.com/track/15ZdpCX2RowzmTiHb2YbuR) | [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Kabagazi](https://open.spotify.com/artist/5eyHBFX9iqlzI3l5b0MCDN), [Oneboy](https://open.spotify.com/artist/47oldowktpKnQKl9xfr1rN) | [Lewa](https://open.spotify.com/album/6OAPoGNc9O0pP0MlxKdQS7) | 4:09 | 2021-09-02 | 2022-01-07 |
+| [Love](https://open.spotify.com/track/733bVgbJZKLFwtSRwsMckd) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Love](https://open.spotify.com/album/5HSnQUDLG6vxwHQeAGQsnl) | 3:15 | 2023-10-06 |  |
 | [Madem Wa Nai](https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs) | [Team Psycho](https://open.spotify.com/artist/24v7cO9PN9dqIykt0Nz5SU) | [Madem Wa Nai](https://open.spotify.com/album/5HtIiLcsMzvYKnF2UpcsbV) | 3:10 | 2022-02-04 | 2023-03-18 |
 | [MaGallis](https://open.spotify.com/track/74g3jYAi8tHVmNqhbuPczU) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Iano Ranking](https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4) | [MaGallis](https://open.spotify.com/album/3M6dkHVfqw2QaO9pkabQx6) | 2:32 | 2021-10-21 | 2022-05-07 |
 | [Mahewa \- Remix](https://open.spotify.com/track/3KLcOOjnMXyZFk5ZFekGgW) | [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [Kushman Pedi Wa Magenge](https://open.spotify.com/artist/7jEJcY9wV2iQpXFVAu1lGF), [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK), [Wakanda](https://open.spotify.com/artist/1uoSZI4q8aW1vh63lNJxSc) | [Mahewa \(Remix\)](https://open.spotify.com/album/6qayCvWNrxRwu7WUyO7v0M) | 4:12 | 2022-08-18 | 2023-08-25 |

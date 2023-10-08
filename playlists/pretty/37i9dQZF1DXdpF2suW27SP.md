@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio e Vulgo FK entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,215 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,295 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 21 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 22 | [Heartless](https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Heartbreak & Other Stories](https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU) | 2:44 |
 | 23 | [Escrevo, Não Falo](https://open.spotify.com/track/0jK70IrmjvWzUPRH8f4EZZ) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP), [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 4:32 |
-| 24 | [Tudo Cuza](https://open.spotify.com/track/0Ku7Xnttx2ubDsl5wXZahZ) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Boy Game](https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk), [Pcc](https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy) | [Tudo Cuza](https://open.spotify.com/album/2YMIyIrpzCfipGKKJsslYQ) | 3:48 |
+| 24 | [Tudo Kuza](https://open.spotify.com/track/0Ku7Xnttx2ubDsl5wXZahZ) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Boy Game](https://open.spotify.com/artist/0uUqFjPffTb1fW3spN0spk), [Pcc](https://open.spotify.com/artist/2iBToyDbE9ZmciHQTxmSTy) | [Tudo Kuza](https://open.spotify.com/album/2YMIyIrpzCfipGKKJsslYQ) | 3:48 |
 | 25 | [Pecado](https://open.spotify.com/track/3ODPKhAqR0QHIkuzl7NU2V) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [Pecado](https://open.spotify.com/album/5OjeVy0AAmKk5I8dNa8TKV) | 3:05 |
 | 26 | [ANTI$$OCIAL](https://open.spotify.com/track/2zYzywRBJleWk5sOWWMjwp) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:14 |
 | 27 | [Where U @](https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Where U @](https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls) | 2:22 |

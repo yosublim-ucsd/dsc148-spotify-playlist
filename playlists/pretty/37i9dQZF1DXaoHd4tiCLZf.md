@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,990 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,059 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 22 | [LONGO MAÏ](https://open.spotify.com/track/2SWTWV2RScEMsSzDKbEySm) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [LONGO MAÏ](https://open.spotify.com/album/4R14BqQsMonYnNI9Cu5X5o) | 3:58 |
 | 23 | [Cet été](https://open.spotify.com/track/3VoYXJxeGCSR7Bjuvhcjsb) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Cet été](https://open.spotify.com/album/06X5xPhhx6W9ge3s4qhTdl) | 3:41 |
 | 24 | [Le Lac](https://open.spotify.com/track/5NPFe3DyuXa2BHQkqJ3tXj) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/7xr77ACg7LvPSKQAzbVEQ6) | 3:09 |
-| 25 | [Open Up the Sky](https://open.spotify.com/track/7vK13HYInxR5tT9Xv5qpBD) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/11e2dd4ueMQFnWgVE60fSF), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [John & The Volta](https://open.spotify.com/artist/5znsjqhosEm6eS7HwPcoHV) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 4:43 |
+| 25 | [Open Up the Sky](https://open.spotify.com/track/7vK13HYInxR5tT9Xv5qpBD) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [John & The Volta](https://open.spotify.com/artist/5znsjqhosEm6eS7HwPcoHV) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 4:43 |
 | 26 | [Spotlight On Me](https://open.spotify.com/track/4LmnSzS0UhTQGPadrIh2YD) | [Janaé E.](https://open.spotify.com/artist/6snxstqr8thmhyjVGb1MXA), [Maine Productionz](https://open.spotify.com/artist/2YpXYysLlaHls6Wr5CvjYj), [PUSH.audio](https://open.spotify.com/artist/6Fym3lIorDt8I7PYvuEcmv) | [PUSH.boogie down](https://open.spotify.com/album/7AcnVvWOgNB21lgSXHJC7s) | 1:36 |
 | 27 | [J'adore ce flic](https://open.spotify.com/track/6JiKKGbHP6W1l5YCWLYlrO) | [The Rebels Of Tijuana](https://open.spotify.com/artist/3vo7UR9rFpGPtnUcamnZNP) | [J'adore ce flic](https://open.spotify.com/album/3vmxZCfMiN1wLf6xkZo3LA) | 2:35 |
 | 28 | [L'amour parfait](https://open.spotify.com/track/3YpAx4kjIa07bRD7opwn2v) | [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1), [Areski Belkacem](https://open.spotify.com/artist/5LLUmbTFyu7rOa75EdRQcY) | [Vous et nous](https://open.spotify.com/album/2P7Ykk8AV1vGQIZQLyi1Ks) | 2:45 |
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 184 | [Rouge soleil](https://open.spotify.com/track/2BtrTeyutZQSPdpBfZTTxr) | [Ravages](https://open.spotify.com/artist/2CiP8cuzWyheJHIBTooapR) | [Abraxas](https://open.spotify.com/album/7GmFk4xUZLM9VIcNYfHBb4) | 3:41 |
 | 185 | [Cyclop \- Bonus track](https://open.spotify.com/track/2u575WsOcCPnA56f9CZWY2) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [Aranda](https://open.spotify.com/album/3MPf2UhcwjPbLgY1NCPA5a) | 3:41 |
 | 186 | [Banana Socks](https://open.spotify.com/track/7afoQRG04Pk9g2eRMlS2Vz) | [Bosco Rogers](https://open.spotify.com/artist/1oNSfCtInL4cMWKutAdeJK) | [French Kiss \- EP](https://open.spotify.com/album/1kHIDkSGsSmcrVEV4Gi84a) | 2:17 |
-| 187 | [Ce soir je m'en vais](https://open.spotify.com/track/7ijmaSSgw2knnk6GcsUa6N) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/11e2dd4ueMQFnWgVE60fSF), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 3:24 |
+| 187 | [Ce soir je m'en vais](https://open.spotify.com/track/7ijmaSSgw2knnk6GcsUa6N) | [Slove](https://open.spotify.com/artist/3LCptyvFjmOU8AU0ggJpOK), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL), [Plaisir de France](https://open.spotify.com/artist/4gHBLfDuluArm1JWAZHNNn), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Le Touch](https://open.spotify.com/album/5WF63jny8ZKaGAgbrO3va7) | 3:24 |
 | 188 | [Pretty Boy](https://open.spotify.com/track/7bW47X2ikA5KyxFvjcMtSo) | [Cavale](https://open.spotify.com/artist/3pgB7XxnJc68c7AsDL23DW) | [Pretty Boy](https://open.spotify.com/album/2jJqXBjy7QAHI4EQIhovZ5) | 3:48 |
 | 189 | [Le temps est bon](https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn) | [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw) | 3:29 |
 | 190 | [Rendez Vous](https://open.spotify.com/track/0TZdKfPAUslDgAVkb9bnQK) | [La Plage](https://open.spotify.com/artist/718qvmLQ9ih3HVRiFHVIVg) | [Rendez Vous / Mark](https://open.spotify.com/album/1vCuBjzH8P7n1Has6wKrdU) | 3:20 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw0Njk3OTFiMTdjNWQ5ZjdmZjZiNjAwOTU0YjEzOTRhODcwMDdkYzY0`
+Snapshot ID: `MCxhNDE4N2VlM2FkNTFiNWMyNzFmMDViOGY3Y2I5OGY2ZTkxOTNmZWRj`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:1uVtllLSmvkfPRozmSmxzG">Cardec Drums,</a> <a href="spotify:artist:4sPaDVtUm4TRrM6TATYC8D">Don Ryvcko,</a> <a href="spotify:artist:3YUvGhcDPnR0Y8m8It9WuP"> Chuiqui,</a> y <a href="spotify:artist:37Bz4qzDoJ2eTwKPKiT7iE"> Issac Fontanez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,684 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,720 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tamo Bien](https://open.spotify.com/track/13Vs82xhmvFwlSgqxogqYO) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG), [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D), [Chuiqui](https://open.spotify.com/artist/0KcVQ60WyWveD12myaEegc), [Isaac Fontanez](https://open.spotify.com/artist/37Bz4qzDoJ2eTwKPKiT7iE) | [Cardec & Friends: Season 1](https://open.spotify.com/album/5opYKDKVbTVec8ItpNn0Mo) | 2:51 |
-| 2 | [DOPAMINA](https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [DOPAMINA](https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux) | 3:12 |
+| 2 | [DOPAMINA](https://open.spotify.com/track/2fAoXDTucWh63Pi6SADnpy) | [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [DOPAMINA](https://open.spotify.com/album/3uP6mMENaK75PeQvmEzYux) | 3:12 |
 | 3 | [Gloria a Dios](https://open.spotify.com/track/3hrVLqTivOIBaY2ly2vwuU) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [Gloria a Dios](https://open.spotify.com/album/0kicDr6wVspFjPfnjAjEWm) | 2:06 |
 | 4 | [Solamente a Ti](https://open.spotify.com/track/2croMKZuJ1hrbriQ7qlEhs) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS), [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Sophiv](https://open.spotify.com/album/7w4UfDxLFhH8KR3H2sz61q) | 2:50 |
 | 5 | [SANTO](https://open.spotify.com/track/6o88ZeyDlAS2o9Iq0LFGYS) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [SANTO](https://open.spotify.com/album/7MPkFrM3gS2UEZReGLG7gD) | 1:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Tu Habitación \- Live](https://open.spotify.com/track/5K1KztZIKtkq6eJdPjAtHQ) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Tu Habitación \(Live\)](https://open.spotify.com/album/1BJXzDHZSUFqlNkWyoVI2I) | 11:56 |
 | 100 | [Eres Mi Bendición](https://open.spotify.com/track/4PWOHWzNDlENfrapoZqU8o) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Rewind](https://open.spotify.com/album/427gdsvNPa8CZ5pe0IXh4L) | 3:26 |
 
-Snapshot ID: `MCw5YmRiMjRkMjkxY2Y0NzQ0NDU5NWY0NWJhZGY1ODNiZjIyYTJhYWFm`
+Snapshot ID: `MCxlMWFkODQ0OTRiMWJkOWRmYWJhMTA5ZGQ0NjcwN2M2MjkyYzRmNmRi`

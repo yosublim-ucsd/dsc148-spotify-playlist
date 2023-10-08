@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,686 songs - 5 day 21 hr 13 min
+3,687 songs - 5 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,7 @@
 | [Devoted Passion](https://open.spotify.com/track/6oW0uYJZAR5RjOWBr9onVj) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Devoted Passion / Moonlight in Marrakech](https://open.spotify.com/album/0BGF2BSK6WoS36qRP0aYj9) | 2:23 | 2019-12-20 | 2020-04-10 |
 | [Devotion](https://open.spotify.com/track/1zqZMPIoflBullDtXMY2kh) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Devotion](https://open.spotify.com/album/11dcoOTZWQBmMS8mg5JndZ) | 2:47 | 2020-05-22 | 2020-07-31 |
 | [DFW Luvvv](https://open.spotify.com/track/6uNN6ZhTYUnRyMOgRUVCKT) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [DFW Luvvv](https://open.spotify.com/album/4WhI4N3jwiAbYiIOynzP9i) | 2:11 | 2020-05-12 | 2020-07-21 |
-| [Dialogue](https://open.spotify.com/track/2RS2HtnsYO4GaUTOIkv5wG) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Dialogue](https://open.spotify.com/album/1lR1Pu4TcPEj5cfAwMFdr3) | 2:36 | 2023-10-05 |  |
+| [Dialogue](https://open.spotify.com/track/2RS2HtnsYO4GaUTOIkv5wG) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Dialogue](https://open.spotify.com/album/1lR1Pu4TcPEj5cfAwMFdr3) | 2:36 | 2023-10-05 | 2023-10-08 |
 | [Diamond Eyes](https://open.spotify.com/track/3i0CyVFvduJ2wAAGQnbACD) | [77th Man](https://open.spotify.com/artist/11CjITY8hsWlR0zdx7WGOI), [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T) | [Diamond Eyes](https://open.spotify.com/album/0cIN8qqnKt5tTjYihjlFgh) | 2:21 | 2022-02-10 | 2022-03-25 |
 | [Diamond In The Back](https://open.spotify.com/track/04emr6g1YI9iOjVvBM0qiQ) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Diamond In The Back](https://open.spotify.com/album/1Mh5fyZr5xGDC5qDN7ChQJ) | 1:42 | 2022-04-28 | 2023-07-14 |
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-24 | 2022-03-31 |
@@ -1996,6 +1996,7 @@
 | [Mindfulness](https://open.spotify.com/track/2WYiVWTXflf49CyF5Vgn93) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Mindfulness](https://open.spotify.com/album/4ETO8VzkUgPmkGO7ymqgEf) | 2:35 | 2020-12-18 | 2021-02-24 |
 | [Mindgames](https://open.spotify.com/track/4Qn7Fc5IzroNOFpyUn7Iqi) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Mindgames](https://open.spotify.com/album/3TEikbgKZSk9S2MMOZKv43) | 2:44 | 2021-01-23 | 2021-05-07 |
 | [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 | 2022-09-22 | 2022-10-14 |
+| [Mindscapes](https://open.spotify.com/track/7MUhgqA6nHi1rJlex0qPcU) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Mindscapes](https://open.spotify.com/album/0Rl5staaumjZkZLv0SxXHf) | 2:40 | 2023-10-05 |  |
 | [Mindset](https://open.spotify.com/track/1XVgFVQItXGPYDeVSSDSsc) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [High Five](https://open.spotify.com/album/5svDax1tvwNgxI2MJW4rat) | 2:17 | 2022-01-27 | 2022-02-07 |
 | [Minor Sights](https://open.spotify.com/track/1B03EmZj66nS4PDes73721) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/3IVViyY8IjbLMxnAQICfA7) | 3:06 | 2021-09-26 | 2021-10-22 |
 | [Minotauro](https://open.spotify.com/track/2xRx7kBUyD31nuC6GLoCbu) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Minotauro](https://open.spotify.com/album/48QyC6oT01dzuOz7vFBwVH) | 3:18 | 2021-10-16 | 2021-12-11 |

@@ -4,7 +4,7 @@
 
 > 
 
-348 songs - 18 hr 4 min
+349 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Don’t Need Love \(with GRACEY\)](https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Don't Need Love](https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN) | 3:15 | 2022-04-15 | 2023-09-08 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-04-15 |  |
 | [Dreams](https://open.spotify.com/track/7soydniaZqM6zwvwYKE36F) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [One Last Time / Dreams](https://open.spotify.com/album/5QRojwIIGBX5HayKdVmx4u) | 3:48 | 2022-04-15 | 2022-07-04 |
+| [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 |  |
 | [Duffles](https://open.spotify.com/track/1onxwBZxnwONLP81Yll3xj) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [Duffles](https://open.spotify.com/album/4UGAmFNoTM9MTafvLUxDNz) | 3:22 | 2022-04-15 | 2022-07-17 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-31 | 2023-09-22 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-22 | 2023-01-01 |
@@ -309,7 +310,7 @@
 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 | 2023-09-22 |  |
 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 | 2022-04-15 | 2023-09-08 |
 | [Think About Me](https://open.spotify.com/track/5mshUuCuItgSPQxWiygwdY) | [Alphalove](https://open.spotify.com/artist/4G59kHVfufDsMkwVr5pb2R) | [Think About Me](https://open.spotify.com/album/2CVVMtkdjkltBV2PDJmOT9) | 3:03 | 2022-04-15 | 2022-07-09 |
-| [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 | 2022-04-15 |  |
+| [Through The Night \(feat\. 220 KID\)](https://open.spotify.com/track/6WJaPzHfbfomchPuCNSjli) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:48 | 2022-04-15 | 2023-10-08 |
 | [Through The Phone \(feat\. Joell Fender\)](https://open.spotify.com/track/4ycNvRGXFgeQJdFPWFncvv) | [Kisch](https://open.spotify.com/artist/5geAjOsxhftVd39yemf4r8), [Joell Fender](https://open.spotify.com/artist/6YFL2eBE7iIst7K2xNx74p) | [Through The Phone \(feat\. Joell Fender\)](https://open.spotify.com/album/7fIr0meJSHDvL2dhFHJF5g) | 2:58 | 2022-04-15 | 2022-07-12 |
 | [Thunder In My Heart Again](https://open.spotify.com/track/7iBHE8RK2DmkVpwUfnCqYB) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Meck](https://open.spotify.com/artist/6CisEcpNg7X1sXXhLoMIp4), [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Thunder In My Heart Again](https://open.spotify.com/album/23zNUuGV7aJRLnTJz19plD) | 2:37 | 2022-04-15 | 2022-07-29 |
 | [Together](https://open.spotify.com/track/3ydFRJUABULlXklU1M24TV) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Together](https://open.spotify.com/album/1uYrEieSyuTVtTnszT4eUg) | 3:06 | 2022-06-20 | 2023-09-08 |

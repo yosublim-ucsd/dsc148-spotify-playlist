@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 58252,
+  "num_followers": 58709,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTEyYzZhNGFjYWNlMDkxZDJmNzBiNmVkZTVhYTFiMjc3MDk5ZWU5",
+  "snapshot_id": "MCw2MGU4ZDE4YWYyOTU1Nzg3OTkyMTZhYWU4ZjY0NjI4ZmNmNWI3ZDkz",
   "tracks": [
     {
       "added_at": "2023-10-06 11:12:15",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "Psychedelic Jungle",
-        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 186038,
-      "name": "Goo Goo Muck",
-      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
-    },
-    {
-      "added_at": "2023-10-06 11:12:15",
-      "album": {
         "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
         "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 247147,
       "name": "Season Of The Witch",
       "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+    },
+    {
+      "added_at": "2023-10-06 11:12:15",
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "added_at": "2023-10-06 11:12:15",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "Screen Violence",
-        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
-    },
-    {
-      "added_at": "2023-10-06 11:12:15",
-      "album": {
         "name": "A Quick One (Expanded Edition)",
         "url": "https://open.spotify.com/album/6f4mqM3RNAfO1t6XeeUa8P"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+        "name": "Screen Violence",
+        "url": "https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO"
       },
       "artists": [
         {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb"
     },
     {
       "added_at": "2023-10-06 11:12:15",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+    },
+    {
+      "added_at": "2023-10-06 11:12:15",
+      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
-    },
-    {
-      "added_at": "2023-10-06 11:12:15",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2023-10-06 11:12:15",
+      "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
       "added_at": "2023-10-06 11:12:15",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "No Regerts",
-        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
-      },
-      "artists": [
-        {
-          "name": "Chastity Belt",
-          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
-        }
-      ],
-      "duration_ms": 159883,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
-    },
-    {
-      "added_at": "2023-10-06 11:12:15",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-10-06 11:12:15",
+      "album": {
+        "name": "No Regerts",
+        "url": "https://open.spotify.com/album/5psuEv9OT8vMrW9TOiCGVS"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "duration_ms": 159883,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0Sy6N3rl8dsccN9MwWHoWi"
     },
     {
       "added_at": "2023-10-06 11:12:15",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2023-10-06 11:12:15",
-      "album": {
         "name": "In Ghost Colours (UK Version Delux)",
         "url": "https://open.spotify.com/album/5IlfTdX8ifs6qbQYgk7AoS"
       },
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2023-10-06 11:12:15",
       "album": {
-        "name": "Skeleton Song",
-        "url": "https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW"
+        "name": "Drowaton",
+        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
       },
       "artists": [
         {
-          "name": "Bambi L",
-          "url": "https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh"
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
         }
       ],
-      "duration_ms": 162127,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB"
+      "duration_ms": 162320,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+    },
+    {
+      "added_at": "2023-10-06 11:12:15",
+      "album": {
+        "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+        "url": "https://open.spotify.com/album/3CiQoxlWPtdMJwLIVQyAPM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Little Bit 'O Soul [From The Amazon Original Movie \u201cTotally Killer\u201d]",
+      "url": "https://open.spotify.com/track/01d3ikcS8fpRKTBgOLcwqO"
     }
   ],
   "unique_name": "Indie Halloween",

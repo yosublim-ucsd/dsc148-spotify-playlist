@@ -2191,6 +2191,32 @@
     },
     {
       "album": {
+        "name": "Badass [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5uPNtWBijOzS5rmhbWXsyi"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sai Charan",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230541,
+      "name": "Badass (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/7DUk3gZnRCAbpl1FFQp4OW"
+    },
+    {
+      "album": {
         "name": "Jai Bhim (Kannada) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/2mKp7nZpE6Hvsv1EE9uIMx"
       },
@@ -3422,7 +3448,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 180405,
       "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
       "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
@@ -7441,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "Ronnie - The Hunter",
+        "url": "https://open.spotify.com/album/7aCgJef0ecRYjrLHTxnCtL"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195201,
+      "name": "Hey Ivan Yaro",
+      "url": "https://open.spotify.com/track/2AAbCJPAwCHxElbz34ps3F"
+    },
+    {
+      "album": {
         "name": "Shubhamangala",
         "url": "https://open.spotify.com/album/0BZAohPyQNwASMHNaemTyT"
       },
@@ -11114,6 +11158,24 @@
       "duration_ms": 161099,
       "name": "Madime Yenna-Ninna (Tulu Wedding Song)",
       "url": "https://open.spotify.com/track/3z0CgHCvEl2Gh3VW7kEz1a"
+    },
+    {
+      "album": {
+        "name": "Magalalla (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/63fGaUgWVnzRlrmQkvYp64"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266022,
+      "name": "Magalalla (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/7z58mpa9Tx6SdwHmn6olYB"
     },
     {
       "album": {
@@ -16984,8 +17046,8 @@
       },
       "artists": [
         {
-          "name": "Abhishek",
-          "url": "https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE"
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
         },
         {
           "name": "V. Manohar",

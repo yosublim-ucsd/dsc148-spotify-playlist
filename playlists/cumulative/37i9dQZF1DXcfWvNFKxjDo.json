@@ -768,6 +768,36 @@
     {
       "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/1nVkuHV0pGQznRgXVLfxbz"
       },
       "artists": [
@@ -790,7 +820,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
       "url": "https://open.spotify.com/track/7rvoFDWkaZxHXttKbaoJdy"
@@ -1076,10 +1106,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 166450,
       "name": "Dollar Bills",
       "url": "https://open.spotify.com/track/0jcr4l2r7zoqsPOL8VRDP1"
+    },
+    {
+      "album": {
+        "name": "Dollar Bills",
+        "url": "https://open.spotify.com/album/11zudreDmoIylVN6eyXMCo"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "SONJA",
+          "url": "https://open.spotify.com/artist/7rEAvtkj6sNUlQXlYRldrs"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166450,
+      "name": "Dollar Bills",
+      "url": "https://open.spotify.com/track/5eKWWrl8tA51BL6HziS7xm"
     },
     {
       "album": {
@@ -1615,7 +1667,7 @@
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192480,
+      "duration_ms": 195840,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3HDHvGyiCtenVenl5ZdB0g"
     },
@@ -1754,7 +1806,7 @@
     {
       "album": {
         "name": "Higher Up",
-        "url": "https://open.spotify.com/album/1CnNO75ipPJwo8988PveOP"
+        "url": "https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR"
       },
       "artists": [
         {
@@ -1777,6 +1829,36 @@
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Higher Up",
+      "url": "https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU"
+    },
+    {
+      "album": {
+        "name": "Higher Up",
+        "url": "https://open.spotify.com/album/1CnNO75ipPJwo8988PveOP"
+      },
+      "artists": [
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
+        },
+        {
+          "name": "Renns",
+          "url": "https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
       "duration_ms": 164475,
       "name": "Higher Up",
       "url": "https://open.spotify.com/track/6fVSLifg2GfBvJFClYQqIb"

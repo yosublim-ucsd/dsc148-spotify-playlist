@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring new music by Slow Pulp
 
-1,210 songs - 2 day 17 hr 58 min
+1,211 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 | 2023-08-25 |  |
 | [Doomsday](https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Doomsday](https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19) | 2:30 | 2023-05-12 | 2023-07-29 |
 | [Doomsday \- Illuminati Hotties Version](https://open.spotify.com/track/4yb34YrXb9xJ5JLwll0276) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Doomsday \(Illuminati Hotties Version\)](https://open.spotify.com/album/2nfzbXwQ7h1d7dNFGNTwHy) | 3:30 | 2023-08-25 |  |
-| [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-28 |  |
+| [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-10-06 |  |
+| [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-28 | 2023-10-08 |
 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 | 2022-06-10 | 2022-11-19 |
 | [Down That Road](https://open.spotify.com/track/6fGeA9cNR5CYDTSHtsCfgC) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Down That Road](https://open.spotify.com/album/3eRuQG0eslCImuwfKxL4UG) | 4:17 | 2021-06-07 | 2022-02-12 |
 | [Dreaming Of U](https://open.spotify.com/track/6Pgsct6yXxEMctSyDIOsFj) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Dreaming Of U](https://open.spotify.com/album/47KzyIteACvEnM3tcmERlG) | 3:16 | 2021-11-19 | 2022-04-28 |

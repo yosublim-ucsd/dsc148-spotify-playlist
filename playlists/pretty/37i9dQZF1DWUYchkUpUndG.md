@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=TLqQVP6\-QziOqQfFUa6AQw">TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,274 likes - 94 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,339 likes - 94 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 16 | [Ndichatarisa](https://open.spotify.com/track/70ZBUNVFSHZSmZqLPDKAzx) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Ndichatarisa](https://open.spotify.com/album/10MaqFUzBYnSznaeJhkTDP) | 3:25 |
 | 17 | [Super Power \(Jesus\)](https://open.spotify.com/track/6fqB1Degi2CAuFJIrG0saY) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Super Power \(Jesus\)](https://open.spotify.com/album/79oaV02nt8BjNlhPpQOGcU) | 2:01 |
 | 18 | [RISEN KING](https://open.spotify.com/track/5smUG9p1Q6FeLihZgxtJQy) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [RISEN KING](https://open.spotify.com/album/2y04jb9gerdjAs8I02HNnE) | 2:55 |
-| 19 | [DND \(Dey Move\)](https://open.spotify.com/track/3e41yejRviEFLEsWmxSdOA) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Oba Reengy](https://open.spotify.com/artist/1MFKlv1D5pychwmOmzf3Py) | [DND \(Dey Move\)](https://open.spotify.com/album/3cf0WJublbmm7CmlVUD28n) | 2:25 |
+| 19 | [DND \(Dey Move\)](https://open.spotify.com/track/3e41yejRviEFLEsWmxSdOA) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [DND \(Dey Move\)](https://open.spotify.com/album/3cf0WJublbmm7CmlVUD28n) | 2:25 |
 | 20 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
 | 21 | [Hallelujah](https://open.spotify.com/track/6pXorO2CZafIRSeVazMMV3) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Jesus is Here, Jaga Is Here](https://open.spotify.com/album/0h5i3MPwttSdQ2p559tCfK) | 4:47 |
 | 22 | [I Need Thee \(Live\)](https://open.spotify.com/track/0k72g6s6faEERwGTSENvB2) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Legendary in His Presence \(Live\)](https://open.spotify.com/album/2P7NaOnVBSjHgmrbAFUM4G) | 2:16 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Jehovah My Hero](https://open.spotify.com/track/0uVSjrAkL9WI7mja7aTqZ2) | [Louise A\. Kolaco](https://open.spotify.com/artist/0TyTBDEIHwKplk1PBToxpf) | [Jehovah My Hero](https://open.spotify.com/album/2yaGVy02e7GWzBHUJymMJi) | 3:43 |
 | 94 | [OLÙGBÈJÀ](https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP) | [Veekee James](https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA), [Shallom Matthew](https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl), [OBA](https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj) | [OLÙGBÈJÀ](https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G) | 14:48 |
 
-Snapshot ID: `MCwyOGY5YmY0NWMxNTVmOGFiZThmZmRjYTViNWJjN2U5ZDFkODA5MWJi`
+Snapshot ID: `MCw1ZjRlMmYzMjM3NDBjZTFhM2ZhOTQzYTFlYzg3ZWIyN2FhOTljYThj`

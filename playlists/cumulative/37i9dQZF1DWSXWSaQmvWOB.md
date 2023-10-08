@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Black Pumas
 
-774 songs - 1 day 23 hr 34 min
+775 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-06-03 | 2022-06-05 |
 | [Easier Said Than Done](https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Easier Said Than Done](https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ) | 2:54 | 2022-06-16 | 2023-05-01 |
 | [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 | 2023-04-27 | 2023-07-11 |
-| [Echo In The Chamber](https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Echo In The Chamber](https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ) | 3:20 | 2023-10-06 |  |
+| [Echo In The Chamber](https://open.spotify.com/track/4z8q6Ob38UExUmoSXfB7Ei) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 3:20 | 2023-10-06 |  |
+| [Echo In The Chamber](https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Echo In The Chamber](https://open.spotify.com/album/3ywLr5Ciaxauop3NuF2DFJ) | 3:20 | 2023-10-06 | 2023-10-08 |
 | [Ecstasy](https://open.spotify.com/track/52JtIQpkzgcNLmDoDBHuTp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:13 | 2022-07-14 | 2022-09-30 |
 | [Elevate](https://open.spotify.com/track/4Bfp9heUqxCEOX74tg4UNB) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Elevate](https://open.spotify.com/album/2hmbhBs26kW4wNtzGhIZKi) | 3:37 | 2020-11-06 | 2021-07-02 |
 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 | 2022-11-03 | 2023-06-08 |

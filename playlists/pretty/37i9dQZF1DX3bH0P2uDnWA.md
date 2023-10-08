@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,283 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,423 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 49 | [Dracula Swing \- Swahn Remix](https://open.spotify.com/track/0I3Ey3ZetTub1C4wVQmeml) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc), [Swahn](https://open.spotify.com/artist/2pkSQjanu8QgmGBLFvqEri) | [Electro Speakeasy Club V1 \(Mixed by Dr Cat\)](https://open.spotify.com/album/6fsetaWYjGBphbPZe7k8aR) | 7:19 |
 | 50 | [Ghoul's Groove](https://open.spotify.com/track/20WrO2vWskNfrmaGxdhUyE) | [Emma Clair](https://open.spotify.com/artist/5sYdOPPYws574wALE9TOFx) | [Ghoul's Groove](https://open.spotify.com/album/5eLTbDLzj4aho99OYDidso) | 3:39 |
 
-Snapshot ID: `MCxjM2E4YWMyNmQzNmU4ZGZhOGQxM2M4NTY0MGQ2ZWQwYjIyMGE0ZTQ3`
+Snapshot ID: `MCxmMDg1YzdiNmQ1NWQ4NjYwOTUzZDFkOTRmMTBiNDY2YTg2ZWQzMDg4`

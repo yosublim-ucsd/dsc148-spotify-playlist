@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,720 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,761 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [FOR THE PEOPLE](https://open.spotify.com/track/2X6YKBVsLzOUwCVQdfDDIK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [FOR THE PEOPLE](https://open.spotify.com/album/34wcoE6wTdaCMpZtHVdbSc) | 2:37 |
 | 100 | [Heartbreak Souvenirs](https://open.spotify.com/track/1v7exhEYimYPHHV58YyYY6) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Heartbreak Souvenirs](https://open.spotify.com/album/2KQ3PWiOJWWlei0U5j9E0b) | 3:13 |
 
-Snapshot ID: `MCwyNTAxMzJjZjgyMzZiYTQyYWU4ODM5MTU4MGQ1ZTFhZGVjZTE5OWYz`
+Snapshot ID: `MCwwZTY0YzU5MDI5MWY2NzkzYTgyNjNiNmNiNzg1NjZlNmUyYzIxMzU5`

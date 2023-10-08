@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 297105,
+  "num_followers": 297185,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVlN2I5ZmY5NDBlMDEyNjFiN2Y2NzAxY2M3NDY0YzNjYTk2MTRi",
+  "snapshot_id": "MCxjOWE4YWMzMWViZGZiMWVkOGFhMmM4ZDk2YTllMTk0MWY4ZjBlMGY0",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -663,18 +663,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "HANDZ",
-        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
+        "name": "Royal Club, Vol. 3",
+        "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
       },
       "artists": [
         {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+          "name": "architecture in tokyo",
+          "url": "https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 280975,
-      "name": "NOTFAIR",
-      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
+      "duration_ms": 216000,
+      "name": "City Nightlife - Original Mix",
+      "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Royal Club, Vol. 3",
-        "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
+        "name": "HANDZ",
+        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
       },
       "artists": [
         {
-          "name": "architecture in tokyo",
-          "url": "https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
         }
       ],
-      "duration_ms": 216000,
-      "name": "City Nightlife - Original Mix",
-      "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
+      "duration_ms": 280975,
+      "name": "NOTFAIR",
+      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Saturn St.",
         "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 132485,
       "name": "Funk Dust",
       "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 150004,
-      "name": "love u!!",
-      "url": "https://open.spotify.com/track/0JQkrkQIIoBYnEQ2lla9e0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Hooked On Aesthetics",
-        "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 163405,
-      "name": "Exacta",
-      "url": "https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sexy Times (3rd Anniversary Edition)",
         "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Plastic",
-        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
+        "name": "Hooked On Aesthetics",
+        "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
       },
       "artists": [
         {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 195121,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
+      "duration_ms": 163405,
+      "name": "Exacta",
+      "url": "https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1371,6 +1355,22 @@
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Plastic",
+        "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/2X6jdDyYRFrs8yh8pjIKaP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "SUGAR RUSH",
+        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "DUCK GROOVE",
+      "url": "https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Summer 99",
         "url": "https://open.spotify.com/album/7lWUz3qy2GTv621GBOh7PM"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SUGAR RUSH",
-        "url": "https://open.spotify.com/album/1jNl2gbTUjvaBY8aQrWjhe"
-      },
-      "artists": [
-        {
-          "name": "Aests",
-          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "DUCK GROOVE",
-      "url": "https://open.spotify.com/track/7hwlFB4fxou2GCHOVN9LFU"
     },
     {
       "added_at": "2023-07-18 02:21:29",

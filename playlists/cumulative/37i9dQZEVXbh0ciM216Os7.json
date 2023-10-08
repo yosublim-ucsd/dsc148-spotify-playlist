@@ -3603,6 +3603,28 @@
     },
     {
       "album": {
+        "name": "The Lost Tapes \u2022 5 Year Anniversary \u2022 Deluxe Edition",
+        "url": "https://open.spotify.com/album/7IPPuUTxZmdbTLpRGMbjZj"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Big Ghost Ltd",
+          "url": "https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324057,
+      "name": "Done it Again",
+      "url": "https://open.spotify.com/track/2rJh0F25kLFq3AUmhP45g4"
+    },
+    {
+      "album": {
         "name": "Doom And Gloom (Live)",
         "url": "https://open.spotify.com/album/6NtX3RvkYtEyVdUM6EOgbV"
       },
@@ -3632,7 +3654,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 315964,
       "name": "Doomsday Party",
       "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
@@ -4242,7 +4264,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 612361,
       "name": "Eros",
       "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
@@ -4636,7 +4658,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
@@ -4654,7 +4676,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 172653,
       "name": "Fingerblast",
       "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
@@ -5154,7 +5176,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 234771,
       "name": "Free (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
@@ -5632,7 +5654,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 193390,
       "name": "Good Brother",
       "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
@@ -5786,7 +5808,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 222986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
@@ -7038,7 +7060,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 278333,
       "name": "Je danse le mia - Live Studio",
       "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
@@ -7670,7 +7692,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 175020,
       "name": "Le d\u00e9part",
       "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
@@ -11302,7 +11324,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 143103,
       "name": "She Listen To Trap",
       "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
@@ -11346,7 +11368,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 269907,
       "name": "should sleep",
       "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
@@ -12944,7 +12966,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 358253,
       "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
       "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"

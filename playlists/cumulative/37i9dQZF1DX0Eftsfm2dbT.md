@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Tokyo Young Vision
 
-136 songs - 6 hr 47 min
+137 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 | 2023-09-21 |  |
 | [Me vs\. Me](https://open.spotify.com/track/4ekHj2CZEIOgGxreDtW8Hn) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Me vs\. Me](https://open.spotify.com/album/5ioH2X1MVgNbIy9rZjdTzs) | 2:12 | 2023-09-21 |  |
 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 | 2023-09-21 | 2023-09-29 |
-| [Mite](https://open.spotify.com/track/3FmSCUc44ieo7vaynqiWrq) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Mite](https://open.spotify.com/album/5uj0GOineFzNWNcXp16puP) | 2:35 | 2023-10-03 |  |
+| [Mite](https://open.spotify.com/track/3FmSCUc44ieo7vaynqiWrq) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Mite](https://open.spotify.com/album/5uj0GOineFzNWNcXp16puP) | 2:35 | 2023-10-03 | 2023-10-08 |
+| [Mite](https://open.spotify.com/track/4Cr4gb1tupFTfC3ftmQqxP) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Mite](https://open.spotify.com/album/1lA79fE14OOuLffGNKDY2K) | 2:35 | 2023-10-05 |  |
 | [MOMENT](https://open.spotify.com/track/4Pnb0qA8DLwFxB2yU95uWl) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [MOMENT](https://open.spotify.com/album/30B59RcwXiGlk4CH6asZy2) | 2:12 | 2023-09-21 |  |
 | [MONEY LOVE RESPECT](https://open.spotify.com/track/6hpgmfe9GRmqaJxtevmSBr) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [20](https://open.spotify.com/album/3I1SmXdnEgjl20HUGWytYq) | 2:44 | 2023-09-21 |  |
 | [Money, Money, Money](https://open.spotify.com/track/3q7LOKeoMYfpgTaXzv34O4) | [KOWICHI](https://open.spotify.com/artist/6CbooCqOA6MI23syacRER2), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [No Limit](https://open.spotify.com/album/4NZpWKym8rt2QtUzjVj4Zm) | 3:12 | 2023-09-21 | 2023-10-06 |

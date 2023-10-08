@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra, Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,659 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,712 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 67 | [Scented Things](https://open.spotify.com/track/7KonyfgLisLz8TsolKewx4) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Unfading Sense \- The 5th Mini Album](https://open.spotify.com/album/2iN8rALWBgiirEB5QlzhRw) | 4:19 |
 | 68 | [FULL METAL JACKET](https://open.spotify.com/track/3DdEFAs5UmTIYIoDXTjD5U) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 6th EP Album Prelude of Anxiety Chapter 2\. ‘Can We Surrender?’](https://open.spotify.com/album/5D8L3qM4Q9GA1bPDqtS4oK) | 2:52 |
 | 69 | [Shell \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/2sVTHUF6svHm6jyzoEGyzT) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Shell \(Feat\. oceanfromtheblue\)](https://open.spotify.com/album/0CAyD5HBWC5mrhDZkhjIu8) | 4:10 |
-| 70 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [KEI](https://open.spotify.com/artist/2i3SDiSxLRtSz9ulxxgR7v) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
+| 70 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
 | 71 | [Take A Bite](https://open.spotify.com/track/32pxsTKIyGiFf5hTjUsaE9) | [Shae](https://open.spotify.com/artist/3exdJhXYXKtHAx95vCXwe1) | [Take A Bite](https://open.spotify.com/album/2uJ0NVORpj1GJhN69I2gYd) | 4:28 |
 | 72 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 |
 | 73 | [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [3:07](https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx), [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [3:07](https://open.spotify.com/album/5lv0shRMmophaPNApOmK65) | 3:48 |
 | 112 | [Sanctuary](https://open.spotify.com/track/4C03G8jrKuzw6OZk7qlvNp) | [The Great Spy Experiment](https://open.spotify.com/artist/6eMW7MJMdeHuAEXhixxsKH) | [Sanctuary / Secrets](https://open.spotify.com/album/4AH7OqMaRuC2DBXNntBxzL) | 4:36 |
 
-Snapshot ID: `MCxiMTliNDMyNTkwNzJiMjlmMjdjNDNmOWY1ZWMwNTRlOWQyY2E5MGU3`
+Snapshot ID: `MCw3YTFhYThiMTgwMDI4OTIwNDM3YTg5MmM5YjA4MTMwMGM1YzZmMGIx`

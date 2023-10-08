@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 71501,
+  "num_followers": 71581,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDE1N2RjODRlNjYzNTExZWQ1YzMyYjVkMDMxYjZhNjk0YWNlNTYz",
+  "snapshot_id": "MCxkZDA0OTIyOTdhMWExMmNlMmRhNTZmMjExNzc5Yzk2M2ZjNTJjMzEy",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lucero En Vivo Auditorio Nacional",
-        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 441442,
-      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
-      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "En el Palacio de Bellas Artes",
         "url": "https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 178506,
       "name": "Viva M\u00e9xico / Guadalajara (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "Lucero En Vivo Auditorio Nacional",
+        "url": "https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 441442,
+      "name": "Medley Kumbia - En Vivo Auditorio Nacional",
+      "url": "https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw"
     }
   ],
   "unique_name": "Mariachi en Vivo",

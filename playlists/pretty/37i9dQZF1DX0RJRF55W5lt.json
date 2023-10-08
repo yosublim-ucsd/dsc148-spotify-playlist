@@ -1,12 +1,12 @@
 {
   "description": "Classic anthems from a classic era. Cover: Wookie",
-  "num_followers": 502859,
+  "num_followers": 503063,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yjg4OTJkZDU0MDZhYmQ5MThlODYxNzE5NTBlY2MzMzMyMDYyYWNk",
+  "snapshot_id": "MCw5MWE4NDUwMDAzMDlkYjE4YmY2YWE4ZWZlNDllOGVmNDE4Y2EwYTBj",
   "tracks": [
     {
       "added_at": "2023-08-11 10:13:10",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "21 Seconds",
-        "url": "https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe"
-      },
-      "artists": [
-        {
-          "name": "So Solid Crew",
-          "url": "https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH"
-        }
-      ],
-      "duration_ms": 294373,
-      "name": "21 Seconds - 12\" Version",
-      "url": "https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "RIP Groove",
         "url": "https://open.spotify.com/album/1b5NUoEx4BCuzQgg0X2ZXE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 209373,
       "name": "RIP Groove - Radio Edit",
       "url": "https://open.spotify.com/track/47zdicM0GhuAVBNUBvBbf0"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "21 Seconds",
+        "url": "https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe"
+      },
+      "artists": [
+        {
+          "name": "So Solid Crew",
+          "url": "https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH"
+        }
+      ],
+      "duration_ms": 294373,
+      "name": "21 Seconds - 12\" Version",
+      "url": "https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        }
-      ],
-      "duration_ms": 306250,
-      "name": "What Going On",
-      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "Let Me Be Your Fantasy",
         "url": "https://open.spotify.com/album/0qDzH1CtYjMw3uf3S5pnN9"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 232933,
       "name": "Let Me Be Your Fantasy - Trick Or Treat Remix Edit",
       "url": "https://open.spotify.com/track/6dA4KrYTgjl6Ovq8T5HqRG"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
+      },
+      "artists": [
+        {
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
+        }
+      ],
+      "duration_ms": 306250,
+      "name": "What Going On",
+      "url": "https://open.spotify.com/track/2VrXykLzmEd5KFf5QfHe3L"
     },
     {
       "added_at": "2023-08-11 10:13:10",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-08-11 10:13:10",
       "album": {
-        "name": "Wishing I Were Home",
-        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
-      },
-      "artists": [
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 375994,
-      "name": "Wishing I Were Home",
-      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
-    },
-    {
-      "added_at": "2023-08-11 10:13:10",
-      "album": {
         "name": "A London Thing",
         "url": "https://open.spotify.com/album/31JpI9mni0wdK8TwTh00Wh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 366434,
       "name": "A London Thing - Extended Mix",
       "url": "https://open.spotify.com/track/1EO2wRH9Tj2e7SLLiNoALJ"
+    },
+    {
+      "added_at": "2023-08-11 10:13:10",
+      "album": {
+        "name": "Wishing I Were Home",
+        "url": "https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 375994,
+      "name": "Wishing I Were Home",
+      "url": "https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO"
     },
     {
       "added_at": "2023-08-11 10:13:10",

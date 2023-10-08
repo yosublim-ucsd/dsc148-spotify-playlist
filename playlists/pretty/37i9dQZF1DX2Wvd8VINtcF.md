@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,126 likes - 105 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,172 likes - 105 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 25 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
 | 26 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 27 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 |
-| 28 | [Holy Shit \(with Kamohelo\)](https://open.spotify.com/track/2qTdZWYM0iG92C4aSMDT5I) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Holy Shit \(with Kamohelo\)](https://open.spotify.com/album/028AHBglxW0vvE3yZ077aw) | 2:42 |
+| 28 | [Holy Shit](https://open.spotify.com/track/2qTdZWYM0iG92C4aSMDT5I) | [Ros](https://open.spotify.com/artist/1WFDjXyyIHnYbSq8UmTD7X), [Kamohelo](https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu) | [Holy Shit](https://open.spotify.com/album/028AHBglxW0vvE3yZ077aw) | 2:42 |
 | 29 | [Feelings \(feat\. J Hus\)](https://open.spotify.com/track/13eNzMdXHUinoWsxcRXTCW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:57 |
 | 30 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 31 | [Woman](https://open.spotify.com/track/2aZghG8jayn0ZjvUN3EiL5) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Woman](https://open.spotify.com/album/54LgsqW9nfE6BjspyJz7K8) | 3:41 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 104 | [Fragile](https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fragile](https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT) | 4:39 |
 | 105 | [red rock flower bloom](https://open.spotify.com/track/7gLIyHO2xboJ2DwH6PXtaH) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [red rock flower bloom](https://open.spotify.com/album/6NapR3UvcadQZmH9XTnreT) | 2:28 |
 
-Snapshot ID: `MCw1MGI0NjcyYTE1OWM0NDQwMzhlMDI1MzkxYTQ0MTgxMGE4ZWJjZjQ3`
+Snapshot ID: `MCwyNzlhNzBjMWYxMTdmYmY0Y2FiMzNmMjFkN2QwMmQwZmYyNTZjMTBj`

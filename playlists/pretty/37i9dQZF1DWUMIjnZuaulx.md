@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,010 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,139 likes - 100 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 8 | [Always \(Father I Trust You\) \- Live](https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Always \(Father I Trust You\) \[Live\]](https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3) | 4:15 |
 | 9 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 |
 | 10 | [God Problems](https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Problems](https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E) | 9:50 |
-| 11 | [God Of War \(feat\. Elevation Worship & ELEVATION RHYTHM\)](https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [God Of War \(feat\. Elevation Worship & ELEVATION RHYTHM\)](https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf) | 6:01 |
+| 11 | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf) | 6:01 |
 | 12 | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt) | 5:41 |
 | 13 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |
 | 14 | [Oke Mmiri](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 10:13 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 38 | [It's Gonna Be Bigger \(feat\. Demarcus Kelly & JaNae Jones\)](https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Demarcus Kelly](https://open.spotify.com/artist/56OAn1ewiDpABxTVdEQpJf), [JaNae Jones](https://open.spotify.com/artist/5102IyNmHzRcI2gGRf4Ffv) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 4:52 |
 | 39 | [Abba](https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Ahjah](https://open.spotify.com/artist/0xJrfsF6PijLyi2HaSl8hX) | [Abba](https://open.spotify.com/album/1LxBxImqbqxU1XL5vVyngK) | 2:13 |
 | 40 | [Freedom](https://open.spotify.com/track/1vFtgxUCHSk5dlAptuyKpb) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U), [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Freedom](https://open.spotify.com/album/0sX5jkV0dyQpgkvUfOLxiq) | 5:01 |
-| 41 | [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [Generations](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 |
+| 41 | [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [Generations \(Live\)](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 |
 | 42 | [Age To Age](https://open.spotify.com/track/4hz9JIeosKjU79sR9M8Xsh) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Age To Age](https://open.spotify.com/album/0W0NCHeJfCkst8buyacLxG) | 3:54 |
 | 43 | [One Way](https://open.spotify.com/track/7ip9sYAFsPo66qz1FR6YKd) | [Fresh Start Worship](https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG) | [He Is Here](https://open.spotify.com/album/28yOCHKml5qWT0YV3P8lxN) | 3:16 |
 | 44 | [Tired \- Live in Richmond, VA](https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Tired \(Live in Richmond, VA\)](https://open.spotify.com/album/5xOcdgRDpu5JydvRZVKBMx) | 7:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCw2ZjNmNmYzNmFkYTBlMGYzOTE0MWE5MDFiNTAzMjUyYThkMGYxM2M1`
+Snapshot ID: `MCxhY2JjYWY4MTY2ODcxY2NkODg4N2M4ZmQ1NzkxNDk5YmI3YzY3ZDc4`

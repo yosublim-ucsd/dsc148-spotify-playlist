@@ -4,7 +4,7 @@
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-51 songs - 3 hr 17 min
+52 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Isla Nueva](https://open.spotify.com/track/3PR00jq3LXwNxFQC1glvGM) | [Piélago](https://open.spotify.com/artist/74fUwxg1ht9308R6WNVv1O) | [Isla Nueva](https://open.spotify.com/album/4qSsoBsUtsUZUAXQIutGBz) | 4:10 | 2022-08-13 |  |
 | [La Cabra Jala Pal Monte](https://open.spotify.com/track/5F7BVBpJmYpZ9Z9yfl3YlI) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3) | [La Cabra Jala Pal Monte](https://open.spotify.com/album/1dBySlCgtNn1GTcvceaWiZ) | 3:06 | 2022-08-13 |  |
 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 | 2022-08-13 |  |
+| [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2022-08-13 |  |
 | [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2022-08-13 | 2023-10-07 |
 | [La Princesa](https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 6:05 | 2022-08-13 |  |
 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 | 2022-08-13 |  |
@@ -49,7 +50,7 @@
 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 | 2022-08-13 |  |
 | [Si Tú Quieres Más](https://open.spotify.com/track/4dfDK5mveASz4gFx3XzQGH) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Si Tú Quieres Más](https://open.spotify.com/album/1xU1Zj9cCqcRKkORRF71zw) | 4:24 | 2022-08-13 |  |
 | [Subo Subo](https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [La Nueva Esquina](https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM) | 3:47 | 2022-08-13 |  |
-| [Sweet Reggae Music](https://open.spotify.com/track/0osXzU5Ao7oLwL5l7B2o0y) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dub Ambassador](https://open.spotify.com/album/7BbBRWou2A0N8bcqG61FVh) | 3:52 | 2022-08-13 |  |
+| [Sweet Reggae Music](https://open.spotify.com/track/0osXzU5Ao7oLwL5l7B2o0y) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Dub Ambassador](https://open.spotify.com/album/7BbBRWou2A0N8bcqG61FVh) | 3:52 | 2022-08-13 | 2023-10-08 |
 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 | 2022-08-13 |  |
 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 | 2022-08-13 |  |
 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 | 2022-08-13 |  |

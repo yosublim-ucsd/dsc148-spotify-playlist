@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-305 songs - 22 hr 54 min
+306 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [If It Was](https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:41 | 2023-04-27 |  |
 | [If It Was](https://open.spotify.com/track/0WzwQNa3Nn5VxNiFL46XMx) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:41 | 2023-02-16 | 2023-04-20 |
 | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-04-14 | 2023-02-18 |
+| [If You Go Away](https://open.spotify.com/track/1YhQ0oi3ay18dgcGdgDebT) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [If You Go Away / Ne me quitte pas](https://open.spotify.com/album/7KqMq5aJBqj7FIAybwlZEx) | 4:55 | 2023-10-06 |  |
 | [Imagine](https://open.spotify.com/track/2tsqu3KVPqofbieVP3zYU3) | [Junity](https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm) | [Reimagined](https://open.spotify.com/album/0ktnG2z63HI3M19iuJLUOq) | 3:35 | 2022-03-25 |  |
 | [In the Space Between Our Souls](https://open.spotify.com/track/68f2v05WiiKkLEA8lnlaUD) | [Ingrid Saga](https://open.spotify.com/artist/5AFOYgZPpkiWB7FAeEXl6F) | [In the Space Between Our Souls](https://open.spotify.com/album/2p6JHhn0lEekYls1t0o5NS) | 6:53 | 2023-05-30 |  |
 | [In the Wee Small Hours](https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY) | [In the Wee Small Hours](https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn) | 4:09 | 2023-01-19 | 2023-09-14 |
@@ -312,6 +313,6 @@
 | [You Go To My Head](https://open.spotify.com/track/7FtvTA5t8yH8UmKs1s4xoT) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 5:20 | 2022-09-27 | 2023-09-14 |
 | [You Go To My Head](https://open.spotify.com/track/2P6Phi5zCiCnQKyFyjz7Kj) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 4:09 | 2021-12-17 | 2023-09-14 |
 | [You've Changed](https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because Of Billie](https://open.spotify.com/album/6Bz3G8ZBPt3raos669LnuB) | 4:30 | 2021-12-17 | 2022-07-29 |
-| [You've Changed](https://open.spotify.com/track/6uIYlALj5i1nPryGFt28pr) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because of Billie](https://open.spotify.com/album/36c53HxweeNT73AvTCehM1) | 4:30 | 2023-05-30 |  |
+| [You've Changed](https://open.spotify.com/track/6uIYlALj5i1nPryGFt28pr) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Because of Billie](https://open.spotify.com/album/36c53HxweeNT73AvTCehM1) | 4:30 | 2023-05-30 | 2023-10-08 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

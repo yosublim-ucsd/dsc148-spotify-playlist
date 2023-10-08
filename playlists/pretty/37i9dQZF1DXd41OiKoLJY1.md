@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Dear Dahlia  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,336 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,406 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Huwebes](https://open.spotify.com/track/4N0JCgmDJRgC4LxB1FfTel) | [Kobe Silvestre](https://open.spotify.com/artist/2iky61v2fEDuLWXKcuyMqX) | [Huwebes](https://open.spotify.com/album/2qcnCnkgeW4AwsNF5ULxzN) | 3:28 |
 | 2 | [Bituin](https://open.spotify.com/track/4abGSX7qqDANIyFX8sDQzk) | [Dear Dahlia](https://open.spotify.com/artist/5PstZ2n9tsytowjzUQJc2g) | [Bituin](https://open.spotify.com/album/6NkUTp7Z8z1dxsllcNmKjZ) | 3:33 |
-| 3 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [KEI](https://open.spotify.com/artist/2i3SDiSxLRtSz9ulxxgR7v) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
+| 3 | [fall for you](https://open.spotify.com/track/7g0DZYsANgXOSQVpvRPtIz) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [fall for you](https://open.spotify.com/album/1xTq84MTtXhGABnfrVwo2Q) | 2:55 |
 | 4 | [Laruan](https://open.spotify.com/track/4M6ID48RuhZnfvZs90Urqq) | [Bill and the Judiths](https://open.spotify.com/artist/4uCcUbx7EiJ4h5oKGYBxSs) | [Laruan](https://open.spotify.com/album/4iImxr6VA9tPiEU1NllUCB) | 4:51 |
 | 5 | [Kinalimutan](https://open.spotify.com/track/6BLwo7mJds9RR3v8bIMHoF) | [The Early Ears](https://open.spotify.com/artist/7o9WMlej7AoTMhELT2Acp2) | [Kinalimutan](https://open.spotify.com/album/0igmoPSvZEJgzoXRutDnTd) | 4:46 |
 | 6 | [Magdamag](https://open.spotify.com/track/0iOeIdESYPoOhzHafz7V5q) | [day one](https://open.spotify.com/artist/3rKaqZWYrUPpFo2K8Ut65H) | [Magdamag](https://open.spotify.com/album/0oeiQknyiS4FzS9puBDfn0) | 3:02 |

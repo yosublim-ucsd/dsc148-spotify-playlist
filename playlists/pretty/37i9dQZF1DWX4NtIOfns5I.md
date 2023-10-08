@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom\. cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 559 likes - 87 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175 likes - 87 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 86 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
 | 87 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 |
 
-Snapshot ID: `MCwxMDIyMzU0MjI3M2U5OGEzY2MxYTY0ZDI1OGQ4ODc5ODc3NTlmZTE2`
+Snapshot ID: `MCxlN2FiNzc3YWQxZWFjOTlmM2I4OGYyMjI4Y2MyOTg4MzEzNjFhNDcz`

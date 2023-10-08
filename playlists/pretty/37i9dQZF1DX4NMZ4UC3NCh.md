@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 
 > Happiness! This is Red Velvet! Red Velvet wants everyone to have a Beautiful Christmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,492 likes - 108 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,546 likes - 108 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMZ4UC3NCh.md) - [plain]
 | 107 | [Fool](https://open.spotify.com/track/21C7B7PWYDW00czamOjleO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:53 |
 | 108 | [처음인가요 First Time](https://open.spotify.com/track/4BeYVQC4uQGwEnLOeOo2ch) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Velvet \- The 2nd Mini Album](https://open.spotify.com/album/2qgl7dAgslqL1w2l2wQhMA) | 4:02 |
 
-Snapshot ID: `MCxkYzY0YTNmNzc0NmYxNGEzOWY4YzUwMTU2OTRlNzY1YjRjNTBiNzZl`
+Snapshot ID: `MCxjMTg1ZDY2NGUwNmIxMjIxOGQzYWE4MThkMTU1ZmEwNjZlYTBjNmE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Kevin Abstract
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,031 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,055 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [SO LONG](https://open.spotify.com/track/2nfTh8tAAHzVQCRuJZpzzw) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [SO LONG](https://open.spotify.com/album/4LzzxPzU41zB3h7nIndR7S) | 2:47 |
 | 126 | [DUMB](https://open.spotify.com/track/47MthNdmvuTrV3SP4MPFGV) | [Hunter Oliveri](https://open.spotify.com/artist/1y3NQbmjuRQshFiRjiterz) | [DUMB](https://open.spotify.com/album/1CEYnd0M5NIW7u6HheJka5) | 2:53 |
 
-Snapshot ID: `MCw5NDJkZGE5NDM4OGFiMTQwZTE1OTQxOWNlZDRjMjEyOTVmYWUyMTQ4`
+Snapshot ID: `MCxkYjcxN2RhMjBjZGI3ZTUzMWQ4NjY3N2EwZGNkMzMxNWU0ZTNmODVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Jossman\. Updates every Inzul, Laura Pérez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,912 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,915 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,17 +37,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 27 | [De Telenovela](https://open.spotify.com/track/1y5pN3mxbz9BRjLUliC6DP) | [Valentina Moreno](https://open.spotify.com/artist/1srI7bnVw24WnHT6gV9V4p) | [De Telenovela](https://open.spotify.com/album/4C14PDwyvY4vNCrLW7qKLW) | 2:52 |
 | 28 | [Bailando un Rato en el Incendio](https://open.spotify.com/track/2n9EsGVeOYY8vS1xiWHkBY) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Bailando un Rato en el Incendio](https://open.spotify.com/album/7BZf3Uw6pSSK5XyqkvGpd1) | 3:47 |
 | 29 | [Deseo](https://open.spotify.com/track/7r5WSZYDtKcButv419EfB2) | [Leo Valenzuela](https://open.spotify.com/artist/0I85bEI83ZnTRajtBzhSUE), [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [Paula Hart](https://open.spotify.com/artist/3bPy1Rx4GvJODzR52MI2HW) | [Deseo](https://open.spotify.com/album/4C5XlMxxgNZwKKGrg6M2gY) | 3:00 |
-| 30 | [No Se...](https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [No Se...](https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C) | 2:09 |
-| 31 | [Llegará](https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL) | [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Grupo Enkelé](https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm) | [Llegará](https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi) | 3:53 |
-| 32 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
-| 33 | [Animales](https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V), [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [Animales](https://open.spotify.com/album/1TRa9aFlvjPxXDeB87XGwH) | 3:03 |
-| 34 | [Paké \- Bonus Track](https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:53 |
+| 30 | [Llegará](https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL) | [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Grupo Enkelé](https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm) | [Llegará](https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi) | 3:53 |
+| 31 | [No Se...](https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [No Se...](https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C) | 2:09 |
+| 32 | [Paké \- Bonus Track](https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:53 |
+| 33 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 34 | [Animales](https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V), [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [Animales](https://open.spotify.com/album/1TRa9aFlvjPxXDeB87XGwH) | 3:03 |
 | 35 | [No Me Malinterprete](https://open.spotify.com/track/2PvFOyINI7gvC3JMzz7CZb) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [No Me Malinterprete](https://open.spotify.com/album/3PXBtGrHe5UmVJOYIGbCij) | 5:17 |
-| 36 | [TUMOR](https://open.spotify.com/track/7i5PZTlLGyhE1nnhIJivqj) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [TUMOR](https://open.spotify.com/album/2YyO3YBY0uL4a8xvn73MVU) | 3:46 |
-| 37 | [si cuenta la verdad \(Spectre's cut\) \- Bonus track](https://open.spotify.com/track/46zJYP7yCAJa80N9Ozskb7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [PLUG.](https://open.spotify.com/album/1v7w036xV4mOd3h7lh5psS) | 2:00 |
+| 36 | [si cuenta la verdad \(Spectre's cut\) \- Bonus track](https://open.spotify.com/track/46zJYP7yCAJa80N9Ozskb7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [PLUG.](https://open.spotify.com/album/1v7w036xV4mOd3h7lh5psS) | 2:00 |
+| 37 | [TUMOR](https://open.spotify.com/track/7i5PZTlLGyhE1nnhIJivqj) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [TUMOR](https://open.spotify.com/album/2YyO3YBY0uL4a8xvn73MVU) | 3:46 |
 | 38 | [Me Gusta Tu Estilo](https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt) | [Mat Alba](https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chai](https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn) | 3:17 |
-| 39 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
-| 40 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 |
+| 39 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 |
+| 40 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
 | 41 | [AQUA](https://open.spotify.com/track/40R0lDskycJi0p1TQS6CJJ) | [CANNYON](https://open.spotify.com/artist/4uDcbcdxgwIACWrB24vNNx) | [AQUA](https://open.spotify.com/album/1yVq8AGWpGPRkhY2E2pztn) | 4:14 |
 | 42 | [Desahogándome](https://open.spotify.com/track/3wnAh76ynjSkMdLbOOR1GS) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Desahogándome](https://open.spotify.com/album/4kPZW9e6uQ3eqSaTzTz0iH) | 3:54 |
 | 43 | [Quedo Estúpido](https://open.spotify.com/track/29fqd6Gas1oxN5GSqT8MQO) | [El Chango y Las Flores](https://open.spotify.com/artist/1DS4gplGgwj9Or2D8QqVs9) | [Mi Jardín](https://open.spotify.com/album/5VhObvuYrg44FMXUVwNtGz) | 4:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 46 | [Yanet](https://open.spotify.com/track/2Qmgfx8trQsR3On3sC7XlW) | [Nixa](https://open.spotify.com/artist/4YcVhE86HFvuC0hhVjB8Qc) | [Yanet](https://open.spotify.com/album/3qwNhqd6QszMjO6SwuAoJ7) | 4:03 |
 | 47 | [Carmesí](https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL) | [MARTE](https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg) | [Carmesí](https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz) | 4:14 |
 | 48 | [En La Mía](https://open.spotify.com/track/2rpf5SUsJ1nZNlon3M3xNd) | [Spuck GC](https://open.spotify.com/artist/2qQmATpe7BxfEsVtYtJQI1) | [En La Mía](https://open.spotify.com/album/3WgNcO2hnsQASiaxKtCr8s) | 2:16 |
-| 49 | [Vacaciones del delirio](https://open.spotify.com/track/5wH0NC4iUO8XB3cSRUhLBB) | [01:am](https://open.spotify.com/artist/33IW152RCXRPRH5ZFpi8eM) | [ODISEA](https://open.spotify.com/album/19CApgP42iam502cyN0rhm) | 2:53 |
-| 50 | [Tan solo tú](https://open.spotify.com/track/0zDhVPAAa0V21MewJjRkQv) | [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w), [Mac xyx](https://open.spotify.com/artist/1Avj2E3QoYRHzsHqWgNrgz) | [Tan solo tú](https://open.spotify.com/album/011PoDcJWr7so3AhX6Bzyz) | 4:06 |
+| 49 | [Tan solo tú](https://open.spotify.com/track/0zDhVPAAa0V21MewJjRkQv) | [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w), [Mac xyx](https://open.spotify.com/artist/1Avj2E3QoYRHzsHqWgNrgz) | [Tan solo tú](https://open.spotify.com/album/011PoDcJWr7so3AhX6Bzyz) | 4:06 |
+| 50 | [Vacaciones del delirio](https://open.spotify.com/track/5wH0NC4iUO8XB3cSRUhLBB) | [01:am](https://open.spotify.com/artist/33IW152RCXRPRH5ZFpi8eM) | [ODISEA](https://open.spotify.com/album/19CApgP42iam502cyN0rhm) | 2:53 |
 
-Snapshot ID: `MCwyYTM1MGI1MWUzY2JiNjBkZjZkMWJlNWVmMjJlZWNiY2VlMDU0MzM1`
+Snapshot ID: `MCw2YTNlZDgwZDllNmM0MzQ2Mzk1MGMwMjhkZGM2NTViN2E2ZGIzYzQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,764 likes - 92 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,914 likes - 92 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 34 | [90s Baby](https://open.spotify.com/track/5NR97sgM467Ok0oVOC3rTZ) | [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [DatBreddaDom](https://open.spotify.com/artist/4uVCyjqLswlqL6zt3VEEK0) | [90s Baby](https://open.spotify.com/album/2wGAU8rMitQQfKxZ3pwc7g) | 3:23 |
 | 35 | [Dealer \(feat\. Blaqbonez & TAR1Q\)](https://open.spotify.com/track/7dHai2diN3uYd5SHZ8LsAO) | [10Ten](https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Dealer \(feat\. Blaqbonez & TAR1Q\)](https://open.spotify.com/album/1NOa7qFj3brcv9WNvUw9tM) | 2:14 |
 | 36 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
-| 37 | [E No Dey Easy](https://open.spotify.com/track/4KYASGpdl7SO2oUJI7pEDm) | [Mazbou Q](https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ), [Phodiso](https://open.spotify.com/artist/3yUPqkjKza9Kg5yXgaZA45), [Ch! Nonso](https://open.spotify.com/artist/12pebkhzqSeiNhhiCSiZIv) | [The Sum of Unfinished Businesses](https://open.spotify.com/album/7yLxWKmosyUa0ZHS18ZTcN) | 3:01 |
+| 37 | [E No Dey Easy](https://open.spotify.com/track/5QbuPrNyyJpb62GUrEses5) | [Mazbou Q](https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ), [Phodiso](https://open.spotify.com/artist/3yUPqkjKza9Kg5yXgaZA45), [Ch! Nonso](https://open.spotify.com/artist/12pebkhzqSeiNhhiCSiZIv) | [The Sum of Unfinished Businesses](https://open.spotify.com/album/2zFPaKQay8iOutBhhOgjAD) | 3:01 |
 | 38 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 |
 | 39 | [No Nonsense](https://open.spotify.com/track/2js0SfpJOqEUSxlOi8tZME) | [Joanny](https://open.spotify.com/artist/7mNtIw5k6cbKytRLhPIye2) | [No Nonsense](https://open.spotify.com/album/5FYAkJWAVVWIAq0TtzzfxL) | 2:38 |
 | 40 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |

@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Ayways",
+        "url": "https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ"
+      },
+      "artists": [
+        {
+          "name": "A & C",
+          "url": "https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Ayways",
+      "url": "https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1"
+    },
+    {
+      "album": {
         "name": "Backwards",
         "url": "https://open.spotify.com/album/4uRWNT5GJ4dq1Nym8N1uFN"
       },
@@ -2622,7 +2640,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 197476,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/1ZANGntZPUTTPR0P6n6upr"
@@ -2738,6 +2756,24 @@
       "duration_ms": 169798,
       "name": "donut worry",
       "url": "https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr"
+    },
+    {
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr"
+      },
+      "artists": [
+        {
+          "name": "Loomington",
+          "url": "https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po"
     },
     {
       "album": {
@@ -5670,7 +5706,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 121714,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/4Dk38EtWuCEv9XIES350re"
@@ -5724,7 +5760,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 119916,
       "name": "late night walking",
       "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
@@ -5958,7 +5994,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 121500,
       "name": "Life Rent",
       "url": "https://open.spotify.com/track/7D4RkW53rmZIRnFKhBdaF3"
@@ -6056,6 +6092,24 @@
       "duration_ms": 146624,
       "name": "lo degradation",
       "url": "https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv"
+    },
+    {
+      "album": {
+        "name": "Lo-fi Love Letters",
+        "url": "https://open.spotify.com/album/1LDYsz7AHxedlGPb2Mj3Jw"
+      },
+      "artists": [
+        {
+          "name": "Idris Kelly",
+          "url": "https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119117,
+      "name": "Lo-fi Love Letters",
+      "url": "https://open.spotify.com/track/1vwVgDd0EHURAjoTb2glnM"
     },
     {
       "album": {
@@ -6594,7 +6648,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 126666,
       "name": "Melt",
       "url": "https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ"
@@ -6688,7 +6742,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 138323,
       "name": "Metro Mode",
       "url": "https://open.spotify.com/track/3DW8N1bFyp79Xbt5zb2FFK"
@@ -7760,7 +7814,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 90666,
       "name": "odd bob",
       "url": "https://open.spotify.com/track/4INF4AAXXTFJooaSr9PZep"
@@ -8784,7 +8838,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 169047,
       "name": "Primus",
       "url": "https://open.spotify.com/track/17fhvQzzyTfvUz7mMVNTZ4"
@@ -9730,6 +9784,24 @@
       "duration_ms": 195225,
       "name": "She Ski Lifts My Spirits",
       "url": "https://open.spotify.com/track/329HZF8ohmz9GYbFchV8wa"
+    },
+    {
+      "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2"
+      },
+      "artists": [
+        {
+          "name": "G:sson",
+          "url": "https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9"
     },
     {
       "album": {
@@ -11108,6 +11180,24 @@
       "duration_ms": 95524,
       "name": "The Ceremony",
       "url": "https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY"
+    },
+    {
+      "album": {
+        "name": "The Day Before Yesterday",
+        "url": "https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS"
+      },
+      "artists": [
+        {
+          "name": "mer\u012bkurisumasu!",
+          "url": "https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "The Day Before Yesterday",
+      "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
     },
     {
       "album": {
@@ -12568,7 +12658,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 119999,
       "name": "Woolcap Saloon",
       "url": "https://open.spotify.com/track/79TCl2g8jBaiEr77MiAZn1"

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: あいみょん
 
-1,783 songs - 4 day 19 hr 19 min
+1,784 songs - 4 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [4ever](https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/3eHDZxWPz3a4EwjO9DWm1Y) | 3:18 | 2023-07-11 | 2023-08-16 |
 | [4ever](https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI) | 3:18 | 2023-07-11 | 2023-07-13 |
 | [99%](https://open.spotify.com/track/0802zscD81a2HT8qHvCKEx) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [99%](https://open.spotify.com/album/42U9fbea5iLDy0epgOxA6q) | 3:24 | 2022-06-16 | 2022-07-23 |
-| [^^](https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [^^](https://open.spotify.com/album/1BI02iaqO3qhY9TEvPrTAs) | 4:06 | 2023-02-07 |  |
+| [^^](https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8) | [MIREI](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [^^](https://open.spotify.com/album/1BI02iaqO3qhY9TEvPrTAs) | 4:06 | 2023-02-07 | 2023-10-08 |
 | [A New Story](https://open.spotify.com/track/6ZFcBZ5SUvYsdX2txUfGMB) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [5 senses](https://open.spotify.com/album/06lJdKShHCkkIvbukIjAzK) | 4:10 | 2022-05-29 | 2022-07-28 |
 | [A Night In New York](https://open.spotify.com/track/5y6bE77GjfwJLtWEU5v92x) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [A Night In New York](https://open.spotify.com/album/1fONmQNvf2Zx4i9Zn05hGn) | 3:52 | 2022-05-29 | 2022-07-24 |
 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 | 2022-07-07 | 2022-07-13 |
@@ -645,6 +645,7 @@
 | [Nobose](https://open.spotify.com/track/1n6W03okyF7dsmY83leZ6d) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:02 | 2023-03-28 | 2023-04-05 |
 | [Nonfiction](https://open.spotify.com/track/25G5WkA09gPXVeiCZT5Kch) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Nonfiction](https://open.spotify.com/album/4IwkzXdnIkA9Lz6FqOKnCS) | 3:48 | 2022-06-14 | 2022-06-16 |
 | [noonoonoon](https://open.spotify.com/track/09Tsaaq09p1t5FXTAOoB58) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [noonoonoon](https://open.spotify.com/album/2zr8eIhuh8WXfW2GaJgp6p) | 2:47 | 2023-06-20 | 2023-06-28 |
+| [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-10-05 |  |
 | [Not Unusual](https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/6nbzkFwV8YIKs2FsGF7o8w) | 4:35 | 2023-01-31 | 2023-02-02 |
 | [Not Unusual](https://open.spotify.com/track/5plwsxoOIhB9AnauxlrOqI) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/4nxMwuFDjNnMWYGLOcEzaS) | 4:35 | 2023-01-31 | 2023-02-08 |
 | [nothin'](https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 3:38 | 2022-07-26 | 2022-08-03 |
@@ -733,7 +734,7 @@
 | [Remember you](https://open.spotify.com/track/5jsSTSWKzJjXKRAYLODEtW) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Remember you](https://open.spotify.com/album/4CablfTCtnFPIvXYqyUdn9) | 4:24 | 2023-01-24 | 2023-02-08 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 | 2023-01-04 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-01-04 |
-| [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 | 2023-10-07 |
+| [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 |  |
 | [Respect Me](https://open.spotify.com/track/1X6pJqf4GXgLLambeuHJun) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Respect Me](https://open.spotify.com/album/6O2yKyUdHSvRnYbH0enuL1) | 3:04 | 2023-03-21 | 2023-03-29 |
 | [ride on](https://open.spotify.com/track/7AawKQ42s5gjNXTjFYkXYL) | [Miyuu](https://open.spotify.com/artist/6r5DBRzP1cJGTHrnptDrSR) | [ride on](https://open.spotify.com/album/05IL3ynMadtHGQ46kHonfZ) | 3:40 | 2022-06-16 | 2022-06-18 |
 | [RIDE ON TIME](https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1) | [BENI](https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI) | [RIDE ON TIME](https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3) | 4:04 | 2023-06-06 |  |
@@ -1290,7 +1291,7 @@
 | [ニンゲンカンケイ](https://open.spotify.com/track/3gbIiBR3kpDBpKsuCA1uoC) | [Hinako Miura](https://open.spotify.com/artist/4OCKeb3ZY4bVq4tC9Jz2TM) | [ニンゲンカンケイ](https://open.spotify.com/album/3NAJfnQdl0qFW99U7EPo3m) | 3:27 | 2022-06-30 | 2022-07-06 |
 | [ネオンライトに呼ばれて](https://open.spotify.com/track/5lsAPbv57oSWetUqP8OKq4) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ネオンライトに呼ばれて](https://open.spotify.com/album/203EvrZNm2ngyllHX7PqHQ) | 3:25 | 2022-11-22 | 2022-11-24 |
 | [ノスタルジック・ハイウェイ](https://open.spotify.com/track/2IiSx6zSKnRABjuLQMDWSE) | [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi) | [ノスタルジック・ハイウェイ](https://open.spotify.com/album/1YoTxKMI06TlJocauWbYUF) | 3:30 | 2022-05-29 | 2022-07-21 |
-| [ノット・オーケー](https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ノット・オーケー](https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5) | 4:51 | 2023-10-03 |  |
+| [ノット・オーケー](https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ノット・オーケー](https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5) | 4:51 | 2023-10-03 | 2023-10-08 |
 | [ハイライト](https://open.spotify.com/track/6ycWBYw37IW6RE4Roezmv8) | [蒼山幸子](https://open.spotify.com/artist/0kaulfDSrETQ7VpIv2mnkb) | [Highlight](https://open.spotify.com/album/6pAPgaMnYadpzuJqMYeadw) | 3:56 | 2022-06-07 | 2022-06-28 |
 | [ハウ・アー・ユー](https://open.spotify.com/track/6RJFqida1S0XpSTfq9sWSC) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [Breath](https://open.spotify.com/album/0903f6AZbxF6OUEgxTjsos) | 3:31 | 2022-08-17 | 2022-08-24 |
 | [ハッピー☆ブギ](https://open.spotify.com/track/6CxbTX5K3LVTVj41wk5XQn) | [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [趣里](https://open.spotify.com/artist/2rodLJLnpKoFMJggODrOMg) | [ハッピー☆ブギ](https://open.spotify.com/album/16SgWv3BPNBRIlPy70OgOl) | 3:40 | 2023-10-03 |  |

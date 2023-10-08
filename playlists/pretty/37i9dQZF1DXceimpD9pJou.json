@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: <a href=\"spotify:artist:1uVtllLSmvkfPRozmSmxzG\">Cardec Drums,</a> <a href=\"spotify:artist:4sPaDVtUm4TRrM6TATYC8D\">Don Ryvcko,</a> <a href=\"spotify:artist:3YUvGhcDPnR0Y8m8It9WuP\"> Chuiqui,</a> y <a href=\"spotify:artist:37Bz4qzDoJ2eTwKPKiT7iE\"> Issac Fontanez</a>",
-  "num_followers": 134684,
+  "num_followers": 134720,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmRiMjRkMjkxY2Y0NzQ0NDU5NWY0NWJhZGY1ODNiZjIyYTJhYWFm",
+  "snapshot_id": "MCxlMWFkODQ0OTRiMWJkOWRmYWJhMTA5ZGQ0NjcwN2M2MjkyYzRmNmRi",
   "tracks": [
     {
       "added_at": "2023-10-06 11:26:45",
@@ -44,12 +44,12 @@
       },
       "artists": [
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
           "name": "Kim Richards",
           "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
       "duration_ms": 192095,

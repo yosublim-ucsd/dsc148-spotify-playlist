@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 58955,
+  "num_followers": 59093,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2IyOWEwOWNjNDE3ZjlmYmQxMmRjMTc1YWI3N2NhNWEyMWU3YzRk",
+  "snapshot_id": "MCxkN2FiNTVhZDIwZWVlZmRmNWY4YzYxYTExYjRkZWZiMjY5Y2I0MDNl",
   "tracks": [
     {
       "added_at": "2023-10-03 01:59:09",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "Stay Blessed",
-        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Stay Blessed",
-      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
-    },
-    {
-      "added_at": "2023-10-03 01:59:09",
-      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/6AZBrqoAy25CLWRh8QgvV5"
       },
       "artists": [
         {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 168320,
-      "name": "Hunned Bandz",
-      "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
+      "duration_ms": 177731,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
     },
     {
       "added_at": "2023-10-03 01:59:09",
@@ -727,6 +711,22 @@
       "duration_ms": 176869,
       "name": "Eye On The Bat",
       "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "added_at": "2023-10-03 01:59:09",
+      "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Hunned Bandz",
+      "url": "https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF"
     },
     {
       "added_at": "2023-10-03 01:59:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-03 01:59:09",
       "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Days Move Slow",
-      "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
-    },
-    {
-      "added_at": "2023-10-03 01:59:09",
-      "album": {
         "name": "Get Damaged",
         "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 180266,
       "name": "Becky",
       "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
+    },
+    {
+      "added_at": "2023-10-03 01:59:09",
+      "album": {
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Days Move Slow",
+      "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
     }
   ],
   "unique_name": "hair dye",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Sean Mason Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,906 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,952 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 5 | [A Time for Love](https://open.spotify.com/track/2T271QHz5y3nzjKY5Inu85) | [Doxas Brothers](https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5) | [A Time for Love](https://open.spotify.com/album/6mSGavp5NvJ0pa1msu7HTr) | 7:37 |
 | 6 | [Introverted Soul](https://open.spotify.com/track/1UtSgVxpPmmTXZSZHLkSG5) | [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo) | [MOHINI DEY](https://open.spotify.com/album/0JO8dpHTSkyYs7XpNCT04D) | 5:28 |
 | 7 | [Teo](https://open.spotify.com/track/445N8tdrFPPQiEXm8x8vES) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Teo](https://open.spotify.com/album/1nhW2dBhlBtfuzB4GwlHy4) | 3:35 |
-| 8 | [Dragon, Bull, Vulture, Giant](https://open.spotify.com/track/0CP78VAJasbsfyMVVaeCfu) | [Selcouth Quartet](https://open.spotify.com/artist/31hqkmemFoStnD4fHejCGM), [Joe Russo](https://open.spotify.com/artist/6IBqjWy0ZvqhVTBjtLJgYV), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf), [Jonathan Goldberger](https://open.spotify.com/artist/2pdwy6njmmsAWNJ7RH0xdw), [Jon Shaw](https://open.spotify.com/artist/3TGjZSKe6jw2tqnrqYSSEI) | [Dragon, Bull, Vulture, Giant](https://open.spotify.com/album/6duUzoQsHWbdDYKoUiJsG7) | 8:14 |
+| 8 | [Dragon, Bull, Vulture, Giant](https://open.spotify.com/track/0CP78VAJasbsfyMVVaeCfu) | [Selcouth Quartet](https://open.spotify.com/artist/31hqkmemFoStnD4fHejCGM), [Joe Russo](https://open.spotify.com/artist/6IBqjWy0ZvqhVTBjtLJgYV), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf), [Jonathan Goldberger](https://open.spotify.com/artist/2pdwy6njmmsAWNJ7RH0xdw), [Jon Shaw](https://open.spotify.com/artist/3TGjZSKe6jw2tqnrqYSSEI), [Floki Sessions](https://open.spotify.com/artist/601FZXyKDoyE6gWYNNWOWj) | [Dragon, Bull, Vulture, Giant](https://open.spotify.com/album/6duUzoQsHWbdDYKoUiJsG7) | 8:14 |
 | 9 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 |
 | 10 | [Superstar Fish Bar](https://open.spotify.com/track/6oYOlXxEjFuA6j7oObInS9) | [Snazzback](https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e) | [Ruins Everything](https://open.spotify.com/album/3N7WvZ8Fp9THeqMTXW0xdg) | 2:35 |
 | 11 | [An Occasional Man](https://open.spotify.com/track/3uF4zyJGxehSCtCH85sGXk) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [Good Woman](https://open.spotify.com/album/6OpeLdxPD4fajLdDEBvT7o) | 4:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Look at the Birds](https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja) | [Micah Thomas](https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO) | [Look At The Birds](https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP) | 8:10 |
 | 75 | [The Valley](https://open.spotify.com/track/5ZLWcV2Vq1iiZD57J2OMGE) | [Anthony Fung](https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W) | [The Valley](https://open.spotify.com/album/5IiU0HkRmMzNw0zEVsA4mK) | 4:45 |
 
-Snapshot ID: `MCw2N2I1NzZmODdkMjY1NTM3ZDA3Y2YwMTA1ZmQ1YTUzMTc2NjgxZmZl`
+Snapshot ID: `MCxkM2YzMDI0YmI0OTk1ZTZlZjY4YWM4ZmYxOWMyOTRhMzBhNzEzMDZi`

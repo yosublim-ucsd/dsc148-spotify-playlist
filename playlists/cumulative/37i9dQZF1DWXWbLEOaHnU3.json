@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 268172,
       "name": "Silence",
       "url": "https://open.spotify.com/track/0DKWDteZi7MzDnJYc4i48b"
@@ -4760,6 +4760,32 @@
       "duration_ms": 270629,
       "name": "Stuck In My Head",
       "url": "https://open.spotify.com/track/3sHDHHKbdQPADaejmZp1oP"
+    },
+    {
+      "album": {
+        "name": "Stupid as Fvck (Physis Remix)",
+        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Physis",
+          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329565,
+      "name": "Stupid as Fvck (Physis Remix)",
+      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
     },
     {
       "album": {

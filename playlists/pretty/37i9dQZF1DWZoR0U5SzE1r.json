@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 272567,
+  "num_followers": 272692,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGJjZGU3MWM3NzkwYTY4YmNhZGRiM2JjY2FkNTY0OGYxNjFjZWMz",
+  "snapshot_id": "MCwyOTAzMDE0ZTFlZDMzZTgwMDNlYTFhMTgwZTkyYmFiMTNlYjZkN2Uy",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Call on Your Name",
-        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Call on Your Name",
-      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Already Done",
         "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 324280,
       "name": "Already Done",
       "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Call on Your Name",
+        "url": "https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Every Nation",
+        "url": "https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv"
+      },
+      "artists": [
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        }
+      ],
+      "duration_ms": 350357,
+      "name": "Take Courage (Live)",
+      "url": "https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Brave New World",
         "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
       },
@@ -1747,26 +1767,6 @@
       "duration_ms": 315476,
       "name": "The More of You I See",
       "url": "https://open.spotify.com/track/7jmAAygPC6IHuEwnDm82D0"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Every Nation",
-        "url": "https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv"
-      },
-      "artists": [
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 350357,
-      "name": "Take Courage (Live)",
-      "url": "https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "God That Saves",
-        "url": "https://open.spotify.com/album/1YDUpNjOV9TsqbERUcsN2C"
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
       },
       "artists": [
         {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 289413,
-      "name": "God That Saves",
-      "url": "https://open.spotify.com/track/4hc1BN1CfwlAcw2iP5oYYy"
+      "duration_ms": 224026,
+      "name": "I Stand Here",
+      "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
     }
   ],
   "unique_name": "epicPRAISE",

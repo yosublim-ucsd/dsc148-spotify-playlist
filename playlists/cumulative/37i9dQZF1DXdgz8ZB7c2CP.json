@@ -2707,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "The Art Of Change",
+        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216222,
+      "name": "Downside Up",
+      "url": "https://open.spotify.com/track/2LqWswubpbLhEPtB3mRlJH"
+    },
+    {
+      "album": {
         "name": "Downside Up",
         "url": "https://open.spotify.com/album/7LX9A3dWjHEqxSCgQYcdaP"
       },
@@ -2722,7 +2744,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 216222,
       "name": "Downside Up",
       "url": "https://open.spotify.com/track/60i6Dj3T1oYGq7aMvUbmO6"
@@ -3789,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Change",
+        "url": "https://open.spotify.com/album/2w5ieF6SZV9flk1gkOgzdK"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161272,
+      "name": "Foolish Fish",
+      "url": "https://open.spotify.com/track/1xL1eqxpu599UwF79xgQBH"
+    },
+    {
+      "album": {
         "name": "Foolish Fish",
         "url": "https://open.spotify.com/album/4ahSfVnr0V1Mwby0tJ7M2x"
       },
@@ -3800,7 +3840,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 161272,
       "name": "Foolish Fish",
       "url": "https://open.spotify.com/track/6oZovA4CW7RZ9pQXcesJz8"
@@ -6292,7 +6332,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 230377,
       "name": "lost it",
       "url": "https://open.spotify.com/track/4jWAiDWY7915SrymRWvITL"
@@ -8774,7 +8814,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/7DApqpQTciqtU8MwdXBSFL"
@@ -9074,7 +9114,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 152250,
       "name": "SO ABSURD",
       "url": "https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm"
@@ -10788,7 +10828,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/2ryYs693sIZvV2No5g3vY7"

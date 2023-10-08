@@ -926,10 +926,28 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 195238,
       "name": "Carinito",
       "url": "https://open.spotify.com/track/03o1pHoBNemisYIUKQc7fl"
+    },
+    {
+      "album": {
+        "name": "Carinito",
+        "url": "https://open.spotify.com/album/2b9uU870Ayj2dXhPAJuuKJ"
+      },
+      "artists": [
+        {
+          "name": "Simonte",
+          "url": "https://open.spotify.com/artist/5UE3cpq0slHMoJB69hnQpD"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195238,
+      "name": "Carinito",
+      "url": "https://open.spotify.com/track/5EpvbFauycnBBetl4rWoKu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,331 likes - 52 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,341 likes - 52 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 29 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 |
 | 30 | [Tastes Like Freedom \- Chaos In The CBD Remix](https://open.spotify.com/track/6syv9meXafns0UbFE1KRdg) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM), [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Tastes Like Freedom \(Chaos In The CBD Remix\)](https://open.spotify.com/album/5jtpLVuJqcqSDrjvbPqgsy) | 5:50 |
 | 31 | [Faint](https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 2:42 |
-| 32 | [Mimosa 2000](https://open.spotify.com/track/5zykwy5pua9TcKofW7ow7p) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/3a4zclzlx7gt1koqFqWwXD) | 2:20 |
+| 32 | [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 |
 | 33 | [Blood In The Snow \- Tibi Dabo Remix](https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Tibi Dabo](https://open.spotify.com/artist/3PbY6HSGOo5aqdo2TGo5ye) | [Blood In The Snow \(Tibi Dabo Remix\)](https://open.spotify.com/album/73wQ9Xm8wzPKgCmLxysMv0) | 6:26 |
 | 34 | [No Promises](https://open.spotify.com/track/4AX3HUxF377bqmKfqC0s2N) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Modern Girls \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6VSHcaLDYJIv5dIu5nkuOS) | 3:42 |
 | 35 | [Fountains of the World](https://open.spotify.com/track/4mR5vaLDwq8pGUzA2DXgtj) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fountains of the World](https://open.spotify.com/album/3lRIRlLhAIFGLZqh10wCTW) | 3:11 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 51 | [Love Loop To Fade](https://open.spotify.com/track/2tFR5NPXOFszGPGcrAazJB) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 2:03 |
 | 52 | [COPY COPY \- Logic1000 & Big Ever Remix](https://open.spotify.com/track/5QglfG3SyT9ZHFTtcxA0FK) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:15 |
 
-Snapshot ID: `MCxlNjU0MTZlZjdlZDY4ZTJlMmMzZjRlNjA2MWI5ZmNhYjAyYzI0NTY4`
+Snapshot ID: `MCxjMmQwMzAyOWM4MzM1OWRkMjEyZmY4ZGM0N2ZiYTJkMzIwZjA0NTFl`

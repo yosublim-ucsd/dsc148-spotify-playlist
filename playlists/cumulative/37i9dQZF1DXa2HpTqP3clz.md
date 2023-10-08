@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Willie Nelson
 
-478 songs - 1 day 4 hr 48 min
+479 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Drivin' Nails In My Coffin \- Simply Bluegrass](https://open.spotify.com/track/0Wy7fpZxbslkaINmte0Rpc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Drivin' Nails In My Coffin \(Simply Bluegrass\)](https://open.spotify.com/album/67ILLZHENVDtXDVOz28dAa) | 3:10 | 2021-12-17 | 2022-06-13 |
 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2023-06-23 |  |
 | [Dry Town](https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Dry Town](https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6) | 2:42 | 2021-12-17 | 2022-07-27 |
-| [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 | 2022-03-25 |  |
+| [East Virginia Blues](https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw) | [Dominick Leslie](https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu), [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Impromptu Sessions No\. 2: Dominick Leslie & Ric Robertson \(Trust In Most\)](https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78) | 3:42 | 2022-03-25 | 2023-10-08 |
 | [East Virginia Blues](https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:59 | 2021-12-17 | 2022-07-22 |
 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 | 2022-07-22 | 2023-08-05 |
 | [Edges Run](https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv) | 3:14 | 2021-12-17 | 2022-07-28 |
@@ -353,6 +353,7 @@
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/2snpAgA7u9kPs1amwGkVNo) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/1pLEZLzXrFWCG8sEtcwXnq) | 3:00 | 2021-12-17 | 2022-07-29 |
 | [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 | 2022-07-29 | 2023-07-01 |
 | [Shamrock](https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 4:40 | 2021-12-17 |  |
+| [Shays' Rebellion](https://open.spotify.com/track/1DUfLULXb2XLJF3dFqRRy9) | [The Mountain Grass Unit](https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl) | [Places I've Been](https://open.spotify.com/album/0kgijOwaBq1rAWv8lfqEqw) | 3:08 | 2023-09-22 |  |
 | [She Left Me Standing on the Mountain](https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY) | [Watkins Family Hour](https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj), [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Vol\. II](https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY) | 3:25 | 2022-08-26 | 2023-04-24 |
 | [She Sings](https://open.spotify.com/track/0LHHBhcQQ23V0p7Y5MyjC0) | [One Grass Two Grass](https://open.spotify.com/artist/4DOmXqtkPNBgVaJEkYSaQJ) | [She Sings](https://open.spotify.com/album/46M1uGVjeV2Ydw0MPhkqpn) | 4:52 | 2021-12-17 | 2022-01-28 |
 | [She'll Change](https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [She'll Change](https://open.spotify.com/album/6wYpaSgmMDzyfQxNmcTIXf) | 2:41 | 2021-12-17 | 2022-09-26 |

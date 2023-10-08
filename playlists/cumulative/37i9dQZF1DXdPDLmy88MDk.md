@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-158 songs - 9 hr 45 min
+159 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Swells](https://open.spotify.com/track/3V11QUuUTJP23f6k9BZeGn) | [Adam Daudrich](https://open.spotify.com/artist/3AIAMl4fvvaVL4YaKcQ63R) | [Swells](https://open.spotify.com/album/53DRDXmQseTvGb0k1YHBgc) | 2:45 | 2021-11-19 | 2022-07-29 |
 | [Swells](https://open.spotify.com/track/6OAmwif2egghTp0U2YOE6t) | [Adam Daudrich](https://open.spotify.com/artist/3AIAMl4fvvaVL4YaKcQ63R) | [The Wooden Box](https://open.spotify.com/album/0MPJQnKCaRK3UPvoDhBwIs) | 2:45 | 2022-05-11 |  |
 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-11-19 |  |
-| [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-09-19 |  |
+| [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-09-19 | 2023-10-08 |
+| [The Ballad of the Lake of Tears](https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/39DhHP2vt6cCeZKuymyFmG) | 2:21 | 2023-06-30 |  |
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-19 |  |
 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 | 2021-11-19 |  |
 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 | 2021-11-19 |  |

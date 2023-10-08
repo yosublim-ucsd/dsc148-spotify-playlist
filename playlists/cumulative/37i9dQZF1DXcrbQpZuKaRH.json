@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Hidden Beach",
+        "url": "https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Hidden Beach",
+      "url": "https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp"
+    },
+    {
+      "album": {
         "name": "Everwoods",
         "url": "https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK"
       },
@@ -1090,6 +1108,24 @@
       "duration_ms": 195428,
       "name": "S\u00e1lmur (Sound Bath)",
       "url": "https://open.spotify.com/track/5KASAZ937O4CSKQ3hYAMaB"
+    },
+    {
+      "album": {
+        "name": "Taigh An Locha",
+        "url": "https://open.spotify.com/album/6f7sk0ebjs0GOJZm6WRse1"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Taigh An Locha",
+      "url": "https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq"
     },
     {
       "album": {

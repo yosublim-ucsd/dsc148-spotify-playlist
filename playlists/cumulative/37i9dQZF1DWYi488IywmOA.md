@@ -4,7 +4,7 @@
 
 > Blues favorites from 2022\. Cover: Eric Gales \#SpotifyWrapped
 
-147 songs - 9 hr 42 min
+148 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,8 +122,9 @@
 | [Somewhere](https://open.spotify.com/track/2Ja624OgeZY8nPV1XN1jGU) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 3:30 | 2021-12-01 | 2022-12-01 |
 | [Souled Out On You](https://open.spotify.com/track/7ITdt0me2VEjKchX3iPzKp) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:33 | 2021-12-01 | 2022-12-01 |
 | [Star](https://open.spotify.com/track/5s9JvslFpJGbApkKXi3MjU) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB) | [Borrowed Time](https://open.spotify.com/album/68ZhKv7M3s5NGqIsdVQfQC) | 5:28 | 2022-11-30 |  |
-| [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-11-30 |  |
+| [Stay away from me](https://open.spotify.com/track/16JoACcI9bpk65WeZdJaU9) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/1RfLFbc81I36sfI4KI0fy2) | 2:42 | 2022-11-30 | 2023-10-08 |
 | [Stay away from me](https://open.spotify.com/track/77iBCaVqdOSmXtHk5OcwUg) | [Puff Kennedy](https://open.spotify.com/artist/6xmuIAos2H2ElKQl0ipsdw) | [Stay away from me](https://open.spotify.com/album/443tvXMsfPqlt82b5VmyzT) | 2:42 | 2022-11-30 | 2023-09-08 |
+| [Stay away from me](https://open.spotify.com/track/4FOGtKxxRYSPXDc9zqtmuI) | [Xerts](https://open.spotify.com/artist/0o6Qu4jP243MCBTMyODXOQ) | [Stay away from me](https://open.spotify.com/album/6F1sfezZ5OV9EXIvYaDj74) | 2:42 | 2022-11-30 |  |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2021-12-01 | 2022-12-01 |
 | [Step In](https://open.spotify.com/track/3RI449DPz5BeY9927KWYlH) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/0VhKwExkg99sIQA9xwBCbD) | 2:35 | 2021-12-01 | 2022-11-14 |
 | [Step In](https://open.spotify.com/track/4k2CuHiMGURZuOX0XKd6LL) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/3cBmAwjBX1csLooXbuwHhr) | 2:35 | 2021-12-01 | 2022-07-29 |

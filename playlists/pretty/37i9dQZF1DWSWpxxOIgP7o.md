@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 
 > The official playlist for MO\. Watch now on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,188 likes - 42 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,193 likes - 42 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Riding Down South](https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ) | [Oilver Grey](https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2) | [Southern Hip Hop](https://open.spotify.com/album/0XQgQqBsdnKOndpv6Mqj49) | 2:18 |
+| 1 | [Riding Down South](https://open.spotify.com/track/0Qws7Y806JftF3TVAg7XAJ) | [Oilver Grey](https://open.spotify.com/artist/1cxN1fWNmQgVad8POsxOj2) | [Southern Hip Hop](https://open.spotify.com/album/65JaPqNkS1B5VtfBZLgUS9) | 2:18 |
 | 2 | [Emta Njawzak Yamma](https://open.spotify.com/track/3tKP4uEWIbOhsFzPBkSumU) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Ben Haana Wa Maana](https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt) | 4:28 |
 | 3 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |
 | 4 | [Parking Lot](https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:01 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWpxxOIgP7o.md) - [plain]
 | 41 | [Overdose \- From the Netflix Series "Mo"](https://open.spotify.com/track/5xOyOwxcap9OMHDzPWWYQp) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz), [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Overdose \(From the Netflix Series "Mo"\)](https://open.spotify.com/album/3nAhYY2KDN6HXz8WSMlfwI) | 2:54 |
 | 42 | [End Credits](https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Patrick Warren](https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2) | [MO \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI) | 1:48 |
 
-Snapshot ID: `MCw3ODQwYzZhYmQyNDZhODJjOWI1NzY3ODkxY2RhYWVhNjY0OGQ5MmUw`
+Snapshot ID: `MCwwZTI0MmExNjc0MzRhODUzNDc2MWEwZTQ5OWYxMzMyNGM1MzBhMTU5`

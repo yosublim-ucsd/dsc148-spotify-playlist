@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "3 Toivomusta",
+        "url": "https://open.spotify.com/album/6h2PFdf9ziIyh9SHRnbgjb"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142097,
+      "name": "3 Toivomusta",
+      "url": "https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz"
+    },
+    {
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -644,6 +666,28 @@
       "duration_ms": 96232,
       "name": "A Tale By Quincy",
       "url": "https://open.spotify.com/track/759ndr57jb0URg4j9YSWml"
+    },
+    {
+      "album": {
+        "name": "Aaltoi p\u00e4in (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/6GqaytWhywXWN9XmiZkpTj"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134311,
+      "name": "Aaltoi p\u00e4in (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/66BrGVswrL7ZPlumgSLRSs"
     },
     {
       "album": {
@@ -7262,7 +7306,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 139578,
       "name": "FWB",
       "url": "https://open.spotify.com/track/6wpypJHbhEC3xFlq5YX4hc"
@@ -10135,6 +10179,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "album": {
         "name": "Ihana kipu",
         "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
       },
@@ -11434,6 +11500,24 @@
       "duration_ms": 199093,
       "name": "Just Do It",
       "url": "https://open.spotify.com/track/44hW6JCsM5fWl4m66VTG1d"
+    },
+    {
+      "album": {
+        "name": "Just sillee",
+        "url": "https://open.spotify.com/album/2Dw5jml0SGkxUES45CrUFk"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158716,
+      "name": "Just sillee",
+      "url": "https://open.spotify.com/track/1qmWhud8dSCh1WxZnwaR2P"
     },
     {
       "album": {
@@ -13594,6 +13678,28 @@
       "duration_ms": 153231,
       "name": "KuKa (BoNuS)",
       "url": "https://open.spotify.com/track/0AvNgJo4Bwk7OJ7Ip2Iwva"
+    },
+    {
+      "album": {
+        "name": "Kuka se on (feat. Isac Elliot)",
+        "url": "https://open.spotify.com/album/3Upc7moyLGcU372j9GGvfp"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156671,
+      "name": "Kuka se on (feat. Isac Elliot)",
+      "url": "https://open.spotify.com/track/5rJrd2aw3iCaGD87Ztdo4c"
     },
     {
       "album": {
@@ -16914,6 +17020,24 @@
       "duration_ms": 202619,
       "name": "Menee yli (feat. TIPPA)",
       "url": "https://open.spotify.com/track/5l6H9Ll5fTLQ9BNLIOoDsg"
+    },
+    {
+      "album": {
+        "name": "Menet\u00e4n mun j\u00e4rjen",
+        "url": "https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159260,
+      "name": "Menet\u00e4n mun j\u00e4rjen",
+      "url": "https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5"
     },
     {
       "album": {
@@ -21464,7 +21588,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 158987,
       "name": "Pimee (feat. BESS)",
       "url": "https://open.spotify.com/track/0HxPzvkpUhADgfRnXNF6zS"
@@ -21662,7 +21786,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 167136,
       "name": "Poikayst\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/7vrPrpYgyFvDJD3yhoVWD6"
@@ -22164,7 +22288,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 189327,
       "name": "Pyh\u00e4 Madonna - Vain el\u00e4m\u00e4\u00e4 kausi 14",
       "url": "https://open.spotify.com/track/6Whf7PhBg2Nhe2JNpOLJdN"
@@ -25178,7 +25302,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
@@ -26492,7 +26616,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 192192,
       "name": "Taiteilijael\u00e4m\u00e4\u00e4",
       "url": "https://open.spotify.com/track/3lEjNgLQHxbHxqjtSzTgZQ"

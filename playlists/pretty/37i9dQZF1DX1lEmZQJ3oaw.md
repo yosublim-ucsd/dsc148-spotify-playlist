@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,821 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,875 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 49 | [Idhar Gire](https://open.spotify.com/track/4gAAt4041Zpo142naT8xdR) | [Sowmya Raoh](https://open.spotify.com/artist/1tspa3CEV2XqEDsgehaNBz) | [Saheb Biwi aur Gangster Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UrGeGBrxGetsQwqjMi8Qa) | 4:22 |
 | 50 | [Dil Jahan Pe Le Chala \(Amit Trivedi\)](https://open.spotify.com/track/78JKBkqF3siJDIrX0mnXTh) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 3:53 |
 
-Snapshot ID: `MCwyOGEzMGVkNDk1MjMyMzk4ODI2MmMzOGNiN2VmMjZlMjY5ZTM4MTI5`
+Snapshot ID: `MCwwYzhjZDllNmVkZDAyYjg1Y2FiOTkxMjU3MmQ5MzEzYjk3ZjYyMWRm`

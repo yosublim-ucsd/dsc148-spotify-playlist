@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-154 songs - 7 hr 17 min
+155 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 | 2022-11-09 |
 | [Storybook](https://open.spotify.com/track/71G421mQ7cWLT81NM5cOmu) | [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Christopher Robin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Gb5WNBbET7YCwhyLd4ACK) | 1:22 | 2022-11-08 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 | 2022-11-09 |
-| [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 |  |
+| [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 | 2023-10-08 |
+| [The Ballad of the Lake of Tears](https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/39DhHP2vt6cCeZKuymyFmG) | 2:21 | 2023-07-14 |  |
 | [The Dawning](https://open.spotify.com/track/0k963HCwT2H2SLhdA8CWve) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S), [Anna Dager](https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [The Dawning](https://open.spotify.com/album/2dukrzOf2iXJpRDSJqZRWH) | 2:47 | 2022-09-09 | 2022-11-09 |
 | [The Fig Tree](https://open.spotify.com/track/1drE1yyx3iSbTbn55SAGOT) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 2:35 | 2022-03-09 | 2022-11-09 |
 | [The Great Unknown](https://open.spotify.com/track/4nY7xJxAsbgalPsOiWBonK) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Where Heroes Come to Die](https://open.spotify.com/album/6oWPtpkD348BpY3ZTxWOzp) | 3:59 | 2022-03-09 | 2022-11-09 |

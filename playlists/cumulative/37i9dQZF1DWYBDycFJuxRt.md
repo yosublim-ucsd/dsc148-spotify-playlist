@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: Kroi \*👉 <a href="https://spice.eplus.jp/articles/322638?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-3,418 songs - 8 day 15 hr 34 min
+3,419 songs - 8 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,6 +1430,7 @@
 | [Nonfiction](https://open.spotify.com/track/4dn2wlZ2s4aZ5avg0kiqxf) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [Nonfiction](https://open.spotify.com/album/1MhMWOieJ3X3VR4GfgzfYE) | 3:37 | 2023-07-19 | 2023-07-26 |
 | [noonoonoon](https://open.spotify.com/track/09Tsaaq09p1t5FXTAOoB58) | [Cape of good hope](https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ) | [noonoonoon](https://open.spotify.com/album/2zr8eIhuh8WXfW2GaJgp6p) | 2:47 | 2023-06-20 | 2023-06-28 |
 | [not interested](https://open.spotify.com/track/2dh4qApO0wHWSI3uanyyb9) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [not interested](https://open.spotify.com/album/3s4RDR0XSeaLLc6GzYLVZj) | 1:53 | 2023-02-21 | 2023-03-01 |
+| [NOT OK](https://open.spotify.com/track/690KKCzni7cDqy9EWe0rpc) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [NOT OK](https://open.spotify.com/album/0L4T0uAWSFgIPZ0Y3JVKoC) | 4:51 | 2023-10-04 |  |
 | [Not Unusual](https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/6nbzkFwV8YIKs2FsGF7o8w) | 4:35 | 2023-01-31 | 2023-02-02 |
 | [Not Unusual](https://open.spotify.com/track/5plwsxoOIhB9AnauxlrOqI) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/4nxMwuFDjNnMWYGLOcEzaS) | 4:35 | 2023-02-01 | 2023-02-08 |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-22 | 2023-08-30 |
@@ -2679,7 +2680,7 @@
 | [ナントカ流星群](https://open.spotify.com/track/5YLfn326St8BrFM7T8yErf) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [ナントカ流星群](https://open.spotify.com/album/7tXfoTYsfDmQmJRbpXUynw) | 2:51 | 2023-07-11 | 2023-07-19 |
 | [ネクター](https://open.spotify.com/track/6htrbZf7DCXBtisoMEa9RA) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [ネクター](https://open.spotify.com/album/0XsicevMGUI7zaYW4XmHhw) | 5:35 | 2023-03-14 | 2023-03-22 |
 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 | 2023-09-12 | 2023-09-20 |
-| [ノット・オーケー](https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ノット・オーケー](https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5) | 4:51 | 2023-10-03 |  |
+| [ノット・オーケー](https://open.spotify.com/track/3DL6F8sLqcL3y0zJClSdIg) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ノット・オーケー](https://open.spotify.com/album/1sGrRkk96R4AgRq5a39bC5) | 4:51 | 2023-10-03 | 2023-10-08 |
 | [ノンフィクション](https://open.spotify.com/track/5zL9spH90IOMjDkzUEvSar) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [ノンフィクション](https://open.spotify.com/album/6vLPfYDolKPCtbk3yBwH9l) | 3:37 | 2023-07-18 | 2023-07-20 |
 | [ハアト](https://open.spotify.com/track/6ghxqAEmAy369mF3O0t2N3) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ハアト](https://open.spotify.com/album/6wGLVnsYsN0o6RpobFs4Ux) | 3:58 | 2023-10-03 |  |
 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 | 2023-03-14 | 2023-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\">CeCe Winans<a> ",
-  "num_followers": 267010,
+  "num_followers": 267139,
   "original_name": "Fresh Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNmNmYzNmFkYTBlMGYzOTE0MWE5MDFiNTAzMjUyYThkMGYxM2M1",
+  "snapshot_id": "MCxhY2JjYWY4MTY2ODcxY2NkODg4N2M4ZmQ1NzkxNDk5YmI3YzY3ZDc4",
   "tracks": [
     {
       "added_at": "2023-10-06 11:11:51",
@@ -203,7 +203,7 @@
     {
       "added_at": "2023-10-06 11:11:51",
       "album": {
-        "name": "God Of War (feat. Elevation Worship & ELEVATION RHYTHM)",
+        "name": "God Of War (feat. ELEVATION RHYTHM)",
         "url": "https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf"
       },
       "artists": [
@@ -212,16 +212,12 @@
           "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         },
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
           "name": "ELEVATION RHYTHM",
           "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
       "duration_ms": 361821,
-      "name": "God Of War (feat. Elevation Worship & ELEVATION RHYTHM)",
+      "name": "God Of War (feat. ELEVATION RHYTHM)",
       "url": "https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN"
     },
     {
@@ -771,7 +767,7 @@
     {
       "added_at": "2023-10-06 11:11:51",
       "album": {
-        "name": "Generations",
+        "name": "Generations (Live)",
         "url": "https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7"
       },
       "artists": [

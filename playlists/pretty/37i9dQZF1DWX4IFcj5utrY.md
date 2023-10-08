@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq?si=ioGpAv4HRSGt0DW1r3kQrg">FKA Mash</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,367 likes - 59 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,427 likes - 59 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Life As You Know It](https://open.spotify.com/track/1YSr5YbdrChZR7yzyjRTXn) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [LAYKI EP](https://open.spotify.com/album/4CJn4LY3EgQKL3gwQDNfYI) | 6:14 |
 | 2 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 |
 | 3 | [Umhle \(Lebzin & Dr Feel AfroSoul Remix\) \- Radio Edit](https://open.spotify.com/track/5N0Uukn963YBASMXuCL26q) | [Semitone](https://open.spotify.com/artist/4sNX911AuXLrqMUP1IpPtz), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY), [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Umhle \(Lebzin & Dr Feel AfroSoul Remix\)](https://open.spotify.com/album/2KzQQVMOyvct2rpZIVDx4C) | 4:29 |
-| 4 | [Hey Sister](https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86) | [Hey Sister](https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W) | 6:13 |
+| 4 | [Hey Sister](https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86) | [Hey Sister](https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W) | 6:23 |
 | 5 | [Horns In The Sun \- Thakzin Remix](https://open.spotify.com/track/2V2K1hzCtgj9xAnga9WUTy) | [DJ Kent](https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Mo\-T](https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Weekent Sun Sets \(Horns In The Sun Remix EP\)](https://open.spotify.com/album/4rdsbF5ddnRC2WVwCX5VWn) | 5:36 |
 | 6 | [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/track/4QgIdB09qSTOKERPzs9cGU) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Don't Wake Up \(feat\. Sir Trill\)](https://open.spotify.com/album/1dH3eSlqKD3VW5b4Drrdfi) | 5:46 |
 | 7 | [Let Me Go](https://open.spotify.com/track/2LcurVaMknHvPepjdLnz6r) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Let Me Go](https://open.spotify.com/album/4Y4Y3cyycPTRDawz6U8irG) | 6:55 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 58 | [Indlela](https://open.spotify.com/track/20biXVfOt8Fm1Mxo123d5c) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi) | [Indlela](https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2) | 6:08 |
 | 59 | [Inkumbulo](https://open.spotify.com/track/1LmBIpU2a28oc3KKkW1RAA) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Inkumbulo](https://open.spotify.com/album/2edkP9y6Fy7PbkQiXGlbWt) | 5:22 |
 
-Snapshot ID: `MCxkYzRkNDJjZTdkMzRmZjE2ODdiNWMwM2Y5Mzk3NmE4ZGQ1NTM0Nzkz`
+Snapshot ID: `MCwxNDk0YzFiM2U1ZGQ5ZTA5Yjg0ZDNjMzJhZjE4NjQ3N2QxOGI1OTYx`

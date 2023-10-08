@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,254 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,385 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 28 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 |
 | 29 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 |
 | 30 | [Rush Dem \(feat\. Haviah Mighty & 4Korners\)](https://open.spotify.com/track/0SmjLbrFluvEkKoxfCiqhR) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Rush Dem \(feat\. Haviah Mighty & 4Korners\)](https://open.spotify.com/album/18P8a5KeSlXwzCbOHHOL1d) | 3:45 |
-| 31 | [Therapy](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
+| 31 | [Therapist](https://open.spotify.com/track/5oBXTB90XNpsRVPqVBI6JL) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [The OPEN\-HEARTED](https://open.spotify.com/album/5gNjgHXhdvPOKzducuk1st) | 3:20 |
 | 32 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
 | 33 | [Miss Behavior](https://open.spotify.com/track/3bluX33Jobw6N2ctrW5IUm) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Miss Behavior](https://open.spotify.com/album/0C7GOIc1Hqu9QM2QkZpecI) | 2:11 |
 | 34 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Road Of The Lonely Ones](https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Road Of The Lonely Ones](https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf) | 3:38 |
 | 100 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCxhNWZlMjJmNzYxOTAxYzVmYTY3NTc5YzUzOTZmMDhjMGYwYTg0OWEy`
+Snapshot ID: `MCxmMTJlM2Y0N2ZkZjBmMzVjZTJmMzYwZWExZTI3MzUxMDg2NjEwMmQ2`

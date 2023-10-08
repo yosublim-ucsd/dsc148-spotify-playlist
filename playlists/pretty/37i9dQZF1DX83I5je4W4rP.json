@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1066479,
+  "num_followers": 1066551,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTQwY2NmYjA5NmRiNTdhNzM4NDRhNDgwYjk2OGFhYTU4MDQ3NmIw",
+  "snapshot_id": "MCw4NjBmN2E5YmZhNDlmZmJkMWU4ZmJkODZlYTVkNzg5YWZkMTZlMjc2",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Dirty Heads",
+        "url": "https://open.spotify.com/album/5roECT2OKdlszQBDtuECHW"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1SamKkYJelI1ktQMrtBtfW"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 232160,
       "name": "Warning (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Dirty Heads",
-        "url": "https://open.spotify.com/album/5roECT2OKdlszQBDtuECHW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1SamKkYJelI1ktQMrtBtfW"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
+        "name": "Start Livin'",
+        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
       },
       "artists": [
         {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Pressure Drop",
-      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
+      "duration_ms": 194420,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Start Livin'",
-        "url": "https://open.spotify.com/album/046TK75MmvAdIkrk51uGIg"
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
       },
       "artists": [
         {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
         }
       ],
-      "duration_ms": 194420,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
+      "duration_ms": 177440,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Super Moon",
+        "url": "https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Super Moon",
-        "url": "https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Sounds Of Summer (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 221621,
-      "name": "Sounds of Summer (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "From Here To Now To You",
         "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 250397,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
-      },
-      "artists": [
-        {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
-        },
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "All Her Favorite Songs (with Little Stranger)",
         "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
       },
@@ -1611,6 +1591,26 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
+      },
+      "artists": [
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 214933,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1643,22 +1659,6 @@
       "duration_ms": 192492,
       "name": "Open The Door",
       "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Space and Time",
+      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Crazy Little Village",
         "url": "https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5"
       },
@@ -1799,18 +1815,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ"
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
       },
       "artists": [
         {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 214480,
-      "name": "Space and Time",
-      "url": "https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf"
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1831,22 +1847,6 @@
       "duration_ms": 253933,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Far From Forever",
+        "url": "https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n"
+      },
+      "artists": [
+        {
+          "name": "Joe Samba",
+          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Create Something",
+      "url": "https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 194386,
       "name": "Catch My Wave",
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Far From Forever",
-        "url": "https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n"
-      },
-      "artists": [
-        {
-          "name": "Joe Samba",
-          "url": "https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Create Something",
-      "url": "https://open.spotify.com/track/4QF1vqGrBrvmH6X4RNenfD"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Pacific Vibration",
-        "url": "https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4"
-      },
-      "artists": [
-        {
-          "name": "Wheeland Brothers",
-          "url": "https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq"
-        }
-      ],
-      "duration_ms": 199109,
-      "name": "Board Meeting",
-      "url": "https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 189264,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Pacific Vibration",
+        "url": "https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4"
+      },
+      "artists": [
+        {
+          "name": "Wheeland Brothers",
+          "url": "https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq"
+        }
+      ],
+      "duration_ms": 199109,
+      "name": "Board Meeting",
+      "url": "https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja"
     },
     {
       "added_at": "2023-07-28 15:11:46",

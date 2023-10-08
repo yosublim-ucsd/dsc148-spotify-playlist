@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,463 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,486 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 98 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
 | 99 | [Disrespect](https://open.spotify.com/track/5GaGNTPNNXCmgZP3szlBQ5) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Disrespect](https://open.spotify.com/album/4giebInGcz0mCUWjT8zkDq) | 2:32 |
 
-Snapshot ID: `MCwwOWJkNDg2NDRjY2E4NWQ3MGNjM2M1Mjc1ODZlMDRmYzc1ZTVlODQ2`
+Snapshot ID: `MCwyOTVmYTAzNTI1ZjUxYWU4MjFmYTlhNDViZDJlY2RhZjk2NmUxNGFj`

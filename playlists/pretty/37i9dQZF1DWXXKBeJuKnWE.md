@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: While She Sleeps
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,723 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,754 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [Private Skool](https://open.spotify.com/track/07F0JkIN0DdgeZtrFj4Wmj) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Private Skool](https://open.spotify.com/album/5M8UCAJ3vOVj9hkIxE2qd9) | 3:29 |
 | 80 | [Church Outfit](https://open.spotify.com/track/17MJ6FK12SJ5ElDgk2DYdY) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Knockoff](https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n) | 1:54 |
 
-Snapshot ID: `MCxkMzQ3ZjQxNWE0YzlkYWFkNTBkYTMzNTNkYjU2ZWM0MDhkYWJmZTYx`
+Snapshot ID: `MCwyMWVmYjVlMzBlOTdjNGYzODdiM2U1ZTMyMTM2ZDBjYTk0NTdjZmU2`

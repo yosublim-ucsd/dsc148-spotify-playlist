@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-283 songs - 1 day 1 hr 35 min
+284 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Let There Be Love](https://open.spotify.com/track/0xwx7ezy29UaYUfauZiFSF) | [Zander Jazz Trio](https://open.spotify.com/artist/5QBHt7kiJsvbsdJx30kMhl) | [Misty](https://open.spotify.com/album/3VxtokLaFZNDwce4YijTmE) | 3:02 | 2022-11-12 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 | 2020-03-31 | 2022-05-11 |
 | [Letter to Evan](https://open.spotify.com/track/5M75iNdgFbMgMd1hOz0Jv2) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [Letter to Evan](https://open.spotify.com/album/0rbFbKIDGo5QkikbauzcpM) | 4:30 | 2022-02-18 | 2023-09-28 |
-| [Like in Love](https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Like in Love](https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp) | 6:06 | 2023-06-08 |  |
+| [Letter To Evan](https://open.spotify.com/track/7EEJS0O6KwTqyVPdQoms4I) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is The Ocean](https://open.spotify.com/album/5JqlpeLZmzlnXv59xcYSUJ) | 4:34 | 2023-10-06 |  |
+| [Like in Love](https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Like in Love](https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp) | 6:06 | 2023-06-08 | 2023-10-08 |
 | [Like Someone In Love](https://open.spotify.com/track/5aQgWuYF4U6N1XDuk0fcol) | [Denzel Sachs](https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw) | [Like Someone In Love](https://open.spotify.com/album/7r0miSdrDBxHOfzHCXPYBj) | 3:44 | 2023-05-25 |  |
 | [Little Big Steps \(feat\. Paolo Fresu\)](https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg) | [Triosence](https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Giulia](https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg) | 6:19 | 2022-02-18 | 2022-08-31 |
 | [Little Boat](https://open.spotify.com/track/4noc1JvLn446v2kBacnEoe) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [In Love Again](https://open.spotify.com/album/3GMcmek84lzwZvDsN1PHca) | 2:35 | 2022-11-12 | 2022-12-24 |

@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 236106,
       "name": "Contorted Monuments",
       "url": "https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI"
@@ -8398,6 +8398,24 @@
       "duration_ms": 223333,
       "name": "Till Valhall - Svitjod Edition",
       "url": "https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0"
+    },
+    {
+      "album": {
+        "name": "The Weight Of The Mask",
+        "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339350,
+      "name": "To Wilt Beneath The Weight",
+      "url": "https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7"
     },
     {
       "album": {

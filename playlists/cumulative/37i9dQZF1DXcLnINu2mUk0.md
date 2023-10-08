@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Van Zee.
 
-426 songs - 23 hr 6 min
+427 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Assim](https://open.spotify.com/track/5gjGfw1eaoMOW9Rq97j1Rp) | [Choro](https://open.spotify.com/artist/7jmNHJxPdNzErKwdI9Ts5D), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b), [Matheus Paraizo](https://open.spotify.com/artist/10BT29sUZJ4ZIKOwIfONA4), [Inês Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn), [AVALANCHE](https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z) | [Assim](https://open.spotify.com/album/3eQ6r9soA8z9PluYL8U2vk) | 2:43 | 2022-07-07 | 2022-08-05 |
 | [Assumir](https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [LUZ](https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6) | 3:00 | 2023-05-11 | 2023-05-26 |
 | [Até que vc volte](https://open.spotify.com/track/3WYMFOTpwNfbuT8vS67V3D) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Até que vc volte](https://open.spotify.com/album/7kRzljKDGhYWAe6Z6kRMVr) | 2:01 | 2023-03-03 | 2023-03-23 |
-| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 |  |
+| [Aura Diferente](https://open.spotify.com/track/087JPu4QHA65h7zUmk0pxf) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Aura Diferente](https://open.spotify.com/album/3CKAXJZxxJz5YInwBjgmXd) | 4:11 | 2023-09-14 | 2023-10-08 |
 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 | 2023-04-27 | 2023-05-19 |
 | [Baby](https://open.spotify.com/track/2pEHLvTEzLoSePd831mQR3) | [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8) | [Baby](https://open.spotify.com/album/3DRh9PrwDEWZsNDjmNQZpC) | 3:41 | 2023-03-03 | 2023-03-31 |
 | [Backseat](https://open.spotify.com/track/6TcWYVB1RvGRIYv1VJhIer) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Backseat](https://open.spotify.com/album/5wEUPMVHpfMKj9LWDkfkCR) | 3:12 | 2023-08-17 | 2023-09-08 |
@@ -59,6 +59,7 @@
 | [Be Free](https://open.spotify.com/track/29znaDmtQgktCpwPFaE2YE) | [Daxuva](https://open.spotify.com/artist/752OuY81ZX07jkHLw1eBR2), [Itaya](https://open.spotify.com/artist/5YvFDsN1VX5PxvtA0MIVOp) | [Punk Selva](https://open.spotify.com/album/57R1K6WPgo4cU9iswHE1kp) | 3:30 | 2022-09-16 | 2022-10-07 |
 | [Bebé](https://open.spotify.com/track/5JKftisQSLoLtRocH8UDHr) | [Barata](https://open.spotify.com/artist/3rVH1MtVxsddVwm6QcEAMN) | [Bebé](https://open.spotify.com/album/5O0n73lPSFwtGrQCqCAIe4) | 2:43 | 2023-08-17 | 2023-09-08 |
 | [Bijuteria](https://open.spotify.com/track/3fAHAwjLKVAiSQqnvhNwYw) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Nunca Mais](https://open.spotify.com/album/07mXUxjJp1RBEsQSxqafUx) | 3:54 | 2023-03-01 | 2023-03-25 |
+| [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 | 2023-10-05 |  |
 | [Blessing](https://open.spotify.com/track/4BVfXtcdki0yLemFWEFiFU) | [Lex](https://open.spotify.com/artist/0mXNHuEkPrnQlsxKsIqzBF) | [Blessing](https://open.spotify.com/album/37VCgtBGQi30cPyfFTfoJP) | 3:18 | 2022-09-01 | 2022-09-30 |
 | [Borboletas](https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh) | 3:24 | 2022-07-21 |  |
 | [Borboletas](https://open.spotify.com/track/3AroFQ5v6wHUOqwpGZw3OW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Borboletas](https://open.spotify.com/album/7hJsoRAoXKqdkiTMEBLgJq) | 3:24 | 2022-07-07 | 2022-07-29 |

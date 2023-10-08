@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Trueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,677 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,788 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 63 | [Tardes Grises](https://open.spotify.com/track/1EmehmbURkCcxpHcxcXgDP) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tardes Grises](https://open.spotify.com/album/1U4x0z1gk3pho14X7PFwRB) | 3:26 |
 | 64 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7jMqM4CMNu2JFRXs2xHfOt) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [Ahora Me Toca a Mi](https://open.spotify.com/album/1wAIdJeAqWrXhcaHAMykLM) | 2:16 |
 | 65 | [Sig Sauer](https://open.spotify.com/track/4TdIsBQX8u8M1IpZNV5YZ6) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Sig Sauer](https://open.spotify.com/album/1nS1ZFWw5nNHo7j51XL7pB) | 3:12 |
-| 66 | [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 |
+| 66 | [R.A.P](https://open.spotify.com/track/5ueFyFfJ6mDmN9LfWMONn2) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/3OXVCPPJKjQVsFqoY8Zamc) | 2:27 |
 | 67 | [Otro Color](https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Otro Color](https://open.spotify.com/album/4a4xwIYPYTKAFwObd1dnG2) | 2:24 |
 | 68 | [333](https://open.spotify.com/track/7uRjkDEmtb4CngdV8GoW4d) | [Flaco Vazquez](https://open.spotify.com/artist/4Ohr1XPB2qzNiiWRJlelPO) | [333](https://open.spotify.com/album/36IBUMoqZrk1yx1p6OML8B) | 3:49 |
 | 69 | [Hit o Nada](https://open.spotify.com/track/0cdZtTvXfrKyesvhbh8ipu) | [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Golden Boyz](https://open.spotify.com/artist/4aTlzwTjIzgWcMMdbBVuzj) | [Hit o Nada](https://open.spotify.com/album/3XQgN3REnMiKgQddK9bKQv) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Sucio](https://open.spotify.com/track/02sz23KvVaBWsgtWAzZChM) | [Socio](https://open.spotify.com/artist/3UppqcmU2AFZ0YtWTYfxeD), [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [Para La Envidia](https://open.spotify.com/album/7uvrUI2nKiAtVxBE5zCzjx) | 4:35 |
 | 100 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 
-Snapshot ID: `MCwzNDFlM2NmZjZiZGRmMDgyYzJmNzk5OWRhNWFhN2YxNzEyM2M2OGNj`
+Snapshot ID: `MCxlYmU3NDEwOTU3YjI4NmU0NmViZDZmZjY4ZDNjNWM4N2NhYWQ4ZDJj`

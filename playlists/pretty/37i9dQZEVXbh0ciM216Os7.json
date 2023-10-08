@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDA2MjAzNTJmMjNhZTE1Zjg1YWUwYjgxYTAxMGExYWUwNQ==",
+  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDAzMDIzM2JiNDBkNTEzNWYwY2Q5NWVlYWQ2Mzc5ODU3Nw==",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -23,6 +23,90 @@
       "duration_ms": 212782,
       "name": "Do Hot Girls Like Chords?",
       "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Lost Tapes \u2022 5 Year Anniversary \u2022 Deluxe Edition",
+        "url": "https://open.spotify.com/album/7IPPuUTxZmdbTLpRGMbjZj"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Big Ghost Ltd",
+          "url": "https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5"
+        }
+      ],
+      "duration_ms": 324057,
+      "name": "Done it Again",
+      "url": "https://open.spotify.com/track/2rJh0F25kLFq3AUmhP45g4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/7hGucrZZDdkeyf0ip1TyZN"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 133792,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Whenever I Call You Friend",
+        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
+      },
+      "artists": [
+        {
+          "name": "Melissa Manchester",
+          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Whenever I Call You Friend",
+      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/5ds7EwBnEDlshnnh2yO238"
+      },
+      "artists": [
+        {
+          "name": "Annakin Slayd",
+          "url": "https://open.spotify.com/artist/3v6NncuJTsPIsUFVHZpR5M"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Sticky Fingaz",
+          "url": "https://open.spotify.com/artist/6NFWb2y6S7PH2yvs5xbO2y"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3qEPlrpAIt4uGJBrhZPbnp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -87,30 +171,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/5ds7EwBnEDlshnnh2yO238"
-      },
-      "artists": [
-        {
-          "name": "Annakin Slayd",
-          "url": "https://open.spotify.com/artist/3v6NncuJTsPIsUFVHZpR5M"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Sticky Fingaz",
-          "url": "https://open.spotify.com/artist/6NFWb2y6S7PH2yvs5xbO2y"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/3qEPlrpAIt4uGJBrhZPbnp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -123,46 +183,6 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Whenever I Call You Friend",
-        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Manchester",
-          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Whenever I Call You Friend",
-      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/7hGucrZZDdkeyf0ip1TyZN"
-      },
-      "artists": [
-        {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
-        }
-      ],
-      "duration_ms": 133792,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -315,6 +335,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Have You Seen This Movie",
         "url": "https://open.spotify.com/album/4RCjDPhqY9W4JE0tVGtAvl"
       },
@@ -331,22 +367,6 @@
       "duration_ms": 555414,
       "name": "Have You Seen This Movie",
       "url": "https://open.spotify.com/track/2LUiRhU7rSaGqPAvaQ5Zik"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -459,8 +479,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fingerblast",
-        "url": "https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq"
+        "name": "Ram",
+        "url": "https://open.spotify.com/album/3o88dhnm1Bn9EH8vweXsnM"
       },
       "artists": [
         {
@@ -470,7 +490,7 @@
       ],
       "duration_ms": 172653,
       "name": "Fingerblast",
-      "url": "https://open.spotify.com/track/2EJQGBhREOhahAghqchmKt"
+      "url": "https://open.spotify.com/track/7pZffCI5RzP8ThC8mNhyxx"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -515,26 +535,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Free (feat. Tom Misch)",
-        "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
-      },
-      "artists": [
-        {
-          "name": "Joel Culpepper",
-          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 234771,
-      "name": "Free (feat. Tom Misch)",
-      "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "MICHAEL (Deluxe)",
         "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
       },
@@ -547,42 +547,6 @@
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Doomsday Party",
-        "url": "https://open.spotify.com/album/4vjJPfQI2sQ0lmGMmsqwrj"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        }
-      ],
-      "duration_ms": 315964,
-      "name": "Doomsday Party",
-      "url": "https://open.spotify.com/track/6dxtBnbVxQJ1UydpaayskF"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "should sleep",
-        "url": "https://open.spotify.com/album/3h2UC5oK5JXSpzliYZJiY8"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "J.P. Bimeni",
-          "url": "https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx"
-        }
-      ],
-      "duration_ms": 269907,
-      "name": "should sleep",
-      "url": "https://open.spotify.com/track/6zpMH3MUT8qINonUWks3rW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -607,42 +571,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Warrior Tour (Live Studio)",
-        "url": "https://open.spotify.com/album/1HYQOTEd2Wujrl4MLnzL9j"
-      },
-      "artists": [
-        {
-          "name": "IAM",
-          "url": "https://open.spotify.com/artist/56Q6weEROZ1RsVrTak8Bm7"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Je danse le mia - Live Studio",
-      "url": "https://open.spotify.com/track/4Rs6c0T5tMZQUFTavRfhME"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/67nEDeSnu6MLIm5Vr8UWwf"
-      },
-      "artists": [
-        {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4xO6bnooEZzdvKGNuciK0i"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "End",
         "url": "https://open.spotify.com/album/6iyqFDzMfdgCcrWq7PeCTb"
       },
@@ -655,102 +583,6 @@
       "duration_ms": 370653,
       "name": "Loved Ones",
       "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Rumours Live",
-        "url": "https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 358253,
-      "name": "The Chain - Live at the Fabulous Forum, Inglewood, CA, 08/29/77",
-      "url": "https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "She Listen To Trap",
-        "url": "https://open.spotify.com/album/02Fde3nEdXojU5KqJn5Di3"
-      },
-      "artists": [
-        {
-          "name": "A.M",
-          "url": "https://open.spotify.com/artist/38thHiXEE2yx8OacMf89Sq"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Get It Done",
-          "url": "https://open.spotify.com/artist/7I1gH3qVSIyH7sE4l0dFVu"
-        }
-      ],
-      "duration_ms": 143103,
-      "name": "She Listen To Trap",
-      "url": "https://open.spotify.com/track/7IJNuqJ3lGE7qzxOQ9AMMS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Good Brother",
-        "url": "https://open.spotify.com/album/58pAjB9W3xHw1aX0L9Jw3X"
-      },
-      "artists": [
-        {
-          "name": "Justus West",
-          "url": "https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 193390,
-      "name": "Good Brother",
-      "url": "https://open.spotify.com/track/2OjpcpsNXvrqDJ6ltfzkeW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Le d\u00e9part",
-        "url": "https://open.spotify.com/album/5ZrSxyK6FlNWDVYC0FLBIf"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 175020,
-      "name": "Le d\u00e9part",
-      "url": "https://open.spotify.com/track/1PwDhG68D4jCxwjrvGvGc7"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Reveal",
-        "url": "https://open.spotify.com/album/4qHth7RtxTPuE406MGm7gJ"
-      },
-      "artists": [
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 612361,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/2UtnVhNJlUc8mdQ4GoSQgx"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

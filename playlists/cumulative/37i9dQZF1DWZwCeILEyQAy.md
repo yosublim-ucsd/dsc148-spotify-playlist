@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Glorilla
 
-465 songs - 19 hr 50 min
+466 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,8 @@
 | [Kickin In \(feat\. Kaliii\)](https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 2:56 | 2023-07-28 |  |
 | [Kitty Drop 2](https://open.spotify.com/track/0YhD6AqtWBqI8LNWS8l1qO) | [Jaye Naima](https://open.spotify.com/artist/09Tqupn65WkMUdUMaLZaGw) | [Kitty Drop 2](https://open.spotify.com/album/5DMQkhib86qJu5H8o6XeL8) | 2:31 | 2022-09-30 | 2022-11-19 |
 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 | 2023-08-25 | 2023-10-03 |
-| [Last laugh](https://open.spotify.com/track/33vTlWHD9oEQJnK9sYQt2Z) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/12vWZKcSKJ7rGhxlokqgjD) | 2:55 | 2023-09-29 |  |
+| [Last laugh](https://open.spotify.com/track/33vTlWHD9oEQJnK9sYQt2Z) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/12vWZKcSKJ7rGhxlokqgjD) | 2:55 | 2023-09-29 | 2023-10-08 |
+| [Last Laugh](https://open.spotify.com/track/4XLiFMuhx1YgOVSkonaC1E) | [oryvn](https://open.spotify.com/artist/6KCyRdZLMmlbZ4mApMNuYK) | [Last Laugh](https://open.spotify.com/album/5oTHwAFtYpgOwfZpUrpKoO) | 2:55 | 2023-10-06 |  |
 | [Last Laugh](https://open.spotify.com/track/2ZZ2oXSD8ogObbJ1ydOHHJ) | [Slinqeh](https://open.spotify.com/artist/6ETwp3PoT1YZ8b4yloyylU) | [Last Laugh](https://open.spotify.com/album/0MImvHEJbrK7myhmRyv60X) | 2:55 | 2023-09-22 | 2023-10-01 |
 | [Left Right](https://open.spotify.com/track/35rVahLCBH2od5nPU0D7zF) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Left Right](https://open.spotify.com/album/2FfujJs6RbwqGJKJRT9G30) | 2:00 | 2023-03-03 | 2023-06-03 |
 | [Like Dat \- Remix](https://open.spotify.com/track/5o7gax2i8xXhrJyk2TA5YJ) | [Stunna Girl](https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Like Dat \(Remix\)](https://open.spotify.com/album/2uElhN7gFctTBwTmESMxcj) | 2:22 | 2023-07-28 |  |

@@ -4,7 +4,7 @@
 
 > dk rap holder det 100 lige nu 🚨  ICEKIID tar forsiden
 
-53 songs - 2 hr 19 min
+55 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
 | [CPH CITY](https://open.spotify.com/track/19x15dgq2VMEqb7tH5r4kO) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [CPH CITY](https://open.spotify.com/album/5fVv3UKquiZIXBrYfvCmCh) | 2:09 | 2023-09-21 |  |
 | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO) | [Pooyandeh](https://open.spotify.com/artist/5UMWdEM0A0J6h27FgaICOS), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [De Forbudte Trin \(feat\. Benny Jamz\)](https://open.spotify.com/album/51dPCd7L8zdDZNzGeCASeV) | 2:43 | 2023-09-21 |  |
+| [DISCO FOMO](https://open.spotify.com/track/46dax66BvUDwO3b15Dc3ZH) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [DISCO FOMO](https://open.spotify.com/album/1uzvZpLr8jnwtlEjukbDT4) | 2:39 | 2023-10-06 |  |
 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 | 2023-09-21 |  |
 | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Du Min \(Frk\. Escobar\)](https://open.spotify.com/album/3Y1sF71OVCLAPfwekAViUB) | 2:06 | 2023-09-21 |  |
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 |  |
 | [Feeling Myself \- Shooter Gang Remix](https://open.spotify.com/track/2o4MYiPOmV2A7GAhs3ckrY) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Feeling Myself \(Shooter Gang Remix\)](https://open.spotify.com/album/0nuDeMCXPzfCwJNtArjVUS) | 3:32 | 2023-09-21 |  |
+| [Fiesta](https://open.spotify.com/track/63LAurQHWMq3ARoZLxClgU) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Fiesta](https://open.spotify.com/album/2orIoKQ5g0mxhWZyh8umbZ) | 2:05 | 2023-10-06 |  |
 | [Hele Vejen Ind \(feat\. Gilli\)](https://open.spotify.com/track/1CsNJtHR4s0eZ7CmyoCtQZ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:28 | 2023-09-21 |  |
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 |  |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 |  |

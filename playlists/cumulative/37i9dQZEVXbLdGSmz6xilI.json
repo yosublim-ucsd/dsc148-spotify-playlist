@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
+        "url": "https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Anh Lu\u00f4n Nh\u01b0 V\u1eady",
+      "url": "https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs"
+    },
+    {
+      "album": {
         "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
         "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 223783,
       "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
       "url": "https://open.spotify.com/track/6HpkHTTwfVmSoopeloHqOp"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 274620,
       "name": "B\u00f3ng Ph\u00f9 Hoa",
       "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
@@ -2505,7 +2523,7 @@
     },
     {
       "album": {
-        "name": "B\u1ea1n \u0110\u1eddi (feat. GDucky)",
+        "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
       "artists": [
@@ -2522,7 +2540,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 300718,
-      "name": "B\u1ea1n \u0110\u1eddi (feat. GDucky)",
+      "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
     },
     {
@@ -2920,6 +2938,32 @@
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e0i \u0110i\u1ebfp No\u1ecdng (Anh Y\u00eau Em)",
+        "url": "https://open.spotify.com/album/6Jymtx2EcBUuOLz8mgvPL0"
+      },
+      "artists": [
+        {
+          "name": "Double2T",
+          "url": "https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf"
+        },
+        {
+          "name": "Ho\u00e0 Minzy",
+          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
+        },
+        {
+          "name": "D\u01b0\u01a1ngK",
+          "url": "https://open.spotify.com/artist/5eN5Uj1HO01yk10v7aQsaz"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258194,
+      "name": "Ch\u00e0i \u0110i\u1ebfp No\u1ecdng - Anh Y\u00eau Em",
+      "url": "https://open.spotify.com/track/758HpAro9xbPugUESFncw0"
     },
     {
       "album": {
@@ -5942,6 +5986,28 @@
       "duration_ms": 223154,
       "name": "Gi\u1ea5c M\u01a1 Kh\u00e1c",
       "url": "https://open.spotify.com/track/5YiqPAVbiFUj1G1qvbXo0X"
+    },
+    {
+      "album": {
+        "name": "Gi\u1edd Th\u00ec Ai C\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/2RMjhvldsFe8ZsHHhnRsQT"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        },
+        {
+          "name": "Kewtiie",
+          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "Gi\u1edd Th\u00ec Ai C\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/0CKe6iIHpuoArjOsT4iese"
     },
     {
       "album": {
@@ -10186,7 +10252,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 232173,
       "name": "Ng\u00f5 Ch\u1ea1m",
       "url": "https://open.spotify.com/track/0Qs29ApstkrU5T8S5Hxazw"
@@ -10244,7 +10310,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 147475,
       "name": "ng\u01b0\u1eddi \u0111i\u00ean",
       "url": "https://open.spotify.com/track/2QUU1AtY5fndKDNbr17EFk"
@@ -10930,7 +10996,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -12762,7 +12828,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -16114,6 +16180,24 @@
       "duration_ms": 223535,
       "name": "Yet To Come (Hyundai Ver.)",
       "url": "https://open.spotify.com/track/4ncTUgTfUV3wrjTPzKvn01"
+    },
+    {
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179864,
+      "name": "You & Me (Coachella ver.)",
+      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
     },
     {
       "album": {

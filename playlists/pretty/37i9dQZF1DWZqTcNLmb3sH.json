@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 53782,
+  "num_followers": 53867,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmIwNDEyY2ZmNTM3MGZhMDhiMDAyMTNiYTc3ODI2M2FjNWQwYmJk",
+  "snapshot_id": "MCwyYWE3YjY2Y2Q4ODQ0YjIxNGZlZWFlMzIxMzBmMmJkMDQwNGVjNjEw",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -53,6 +53,30 @@
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
     },
     {
+      "added_at": "2023-10-07 10:52:02",
+      "album": {
+        "name": "Badass [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5uPNtWBijOzS5rmhbWXsyi"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sai Charan",
+          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
+        }
+      ],
+      "duration_ms": 230541,
+      "name": "Badass (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/7DUk3gZnRCAbpl1FFQp4OW"
+    },
+    {
       "added_at": "2023-10-04 11:00:27",
       "album": {
         "name": "Bad Manners (Original Motion Picture Soundtrack)",
@@ -71,6 +95,22 @@
       "duration_ms": 186915,
       "name": "I\u2019M IN Love",
       "url": "https://open.spotify.com/track/344Y5pjalizVER38YjdUes"
+    },
+    {
+      "added_at": "2023-10-07 10:55:54",
+      "album": {
+        "name": "Ronnie - The Hunter",
+        "url": "https://open.spotify.com/album/7aCgJef0ecRYjrLHTxnCtL"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 195201,
+      "name": "Hey Ivan Yaro",
+      "url": "https://open.spotify.com/track/2AAbCJPAwCHxElbz34ps3F"
     },
     {
       "added_at": "2023-09-20 12:59:03",
@@ -95,6 +135,22 @@
       "duration_ms": 151000,
       "name": "Bad Boys (from \"Bheema\")",
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
+    },
+    {
+      "added_at": "2023-10-07 10:55:54",
+      "album": {
+        "name": "Magalalla (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/63fGaUgWVnzRlrmQkvYp64"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 266022,
+      "name": "Magalalla (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/7z58mpa9Tx6SdwHmn6olYB"
     },
     {
       "added_at": "2023-10-06 10:56:03",
@@ -904,8 +960,8 @@
       },
       "artists": [
         {
-          "name": "Abhishek",
-          "url": "https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE"
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
         },
         {
           "name": "V. Manohar",
@@ -1543,26 +1599,6 @@
       "duration_ms": 221612,
       "name": "Panchali - From \" Kandor Mane Kathe \"",
       "url": "https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO"
-    },
-    {
-      "added_at": "2023-07-21 06:52:36",
-      "album": {
-        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
-        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
-        }
-      ],
-      "duration_ms": 180405,
-      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
-      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
     },
     {
       "added_at": "2023-07-04 11:00:31",

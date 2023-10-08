@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: ROTO AMOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,951 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,964 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 34 | [Panorama](https://open.spotify.com/track/3tpinWQRwHp4UsBA7A1GHp) | [Eira](https://open.spotify.com/artist/2Wxv0u0QvT9nBcdRxv6G9v) | [PANORAMA](https://open.spotify.com/album/4WZYtu72SWxlFelWSPhI5a) | 4:14 |
 | 35 | [Oración](https://open.spotify.com/track/7s7gzE67biLyWzEUozTFcB) | [Alexanderplatz](https://open.spotify.com/artist/4MgQpyj1kTnCp5UqEUgW6t) | [Noches Blancas, Mañanas Negras](https://open.spotify.com/album/1RjeqzJflnHMrBujrohix2) | 3:49 |
 | 36 | [sois todos unos mierdas](https://open.spotify.com/track/3eHaQ4eZVN191gRcNOBqAX) | [Señor Torrance](https://open.spotify.com/artist/7uaAm14EP7uflcACRPYAD6) | [sois todos unos mierdas](https://open.spotify.com/album/09TDZWGomNyuicFGPtS6Dw) | 2:55 |
-| 37 | [Horas antes](https://open.spotify.com/track/4UXBEuL4jiCHNUUX7ApvR1) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M) | [En Marte](https://open.spotify.com/album/2Q8HDJaYwaIJw0eG7zKAMd) | 3:06 |
+| 37 | [Horas antes](https://open.spotify.com/track/4UXBEuL4jiCHNUUX7ApvR1) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M), [Ariadna Punsetes](https://open.spotify.com/artist/6FYsATaUMLDD3F7SVCWXNY) | [En Marte](https://open.spotify.com/album/2Q8HDJaYwaIJw0eG7zKAMd) | 3:06 |
 | 38 | [Apocalypso](https://open.spotify.com/track/6TdtHVuzgo0v64tNApzLb5) | [Activos Tóxicos](https://open.spotify.com/artist/3ALVFmn9ZqWmSf3vJqYO7y) | [Apocalypso](https://open.spotify.com/album/5VDJqX7h5IpYQgvlmSGrwk) | 3:25 |
 | 39 | [SOY UN CRIMINAL](https://open.spotify.com/track/2SmOurMweEev3CfF94G3lu) | [Bloody Valentine](https://open.spotify.com/artist/7857xqBUZAsLQmPZ67dQ6k) | [SOY UN CRIMINAL](https://open.spotify.com/album/7J0xlhGCG349rFXoqpiaHE) | 2:58 |
 | 40 | [El hombre excepcional](https://open.spotify.com/track/3GuAxjOGcz3Ye3Odjn14AX) | [Casino Montreal](https://open.spotify.com/artist/0VXzhlJIwcZxSkxRUqIAG5) | [El hombre excepcional](https://open.spotify.com/album/1lJrOVAv1BrM9ttXhIzjup) | 4:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Zombii](https://open.spotify.com/track/2j4FcxUz7GVtPClsTLuLdE) | [Diego 900](https://open.spotify.com/artist/6PMkeaQ3DLnaBuhjfmSefK) | [Zombii](https://open.spotify.com/album/5tn7LTIMnyqnVyzliZ1CSJ) | 2:48 |
 | 50 | [MICPAPALOTL](https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f) | [PURGATORIO](https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl) | 1:58 |
 
-Snapshot ID: `MCwyZDhiMDFkMWZmOTdjYzg3NDk5MTY1YTU3ZjkwM2RlYTVmZGEyM2M2`
+Snapshot ID: `MCw3ODc4YjdmOWFjNTM4OTkwMjEzNWRlNjIzODUwZGEwMTc4NTg4Yzll`

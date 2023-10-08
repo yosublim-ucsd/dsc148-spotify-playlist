@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 9395,
+  "num_followers": 9444,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4",
+  "snapshot_id": "MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -463,18 +463,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
       },
       "artists": [
         {
-          "name": "Fatboy SSE",
-          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 148330,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -495,22 +499,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Fatboy SSE",
+          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
         }
       ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+      "duration_ms": 148330,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
     },
     {
       "added_at": "2022-10-01 20:31:11",

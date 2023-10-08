@@ -1,12 +1,12 @@
 {
   "description": "Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song. \u6700\u65b0\u4f5c\u300eFFXVI\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 180404,
+  "num_followers": 180450,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDA2ZGQ2OTk4ZTdmMzU5NTFiYjhlZTcxZmU4ODZiOTQ2M2Q2MGM4",
+  "snapshot_id": "MCxjMzVhZTBhNGM1NGNkYTBlN2Q0Nzg2NGNjOWU5NDA0ZjI1MDg2MDg3",
   "tracks": [
     {
       "added_at": "2023-07-06 04:37:32",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+          "name": "Hitoshi Sakimoto",
+          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Paradigm Shift",
-      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
+      "duration_ms": 69826,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
       "artists": [
         {
-          "name": "Hitoshi Sakimoto",
-          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
         }
       ],
-      "duration_ms": 69826,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
+      "duration_ms": 229600,
+      "name": "Paradigm Shift",
+      "url": "https://open.spotify.com/track/2vWEcYBAFGf3PxPl6B7Sem"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
-        "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
-      },
-      "artists": [
-        {
-          "name": "\u5ca1\u90e8\u5553\u4e00",
-          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
-      "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
         "name": "Chocobo's Dungeon 2(Original Soundtrack)",
         "url": "https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 130065,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "FINAL FANTASY XV Original Soundtrack (Volume 2\u30101/2\u3011)",
+        "url": "https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237"
+      },
+      "artists": [
+        {
+          "name": "\u5ca1\u90e8\u5553\u4e00",
+          "url": "https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Shield of the King - Theme of EPISODE GLADIOLUS",
+      "url": "https://open.spotify.com/track/0WNbPyB5oFHqoYA8aiRPk7"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "\u5d0e\u5143\u4ec1",
+          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
+        }
+      ],
+      "duration_ms": 253173,
+      "name": "Eruyt Village",
+      "url": "https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
         "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
         "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 61626,
       "name": "FFVII REMAKE: \u30b7\u30f3\u30af\u30fb\u30aa\u30a2\u30fb\u30b9\u30a4\u30e0 (Sync or Swim)",
       "url": "https://open.spotify.com/track/4nMfIV0wwInFtocDHlKsst"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
-        "name": "FINAL FANTASY XII Original Soundtrack",
-        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
-      },
-      "artists": [
-        {
-          "name": "\u5d0e\u5143\u4ec1",
-          "url": "https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Eruyt Village",
-      "url": "https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
+        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
       "artists": [
         {
-          "name": "Keiki Kobayashi",
-          "url": "https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc"
+          "name": "\u4e0a\u677e\u7bc4\u5eb7",
+          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
         }
       ],
-      "duration_ms": 530733,
-      "name": "FFVII REMAKE: \u30d8\u30ea\u30ac\u30f3\u30ca\u30fc (The Valkyrie)",
-      "url": "https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj"
+      "duration_ms": 147360,
+      "name": "Peaceful Village",
+      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1003,18 +1003,34 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3"
       },
       "artists": [
         {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+          "name": "Keiki Kobayashi",
+          "url": "https://open.spotify.com/artist/5U0TRuWrfXCaEJ0YDGe5bc"
         }
       ],
-      "duration_ms": 105960,
-      "name": "Character Creation",
-      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
+      "duration_ms": 530733,
+      "name": "FFVII REMAKE: \u30d8\u30ea\u30ac\u30f3\u30ca\u30fc (The Valkyrie)",
+      "url": "https://open.spotify.com/track/31HTwiSRqOjVQ7GY9GViFj"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Sunset Path",
+      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1039,50 +1055,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
         }
       ],
-      "duration_ms": 343320,
-      "name": "Sunset Path",
-      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u677e\u7bc4\u5eb7",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Peaceful Village",
-      "url": "https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz"
-    },
-    {
-      "added_at": "2023-07-06 04:37:32",
-      "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
-      },
-      "artists": [
-        {
-          "name": "frances maya",
-          "url": "https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Serah's Theme - Memories -",
-      "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
+      "duration_ms": 105960,
+      "name": "Character Creation",
+      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1099,6 +1083,22 @@
       "duration_ms": 64599,
       "name": "My Life to Live",
       "url": "https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva"
+    },
+    {
+      "added_at": "2023-07-06 04:37:32",
+      "album": {
+        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+      },
+      "artists": [
+        {
+          "name": "frances maya",
+          "url": "https://open.spotify.com/artist/3vjb2VixFQA4dzL83dYgOT"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Serah's Theme - Memories -",
+      "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
+        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
       },
       "artists": [
         {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+          "name": "\u4e0a\u677e\u7bc4\u5eb7",
+          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
         }
       ],
-      "duration_ms": 53666,
-      "name": "World Map",
-      "url": "https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0"
+      "duration_ms": 170666,
+      "name": "DUEL!!",
+      "url": "https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD"
     },
     {
       "added_at": "2023-07-06 04:37:32",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-06 04:37:32",
       "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
       },
       "artists": [
         {
-          "name": "\u4e0a\u677e\u7bc4\u5eb7",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
         }
       ],
-      "duration_ms": 170666,
-      "name": "DUEL!!",
-      "url": "https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD"
+      "duration_ms": 53666,
+      "name": "World Map",
+      "url": "https://open.spotify.com/track/63oTkgAeAr2FxrKBtIzkL0"
     },
     {
       "added_at": "2023-07-06 04:37:32",

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-253 songs - 15 hr 41 min
+254 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 | 2022-06-01 | 2023-05-26 |
 | [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-06-01 | 2022-10-01 |
 | [Nothing](https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h) | 3:36 | 2023-06-10 | 2023-09-15 |
+| [Nothing](https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML) | 3:36 | 2023-07-13 |  |
 | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/6vREtE2UPe78r9FfuoBtJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/album/28MXle4STHNFbcx9qwreVY) | 4:13 | 2022-02-18 | 2022-06-01 |
 | [Okay](https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 3:55 | 2022-07-17 | 2022-12-17 |
 | [Okay \- Acoustic](https://open.spotify.com/track/02oApVYn8WQSLkahzSlgvF) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey: Acoustic Sessions](https://open.spotify.com/album/2HvjY8R1wvlAO3qK6tGZYj) | 5:22 | 2022-12-16 | 2023-03-26 |
@@ -238,7 +239,7 @@
 | [We Go On](https://open.spotify.com/track/6QgOkpZuQeXir9VuZ1XQpS) | [JohnO](https://open.spotify.com/artist/54UStWacHNCX7BuP0mcd0f), [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU), [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv), [Ashley Merrell](https://open.spotify.com/artist/0oCCluoBZH1RG3WOp64SGa) | [We Go On](https://open.spotify.com/album/39IS2G3B2dc1zzeTZ2oWNT) | 3:32 | 2022-06-01 | 2022-07-18 |
 | [We Gon’ Be Alright](https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [We Gon’ Be Alright](https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb) | 3:34 | 2022-02-18 | 2022-10-01 |
 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 | 2022-02-18 | 2022-07-16 |
-| [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 | 2022-12-16 |  |
+| [WES](https://open.spotify.com/track/1Fu9ShPcWVRufPrhyTucB8) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [WES](https://open.spotify.com/album/2OuiDIceUU6HfAwvtucypW) | 1:54 | 2022-12-16 | 2023-10-08 |
 | [What?](https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v) | [Reece Lache](https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe) | [What?](https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw) | 2:12 | 2023-07-13 |  |
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2023-07-13 |  |
 | [Where Do We Go?](https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe) | [Where Do We Go?](https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m) | 3:34 | 2022-07-17 | 2022-09-19 |

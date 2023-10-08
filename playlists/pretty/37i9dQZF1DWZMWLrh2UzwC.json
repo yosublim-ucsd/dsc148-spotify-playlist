@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: James Arthur",
-  "num_followers": 62410,
+  "num_followers": 62419,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2M3N2E1NTk2ZmE4ZDUyZDhmNGQ0MTU5MWZhNTM4ZTZiNTM0NmJk",
+  "snapshot_id": "MCwyMzViNWE0NzY5NGFiZjA5NmZlOWU3NTdjODM4YzI3NWE4MmRhNjFk",
   "tracks": [
     {
       "added_at": "2023-10-06 13:22:25",
@@ -59,26 +59,6 @@
       "duration_ms": 220878,
       "name": "GODS",
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
-    },
-    {
-      "added_at": "2023-10-06 10:00:00",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 133694,
-      "name": "Gently (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
     },
     {
       "added_at": "2023-10-05 16:00:00",

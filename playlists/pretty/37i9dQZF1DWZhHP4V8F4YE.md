@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,676 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,826 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Hotspot](https://open.spotify.com/track/28PDHCkELl8cwOtCdksjWE) | [Combo M](https://open.spotify.com/artist/5dOFdrZEOqCk0Lc6rFyL1B), [Mrnationthingz](https://open.spotify.com/artist/76DDGfFwEZav6E1lC2QXGf), [Cuba Beats](https://open.spotify.com/artist/2GyTwPnCWi2COPYXy6ZA5D), [Sickoo](https://open.spotify.com/artist/5WaZy4jMXKbxEHPd8BQFmM), [Rockess](https://open.spotify.com/artist/3DBgVmiqXyYtoxSpjbpEWX), [DJ Sicky](https://open.spotify.com/artist/7tUGaH6Ba1CczzxvQfVXD1), [Ndodana](https://open.spotify.com/artist/6YXeuEA7AhRZXmrZzPUWo5) | [Hotspot](https://open.spotify.com/album/7vj9WtiotylvS3rKrJuBmG) | 7:00 |
 | 50 | [Enjoy](https://open.spotify.com/track/3osydJRsRqgVFKYTC04QfT) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/3uY2fylWZaffBO94cxXQ15) | 3:36 |
 
-Snapshot ID: `MCw2NzA2ODlkYzE1MjZjZGZhYzhmMDYzODY4ZDI4ZWE3ODM1MjZkZjRj`
+Snapshot ID: `MCxiNzMwYjIyOWExYmI4ODIwMjkwOGEwM2IxODg4NWJhMDEyYTkzN2Ix`

@@ -1910,10 +1910,28 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 238759,
       "name": "Roll Up",
       "url": "https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp"
+    },
+    {
+      "album": {
+        "name": "Roll Up",
+        "url": "https://open.spotify.com/album/5pkgasaGKBAfkQaX9qh1cd"
+      },
+      "artists": [
+        {
+          "name": "Onetox",
+          "url": "https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238817,
+      "name": "Roll Up",
+      "url": "https://open.spotify.com/track/5EL3mthg2SPEdP9TwatN13"
     },
     {
       "album": {

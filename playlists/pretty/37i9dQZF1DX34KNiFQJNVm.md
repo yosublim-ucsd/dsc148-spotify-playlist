@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Kayblack, Orochi, Zé Neto e Cristiano, Marvvila e Ferrugem, Zé Vaqueiro e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925,076 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,241 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 77 | [QUEM?](https://open.spotify.com/track/02xe8NW9qbBGbTa4YPkSCg) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [O que restou da Maravilha](https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115) | 3:29 |
 | 78 | [Me Fez Amar de Novo](https://open.spotify.com/track/5u2a7RV4tqIiZ9vt6eKuko) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Ally](https://open.spotify.com/artist/4xbyEoedyrmxC6tSvgQMAL) | [Me Fez Amar de Novo](https://open.spotify.com/album/5DWvmtgrNwdIqIBNeBnADT) | 2:01 |
 | 79 | [Perfume](https://open.spotify.com/track/0iEqAFVolSRjNO7QfSIdcy) | [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Perfume](https://open.spotify.com/album/7mFNw3vikr8G13lIBCSDxh) | 4:17 |
-| 80 | [RONDA](https://open.spotify.com/track/4qXWCHYhSUU2T2iOZ1Ii7r) | [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [LUCK MUZIK](https://open.spotify.com/artist/6TgnCKfAyBGVZulajHd4z2), [PJ HOUDINI](https://open.spotify.com/artist/1chXOAFTEijaLjhalYtJ3J) | [RONDA](https://open.spotify.com/album/0Hx1mEEBQkWQL5lIvXskmR) | 3:46 |
+| 80 | [RONDA](https://open.spotify.com/track/4qXWCHYhSUU2T2iOZ1Ii7r) | [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim) | [RONDA](https://open.spotify.com/album/0Hx1mEEBQkWQL5lIvXskmR) | 3:46 |
 | 81 | [Até de Manhã](https://open.spotify.com/track/7xAJp2toTcnzL6nHuLRGbF) | [Andreo](https://open.spotify.com/artist/4Y2FfGIalhyHQq03xtWivO), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Até de Manhã](https://open.spotify.com/album/0L23YcgwXdPNlQ4IFss6Ps) | 2:01 |
-| 82 | [Assim Sou Eu](https://open.spotify.com/track/3l7wDRcnxzodWgxxTLhgba) | [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU) | [Naldo Bem Romântico \(Acústico\)](https://open.spotify.com/album/22fcJEBXBYUi21TTwnLB5Q) | 4:21 |
+| 82 | [Assim Sou Eu](https://open.spotify.com/track/3l7wDRcnxzodWgxxTLhgba) | [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU) | [Naldo Ben Romântico \(Acústico\)](https://open.spotify.com/album/22fcJEBXBYUi21TTwnLB5Q) | 4:21 |
 | 83 | [Fi da Bagaceira](https://open.spotify.com/track/1LX1NVNmZYubu2xWi5cATa) | [Renan Rozendo](https://open.spotify.com/artist/5JN8A6CGRB85lY2IzjHmol), [Adriano Rhod](https://open.spotify.com/artist/1rzgK16tw9LTPmu6eMFyMF) | [Fi da Bagaceira](https://open.spotify.com/album/2MBtChAS9slPfmspeha1Mt) | 2:14 |
 | 84 | [Eu Te Amo Canalha \- Ao Vivo](https://open.spotify.com/track/2AH168MdcguZ5S0mO9cUW3) | [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5), [João Carreiro](https://open.spotify.com/artist/3BwCvUfnT11B2jJtFZMtfH) | [Eu Te Amo Canalha \(Ao Vivo\)](https://open.spotify.com/album/4VAf61sOtcNDSZrYm7FPPd) | 2:58 |
 | 85 | [Te Esquecer Demora \- Na Linha do Tempo \(ao Vivo\)](https://open.spotify.com/track/7ewN4cvOSPrArZCVBya4ix) | [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Te Esquecer Demora \[Na Linha do Tempo \(ao Vivo\)\]](https://open.spotify.com/album/6j4qXdiwwbFJdr11gU4zPc) | 2:42 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 | 98 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
 
-Snapshot ID: `MCxlNWE3MDhlYTk0ZjY5ZGU3OGY1ZTkwZmI3ZDJjMmMyOTY3YmFhNzY2`
+Snapshot ID: `MCw0YmI4N2Q1ZDJkZTdhMjcwMjUwNjYyYTY5ODVlNTE5YzAzNjRhMTQz`

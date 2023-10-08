@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 101321,
       "name": "ALORS BRAZIL",
       "url": "https://open.spotify.com/track/0k9k2Mr1gR7zeSLiNAqimY"
@@ -1952,7 +1952,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 104000,
       "name": "baby don\u2019t go away",
       "url": "https://open.spotify.com/track/3njlQ0PImgOG2tmtYPXHq2"
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "BRING IT - Live",
+        "url": "https://open.spotify.com/album/729ZKzSAzpi6soLaNoNjrC"
+      },
+      "artists": [
+        {
+          "name": "Didi Early Rave",
+          "url": "https://open.spotify.com/artist/4Knu7T9eclAJrqgLfZKdMX"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260713,
+      "name": "BRING IT - Live",
+      "url": "https://open.spotify.com/track/5xstLG6prQ4Hv1DN3WhY8M"
+    },
+    {
+      "album": {
         "name": "BRING IT (Live)",
         "url": "https://open.spotify.com/album/0zNnq9hq84vRKj6DBwe7qn"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 260713,
       "name": "BRING IT - Live",
       "url": "https://open.spotify.com/track/6ZVcJmwoh9xBmFazpXs7GL"
@@ -16092,7 +16110,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
@@ -18868,7 +18886,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 213164,
       "name": "Peroxid 2",
       "url": "https://open.spotify.com/track/47GzDsw0ExxadwAjucnq4M"
@@ -23402,7 +23420,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 152582,
       "name": "STFU (feat. Calin & SIMILIVINLIFE)",
       "url": "https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc"
@@ -27670,7 +27688,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-08",
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"

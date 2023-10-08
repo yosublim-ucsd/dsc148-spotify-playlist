@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 23926,
+  "num_followers": 23957,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjI0NTRkMDU1ZDI3Mzc2ZjFiNjUxZGMyMjdiOTNlMThmMTNhMmI0",
+  "snapshot_id": "MCw5NDMzODRkMWM3NGE1MGJmNzdmMDI1YWZhN2ZiZGFmNGJmYjk2YzFi",
   "tracks": [
     {
       "added_at": "2023-09-15 10:05:24",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-09-15 10:05:24",
       "album": {
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
+    },
+    {
+      "added_at": "2023-09-15 10:05:24",
+      "album": {
         "name": "Reventar la Ciudad",
         "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 209271,
       "name": "Reventar la Ciudad",
       "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
-    },
-    {
-      "added_at": "2023-09-15 10:05:24",
-      "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-09-15 10:05:24",

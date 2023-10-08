@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-130 songs - 3 hr 29 min
+131 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [It's Peppa Pig](https://open.spotify.com/track/3XKXa1U5reVWFTvGlBbJ7B) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:25 | 2022-04-15 | 2023-09-01 |
 | [It's Peppa Pig](https://open.spotify.com/track/7K8zUaZX1v6kJzFwA4mt31) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:25 | 2023-01-27 |  |
 | [It's Such a Good Feeling!](https://open.spotify.com/track/05DnLOyGvZqA3NmyfS3fp2) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [Daniel Tiger's Neighborhood: Big Feelings](https://open.spotify.com/album/3uhrWaD9eVHfzzI5jpr4y8) | 1:34 | 2022-04-15 | 2022-07-28 |
-| [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 | 2022-04-15 |  |
+| [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 | 2022-04-15 | 2023-10-08 |
 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 | 2022-04-15 |  |
 | [Life Is Better Loud](https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BTNO46O7ZLNl24G7LT8JJ) | 2:29 | 2022-04-15 | 2023-09-12 |
 | [Life Is Better Loud](https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Z4tgcBgcgGtkK7zdf9gDT) | 2:29 | 2022-04-15 | 2022-10-11 |
@@ -104,6 +104,7 @@
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p) | 2:35 | 2022-04-15 | 2022-11-24 |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/6zE8WAlvEiCW3riCVoOqJQ) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/4z2aJmtcWdIkoePZfSMiN7) | 2:35 | 2022-04-15 |  |
+| [Shine On Everyone](https://open.spotify.com/track/5Qy4yGFjXdkEAsmIIcagWg) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [PJ Power Up](https://open.spotify.com/album/4NplMo0hWhheo1PR9LQOie) | 1:41 | 2023-01-27 |  |
 | [Shine On Everyone](https://open.spotify.com/track/7nTCmhPnplDQ21oOyeh5wd) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Shine On Everyone](https://open.spotify.com/album/5M4wisJxzqcU0GVQaOFv9E) | 1:41 | 2022-04-15 | 2022-07-29 |
 | [Sid the Science Kid Theme Song](https://open.spotify.com/track/131DnrFnS9XAKQX0LG70AJ) | [Jim Henson's Sid the Science Kid](https://open.spotify.com/artist/24J1jPqrTfwaASivMTPuHd) | [Work Your Body](https://open.spotify.com/album/66hZhoeuuTFV9gMpv1ZzwY) | 0:33 | 2022-04-15 | 2022-07-29 |
 | [SpongeBob SquarePants Theme](https://open.spotify.com/track/1L76g7YKUBaOobB192tZBz) | [Painty The Pirate and Kids](https://open.spotify.com/artist/6crTzJTM4gbjjqF1FKFMw1) | [Spongebob Squarepants: Original Theme Highlights](https://open.spotify.com/album/7rGK4xRxVlmDuV7dKsGZZn) | 0:45 | 2022-04-15 | 2022-07-29 |

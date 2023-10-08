@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,830 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,851 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 95 | [O Christmas Tree \- Acoustic](https://open.spotify.com/track/1KS9XTm3LUIBPHWMfwUdp5) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [O Christmas Tree \(Acoustic\)](https://open.spotify.com/album/6RoLTReIYJe8IS45SfCkt5) | 3:01 |
 | 96 | [Santa Tell Me](https://open.spotify.com/track/2k5EzUIrgUtMa3dN6AG4h5) | [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Santa Tell Me](https://open.spotify.com/album/3feETJ0kuaBvBkV3A01UWk) | 3:55 |
 | 97 | [Hallelujah](https://open.spotify.com/track/4Cf29FCJVbDU9szjtXQjoK) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Hallelujah](https://open.spotify.com/album/4pilz2Q1kExS7zeL2AVN9a) | 3:16 |
-| 98 | [Christmas Night In Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night In Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
+| 98 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 |
 | 99 | [Frosty the Snowman](https://open.spotify.com/track/6P0YUPZfoluJU2zKkSUNVT) | [Karizma Duo](https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg) | [Playlist of Christmas Songs](https://open.spotify.com/album/13Gygts2YXzvvvCq1wIUql) | 2:22 |
 | 100 | [Baby, It's Cold Outside](https://open.spotify.com/track/7jCljZFQGhUqK1dNPtfvMQ) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Baby, It's Cold Outside](https://open.spotify.com/album/3eSv2kdz0jDZl8Vx9Oiakt) | 2:24 |
 | 101 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 104 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 |
 | 105 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 |
 
-Snapshot ID: `MCxjODUwZjEzMmJkMDQwNjViMjc3ODA2MmQ1Zjk1M2I3YmJmNDdlOWI0`
+Snapshot ID: `MCwxMWQ3ZDE1YjNhMDM5NDM0MTRlYjU1YzZiYzA1NWM1ZTY2NDI3NDRm`

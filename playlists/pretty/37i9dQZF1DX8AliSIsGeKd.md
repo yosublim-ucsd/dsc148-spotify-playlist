@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Natascha Polké, Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,347 likes - 90 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,467 likes - 90 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 23 | [Forgiven](https://open.spotify.com/track/35WIolcPFX8o9T6Oc09Crw) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Confess EP](https://open.spotify.com/album/0xzoumT1rOp9wAbSRrGzW2) | 4:48 |
 | 24 | [Zero Zero \- Short Version](https://open.spotify.com/track/2qyI2d0ZVGoRPxATdqlWzu) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Zero, Pt\. One](https://open.spotify.com/album/2yWMib1kWFv8GdPd1vwWnu) | 3:06 |
 | 25 | [We Are Here We Are Now](https://open.spotify.com/track/5CtIAoZ3TZ0jkJ6iZNxOec) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Triation, Vol\. VII](https://open.spotify.com/album/5Ua0XvbpCuRRVkadjuyfQF) | 6:30 |
-| 26 | [Dark Horse \- Made By Pete Remix](https://open.spotify.com/track/21nJZXRVuZeMrz6OL79sBZ) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp), [Kyozo](https://open.spotify.com/artist/2JL12OG1szArgPZu7Tw4zL), [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Dark Horse \(Made By Pete Remix\)](https://open.spotify.com/album/3UQmNGDjz41NkcOr1s5S1T) | 7:38 |
+| 26 | [Dark Horse \- Made By Pete Remix](https://open.spotify.com/track/21nJZXRVuZeMrz6OL79sBZ) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v), [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Dark Horse \(Made By Pete Remix\)](https://open.spotify.com/album/3UQmNGDjz41NkcOr1s5S1T) | 7:38 |
 | 27 | [Peaceful Warrior](https://open.spotify.com/track/431bgVTFlhvev9TcmMy0a4) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Peaceful Warrior](https://open.spotify.com/album/6Au2XRVA00fntflRv7kjgS) | 6:32 |
 | 28 | [ARC](https://open.spotify.com/track/0BHo6ymQzMoayckXEvbTqq) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [ARC](https://open.spotify.com/album/6c7WxPBam3QF2RaHzXCuB2) | 7:02 |
 | 29 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 |
 | 90 | [Grown On Me](https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Grown On Me](https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH) | 3:56 |
 
-Snapshot ID: `MCw5MDUxZTNhZTZiNjNhMjYwMjUyMzhkMDE3NmZjMjE4ZjI0OWNkYmE2`
+Snapshot ID: `MCw1YzFiYjlhYTg2MTE0ZjljMTAxNGQxMWUwMzA2NTQ4YWEwZWEwNWI0`
