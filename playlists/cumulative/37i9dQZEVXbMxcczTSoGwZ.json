@@ -10467,6 +10467,46 @@
     },
     {
       "album": {
+        "name": "Ime huiluu (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/4QINbnAVs66JbpdtSjNM0O"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150996,
+      "name": "Ime huiluu - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/7f6VypEU8LL0LnI33tJP6v"
+    },
+    {
+      "album": {
+        "name": "Imus (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
+        "url": "https://open.spotify.com/album/1zhWMCujUwiKkarQKztW1a"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        },
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182147,
+      "name": "Imus - Vain el\u00e4m\u00e4\u00e4 kausi 14",
+      "url": "https://open.spotify.com/track/3fX9l40wogPWEVuBIgnfPu"
+    },
+    {
+      "album": {
         "name": "In corpore sano",
         "url": "https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI"
       },
@@ -17034,7 +17074,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 159260,
       "name": "Menet\u00e4n mun j\u00e4rjen",
       "url": "https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5"
@@ -20587,6 +20627,28 @@
     },
     {
       "album": {
+        "name": "Oulun kyl\u00e4st ikuisuuteen (feat. pehmoaino) [Vain el\u00e4m\u00e4\u00e4 kausi 14]",
+        "url": "https://open.spotify.com/album/3fqaOr1UbhLqg8ZhgKwp9k"
+      },
+      "artists": [
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        },
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208116,
+      "name": "Oulun kyl\u00e4st ikuisuuteen (feat. pehmoaino) [Vain el\u00e4m\u00e4\u00e4 kausi 14]",
+      "url": "https://open.spotify.com/track/4VYCo1lfOlqGCynP15BU3W"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -24112,7 +24174,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 176632,
       "name": "Seuraavassa el\u00e4m\u00e4ss\u00e4",
       "url": "https://open.spotify.com/track/1hbUAI1nftaeGUMrcGFYkW"
@@ -24686,7 +24748,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 284516,
       "name": "Sin\u00e4 l\u00e4hdet, min\u00e4 j\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/2UIHqdjuY00JNF4BgUL1hn"

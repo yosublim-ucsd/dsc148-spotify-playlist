@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Georgio, Patrick Watson
 
-2,085 songs - 4 day 15 hr 23 min
+2,086 songs - 4 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [92i MAYBACH](https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [ROUGE NÉON](https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj) | 2:41 | 2023-04-28 | 2023-06-17 |
 | [???](https://open.spotify.com/track/1VypWHiTxUHNJKYNY6pY9n) | [Kimezaa](https://open.spotify.com/artist/3gpDegDcUdkEFX0EGWus2x) | [???](https://open.spotify.com/album/5JTdgcqhaTSvO8ez5fajhM) | 2:08 | 2021-12-31 | 2022-01-22 |
 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 | 2022-07-15 | 2022-08-20 |
-| [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 |  |
+| [A quoi tu penses vraiment](https://open.spotify.com/track/0YRaJCYiH7PCBY7hRxz3XV) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux](https://open.spotify.com/album/6GzP3vBN1zC3XhGefey6y5) | 2:55 | 2023-09-15 | 2023-10-09 |
 | [A toi](https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love Therapy](https://open.spotify.com/album/5a5C4f2S7NvcMCdwQFqT48) | 3:19 | 2023-04-21 | 2023-05-28 |
 | [Addiction](https://open.spotify.com/track/0ocRpLelepKUSy1X08ddi9) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Comme dans un penthouse](https://open.spotify.com/album/12rLRy19o75nJG4cXKn2tR) | 3:29 | 2023-09-22 | 2023-09-30 |
 | [Addictocrate](https://open.spotify.com/track/0KULVVQEKPVL2Ve4g4ri34) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Addictocrate](https://open.spotify.com/album/508sRFnLjCW27sJsleXuOm) | 2:38 | 2023-04-21 | 2023-06-03 |
@@ -364,6 +364,7 @@
 | [Combien ça coûte](https://open.spotify.com/track/0fgPhHxZdzrqkhAeSIg6vP) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Combien ça coûte](https://open.spotify.com/album/4K1UtFvw0FZPItqqW11rG6) | 2:43 | 2023-08-18 | 2023-08-26 |
 | [Come and go](https://open.spotify.com/track/1I2veivnqzi9M0VPpZOPj3) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [Come and go](https://open.spotify.com/album/6Xy7zPLdpCdZ1GIOxxojNU) | 3:14 | 2022-11-11 | 2022-11-26 |
 | [Come To Daddy](https://open.spotify.com/track/0ANCfH6hKlqHqAdDczc7Qd) | [JACO](https://open.spotify.com/artist/4xPAHa1oTYyvzfNlCO5YGp) | [Come To Daddy](https://open.spotify.com/album/09u8dCwj2GDRuKsjJVRbqI) | 3:06 | 2023-03-31 | 2023-04-09 |
+| [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 | 2023-10-06 |  |
 | [Comme au cinéma](https://open.spotify.com/track/0HQNKBNF60mEzX4uvLZHWj) | [Carla Blanc](https://open.spotify.com/artist/6chRuvOE6rDVousQYA6kJl), [Ogee Rodman](https://open.spotify.com/artist/2OceOdLERXKBklcwbmzhjT) | [Plaisirs & terreurs de la vie domestique](https://open.spotify.com/album/6EV5e75ret5X9pHNkbeKv8) | 2:57 | 2022-04-22 | 2022-05-07 |
 | [Comme au hockey](https://open.spotify.com/track/6u3B0R9Q160QrOGvxzzuQ8) | [Danny Boudreau](https://open.spotify.com/artist/4m1rTf3uGb1kzoZVnJwzpz) | [Traverser le désert](https://open.spotify.com/album/1nU20I0gf9qaVfRFNmmceq) | 3:34 | 2022-10-28 | 2022-11-12 |
 | [Comme de la ouate](https://open.spotify.com/track/7Ds8ByXNh6LGIVxxGXdMS0) | [pataugeoire](https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA) | [Num2Num](https://open.spotify.com/album/0AvpI4m1NU8bfqTNyGyklR) | 3:47 | 2022-10-28 | 2022-11-12 |

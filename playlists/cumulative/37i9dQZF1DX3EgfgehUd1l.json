@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Pat Boone Sings",
+        "url": "https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "April Love",
+      "url": "https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE"
+    },
+    {
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5VGsOFbjwg9hOxwIPvyKIY"
       },
@@ -438,7 +456,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 160346,
       "name": "Auf Wiederseh'n Sweetheart - 2017 Version",
       "url": "https://open.spotify.com/track/3rIhZKroSQQjNcgGQsdaJF"

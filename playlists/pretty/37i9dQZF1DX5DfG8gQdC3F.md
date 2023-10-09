@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake, New West, Tems, RealestK & BIA and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,997 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,050 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [Tip to Toe](https://open.spotify.com/track/1pkUIXE1XQTyjdzP2h59dA) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [We Will Never Be The Same](https://open.spotify.com/album/3udzO0yuhdzzEryfsYaWhh) | 3:52 |
 | 101 | [Spotlight](https://open.spotify.com/track/4pcZ31oP8izO2zzCtaFdMw) | [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Spotlight](https://open.spotify.com/album/0Oa080hoUHRboGZk9iXOMj) | 2:37 |
 
-Snapshot ID: `MCxhZGQxZDNmMjcwYWFkMjY0NmM3YWQ1OWUyMDZlMDk2ZjFlNjEzOWM5`
+Snapshot ID: `MCxlNmQzYTk2ODRhY2VjNjk5OTUwNWQyMWU5ZTgzNjFkNDE5OTFhZTJl`

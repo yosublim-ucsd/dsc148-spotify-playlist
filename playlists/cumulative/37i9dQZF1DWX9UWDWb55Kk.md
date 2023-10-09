@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-375 songs - 23 hr 48 min
+376 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Con Nada Se Puede Ser Feliz](https://open.spotify.com/track/6KPLVgpoVw1moWo1N21SKa) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Beatnik](https://open.spotify.com/album/4XbG0PiQCIEkwX92BG5x8k) | 2:43 | 2021-09-01 |  |
 | [Crow \(DJ\-Kicks\) \- Mixed](https://open.spotify.com/track/4s5zfEwFuufmA9KLDHF8ft) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [DJ\-Kicks \(Forest Swords\) \[DJ Mix\]](https://open.spotify.com/album/3YCh0CPUNvjvnuaJ459MZv) | 3:34 | 2021-09-01 |  |
 | [Crush on You](https://open.spotify.com/track/5gMbKu3MWoXNR3fXwNG3V8) | [Brigitte Laverne](https://open.spotify.com/artist/7izngL0eNHQmTmeNgwrMSx) | [Wasted](https://open.spotify.com/album/0wLz4xS7pwBTjngM0ReyZI) | 3:48 | 2021-09-01 |  |
-| [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 | 2022-04-08 |  |
+| [Cryptic Speech \- Original Mix](https://open.spotify.com/track/0DxXQGM1aFFZeGrb3oVwP6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech](https://open.spotify.com/album/2Urfj8670GPCW0NAKVz0Ka) | 5:54 | 2022-04-08 |  |
+| [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 | 2022-04-08 | 2023-10-09 |
 | [Cynically Sweet](https://open.spotify.com/track/7MHc9EY986jJD0ReUlfGkR) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [The Last Bastion Of Fox Quality](https://open.spotify.com/album/3ssLFkOUwL05HxuSJp4lAn) | 3:38 | 2021-09-01 |  |
 | [Cynthia](https://open.spotify.com/track/4HWvnloh1ot21ZsdoyHCHu) | [Maxwell Hunter](https://open.spotify.com/artist/1GWxLLTEQpXoLSJDwUntxK), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Dan Foster](https://open.spotify.com/artist/1OMprBJjoreV4TnA7sQ8XR) | [Merlot](https://open.spotify.com/album/5MluYW4tjFFRFQWOnt0CwV) | 5:30 | 2022-04-08 |  |
 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 | 2022-11-24 |  |

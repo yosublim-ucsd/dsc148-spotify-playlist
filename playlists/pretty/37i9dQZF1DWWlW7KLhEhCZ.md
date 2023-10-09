@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Abbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,752 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,787 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/track/4rEdstBdZqp7xpiPwvvXbE) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Jhony Mc](https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq), [Renanzin MC](https://open.spotify.com/artist/2BBd096qRspNHPWz3SCXLh), [Vitu](https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz) | [Jhony Convida \#5 \- Confirma](https://open.spotify.com/album/4KdYS9doYHGw4Mrv5E1sqN) | 5:01 |
 | 75 | [Paz e Melhoria](https://open.spotify.com/track/04krCGIklHH5E2E11pugGe) | [Edinho](https://open.spotify.com/artist/69rSrTt8uC4UcSXqIVE2va), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Pack Music](https://open.spotify.com/artist/65m9BcegfjKhWK84AP8RqZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Paz e Melhoria](https://open.spotify.com/album/66UhZxrUak26kg8Pm5Km6d) | 3:16 |
 
-Snapshot ID: `MCwzZjdiNzU1YjMzMTA5MDUwMzA5Njk4MmFiMjdiMTk4MDQ4MDQ2NDg2`
+Snapshot ID: `MCw2Nzc0OGMyMGFmOTgxMWQ2ZWYyZmY3ZjUxYjlkOTY0ZTNkMzRiNWU4`

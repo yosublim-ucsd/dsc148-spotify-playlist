@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-517 songs - 1 day 6 hr 43 min
+518 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Dentro](https://open.spotify.com/track/4597p3R2HZ24bvpussazH9) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Dentro](https://open.spotify.com/album/79e018qEM9iN76IwjDbHTy) | 2:25 | 2022-06-03 |  |
 | [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-15 | 2022-07-29 |
 | [Derrumbe](https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Derrumbe](https://open.spotify.com/album/23csDME5tEskWfOBPW09mi) | 3:21 | 2022-10-28 | 2022-11-29 |
+| [Desde Haedo](https://open.spotify.com/track/6Yf8tgs3hai7PAdIrFsGNB) | [Dante](https://open.spotify.com/artist/7sDwrK5NyflcQgrkv4Mgyd) | [Desde Haedo](https://open.spotify.com/album/0rVWebTopC04kvuvKTfWwx) | 2:56 | 2023-10-05 |  |
 | [Deseo Permanente](https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd) | 5:44 | 2022-07-15 | 2023-10-06 |
 | [Deseo Permanente](https://open.spotify.com/track/2E7At2lJjbRHLvZNM5G8gc) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Deseo Permanente](https://open.spotify.com/album/54zfGz1Dj8XTHhUad8lR7C) | 5:44 | 2022-06-03 | 2022-07-29 |
 | [Desesperación](https://open.spotify.com/track/1w2304mMZHbeOxSNknkj24) | [Luis Angelero](https://open.spotify.com/artist/3xgnzKKYpO6Jp0ARI1O6LL) | [Desesperación](https://open.spotify.com/album/4sIEzkOHRqNNdjmxGmp6LM) | 2:39 | 2022-06-03 | 2022-07-29 |
@@ -289,7 +290,7 @@
 | [Mantra](https://open.spotify.com/track/3MLndDZtxRXBdtzfdRLiKd) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Mantra](https://open.spotify.com/album/2L62ofrt1QOsE8dNSuRAxH) | 5:12 | 2022-06-03 | 2022-07-29 |
 | [MARCIANO ABANDONADO \- En Vivo](https://open.spotify.com/track/7LWvtra8fs2h5VpDIAVW5P) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [MARCIANO ABANDONADO \(En Vivo\)](https://open.spotify.com/album/0c7qoy59NJjLVAdMy9cl3h) | 4:22 | 2023-08-25 | 2023-09-16 |
 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 | 2022-07-15 |  |
-| [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 |  |
+| [Me Siento Que No](https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Valentina](https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld) | [Me Siento Que No](https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG) | 3:56 | 2023-02-03 | 2023-10-09 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
 | [Medalla de Oro](https://open.spotify.com/track/3e43fFQ7FOO2ic7wTnzwBl) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/1BTJdsNvbyccpP6UgEP6YF) | 5:40 | 2023-03-03 | 2023-07-10 |
 | [Medalla de Oro](https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 5:40 | 2023-07-07 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,204 songs - 2 day 22 hr 28 min
+1,205 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Hangdrum](https://open.spotify.com/track/4rAKuhzxAvDRsegs6X3jtZ) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Hangdrum / Dust](https://open.spotify.com/album/5aw4KochHUG035CBxKKWDm) | 2:34 | 2020-02-28 | 2021-04-03 |
 | [Happiest Man on Earth \- Radio Edit](https://open.spotify.com/track/6rQi85JWh2LcMLwc4SFZOp) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Dear Misfortune, Mother of Joy \- EP](https://open.spotify.com/album/6OL68J5ZRlWyOpO7lEbn7s) | 3:03 | 2019-08-09\* | 2019-08-27 |
 | [Harmonica \- Radio Edit](https://open.spotify.com/track/12kz9XXkuL1ID9Qym9LIlX) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Harmonica](https://open.spotify.com/album/4Pya8aIv02VdtmkERhiYem) | 3:27 | 2019-08-09\* | 2019-08-27 |
-| [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8) | 3:46 | 2022-05-27 |  |
+| [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Hate This Kind of Love \(feat\. HOLT\)](https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8) | 3:46 | 2022-05-27 | 2023-10-09 |
 | [Heading Home](https://open.spotify.com/track/4iZ3YEN89TU8Uwan4NwkB8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [Heading Home](https://open.spotify.com/album/63bTrVZUP6nrisVDZbkzSc) | 4:31 | 2020-04-16 | 2021-09-10 |
 | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/track/06Hdbxh6NCy6TIhjdXTchB) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Headlights \(feat\. Ilsey\)](https://open.spotify.com/album/2ryym6yEc6r3ZuigHBDr1A) | 3:29 | 2019-08-09\* | 2019-08-27 |
 | [Heal Me \- Radio Edit](https://open.spotify.com/track/1nuGErGW6D8RHdYVW8xC8l) | [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Heal Me](https://open.spotify.com/album/2em7jxNwoPMNTIzXzhOcIU) | 2:53 | 2021-06-26 | 2022-05-14 |
@@ -758,6 +758,7 @@
 | [Olivia](https://open.spotify.com/track/14w3VLrD9ssdLalMDMZ0ZQ) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [The Tension](https://open.spotify.com/album/1ZxqpllItkGPppTnYq1xpX) | 3:56 | 2020-10-30 | 2021-09-25 |
 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 | 2019-08-31 | 2020-10-30 |
 | [On My Mind](https://open.spotify.com/track/5Xc74Dn1ZKH6H8XaVGOHXG) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [On My Mind](https://open.spotify.com/album/13biMJo399EhkSRUTQnjDI) | 3:05 | 2020-05-15 | 2021-05-08 |
+| [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Jim](https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 | 2023-10-06 |  |
 | [On My Way](https://open.spotify.com/track/3fDTDf6XRXgrSR6DpXLS9E) | [Sophie Francis](https://open.spotify.com/artist/0NQJm4Wlz3rrDJGlQ28L81) | [On My Way](https://open.spotify.com/album/091VRzGkdNPwBHmVkKMw10) | 2:52 | 2019-08-09\* | 2020-03-29 |
 | [On Our Own \(feat\. Natalie Major\)](https://open.spotify.com/track/5lA0TO9agsSK7TxpM4xHs8) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [On Our Own \(feat\. Natalie Major\)](https://open.spotify.com/album/3nC6XBcAPagRUFwsVP8MNP) | 3:44 | 2019-08-10 | 2019-08-27 |
 | [One Day](https://open.spotify.com/track/6JKiwXtDAJtPLPH6vnjzNm) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc) | [One Day](https://open.spotify.com/album/37ipXvBQLNJhSfPTTgmydg) | 2:39 | 2021-09-25 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Teen Jesus and the Jean Teasers
 
-1,576 songs - 3 day 13 hr 10 min
+1,577 songs - 3 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,8 @@
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-27 | 2023-08-04 |
 | [I Walk This Earth All By Myself](https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [I Walk This Earth All By Myself](https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo) | 4:31 | 2023-07-13 | 2023-07-21 |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-27 | 2023-08-04 |
-| [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 | 2023-10-05 |  |
+| [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 | 2023-10-05 | 2023-10-09 |
+| [I Wanna Try Something New](https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT) | 3:41 | 2023-10-06 |  |
 | [I Want It \(Danny DeVito\)](https://open.spotify.com/track/3aXT30VvzkodMqmCicZ4SK) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [I Want It \(Danny DeVito\)](https://open.spotify.com/album/3WjI8Rip86vK7b1XwvrZ4D) | 2:14 | 2023-07-07 | 2023-07-14 |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-05 |  |
 | [I Wanted It Easier Than This](https://open.spotify.com/track/54At5b8kirmcgjS89Q1GnR) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Caught In The Act](https://open.spotify.com/album/1UI0Mj6eqmIePHooL3oLxP) | 4:10 | 2023-08-03 | 2023-08-11 |

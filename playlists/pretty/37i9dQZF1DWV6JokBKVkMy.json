@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1708,
+  "num_followers": 1720,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjFiNmIxNDQ4MGFlODc0OTFmZGQwNGJlMDA2ZTdmYTcxNDdlYWJh",
+  "snapshot_id": "MCw0OGFmNTIxNDRjNzE4OGU1MzdhODI5OTZmZDQ5ZGM4N2MxNmQ3Yzc5",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Soul Sok S\u00e9ga",
+        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
+      },
+      "artists": [
+        {
+          "name": "Claudio",
+          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Bhai Aboo",
+      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Mario",
         "url": "https://open.spotify.com/album/3ddiv84hCD2DU3RWhHTczv"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Soul Sok S\u00e9ga",
-        "url": "https://open.spotify.com/album/05QHCNR4jFKJJ2rwsJrT5f"
-      },
-      "artists": [
-        {
-          "name": "Claudio",
-          "url": "https://open.spotify.com/artist/53dJpxJvzAbr4hntW9gfAT"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Bhai Aboo",
-      "url": "https://open.spotify.com/track/2M6DNq1HqzEOTtLRENGrTw"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Love Ambassador",
         "url": "https://open.spotify.com/album/6n5gNprPy0D1rHWbWWeq0b"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sort' dovan (La compil)",
-        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
-      },
-      "artists": [
-        {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
-        }
-      ],
-      "duration_ms": 285431,
-      "name": "Ma demand aou pardon",
-      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Fiesta Ravanna",
         "url": "https://open.spotify.com/album/4YAnKxfxynLPWrv24FEBAJ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 265413,
       "name": "Fiesta Ravanna",
       "url": "https://open.spotify.com/track/3y8e0s5QzwyvjHA1CjTSFn"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sort' dovan (La compil)",
+        "url": "https://open.spotify.com/album/6h0C2gJIpSvBRiJUHxCBP0"
+      },
+      "artists": [
+        {
+          "name": "Morgan",
+          "url": "https://open.spotify.com/artist/6YS1MAWIyEw8lWZb2hfN3d"
+        }
+      ],
+      "duration_ms": 285431,
+      "name": "Ma demand aou pardon",
+      "url": "https://open.spotify.com/track/0QYy1rBXI2qq0iosKzy66W"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
       },
       "artists": [
         {
-          "name": "Andy Janvier",
-          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
+          "name": "Zotsa",
+          "url": "https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8"
         }
       ],
-      "duration_ms": 246766,
-      "name": "Janvier",
-      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
+      "duration_ms": 213531,
+      "name": "To Kontan Koze",
+      "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd"
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
       },
       "artists": [
         {
-          "name": "Zotsa",
-          "url": "https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8"
+          "name": "Andy Janvier",
+          "url": "https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS"
         }
       ],
-      "duration_ms": 213531,
-      "name": "To Kontan Koze",
-      "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
+      "duration_ms": 246766,
+      "name": "Janvier",
+      "url": "https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",

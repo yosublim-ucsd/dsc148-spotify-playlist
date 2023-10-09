@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Svalbard
 
-4,748 songs - 13 day 9 hr 34 min
+4,749 songs - 13 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -903,7 +903,8 @@
 | [Cult Of The Machine](https://open.spotify.com/track/5iIxKVVNQGuLNv9ajhtRCn) | [Holy Moses](https://open.spotify.com/artist/7jcSmabVYrhiPf8mY1P0OV) | [Cult Of The Machine](https://open.spotify.com/album/3ogqHLUPYJlDmSjVWM67sJ) | 2:46 | 2023-03-10 | 2023-03-18 |
 | [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 | 2022-03-18 | 2022-03-25 |
 | [Currents](https://open.spotify.com/track/7KJlWKl5Dmf1sVcVCxiYVs) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Currents](https://open.spotify.com/album/0d3cY5Zfu1xMa14VaRsCJl) | 4:27 | 2023-09-01 | 2023-09-09 |
-| [Curse of the Machinery](https://open.spotify.com/track/5aw7Nsmoma3MsamdZ8omkZ) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Curse of the Machinery](https://open.spotify.com/album/1kG4POrGI9j5cZkU6b3VHA) | 5:40 | 2023-09-15 |  |
+| [Curse of the Machinery](https://open.spotify.com/track/4D8U5ZINT1vTVjZAnQakpT) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Firestar](https://open.spotify.com/album/56tauSAOlQmZpczrJ0qQ8C) | 5:40 | 2023-10-06 |  |
+| [Curse of the Machinery](https://open.spotify.com/track/5aw7Nsmoma3MsamdZ8omkZ) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Curse of the Machinery](https://open.spotify.com/album/1kG4POrGI9j5cZkU6b3VHA) | 5:40 | 2023-09-15 | 2023-10-09 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-05-06 |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 | 2022-08-06 |
 | [Cut & Run \- Live](https://open.spotify.com/track/51Z1sdmCkF1LOmNZ8nULgp) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Cut & Run \(Live\)](https://open.spotify.com/album/6r3yEx6rpmJzATxdJRIJkl) | 3:14 | 2022-09-30 | 2022-10-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39276,
+  "num_followers": 39273,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI5NTM1M2M3NDc4NzE5MDBkODdiZGUxNjc5MzBhYmYwNmFkMzJi",
+  "snapshot_id": "MCxlNTgzNjM2YWY5NWQzZDc0YzdhMzcxYTcyOGUwYzdlYzFjODRkNDc4",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Distra\u00edda",
-        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
-      },
-      "artists": [
-        {
-          "name": "Faraonika",
-          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
-        },
-        {
-          "name": "Coghlan",
-          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "Distra\u00edda",
-      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+        "name": "Distra\u00edda",
+        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Faraonika",
+          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
+        },
+        {
+          "name": "Coghlan",
+          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
         }
       ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+      "duration_ms": 162641,
+      "name": "Distra\u00edda",
+      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -655,6 +639,22 @@
       "duration_ms": 179250,
       "name": "Despejarte",
       "url": "https://open.spotify.com/track/1FLNgasNG7B2OXdJKplNCd"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Kawaii",
         "url": "https://open.spotify.com/album/3WMSVaZA9laNCvCbRK1aic"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 240917,
       "name": "Canci\u00f3n Uno",
       "url": "https://open.spotify.com/track/3kMzTW1gBjzQ99oX1EzTpC"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2023-10-04 03:00:00",

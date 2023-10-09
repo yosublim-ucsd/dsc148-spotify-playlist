@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2020-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184226,
+      "name": "Garabato Colorado",
+      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
+    },
+    {
+      "album": {
         "name": "El Rey Leon (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2020-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 50651,
       "name": "Osos de Paseo",
       "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"

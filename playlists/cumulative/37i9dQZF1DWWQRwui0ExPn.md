@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,057 songs - 9 day 13 hr 37 min
+6,058 songs - 9 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3670,7 +3670,7 @@
 | [Niksen](https://open.spotify.com/track/7iCvNe2pBIsXH2YCrITexZ) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Maelk](https://open.spotify.com/artist/5iv7276O5MpFO01YZ1TTjx) | [Niksen](https://open.spotify.com/album/5TN4cFoiFT7sxb3pjnx0pr) | 2:20 | 2023-01-13 |  |
 | [Nine Bullets](https://open.spotify.com/track/0orKEKWB3W5Es9pqIyaCH4) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ) | [Nine Bullets](https://open.spotify.com/album/5JlXLtAmNhVEO23CCea0NO) | 2:39 | 2022-10-28 | 2022-10-30 |
 | [Nine Bullets](https://open.spotify.com/track/07GPZ4eCumFdUm5pP6kXDW) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Nine Bullets](https://open.spotify.com/album/1PtyYbF3NJ4gUnVvjCKN9Z) | 2:39 | 2022-10-28 | 2022-10-29 |
-| [Nine Bullets](https://open.spotify.com/track/4mk2YCEPtrgVgHUutmQcSr) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Nine Bullets](https://open.spotify.com/album/3fuxPoQ4kR6VMaD2Bv5OZZ) | 2:39 | 2022-10-28 |  |
+| [Nine Bullets](https://open.spotify.com/track/4mk2YCEPtrgVgHUutmQcSr) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Nine Bullets](https://open.spotify.com/album/3fuxPoQ4kR6VMaD2Bv5OZZ) | 2:39 | 2022-10-28 | 2023-10-09 |
 | [Nine Bullets](https://open.spotify.com/track/4zh9UHG2OXnHHc2ifeblsr) | [Soupbox](https://open.spotify.com/artist/1qs1eSFywywd503RiuQWPQ), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Nine Bullets](https://open.spotify.com/album/6yQzSZ00UlvB6EzrRKejlv) | 2:39 | 2022-11-11 | 2022-11-13 |
 | [ninfa](https://open.spotify.com/track/7iMFgDYIWxYEwCNIs4bLkN) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [Rio Acre](https://open.spotify.com/album/0OeQdDeHyIU6OMNByup26s) | 1:15 | 2020-08-30 | 2021-10-02 |
 | [Ninho](https://open.spotify.com/track/5j74gX8AH1tRADY9h05QXp) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Ninho](https://open.spotify.com/album/0ZbeKB9gmaZKGuytBbAGmY) | 1:45 | 2022-01-21 | 2022-07-16 |
@@ -5273,6 +5273,7 @@
 | [The Conqueror](https://open.spotify.com/track/73GEWgVKErUlQV4tkOa9zS) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb) | [Wild Waters](https://open.spotify.com/album/4HdTzFhYyU2Kh3JMvtV7jA) | 2:32 | 2022-11-18 | 2022-11-25 |
 | [The Daily Grind](https://open.spotify.com/track/0nwIq9DvzxXgVP8ZpH2vxw) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [The Daily Grind](https://open.spotify.com/album/4klkzzBAkPZ3HetJv78Kc2) | 1:38 | 2022-07-15 | 2022-11-11 |
 | [the dark side](https://open.spotify.com/track/7ymG0YQtuSiSVJSBQ3E8jy) | [mooncycles](https://open.spotify.com/artist/1GHcBsNa2yLrpyqIwbt869) | [eclipse](https://open.spotify.com/album/6dIE7p3E7WVxmecbH4cYrA) | 2:00 | 2021-01-25 | 2022-03-12 |
+| [The Day Before Yesterday](https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J) | [merīkurisumasu!](https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0) | [The Day Before Yesterday](https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS) | 2:02 | 2023-10-06 |  |
 | [The DM](https://open.spotify.com/track/4pWvIpbjPTZBmHYyqLH1XF) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [The DM](https://open.spotify.com/album/2by905nR6qUYTeNauAHxFl) | 3:34 | 2021-08-15 | 2022-03-11 |
 | [The Dream](https://open.spotify.com/track/5p5vO6dL6FTTMcVG0wg5eq) | [8een](https://open.spotify.com/artist/5w2ieLY23rQE5oyxL2w4De) | [Afterlife](https://open.spotify.com/album/3blJDBkDrhssHFiEYy9ya7) | 2:57 | 2021-08-29 | 2022-04-08 |
 | [The Dream](https://open.spotify.com/track/1C4bLgUJIKJroNvSU0hz1R) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [O R B I T](https://open.spotify.com/album/7rsBjk8VfQyU2OHtxlB0eu) | 2:38 | 2019-05-26\* | 2019-11-08 |

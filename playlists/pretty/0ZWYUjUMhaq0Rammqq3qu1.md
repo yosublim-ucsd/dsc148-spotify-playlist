@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: Swedish House Mafia
 
-[Digster](https://open.spotify.com/user/digster.fm) - 115,969 likes - 52 songs - 2 hr 31 min
+[Digster](https://open.spotify.com/user/digster.fm) - 115,970 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1089,6 +1089,32 @@
     },
     {
       "album": {
+        "name": "Menghapus Jejakmu",
+        "url": "https://open.spotify.com/album/4UOQ8yXRAdRDOpEcDgZdGq"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        },
+        {
+          "name": "Rejoz The GROOVE",
+          "url": "https://open.spotify.com/artist/1KRNLbbne7RT6ts0SK9lOv"
+        },
+        {
+          "name": "Rejoz",
+          "url": "https://open.spotify.com/artist/3dvTOKbRcDZ1xQ1b4bN8F9"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182414,
+      "name": "Menghapus Jejakmu",
+      "url": "https://open.spotify.com/track/3NuKl7HM691ycLcCa6Vbq2"
+    },
+    {
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -1302,7 +1328,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"

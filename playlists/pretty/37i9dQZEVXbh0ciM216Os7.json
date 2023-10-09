@@ -6,8 +6,44 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDAzMDIzM2JiNDBkNTEzNWYwY2Q5NWVlYWQ2Mzc5ODU3Nw==",
+  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDAyMGZlMGUyZTc0YjVhMjRjZDExZDllNjE5MDVhNjQxOQ==",
   "tracks": [
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Who's That?",
+        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Who's That?",
+      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
+    },
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
@@ -27,8 +63,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Lost Tapes \u2022 5 Year Anniversary \u2022 Deluxe Edition",
-        "url": "https://open.spotify.com/album/7IPPuUTxZmdbTLpRGMbjZj"
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/3z8UlWxPYKjpaqQqMOYWI0"
       },
       "artists": [
         {
@@ -38,11 +74,19 @@
         {
           "name": "Big Ghost Ltd",
           "url": "https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5"
+        },
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
         }
       ],
       "duration_ms": 324057,
       "name": "Done it Again",
-      "url": "https://open.spotify.com/track/2rJh0F25kLFq3AUmhP45g4"
+      "url": "https://open.spotify.com/track/6dIuhhhgSs2EVxnj8dhFiz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -59,30 +103,6 @@
       "duration_ms": 133792,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Whenever I Call You Friend",
-        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Manchester",
-          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Whenever I Call You Friend",
-      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -111,26 +131,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
         "url": "https://open.spotify.com/album/0EIDcpEoX0tO28b55vvCTK"
       },
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Who's That?",
-        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Who's That?",
-      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -183,6 +167,30 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Whenever I Call You Friend",
+        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
+      },
+      "artists": [
+        {
+          "name": "Melissa Manchester",
+          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
+        },
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Whenever I Call You Friend",
+      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     },
     {
       "added_at": "2023-10-06 04:00:00",

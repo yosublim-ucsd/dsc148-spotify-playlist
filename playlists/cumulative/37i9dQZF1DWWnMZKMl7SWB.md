@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,190 songs - 2 day 5 hr 6 min
+1,191 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Dont Cry Shorty](https://open.spotify.com/track/27u6SntXD6nJuYAArR9qjg) | [Alexander Vera](https://open.spotify.com/artist/4zQnlSlfg2Hy87ULJpjzkB) | [Dont Cry Shorty](https://open.spotify.com/album/5fF9t8zqLg4WKE3arCwn2k) | 1:37 | 2023-09-08 | 2023-09-24 |
 | [Dont Go](https://open.spotify.com/track/7m7yVthruWNGZ6WkvJnjxo) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [Dont Go](https://open.spotify.com/album/4oTo2WXUFmG27DQHcfqSr0) | 1:58 | 2023-09-22 |  |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2023-09-22 |  |
+| [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 |  |
 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 | 2023-09-22 |  |
 | [dopeness miles](https://open.spotify.com/track/3WdRc55dm15xX1Zxg96UvA) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [dopeness miles](https://open.spotify.com/album/2ugL8lln8USmINc7mCE93l) | 2:17 | 2023-09-22 |  |
 | [Doubt \(Summer Edit\)](https://open.spotify.com/track/5ffwgrvw4tVlhFcI8efviN) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Doubt \(Summer Edit\)](https://open.spotify.com/album/5Iz89vLs781T7u1xOgIPSZ) | 3:46 | 2022-04-12 | 2023-09-09 |
@@ -431,7 +432,7 @@
 | [going home](https://open.spotify.com/track/1CP8ak51uQUi1G3MwBCYFk) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [going home](https://open.spotify.com/album/6loXdEyhzQlGIuDc1A96pO) | 2:03 | 2023-09-22 |  |
 | [Going Home](https://open.spotify.com/track/7oxXlTpmfuWEyaESin1cKJ) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Going Home](https://open.spotify.com/album/3PI1CnYgGDhyUus3609otC) | 2:06 | 2022-04-12 | 2023-09-09 |
 | [Going to the Moon](https://open.spotify.com/track/7H61dXriqHsS2zoSfr69Os) | [Wine In Dusk](https://open.spotify.com/artist/6Lng7clMQAuyT3p8nmrwiM) | [Going To The Moon](https://open.spotify.com/album/0hbBxmSffPHBclLX5RsxO7) | 2:44 | 2023-09-22 |  |
-| [Golden State](https://open.spotify.com/track/0v5nzjykfP8NKfe6BZKAzp) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Golden State](https://open.spotify.com/album/1QEKgAVPZCsUHux4j9pl2N) | 2:21 | 2023-09-08 |  |
+| [Golden State](https://open.spotify.com/track/0v5nzjykfP8NKfe6BZKAzp) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Golden State](https://open.spotify.com/album/1QEKgAVPZCsUHux4j9pl2N) | 2:21 | 2023-09-08 | 2023-10-09 |
 | [Gonna Save Me](https://open.spotify.com/track/3g8YGS38REdEPlWhVIlSLi) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G), [Halyn](https://open.spotify.com/artist/2ewuETZ6BXp6I8WFUtxtWW) | [No Crush](https://open.spotify.com/album/6LfjFIZiZsxTDzMhwOpaKk) | 3:59 | 2022-04-12 | 2023-09-09 |
 | [Good As You](https://open.spotify.com/track/4r0wRQ7pw3ACGqNAKst3vB) | [Olle NB](https://open.spotify.com/artist/5HpbRGf62WXEBZbbMBCx80) | [Phases](https://open.spotify.com/album/01BpB45Lmbt3hZzurYa3It) | 1:39 | 2023-09-22 |  |
 | [good night](https://open.spotify.com/track/1H9WHrpRW9Am40btf8O9JA) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [good night](https://open.spotify.com/album/4ZoPlxOHWZTXd6A4CZ3BAR) | 2:08 | 2023-09-08 |  |

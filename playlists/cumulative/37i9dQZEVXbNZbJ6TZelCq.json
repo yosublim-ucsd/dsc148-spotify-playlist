@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 172192,
       "name": "Aia e",
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 141212,
       "name": "Amen (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt"
@@ -6071,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "Deep In India",
+        "url": "https://open.spotify.com/album/4L5uQ1OZHQgsRsxvvPXObA"
+      },
+      "artists": [
+        {
+          "name": "Erik Van Tools",
+          "url": "https://open.spotify.com/artist/1fIMETIKEDYvggl0VokeoM"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Deep In India",
+      "url": "https://open.spotify.com/track/4TIvJeGsmpOEoRoDmJxrt6"
+    },
+    {
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK"
       },
@@ -8122,7 +8140,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -9124,7 +9142,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
@@ -17896,7 +17914,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
@@ -21382,7 +21400,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
@@ -22460,7 +22478,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
@@ -24530,7 +24548,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Trotinete - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
@@ -26930,6 +26948,28 @@
       "duration_ms": 219153,
       "name": "\u0218tefan",
       "url": "https://open.spotify.com/track/4jRAdGPN0S20hLSaPWZ34p"
+    },
+    {
+      "album": {
+        "name": "\u021aiganc\u0103 Balcanic\u0103",
+        "url": "https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "\u021aiganc\u0103 Balcanic\u0103",
+      "url": "https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 329006,
+  "num_followers": 329329,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2UwZWU2YWYzYjdiNjNiMDk4M2UyNzFiMmQzZGE2ZTQzYWIxYTg5",
+  "snapshot_id": "MCw1Zjk3YWIzZDU0ZjBhZjg2ZTE3ODExNTNiNTg3ZjliY2M5MWRiY2Ux",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Pray 4 Party",
         "url": "https://open.spotify.com/album/4i5TdB9PbLEO5wgIrjyg9T"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Space Case",
         "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
       },
@@ -1431,6 +1431,26 @@
       "duration_ms": 212252,
       "name": "Space Case",
       "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1479,26 +1499,6 @@
       "duration_ms": 132004,
       "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
       "url": "https://open.spotify.com/track/63VejDiw2j8qvNIHWcAVwN"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Kriss Kross",
-        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 156705,
-      "name": "Kriss Kross",
-      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "DJ Turn It Up (Ben Nicky Remix)",
-        "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        }
-      ],
-      "duration_ms": 138088,
-      "name": "DJ Turn It Up - Ben Nicky Remix",
-      "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Stamp On The Ground",
         "url": "https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV"
       },
@@ -1959,22 +1939,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Insomnia (Rework)",
-        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
+        "name": "DJ Turn It Up (Ben Nicky Remix)",
+        "url": "https://open.spotify.com/album/2X5Q84NtVSBrSAKuyXrnGh"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         },
         {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Insomnia - Rework",
-      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+      "duration_ms": 138088,
+      "name": "DJ Turn It Up - Ben Nicky Remix",
+      "url": "https://open.spotify.com/track/5nqW6RAWDBynvve3TDXH9r"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -2003,18 +1983,46 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
+        "name": "Insomnia (Rework)",
+        "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
         }
       ],
-      "duration_ms": 168775,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+      "duration_ms": 180000,
+      "name": "Insomnia - Rework",
+      "url": "https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Low (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Low (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -2055,22 +2063,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/0npNLby7U2chGnsBha4XZM"
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
       },
       "artists": [
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        },
-        {
-          "name": "S3RL",
-          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         }
       ],
-      "duration_ms": 183771,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv"
+      "duration_ms": 168775,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
     }
   ],
   "unique_name": "Bass Explosion",

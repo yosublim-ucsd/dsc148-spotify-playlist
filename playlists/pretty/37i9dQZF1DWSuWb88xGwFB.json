@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 29941,
+  "num_followers": 29965,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -391,22 +391,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Armand Van Helden EP",
-        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 445026,
-      "name": "Witch Doktor - Eddie Thoneick Remix",
-      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
+      "duration_ms": 595093,
+      "name": "Witch Doktor - The Dark Ages Mix",
+      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -491,18 +487,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
+        "name": "Armand Van Helden EP",
+        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor - The Dark Ages Mix",
-      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
+      "duration_ms": 445026,
+      "name": "Witch Doktor - Eddie Thoneick Remix",
+      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 433373,
+      "name": "I Get Lifted - The Underground Network Mix",
+      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Spark Da Meth",
         "url": "https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 393200,
       "name": "Spark da Meth - Bangin Like a Benzi Mix",
       "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 406131,
+      "name": "Love Trax - Love Izz",
+      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -816,38 +848,6 @@
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted - The Underground Network Mix",
-      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax - Love Izz",
-      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
           "name": "Logic",
           "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
         }
@@ -855,22 +855,6 @@
       "duration_ms": 489320,
       "name": "The Warning - Inner Mix",
       "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Justify",
-        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
-      },
-      "artists": [
-        {
-          "name": "M&S",
-          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
-        }
-      ],
-      "duration_ms": 545040,
-      "name": "Justify - Vocal Mix",
-      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,6 +875,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Justify",
+        "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
+      },
+      "artists": [
+        {
+          "name": "M&S",
+          "url": "https://open.spotify.com/artist/1yilmOGIT2XvvrWkXZ0GrT"
+        }
+      ],
+      "duration_ms": 545040,
+      "name": "Justify - Vocal Mix",
+      "url": "https://open.spotify.com/track/5Gy9zW7lb98HLGaARD2aLb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 494374,
       "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
       "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -971,22 +987,6 @@
       "duration_ms": 410973,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2zP57ODfOyIIGfjhfK4L5Q"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "SuSu Bobien",
-          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
-        }
-      ],
-      "duration_ms": 483750,
-      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
-      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 427132,
       "name": "Hey! - The Rhythm Hype Mix",
       "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "SuSu Bobien",
+          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
+        }
+      ],
+      "duration_ms": 483750,
+      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
+      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
       },
       "artists": [
         {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1203,6 +1187,22 @@
       "duration_ms": 938546,
       "name": "Master Blaster (Turn It Up)",
       "url": "https://open.spotify.com/track/2J03eGRK7Ns3OpBUFhGXbw"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+      },
+      "artists": [
+        {
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1283,22 +1283,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Generate Power (Mixes)",
-        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
+        "name": "The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        },
-        {
-          "name": "Paula Brion",
-          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+          "name": "Motion Lotion",
+          "url": "https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
-      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
+      "duration_ms": 554971,
+      "name": "The Sound - The Studio 54 Mix",
+      "url": "https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

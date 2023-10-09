@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: MYLINA; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,851 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,868 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [ngày mai sẽ thật đẹp khi em thức dậy](https://open.spotify.com/track/0HvRDEIcabzxOyRzpilvKs) | [Finn](https://open.spotify.com/artist/3lg54DBZGbztBHc0t1f48s), [Paties](https://open.spotify.com/artist/610qZrk1PKFAOgV5yNuGRa) | [ngày mai sẽ thật đẹp khi em thức dậy](https://open.spotify.com/album/57x1smjy5RRu4pfZXJkx4R) | 3:09 |
 | 100 | [3 Con Cá Mập](https://open.spotify.com/track/0dC0esais79QzRcdX7R64y) | [DmK Is Real](https://open.spotify.com/artist/0IQJ8w7FbPj2EiiGcGbuFQ), [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [3 Con Cá Mập](https://open.spotify.com/album/7HISCu7JnTHQeduJXUMIzB) | 2:53 |
 
-Snapshot ID: `MCwyNDEwYmY4Nzc4NGE0NDgyOTllZGZiNTdlNWUwMzQ0MDg5NjkyMDAz`
+Snapshot ID: `MCxjYWJjMTkzZjIzOTZmNzI0Y2UxZGRlMGM3MmYyNWNlNmQwNTE1YjA0`

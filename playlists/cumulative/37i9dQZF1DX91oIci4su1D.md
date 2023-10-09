@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-753 songs - 1 day 21 hr 46 min
+754 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [In the Middle](https://open.spotify.com/track/64xXJHoaNRJ9yXIXrubb0t) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [In the Middle](https://open.spotify.com/album/1h0rrzX2J3Krv1PkAJXWMt) | 3:06 | 2022-03-04 | 2022-05-14 |
 | [In the Silence](https://open.spotify.com/track/4gNwkmK1BIXvVNkl2n2X4e) | [Luminn](https://open.spotify.com/artist/0VCNnHuSbecQJ7CnfPxtZQ), [Roxanne Emery](https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM) | [In the Silence](https://open.spotify.com/album/0JFPkGetAHxCIYPZz6sjnL) | 3:03 | 2022-01-21 | 2022-04-02 |
 | [In You](https://open.spotify.com/track/1BkEJN3XUy3OVgH1pIhz27) | [Kosmonova](https://open.spotify.com/artist/2XuUpb7uqPRFkw22ff4cQF) | [In You](https://open.spotify.com/album/6O6tuqHT4yjfXboSokxNTn) | 2:45 | 2023-06-09 |  |
+| [In Your Mind](https://open.spotify.com/track/2yAnDLhBYRYE0pKYvZ43mu) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [In Your Mind](https://open.spotify.com/album/2S4Pwjan4fsi0xtC1fJpyn) | 2:32 | 2023-10-06 |  |
 | [Infinity](https://open.spotify.com/track/2gwmzjBRPv1ElKevOdp3Ld) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Infinity](https://open.spotify.com/album/6fBOUmSFyjXFfKF71uRDjZ) | 4:07 | 2023-07-07 |  |
 | [Inner Strength \- Original Progressive Mix](https://open.spotify.com/track/4rfwxsfsqN8de5BrJxJK5k) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Inner Strength \(Progressive Mix\)](https://open.spotify.com/album/3fRb4Yr6TcX2dCOXhdeuPh) | 2:59 | 2023-03-03 | 2023-06-10 |
 | [Innocence](https://open.spotify.com/track/72g5MSt0ctPo7Sv3Ccctdf) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU) | [Innocence](https://open.spotify.com/album/5ZB36wLX4P7aozcWcmjKc4) | 3:37 | 2022-10-14 |  |
@@ -611,7 +612,7 @@
 | [Standing On the Edge Of Space \- Cold Blue Remix](https://open.spotify.com/track/3FPRzuZBjsjduQbFWtSGlI) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Hydra](https://open.spotify.com/artist/40hrrmQKZYEN0ipPy6h8pU), [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Standing On the Edge of Space \(Cold Blue Remix\)](https://open.spotify.com/album/4YCi6v64BwQxuWzUhFAnxc) | 3:19 | 2023-04-29 | 2023-07-01 |
 | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/track/5ZW9Dzyz3TwGCoHgRVGmY1) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Lin was here](https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf) | [Stargazing \(feat\. Lin was here\)](https://open.spotify.com/album/1D6jer7Ksr9doUbvKuSEqO) | 2:49 | 2023-07-21 |  |
 | [Stars Collide \- XiJaro & Pitch Remix](https://open.spotify.com/track/0K2C5JHVbS9UkqbAPoxTRj) | [Somna](https://open.spotify.com/artist/1497VRGLDSi0Tb1sPill0K), [Jennifer Rene](https://open.spotify.com/artist/44RB2EcmMwG4gC8EH75Ix1), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Beside You \[Deluxe\]](https://open.spotify.com/album/54Sgvc93MjdG7o2099JlN6) | 3:59 | 2021-12-17 | 2022-02-26 |
-| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 |  |
+| [Starship](https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD) | [Vinny DeGeorge](https://open.spotify.com/artist/7chssTaMWVQ27tijoHPOb1) | [Starship](https://open.spotify.com/album/5IXKSwrdxoy2eFKzf5Tjet) | 3:53 | 2023-05-19 | 2023-10-09 |
 | [Start Again](https://open.spotify.com/track/37lDLLICQiM2RJuFy76mdn) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Start Again](https://open.spotify.com/album/74xlb5GJLWk7tce1Hgxm4L) | 3:13 | 2022-04-08 | 2023-06-10 |
 | [Stay With Me](https://open.spotify.com/track/0yEctvo3LdkBADPZT7cMmr) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Nikhil Prakash](https://open.spotify.com/artist/3StDV7dbuu968KpgOAnsnT), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Stay With Me](https://open.spotify.com/album/0G8MmWlyUz0P8yF74xDJz5) | 3:57 | 2022-04-01 | 2022-05-14 |
 | [Stereo](https://open.spotify.com/track/4TXxY5qW7nbJdJmMuVSfzg) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [Stereo](https://open.spotify.com/album/6ZDlGzjBfDNujBBeFSpQEi) | 3:17 | 2022-05-27 | 2022-08-27 |

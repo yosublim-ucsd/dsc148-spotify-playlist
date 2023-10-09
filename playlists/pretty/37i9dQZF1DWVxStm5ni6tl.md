@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Myles Lloyd, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,591 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Peace & Money](https://open.spotify.com/track/65PrqnLVBO6H0ACYeMa7Kk) | [Serenade](https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY) | [EZ PZ LEMON SQUEEZY](https://open.spotify.com/album/40ZLE1pRA0n7UyKXOcfaR7) | 2:09 |
 | 75 | [FLOW](https://open.spotify.com/track/2qHaIj2QmVDJZBLRGptfzU) | [DORESSA](https://open.spotify.com/artist/0mrGJjgyeVmhwKCF0KOsdZ) | [FLOW](https://open.spotify.com/album/6IbZd4jTPIwdKv6tmkXVXQ) | 3:38 |
 
-Snapshot ID: `MCwwYWIzNjliYjAwN2NjMjAxYzA5MjY0NzA2ZWY1Y2I0ZGU3YTI2OWY5`
+Snapshot ID: `MCw4MTUyYzA4Y2JmZWE4Mzk2ODljYzU5YmM3ZTBmYzBhMmFkMmJhNDdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,779 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,815 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Cabr0n](https://open.spotify.com/track/3hEHOFcBvIeBqoupup6g1W) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [SANTA TIERRA](https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb) | 1:14 |
 | 50 | [Caen Los Árboles](https://open.spotify.com/track/2xxQ52pXNXEoC6DOBRe3Jd) | [The New Raemon](https://open.spotify.com/artist/7grmT5tV1tUKfCjPhZgW3h) | [Caen Los Árboles](https://open.spotify.com/album/0jerytpu0oDNnmdTzKJD10) | 4:23 |
 
-Snapshot ID: `MCxhYzJlNzZjMjkwNmJhNGQxZGUyYWMyNzk4YTliNjNmNWVkNjk5OTEw`
+Snapshot ID: `MCwyYmZlMzZmNGJlNGRhNGU3MjZlMGQ3ZWZlYTg4MjdiOTM1YjJjMWZk`

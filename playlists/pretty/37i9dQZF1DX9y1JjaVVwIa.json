@@ -1,12 +1,12 @@
 {
   "description": "El sonido experimental del Caribe \ud83c\udf34\ud83e\udd80\u269b\ufe0f",
-  "num_followers": 402,
+  "num_followers": 401,
   "original_name": "Caribe At\u00f3mico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi",
+  "snapshot_id": "MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm",
   "tracks": [
     {
       "added_at": "2022-08-13 03:00:56",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2022-08-13 03:00:56",
+      "album": {
         "name": "Nice & Easy",
         "url": "https://open.spotify.com/album/5O9Q89o5XsnZB2wT7qO7Nk"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Prisma Tropical",
-        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
-      },
-      "artists": [
-        {
-          "name": "Bal\u00fan",
-          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
-        }
-      ],
-      "duration_ms": 297207,
-      "name": "El Espanto",
-      "url": "https://open.spotify.com/track/3C1I4Djs5MNYnj9BMJuZjB"
-    },
-    {
-      "added_at": "2022-08-13 03:00:56",
-      "album": {
         "name": "No Se Puede Apagar",
         "url": "https://open.spotify.com/album/43TL4TcOE1GvuBchmIp70C"
       },
@@ -747,22 +747,18 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "Turista",
-        "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
+        "name": "Prisma Tropical",
+        "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
       },
       "artists": [
         {
-          "name": "Turista",
-          "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
-        },
-        {
-          "name": "Raquel Berr\u00edos",
-          "url": "https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9"
+          "name": "Bal\u00fan",
+          "url": "https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU"
         }
       ],
-      "duration_ms": 294192,
-      "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
-      "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
+      "duration_ms": 297207,
+      "name": "El Espanto",
+      "url": "https://open.spotify.com/track/3C1I4Djs5MNYnj9BMJuZjB"
     },
     {
       "added_at": "2022-08-13 03:00:56",
@@ -783,18 +779,22 @@
     {
       "added_at": "2022-08-13 03:00:56",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/5lps6A6YGtWDYgZ1X1SgbK"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "Turista",
+          "url": "https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F"
+        },
+        {
+          "name": "Raquel Berr\u00edos",
+          "url": "https://open.spotify.com/artist/389m1TNMBlLANojDHI4qj9"
         }
       ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+      "duration_ms": 294192,
+      "name": "Naturaleza Humana (feat. Raquel Berr\u00edos)",
+      "url": "https://open.spotify.com/track/37WN9UzPLFYFpoP1AxXlmu"
     },
     {
       "added_at": "2022-08-13 03:00:56",

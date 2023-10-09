@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,910 likes - 130 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,949 likes - 130 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,10 +133,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 123 | [bL∞dy f8 \-eUC\-](https://open.spotify.com/track/4hth3prmCax5PvYPt6KnFn) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Into the Sky EP](https://open.spotify.com/album/1XOEmSbX53VfOTPdtkNigy) | 4:48 |
 | 124 | [Z Toki wo Koete](https://open.spotify.com/track/41XtgJqrZQHJdK2dB1kKPT) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Z Toki wo Koete](https://open.spotify.com/album/0olODiVVYbRhP4hJXxDJOL) | 3:36 |
 | 125 | [Flying In The Sky](https://open.spotify.com/track/3LMR3dGhjrbqP3hi1C4t5g) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Jugement \(Remaster Deluxe Edition\)](https://open.spotify.com/album/0heLGeVcuKn2rG7zIF50K0) | 3:44 |
-| 126 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Nanami](https://open.spotify.com/artist/1B0hK1UH1rFBFhjjdCXjYB) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
+| 126 | [Next 2 U \-eUC\-](https://open.spotify.com/track/4Jhe1n8G2obpW4NWMifSrB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [ななみ](https://open.spotify.com/artist/7CORvdMKsZAngZc3kK2GaR) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:04 |
 | 127 | [Hoshizora no Believe](https://open.spotify.com/track/3cST7z20txQesotATAQQ7l) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Hoshizora no Believe](https://open.spotify.com/album/6NZQluArYPWSujVrIK2xX1) | 3:30 |
 | 128 | [Kaze ni Hitoride](https://open.spotify.com/track/1t6ZadOJ0bsT8CQ2QXKYix) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Kaze ni Hitoride](https://open.spotify.com/album/1qn9fEvER4qN3q1AJprGLD) | 3:28 |
 | 129 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 |
 | 130 | [A Red Ray \(feat\. miwa\)](https://open.spotify.com/track/4kPYWusRFCUOrb1Qw7a4KF) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Mobile Suit Gundam 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/5zpZp7yQ1iRd9DuoLei2BI) | 4:53 |
 
-Snapshot ID: `MCwxYTQ4ZDI5YzlhOTJlMmIzNWZlZDA2NTJhZjRiYTBkZmMxMjk5NWI3`
+Snapshot ID: `MCxhYzViN2RkZjRjNGQ3ZTZhMGMxZDQ4NWJlOTA2NThkYmZmMjAyM2Ji`

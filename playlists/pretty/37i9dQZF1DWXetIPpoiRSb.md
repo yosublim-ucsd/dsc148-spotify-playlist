@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,066 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,095 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Stop Thinking About It](https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Stop Thinking About It](https://open.spotify.com/album/0FzcialvWMP9Tbf2G6voU2) | 3:06 |
 | 80 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
 
-Snapshot ID: `MCw0YTlkMTY1Yjc4NzcyYzIwOGE5ODFhNTg0NjBmYzA3Njk2ODMxNTgz`
+Snapshot ID: `MCxmZWRhMDNlYmQ0NDAxYjc5YzliODFhMjI5MjQwNzcxNDM3MTc2Nzcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Caverinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,541 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,594 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 28 | [Foda\-Se Seu Ex](https://open.spotify.com/track/3gHTnqd9ePkOmOtqOOp4id) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 3:48 |
 | 29 | [Avisa Minha Mãe](https://open.spotify.com/track/3ImhKE2Io4Em1iVpq7zw5D) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pugli](https://open.spotify.com/artist/2IXnOvK1O0L4PzfyYanJkM) | [Avisa Minha Mãe](https://open.spotify.com/album/3LfpZaOWk43gVhPFDzORym) | 3:15 |
 | 30 | [Filho da tragédia](https://open.spotify.com/track/46J7cemrvq6WnKtu03lK3N) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Filho da tragédia](https://open.spotify.com/album/19enVphprn8hU8t33Ue9Wu) | 3:34 |
-| 31 | [Cheiro de Riqueza \(feat\. Fxbin\)](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza \(feat\. Fxbin\)](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
+| 31 | [Cheiro de Riqueza](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
 | 32 | [Surtadinha](https://open.spotify.com/track/7wYfR9AeScsSw7Ub0APQKI) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Only](https://open.spotify.com/artist/30uDJX6kWWopOA7Aq2HlJV) | [Surtadinha](https://open.spotify.com/album/4Zr9jKyB3e2kV6fbiuntja) | 3:15 |
 | 33 | [Me Envolvo](https://open.spotify.com/track/0JbqPaiEZWUwwOhfOZvyu3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [Metamorf](https://open.spotify.com/album/4cuTasGsG88sF9V0jiXHlK) | 2:33 |
 | 34 | [Grana, Dinheiro e Fama](https://open.spotify.com/track/4JenZe0lSMXG57yqfc6i5d) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Grana, Dinheiro e Fama](https://open.spotify.com/album/2DPiSfu6nw0irRYVOZ8brt) | 2:49 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 80 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 81 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCxjM2U3MmE1ZGM0ZDg1OTY2MDg3NTEzODNjMzE1NTM0MTFhOGFlMDA4`
+Snapshot ID: `MCw2YjEzOWE1YTlhYzkyNzVjZjAyNzliYTkzY2MxYjZiZTNjMTBlYzE2`

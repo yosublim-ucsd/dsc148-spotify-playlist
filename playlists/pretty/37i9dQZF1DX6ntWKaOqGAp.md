@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: MY FIRST STORY
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,496 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,546 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Kuwadate](https://open.spotify.com/track/000x0PYzls9F6bNbGeMRE1) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Kuwadate](https://open.spotify.com/album/7nvNp6Wbi8IEUHdo9rsdu7) | 3:29 |
 | 100 | [君が生きる理由](https://open.spotify.com/track/1hUsp6U54Ym6ld2I4Vf1Vi) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [君が生きる理由](https://open.spotify.com/album/4MGPUuaWREftVQyTOn14ww) | 3:14 |
 
-Snapshot ID: `MCxiMGFmN2FhNmU4YzkwNjdkOGU3NjRjYWI2ZjMwNDcwOTBjNTEzODhk`
+Snapshot ID: `MCw3NTA2ZjVkYzE4NDM2YzcwYzUwM2FjODhkMWQ2Y2E2MzAxMDRiZmQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="spotify:artist:42YoF8fzPiMbU5dlf59YuQ">Land of Color</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,268 likes - 99 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,444 likes - 99 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 96 | [Everything Changes \- Reimagined](https://open.spotify.com/track/2BfSWz3wEqC3b3AxicsjuK) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Shout! Reimagined \(Vol\. 3\)](https://open.spotify.com/album/5MFiGbjk0XXgHdWpP4GFVr) | 10:14 |
 | 97 | [Power Of Our Praise](https://open.spotify.com/track/2tmmnSnqpB3avC0mv8xZ20) | [SONS THE BAND](https://open.spotify.com/artist/0HRtriOgRf9dPnJJf9mNqL) | [Power Of Our Praise](https://open.spotify.com/album/4amB8JLSCnAlhDfZRR5UjT) | 4:00 |
 | 98 | [Windows \- Radio Version](https://open.spotify.com/track/3M9etAQYZYwsBGF2aWcSvW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows \(Radio Versoin\)](https://open.spotify.com/album/4Vo8bAuWlWsXVXLD1VMRIE) | 3:44 |
-| 99 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/6qUzD1Leqwhz94dwG4IKmn), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
+| 99 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
 
-Snapshot ID: `MCw1ZDdhNjU3MTEyYmFmNWIzZGU3Njk5Zjg5ZDYxNjQ5YTIyMGY3MWQ3`
+Snapshot ID: `MCw1M2M5MjE0NGNiODZlZWFmYzUwZTc0NjBiYTEwMDZmNmEwOTlkNjE3`

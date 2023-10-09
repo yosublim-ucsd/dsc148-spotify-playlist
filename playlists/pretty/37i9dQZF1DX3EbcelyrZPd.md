@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Mavokali
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,133 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,158 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Simuachi](https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Simuachi](https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0) | 3:11 |
 | 70 | [Everlyna \(feat\. Q Chief\)](https://open.spotify.com/track/5YpIUBrsngudCul6Ep45vV) | [Adam Mchomvu](https://open.spotify.com/artist/3utcZ5XfyGEu1okzABoJXn), [Q Chief](https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig) | [Everlyna \(feat\. Q Chief\)](https://open.spotify.com/album/1gA3N6Q5w65Isutz2jScQy) | 3:07 |
 
-Snapshot ID: `MCw4MTI3ZDViNGRjYjQwNDA4YTE4MDdkMjlmNDQyOWMwYTQ5Nzg5YWU5`
+Snapshot ID: `MCwwY2VmYzUwYWY2ZGY5MmNkYmY3NmM5YzNjZjM4ODYwNGViNTkwZjM0`

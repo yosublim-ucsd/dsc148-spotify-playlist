@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Zaeden, Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,622 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,690 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Sahibaa \(From "The Great Indian Family"\)](https://open.spotify.com/track/2YYvNDKfjDsWNaEwhsGcZk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sahibaa \(From "The Great Indian Family"\)](https://open.spotify.com/album/2N0cA45WUmjYRiktG0o7Jt) | 3:56 |
 | 50 | [Judaiyaan](https://open.spotify.com/track/6TWsUKihAAyBJ7fO5Sddwk) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Judaiyaan](https://open.spotify.com/album/6aH7CDDlDEFhfhYxApK3t3) | 3:36 |
 
-Snapshot ID: `MCw3NGIzMjY0ZWNlNmJkOWJjZjFlNzQwMjE1MjY3OGY4OTc1MzkwMzgz`
+Snapshot ID: `MCw4OGNmNDY3ZTRjMzgxYjJjZWZjMjU0M2M0MDkwZDIyYzRjZWM1MmY5`

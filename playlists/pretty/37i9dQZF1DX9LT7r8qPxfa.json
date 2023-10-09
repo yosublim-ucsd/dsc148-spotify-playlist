@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 261126,
+  "num_followers": 261201,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjcyYjIwMjcwMTkwMmE2OWQxZTc4YTQzNzEwZjI0NWYyMWNiZTAx",
+  "snapshot_id": "MCw3NTE2YzFhMGVmOWZjOTk5NjIyZGFkMDhjNDhmOGM1MTI5NWYyNzkw",
   "tracks": [
     {
       "added_at": "2023-09-25 17:39:49",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "We Slept at Last",
-        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 231670,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Wild Parts",
         "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "We Slept at Last",
+        "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 231670,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 220060,
-      "name": "More Than You Know - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Lincoln, Nebraska",
         "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 220060,
+      "name": "More Than You Know - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Infinite Worlds",
-        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 213607,
-      "name": "Fear & Force",
-      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/1wxCJeQNOoNiZmaN6Ma4js"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 284951,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/0Z68g80dKNa2Nrpa4Ir5yw"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Infinite Worlds",
+        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 213607,
+      "name": "Fear & Force",
+      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
+        "name": "Eastwick / Cold Caller",
+        "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 237015,
+      "name": "Cold Caller",
+      "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
         "name": "Pictures of Flowers",
         "url": "https://open.spotify.com/album/0e68piRWBeQPkDomRltnvf"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 260458,
       "name": "Pictures of Flowers",
       "url": "https://open.spotify.com/track/33u3HQgpjtsdP6nDR5SKtf"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
-        "name": "Eastwick / Cold Caller",
-        "url": "https://open.spotify.com/album/6ku2HjmqVN78qv6J4ZZ5XD"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 237015,
-      "name": "Cold Caller",
-      "url": "https://open.spotify.com/track/4h4zgkL5Wv0dYfNQH6B4ca"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
       "artists": [
         {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     }
   ],
   "unique_name": "noir",

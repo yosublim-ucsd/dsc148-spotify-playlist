@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12781,
+  "num_followers": 12783,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RhZGM3MWMzNDFmZDI4NTVmZjEyZjMzN2UxNDlmZTAyMzA2ZDgz",
+  "snapshot_id": "MCw2MTM0ODU2NzI0ZTgyNjViMmRjZjE3YmFhM2UyNjFiOGZiMTNmYWY5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "SUSHI VENUS",
         "url": "https://open.spotify.com/album/3T7DBmR9LPQHlw3jIf2luu"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/67eaFgo8pgPLsWVz3yLcpH"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
-      },
-      "artists": [
-        {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Todas Seremos Reinas",
         "url": "https://open.spotify.com/album/3xpcyIxuRq6Zngha1LAqNd"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Labios de Miel",
-        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
       "artists": [
         {
-          "name": "Adri Stuven",
-          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
         }
       ],
-      "duration_ms": 140649,
-      "name": "Labios de Miel",
-      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 183718,
       "name": "Hacerlo Mejor",
       "url": "https://open.spotify.com/track/5iynCs4hZitCbgHuW53yX5"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Labios de Miel",
+        "url": "https://open.spotify.com/album/2ou4x9ejrRNpjlSnCowbK0"
+      },
+      "artists": [
+        {
+          "name": "Adri Stuven",
+          "url": "https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn"
+        }
+      ],
+      "duration_ms": 140649,
+      "name": "Labios de Miel",
+      "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Quiero Estar Sola",
+        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Colores",
+          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Quiero Estar Sola",
+      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Dame Una Se\u00f1al",
         "url": "https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 194999,
       "name": "Dame Una Se\u00f1al",
       "url": "https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Quiero Estar Sola",
-        "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Colores",
-          "url": "https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Quiero Estar Sola",
-      "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
-      },
-      "artists": [
-        {
-          "name": "Juanita La O",
-          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
-        },
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        }
-      ],
-      "duration_ms": 203475,
-      "name": "Soltera - Remix",
-      "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "EP Agua",
         "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 230034,
       "name": "Luz",
       "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
+      },
+      "artists": [
+        {
+          "name": "Juanita La O",
+          "url": "https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT"
+        },
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        }
+      ],
+      "duration_ms": 203475,
+      "name": "Soltera - Remix",
+      "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
     },
     {
       "added_at": "2023-10-04 04:00:00",

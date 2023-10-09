@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Etta Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,489 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,496 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 54 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 |
 | 55 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 |
 
-Snapshot ID: `MCw2MGFlMWQzNGUzYjQwN2IxYmI2OWFjMTdhYWYxODExODk5ZWY3YmI2`
+Snapshot ID: `MCw1ZDQyODNjMDFjNTc5M2I2ZWU0M2U3ZWEzM2U4NmE5MjVkOTNkYzIy`

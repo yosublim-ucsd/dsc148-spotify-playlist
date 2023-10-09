@@ -71660,7 +71660,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 159500,
       "name": "Nine Bullets",
       "url": "https://open.spotify.com/track/4mk2YCEPtrgVgHUutmQcSr"
@@ -102968,6 +102968,24 @@
       "duration_ms": 120000,
       "name": "the dark side",
       "url": "https://open.spotify.com/track/7ymG0YQtuSiSVJSBQ3E8jy"
+    },
+    {
+      "album": {
+        "name": "The Day Before Yesterday",
+        "url": "https://open.spotify.com/album/4rJbIrWhBpge9CP2ULnDqS"
+      },
+      "artists": [
+        {
+          "name": "mer\u012bkurisumasu!",
+          "url": "https://open.spotify.com/artist/0YXdpycTC7il4RJ9lXmJv0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "The Day Before Yesterday",
+      "url": "https://open.spotify.com/track/7peXxoGUQw6hVftcKNIN6J"
     },
     {
       "album": {

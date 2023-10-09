@@ -4616,7 +4616,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 285630,
       "name": "Calling For You (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 132455,
       "name": "Codziennie",
       "url": "https://open.spotify.com/track/5kXco3VQGGmTwHpKILv1om"
@@ -10460,7 +10460,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 136618,
       "name": "Herbata Z Imbirem",
       "url": "https://open.spotify.com/track/3FZPXHN1fgFeZEiXlMtosR"
@@ -11890,7 +11890,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 168351,
       "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
       "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
@@ -13402,7 +13402,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 166611,
       "name": "Kinderki",
       "url": "https://open.spotify.com/track/1yZlFDQm7JGFxyZQjZpCyo"
@@ -17234,7 +17234,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 106975,
       "name": "MUSZ\u0118 TO WYKRZYCZE\u0106",
       "url": "https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b"
@@ -25268,7 +25268,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
@@ -25674,7 +25674,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 215426,
       "name": "SUPRO",
       "url": "https://open.spotify.com/track/6tSXFwYjoB1JeQ7WCNcKxC"
@@ -26494,7 +26494,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 154729,
       "name": "Ta\u0144cz g\u0142upia",
       "url": "https://open.spotify.com/track/5wPZgnPLhXwXuFbDy7Fnbg"
@@ -28148,7 +28148,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 251094,
       "name": "Virginia Beach",
       "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
@@ -28628,7 +28628,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -29586,6 +29586,24 @@
       "duration_ms": 197647,
       "name": "Wszystko gra",
       "url": "https://open.spotify.com/track/2QXUsyZFCZ337DZjclmPFS"
+    },
+    {
+      "album": {
+        "name": "PLE\u015a\u0143",
+        "url": "https://open.spotify.com/album/36pNCEfgsdV2ZU5JSY40uk"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "WTC",
+      "url": "https://open.spotify.com/track/2HTqkC3N9mf5rD1z8Vds1a"
     },
     {
       "album": {

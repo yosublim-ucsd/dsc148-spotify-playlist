@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,467 likes - 263 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,524 likes - 263 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 146 | [Empty Streets](https://open.spotify.com/track/6NR2SRndDIWZeNzGBwtJBX) | [Livia Irvine](https://open.spotify.com/artist/5UZGLyXbAbN3zwH8pMhWmR) | [Empty Streets](https://open.spotify.com/album/6Cctv6zm1t6oSnLMwNzbdX) | 2:26 |
 | 147 | [Light in the Mist](https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 4:00 |
 | 148 | [Answer](https://open.spotify.com/track/1FlBxmsJyCXMViFVNYFHv4) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Answer](https://open.spotify.com/album/6ybiMzz4uGQeMpUrObHltb) | 2:21 |
-| 149 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 |
+| 149 | [Rainbow](https://open.spotify.com/track/5o9VMlbsJvXSdVfi3u4sFh) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/2WvA7DZjMD9l7kOuMGqyBj) | 2:56 |
 | 150 | [Tresillo](https://open.spotify.com/track/0jen5uU56ghIk8EEDAnllp) | [Nova Olsen](https://open.spotify.com/artist/5DcRrjwhi3ujuxsTTZoF3f) | [Tresillo](https://open.spotify.com/album/7s3khjxdZY85Oxc2NlM0FL) | 2:11 |
 | 151 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 |
 | 152 | [Dreams of Us](https://open.spotify.com/track/6I1qp1q6iTtOCNUXfziWpn) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Dreams of Us](https://open.spotify.com/album/3JX3J9PAtEMfo7RtFork94) | 2:25 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 262 | [Cador](https://open.spotify.com/track/3DHvdguXXEjrlZuileL4hi) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Cador](https://open.spotify.com/album/4znBjjfy0I1p2wpTAVULSb) | 2:29 |
 | 263 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 |
 
-Snapshot ID: `MCxiYzRlNjYxYzg3OTBmN2ZhZDI3NTJmYjg0OTllZjk4MDA1NmNiODZh`
+Snapshot ID: `MCw1ZDYyYmU5NTE1NzQ3ZGI1NDJmNWZiNzljNTA1ZDUwZjIzOTcwYmI1`

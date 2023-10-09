@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7IRnDitYnXmIpoClQ0XspK">Kasia Lins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,610 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,634 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Nie Mrzonki](https://open.spotify.com/track/0OV8q4z2MAXroTokfUIapP) | [Sandra Czuraj](https://open.spotify.com/artist/3qQDvGPGR4wGp6EcTVD3uV) | [Nie Mrzonki](https://open.spotify.com/album/0EUJR4j4i5pLZD3wMCBfAM) | 3:06 |
 | 50 | [FUCK OFF](https://open.spotify.com/track/1y7ZmHjhNSoeLD0BO8t7aM) | [Ziggiel Lou](https://open.spotify.com/artist/3QiTnVbqgpS65j9BABxfiL) | [ROLLING WITH THE OUTER WORLD](https://open.spotify.com/album/3vgatJ9CkofNaGpscWeUUg) | 3:39 |
 
-Snapshot ID: `MCxiNDczOGVmOTNkYzE3NWYwZTAwYTU0NzdiNjljNTA1ZTE5OTc4ZDI4`
+Snapshot ID: `MCxlMzYzNGFmNzZiYjE1MTk4ZDY5OWMyYjVhNDU0NjBlNjVlZGZjODdk`

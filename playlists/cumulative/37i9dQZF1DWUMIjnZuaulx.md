@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans<a>
 
-382 songs - 1 day 9 hr 6 min
+382 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Now Unto Him](https://open.spotify.com/track/1kFckAJTZbToUgkQjEuFty) | [Pilgrim Cathedral of Harlem](https://open.spotify.com/artist/34YfKMHTEjkHwKWIgU1btq), [Jaleah Penceal, Timiney Figueroa](https://open.spotify.com/artist/1dkjxnUSxcxZzif1qyn3Yn) | [Now Unto Him](https://open.spotify.com/album/5HJO2hBWNDq2i1eQtoX94S) | 5:42 | 2022-07-15 | 2023-02-25 |
 | [Ogo](https://open.spotify.com/track/74cYpHbbUTJfDgu1yETDZf) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Ogo](https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS) | 5:36 | 2022-03-18 | 2022-10-15 |
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 |  |
-| [Oke Mmiri](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 10:13 | 2023-09-08 |  |
+| [Oke Mmiri \- Live](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 8:24 | 2023-09-08 |  |
 | [One](https://open.spotify.com/track/2sxNUEzRqlmXHHAa7YU84R) | [All Nations Music](https://open.spotify.com/artist/4nSvPl0CuFE4fE6H4zXRsU) | [Sanctuary](https://open.spotify.com/album/4TIaTZR0IRa5WLVQ8D7GOe) | 4:48 | 2022-02-18 | 2022-07-09 |
 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 | 2022-11-25 |  |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-03-17 | 2023-05-06 |
@@ -346,7 +346,7 @@
 | [Trust And Obey](https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Trust And Obey](https://open.spotify.com/album/7v8jeOwumU7aGUbEt84srF) | 3:36 | 2023-08-25 | 2023-09-16 |
 | [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 | 2023-03-03 | 2023-05-27 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-08-25 | 2023-09-09 |
-| [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/6qUzD1Leqwhz94dwG4IKmn), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-09-29 |  |
+| [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-09-29 |  |
 | [Vans X Adidas](https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Vans X Adidas](https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe) | 3:54 | 2022-11-04 | 2023-04-29 |
 | [Victory \(feat\. Jekalyn Carr\)](https://open.spotify.com/track/2fRvmXDODi99dY6xOGx0oX) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Victory](https://open.spotify.com/album/5EcpH4MLSmC606zNpnDdCD) | 4:53 | 2023-07-21 | 2023-08-26 |
 | [Victory Is Coming \- Live](https://open.spotify.com/track/3GppTzAXlHi2ayQsUQdZza) | [Montrae Tisdale and The Friends Chorale](https://open.spotify.com/artist/6coWqEDygWVo2aVKcN8Ep2), [Superintendent Eric Andrews](https://open.spotify.com/artist/5eEzd8Cgisp8hAM7biXfPz) | [Victory Is Coming \(Live\)](https://open.spotify.com/album/3L57d83UvWKADZs7HpMztl) | 5:46 | 2023-09-01 |  |

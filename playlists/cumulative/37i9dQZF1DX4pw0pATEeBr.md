@@ -4,7 +4,7 @@
 
 > Versos y barras de alto poder, con un takeover por Faruz Feet.
 
-70 songs - 4 hr 22 min
+71 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 | 2023-05-15 |  |
 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 | 2023-09-08 | 2023-10-03 |
 | [Last laugh](https://open.spotify.com/track/33vTlWHD9oEQJnK9sYQt2Z) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/12vWZKcSKJ7rGhxlokqgjD) | 2:55 | 2023-09-08 | 2023-10-08 |
-| [Last Laugh](https://open.spotify.com/track/4XLiFMuhx1YgOVSkonaC1E) | [oryvn](https://open.spotify.com/artist/6KCyRdZLMmlbZ4mApMNuYK) | [Last Laugh](https://open.spotify.com/album/5oTHwAFtYpgOwfZpUrpKoO) | 2:55 | 2023-09-08 |  |
+| [Last Laugh](https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv) | [Ceecyhnaa](https://open.spotify.com/artist/4ENuy6xlLSfgue1ewCoBNZ) | [Last Laugh](https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng) | 2:55 | 2023-09-08 |  |
+| [Last Laugh](https://open.spotify.com/track/4XLiFMuhx1YgOVSkonaC1E) | [oryvn](https://open.spotify.com/artist/6KCyRdZLMmlbZ4mApMNuYK) | [Last Laugh](https://open.spotify.com/album/5oTHwAFtYpgOwfZpUrpKoO) | 2:55 | 2023-09-08 | 2023-10-09 |
 | [Last Laugh](https://open.spotify.com/track/2ZZ2oXSD8ogObbJ1ydOHHJ) | [Slinqeh](https://open.spotify.com/artist/6ETwp3PoT1YZ8b4yloyylU) | [Last Laugh](https://open.spotify.com/album/0MImvHEJbrK7myhmRyv60X) | 2:55 | 2023-09-08 | 2023-10-01 |
 | [Leve](https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:45 | 2023-05-15 |  |
 | [Leyenda Viva](https://open.spotify.com/track/7pQ3dOGXwjBMqfC2z3cvNW) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Leyenda Viva](https://open.spotify.com/album/27nbClc2d310EdLPCxwF2M) | 2:17 | 2023-05-15 |  |

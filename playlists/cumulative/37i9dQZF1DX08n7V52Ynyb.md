@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-190 songs - 14 hr 12 min
+191 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 | 2022-04-13 | 2023-02-01 |
 | [City Garden](https://open.spotify.com/track/3aK6okIXyrM2nVDCSHB9v6) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/2WF1uyK8XP5PEa1KbeZNC1) | 6:34 | 2023-02-16 |  |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-04-13 |  |
-| [December](https://open.spotify.com/track/5nn9JFlelUmEz1oyuoMZaf) | [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Elena Romano](https://open.spotify.com/artist/1dvr2msLhESCag8R6xHnDE) | [Arie](https://open.spotify.com/album/41OhmZ2TLcw4W8yKQatoYT) | 4:25 | 2023-09-15 |  |
+| [December](https://open.spotify.com/track/5nn9JFlelUmEz1oyuoMZaf) | [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Elena Romano](https://open.spotify.com/artist/1dvr2msLhESCag8R6xHnDE) | [Arie](https://open.spotify.com/album/41OhmZ2TLcw4W8yKQatoYT) | 4:25 | 2023-09-15 | 2023-10-09 |
 | [Deep in a Dream](https://open.spotify.com/track/40IDGLN76VxvxsHCKvsMNJ) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Lonely House](https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5) | 3:18 | 2023-06-21 | 2023-09-16 |
 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 | 2022-04-13 | 2022-10-27 |
 | [Don't Explain](https://open.spotify.com/track/6GLMwwNDbiiBe4D9JcSOwP) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Lady Sings](https://open.spotify.com/album/12Ie61TJvvha9qm27suytg) | 3:24 | 2022-04-13 | 2022-04-22 |
@@ -140,6 +140,7 @@
 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 | 2022-04-13 | 2023-09-16 |
 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 | 2022-04-13 |  |
 | [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2022-12-23 |  |
+| [Out of the Blue](https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Out of the Blue](https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd) | 3:36 | 2023-10-06 |  |
 | [Peel Me A Grape](https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/13vOgfmCMpWRzgggSu4Di9) | 5:52 | 2022-04-13 | 2022-07-29 |
 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 | 2022-07-21 | 2022-11-15 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |

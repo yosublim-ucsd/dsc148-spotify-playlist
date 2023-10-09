@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 125007,
+  "num_followers": 125127,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjdmZTIyZjgyYzAxY2M1MTQ3Y2M0MmViNzY1YzdlNTZmNWM5OGM1",
+  "snapshot_id": "MCxlMTBjNDUwMzY1MzcyZDhiZjM4OGYzYTAwZTc0Nzg4NTBlMzlhYTE4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Infinito Amor",
-        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 243417,
-      "name": "Infinito Amor",
-      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 267972,
       "name": "Incrivelmente",
       "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Infinito Amor",
+        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 243417,
+      "name": "Infinito Amor",
+      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Sonhadora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 236199,
       "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -983,38 +999,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Leidy Murilho Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 227046,
-      "name": "Filho - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Leidy Murilho Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 227046,
+      "name": "Filho - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
     },
     {
       "added_at": "2023-10-06 04:04:27",

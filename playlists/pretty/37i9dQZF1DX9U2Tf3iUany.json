@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 33436,
+  "num_followers": 33549,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmM3ODBkNzUyZTg3YjkxZGRkZGI0ZjBlZTNkYWU1OWM1NDM1ZDQ5",
+  "snapshot_id": "MCxjMTc4ZTI3YmMzNDA2MjViMjJlNGY2YjQzNjgzNTYwYzU1YzM1Nzgy",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Heart Of The City (Ain't No Love)",
-      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 241506,
       "name": "On The Radio",
       "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Heart Of The City (Ain't No Love)",
+      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Hunger For More",
-        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
-        }
-      ],
-      "duration_ms": 278533,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 314906,
       "name": "Picture Me Rollin'",
       "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Hunger For More",
+        "url": "https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/25YwwruYRtxe6RQdKtrZFS"
     }
   ],
   "unique_name": "Steven Victor's Taste",

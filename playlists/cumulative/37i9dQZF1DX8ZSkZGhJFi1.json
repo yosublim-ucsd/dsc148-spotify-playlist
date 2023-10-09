@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr"
+      },
+      "artists": [
+        {
+          "name": "Loomington",
+          "url": "https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Donuts",
+      "url": "https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po"
+    },
+    {
+      "album": {
         "name": "Dope",
         "url": "https://open.spotify.com/album/4M78MUiR59VODOKV4QyEqh"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 84869,
       "name": "Going Solo",
       "url": "https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5"

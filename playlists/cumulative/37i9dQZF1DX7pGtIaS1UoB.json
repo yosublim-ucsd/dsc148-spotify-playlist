@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 206669,
       "name": "All Day",
       "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
@@ -418,6 +418,24 @@
       "duration_ms": 225029,
       "name": "Little Present",
       "url": "https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3"
+    },
+    {
+      "album": {
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR"
+      },
+      "artists": [
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Look at My Way",
+      "url": "https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk"
     },
     {
       "album": {
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
@@ -3814,6 +3832,24 @@
       "duration_ms": 234826,
       "name": "\u6211\u597d\u559c\u6b61\u4f60 - \u96fb\u8996\u5287\u300a\u6211\u597d\u559c\u6b61\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/0MjmEm3cEKW65S3E3gdiST"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6703\u5f88\u611b\u4f60",
+        "url": "https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "\u6211\u6703\u5f88\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA"
     },
     {
       "album": {

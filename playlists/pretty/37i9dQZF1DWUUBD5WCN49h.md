@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=SjcFe\-spQVOk21d\_XoZiXA"> Kold AF </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,267 likes - 81 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,286 likes - 81 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 80 | [Break Up](https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IN CASE I NEVER LOVE AGAIN \( ICINLA\)](https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY) | 3:02 |
 | 81 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 |
 
-Snapshot ID: `MCxjOWMwMTZkYzdlODZlYjUwNjA0MWNmMWFhM2ZkZGI3Yjc2Y2IyMjM1`
+Snapshot ID: `MCw0ZTc5MjY5MmUxMWVhZmQ3YzcyODk4NzhjMjY4N2Y1NDQ0NWUzY2Q5`

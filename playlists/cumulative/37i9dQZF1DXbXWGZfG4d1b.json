@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Desde Haedo",
+        "url": "https://open.spotify.com/album/0rVWebTopC04kvuvKTfWwx"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/7sDwrK5NyflcQgrkv4Mgyd"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Desde Haedo",
+      "url": "https://open.spotify.com/track/6Yf8tgs3hai7PAdIrFsGNB"
+    },
+    {
+      "album": {
         "name": "Deseo Permanente",
         "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
@@ -5282,7 +5300,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 236655,
       "name": "Me Siento Que No",
       "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"

@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil. Foto: Paulla",
-  "num_followers": 11503,
+  "num_followers": 11589,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc3OTg1MjFlY2Q1OTFiOWYzYWVmMzVmYTlkNjZhMTkwZDM5MWRh",
+  "snapshot_id": "MCw3MTViODY2MzQ1ZmM4OWM1ODc5ZGEzZDNkNTVhNTg0MTlhYmY3NDJk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -523,22 +503,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Inten\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
       },
       "artists": [
         {
-          "name": "Teresa",
-          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
         },
         {
-          "name": "Ramiroquai Beats",
-          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 135625,
-      "name": "Inten\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -559,6 +539,26 @@
       "duration_ms": 130666,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Inten\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/3ilMS8oAM1s3BbGPx8vC3x"
+      },
+      "artists": [
+        {
+          "name": "Teresa",
+          "url": "https://open.spotify.com/artist/6CkM4kAago2rgEPrx0KAgm"
+        },
+        {
+          "name": "Ramiroquai Beats",
+          "url": "https://open.spotify.com/artist/6ge1L5pIkjedqXFNZbBbSU"
+        }
+      ],
+      "duration_ms": 135625,
+      "name": "Inten\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/3u2sSLxFik3vD9geQEK7Lz"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "SOU + EU",
+        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "G.a.B.o",
+          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Zero Buxixo",
+      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Encruzilhada",
         "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
@@ -671,6 +691,34 @@
       "duration_ms": 162774,
       "name": "Oceano",
       "url": "https://open.spotify.com/track/2c4suE33LALjs5wGWAnD4F"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Compasso",
+        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Shouga",
+          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Compasso",
+      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -719,54 +767,6 @@
       "duration_ms": 151304,
       "name": "Amor e Paz",
       "url": "https://open.spotify.com/track/0LHKT3P0wMRL8zD4V7BAEb"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Compasso",
-        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Shouga",
-          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Compasso",
-      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "SOU + EU",
-        "url": "https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV"
-      },
-      "artists": [
-        {
-          "name": "Afreekassia",
-          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
-        },
-        {
-          "name": "G.a.B.o",
-          "url": "https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Zero Buxixo",
-      "url": "https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -839,6 +839,30 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "FreezaMC",
+          "url": "https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Ressaca",
         "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 149351,
       "name": "Me Deixa",
       "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Canc\u00fan",
-        "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "FreezaMC",
-          "url": "https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Canc\u00fan",
-      "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
     },
     {
       "added_at": "2023-10-06 03:00:00",

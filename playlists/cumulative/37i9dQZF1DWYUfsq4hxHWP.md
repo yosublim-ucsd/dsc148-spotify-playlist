@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Grant Gilbert, Artwork: Fanélie Muselier
 
-1,912 songs - 4 day 7 hr 58 min
+1,913 songs - 4 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,8 @@
 | [Growing Pains](https://open.spotify.com/track/2thZV7jasrRTgIb3ZpTWsP) | [Mallory Moorefield](https://open.spotify.com/artist/1V32usoUfoIJj0XYBadOhU) | [Growing Pains](https://open.spotify.com/album/2chTRGYg4JYiUZ5zfFZIwx) | 4:23 | 2022-05-05 | 2022-06-16 |
 | [GTB](https://open.spotify.com/track/5ffu5HBOPbEdniXSyZ0zix) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [GTB](https://open.spotify.com/album/6wjC7YOSSynu9XgUo2iaRy) | 2:43 | 2022-05-05 | 2022-06-16 |
 | [Guess The Cowboys](https://open.spotify.com/track/6kfZitV2IozK5HmJT4mwW0) | [Elana Jane](https://open.spotify.com/artist/3GeXBx0MyPjWdHRClsrJHN) | [Guess The Cowboys](https://open.spotify.com/album/5GLaz19ZaOPD6ZUM3ZbVO3) | 2:59 | 2023-09-13 |  |
-| [Guilty](https://open.spotify.com/track/0sZN4IEXTqXqKMrPYUdpt9) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/0FJNCv0IHoRqpd1EmIxMNa) | 3:17 | 2023-09-20 |  |
+| [Guilty](https://open.spotify.com/track/0sZN4IEXTqXqKMrPYUdpt9) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/0FJNCv0IHoRqpd1EmIxMNa) | 3:17 | 2023-09-20 | 2023-10-09 |
+| [Guilty](https://open.spotify.com/track/1I0ejc6IjTYpwwlIFuMpJe) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 3:17 | 2023-10-05 |  |
 | [Guilty](https://open.spotify.com/track/2igIT0hhkjKogoqKiDp7JW) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Guilty](https://open.spotify.com/album/05DdBX10OZWNY5LoejprU6) | 3:17 | 2023-08-02 | 2023-09-24 |
 | [Guilty](https://open.spotify.com/track/3oMw1Me5BrUyVdAcjtn0BS) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Guilty](https://open.spotify.com/album/4gAIYOwt94MpkgGTSDwJEi) | 2:44 | 2022-04-27 | 2022-06-08 |
 | [Guys Like Me](https://open.spotify.com/track/6WRm1kTzwzDiw3s3A1fFhH) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Guys Like Me](https://open.spotify.com/album/5MWqRYGv1IU460bAr4goku) | 2:42 | 2022-10-19 | 2022-12-01 |

@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 24180,
+  "num_followers": 24201,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDNmMDgyY2JiZjUzN2FkN2M0OWFjZjE2OGUzZWQwYjk4NDA4ZGJh",
+  "snapshot_id": "MCw2M2MyMjNlOWM4YWQzNDE4ZjQxYjA1NmEzZTMyM2VmMjg3NzIxMGJj",
   "tracks": [
     {
       "added_at": "2023-09-15 11:24:12",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "Dear John C.",
-        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
-      },
-      "artists": [
-        {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Love Bird",
-      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
-    },
-    {
-      "added_at": "2023-09-15 11:24:12",
-      "album": {
         "name": "Astigmatic (Polish Jazz)",
         "url": "https://open.spotify.com/album/5AHmsOtE3kyBWr0TRqHyzD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 450213,
       "name": "Kattorna",
       "url": "https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p"
+    },
+    {
+      "added_at": "2023-09-15 11:24:12",
+      "album": {
+        "name": "Dear John C.",
+        "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Love Bird",
+      "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -783,26 +783,18 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "Illumination!",
-        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
-        },
-        {
-          "name": "Jimmy Garrison Sextet",
-          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
-        },
-        {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 385653,
-      "name": "Half And Half",
-      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
+      "duration_ms": 481266,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -839,22 +831,6 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 481266,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2r4g8y2QYw6ywKSdo3mEDN"
-    },
-    {
-      "added_at": "2023-09-15 11:24:12",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 497906,
       "name": "Vertigo - Remastered",
       "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2023-09-15 11:24:12",
+      "album": {
+        "name": "Illumination!",
+        "url": "https://open.spotify.com/album/5CdhRgQcKX62nphZ2DpwXi"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Jimmy Garrison Sextet",
+          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
+        },
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 385653,
+      "name": "Half And Half",
+      "url": "https://open.spotify.com/track/43HfhwCGlQSQX38zxXdVaR"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "East Broadway Run Down",
-        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 742960,
-      "name": "Blessing In Disguise",
-      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
-    },
-    {
-      "added_at": "2023-09-15 11:24:12",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 424733,
       "name": "Mr. Jin - Remastered",
       "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
+    },
+    {
+      "added_at": "2023-09-15 11:24:12",
+      "album": {
+        "name": "East Broadway Run Down",
+        "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 742960,
+      "name": "Blessing In Disguise",
+      "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
+        "name": "Easterly Winds (Remastered)",
+        "url": "https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz"
+      },
+      "artists": [
+        {
+          "name": "Jack Wilson",
+          "url": "https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n"
+        }
+      ],
+      "duration_ms": 356213,
+      "name": "Easterly Winds - Remastered 2004",
+      "url": "https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb"
+    },
+    {
+      "added_at": "2023-09-15 11:24:12",
+      "album": {
         "name": "Forest Flower: Charles Lloyd At Monterey",
         "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 194266,
       "name": "Bart\u00f3k: Thumb Under",
       "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
-    },
-    {
-      "added_at": "2023-09-15 11:24:12",
-      "album": {
-        "name": "Easterly Winds (Remastered)",
-        "url": "https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz"
-      },
-      "artists": [
-        {
-          "name": "Jack Wilson",
-          "url": "https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n"
-        }
-      ],
-      "duration_ms": 356213,
-      "name": "Easterly Winds - Remastered 2004",
-      "url": "https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "Jackie's Bag",
-        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
+        "name": "Consequence",
+        "url": "https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 406400,
-      "name": "Melonae's Dance - Remastered",
-      "url": "https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K"
+      "duration_ms": 332840,
+      "name": "Consequence - Remastered",
+      "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 619440,
-      "name": "Breaking Point - Remastered 2004",
-      "url": "https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt"
+      "duration_ms": 384933,
+      "name": "D Minor Mint - Remastered 2004",
+      "url": "https://open.spotify.com/track/7ALt0a2CpJrDiMQZkdxyNY"
     },
     {
       "added_at": "2023-09-15 11:24:12",
@@ -1632,15 +1632,15 @@
           "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 384933,
-      "name": "D Minor Mint - Remastered 2004",
-      "url": "https://open.spotify.com/track/7ALt0a2CpJrDiMQZkdxyNY"
+      "duration_ms": 619440,
+      "name": "Breaking Point - Remastered 2004",
+      "url": "https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt"
     },
     {
       "added_at": "2023-09-15 11:24:12",
       "album": {
-        "name": "Consequence",
-        "url": "https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx"
+        "name": "Jackie's Bag",
+        "url": "https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 332840,
-      "name": "Consequence - Remastered",
-      "url": "https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X"
+      "duration_ms": 406400,
+      "name": "Melonae's Dance - Remastered",
+      "url": "https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K"
     }
   ],
   "unique_name": "Post Bop Essentials",

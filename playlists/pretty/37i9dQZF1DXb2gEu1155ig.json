@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 72526,
+  "num_followers": 72607,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
+  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Mi Fantasia",
-        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Viva El Amor",
-      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Cumbias Con Amor",
-        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
+        "name": "Mi Fantasia",
+        "url": "https://open.spotify.com/album/1adsPQiPWD6KU41u114eii"
       },
       "artists": [
         {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
+      "duration_ms": 226160,
+      "name": "Viva El Amor",
+      "url": "https://open.spotify.com/track/588ZtSf0EGxZoMF4AIEtoL"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -679,6 +663,22 @@
       "duration_ms": 185115,
       "name": "Amor A\u00f1ejo",
       "url": "https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cumbias Con Amor",
+        "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "La Boa",
-      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "La Boa",
+      "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ramirez y Sus Sonorritmicos",
-          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Leticia",
-      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 188943,
       "name": "Adolescente y Bonita",
       "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ramirez y Sus Sonorritmicos",
+          "url": "https://open.spotify.com/artist/4M8vD5XcuQQrn5tJcErzPH"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Leticia",
+      "url": "https://open.spotify.com/track/3OyQxnKPm0lQEnkp0xhAH1"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Poquito a Poquito",
-        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
-      },
-      "artists": [
-        {
-          "name": "Los Abelardos",
-          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
-        }
-      ],
-      "duration_ms": 191059,
-      "name": "Por Unas Monedas",
-      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 3",
         "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 250760,
       "name": "Capullo y Sorullo",
       "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Poquito a Poquito",
+        "url": "https://open.spotify.com/album/3FFqpuXSWBsijefP5UMI5E"
+      },
+      "artists": [
+        {
+          "name": "Los Abelardos",
+          "url": "https://open.spotify.com/artist/6LUI7Oqs1SYHPOtrO2n1AX"
+        }
+      ],
+      "duration_ms": 191059,
+      "name": "Por Unas Monedas",
+      "url": "https://open.spotify.com/track/0FYTqOgOiMRRJsntgcGhSD"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
       },
       "artists": [
         {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
         }
       ],
-      "duration_ms": 172920,
-      "name": "La feria de Cali",
-      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
+      "duration_ms": 228571,
+      "name": "La Brujita",
+      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh"
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
       "artists": [
         {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
         }
       ],
-      "duration_ms": 228571,
-      "name": "La Brujita",
-      "url": "https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ"
+      "duration_ms": 172920,
+      "name": "La feria de Cali",
+      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Coleccion De Oro Puro",
+        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
+      },
+      "artists": [
+        {
+          "name": "La Luz Roja De San Marcos",
+          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "La Cumbia Sampuesana",
+      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "Bueno Pa' Bailar",
         "url": "https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF"
       },
@@ -1507,38 +1523,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Coleccion De Oro Puro",
-        "url": "https://open.spotify.com/album/1oyXpx45VV9E7K9rS33TS8"
-      },
-      "artists": [
-        {
-          "name": "La Luz Roja De San Marcos",
-          "url": "https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb"
-        }
-      ],
-      "duration_ms": 307880,
-      "name": "La Cumbia Sampuesana",
-      "url": "https://open.spotify.com/track/3R0b08CZgjbYhtF9PjMUbq"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Quiereme",
         "url": "https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 209493,
       "name": "Volvere",
       "url": "https://open.spotify.com/track/53RPrPo2LlWeSo657i0W09"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2023-06-16 16:50:57",

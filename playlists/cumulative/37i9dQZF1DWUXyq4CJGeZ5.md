@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-441 songs - 19 hr 13 min
+442 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2023-03-10 |  |
 | [Open Arms](https://open.spotify.com/track/30rZgjh8JUIu7DHdxWbaaZ) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Open Arms](https://open.spotify.com/album/0YkswIVwAsMXqvrZdxZ2sS) | 2:16 | 2023-03-10 |  |
 | [Open Heart](https://open.spotify.com/track/5pS1PFojz8exelbAvqH8Wq) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Open Heart](https://open.spotify.com/album/6KqwdEQSVFX3SkaT6hrcJd) | 3:53 | 2023-03-10 |  |
+| [Orangel](https://open.spotify.com/track/6fAmI7T6PjgiMcandgJ6ab) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Orangel](https://open.spotify.com/album/4aoMGEzd9l0J16LZcd7pdb) | 2:27 | 2023-09-27 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2023-03-10 |  |
 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 | 2023-03-10 |  |
 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 | 2023-03-10 |  |
@@ -378,7 +379,7 @@
 | [The Pond](https://open.spotify.com/track/2fJLNEDPFM38gcXeY58WNa) | [Mads Hellmuth](https://open.spotify.com/artist/4Msoax7rmMKTsCwJKtGUda) | [Glass](https://open.spotify.com/album/15EG8tQC79eJTpMLkZaZGz) | 3:14 | 2023-03-10 |  |
 | [The Question](https://open.spotify.com/track/07SaUURZhay2n0SIGVVFtu) | [Cullen Waller](https://open.spotify.com/artist/1q5Nczup0WnMsnnhRxJ4BX) | [The Question](https://open.spotify.com/album/3XNSOM2jeWp4YhJC8pe2hU) | 3:01 | 2023-03-10 |  |
 | [The Reason Why](https://open.spotify.com/track/0C14i4tdhEb5mor8aia7ix) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [The Reason Why](https://open.spotify.com/album/47oAYFVTExyqWFPC3aW7ye) | 2:13 | 2023-03-10 |  |
-| [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 |  |
+| [The Right Time](https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ) | [Nick Vereshchak](https://open.spotify.com/artist/7u4DRtXXgLlr8Nf6b8vA56) | [Recollections Vol\. 8](https://open.spotify.com/album/6l7TZVCSf4RYOJM1YlslHD) | 1:48 | 2023-03-10 | 2023-10-09 |
 | [The Shadow Of The Wind](https://open.spotify.com/track/6FTgfZZTT8Z60nMoI5efst) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Helligvaer](https://open.spotify.com/album/29Xn4EC2TtRXPn9RYp58Ao) | 2:34 | 2023-03-10 |  |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2023-03-10 |  |
 | [The Sky Is Mine](https://open.spotify.com/track/6dIGw0ChcSE4zXCqPfCbw2) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [The Sky Is Mine](https://open.spotify.com/album/0eEyjp3aw6rE5ruirePD2Q) | 3:00 | 2023-03-10 |  |

@@ -4,7 +4,7 @@
 
 > For skating and grooving.
 
-243 songs - 18 hr 0 min
+244 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Funky Sensation \- Remastered](https://open.spotify.com/track/6arPjDdM62UEEQv8fLMdcN) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae](https://open.spotify.com/album/7dJFTAc4K5nMJnHcL706NT) | 6:38 | 2021-12-17 | 2022-05-14 |
 | [Funkytown \- Single Version](https://open.spotify.com/track/0YMXR8nStUpZFEfkvA2VXX) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Summer Dance Party](https://open.spotify.com/album/7mP3lbYkeF8DD8JJn3JOlK) | 3:54 | 2022-07-21 | 2022-12-02 |
 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 | 2022-05-13 | 2023-01-15 |
+| [Get Down Saturday Night](https://open.spotify.com/track/1MvIzSyxQjMIIBKrkGpN3K) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Party 2021](https://open.spotify.com/album/0Df0Yg49yhTw7RX1oXemFZ) | 4:01 | 2023-07-13 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/6GkSz1e5kSlYI8l2qKU3gv) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Saturday Songs](https://open.spotify.com/album/5d3LD6e616BbpqqqqlZXiY) | 4:01 | 2022-12-01 | 2023-09-09 |
 | [Get Down Saturday Night \- Extended Club Version \- Remastered](https://open.spotify.com/track/4tnsMnp1EGVE2jSfKMOV7r) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Get Down Saturday Night & Other Hits](https://open.spotify.com/album/0xvJvvTiyKi3x1nhkAiHs3) | 7:32 | 2021-12-17 | 2022-05-14 |
 | [Get Em Jeezy](https://open.spotify.com/track/0poFHH7lT9DnP7Sd2g1R2C) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [All Platinum Everything](https://open.spotify.com/album/12BBdHd3uBHHh5FDlEOcz9) | 3:28 | 2023-08-10 | 2023-08-23 |
@@ -128,7 +129,7 @@
 | [It Takes Two](https://open.spotify.com/track/0gFB5H3pHN13ERt2FyMuWi) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [It Takes Two](https://open.spotify.com/album/5tocCryeqWvFXn65seo0p6) | 5:00 | 2023-07-13 | 2023-09-29 |
 | [It's A Love Thing](https://open.spotify.com/track/2qzvwG15vcdBWGSsSy7oA7) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Complete Solar Hit Singles Collection](https://open.spotify.com/album/10BoeTAzWWMmv0z9nusx4U) | 3:48 | 2021-12-17 | 2022-05-14 |
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2022-12-01 | 2023-07-14 |
-| [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 | 2023-07-13 |  |
+| [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 | 2023-07-13 | 2023-10-09 |
 | [Jump to the Beat](https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Let Me Be Your Angel](https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV) | 5:20 | 2022-05-13 | 2022-07-29 |
 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 | 2021-12-17 | 2022-05-14 |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-12-01 |  |

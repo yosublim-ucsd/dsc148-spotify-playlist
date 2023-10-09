@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-605 songs - 1 day 0 hr 42 min
+606 songs - 1 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 | 2023-09-08 |  |
 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 | 2023-09-08 |  |
 | [Donnie DarKo](https://open.spotify.com/track/2KGATOvaBe8tw2hvB2Suc1) | [Sarach](https://open.spotify.com/artist/50NbkaTw0JbpYCMyHvAfIM), [baru](https://open.spotify.com/artist/1F8qMVXNHlvxGFkHLdWvvL) | [Donnie DarKo](https://open.spotify.com/album/44NTVo4xYykD6ni27p3yoG) | 2:14 | 2022-02-17 | 2023-09-09 |
+| [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 |  |
 | [Dope](https://open.spotify.com/track/1lPk06VsnBj2v5fw7rtfQe) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Dope](https://open.spotify.com/album/4M78MUiR59VODOKV4QyEqh) | 2:30 | 2023-09-08 | 2023-10-05 |
 | [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2023-09-08 |  |
 | [Downtown](https://open.spotify.com/track/4HQMQg5DhjhKm1JYbapAaf) | [ima daydreamer](https://open.spotify.com/artist/3AaF9d1txKKmgmYy2Gk6Hg) | [Downtown](https://open.spotify.com/album/0wS75GQb2h6oOJm0sRpEL9) | 2:07 | 2022-02-17 | 2023-09-09 |
@@ -194,7 +195,7 @@
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2023-09-08 |  |
 | [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2023-09-08 |  |
 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 | 2022-02-17 | 2023-09-09 |
-| [Going Solo](https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Going Solo](https://open.spotify.com/album/07EdIYhnhe2ZAZb2ugJIR0) | 1:24 | 2023-09-08 |  |
+| [Going Solo](https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Going Solo](https://open.spotify.com/album/07EdIYhnhe2ZAZb2ugJIR0) | 1:24 | 2023-09-08 | 2023-10-09 |
 | [golden ratio](https://open.spotify.com/track/4F5FPoDTBsuFmwkmIiDypZ) | [russki dilemma](https://open.spotify.com/artist/7Mo8ORceX8Hw7BdLKRso4J) | [golden ratio](https://open.spotify.com/album/2K2SqemhUZ9RO6ZWNr6sjZ) | 2:23 | 2023-09-08 |  |
 | [Gone But Still Here](https://open.spotify.com/track/1HSken8BGnbxMXhihATudV) | [Teo](https://open.spotify.com/artist/5d7FgxqeULkBnt4j8cpPJk), [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Gone But Still Here](https://open.spotify.com/album/6h0xB0oc60fPOMKAuUhgYY) | 1:54 | 2023-09-08 |  |
 | [Good Morning](https://open.spotify.com/track/3C9DeWMptUuqPtgHwVSqCO) | [Mellow.](https://open.spotify.com/artist/0G0ttAARUNpc5aIAsUxXLZ), [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5) | [Good Morning](https://open.spotify.com/album/3A3EaSJvJkr2WY46pNkMv1) | 2:15 | 2023-09-08 |  |

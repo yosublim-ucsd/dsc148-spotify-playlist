@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2UwMTJlZTBjMDJmOTQyZWVjMmI4MDU4MzFiMmU3ZGM0ZjM2NDI0",
+  "snapshot_id": "MCxlY2FlYWYxMzM4ZmU2NDAyNzg0MWZhY2RlMWRlMjc5YTIwOGQwNzNh",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Palabra de Honor",
         "url": "https://open.spotify.com/album/6PXaBc24sYwppirA7vzaBB"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 217894,
       "name": "Palabra de Honor",
       "url": "https://open.spotify.com/track/6YmZBTOhXdBBHySS9RlFo5"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "CIEN SHOWS",
-        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "CIEN SHOWS",
-      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "B\u00e9same Lento",
         "url": "https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 271714,
       "name": "B\u00e9same Lento",
       "url": "https://open.spotify.com/track/702HgdUa5QILPolhhVoktM"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "CIEN SHOWS",
+        "url": "https://open.spotify.com/album/2dIdv3mfCNzMC139bjldaX"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "CIEN SHOWS",
+      "url": "https://open.spotify.com/track/4EeKsQCjByEuwlQ71U3p2W"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
+        "name": "El G.O.A.T. (Deluxe)",
+        "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
       },
       "artists": [
         {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
         },
         {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 184780,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
+      "duration_ms": 237453,
+      "name": "La Hora Es\u2026",
+      "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1371,26 +1375,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El G.O.A.T. (Deluxe)",
-        "url": "https://open.spotify.com/album/7dlzGElxjGae4YC49CsLcE"
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
       },
       "artists": [
         {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
         },
         {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
-      "duration_ms": 237453,
-      "name": "La Hora Es\u2026",
-      "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Soler The Lion",
-          "url": "https://open.spotify.com/artist/4psgvAd92BNyBOwv3Am4cg"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Cumbia Castrosa",
         "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 143738,
       "name": "Ese Culo",
       "url": "https://open.spotify.com/track/4vG5jTK3oDwpqkmqT8zECm"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/72ct55HUoVEWCeWpogQHeT"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Soler The Lion",
+          "url": "https://open.spotify.com/artist/4psgvAd92BNyBOwv3Am4cg"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/7fRwxP1bj8ktaWxxK3p4pb"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Alerta",
-        "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 189602,
-      "name": "Alerta",
-      "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "MORE FYAH",
         "url": "https://open.spotify.com/album/5LdNhgoWkHGJdePD8ga9nm"
       },
@@ -1755,6 +1735,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 189602,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
@@ -1779,18 +1779,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Callejon",
-        "url": "https://open.spotify.com/album/0U3xOtyt5fhBQ5cbsCGuTB"
+        "name": "Bendici\u00f3n o Desgracia",
+        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
       },
       "artists": [
         {
-          "name": "Teo LB",
-          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
         }
       ],
-      "duration_ms": 196329,
-      "name": "Callejon",
-      "url": "https://open.spotify.com/track/0XYWm2QhgJwewGASjvz4VO"
+      "duration_ms": 163723,
+      "name": "Bendici\u00f3n o Desgracia",
+      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1811,22 +1815,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Bendici\u00f3n o Desgracia",
-        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
+        "name": "Callejon",
+        "url": "https://open.spotify.com/album/0U3xOtyt5fhBQ5cbsCGuTB"
       },
       "artists": [
         {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+          "name": "Teo LB",
+          "url": "https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo"
         }
       ],
-      "duration_ms": 163723,
-      "name": "Bendici\u00f3n o Desgracia",
-      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+      "duration_ms": 196329,
+      "name": "Callejon",
+      "url": "https://open.spotify.com/track/0XYWm2QhgJwewGASjvz4VO"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Boombap",
-        "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        },
-        {
-          "name": "Kintuper",
-          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "Boombap",
-      "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ser\u00e1 posible?",
         "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 158500,
       "name": "Ser\u00e1 posible?",
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Boombap",
+        "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Kintuper",
+          "url": "https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "Boombap",
+      "url": "https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -2011,6 +2011,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "La Fama",
+        "url": "https://open.spotify.com/album/0vz5hdEXuiEL0fzihUWFfn"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        },
+        {
+          "name": "Keyviem",
+          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
+        },
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3wjoNEiniLPzNIK27RaOGM"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Como Me Siento",
         "url": "https://open.spotify.com/album/5xsndTBKQ39qSyGEPvKHCG"
       },
@@ -2027,6 +2059,26 @@
       "duration_ms": 230669,
       "name": "Como Me Siento",
       "url": "https://open.spotify.com/track/7DHyY9XQKsNi6ZrEqp2IN8"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Pelea de Hermanos",
+        "url": "https://open.spotify.com/album/72RKW9QVmkpEUYSV5QzOZp"
+      },
+      "artists": [
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        },
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "duration_ms": 141766,
+      "name": "Pelea de Hermanos",
+      "url": "https://open.spotify.com/track/2UO48DQ4mqO8BlGDGUyliM"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -2059,58 +2111,6 @@
       "duration_ms": 209333,
       "name": "Miyagi",
       "url": "https://open.spotify.com/track/0y8B5HtfzBbbW58ApG8OFh"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Pelea de Hermanos",
-        "url": "https://open.spotify.com/album/72RKW9QVmkpEUYSV5QzOZp"
-      },
-      "artists": [
-        {
-          "name": "Horus",
-          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 141766,
-      "name": "Pelea de Hermanos",
-      "url": "https://open.spotify.com/track/2UO48DQ4mqO8BlGDGUyliM"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "La Fama",
-        "url": "https://open.spotify.com/album/0vz5hdEXuiEL0fzihUWFfn"
-      },
-      "artists": [
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        },
-        {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
-        },
-        {
-          "name": "Keyviem",
-          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
-        },
-        {
-          "name": "Nelly Nelz",
-          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
-        },
-        {
-          "name": "Carlos Trvp",
-          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/3wjoNEiniLPzNIK27RaOGM"
     },
     {
       "added_at": "2023-10-06 06:00:00",

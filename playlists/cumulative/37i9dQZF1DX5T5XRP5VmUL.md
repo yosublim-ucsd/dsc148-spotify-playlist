@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to the holiday season!
 
-254 songs - 14 hr 5 min
+255 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [3 Hos](https://open.spotify.com/track/0bBR7awdHvrP4Rwb2lQpdK) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo), [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Malinkiesza](https://open.spotify.com/artist/7K8DnMaNtlqWnlMnZgWztr) | [3 Hos](https://open.spotify.com/album/4PnbMh6BHznYb6hjKpsOCr) | 3:20 | 2021-12-24 | 2022-10-05 |
 | [A Christmas To Remember](https://open.spotify.com/track/6hvBmhDifLf4D2c7un98hi) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0), [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [A Christmas To Remember](https://open.spotify.com/album/5GpxJmTGJTOUhXFh9EM3zU) | 3:30 | 2021-12-24 | 2022-11-26 |
 | [A Time For Having Fun](https://open.spotify.com/track/6FHTUfMGuIZTf2wX9L4opW) | [Johnny Reid](https://open.spotify.com/artist/2QnCvSa46mN4Wi4gDVdnso) | [A Time For Having Fun](https://open.spotify.com/album/3snfS8FOsuVHuLQNNskIHu) | 3:02 | 2021-12-24 | 2023-04-21 |
+| [A Winter Wonderland](https://open.spotify.com/track/4Jg17t8vuAYi2hr0N250ei) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/79zxqDwDXxoaachqEr7NDh) | 3:47 | 2022-12-16 |  |
 | [A Winter Wonderland](https://open.spotify.com/track/4nAUnmAleft0hDpqmdu3FR) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [A Winter Wonderland](https://open.spotify.com/album/69ZuHdZChWsNWYbOjY0aGl) | 3:47 | 2021-12-24 | 2023-10-02 |
 | [Ain't Christmas Without You](https://open.spotify.com/track/6fllrEGp68zr1x4woBjovV) | [Danielle Ryan](https://open.spotify.com/artist/7lyU0zKn0p7RDoXFoL7opK) | [Ain't Christmas Without You](https://open.spotify.com/album/2zRvR9zw57tyU81Ef78SRe) | 4:13 | 2021-12-24 | 2022-07-29 |
-| [All I Want for Christmas Is You](https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [All I Want for Christmas Is You](https://open.spotify.com/album/4JddaIse1rg3jZCbuQDHiE) | 3:25 | 2022-10-29 |  |
+| [All I Want for Christmas Is You](https://open.spotify.com/track/76hkxEpwPDjCuYj0GrOTqG) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [All I Want for Christmas Is You](https://open.spotify.com/album/4JddaIse1rg3jZCbuQDHiE) | 3:25 | 2022-10-29 | 2023-10-09 |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [All I Want For Christmas Is You](https://open.spotify.com/album/3kc2Y4D6VJzCgpD7Nd1rHs) | 3:04 | 2021-12-24 | 2022-10-30 |
 | [All Together For Christmas](https://open.spotify.com/track/3YMMOyhpzFsinzVW3y0O9r) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [All Together For Christmas](https://open.spotify.com/album/2LYEIFEikRasmPpiluVZjJ) | 2:57 | 2022-11-18 |  |
 | [All We Need](https://open.spotify.com/track/2rtOMcw98nnUfs0DzGgZLn) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [All We Need](https://open.spotify.com/album/4SugSFhdGVz61zW0WGOUM5) | 3:02 | 2022-11-25 |  |

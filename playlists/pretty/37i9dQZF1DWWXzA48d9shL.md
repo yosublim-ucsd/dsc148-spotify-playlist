@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: City Morgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,945 likes - 106 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,331 likes - 106 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 105 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 | 106 | [GOD MODE!](https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP) | 2:43 |
 
-Snapshot ID: `MCxjY2IzYzQ2ZDI4MTg2ODA0ODM1MWI5YjVmZTI5MTJkYzhiODUyNTQ4`
+Snapshot ID: `MCxjNWE2NjYxNGNjNjk5NGViMjQ5NTg1NzY4YWFmYWYwNDk5N2I3MTc1`

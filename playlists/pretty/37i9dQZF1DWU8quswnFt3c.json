@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Nadya Okamoto",
-  "num_followers": 919482,
+  "num_followers": 919469,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk2YWNhMjA2NDE0OGFlM2YxZTE3Y2Q4YjZiY2MxMmMyYjE0ZTRi",
+  "snapshot_id": "MCw0M2MyNjc4MWQ2N2Q0NTQ3OTRkMWI5ZDgzYjhmYjFiY2EwNzJkMzhh",
   "tracks": [
     {
       "added_at": "2023-10-05 05:39:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "The Loveliest Time",
-        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 256528,
-      "name": "Kollage",
-      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
         "name": "SALVAJE",
         "url": "https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 205440,
       "name": "SALVAJE",
       "url": "https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "Fight Like A Girl",
-        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Fight Like A Girl",
-      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
         "name": "The Teaches of Peaches",
         "url": "https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 250693,
       "name": "Fuck the Pain Away",
       "url": "https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "Fight Like A Girl",
+        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Fight Like A Girl",
+      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
+        "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
+        "url": "https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw"
+      },
+      "artists": [
+        {
+          "name": "DIDIxDADA",
+          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "duration_ms": 214144,
+      "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
+      "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
         "name": "Wild Girl",
         "url": "https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 194088,
       "name": "Wild Girl",
       "url": "https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
-        "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
-        "url": "https://open.spotify.com/album/4NE78JyLuQgUhllqVJF4iw"
-      },
-      "artists": [
-        {
-          "name": "DIDIxDADA",
-          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
-        }
-      ],
-      "duration_ms": 214144,
-      "name": "\u0e1e\u0e25\u0e31\u0e49\u0e07 (Confess)",
-      "url": "https://open.spotify.com/track/1PLYjJH6rPyf6FQZeDfDvY"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-05 05:39:47",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
-      },
-      "artists": [
-        {
-          "name": "Mystic Marley",
-          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
         "name": "Pao Sto Nisi",
         "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 178705,
       "name": "Pao Sto Nisi",
       "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf"
+      },
+      "artists": [
+        {
+          "name": "Mystic Marley",
+          "url": "https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -1155,6 +1155,26 @@
       "duration_ms": 159862,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI"
+    },
+    {
+      "added_at": "2023-10-05 05:39:47",
+      "album": {
+        "name": "Miami (From Miami Bici 2 The Movie)",
+        "url": "https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT"
+      },
+      "artists": [
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        },
+        {
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Miami - From Miami Bici 2 The Movie",
+      "url": "https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2"
     },
     {
       "added_at": "2023-10-05 05:39:47",
@@ -1203,26 +1223,6 @@
       "duration_ms": 184000,
       "name": "m00d",
       "url": "https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU"
-    },
-    {
-      "added_at": "2023-10-05 05:39:47",
-      "album": {
-        "name": "Miami (From Miami Bici 2 The Movie)",
-        "url": "https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT"
-      },
-      "artists": [
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        },
-        {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
-        }
-      ],
-      "duration_ms": 140347,
-      "name": "Miami - From Miami Bici 2 The Movie",
-      "url": "https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2"
     },
     {
       "added_at": "2023-10-05 05:39:47",

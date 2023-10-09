@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjVmZmI0ZjE2YTc4NGY4Yjc5ZTRkMTg3MDkxYjE0N2MzYWRhZGYx",
+  "snapshot_id": "MCw0ZmIyYjMyMGJkYzljZDIxMmJjOGU2ZDJiNTcxNmQzYjlmMjk4Yzk4",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -113,7 +113,7 @@
         }
       ],
       "duration_ms": 75800,
-      "name": "Wavy (Interlude)",
+      "name": "Wavy (Interlude) (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p"
     },
     {
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 34133,
-      "name": "Endlessly Interlude",
-      "url": "https://open.spotify.com/track/2QoDA4PQiLA5gZME35my0n"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "New Amerykah Part Two: Return Of The Ankh",
         "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 64733,
       "name": "You Loving Me (Session)",
       "url": "https://open.spotify.com/track/2mOKh7J2mRrdnkHhqpHwFj"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 34133,
+      "name": "Endlessly Interlude",
+      "url": "https://open.spotify.com/track/2QoDA4PQiLA5gZME35my0n"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 51266,
-      "name": "Hey Sugah - Interlude",
-      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "You Should Be Here",
         "url": "https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 137848,
       "name": "Runnin' - Interlude",
       "url": "https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 51266,
+      "name": "Hey Sugah - Interlude",
+      "url": "https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 117226,
-      "name": "Makin' Love - Interlude",
-      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 150226,
       "name": "Makings Of You - Interlude",
       "url": "https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/7N31OoKCsEtlP7dkJ4SlvN"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 117226,
+      "name": "Makin' Love - Interlude",
+      "url": "https://open.spotify.com/track/6prnOcWWbA61hfoFzWFe6i"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+        "name": "Still Ghetto",
+        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
+      "duration_ms": 48933,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Still Ghetto",
-        "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
       },
       "artists": [
         {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         }
       ],
-      "duration_ms": 48933,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2"
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-12-03 05:29:16",

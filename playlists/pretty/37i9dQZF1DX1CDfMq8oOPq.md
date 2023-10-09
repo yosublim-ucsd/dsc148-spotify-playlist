@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,693 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,724 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 39 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 |
 | 40 | [Kawo](https://open.spotify.com/track/4TCNy9SAKNl3LLpsK8ITID) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Kawo](https://open.spotify.com/album/75C45QT4TPLkGrOzevo1MN) | 3:37 |
 | 41 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 |
-| 42 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 |
-| 43 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
-| 44 | [Como Eu Virei A Bad Girl](https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Carta Aberta \(Lado A\)](https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA) | 2:11 |
-| 45 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
-| 46 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
-| 47 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/3X7HLxpqEgcA7f9lbXXKb5) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
+| 42 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
+| 43 | [Em Mim](https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Em Mim](https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq) | 2:06 |
+| 44 | [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 |
+| 45 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/3X7HLxpqEgcA7f9lbXXKb5) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
+| 46 | [Como Eu Virei A Bad Girl](https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Carta Aberta \(Lado A\)](https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA) | 2:11 |
+| 47 | [Sangue Negro](https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc) | [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Sangue Negro](https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R) | 1:44 |
 | 48 | [Sobrevivi](https://open.spotify.com/track/3zFZxwjqQPYioTjcu18kAE) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [BadBabi](https://open.spotify.com/artist/60NNeMFMmPkwbBTmy7FGlh) | [Sobrevivi](https://open.spotify.com/album/6Mklnvkx0O7tceqISPMd6h) | 2:29 |
 | 49 | [Calcinha da Fendi](https://open.spotify.com/track/4TUAvHTUKyQ1pioT6J5MQ1) | [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Dj Herculano](https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv) | [Calcinha da Fendi](https://open.spotify.com/album/0yNGyMsTEBUWwfYvNYoWHl) | 2:38 |
 | 50 | [Refiz uma de Amor](https://open.spotify.com/track/7nWDoDGFHg2zn6jXw2IHKJ) | [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8) | [Refiz uma de Amor](https://open.spotify.com/album/4gxtiK4zuXpTyh0lTyR5no) | 3:11 |
 
-Snapshot ID: `MCw3MzM1ZWQ5YWJmZDhlYTZlOTk4ZDJiYzIyOTY1MGE0MDg4ZGUyZGM5`
+Snapshot ID: `MCwxZGM4NmVhZGZiMDI1MzYyNzNkODU1MDQwNTI0NWExZDM5ZmEzMTlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,895 likes - 151 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,908 likes - 151 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 127 | [Mouse Me Cat You](https://open.spotify.com/track/75WlJmJCkwsbgwrLEle4mp) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Mouse Me Cat You](https://open.spotify.com/album/10US8WPvdKCwAjGyU1HLVS) | 3:37 |
 | 128 | [a moment in the sun](https://open.spotify.com/track/4iOMjNtR3qXzXmjmznqL9Q) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [a moment in the sun](https://open.spotify.com/album/57Hjcj3G2BIuJvKxuBL8IP) | 3:19 |
 | 129 | [Even On The Darkest Days](https://open.spotify.com/track/3NpuqPtTtB6dPp1JKcTIKW) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Handsome Ghost](https://open.spotify.com/album/7Fq5h7UYcogQfuFFuPkcqA) | 3:46 |
-| 130 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 |
+| 130 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 131 | [Free](https://open.spotify.com/track/6I3Ns61Hy5xBwlakoVodA8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Free](https://open.spotify.com/album/2DK8qUZem6LDFCcr7vrJLk) | 3:13 |
 | 132 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 133 | [Missionary Feelings](https://open.spotify.com/track/4pqcPscDHP2pBg5wiYxIQ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Missionary Feelings](https://open.spotify.com/album/4SdXC03JUEmupXnL0yKRjH) | 3:32 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Big In The World](https://open.spotify.com/track/3Chjp9g7SkVVqAQ25jQRl2) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Big In The World](https://open.spotify.com/album/2R8lG3iFzp3lqKdLNFJsI9) | 4:28 |
 | 151 | [Yellow Roses](https://open.spotify.com/track/1a5MsyICJgcT9z9bcUIOVV) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Yellow Roses](https://open.spotify.com/album/3g4mP7ZujWwIdhOkDarYkN) | 3:46 |
 
-Snapshot ID: `MCw4OTNjZDY0MDMxY2NjNDhlYzFlNmE4Yjk4MDU5ZjA1OTkxMjA3ZWRm`
+Snapshot ID: `MCxkMWYxNGFiNjYxOWE0MTQ2NDAyN2RmMDNhNGMxODM1MTI3NzE3NTll`

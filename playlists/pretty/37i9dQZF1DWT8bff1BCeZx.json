@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 6671,
+  "num_followers": 6736,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmM4ODk1NWU2YzEzM2RhOWZhOTRjNDMwMGU4YWRjYjc2ZjNhMzNm",
+  "snapshot_id": "MCxjNzBkNTQyZTBiZGUyYmQyOWQxNWMwMGE1Y2E4ODljMDJhZTMyMmJm",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Daily (Remix)",
         "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 195428,
       "name": "Daily - Remix",
       "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Mo",
+        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Mo",
+      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Akuzike",
         "url": "https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL"
       },
@@ -891,38 +907,6 @@
       "duration_ms": 200282,
       "name": "Akuzike",
       "url": "https://open.spotify.com/track/6HvdB8sn4XF6VmpBxtxjmn"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Mo",
-        "url": "https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 212573,
-      "name": "Mo",
-      "url": "https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "BLESS ME",
-        "url": "https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M"
-      },
-      "artists": [
-        {
-          "name": "Jaderah",
-          "url": "https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "BLESS ME",
-      "url": "https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -975,18 +959,42 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "W.O.W (Walking On Water) [Reprise]",
-        "url": "https://open.spotify.com/album/5ferhImBZxXX8CSe2f7Gf8"
+        "name": "Right Here (It Must Be)",
+        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
       },
       "artists": [
         {
-          "name": "Toluwanimee",
-          "url": "https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         }
       ],
-      "duration_ms": 484374,
-      "name": "W.O.W (Walking On Water) - Reprise",
-      "url": "https://open.spotify.com/track/1xpO4efGhPiVhXMdxGfV29"
+      "duration_ms": 189382,
+      "name": "Right Here (It Must Be)",
+      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "BLESS ME",
+        "url": "https://open.spotify.com/album/2XHD6EX55HJfkZXGqLOH2M"
+      },
+      "artists": [
+        {
+          "name": "Jaderah",
+          "url": "https://open.spotify.com/artist/5h0YEFbvd46PMori1xWBFM"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "BLESS ME",
+      "url": "https://open.spotify.com/track/7EUUYhtpRLorHFzPqzkdsW"
     }
   ],
   "unique_name": "Higher",

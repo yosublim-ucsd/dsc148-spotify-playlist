@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "100 Classic Songs For Christmas",
+        "url": "https://open.spotify.com/album/6GtVBaPeDGXYlciQbP4lQ1"
+      },
+      "artists": [
+        {
+          "name": "Christmas Music Experts",
+          "url": "https://open.spotify.com/artist/6RLbHo2g5l1mQBRFFTs8RA"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265373,
+      "name": "Angels From The Realms Of Glory",
+      "url": "https://open.spotify.com/track/7fibMOfC0p0083Ghn92zoA"
+    },
+    {
+      "album": {
         "name": "Non-Denominational Holiday Music",
         "url": "https://open.spotify.com/album/3KPhVaCPCPktxfmNoBuDVp"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 265427,
       "name": "Angels from the Realms of Glory (Instrumental Version)",
       "url": "https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK"

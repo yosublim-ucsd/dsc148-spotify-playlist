@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,062 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,101 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 21 | [Hoy Puede Ser un Gran Día](https://open.spotify.com/track/5YxgSArh0FDP0CEDuZcYnC) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [En Transito](https://open.spotify.com/album/2OlJAOxMhMBR7wfS5CkfwJ) | 2:10 |
 | 22 | [Y Sin Embargo](https://open.spotify.com/track/7FIHe9wfzmOAGMrmqPBkGm) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Dos Pajaros De Un Tiro](https://open.spotify.com/album/4J0sq1BDEOPbEsSlAI17u6) | 6:29 |
 | 23 | [Llueve Sobre Mojado](https://open.spotify.com/track/22SDPt6PeiyySI2TZCdRm1) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 5:30 |
-| 24 | [Paraules D'amor \(with Pablo Albóran\)](https://open.spotify.com/track/0YXXPIjcELmd6vZkBwS4T4) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:40 |
+| 24 | [Paraules D'amor \(with Pablo Alborán\)](https://open.spotify.com/track/0YXXPIjcELmd6vZkBwS4T4) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:40 |
 | 25 | [Con la Frente Marchita](https://open.spotify.com/track/1iRf1TGSCLaxU7O7iBLiuV) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Mentiras Piadosas](https://open.spotify.com/album/7IriScvheoIW22aJFAxEao) | 5:01 |
 | 26 | [Para la Libertad](https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Miguel Hernandez](https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S) | 2:50 |
 | 27 | [Algo Personal \(with Calle 13\)](https://open.spotify.com/track/7J9TwCVXcyXywLqAGwlr9S) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 5:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [El Titiritero \- Directo México](https://open.spotify.com/track/3PjTUuYX87fitBBaRhFaVa) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat en Bellas Artes \(Directo México\)](https://open.spotify.com/album/7kOxIx5NZ9dFbArJFMNZIY) | 4:21 |
 | 100 | [Mas de Cien Mentiras \- En Directo](https://open.spotify.com/track/4Nt5ZxHaMELMnGmrL5pn6v) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [500 Noches para una Crisis \(En Directo\)](https://open.spotify.com/album/2jES2ebdNVsrXtUXYEovme) | 3:23 |
 
-Snapshot ID: `MCw1ZDk0Nzk4OWVjNWNhYjNiZjZlMGYyNGEyZjUzMjFkMDhlNDFiZjMw`
+Snapshot ID: `MCxlNGM4MDhhNmFmNzY3M2ZlYzZlZmZlYmRmN2M0OTM1NDcwY2ZlY2Jj`

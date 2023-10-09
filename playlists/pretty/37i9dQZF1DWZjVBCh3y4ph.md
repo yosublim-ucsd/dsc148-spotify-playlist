@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Barth
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,526 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,594 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 |
 | 40 | [Karésé Mwen \- Toi et Moi](https://open.spotify.com/track/43La0fMCv1tBBmAeuYSumQ) | [Dj Jackson](https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB), [Methi's](https://open.spotify.com/artist/4Sx9MLqVbK6oUTFK9HrEoa), [KENNY HAITI](https://open.spotify.com/artist/6xK22PI2rZCvTE4KECYDb7) | [Karésé Mwen \(Toi et Moi\)](https://open.spotify.com/album/5BzzjwPp294mjhdQ5TcwX5) | 4:54 |
 
-Snapshot ID: `MCxjNDNiMThmYTIyNzQyNTU5NzEzNmNmMDI2MDhjMDFmOThiNDk4NzJl`
+Snapshot ID: `MCw4MTUwYTMzZjRmOTA5NDU4YjgzNzk2YWY3NWE3MDg1NzY3YzJjMTQy`

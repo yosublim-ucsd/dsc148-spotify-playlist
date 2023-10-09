@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-77 songs - 3 hr 31 min
+78 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [A Virgin Unspotted](https://open.spotify.com/track/78Lpph0ArlWZDYkKoFTxZU) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:13 | 2021-11-19 |  |
 | [Adeste fideles \(O Come All Ye Faithful\) \(arr\. A\. Delmoni\)](https://open.spotify.com/track/6qR5mHYq1pVlBWDdrpmR90) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:48 | 2021-11-19 |  |
 | [Angels from the Realms of Glory](https://open.spotify.com/track/38WmvPWqMctDv2VytIJ6tU) | [Catholic Mass Musicians](https://open.spotify.com/artist/6VwcjDM3q7Q9oJit6VoqYz) | [Instrumental Songs for Catholic Mass](https://open.spotify.com/album/3bAQGBMaThSyKZwjAWgmyJ) | 4:25 | 2021-11-19 | 2022-07-29 |
+| [Angels From The Realms Of Glory](https://open.spotify.com/track/7fibMOfC0p0083Ghn92zoA) | [Christmas Music Experts](https://open.spotify.com/artist/6RLbHo2g5l1mQBRFFTs8RA) | [100 Classic Songs For Christmas](https://open.spotify.com/album/6GtVBaPeDGXYlciQbP4lQ1) | 4:25 | 2023-09-27 |  |
 | [Angels from the Realms of Glory](https://open.spotify.com/track/3Nq0nWKZqZOpYEc1IMWb4g) | [Christmas Piano Maestro](https://open.spotify.com/artist/6Fy2stjbuAVE5MEtqSTTX0) | [Non\-Denominational Holiday Music](https://open.spotify.com/album/3KPhVaCPCPktxfmNoBuDVp) | 4:25 | 2022-11-11 | 2022-11-14 |
-| [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 | 2021-11-19 |  |
+| [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 | 2021-11-19 | 2023-10-09 |
 | [Angels, from the Realms of Glory \(arr\. A\. Delmoni\)](https://open.spotify.com/track/56YOeRNT8wdRA9vvc5nq5i) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 1:29 | 2021-11-19 | 2023-09-28 |
 | [As With Gladness Men Of Old](https://open.spotify.com/track/2siSp0ase32wv1pzn71Guo) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:24 | 2021-11-19 |  |
 | [Away in a Manger](https://open.spotify.com/track/4YOZhMlGjYyamRhAvs4n2r) | [Sarah Brooks](https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN) | [Simply Christmas: Instrumental Hymns](https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq) | 2:24 | 2021-11-19 |  |

@@ -4,14 +4,14 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-307 songs - 18 hr 15 min
+309 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 | 2022-06-06 |  |
 | [123我愛你](https://open.spotify.com/track/3G6xzaTG4H5q1hF0O29Pcr) | [新樂塵符\-賀子玲](https://open.spotify.com/artist/1no9ABTWrrjgqPVRadC6XA) | [123我愛你](https://open.spotify.com/album/0YU1etKEY5LnAOGByT1MsQ) | 3:19 | 2022-06-20 | 2022-07-10 |
 | [123我爱你](https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u) | [新乐尘符](https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA) | [123我爱你](https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo) | 3:19 | 2022-07-25 |  |
-| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 |  |
+| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 | 2023-10-09 |
 | [Always Be with You\(電視劇《戀愛是科學》片頭曲\)](https://open.spotify.com/track/4ehqDwPzXQDkQqtGWR8vkD) | [王欣晨 Amanda](https://open.spotify.com/artist/4tAhv18fKUC8QOWNiWS5eJ) | [每天都是紀念日](https://open.spotify.com/album/4Gaah0qAyq762OOS1qfG1H) | 3:47 | 2022-06-13 | 2022-07-25 |
 | [ANYTHING YOU WANT](https://open.spotify.com/track/0ZmrEs9PVo8Ouks4DCeknO) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [ANYTHING YOU WANT](https://open.spotify.com/album/10jiV0i5TjmINUU5jIRIZn) | 3:17 | 2022-06-06 | 2022-07-25 |
 | [ANYTHING YOU WANT \- Duet Version](https://open.spotify.com/track/4QpK3n9kidFcEHU4rBfLoi) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW), [吳宇恆](https://open.spotify.com/artist/45bOOG6ExnhMFBjKLZNZ2M) | [ANYTHING YOU WANT \(Duet Version\)](https://open.spotify.com/album/0AWl8bgcO3k3uuT8kiOiXr) | 3:17 | 2022-06-13 | 2022-07-21 |
@@ -30,6 +30,7 @@
 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 | 2022-07-25 |  |
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
 | [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 | 2023-02-03 |
+| [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-08 |  |
 | [LOVE U](https://open.spotify.com/track/4WMtqsI7PJHr06JhaCVdPe) | [齊晨](https://open.spotify.com/artist/6FgvbauqkRDLhAB6Jv8HWK) | [LOVE U](https://open.spotify.com/album/3Dai6zQWjLo9Bygbq4wa2G) | 4:22 | 2022-06-13 | 2022-07-05 |
 | [LOVE YOU](https://open.spotify.com/track/1rzLrlJ3dB0OYODelxaRQY) | [C.T.O](https://open.spotify.com/artist/7lcIiKfgKb19JCpm16acIQ) | [LOVE YOU](https://open.spotify.com/album/7mrM3Ixy1Ui3wXBxEadmE2) | 3:34 | 2022-06-20 | 2022-07-07 |
 | [Love you till I die](https://open.spotify.com/track/20ysHIsiNC08vzhhHE9p8O) | [黃號](https://open.spotify.com/artist/0RVEZgV5JHf5UR8ywnIYrA), [曾薀帆](https://open.spotify.com/artist/7J7oIdrlpxuIXXkfT0FmOD) | [為你唱情歌 \- Love you till I die](https://open.spotify.com/album/2tX0HTJYDGSLwNSVO0Qt1T) | 3:22 | 2022-11-08 | 2022-12-28 |
@@ -64,7 +65,7 @@
 | [Valentine's Day](https://open.spotify.com/track/0ZSHpad1O6qybnxaEj0lyL) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [第9次初戀](https://open.spotify.com/album/77pNXNu9FeYHfBIJOSSFhZ) | 4:03 | 2022-07-25 | 2022-07-27 |
 | [Will You Be My Love \~ 問問 \- WBL系列影集第一季<永遠的第一名>片頭曲](https://open.spotify.com/track/0X0yv9i8T1YdeGbOI0PnwN) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [Will You Be My Love \~ 問問 \(WBL系列影集第一季<永遠的第一名>片頭曲\)](https://open.spotify.com/album/6zFcUqZETFY38EQOhZgeHL) | 3:23 | 2022-06-06 | 2022-07-27 |
 | [Xiao Guai Guai](https://open.spotify.com/track/2uPnipbrzbRK6FBjpZmUNP) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [0 cm to YO](https://open.spotify.com/album/7z2oSPZDtelkc6cT4ymViw) | 3:45 | 2022-06-06 | 2022-07-17 |
-| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 |  |
+| [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [You Are My Only One \(電視劇“我和兩個他”主題曲\)](https://open.spotify.com/album/4tNABtO1IjRcguQA28sP8b) | 4:33 | 2022-06-13 | 2023-10-09 |
 | [You're My Love](https://open.spotify.com/track/4oOlDUTm41YVy23XzRssrS) | [李佳翰](https://open.spotify.com/artist/0Smp4iNiSczpOof3x08L1T) | [You're My Love](https://open.spotify.com/album/4vmKVMmlL0aEAaGBWJ12Uo) | 3:17 | 2023-09-18 | 2023-10-04 |
 | [⼀直在⼀起好嗎](https://open.spotify.com/track/70cB4HoaERBIDIzIZcIOg5) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [⼀直在⼀起好嗎](https://open.spotify.com/album/4KnTEJL7azTJwzgS5XCGVd) | 2:59 | 2022-09-05 | 2022-09-20 |
 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 | 2022-06-06 |  |
@@ -204,6 +205,7 @@
 | [我多喜欢你](https://open.spotify.com/track/1ZW6Zxs0a1dFtaaPe8lc94) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0), [Jeii Pong庞捷忆](https://open.spotify.com/artist/2BmVlw5akh7VgB728Yq1x2) | [我多喜欢你](https://open.spotify.com/album/13h94ukOHOL68UN2tY8iIQ) | 3:04 | 2022-06-06 | 2022-07-29 |
 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 | 2022-07-25 |  |
 | [我好喜歡你 \- 電視劇《我好喜歡你》片尾曲](https://open.spotify.com/track/0MjmEm3cEKW65S3E3gdiST) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [沈月](https://open.spotify.com/artist/1CFB64CMCUZEEdKbEzugJy) | [我好喜歡你 \(電視劇《我好喜歡你》片尾曲\)](https://open.spotify.com/album/2IIse0JWuGOBh1xDhelIid) | 3:54 | 2022-06-27 | 2022-07-23 |
+| [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 | 2023-10-08 |  |
 | [我歡喜喜歡你](https://open.spotify.com/track/54pRAfOy0DqZh6fYmmtK6L) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [我的名字](https://open.spotify.com/album/0Y8Iy4Wrw4Ke6DLbbPCfpL) | 4:34 | 2022-06-06 | 2022-07-27 |
 | [我的](https://open.spotify.com/track/685v4MbZJ111mcZWIoCH0s) | [王俊凱](https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5) | [我的](https://open.spotify.com/album/5x4p9XuKJTxUS6xgserPDl) | 3:45 | 2022-07-18 | 2022-07-24 |
 | [我的心裡呀](https://open.spotify.com/track/3vjdrhCbZ6KAL7F6sBaUni) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [我的心裡呀](https://open.spotify.com/album/3ztddA2NGEIt70TPEMJ6Qf) | 4:32 | 2022-06-13 | 2022-07-08 |

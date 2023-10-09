@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN"
+    },
+    {
+      "album": {
         "name": "To City",
         "url": "https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA"
       },
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 235346,
       "name": "Shadow Love",
       "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"

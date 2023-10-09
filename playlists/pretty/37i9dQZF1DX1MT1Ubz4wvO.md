@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Delux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,537 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,553 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Laura](https://open.spotify.com/track/6dHldLJw7BrTKEWGZ4Gf8i) | [Daltonica](https://open.spotify.com/artist/1ah0GDs5XpNctRevK10HX9) | [Laura](https://open.spotify.com/album/16u6auTgR17SzfpGDSOJK8) | 4:14 |
 | 50 | [Rock Amo](https://open.spotify.com/track/3NqzYAJZeWOeGyx4BafLH6) | [Pablo Sbaraglia](https://open.spotify.com/artist/1QnMXZuKQaT0kUIIg2L8vs) | [Rock Amo](https://open.spotify.com/album/2G1DneHq9L26jF7T2EmxX7) | 3:33 |
 
-Snapshot ID: `MCxiYWM1YjU0ODc2Nzc0ZWJmM2FmYmFmZDQ4NzRiNWQ5ZGNjOWVhMTM0`
+Snapshot ID: `MCxlODU1OWE2ZTI0NDc3MDk5ODQ4ZDM3ZWMwNjJiNTE3YTQ1ZDU2NTlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: DIDIxDADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,470 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,478 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/track/1XjHbpsD54lYWNJ6lzOpQk) | [KETAYA](https://open.spotify.com/artist/7gfHmil2P4Ypj0KGgscy0M) | [คืนดั่งฝัน \(Yellow Moon\)](https://open.spotify.com/album/1rHDRR26hd8N2ulNfYSAC0) | 3:09 |
 | 50 | [แผล](https://open.spotify.com/track/50DrRmQ5QAPV6besq1Eos0) | [SEEDAA THEVILLAIN](https://open.spotify.com/artist/2hL77pdmG2E8GCD4tzOa4I) | [แผล](https://open.spotify.com/album/5aX8LJFNokJOIlYSzIVsYj) | 2:40 |
 
-Snapshot ID: `MCwwMDc5NGM1Zjk5OGFmOTgzMTZkNWFkOTRmYmVhMmQwYzU4ZDUxOGZh`
+Snapshot ID: `MCxkMGNiOGYwODg4MjMyOWNlMmRkNGUzMmZmYjExMWNmMDdjOWE1NGFk`

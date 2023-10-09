@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,280 likes - 53 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,284 likes - 53 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 40 | [How Great Our Joy](https://open.spotify.com/track/7y1j9j23BVQxvpBfI5PC5C) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 2:05 |
 | 41 | [I Saw Three Ships](https://open.spotify.com/track/012kxyu91sy0GV2cDHU8M4) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [Peaceful Solo Piano Christmas 2](https://open.spotify.com/album/1HM8IfS4L23ezwo6mV5u2x) | 2:31 |
 | 42 | [O Little Town Of Bethlehem](https://open.spotify.com/track/6TsGWVS5Rqhq018gkSI31E) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 2:38 |
-| 43 | [Angels from the Realms of Glory \(Instrumental Version\)](https://open.spotify.com/track/62hAUuevuzKsElvDCoYZxK) | [The O'Neill Brothers](https://open.spotify.com/artist/2szp9EHFXhBSuS3PmZwqvg) | [Most Memorable Christmas on Piano: Best of The O'Neill Brothers](https://open.spotify.com/album/6u3EBI80MtYdsiODnZgzzu) | 4:25 |
+| 43 | [Angels From The Realms Of Glory](https://open.spotify.com/track/7fibMOfC0p0083Ghn92zoA) | [Christmas Music Experts](https://open.spotify.com/artist/6RLbHo2g5l1mQBRFFTs8RA) | [100 Classic Songs For Christmas](https://open.spotify.com/album/6GtVBaPeDGXYlciQbP4lQ1) | 4:25 |
 | 44 | [Il Est Ne, Le Divin Enfant \(He Is Born\)](https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Winter \- Solo Piano Christmas](https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL) | 4:48 |
 | 45 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 |
 | 46 | [Away in a Manger](https://open.spotify.com/track/4YOZhMlGjYyamRhAvs4n2r) | [Sarah Brooks](https://open.spotify.com/artist/7d0kRVs5S78oKXf98cUDaN) | [Simply Christmas: Instrumental Hymns](https://open.spotify.com/album/0E4NGHzqWYQjxT26ldESgq) | 2:24 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViKwLyOBsJF.md) - [plain]
 | 52 | [O Come, O Come Emmanuel 2018](https://open.spotify.com/track/0Xy3LwJFQfx7yQRRgdG5Wo) | [Louis Landon](https://open.spotify.com/artist/43Ybg5x9TrGovf70jSMzah) | [O Come, O Come Emmanuel 2018](https://open.spotify.com/album/2XSpLg6Gri2GupXZxP7K6j) | 3:05 |
 | 53 | [Veni, veni Emmanuel \(arr\. A\. Delmoni\)](https://open.spotify.com/track/2kMIPXDydaTNVdQFcWzYEF) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Arturo Delmoni](https://open.spotify.com/artist/66ggVPZBWW6c7XFicO6lpv), [Alexander Romanul](https://open.spotify.com/artist/4PlVtpuMdsJFAN49f7Bxji), [Katherine Murdock](https://open.spotify.com/artist/5VBEOdleCWJQq05zXhuQzl), [Nathaniel Rosen](https://open.spotify.com/artist/27Uojc5MCLUmrCVZE3EL9O) | [A String Quartet Christmas](https://open.spotify.com/album/2PJKHy7JwR6vhlget6oZuU) | 2:22 |
 
-Snapshot ID: `MCxlNTg1ZGM2OWRmZDM2ZWZkZmQ2MDZiODhmMjJmZjY0YTU3Yjc5MGNh`
+Snapshot ID: `MCwxNGZkNDAyMTdkMzI5NTJhZjhmZWEwYmQ5NWY1NzU4M2UwMDE0MGZk`

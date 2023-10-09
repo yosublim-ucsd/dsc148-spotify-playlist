@@ -1,12 +1,12 @@
 {
-  "description": "The best Grunge heirs' songs. Cover: Staind",
-  "num_followers": 619380,
+  "description": "The best Grunge heirs' songs. Cover: Puddle of Mudd",
+  "num_followers": 619516,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzIwNGY3MzQ1NGZhNDJkNTgxNGRmZDA0N2I3YzU4ZmJlYTkwMjA3",
+  "snapshot_id": "MCwwZmE4YzQ2NmU0NWEzNzJhMjg2MmRmODIyMjk2Y2I5YTU2ZDI3N2Vl",
   "tracks": [
     {
       "added_at": "2023-05-26 14:18:30",
@@ -587,22 +587,18 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Hero (feat. Josey Scott)",
-        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+        "name": "Lemon Parade",
+        "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
       },
       "artists": [
         {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
-        },
-        {
-          "name": "Josey Scott",
-          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+          "name": "Tonic",
+          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Hero (feat. Josey Scott)",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+      "duration_ms": 261519,
+      "name": "If You Could Only See",
+      "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Lemon Parade",
-        "url": "https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V"
+        "name": "Hero (feat. Josey Scott)",
+        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
       "artists": [
         {
-          "name": "Tonic",
-          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        },
+        {
+          "name": "Josey Scott",
+          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
         }
       ],
-      "duration_ms": 261519,
-      "name": "If You Could Only See",
-      "url": "https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6"
+      "duration_ms": 200480,
+      "name": "Hero (feat. Josey Scott)",
+      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
     },
     {
       "added_at": "2023-05-26 14:18:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "This Type Of Thinking (Could Do Us In)",
         "url": "https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223173,
       "name": "Vitamin R (Leading Us Along)",
       "url": "https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
     },
     {
       "added_at": "2023-05-26 14:18:30",

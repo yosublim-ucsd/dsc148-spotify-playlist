@@ -4519,6 +4519,28 @@
     },
     {
       "album": {
+        "name": "Kababo",
+        "url": "https://open.spotify.com/album/11O0BU7mUyyzavBc7vbsXf"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374634,
+      "name": "Kababo",
+      "url": "https://open.spotify.com/track/4cJJVxs9tMBNsH9yP2d20s"
+    },
+    {
+      "album": {
         "name": "Holographic Witness",
         "url": "https://open.spotify.com/album/7cg8231Zuu1nV8vdV051eR"
       },
@@ -8030,7 +8052,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 194754,
       "name": "Samum",
       "url": "https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR"

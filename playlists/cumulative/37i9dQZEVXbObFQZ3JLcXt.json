@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Dj Karna Su Sayang Yang Kalian Cari!!",
+        "url": "https://open.spotify.com/album/5q0w0liVLUfUB0QDyNCPyR"
+      },
+      "artists": [
+        {
+          "name": "Maman Fvndy",
+          "url": "https://open.spotify.com/artist/6iwGYa6SkkbWU3JjwLuTAQ"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258950,
+      "name": "Dj Karna Su Sayang Yang Kalian Cari!!",
+      "url": "https://open.spotify.com/track/2SmulQCyMuvudoB0RNjGtO"
+    },
+    {
+      "album": {
         "name": "DON'T FIGHT THE FEELING - Special Album",
         "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 241714,
       "name": "Tak Kan Hilang",
       "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
@@ -8322,9 +8340,27 @@
           "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "date_added": "2023-10-07",
+      "date_added": "2023-10-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-09",
       "duration_ms": 179864,
       "name": "You & Me (Coachella ver.)",
       "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"

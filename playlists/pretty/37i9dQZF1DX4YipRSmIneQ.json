@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 71382,
+  "num_followers": 71476,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTdiNmU1ODRlY2RmM2Q4NTE2MjZjNWQ1ZTViMThmYzU1NThiNDIw",
+  "snapshot_id": "MCw0M2MwZjk1YjM4ZTAzYTYxNDI1NDUxNDViOWZjNzc1OTE5N2FiN2Nl",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
+        "name": "Fantasea",
+        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Fierce",
+      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
         "name": "Welcome To My Island (Remix)",
         "url": "https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Fantasea",
-        "url": "https://open.spotify.com/album/3cEIffjpBqKSWwpUFcCu5x"
-      },
-      "artists": [
-        {
-          "name": "Azealia Banks",
-          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Fierce",
-      "url": "https://open.spotify.com/track/2XcsL72WPyN8lATbaPHUp3"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -479,50 +479,6 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Joyful Death",
-        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 258340,
-      "name": "Sweat - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
-        "name": "Hott Boyz",
-        "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        },
-        {
-          "name": "Kzn",
-          "url": "https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Guud Gurls",
-      "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
-    },
-    {
-      "added_at": "2023-07-24 14:56:33",
-      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -547,6 +503,50 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Hott Boyz",
+        "url": "https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "Kzn",
+          "url": "https://open.spotify.com/artist/0RycZwNOoEzo6mh88IKFQW"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Guud Gurls",
+      "url": "https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI"
+    },
+    {
+      "added_at": "2023-07-24 14:56:33",
+      "album": {
+        "name": "Joyful Death",
+        "url": "https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 258340,
+      "name": "Sweat - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -591,18 +591,22 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Make You Scream",
-        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
+        "name": "Horsey",
+        "url": "https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv"
       },
       "artists": [
         {
-          "name": "VTSS",
-          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 163909,
-      "name": "Make You Scream",
-      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
+      "duration_ms": 137206,
+      "name": "Horsey",
+      "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -627,22 +631,18 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Horsey",
-        "url": "https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv"
+        "name": "Make You Scream",
+        "url": "https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46"
       },
       "artists": [
         {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
         }
       ],
-      "duration_ms": 137206,
-      "name": "Horsey",
-      "url": "https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP"
+      "duration_ms": 163909,
+      "name": "Make You Scream",
+      "url": "https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH"
     },
     {
       "added_at": "2023-07-24 14:56:33",
@@ -903,22 +903,26 @@
     {
       "added_at": "2023-07-24 14:56:33",
       "album": {
-        "name": "Level up My Skills",
-        "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
+        "name": "ELASTIC",
+        "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
       "artists": [
         {
-          "name": "Kiddy.Wav",
-          "url": "https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW"
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
         },
         {
-          "name": "YTP",
-          "url": "https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S"
+          "name": "Prado Monroe",
+          "url": "https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq"
+        },
+        {
+          "name": "Slim Media Player",
+          "url": "https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR"
         }
       ],
-      "duration_ms": 269793,
-      "name": "Grab Dat Ass All Night",
-      "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
+      "duration_ms": 219508,
+      "name": "ELASTIC",
+      "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
     }
   ],
   "unique_name": "Sweat.",

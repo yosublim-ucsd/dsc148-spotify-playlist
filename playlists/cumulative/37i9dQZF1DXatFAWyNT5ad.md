@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Landon Barker
 
-659 songs - 1 day 10 hr 16 min
+660 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Amen](https://open.spotify.com/track/4NxrAZwdMG9pThRYql6MfF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Amen](https://open.spotify.com/album/31SPurHzla1Hs0x1zu6Dz4) | 2:59 | 2022-03-24 | 2022-04-21 |
 | [Amnesia](https://open.spotify.com/track/0zu5YEA4jVLa36NtZHS6SO) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar \(Deluxe\)](https://open.spotify.com/album/3nfaRBKZML6L0cTin14obR) | 2:51 | 2022-03-17 | 2022-07-21 |
 | [Animals](https://open.spotify.com/track/0O7hmlpzzPPKCjZquUm9QX) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Animals](https://open.spotify.com/album/5Fx85G6YNco1ZumUF1zG2Q) | 3:40 | 2022-03-24 | 2022-04-21 |
+| [Antidote](https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [The Witching Hour](https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE) | 3:11 | 2023-10-06 |  |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2022-03-24 | 2022-04-17 |
 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2023-03-17 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:04 | 2022-11-03 | 2022-11-13 |
@@ -421,7 +422,7 @@
 | [New Age Meds](https://open.spotify.com/track/4FaYk25oNcZClZ6tx5CE8R) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New Age Meds](https://open.spotify.com/album/4QyxAGwZ1rlb58wSY1oRu0) | 3:30 | 2022-03-24 | 2022-05-06 |
 | [No Champagne](https://open.spotify.com/track/4X3KXMKeQ7UTIuJmjAnTCu) | [Lo Talker](https://open.spotify.com/artist/76FasD1q35Rjz1PrGTSm9U) | [No Champagne](https://open.spotify.com/album/5Lxhu0evMdASSGfeJXATKf) | 3:34 | 2022-03-24 | 2022-04-19 |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2022-03-17 | 2022-07-29 |
-| [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-07-28 |  |
+| [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-07-28 | 2023-10-09 |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-06-30 | 2022-08-02 |
 | [nostalgic \(luvsick\)](https://open.spotify.com/track/1DQj87dLf0PPrpEjvBgHXP) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [nostalgic \(luvsick\)](https://open.spotify.com/album/5DHL2kzqmvPTRwE5JJbUsK) | 2:45 | 2022-03-17 | 2022-06-14 |
 | [Not Alone but Not with You](https://open.spotify.com/track/5hZO5WBJ7VMz32k5cWJqrR) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Not Alone but Not with You](https://open.spotify.com/album/2u0yO4hKy30s3HzMBBe6Il) | 2:48 | 2022-03-24 | 2022-04-15 |

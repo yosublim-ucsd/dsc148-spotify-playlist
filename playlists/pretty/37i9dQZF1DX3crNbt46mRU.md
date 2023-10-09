@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,190 likes - 109 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,199 likes - 109 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [Walking Down The Line](https://open.spotify.com/track/7t5eQyB7FlRyK8RDqRmQBJ) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Walking Down The Line](https://open.spotify.com/album/4qSbVrrDDDId96sGzvS32J) | 3:38 |
 | 37 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
 | 38 | [Hey You](https://open.spotify.com/track/6W3TYSaC7CSTiCvMgIY5pj) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [Hey You](https://open.spotify.com/album/5Nw0nvqo5nNPJ3DKt7Q0VU) | 3:19 |
-| 39 | [Why Do the Bad Things Feel Good ?](https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Why Do the Bad Things Feel Good](https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z) | 3:21 |
+| 39 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Why Do the Bad Things Feel Good](https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z) | 3:21 |
 | 40 | [Home](https://open.spotify.com/track/0dWeLMRvqO955oPcrbYi9E) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Home](https://open.spotify.com/album/6Sj2COjIUy4kqrg02grV6j) | 2:33 |
 | 41 | [Wer ist hier der Bass \(Marco\)](https://open.spotify.com/track/2umkRcmmGEIsvauHjWZBkn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer ist hier der Bass \(Marco\)](https://open.spotify.com/album/1LYNpX8Ft2LfAkkHgr8uRT) | 2:43 |
 | 42 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Still Working 2](https://open.spotify.com/album/6Bh2znaTLb4uZkY99tRvde) | 2:59 |
 | 109 | [Encore Une Fois](https://open.spotify.com/track/63kqU92X0Xxh0MiilmrpnW) | [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Classical 90s Dance \- The Icons](https://open.spotify.com/album/0owIszJHScaFc1U7GOVl0T) | 2:31 |
 
-Snapshot ID: `MCxlNWY4NTEyZTAzNTdjNGU0MGVjMzc1OGU4MjkwODQyYWM5MDQwODU2`
+Snapshot ID: `MCxlYTY0MzU0NzM5ZTg2ZGFjNzZmYjgwMDE4NTUxZTFjYzdiZTMwNTQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,320 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,354 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 52 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 |
 | 53 | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/track/272sT3uaJsFNqyKyE6BGNN) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/album/7ov6R2b5ZXqth6H9piBgRL) | 3:41 |
 | 54 | [Cariñito](https://open.spotify.com/track/5GmB4sjkog7ETZP7KHMa9L) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ) | [Uno](https://open.spotify.com/album/56b9EFjEu6ugwoingfHFlX) | 3:23 |
-| 55 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/5tzcReCKuj6qYbQQVS0ehG) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech EP](https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ) | 5:54 |
+| 55 | [Cryptic Speech \- Original Mix](https://open.spotify.com/track/0DxXQGM1aFFZeGrb3oVwP6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Cryptic Speech](https://open.spotify.com/album/2Urfj8670GPCW0NAKVz0Ka) | 5:54 |
 | 56 | [\(It Happens\) Sometimes](https://open.spotify.com/track/4cWafPsRizm6woL5j4HNTD) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [\(It Happens\) Sometimes](https://open.spotify.com/album/23NV5QnY8URqUo0CxX5bfK) | 3:22 |
 | 57 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 |
 | 58 | [Más Arriba](https://open.spotify.com/track/7byGoCBIhbZAyJWSEPTQrs) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Viene de Largo](https://open.spotify.com/album/1bkNxiusyHz4lwgwSICa7L) | 3:18 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxhMjk2NGZkMTYwMDA5M2YxOTNhYzExYjYxNDYwMWFmNDRlNzZhYWU5`
+Snapshot ID: `MCw5YjcwNzkyMTg0ZWM5YjQwYjg1YjQ0NjcwNGQ3ZWQ3ODU0MWIxMzlk`

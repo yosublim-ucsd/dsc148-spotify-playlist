@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Svalbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,034 likes - 61 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,172 likes - 61 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 26 | [Blackbone](https://open.spotify.com/track/4RhWBEQPMs8a2wdh190rwk) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Blackbone](https://open.spotify.com/album/4IZ1A2l4c9pWM99UhzvOIQ) | 4:32 |
 | 27 | [Blacklist](https://open.spotify.com/track/3rtzkvI9mBaK8XhMIvGgzV) | [ChuggaBoom](https://open.spotify.com/artist/5DBs1IDEsrY2W92Rfl5qI3) | [Blacklist](https://open.spotify.com/album/0USl3nzME55f1mlF1Pp5hO) | 3:53 |
 | 28 | [Abandon \(feat\. Daedric\)](https://open.spotify.com/track/2bCCrCJrdwI0GyVxt52JBT) | [Andromida](https://open.spotify.com/artist/4MRGrA70WS54oeDLbIWrTr), [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Abandon \(feat\. Daedric\)](https://open.spotify.com/album/7qq9ODujNlt024julfFSk7) | 4:00 |
-| 29 | [Curse of the Machinery](https://open.spotify.com/track/5aw7Nsmoma3MsamdZ8omkZ) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Curse of the Machinery](https://open.spotify.com/album/1kG4POrGI9j5cZkU6b3VHA) | 5:40 |
+| 29 | [Curse of the Machinery](https://open.spotify.com/track/4D8U5ZINT1vTVjZAnQakpT) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Firestar](https://open.spotify.com/album/56tauSAOlQmZpczrJ0qQ8C) | 5:40 |
 | 30 | [Heroes](https://open.spotify.com/track/7DjkK2DHJXr9DKQRQDoeSQ) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Heroes](https://open.spotify.com/album/6WvwreaZKglEulJBy5cw5m) | 4:12 |
 | 31 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
 | 32 | [﻿﻿New Generation](https://open.spotify.com/track/4BZrMTOdwlNf0v3VuNBqFD) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [New Generation](https://open.spotify.com/album/07bc1nNAlXU90wIm3Ck7DN) | 3:57 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 60 | [Furry Tongue](https://open.spotify.com/track/4tuQfbrtKEMqNLBzmFIwN6) | [MAVIS](https://open.spotify.com/artist/6zGzRIBkAMQ2uQn3z8OEyf) | [Furry Tongue](https://open.spotify.com/album/7yFinO7SZ4NkWZNic5S3Go) | 4:03 |
 | 61 | [Miracle](https://open.spotify.com/track/7nYMFiEn0hrXYkkDGnfwVr) | [AVEREA](https://open.spotify.com/artist/6NJCMtTgrB9PBUts9h4uZY) | [Miracle](https://open.spotify.com/album/4tVQgIqM1nDdxQAdsDKyq2) | 4:21 |
 
-Snapshot ID: `MCwzOTRiOWU0ZWJjOWNjNzU4YTYwMWQ3ZDhmNTI1NWQ5YWFlZTBkNWRi`
+Snapshot ID: `MCwwYjdlOTBlZGRiODlhOGUwOTU5Y2I5NmI3MDJmNWUyODI3M2U4YmIy`

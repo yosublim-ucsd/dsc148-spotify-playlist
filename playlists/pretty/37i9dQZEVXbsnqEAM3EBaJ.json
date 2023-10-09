@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwMjAsMDAwMDAwMDAxYzVhYzI5MTU5NTM1MWI0MDc3ZDY4NWY3NDFkMjc4Yg==",
+  "snapshot_id": "MjgyNzYwMjAsMDAwMDAwMDBkZDU3NjQ3ODQ5ZGM5NmJkNzFlMjBkNTAwZmQ1MTIxMw==",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "The Collection II",
-        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 305757,
-      "name": "Crossing Over - 2023 Remaster",
-      "url": "https://open.spotify.com/track/65F2bZ6UyIK4U61oNQDM4B"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Widow",
         "url": "https://open.spotify.com/album/4UlmQoxwNwH2atOdEz3ZSh"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "The Collection II",
+        "url": "https://open.spotify.com/album/67KYu6Smel916pR6QBeIsQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 305757,
+      "name": "Crossing Over - 2023 Remaster",
+      "url": "https://open.spotify.com/track/65F2bZ6UyIK4U61oNQDM4B"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Hot N' Ready In Texas - Live 1979",
         "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 298514,
       "name": "Let It Roll - Live",
       "url": "https://open.spotify.com/track/2x0IR15vdwWuvsU9GCrobI"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "To The Faithful Departed (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "When You're Gone - Paris Demo",
+      "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -279,22 +295,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "To The Faithful Departed (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/07lKVrnG3PmC9mndjDiJsb"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "When You're Gone - Paris Demo",
-      "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "(i)",
         "url": "https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -323,38 +339,6 @@
       "duration_ms": 214000,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
-        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
-      },
-      "artists": [
-        {
-          "name": "The Corrs",
-          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -391,18 +375,34 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Already Over",
-        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+        "name": "I've Seen All Good People: Your Move / All Good People (Early Take) [2023 Remaster]",
+        "url": "https://open.spotify.com/album/0cnJiazhNlQWgP9fuUITwP"
       },
       "artists": [
         {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+      "duration_ms": 231093,
+      "name": "I've Seen All Good People: Your Move / All Good People (Early Take) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2VXqRP3kCtw3yGentTz16W"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/7INtd4oNndspcldngUkOSN"
+      },
+      "artists": [
+        {
+          "name": "The Corrs",
+          "url": "https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -419,6 +419,22 @@
       "duration_ms": 456485,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Rizen",
+        "url": "https://open.spotify.com/album/7d4zGzDx7FhWsIubaqFysd"
+      },
+      "artists": [
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        }
+      ],
+      "duration_ms": 156048,
+      "name": "Rizen",
+      "url": "https://open.spotify.com/track/5HkE8b6FZ143omeRfTxKSn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -471,38 +487,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Rizen",
-        "url": "https://open.spotify.com/album/7d4zGzDx7FhWsIubaqFysd"
-      },
-      "artists": [
-        {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        }
-      ],
-      "duration_ms": 156048,
-      "name": "Rizen",
-      "url": "https://open.spotify.com/track/5HkE8b6FZ143omeRfTxKSn"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "DJ Play A Christmas Song",
-        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Call Your Name (Remixes)",
         "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/13AiWNMLpKYo0wSPSAiBUg"
         }
       ],
-      "duration_ms": 328823,
-      "name": "Soy Libre",
-      "url": "https://open.spotify.com/track/2Uioq7ujYaF7YuriIi44wj"
+      "duration_ms": 224350,
+      "name": "El Hilo del Tiempo",
+      "url": "https://open.spotify.com/track/2wzzpE0s4kIMNz8v2FEK8q"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
-        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
       },
       "artists": [
         {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
         }
       ],
-      "duration_ms": 298184,
-      "name": "Wolf Unchained - Alternative Mix",
-      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -791,6 +795,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
+        "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 298184,
+      "name": "Wolf Unchained - Alternative Mix",
+      "url": "https://open.spotify.com/track/79ZzFRDXRNaOL3qGn7pffa"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Promised You A Miracle (Live From Paisley Abbey)",
         "url": "https://open.spotify.com/album/50XXzEskcTuyXfkzZu6f8C"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 260413,
       "name": "Promised You A Miracle - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Addicted to Romance (from the film 'She Came to Me')",
-        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Patti Scialfa",
-          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Addicted to Romance - from the film 'She Came to Me'",
-      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Peace & Abundance",
-        "url": "https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24"
-      },
-      "artists": [
-        {
-          "name": "Nico.X3",
-          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
-        }
-      ],
-      "duration_ms": 142812,
-      "name": "Peace & Abundance",
-      "url": "https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Peace & Abundance",
+        "url": "https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24"
+      },
+      "artists": [
+        {
+          "name": "Nico.X3",
+          "url": "https://open.spotify.com/artist/6DN74L20gxGSBONvIWuMD2"
+        }
+      ],
+      "duration_ms": 142812,
+      "name": "Peace & Abundance",
+      "url": "https://open.spotify.com/track/7o4CCMMBngZ6e6EvPrR2HV"
     },
     {
       "added_at": "2023-10-06 03:00:00",

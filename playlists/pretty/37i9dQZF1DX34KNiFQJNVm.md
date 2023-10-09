@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Kayblack, Orochi, Zé Neto e Cristiano, Marvvila e Ferrugem, Zé Vaqueiro e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,925,241 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,925,329 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 21 | [Marcas de Batom](https://open.spotify.com/track/0wnCeCkj3H9Ili3SsfZxBC) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [O Menino do Cabelo Rosa](https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37) | 2:53 |
 | 22 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 23 | [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 |
-| 24 | [Cheiro de Riqueza \(feat\. Fxbin\)](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza \(feat\. Fxbin\)](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
+| 24 | [Cheiro de Riqueza](https://open.spotify.com/track/2uUIYTeyhSDfjgWN4HCCOA) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [KANASHIRO](https://open.spotify.com/artist/3mmlFKPzrG0ZGYneLDt1Y8), [Brenninho VJ](https://open.spotify.com/artist/2XKAwrTieZHEnU6mgALhgN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Cheiro de Riqueza](https://open.spotify.com/album/3GaKuJKg8XYiiKiEYXy90l) | 2:33 |
 | 25 | [Eu contra Eu](https://open.spotify.com/track/6Yg18bpaA8KRafBVGusUGM) | [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Contra Eu](https://open.spotify.com/album/3JKTU8ZN9OkgETHKvo2HQ0) | 3:00 |
 | 26 | [Chora Agora, Ri Depois](https://open.spotify.com/track/3pGMgP5YUlFRpGDoH5vMnb) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Positividade](https://open.spotify.com/album/6DZiEYOtOA7CaRo3fbPCEF) | 4:20 |
 | 27 | [Dia de Baile](https://open.spotify.com/track/0jtNfIjTTTKbY8DvxI64Kg) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Dia de Baile](https://open.spotify.com/album/77adqDd5dZzLummoRCL2Ml) | 3:14 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
 | 98 | [Ghost](https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Ghost](https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc) | 3:33 |
 
-Snapshot ID: `MCw0YmI4N2Q1ZDJkZTdhMjcwMjUwNjYyYTY5ODVlNTE5YzAzNjRhMTQz`
+Snapshot ID: `MCxlNWE3MDhlYTk0ZjY5ZGU3OGY1ZTkwZmI3ZDJjMmMyOTY3YmFhNzY2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: マルシィ
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,932 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,009 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [ワンドリンク別](https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [アルデンテ](https://open.spotify.com/album/0blIFyYXMXiaCU9OPLVGg1) | 1:50 |
 | 60 | [愛唄](https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。はじめまして。](https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh) | 3:56 |
 
-Snapshot ID: `MCxjYTRiYjJjZGE2ZmU4ODg5ZjkwMjlkZjBiMTIwNmUxMGYzNmJmOTdh`
+Snapshot ID: `MCxhZTdkNDI5ZjQ4YjFjYjVmY2ZjMzM4MWUxNTA1NDZkZWVlMTU2OTQ4`

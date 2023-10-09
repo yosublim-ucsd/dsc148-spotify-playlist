@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 36115,
+  "num_followers": 36137,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQyZDA2MmU5OWJlYTQwMzA1MmVlZmE2YWQ2NDNiZDQxNzBjMzI2",
+  "snapshot_id": "MCxjY2EyMzBhNWIyMWM0NzRhMDkwYTQ5MGMxM2JkMDQ3ZTQ4MjgwNmY2",
   "tracks": [
     {
       "added_at": "2023-10-06 03:07:48",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-10-06 03:07:48",
       "album": {
+        "name": "LiveShow Duy\u00ean ph\u1eadn",
+        "url": "https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u00ea",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 283515,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK"
+    },
+    {
+      "added_at": "2023-10-06 03:07:48",
+      "album": {
         "name": "Ng\u01b0\u1eddi Xa Ng\u01b0\u1eddi",
         "url": "https://open.spotify.com/album/5C4MnF156Jw3gH1Z2nf7gq"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 256279,
       "name": "Con \u0110\u01b0\u01a1ng X\u01b0a Em \u0110i",
       "url": "https://open.spotify.com/track/2zCHvO1CVTPjtPHlFFbDXE"
-    },
-    {
-      "added_at": "2023-10-06 03:07:48",
-      "album": {
-        "name": "LiveShow Duy\u00ean ph\u1eadn",
-        "url": "https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u00ea",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 283515,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK"
     },
     {
       "added_at": "2023-10-06 03:07:48",

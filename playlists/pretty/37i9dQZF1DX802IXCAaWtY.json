@@ -1,12 +1,12 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1072498,
+  "num_followers": 1073524,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm",
+  "snapshot_id": "MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2",
   "tracks": [
     {
       "added_at": "2023-07-14 10:06:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
+      },
+      "artists": [
+        {
+          "name": "Urban Cookie Collective",
+          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "The Key, The Secret",
+      "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 212560,
       "name": "Stay - Original Single Edit",
       "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
-      },
-      "artists": [
-        {
-          "name": "Urban Cookie Collective",
-          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "The Key, The Secret",
-      "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
     },
     {
       "added_at": "2023-07-14 10:06:53",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Judas O Outro",
-  "num_followers": 130956,
+  "num_followers": 131014,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGFhNjI3MTA2NzhmYmU5MjYyOGZmZWZlNDIzODU2OWZmMzk1MmU4",
+  "snapshot_id": "MCwxNWExZmI3MmRlZDZiY2FmMmYxODNjMTBmYjY2M2NjYTAxOTBhYzZh",
   "tracks": [
     {
       "added_at": "2023-10-06 03:40:30",
@@ -903,6 +903,30 @@
     {
       "added_at": "2023-10-06 03:40:30",
       "album": {
+        "name": "Bitcoins",
+        "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
+      },
+      "artists": [
+        {
+          "name": "Catarina Von Bora",
+          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 222635,
+      "name": "Bitcoins",
+      "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
+    },
+    {
+      "added_at": "2023-10-06 03:40:30",
+      "album": {
         "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2023-10-06 03:40:30",
-      "album": {
-        "name": "Bitcoins",
-        "url": "https://open.spotify.com/album/02wxaUhRj9xk2Hstji66q0"
-      },
-      "artists": [
-        {
-          "name": "Catarina Von Bora",
-          "url": "https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 222635,
-      "name": "Bitcoins",
-      "url": "https://open.spotify.com/track/7zaRisvugR7vIT5SuhIlsW"
     },
     {
       "added_at": "2023-10-06 03:40:30",

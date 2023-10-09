@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 22 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
 | 23 | [You & I](https://open.spotify.com/track/02o0U7KH4t9oPUObu3e38c) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Bad Ass and Blind](https://open.spotify.com/album/0NtTUwDr61O8PFNUFSrmKz) | 3:42 |
 
-Snapshot ID: `MCw4NzBjYzIyMThiYmZiMzBjYjQ1ZDZmOTViYTg1YzY5OGFhMzBjZTlk`
+Snapshot ID: `MCw3MmE5ZTU5ZjcwNDM0MzkwMWJhMTY5ODY0MTdlZDViZDJlMTk5MTll`

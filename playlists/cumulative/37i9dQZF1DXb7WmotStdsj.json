@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "bent kartier populair",
+        "url": "https://open.spotify.com/album/1rgqYoPn3oeHBOshDokftW"
+      },
+      "artists": [
+        {
+          "name": "cheba chinou",
+          "url": "https://open.spotify.com/artist/6ZjzBqKIc89gDJcSryj9ie"
+        },
+        {
+          "name": "Oussama Torkish",
+          "url": "https://open.spotify.com/artist/0zDzZpAE9PhHyIzW1cL0jE"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "bent kartier populair",
+      "url": "https://open.spotify.com/track/0y2su68WwYXVmXM6cIAeNA"
+    },
+    {
+      "album": {
         "name": "Bent quartier populaire (\u0628\u063a\u0627 \u064a\u062f\u0631\u062d\u0646\u064a)",
         "url": "https://open.spotify.com/album/70cUTt6eYM0WEdvWsicu8F"
       },
@@ -378,7 +400,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 256627,
       "name": "Bent quartier populaire (\u0628\u063a\u0627 \u064a\u062f\u0631\u062d\u0646\u064a)",
       "url": "https://open.spotify.com/track/2Wdk6ZOaVuaKnaQsuNPqST"

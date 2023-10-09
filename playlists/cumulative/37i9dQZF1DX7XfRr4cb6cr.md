@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-245 songs - 20 hr 42 min
+246 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Between Two Breaths](https://open.spotify.com/track/1ZAd0tz89HBJSo7vyHzGiW) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna) | 5:48 | 2022-10-14 |  |
 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 | 2022-01-21 | 2022-11-02 |
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
+| [bipolar](https://open.spotify.com/track/1uvn7eP1I7mIKGvpsqDcoW) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [bipolar](https://open.spotify.com/album/5MOmkgxIJLtmoapI60uK6A) | 2:12 | 2023-10-06 |  |
 | [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 |  |
 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 |  |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 |  |
@@ -42,7 +43,7 @@
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 | 2023-10-06 |
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 | 2022-06-12 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 |  |
-| [Crystals](https://open.spotify.com/track/3EWBI2kILNiKA53AJ2Lpq4) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Crystals](https://open.spotify.com/album/7i6UA2PHzHi8AzHs0UH8uq) | 4:07 | 2023-10-06 |  |
+| [Crystals](https://open.spotify.com/track/3EWBI2kILNiKA53AJ2Lpq4) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Crystals](https://open.spotify.com/album/7i6UA2PHzHi8AzHs0UH8uq) | 4:07 | 2023-10-06 | 2023-10-09 |
 | [Cube](https://open.spotify.com/track/4qTrcMRY4LZokOVS4QGss4) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Alt:01](https://open.spotify.com/album/1mPPIIJKQ4VgL2nB3fIXEs) | 2:50 | 2023-04-21 |  |
 | [Dali In Sapphire](https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 6:42 | 2022-01-21 |  |
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2023-04-30 |

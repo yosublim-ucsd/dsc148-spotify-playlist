@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 47027,
+  "num_followers": 47067,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDc4MjgwMzNjNWNmNzBmN2Y3Yzg3ZGFmMjRlMDdmMmRmNTczYWYz",
+  "snapshot_id": "MCw3N2VhNmIwMTBiNTRlYWY4Y2E3MjY5OThlNWNhZjhiOWJlNWNjMjM5",
   "tracks": [
     {
       "added_at": "2023-10-02 12:57:01",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 412893,
-      "name": "Too Many Dirty Dishes - Remastered",
-      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 186333,
       "name": "Blues Hangover",
       "url": "https://open.spotify.com/track/6AZRFJd8iLkhHBNafAjdBQ"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 412893,
+      "name": "Too Many Dirty Dishes - Remastered",
+      "url": "https://open.spotify.com/track/5v1K811BkQo7FEgbs7LWdg"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Midnight Call",
-        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
-      },
-      "artists": [
-        {
-          "name": "Fran McGillivray Band",
-          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Nothing But the Blues (Live)",
         "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 430106,
       "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
       "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Midnight Call",
+        "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
+      },
+      "artists": [
+        {
+          "name": "Fran McGillivray Band",
+          "url": "https://open.spotify.com/artist/2MoI2ETbAPR43dkvb6PCFQ"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "What do You Feel?",
-        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
-      },
-      "artists": [
-        {
-          "name": "Renato Genestra",
-          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "What do You Feel?",
-      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/6uco735wn69n3ODYvdrd21"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 455967,
       "name": "Abandoned Child",
       "url": "https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "What do You Feel?",
+        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
+      },
+      "artists": [
+        {
+          "name": "Renato Genestra",
+          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "What do You Feel?",
+      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-10-02 12:57:01",
-      "album": {
         "name": "Portrait",
         "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 214194,
       "name": "You Can't Lose What You Ain't Never Had",
       "url": "https://open.spotify.com/track/6kQRxTpDpBnNIGsCKpDOQc"
+    },
+    {
+      "added_at": "2023-10-02 12:57:01",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-10-02 12:57:01",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-10-02 12:57:01",
       "album": {
-        "name": "Be Cool",
-        "url": "https://open.spotify.com/album/05K5VY9paJ3hbafsHQzr27"
+        "name": "Wrong Kind of Lovin",
+        "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
       },
       "artists": [
         {
-          "name": "Willie J. Campbell",
-          "url": "https://open.spotify.com/artist/5Lb89jvCFQkGMYnrjFnnX7"
+          "name": "Dan Kearney",
+          "url": "https://open.spotify.com/artist/2vDDjafIuvRtW46fMvdOy6"
         }
       ],
-      "duration_ms": 342677,
-      "name": "Use As Needed",
-      "url": "https://open.spotify.com/track/0jcyLI0xuoNn2ENh1Vvzxv"
+      "duration_ms": 320133,
+      "name": "Wrong Kind of Lovin",
+      "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
     }
   ],
   "unique_name": "Just Me and the Blues",

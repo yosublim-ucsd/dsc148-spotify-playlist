@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-243 songs - 13 hr 7 min
+244 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Lipstick Lover](https://open.spotify.com/track/5c2jJgsGsnYWB6QdkK1ycR) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/76yGR9gMIP6BdHuWsb7Iun) | 2:49 | 2023-06-08 |  |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-11 | 2023-06-12 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-11 |  |
-| [Look At My Way](https://open.spotify.com/track/2YPhR03n4I4KtttHwxVYTo) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Look At My Way](https://open.spotify.com/album/5TXaiqWoFsx3lWNmYfPqJy) | 3:49 | 2023-09-07 |  |
+| [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-05 |  |
+| [Look At My Way](https://open.spotify.com/track/2YPhR03n4I4KtttHwxVYTo) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Look At My Way](https://open.spotify.com/album/5TXaiqWoFsx3lWNmYfPqJy) | 3:49 | 2023-09-07 | 2023-10-09 |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-03-16 |  |
 | [LUNAR](https://open.spotify.com/track/7jkFc59UxhaTYBt5sWrupb) | [MIDNIGHT LONELY BOYZ](https://open.spotify.com/artist/1kjF8CfyKgWVMQN0UDXRYW) | [LUNAR](https://open.spotify.com/album/37F80QAH7TGUX3kst1kUJx) | 5:39 | 2023-07-06 | 2023-08-11 |
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 | 2023-04-21 |

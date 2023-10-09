@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,173,493 likes - 263 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,174,410 likes - 263 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 129 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 130 | [Azure](https://open.spotify.com/track/0wNiKz7dVespHZP02RCDlE) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Azure](https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG) | 2:24 |
 | 131 | [Borrowed Time](https://open.spotify.com/track/08DMzELdDyuk2DDd26C28y) | [Esme Sanford](https://open.spotify.com/artist/3T88MTp2AubsoH7BHmPpDi) | [Borrowed Time](https://open.spotify.com/album/491ZoXaPJ7oPnLKEEkofpz) | 2:15 |
-| 132 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 |
+| 132 | [Rainbow](https://open.spotify.com/track/5o9VMlbsJvXSdVfi3u4sFh) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Rainbow](https://open.spotify.com/album/2WvA7DZjMD9l7kOuMGqyBj) | 2:56 |
 | 133 | [Quiet At Dawn](https://open.spotify.com/track/5UOhiSuywxh22VLsnTieUW) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Quiet At Dawn](https://open.spotify.com/album/2tdaZLir12VrA9oZWtKiRm) | 3:18 |
 | 134 | [Amor Eterno](https://open.spotify.com/track/4uHzzAb1p6gK5unlp64Vrg) | [Elisa Avaria](https://open.spotify.com/artist/19l9DOMaVO3If07e0zMTBp) | [Amor Eterno](https://open.spotify.com/album/1iHJbuAZ4PXIQCRNrXSTtu) | 2:35 |
 | 135 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 262 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 |
 | 263 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 |
 
-Snapshot ID: `MCw5YWNkM2M0NjhlMGM4ZGNmNmVkMWI3NDRjNmI3YWYyNWFmNmI3YWZj`
+Snapshot ID: `MCxhOGM0ZGY1YzhlMGJlNmQ0NjdlOGQyYjhkMmVlZGVhNTBjMmQxOGRm`

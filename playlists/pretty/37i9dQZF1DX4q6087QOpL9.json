@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 81551,
+  "num_followers": 81610,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDM5YTRjM2JhZWQzNTIyMTdlYzNiYTAyNjUyOGJlYTM1NDFjNzI3",
+  "snapshot_id": "MCwwOTQwNzMxNTgzMmYwYTNlNmU4ZDIxMDc3ZjNkYjdlMmJjNWQ2MDJk",
   "tracks": [
     {
       "added_at": "2023-09-14 22:00:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "The Sound Is Yours",
-        "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
-      },
-      "artists": [
-        {
-          "name": "RiskSoundSystem",
-          "url": "https://open.spotify.com/artist/2lGFbXVi0bkg4UgNbCBwNx"
-        },
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 503040,
-      "name": "The Sound Is Yours - Kerri Chandler Remix",
-      "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/4TZOEyKYoNOU41wGX5WHMl"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 373925,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "The Sound Is Yours",
+        "url": "https://open.spotify.com/album/0SlkSWOSY63G2YhxEyTOBp"
+      },
+      "artists": [
+        {
+          "name": "RiskSoundSystem",
+          "url": "https://open.spotify.com/artist/2lGFbXVi0bkg4UgNbCBwNx"
+        },
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 503040,
+      "name": "The Sound Is Yours - Kerri Chandler Remix",
+      "url": "https://open.spotify.com/track/586ipzQlSCyAyY1pvFthWT"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Love & Happiness (feat. India)",
         "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
       "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "At the Club",
-        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
-      },
-      "artists": [
-        {
-          "name": "Timmy Regisford",
-          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "At the Club",
-      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "No Politics",
         "url": "https://open.spotify.com/album/74Td3mSTHD8Mum5B1kJFt5"
       },
@@ -1067,22 +1051,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+        "name": "At the Club",
+        "url": "https://open.spotify.com/album/0g6MukWd7tGaELufBpokoy"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Masters At Work",
-          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+          "name": "Timmy Regisford",
+          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
         }
       ],
-      "duration_ms": 606093,
-      "name": "See-Line Woman - Masters At Work Remix",
-      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
+      "duration_ms": 314146,
+      "name": "At the Club",
+      "url": "https://open.spotify.com/track/6cBAUOASCcklnDYqSyMqBp"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 424226,
       "name": "What's Your Number - Jazzanova Re-Number",
       "url": "https://open.spotify.com/track/45q5jidHHt7JkO9p9D2SER"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "duration_ms": 606093,
+      "name": "See-Line Woman - Masters At Work Remix",
+      "url": "https://open.spotify.com/track/3KFAVj40D08nGlO0foM86p"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Lucas",
+        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 269572,
+      "name": "Night Visions",
+      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "They Don't Care (Yoruba Soul Extended Mix)",
         "url": "https://open.spotify.com/album/7FMWMkurzgI71X81Z1Bge4"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 400000,
       "name": "They Don't Care - Yoruba Soul Extended Mix",
       "url": "https://open.spotify.com/track/6YrA7JXJTEGHOJMDVXetYq"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Lucas",
-        "url": "https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 269572,
-      "name": "Night Visions",
-      "url": "https://open.spotify.com/track/3ChSgzeihSYujR3JpKk9De"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1219,6 +1219,26 @@
       "duration_ms": 389066,
       "name": "Pride - Main Mix",
       "url": "https://open.spotify.com/track/51l17BzbgSXv4kEdQdzABO"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "The World As I See It",
+        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Danil Wright",
+          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
+        }
+      ],
+      "duration_ms": 449026,
+      "name": "Church Lady",
+      "url": "https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1355,6 +1375,30 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "The Cure & The Cause (Dennis Ferrer Remix)",
+        "url": "https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6"
+      },
+      "artists": [
+        {
+          "name": "Fish Go Deep",
+          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
+        },
+        {
+          "name": "Tracey K",
+          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 378374,
+      "name": "The Cure & The Cause - Dennis Ferrer Remix",
+      "url": "https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "As Long As You Believe (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/0zixIlzr498H0saKAnv9Ta"
       },
@@ -1383,46 +1427,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "The Cure & The Cause (Dennis Ferrer Remix)",
-        "url": "https://open.spotify.com/album/5iBc6MUn7M8S8oCbOIJiT6"
-      },
-      "artists": [
-        {
-          "name": "Fish Go Deep",
-          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
-        },
-        {
-          "name": "Tracey K",
-          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
-        },
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 378374,
-      "name": "The Cure & The Cause - Dennis Ferrer Remix",
-      "url": "https://open.spotify.com/track/4oS2Gik6Vo9csv7teQsPoG"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Basic Blaze",
         "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
       },
@@ -1443,6 +1447,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 406813,
       "name": "Bad Habit - feat. Lisa Millett",
       "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "The World As I See It",
-        "url": "https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Danil Wright",
-          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
-        }
-      ],
-      "duration_ms": 449026,
-      "name": "Church Lady",
-      "url": "https://open.spotify.com/track/62IE9XiYWdmGsDjV4xCUpT"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Avery*Sunshine Summer EP",
+        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 441600,
+      "name": "Ugly Part of Me - Terry Hunter Mix",
+      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Love's Been Right Here",
         "url": "https://open.spotify.com/album/4pyTC09XaKrvHkZ990Ao3J"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 455505,
       "name": "Love's Been Right Here - DJ Spen & Gary Hudgins Remix",
       "url": "https://open.spotify.com/track/0I0Cp90UWNjsg3iOFW3iR5"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Avery*Sunshine Summer EP",
-        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 441600,
-      "name": "Ugly Part of Me - Terry Hunter Mix",
-      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1895,30 +1895,18 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
-        "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
       },
       "artists": [
         {
-          "name": "The Journey Men",
-          "url": "https://open.spotify.com/artist/6WVT3vw4kx4gskTAcpJulr"
-        },
-        {
-          "name": "Mike City",
-          "url": "https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        },
-        {
-          "name": "Black Sonix",
-          "url": "https://open.spotify.com/artist/6ePv8p63HwNzcwz39BgHKm"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 247918,
-      "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
-      "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
+      "duration_ms": 584040,
+      "name": "Love Calls - Darryl James Mix",
+      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -1943,18 +1931,30 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+        "name": "For The Culture (Sean McCabe & Black Sonix Remix)",
+        "url": "https://open.spotify.com/album/5hvhL20Q3hGxuZ6U7ZIhXf"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+          "name": "The Journey Men",
+          "url": "https://open.spotify.com/artist/6WVT3vw4kx4gskTAcpJulr"
+        },
+        {
+          "name": "Mike City",
+          "url": "https://open.spotify.com/artist/4b8jP3BNzAfeaKqd4Whlvd"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        },
+        {
+          "name": "Black Sonix",
+          "url": "https://open.spotify.com/artist/6ePv8p63HwNzcwz39BgHKm"
         }
       ],
-      "duration_ms": 584040,
-      "name": "Love Calls - Darryl James Mix",
-      "url": "https://open.spotify.com/track/2FcCm2RoIEKs8EfApaZt6P"
+      "duration_ms": 247918,
+      "name": "For The Culture - Sean McCabe & Black Sonix Remix Edit",
+      "url": "https://open.spotify.com/track/7HOZfuZ9OzOtfHfOW3XNaK"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
+        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 494066,
+      "name": "Heaven - Marlon D. & G.A. Club Mix",
+      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "TIME AFTER TIME",
         "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 399693,
       "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
       "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
-        "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
-      },
-      "artists": [
-        {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        }
-      ],
-      "duration_ms": 494066,
-      "name": "Heaven - Marlon D. & G.A. Club Mix",
-      "url": "https://open.spotify.com/track/6jNo9oEFfOBOm8DtmqOApe"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/6uPlPqAVtZNiYC8Qck1swM"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 210491,
       "name": "Joy - Dr Packer Remix",
       "url": "https://open.spotify.com/track/4k4wT8eYhdfhQ9M262drm1"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 487531,
       "name": "Glory - Atjazz Remix",
       "url": "https://open.spotify.com/track/7gFX0LEM6Ty0yojsBcsEXz"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2511,26 +2511,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
-      },
-      "artists": [
-        {
-          "name": "Two Lee",
-          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
-        },
-        {
-          "name": "Michelle Weeks",
-          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
-        }
-      ],
-      "duration_ms": 302950,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "Good Morning EP",
         "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
       },
@@ -2551,18 +2531,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
       "artists": [
         {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+          "name": "Two Lee",
+          "url": "https://open.spotify.com/artist/4oh1KPSVbAePOewmXySInj"
+        },
+        {
+          "name": "Michelle Weeks",
+          "url": "https://open.spotify.com/artist/2RxiB8hxxiJ9qM4e1ahHru"
         }
       ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
+      "duration_ms": 302950,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2579,6 +2563,22 @@
       "duration_ms": 525130,
       "name": "Spiritually Speaking",
       "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
         "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) [Louie Vega & Josh Milan Mixes]",
         "url": "https://open.spotify.com/album/4u0byR8K2jXpAuWiEI5jRu"
       },
@@ -2755,22 +2771,6 @@
       "duration_ms": 488209,
       "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
       "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
     },
     {
       "added_at": "2023-09-14 22:00:00",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2023-09-14 22:00:00",
       "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
-      },
-      "artists": [
-        {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
-        }
-      ],
-      "duration_ms": 369946,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
-    },
-    {
-      "added_at": "2023-09-14 22:00:00",
-      "album": {
         "name": "The Best of Blaze, Vol. 2 - Hubert Street",
         "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 413200,
       "name": "Take a Stand - Blaze Shelter Mix",
       "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
+    },
+    {
+      "added_at": "2023-09-14 22:00:00",
+      "album": {
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "duration_ms": 369946,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
     },
     {
       "added_at": "2023-09-14 22:00:00",

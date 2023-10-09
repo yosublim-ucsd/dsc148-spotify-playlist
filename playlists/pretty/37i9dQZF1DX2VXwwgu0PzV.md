@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5?si=QX5TP88dQ\_WI545ThPg07w">K3ndrick</a>, <a href="https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=6b90mP6QShecqvrtGzr\_8g">Holy Drill</a>,  <a href="https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be?si=tevRb\_j6SjOl3ixs\_rNhtQ">Drakare</a>, <a href="https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM?si=jBkIknHARViI4fhnVxiVLQ">Nolly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,000 likes - 103 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,087 likes - 103 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 102 | [Father And Son \(True Love\)](https://open.spotify.com/track/1rC8W1I7Z3GJZkfBVZEIN9) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Father And Son \(True Love\)](https://open.spotify.com/album/3A6JBiraXswuLydv67EZJc) | 2:53 |
 | 103 | [Give It All](https://open.spotify.com/track/3RLooyMCFEuApU0JwzP2l9) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Give It All](https://open.spotify.com/album/5G2Oxhmi2AAWhl9OHzbH69) | 1:36 |
 
-Snapshot ID: `MCxjYmU2M2JkYmFhYmQ2OGMwNGZlNjI1NDI3ODI5M2MxZjUxYTg2OTUx`
+Snapshot ID: `MCxmMjU5NjNlMzMyYjQyY2VhZGZjMmNiZTZlYzUzMTJhYWFjYWZiYzgy`

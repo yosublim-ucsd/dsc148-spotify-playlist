@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,660 likes - 112 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,674 likes - 112 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 59 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/62XVUywOjWRxEfVI6RiTH8) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Season For Romance](https://open.spotify.com/album/0pu8HcgAXHkgPAiSUqu4NR) | 4:31 |
 | 60 | [Up On The Housetop](https://open.spotify.com/track/3wQFNbNymjiBfwXgGiJ6Tu) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 2:07 |
 | 61 | [Frosty the Snowman](https://open.spotify.com/track/4HMptEInOi2qAZHRh8MCMj) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:25 |
-| 62 | [The Twelve Days of Christmas \- feat\. Olivia and Audrey](https://open.spotify.com/track/0GYSqKlbhb9vGF3GYtND27) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Olivia](https://open.spotify.com/artist/0YY6bnp0jhZNKxrjLgSO6i), [Audrey](https://open.spotify.com/artist/6GPOb4QCKjVYrM5GhB2In6) | [At Christmas](https://open.spotify.com/album/0d2rN27soyxNpL1c87aCKP) | 4:24 |
+| 62 | [The Twelve Days of Christmas \(feat\. Olivia & Audrey\)](https://open.spotify.com/track/0GYSqKlbhb9vGF3GYtND27) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Olivia](https://open.spotify.com/artist/0YY6bnp0jhZNKxrjLgSO6i), [Audrey](https://open.spotify.com/artist/6GPOb4QCKjVYrM5GhB2In6) | [At Christmas](https://open.spotify.com/album/0d2rN27soyxNpL1c87aCKP) | 4:24 |
 | 63 | [Little Toy Trains \- From The Vault](https://open.spotify.com/track/1b82vNYKWO5uW4iuvzi0QW) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [An Old Time Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6SwiA8jen7umxi9L8y1Oy4) | 2:24 |
 | 64 | [Angels Among Us](https://open.spotify.com/track/0yMiAfLtIP8oYya3sEj1Xe) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [The Classic Christmas Album](https://open.spotify.com/album/0X608yp1ap2tJPuYHj5wmq) | 4:07 |
 | 65 | [Let There Be Peace On Earth](https://open.spotify.com/track/4hQk3WFd0jDDGPPig99cl8) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Jenny Gill](https://open.spotify.com/artist/6DcfyDxSXarwnXR9X78DGB) | [Christmas](https://open.spotify.com/album/2w9sNZmlN6hcEsRo0xS8RX) | 4:32 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 111 | [Shimmy Down The Chimney \(Fill Up My Stocking\)](https://open.spotify.com/track/5OL7UVR4hAxpeWQ5M8eB2T) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Christmas Angels](https://open.spotify.com/album/4yjYRxRStBvBTUog8drzlM) | 4:21 |
 | 112 | [Winter Wonderland / Sleigh Ride](https://open.spotify.com/track/183egccUAzP1fEFSy2TSZQ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:41 |
 
-Snapshot ID: `MCw3ZTQwNDZmNDBjMmUwYmU2MzYxMmNkOGM5YWY3MWE5NjcwMWM4YWVm`
+Snapshot ID: `MCxiOGEyNDc5MmM2MjE5Y2JkYjJlOTBlZGExMDI1Yzc1ZWQwOTI0MmIx`

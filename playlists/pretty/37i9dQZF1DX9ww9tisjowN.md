@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: yama
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,628 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,413 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mouth Flash \(Kuchinohanabi\)](https://open.spotify.com/album/0M6EYq1XZBMbBe7TRTasu2) | 3:50 |
 | 75 | [Pichi Pichi](https://open.spotify.com/track/6yU5OWl6JcErMP4gFqqFKr) | [foodman](https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR) | [Pichi Pichi](https://open.spotify.com/album/4xUwgCzKHpaQIGE3UKPA8V) | 2:08 |
 
-Snapshot ID: `MCw3NDZkNzA1MmI3Yzk3MDFjOWY3YTJjMDA1MmVhMzA0ZTg4NWMzYjkx`
+Snapshot ID: `MCw1NGMxMWJmN2RhOGRjODU0YzI5YThhMTQ1MWI4MDljOWRlZWVmOWQ0`

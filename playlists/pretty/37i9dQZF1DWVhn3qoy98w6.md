@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: ROTO AMOR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,964 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,967 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Zombii](https://open.spotify.com/track/2j4FcxUz7GVtPClsTLuLdE) | [Diego 900](https://open.spotify.com/artist/6PMkeaQ3DLnaBuhjfmSefK) | [Zombii](https://open.spotify.com/album/5tn7LTIMnyqnVyzliZ1CSJ) | 2:48 |
 | 50 | [MICPAPALOTL](https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3) | [Espineli](https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f) | [PURGATORIO](https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl) | 1:58 |
 
-Snapshot ID: `MCw3ODc4YjdmOWFjNTM4OTkwMjEzNWRlNjIzODUwZGEwMTc4NTg4Yzll`
+Snapshot ID: `MCwyZDhiMDFkMWZmOTdjYzg3NDk5MTY1YTU3ZjkwM2RlYTVmZGEyM2M2`

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
-  "num_followers": 116987,
+  "num_followers": 117147,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjIyNTIwNzBiYzBlM2VjMDVkNTU0OTg0ZDk2YTNlOTUzZDY0OTM3",
+  "snapshot_id": "MCxiZmRmZDY3NjNjMzczZTRkNTkzN2FlYjdlOGMwZjY0NDJiYmNlNmM1",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Eating food and fighting Wizards",
-        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
-      },
-      "artists": [
-        {
-          "name": "Big Lad",
-          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Eating food and fighting Wizards",
-      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
-    },
-    {
       "added_at": "2023-06-07 04:04:27",
       "album": {
         "name": "Crispy Moon",
@@ -231,6 +215,22 @@
       "duration_ms": 515435,
       "name": "Instinct, Eye and Mind",
       "url": "https://open.spotify.com/track/5PKcYo5HKaq841MUcWwNfy"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Eating food and fighting Wizards",
+        "url": "https://open.spotify.com/album/2U4aJvTvTvK1JnyxiBTYD7"
+      },
+      "artists": [
+        {
+          "name": "Big Lad",
+          "url": "https://open.spotify.com/artist/55ni0EJ4HeQre982XxyKkd"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Eating food and fighting Wizards",
+      "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -313,20 +313,20 @@
       "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "Shoegaze 5G",
-        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "alice does computer music",
-          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 210908,
-      "name": "The Sandcastle",
-      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Where The Bough Has Broken",
@@ -379,6 +363,22 @@
       "duration_ms": 303716,
       "name": "Where The Bough Has Broken",
       "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Shoegaze 5G",
+        "url": "https://open.spotify.com/album/2dhQlDl7K30O6qoVXAaIlY"
+      },
+      "artists": [
+        {
+          "name": "alice does computer music",
+          "url": "https://open.spotify.com/artist/2rqLxilEsPgtee23MzJHPR"
+        }
+      ],
+      "duration_ms": 210908,
+      "name": "The Sandcastle",
+      "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/2UwsVfyJpAKF0VFpfFc9JZ"
     },
     {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 294636,
-      "name": "home",
-      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "The Year of Pornography",
@@ -499,6 +483,22 @@
       "duration_ms": 343666,
       "name": "Cascara",
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        }
+      ],
+      "duration_ms": 294636,
+      "name": "home",
+      "url": "https://open.spotify.com/track/0DWbK8hukzoG2KXtRGUkQW"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "How The River Flows",
-        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3lstrauman",
-          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
-        }
-      ],
-      "duration_ms": 263451,
-      "name": "How The River Flows",
-      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
-    },
-    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Huele a Fraude",
@@ -595,6 +579,22 @@
       "duration_ms": 84180,
       "name": "Monument to Possibilities",
       "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "How The River Flows",
+        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstrauman",
+          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
+        }
+      ],
+      "duration_ms": 263451,
+      "name": "How The River Flows",
+      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/1b12pTqgdXTuD4GRSRFAQj"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "melancholia blue",
-        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
-      },
-      "artists": [
-        {
-          "name": "melancholia blue",
-          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
-        }
-      ],
-      "duration_ms": 219468,
-      "name": "eclipse",
-      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Everything I Was, Burning Slow",
@@ -723,6 +707,22 @@
       "duration_ms": 69899,
       "name": "Interlude i (oscillated)",
       "url": "https://open.spotify.com/track/5oFeDLjJeXkPxigBjU2etE"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "melancholia blue",
+        "url": "https://open.spotify.com/album/6pLL6zz2kgDSKHA8mNiPDn"
+      },
+      "artists": [
+        {
+          "name": "melancholia blue",
+          "url": "https://open.spotify.com/artist/3O2LmJjYpc9hrMcOpl8UE5"
+        }
+      ],
+      "duration_ms": 219468,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/5xKI8QNPS7txEM0eJTFWv6"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -825,6 +825,38 @@
       "url": "https://open.spotify.com/track/7KhXuPNmQxJuxuKXz4UY1V"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+      },
+      "artists": [
+        {
+          "name": "fibril",
+          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+        }
+      ],
+      "duration_ms": 122258,
+      "name": "vie",
+      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Synth Spirit",
@@ -855,22 +887,6 @@
       "duration_ms": 262675,
       "name": "ISSUES (INTRO)",
       "url": "https://open.spotify.com/track/201Y0nLSCr6ql1ueJlMPsT"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -941,6 +957,22 @@
       "url": "https://open.spotify.com/track/2Cq40mHbccRMKxlHaAmsVe"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "duration_ms": 260157,
+      "name": "Gloworm",
+      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
+    },
+    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Follow Your Heartbeat",
@@ -955,22 +987,6 @@
       "duration_ms": 171440,
       "name": "Follow Your Heartbeat",
       "url": "https://open.spotify.com/track/3V9MoPnm3V6NyqrhbHsbqd"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Fascinating Rhythm",
-        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
-      },
-      "artists": [
-        {
-          "name": "Janon Panic Push",
-          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Fascinating Rhythm Remix",
-      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "Rikta EP",
-        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
+        "name": "Fascinating Rhythm",
+        "url": "https://open.spotify.com/album/2nYIMFqpAnCvLRdtZCjbBu"
       },
       "artists": [
         {
-          "name": "Subrix",
-          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
+          "name": "Janon Panic Push",
+          "url": "https://open.spotify.com/artist/1E7n4DdLYdDatRJo7AlAVb"
         }
       ],
-      "duration_ms": 272098,
-      "name": "Rikta",
-      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+      "duration_ms": 203500,
+      "name": "Fascinating Rhythm Remix",
+      "url": "https://open.spotify.com/track/2BIV4qwP2ATl31voaWEOv6"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1025,6 +1041,22 @@
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
     },
     {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Rikta EP",
+        "url": "https://open.spotify.com/album/0NOTU7KvG8KcYP4WZg79Me"
+      },
+      "artists": [
+        {
+          "name": "Subrix",
+          "url": "https://open.spotify.com/artist/6chgSzPruoQVCMpPrIrtQf"
+        }
+      ],
+      "duration_ms": 272098,
+      "name": "Rikta",
+      "url": "https://open.spotify.com/track/3e5jShw7ECoIaaReEr5OqP"
+    },
+    {
       "added_at": "2023-08-23 14:01:12",
       "album": {
         "name": "POOLS",
@@ -1039,22 +1071,6 @@
       "duration_ms": 288000,
       "name": "POOLS",
       "url": "https://open.spotify.com/track/5Lijj3EPCxqzsccJNCm0ZV"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
-      },
-      "artists": [
-        {
-          "name": "Talik",
-          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
-        }
-      ],
-      "duration_ms": 260157,
-      "name": "Gloworm",
-      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1089,22 +1105,6 @@
       "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "WIREPULLER",
-        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
-      },
-      "artists": [
-        {
-          "name": "UURYDON",
-          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
-        }
-      ],
-      "duration_ms": 90266,
-      "name": "HAXAN",
-      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "Hotel *****",
@@ -1119,6 +1119,22 @@
       "duration_ms": 157200,
       "name": "Main theme, Pt I",
       "url": "https://open.spotify.com/track/30vEg5FXGG95wZws1LjwYR"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "WIREPULLER",
+        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
+      },
+      "artists": [
+        {
+          "name": "UURYDON",
+          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
+        }
+      ],
+      "duration_ms": 90266,
+      "name": "HAXAN",
+      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1345,20 +1361,20 @@
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+        "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
+        "url": "https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f"
       },
       "artists": [
         {
-          "name": "fibril",
-          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+          "name": "Gil Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
         }
       ],
-      "duration_ms": 122258,
-      "name": "vie",
-      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
+      "duration_ms": 354031,
+      "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
+      "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1375,22 +1391,6 @@
       "duration_ms": 261433,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/2jehW2Iv3rbQnEFrAdrAjz"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
-        "url": "https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f"
-      },
-      "artists": [
-        {
-          "name": "Gil Dion\u00edsio",
-          "url": "https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn"
-        }
-      ],
-      "duration_ms": 354031,
-      "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
-      "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1425,20 +1425,36 @@
       "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "Smug",
-        "url": "https://open.spotify.com/album/5b6oImQ5O0S3SuEGwzIrDV"
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
       },
       "artists": [
         {
-          "name": "Mindsight",
-          "url": "https://open.spotify.com/artist/6EcpgZnQhBHbiIfyQPGiGu"
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
         }
       ],
-      "duration_ms": 111428,
-      "name": "Smug",
-      "url": "https://open.spotify.com/track/3pZtjbk8LVoThxiL3ZhWo3"
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
+      },
+      "artists": [
+        {
+          "name": "Color Plus",
+          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
+        }
+      ],
+      "duration_ms": 122331,
+      "name": "Wired",
+      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1457,20 +1473,20 @@
       "url": "https://open.spotify.com/track/3s4cyKx2GqEcBNWzchZcKG"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
+        "name": "Smug",
+        "url": "https://open.spotify.com/album/5b6oImQ5O0S3SuEGwzIrDV"
       },
       "artists": [
         {
-          "name": "Color Plus",
-          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
+          "name": "Mindsight",
+          "url": "https://open.spotify.com/artist/6EcpgZnQhBHbiIfyQPGiGu"
         }
       ],
-      "duration_ms": 122331,
-      "name": "Wired",
-      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
+      "duration_ms": 111428,
+      "name": "Smug",
+      "url": "https://open.spotify.com/track/3pZtjbk8LVoThxiL3ZhWo3"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1521,22 +1537,6 @@
       "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
-      },
-      "artists": [
-        {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
-        }
-      ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Irukandji",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Space Mirror",
-        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
-      },
-      "artists": [
-        {
-          "name": "Infinite River",
-          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
-        }
-      ],
-      "duration_ms": 380695,
-      "name": "Summer Session #3",
-      "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Signals At Both Ears",
@@ -1615,6 +1599,22 @@
       "duration_ms": 224146,
       "name": "A Black Moon Tide",
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Space Mirror",
+        "url": "https://open.spotify.com/album/3HJEBCujpDy35mS7P5erJY"
+      },
+      "artists": [
+        {
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
+        }
+      ],
+      "duration_ms": 380695,
+      "name": "Summer Session #3",
+      "url": "https://open.spotify.com/track/1pnhHHes46zmwyrMY5VoUm"
     },
     {
       "added_at": "2023-10-04 14:25:37",

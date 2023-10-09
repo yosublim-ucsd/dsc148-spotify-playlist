@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Joy Denalane
 
-1,137 songs - 2 day 11 hr 15 min
+1,138 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Before We Meet Again](https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Before We Meet Again](https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa) | 4:22 | 2023-05-02 | 2023-06-07 |
 | [Beide alleine \- Radio Edit](https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Beide alleine](https://open.spotify.com/album/5JGSlIeTcoqNhjIEZguAte) | 3:16 | 2022-11-07 | 2022-12-01 |
 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 | 2022-05-31 | 2023-01-04 |
-| [Bella](https://open.spotify.com/track/3ex1721rtFrwbyk92h7dBH) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Bella](https://open.spotify.com/album/6BnzCtci0OV8xPZhiznFLf) | 2:31 | 2023-10-03 |  |
+| [Bella](https://open.spotify.com/track/2nVo6kuIJVSy8jHug27fht) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Periodt](https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu) | 2:31 | 2023-10-03 |  |
+| [Bella](https://open.spotify.com/track/3ex1721rtFrwbyk92h7dBH) | [Nura](https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf) | [Bella](https://open.spotify.com/album/6BnzCtci0OV8xPZhiznFLf) | 2:31 | 2023-10-03 | 2023-10-09 |
 | [Benzer](https://open.spotify.com/track/718y9QjCoHlSLtiPsl9TRd) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Benzer](https://open.spotify.com/album/6Ue6149UREqLkpHVuPrrDB) | 2:24 | 2023-10-03 |  |
 | [berlin nightlife](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin nightlife](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 | 2023-10-03 |  |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-02-01 | 2023-01-04 |

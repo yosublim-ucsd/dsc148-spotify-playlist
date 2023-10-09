@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-171 songs - 13 hr 59 min
+172 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 | 2023-02-28 |
 | [Balaki](https://open.spotify.com/track/6NCLdvK4Pi2jdtruM8U60k) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Balaki](https://open.spotify.com/album/0wHfl44Cnqe7MhoilgjZLg) | 4:14 | 2022-09-20 | 2022-12-27 |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
-| [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/track/2Wdk6ZOaVuaKnaQsuNPqST) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Chaba chinou](https://open.spotify.com/artist/1H9GqufB9SphlHrxSxgc0q) | [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/album/70cUTt6eYM0WEdvWsicu8F) | 4:16 | 2023-10-02 |  |
+| [bent kartier populair](https://open.spotify.com/track/0y2su68WwYXVmXM6cIAeNA) | [cheba chinou](https://open.spotify.com/artist/6ZjzBqKIc89gDJcSryj9ie), [Oussama Torkish](https://open.spotify.com/artist/0zDzZpAE9PhHyIzW1cL0jE) | [bent kartier populair](https://open.spotify.com/album/1rgqYoPn3oeHBOshDokftW) | 4:15 | 2023-10-05 |  |
+| [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/track/2Wdk6ZOaVuaKnaQsuNPqST) | [Studio Ganfouda](https://open.spotify.com/artist/6MjJRyqsG53a9FreiOOsxa), [Chaba chinou](https://open.spotify.com/artist/1H9GqufB9SphlHrxSxgc0q) | [Bent quartier populaire \(بغا يدرحني\)](https://open.spotify.com/album/70cUTt6eYM0WEdvWsicu8F) | 4:16 | 2023-10-02 | 2023-10-09 |
 | [Bghaw 3liya Yba3dok](https://open.spotify.com/track/0qgOUOYQrfWWYI42FLvxum) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Bghaw 3liya Yba3dok](https://open.spotify.com/album/5Yhd5B4XDx6DVLdVa1jVnY) | 4:47 | 2023-02-27 | 2023-09-26 |
 | [Bghitona natfarko](https://open.spotify.com/track/30SPX8Eue4UhihxU9cio7p) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [Bghitona natfarko](https://open.spotify.com/album/4baIAIwbTC2MqgKeIliPKU) | 2:33 | 2021-10-19 | 2022-09-21 |
 | [Brad Lgalb](https://open.spotify.com/track/200vD11oSSH2B8C73kXyRC) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl) | [Brad Lgalb](https://open.spotify.com/album/1tKZOpA4RUscWGOgzgxZtK) | 3:43 | 2023-03-24 | 2023-08-26 |

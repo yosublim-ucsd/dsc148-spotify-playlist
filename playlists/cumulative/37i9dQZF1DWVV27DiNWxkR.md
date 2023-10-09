@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eilish.
 
-353 songs - 23 hr 51 min
+354 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [Sleep in the Light](https://open.spotify.com/track/7tvf2vwI9Rz8La8xjZG5R0) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Johnny Goth / Molly Drag](https://open.spotify.com/album/2fnWQNssFmodRPwkGGTtY3) | 4:16 | 2019-09-29\* | 2020-07-01 |
 | [Sleepy People](https://open.spotify.com/track/567qfszjnKBv5e7OlBxoX9) | [Bettye Crutcher](https://open.spotify.com/artist/2rl5AdbYMS5wg5Zzsq4niL) | [Long As You Love Me](https://open.spotify.com/album/1zKsRnZoz0A5oLmoQaScaA) | 4:27 | 2020-08-30 | 2020-09-11 |
 | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/track/7KdlCAJJcJ7mczRt1fno7I) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Smithereens \(with Rachel Chinouriri\)](https://open.spotify.com/album/5ELFLpnlHXsqDXNN7God9h) | 2:43 | 2022-08-26 | 2023-09-19 |
-| [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 | 2023-08-17 |  |
+| [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 | 2023-08-17 | 2023-10-09 |
+| [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 | 2023-08-17 |  |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 | 2023-09-21 |
 | [Soaps](https://open.spotify.com/track/0XfjwPAwhzlWKNjygDEKkW) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Philophobia](https://open.spotify.com/album/7EPg7ViX41MJPagOjqXjwn) | 4:16 | 2020-08-30 | 2020-09-11 |
 | [Sober II \(Melodrama\)](https://open.spotify.com/track/54ucfuN596MU25jQD3KjCL) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:58 | 2020-08-30 | 2020-09-11 |

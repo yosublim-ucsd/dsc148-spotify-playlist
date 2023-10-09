@@ -2771,6 +2771,32 @@
     },
     {
       "album": {
+        "name": "Bozulmu\u015f Kalbim",
+        "url": "https://open.spotify.com/album/1LYLUKb6ELDXzaA5L96z2n"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        },
+        {
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+        }
+      ],
+      "date_added": "2023-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163765,
+      "name": "Bozulmu\u015f Kalbim",
+      "url": "https://open.spotify.com/track/6suiWjfetKjckJHGveNhI0"
+    },
+    {
+      "album": {
         "name": "Bu A\u015fkta Zarar\u0131m Var",
         "url": "https://open.spotify.com/album/4IcObM2kZAOPyrF1mUa3hw"
       },
@@ -7336,7 +7362,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 101116,
       "name": "\u0130ZLED\u0130 MAHALLE",
       "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
@@ -7576,7 +7602,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 166736,
       "name": "Kalbim Yan\u0131mda",
       "url": "https://open.spotify.com/track/5JklTqhlU2hHinghsTvlX5"
@@ -12488,7 +12514,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 148827,
       "name": "Sor",
       "url": "https://open.spotify.com/track/4K5IIAsu1g5baNEonmTAwu"

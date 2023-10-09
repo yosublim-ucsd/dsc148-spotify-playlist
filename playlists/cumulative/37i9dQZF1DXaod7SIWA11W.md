@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-254 songs - 15 hr 44 min
+255 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Culture of Love \- Acoustic](https://open.spotify.com/track/0j23kPgV9SS33uryzFjUnN) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [The Garden \(Acoustic\)](https://open.spotify.com/album/7rP5slB9wIgFH02TW5TTo9) | 4:13 | 2022-02-18 | 2022-12-17 |
 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 | 2022-02-18 | 2023-02-03 |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2023-07-13 |  |
+| [Don't Eat Crow](https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek) | [A.I\. The Anomaly](https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa) | [Don't Eat Crow](https://open.spotify.com/album/6m8KBofA7DLoeph9I1Rj72) | 4:06 | 2023-07-13 |  |
 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 | 2022-02-18 | 2022-06-01 |
 | [DRAMATIC](https://open.spotify.com/track/5donHnkb9LNbItRfTeDGZ5) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [DRAMATIC](https://open.spotify.com/album/3jxMT3U0axoZ8T9vRqphTT) | 2:44 | 2022-12-16 | 2023-06-11 |
 | [DWTD](https://open.spotify.com/track/3DdqIus5JDtXuhe2QbinWx) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [DWTD](https://open.spotify.com/album/0YlNn18dY1enif6cPiFb8z) | 2:09 | 2023-06-10 | 2023-07-14 |
@@ -159,7 +160,7 @@
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-06-01 |  |
 | [New Me](https://open.spotify.com/track/12oWCWi8KOmUWITBxRoqBc) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [New Me](https://open.spotify.com/album/7F9M7rpvq0FAqV28Ho1coj) | 2:46 | 2022-06-01 | 2023-05-15 |
 | [New Me](https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Vibes&Glory](https://open.spotify.com/artist/4qqnQnjZRTML3p1WeuUYsR) | [New Me](https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2) | 2:46 | 2023-02-02 |  |
-| [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 | 2023-07-13 |  |
+| [Nicely](https://open.spotify.com/track/4cBCYWUCQ6DKyfWINpQuOz) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Nicely](https://open.spotify.com/album/56KdLLhVf6YC3YyMz6ArmC) | 2:50 | 2023-07-13 | 2023-10-09 |
 | [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2022-12-16 | 2023-07-28 |
 | [No Longer Slaves \- 2023 Short Edit / Live](https://open.spotify.com/track/32gGuYwdqL240eut4kXgoX) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 6:58 | 2023-06-10 |  |
 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 | 2022-07-17 |  |

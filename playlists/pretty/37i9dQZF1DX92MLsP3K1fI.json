@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Morat en portada.",
-  "num_followers": 75231,
+  "num_followers": 75307,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2Y1MzM0OTc2YzBhOTViNTc0MTYxNjU1YWZlOTg4OWQxMDFlOWE2",
+  "snapshot_id": "MCw3NDY4ZjlkYjVkMmU3OGYwY2I1NDI5ODdkYjg1MWJmNTY3YTUwMWIx",
   "tracks": [
     {
       "added_at": "2023-10-03 22:31:52",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
-        "name": "Qui\u00e9n lo dir\u00eda",
-        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 159497,
-      "name": "Qui\u00e9n lo dir\u00eda",
-      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
-    },
-    {
-      "added_at": "2023-10-03 22:31:52",
-      "album": {
         "name": "No Puede Ser (con Eladio Carrion)",
         "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 191360,
       "name": "No Puede Ser - con Eladio Carrion",
       "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "added_at": "2023-10-03 22:31:52",
+      "album": {
+        "name": "Qui\u00e9n lo dir\u00eda",
+        "url": "https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 159497,
+      "name": "Qui\u00e9n lo dir\u00eda",
+      "url": "https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR"
     },
     {
       "added_at": "2023-10-03 22:31:52",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-10-03 22:31:52",
       "album": {
-        "name": "Tan Viva",
-        "url": "https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs"
+        "name": "Bailo Sola",
+        "url": "https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA"
       },
       "artists": [
         {
-          "name": "JNS",
-          "url": "https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli"
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
         }
       ],
-      "duration_ms": 205524,
-      "name": "Tan Viva",
-      "url": "https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb"
+      "duration_ms": 155061,
+      "name": "Bailo Sola",
+      "url": "https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk"
     }
   ],
   "unique_name": "Oye Pop",

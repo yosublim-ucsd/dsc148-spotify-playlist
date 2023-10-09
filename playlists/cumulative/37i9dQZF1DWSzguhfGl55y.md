@@ -4,7 +4,7 @@
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-119 songs - 8 hr 12 min
+120 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Die John Bello Story, Vol\. 3](https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB) | 3:16 | 2022-03-17 |  |
 | [Schlechtes Vorbild](https://open.spotify.com/track/0LmfeuPjr6wdmh7jeXgKaI) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich](https://open.spotify.com/album/14acvqwaF50AVraoMsY6bB) | 3:24 | 2022-03-17 | 2022-07-29 |
 | [Schlechtes Vorbild](https://open.spotify.com/track/2L2NmbpVp1dHotlpVJ4zr8) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich \(Premium Edition\)](https://open.spotify.com/album/1pq1kLABw0A1UCLmfhYfZr) | 3:24 | 2022-07-21 |  |
+| [Schmetterling](https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 | 2023-07-13 |  |
 | [Schwarz zu blau](https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Stadtaffe](https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H) | 3:35 | 2022-03-17 |  |
 | [Schwule Mädchen](https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905) | 3:25 | 2022-11-21 |  |
 | [Schwule Mädchen](https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1) | 3:25 | 2022-03-17 | 2022-11-20 |
@@ -125,7 +126,7 @@
 | [Widerstand \(feat\. Gentleman\)](https://open.spotify.com/track/3SREWQTntVkUDdhAqgOGy5) | [Curse](https://open.spotify.com/artist/4MgKf1MjOXZipoP0Kbv4hi), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [Curse EP: Famous Five \(with Silbermond\)](https://open.spotify.com/album/6H3hW8IMnRN8ODHsG5uTTr) | 4:11 | 2022-03-17 | 2022-07-29 |
 | [Wie jetzt](https://open.spotify.com/track/5ZZR3IitTL7OKJUukCXKZN) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:00 | 2022-06-13 | 2022-06-29 |
 | [Wir waren mal Stars](https://open.spotify.com/track/1rXEEicSA43RvVGm4yc4ai) | [Torch](https://open.spotify.com/artist/1SlicUoJXrQtdoyDhbFiHi), [Toni\-L](https://open.spotify.com/artist/1w7MOkgbqi9K4D9FXRwIh9) | [Blauer Samt](https://open.spotify.com/album/6YVuIEebYytSbOwjC200or) | 4:40 | 2022-06-13 | 2022-06-15 |
-| [Zeiten ändern dich](https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:34 | 2022-12-21 |  |
+| [Zeiten ändern dich](https://open.spotify.com/track/4YZxwEHbmwwgdvhAUDwFXz) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF) | 3:34 | 2022-12-21 | 2023-10-09 |
 | [Zeiten ändern dich](https://open.spotify.com/track/5Z4BxkR8AqMlzmrQxhYmSQ) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Zeiten ändern dich](https://open.spotify.com/album/1Oz2G4HlbF8KFwnJ9jBB8I) | 3:34 | 2022-06-13 | 2022-06-25 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

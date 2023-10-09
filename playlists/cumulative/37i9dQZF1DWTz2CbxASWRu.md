@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-362 songs - 1 day 2 hr 20 min
+363 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cumbia Imperial](https://open.spotify.com/track/4bgod5MlOsjzzHC0IQFoAM) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj), [Erik Axelsson](https://open.spotify.com/artist/6M5Vevn5R8nUp9aaXjP2IA) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:25 | 2023-07-10 |  |
 | [Cumbion de las Aves](https://open.spotify.com/track/5fv7uY4AfOWlaLS0GVjibW) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Río Arriba](https://open.spotify.com/album/64YiuDZw5jozMxQHSldAej) | 4:45 | 2023-07-10 |  |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2023-07-10 | 2023-10-06 |
+| [Damat Alam](https://open.spotify.com/track/1v55bBB5y2DqWkz622OMxv) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [Music For Airplanes \- A collection of instrumental showpieces and scores for Egyptian films and TV\-series \(1973\-1980\)](https://open.spotify.com/album/38TAyky0FDfVX5oFeuIEGk) | 3:59 | 2023-07-10 |  |
 | [Dans l'eau de la claire fontaine](https://open.spotify.com/track/3wu98sggSB6ScL50tCl4Pk) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [Dans l'eau de la claire fontaine](https://open.spotify.com/album/60LrHgD4gtmsMQGviijZ7k) | 4:06 | 2023-07-10 |  |
 | [Danza Del Millonario](https://open.spotify.com/track/7ndS4yAvKF7vE7VG14fR0v) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Canibalismo](https://open.spotify.com/album/4QR28XDfACXN16nfQDWLRp) | 3:51 | 2023-07-10 |  |
 | [Dat Soca Boat](https://open.spotify.com/track/0kcRT3jEJ0UoJINKYgi3jq) | [Mighty Shadow](https://open.spotify.com/artist/7neifytZbB1dxIIu7kSfWQ) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 4:49 | 2023-07-10 |  |
@@ -319,7 +320,7 @@
 | [Take Five](https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub Reggae](https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS) | 3:38 | 2023-07-10 |  |
 | [Te Ao Mārama / Solar Power](https://open.spotify.com/track/3Oz6UMkZPQFP14wLXYWLul) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Te Ao Mārama](https://open.spotify.com/album/0fPuf1jv42CH5okF6MjKmE) | 3:10 | 2023-07-10 |  |
 | [Tek Time](https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 7:03 | 2023-07-10 |  |
-| [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/6Fw6Ok3z54zNDNSBPeVyxN) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/24KGXmJsYEnqLghXdUK5Dq) | 4:39 | 2023-07-10 |  |
+| [Tendme \(Habibi Funk 015\)](https://open.spotify.com/track/6Fw6Ok3z54zNDNSBPeVyxN) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Tendme \(Habibi Funk 015\)](https://open.spotify.com/album/24KGXmJsYEnqLghXdUK5Dq) | 4:39 | 2023-07-10 | 2023-10-09 |
 | [The Benin Atmopshere](https://open.spotify.com/track/0Ffd3IUcKUsNuwieMQRojA) | [Benin International Musical](https://open.spotify.com/artist/5R1SZbG0GTBNp6p7NX62X9) | [BIM\#1](https://open.spotify.com/album/412B7XAXcpqYY9BGD4ozgl) | 3:00 | 2023-07-10 |  |
 | [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 | 2023-07-10 |  |
 | [The Contender](https://open.spotify.com/track/3rOwiAmkqaCTPforuRb6i7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 3:48 | 2023-07-10 |  |

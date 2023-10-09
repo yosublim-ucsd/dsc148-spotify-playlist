@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 13677,
+  "num_followers": 13706,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmFjOWE3NGIxODk3NDBiOGI5MzQzMDk4MzQ2NjBmMmVlNjgzZDYy",
+  "snapshot_id": "MCwzMjk3MzRiYWU4NzE4NjRjNDg4Nzk3OTE2YzYzZmU5YzNjNDI3ZjFm",
   "tracks": [
     {
       "added_at": "2023-09-20 06:38:49",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
+        "name": "STABLE MINDSET",
+        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 212371,
+      "name": "On A Rainy Day",
+      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
+    },
+    {
+      "added_at": "2023-09-20 06:38:49",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
-    },
-    {
-      "added_at": "2023-09-20 06:38:49",
-      "album": {
-        "name": "STABLE MINDSET",
-        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 212371,
-      "name": "On A Rainy Day",
-      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
     },
     {
       "added_at": "2023-09-20 06:38:49",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-20 06:38:49",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
-        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/23iaZgx8uWzU3Ue5Ont2dX"
       },
       "artists": [
         {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
         }
       ],
-      "duration_ms": 235346,
-      "name": "Shadow Love",
-      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/5ioe7m0R08brQejeajiGJN"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

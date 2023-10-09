@@ -342,7 +342,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 143647,
       "name": "be cool",
       "url": "https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r"
@@ -3160,6 +3160,24 @@
       "duration_ms": 219690,
       "name": "Nont For Sale",
       "url": "https://open.spotify.com/track/1dSUiYNjblQ2Vd142K8kjn"
+    },
+    {
+      "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
     },
     {
       "album": {

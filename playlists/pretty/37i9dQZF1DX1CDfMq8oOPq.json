@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Duquesa",
-  "num_followers": 41693,
+  "num_followers": 41724,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzM1ZWQ5YWJmZDhlYTZlOTk4ZDJiYzIyOTY1MGE0MDg4ZGUyZGM5",
+  "snapshot_id": "MCwxZGM4NmVhZGZiMDI1MzYyNzNkODU1MDQwNTI0NWExZDM5ZmEzMTlh",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
-      },
-      "artists": [
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        }
-      ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "F\u00f4lego",
         "url": "https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s"
       },
@@ -979,22 +959,22 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Carta Aberta (Lado A)",
-        "url": "https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA"
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
       "artists": [
         {
-          "name": "Gabily",
-          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         },
         {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Como Eu Virei A Bad Girl",
-      "url": "https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn"
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1019,26 +999,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Sangue Negro",
-        "url": "https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R"
-      },
-      "artists": [
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 104810,
-      "name": "Sangue Negro",
-      "url": "https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Pretchuka",
         "url": "https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd"
       },
@@ -1055,6 +1015,46 @@
       "duration_ms": 153020,
       "name": "Pretchuka",
       "url": "https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Carta Aberta (Lado A)",
+        "url": "https://open.spotify.com/album/269fUNW56hNShvHyuGwIgA"
+      },
+      "artists": [
+        {
+          "name": "Gabily",
+          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 131680,
+      "name": "Como Eu Virei A Bad Girl",
+      "url": "https://open.spotify.com/track/2c4vnV4CFPMHaR76qdmxwn"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Sangue Negro",
+        "url": "https://open.spotify.com/album/5BVSiqnFTBc9VNvGmwHT8R"
+      },
+      "artists": [
+        {
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 104810,
+      "name": "Sangue Negro",
+      "url": "https://open.spotify.com/track/5XFmilgqTejITyL7XTpDBc"
     },
     {
       "added_at": "2023-10-06 03:03:00",

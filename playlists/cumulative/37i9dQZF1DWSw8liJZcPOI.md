@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-426 songs - 1 day 5 hr 37 min
+427 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Respite](https://open.spotify.com/track/4GseyfbqLyCeaUeXOmsCY2) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Time It Takes](https://open.spotify.com/album/3VUREi1t32vVvHnr01Kjkr) | 3:01 | 2020-10-21 | 2022-07-29 |
 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 | 2021-10-28 |  |
 | [Reunion](https://open.spotify.com/track/2Kaye2dFeYbr63lwI52NCV) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [Reunion](https://open.spotify.com/album/5xMgjlHVEvH0thvgkMHQHw) | 4:56 | 2020-10-20\* | 2022-07-11 |
+| [Riverscape](https://open.spotify.com/track/5GwVkYN0uWaS9rwNezJAZg) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Riverscape](https://open.spotify.com/album/5TS8osFEMF2oHUwKWnS0Qw) | 2:34 | 2023-10-06 |  |
 | [Rjóður](https://open.spotify.com/track/4YqW8DorMNHqsEus1Vgtju) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Landbrot II](https://open.spotify.com/album/4CANYSuVOvVmKAPkYtq8tM) | 4:05 | 2021-11-21 | 2022-07-29 |
 | [Ruins](https://open.spotify.com/track/2GGS3Qry5txkpc3Caz4VDt) | [Jim Copperthwaite](https://open.spotify.com/artist/7roEen94bDxXPEhG3DVjej) | [Ballroom Ghosts](https://open.spotify.com/album/2WN0MKnzMoi1dm7s8XnD6C) | 5:13 | 2020-10-21 | 2022-04-16 |
 | [Runddans](https://open.spotify.com/track/6Yih5MA3v98yJzgfnUJ1Gd) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Runddans](https://open.spotify.com/album/01GyKaeOGueyXsGElCsGjF) | 4:06 | 2022-04-01 | 2022-07-23 |
@@ -419,7 +420,7 @@
 | [What Gently Flutters](https://open.spotify.com/track/7z8IVlpwHziC0bFq4gZMxT) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Bryan Senti](https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR) | [What Gently Flutters](https://open.spotify.com/album/3iMEn4oNhkAj70YRaJGMWJ) | 2:08 | 2021-10-19 | 2023-01-11 |
 | [Where Do We Go from Here](https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/3ZUvUjlINbO7bm2i7hwPUZ) | 2:25 | 2021-01-17 | 2022-07-07 |
 | [Where Do We Go from Here](https://open.spotify.com/track/3aht08JlnWhD5A0MpIfU0T) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go from Here](https://open.spotify.com/album/54bf3kCXzdccCdrWnjV9cS) | 2:25 | 2022-07-22 | 2022-07-30 |
-| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 |  |
+| [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 | 2023-03-24 | 2023-10-09 |
 | [Whispering House](https://open.spotify.com/track/3Rp6QRg26D55gGRFlfHltm) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:52 | 2023-10-06 |  |
 | [Whispers](https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq), [Jake Lowe](https://open.spotify.com/artist/6Z7c9MaP9Jt63gLeoYKA7n) | [Whispers](https://open.spotify.com/album/3vYwHAdCXFOSPB0QlpiCaS) | 2:50 | 2020-10-30 |  |
 | [Wholeness and the Implicate Order](https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Wholeness and the Implicate Order](https://open.spotify.com/album/7L7Xxd7GQZrtHgt7hNFp5d) | 5:46 | 2020-10-21 | 2022-07-16 |

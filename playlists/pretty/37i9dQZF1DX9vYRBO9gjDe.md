@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月6日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,643 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,709 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 50 | [ハッピー☆ブギ](https://open.spotify.com/track/6CxbTX5K3LVTVj41wk5XQn) | [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [趣里](https://open.spotify.com/artist/2rodLJLnpKoFMJggODrOMg) | [ハッピー☆ブギ](https://open.spotify.com/album/16SgWv3BPNBRIlPy70OgOl) | 3:40 |
 
-Snapshot ID: `MCw5YTQ0ZjhiODY1Mjc2ZTNlMmU4OGUwYWI2OWE2MjkyOTQwNzhhZTA4`
+Snapshot ID: `MCw2ODdkYzczZjk5ZTk2MjA4NDRjZDdlMjg0Y2U0OWIwN2RjYmJlNjJk`

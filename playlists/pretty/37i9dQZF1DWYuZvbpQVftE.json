@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 19935,
+  "num_followers": 19964,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx",
+  "snapshot_id": "MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
-      },
-      "artists": [
-        {
-          "name": "Shorty Rogers",
-          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Moon Over Cuba",
-      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Coolin'",
         "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5"
+      },
+      "artists": [
+        {
+          "name": "Shorty Rogers",
+          "url": "https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Moon Over Cuba",
+      "url": "https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Stan Getz At The Shrine",
-        "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 523426,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Stan Getz At The Shrine",
+        "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 523426,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "The Essential Dave Brubeck",
-        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 410800,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 416866,
       "name": "Gettin' Together [Original Take]",
       "url": "https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "The Essential Dave Brubeck",
+        "url": "https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 410800,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Playboys",
         "url": "https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 344239,
       "name": "Resonant Emotions",
       "url": "https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     }
   ],
   "unique_name": "West Coast Jazz",

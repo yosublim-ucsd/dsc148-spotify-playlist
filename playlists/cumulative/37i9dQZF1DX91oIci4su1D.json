@@ -6897,6 +6897,28 @@
     },
     {
       "album": {
+        "name": "In Your Mind",
+        "url": "https://open.spotify.com/album/2S4Pwjan4fsi0xtC1fJpyn"
+      },
+      "artists": [
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        },
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/2yAnDLhBYRYE0pKYvZ43mu"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/6fBOUmSFyjXFfKF71uRDjZ"
       },
@@ -12910,7 +12932,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 233030,
       "name": "Starship",
       "url": "https://open.spotify.com/track/04ted2YPfm40Peb2pC9CyD"

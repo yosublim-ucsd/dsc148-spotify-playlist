@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Majid Jordan
 
-981 songs - 2 day 4 hr 36 min
+982 songs - 2 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/track/6oIahjoSHQ3GQJg0hrLdzY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [I Believed It \(feat\. Mac Miller\)](https://open.spotify.com/album/0nKlLF5MUHVyMAiQdMD3Pi) | 4:06 | 2021-06-25 | 2022-04-16 |
 | [I C U](https://open.spotify.com/track/1qWpYCt9rJmr0oPs1tqFzP) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [I C U](https://open.spotify.com/album/1G1xm5Jww1lwc9brKsNvOP) | 3:29 | 2022-04-01 | 2022-04-11 |
 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 | 2021-07-23 | 2022-01-29 |
+| [i can see you're online](https://open.spotify.com/track/5eJAtLcl5sGHf1rs4rB7D1) | [Indira May](https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24), [Saffron](https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl) | [i can see you're online](https://open.spotify.com/album/1xh1mtVTSZk9GmJyTGqBZA) | 2:29 | 2023-08-04 |  |
 | [i don't wanna fall in love, it's too late now](https://open.spotify.com/track/4OPcKAVpIquCyW94TEaD3A) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 0:55 | 2023-02-03 | 2023-07-01 |
 | [I Got It](https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:27 | 2022-06-10 | 2023-02-11 |
 | [I Got It](https://open.spotify.com/track/7v7A2gqJVvSrSl5xOjJaOf) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [I Got It](https://open.spotify.com/album/1WSsUjXDaLpydWuJdZWDWb) | 3:27 | 2022-04-01 | 2022-10-29 |
@@ -731,7 +732,7 @@
 | [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 | 2023-09-02 |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-11 |
 | [scuse me](https://open.spotify.com/track/6Y6RY6HhGO74XTiCNls79c) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [scuse me](https://open.spotify.com/album/7mLCTKkW7aWxsNsXTJ9oYz) | 2:24 | 2022-12-16 | 2023-01-14 |
-| [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 | 2023-08-18 |  |
+| [See You](https://open.spotify.com/track/1laov0eTmYzYLbP01ChrGe) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [See You](https://open.spotify.com/album/2hIkmuhxnh4q3sBr45kohd) | 2:17 | 2023-08-18 | 2023-10-09 |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2023-04-14 | 2023-05-06 |
 | [Self!](https://open.spotify.com/track/3GaIA718XNZODneN1KW6Vr) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Self!](https://open.spotify.com/album/0R4NeOHuEtXXpjG0xkIKcX) | 3:50 | 2021-03-19 | 2022-08-06 |
 | [Self\-Contained](https://open.spotify.com/track/69juaKk6uRwnslwNX5niEp) | [DWY](https://open.spotify.com/artist/6rKDNm4z67mZVwDwnE0WsX) | [Self\-Contained](https://open.spotify.com/album/5HOxi26ZvTMi8zW0iadJtT) | 3:01 | 2022-09-30 | 2023-08-24 |

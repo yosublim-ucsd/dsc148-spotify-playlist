@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,717 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,719 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Se o arrependimento matasse](https://open.spotify.com/track/52hos2cE2BuLVOGIS9K45m) | [701](https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg) | [Se o arrependimento matasse](https://open.spotify.com/album/7tDOIWqQUIHBKydJCj65IA) | 2:48 |
 | 50 | [Hipnose](https://open.spotify.com/track/7lJ6ly1TTyrsu5anLgunFt) | [Inês Monstro](https://open.spotify.com/artist/4dh79sEeMKuEsZhkojV8xQ) | [Hipnose](https://open.spotify.com/album/57IgWyeDmrtZDKMejmIZDv) | 2:55 |
 
-Snapshot ID: `MCxiZWU4MGZhZjlhNzRkMjVkOWZlNDU4ZjM3MWE0ZGYyM2EzODZiMDRi`
+Snapshot ID: `MCwxM2VlNmYzMTA4NWVmMWE0NDUxYjM4NjMyZTcwYTY4ZGQwMjI3ZjVi`

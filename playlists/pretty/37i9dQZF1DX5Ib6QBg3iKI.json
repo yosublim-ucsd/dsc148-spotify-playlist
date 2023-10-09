@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125482,
+  "num_followers": 125475,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Njg1MzhmZWIwYWU5MGUyZjg4MjhiOTIwZGIzODhkMWRiMjJhODQ3",
+  "snapshot_id": "MCw5YTJlYzYwMTRhYjQwMWYwYTQ4ODc1ZWZjYmNjMmNmNzA5NWMyNDcw",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Confetti (Expanded Edition)",
         "url": "https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
     },
     {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "River (Live in Studio)",
-        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "River - Live in Studio",
-      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "Christmas Party",
@@ -883,6 +867,22 @@
       "duration_ms": 242186,
       "name": "Mary's Boy Child / Oh My Lord",
       "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "River (Live in Studio)",
+        "url": "https://open.spotify.com/album/46jfQXH6qpzGrE6Wo67jXk"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "River - Live in Studio",
+      "url": "https://open.spotify.com/track/4wmV92vSB3oZ7XB2FyJUIM"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 215058,
+      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 266922,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 215058,
-      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 171078,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "This Must Be Christmas",
         "url": "https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 213182,
       "name": "This Must Be Christmas - Single Mix",
       "url": "https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/6Pchjb89jY7FiyzzAo67Q6"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 171078,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4mcgyq5Ay6OYOE4ou2FCNx"
     },
     {
       "added_at": "2022-11-18 01:05:05",

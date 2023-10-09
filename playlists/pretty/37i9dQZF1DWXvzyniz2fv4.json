@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 152243,
+  "num_followers": 152347,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjBkODBiZjUxNTE5Y2FhZTc1YTNlNzFmYjQ3OTM1YzQwYzdkZDEy",
+  "snapshot_id": "MCxkYTdlZWM4YTZhZGMyOTk1MmVkYjY3ZTMyMDBlZmM2NGEwMTY5OGYw",
   "tracks": [
     {
       "added_at": "2023-09-29 16:03:38",
@@ -1235,34 +1235,6 @@
     {
       "added_at": "2023-09-29 16:03:38",
       "album": {
-        "name": "Jeito Bom #2",
-        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
-      },
-      "artists": [
-        {
-          "name": "RM no Beat",
-          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
-        },
-        {
-          "name": "Caio Big",
-          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
-        },
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        },
-        {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
-        }
-      ],
-      "duration_ms": 209378,
-      "name": "Jeito Bom #2",
-      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2023-09-29 16:03:38",
-      "album": {
         "name": "Mist\u00e9rio",
         "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 125932,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2023-09-29 16:03:38",
+      "album": {
+        "name": "Jeito Bom #2",
+        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
+      },
+      "artists": [
+        {
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
+        },
+        {
+          "name": "Caio Big",
+          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+        }
+      ],
+      "duration_ms": 209378,
+      "name": "Jeito Bom #2",
+      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
     },
     {
       "added_at": "2023-09-29 16:03:38",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-09-29 16:03:38",
       "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
+    },
+    {
+      "added_at": "2023-09-29 16:03:38",
+      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-09-29 16:03:38",
-      "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2023-09-29 16:03:38",

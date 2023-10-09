@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra, Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,712 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,781 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
-| 2 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
+| 2 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 3 | [Jangan Bawa Perasaan \(Bercanda\)](https://open.spotify.com/track/2jCMsksf7vgvkoNSkzaXP9) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jangan Bawa Perasaan \(Bercanda\)](https://open.spotify.com/album/0qUTLVANNQp3dCIK4rRjgd) | 2:50 |
 | 4 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 |
 | 5 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 |
 | 89 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 |
 | 90 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 |
-| 91 | [I Wanna Try Something New](https://open.spotify.com/track/0beqUiZartDGJjOp5H325v) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/62VoEhJtVh6jeqL7vHsEnX) | 3:41 |
+| 91 | [I Wanna Try Something New](https://open.spotify.com/track/2zwm83YNwgh9VfLG6gYoUg) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender \(Expanded Edition\)](https://open.spotify.com/album/6OlbbKp6Xdbj35dVieredT) | 3:41 |
 | 92 | [Don't Kill My Vibe](https://open.spotify.com/track/0oxljO8NbW9pNbf73bXCqr) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Don't Kill My Vibe](https://open.spotify.com/album/2sPPxDUb31nMY1jM74wvwq) | 2:21 |
 | 93 | [Black Goose](https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Black Goose](https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv) | 2:33 |
 | 94 | [funny colors](https://open.spotify.com/track/1LCxD3wo2Yt6bbyR9uQV25) | [corner club](https://open.spotify.com/artist/3bNfFxC4i5CNV3OMWTj2PJ) | [in the rearview mirror](https://open.spotify.com/album/5HwXC50kLILpRPbNkj3Lt4) | 3:11 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [3:07](https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx), [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [3:07](https://open.spotify.com/album/5lv0shRMmophaPNApOmK65) | 3:48 |
 | 112 | [Sanctuary](https://open.spotify.com/track/4C03G8jrKuzw6OZk7qlvNp) | [The Great Spy Experiment](https://open.spotify.com/artist/6eMW7MJMdeHuAEXhixxsKH) | [Sanctuary / Secrets](https://open.spotify.com/album/4AH7OqMaRuC2DBXNntBxzL) | 4:36 |
 
-Snapshot ID: `MCw3YTFhYThiMTgwMDI4OTIwNDM3YTg5MmM5YjA4MTMwMGM1YzZmMGIx`
+Snapshot ID: `MCxiMTliNDMyNTkwNzJiMjlmMjdjNDNmOWY1ZWMwNTRlOWQyY2E5MGU3`

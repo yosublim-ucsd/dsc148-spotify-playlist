@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 6603,
+  "num_followers": 6610,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzQ4NmE0MTgzMjc5NWFkZWZjMDY1NDhiZTJlMWU1ZWQwNThkZjU2",
+  "snapshot_id": "MCxjNzEwNjAxNDgxNjgyNzBkYTJiYzZjMDZmNzYyMGI0OTMyMGI2YzFj",
   "tracks": [
     {
       "added_at": "2022-07-11 22:00:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Entre Ayer y Hoy",
         "url": "https://open.spotify.com/album/69JFGFoQLfiVaQaPfduFet"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 147800,
       "name": "Sana, Sana, Colita de Rana",
       "url": "https://open.spotify.com/track/26cHBaPyFGH2lhtdaq4Dz1"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+        "name": "Alibombo",
+        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+      "duration_ms": 176557,
+      "name": "Alibombo",
+      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -847,18 +847,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Alibombo",
-        "url": "https://open.spotify.com/album/1jDS8IS5toJZ7g25gfqIHG"
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
       "artists": [
         {
-          "name": "Payasitas Nifu Nifa",
-          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 176557,
-      "name": "Alibombo",
-      "url": "https://open.spotify.com/track/4B2Oac5PIY1aVJ83rCIgce"
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -943,18 +943,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
+      "duration_ms": 184226,
+      "name": "Garabato Colorado",
+      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

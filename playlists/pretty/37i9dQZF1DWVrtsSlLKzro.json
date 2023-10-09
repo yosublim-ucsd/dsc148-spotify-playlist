@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 618515,
+  "num_followers": 618684,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTA5Mzk5NTgxMzAwNDQ5ZGE0ZWFlYzNkMTZkNGM4ZGI2MzE4M2Y1",
+  "snapshot_id": "MCxiMWIwNzQ2MWJjNDVkNmQ3NDg1MDg0MWU3NTczNzNlMjViM2M4Yjg2",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -667,30 +667,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Never Give Up On You (with Elle Vee)",
-        "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
-        }
-      ],
-      "duration_ms": 208888,
-      "name": "Never Give Up On You (with Elle Vee)",
-      "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 216125,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/5fWRLdgfMlbKDncAhdN9zI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Never Give Up On You (with Elle Vee)",
+        "url": "https://open.spotify.com/album/1Rd5iSReakdd3r5H7g9p51"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "duration_ms": 208888,
+      "name": "Never Give Up On You (with Elle Vee)",
+      "url": "https://open.spotify.com/track/6QyteQFqwV52K3YAs2a3pf"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "The Way You Had Me",
+        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
+      },
+      "artists": [
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 190423,
+      "name": "The Way You Had Me",
+      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Oh, Miles",
         "url": "https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 333870,
       "name": "Oh, Miles",
       "url": "https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "The Way You Had Me",
-        "url": "https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 190423,
-      "name": "The Way You Had Me",
-      "url": "https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Perfect World",
-        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3dM5PL2xuR0xnRdkxFk0Sj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 255172,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Perfect World",
+        "url": "https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "XAELO",
-          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
-        }
-      ],
-      "duration_ms": 262393,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Worst Case",
         "url": "https://open.spotify.com/album/7BxXZuYlYgPcqEaFn08usZ"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 178048,
       "name": "Worst Case",
       "url": "https://open.spotify.com/track/3zbbRebB1rzlXJgq7Ufn8V"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "XAELO",
+          "url": "https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV"
+        }
+      ],
+      "duration_ms": 262393,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 169252,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Colorblind (feat. Dayseeker)",
         "url": "https://open.spotify.com/album/7zxLuEY7mKLKdyWjnCfP35"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 169252,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Innerlight EP",
+        "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 188052,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 230344,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Innerlight EP",
-        "url": "https://open.spotify.com/album/2tg28FJC1DoNaE19f9FpY7"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 188052,
-      "name": "Broken Mirror",
-      "url": "https://open.spotify.com/track/44oPs8vjsT9v6Hjt50TvVh"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2207,26 +2207,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "A Moment Apart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MRcN8PhMhBe84tcPLe2QJ"
       },
@@ -2247,22 +2227,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Weightless Feeling",
-        "url": "https://open.spotify.com/album/58ccjEHNsTV6laJe30KGD5"
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
       },
       "artists": [
         {
-          "name": "Throttle",
-          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         },
         {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Weightless Feeling",
-      "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
+      "duration_ms": 197779,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2287,26 +2267,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Read Your Mind (with sad alex)",
-        "url": "https://open.spotify.com/album/0YrVbBOAFno3lbKyY03Rob"
+        "name": "Weightless Feeling",
+        "url": "https://open.spotify.com/album/58ccjEHNsTV6laJe30KGD5"
       },
       "artists": [
         {
-          "name": "Friendzone",
-          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
         },
         {
-          "name": "Parker",
-          "url": "https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne"
-        },
-        {
-          "name": "sad alex",
-          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Read Your Mind (with sad alex)",
-      "url": "https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ"
+      "duration_ms": 226285,
+      "name": "Weightless Feeling",
+      "url": "https://open.spotify.com/track/0Ivhw3XCIjKKIq4clyKXwR"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2327,6 +2303,30 @@
       "duration_ms": 173225,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Read Your Mind (with sad alex)",
+        "url": "https://open.spotify.com/album/0YrVbBOAFno3lbKyY03Rob"
+      },
+      "artists": [
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        },
+        {
+          "name": "Parker",
+          "url": "https://open.spotify.com/artist/7HvystfBAIH8khkGVO4vne"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Read Your Mind (with sad alex)",
+      "url": "https://open.spotify.com/track/5YXpxCNleJkeXZ0bLKv7MJ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2519,26 +2519,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "All Your Days",
-        "url": "https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 275013,
-      "name": "All Your Days",
-      "url": "https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE"
       },
@@ -2555,6 +2535,26 @@
       "duration_ms": 161538,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "All Your Days",
+        "url": "https://open.spotify.com/album/7yAkNeDpEitPPfVMQ0bIxt"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 275013,
+      "name": "All Your Days",
+      "url": "https://open.spotify.com/track/2QEBXYzURjg7nY8FjbBcUt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2639,6 +2639,26 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Muzique, Vol. 01",
+        "url": "https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Jead",
+          "url": "https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Please Come Home",
+      "url": "https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Best Part About You (camoufly Remix)",
         "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
       },
@@ -2659,26 +2679,6 @@
       "duration_ms": 191823,
       "name": "Best Part About You - camoufly Remix",
       "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Muzique, Vol. 01",
-        "url": "https://open.spotify.com/album/43VpirC4MMe2q15WRbz66a"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Jead",
-          "url": "https://open.spotify.com/artist/5y239Fviw0hAOe5Jy3qzlf"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Please Come Home",
-      "url": "https://open.spotify.com/track/2JOxQUCJ24EpytRxkFrrdG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2707,22 +2707,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Long Way Home",
-        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 305051,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Can\u2019t Do Both (with Clara Mae)",
         "url": "https://open.spotify.com/album/3eLwA43vI5bh00YocrNWPU"
       },
@@ -2739,6 +2723,22 @@
       "duration_ms": 177345,
       "name": "Can\u2019t Do Both (with Clara Mae)",
       "url": "https://open.spotify.com/track/51Msclnf6boUX26DmZvViX"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Long Way Home",
+        "url": "https://open.spotify.com/album/3bZwlowzh4YGLX6LfrYdSk"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 305051,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/4ULqmjj1Rt1IzbTCAYSzOt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2931,6 +2931,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "What It Used To Be",
+        "url": "https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj"
+      },
+      "artists": [
+        {
+          "name": "Zack Gray",
+          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+        }
+      ],
+      "duration_ms": 222499,
+      "name": "What It Used To Be",
+      "url": "https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Digital Dreamscape (Deluxe)",
         "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
       },
@@ -2947,18 +2963,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "What It Used To Be",
-        "url": "https://open.spotify.com/album/5KF2JJfmBPvXvI2dwCmlJj"
+        "name": "You're Not Mine",
+        "url": "https://open.spotify.com/album/0DkMxW0zWrw76OJyYO5F9Q"
       },
       "artists": [
         {
-          "name": "Zack Gray",
-          "url": "https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l"
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
         }
       ],
-      "duration_ms": 222499,
-      "name": "What It Used To Be",
-      "url": "https://open.spotify.com/track/5PQBkYkta4muwWf7vZJoM7"
+      "duration_ms": 175568,
+      "name": "You're Not Mine",
+      "url": "https://open.spotify.com/track/3L170JRykNjmZ6yT7VqVz0"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2979,22 +2995,6 @@
       "duration_ms": 224391,
       "name": "Never Easy",
       "url": "https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "You're Not Mine",
-        "url": "https://open.spotify.com/album/0DkMxW0zWrw76OJyYO5F9Q"
-      },
-      "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        }
-      ],
-      "duration_ms": 175568,
-      "name": "You're Not Mine",
-      "url": "https://open.spotify.com/track/3L170JRykNjmZ6yT7VqVz0"
     },
     {
       "added_at": "2023-09-29 04:00:00",

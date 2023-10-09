@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,134 likes - 53 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,373 likes - 53 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 22 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 |
 | 23 | [En Manasu](https://open.spotify.com/track/29agoUyHupTRkoEfsp7vau) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Kavivelu Saravanan](https://open.spotify.com/artist/560fMUUdJGxO7LK22T0JNf), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Ulagammai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZttSo448diTZObOZCsfVc) | 4:58 |
 | 24 | [Unakku Thaan \- From "Chithha"](https://open.spotify.com/track/4H1FLy4H7nS9wy9gg9JeFQ) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhvani Kailas](https://open.spotify.com/artist/66wcf4Q64sXblp7ZHTaJC7), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Unakku Thaan \(From "Chithha"\)](https://open.spotify.com/album/55eUIAV83uDArXPcQipWeb) | 3:36 |
-| 25 | [Pudichirukka \(Ver 2\)](https://open.spotify.com/track/0NcTgGtBHAGL8MVZlGpggG) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Margazhi Thingal](https://open.spotify.com/album/0BR9bZAnFa7FjPuzug9omP) | 4:12 |
+| 25 | [Pudichirukka, Ver\. 2](https://open.spotify.com/track/4fcCP3uBdXGKiPufrNkMuR) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Margazhi Thingal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MSw1QARbPO76W20dIYyY0) | 4:12 |
 | 26 | [Annai Thanthai \- From "Are You Ok Baby"](https://open.spotify.com/track/0cI4XdzUEzDRksZG5iDA5y) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Annai Thanthai \(From "Are You Ok Baby"\)](https://open.spotify.com/album/5AKox1tP8L1zKde3mLag1k) | 4:38 |
 | 27 | [Un Idhazhgalinaal \(From "Margazhi Thingal"\)](https://open.spotify.com/track/3GuVigOdkvJWZgi9qFlWwj) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Un Idhazhgalinaal \(From "Margazhi Thingal"\)](https://open.spotify.com/album/1QCSQnfMt2tjaVZ807Gc99) | 3:36 |
 | 28 | [Thodarum Kadhaiyaaga](https://open.spotify.com/track/0IIPABCpRKBW2RtCXENYcL) | [Ajmal Khan](https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR), [Devan Ekambaram](https://open.spotify.com/artist/1HUZ6vfsSWpfLoxjgDavEB), [Niharika Patro](https://open.spotify.com/artist/779xoYSnxtJ6LCRpnuIq8q) | [Unarvugal Thodarkathai \(Bonus Track Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3bMmJJjMulQMwrc1gRkaFY) | 3:15 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 52 | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/track/0H419AjRA2CY6RtjNT1q1l) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/4BlgOYbwSOCeJueIHUG9wp) | 4:42 |
 | 53 | [Muthuvel Pandian Theme \- Instrumental](https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 1:42 |
 
-Snapshot ID: `MCw4OWYyNTI1MTIyMmFiYmJmMGFhMzA2YWM0N2Y5ZjJiNmVkZWJjOWEx`
+Snapshot ID: `MCxkNTg1ZDQxNGFkZWQ4ZjgxY2E4YzhjZDgyZTdkZDdlN2U0NzNiODBi`

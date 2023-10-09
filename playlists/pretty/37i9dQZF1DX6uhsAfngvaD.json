@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 294053,
+  "num_followers": 294162,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGUwM2M2MmViM2ZlMWMyMTE0NjNlZDc2YWVhN2U2OWE4MTFkYjMy",
+  "snapshot_id": "MCxlMmNmMGQzZjYyYjdlNmNiYTQwNjQ2NDUzYTkyOTI3ZTk4ZDhlZmZi",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Headcase",
-        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Headcase",
+        "url": "https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
-      },
-      "artists": [
-        {
-          "name": "Pynch",
-          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
-        }
-      ],
-      "duration_ms": 331664,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/2E9oiMF3bUV1KVawNuKKQa"
+      },
+      "artists": [
+        {
+          "name": "Pynch",
+          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+        }
+      ],
+      "duration_ms": 331664,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/3i9uLop8qSpPZ8g4yXXHTN"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 315005,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "What Are You so Afraid Of",
@@ -943,6 +927,22 @@
       "duration_ms": 147573,
       "name": "What Are You so Afraid Of",
       "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 315005,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1009,6 +1009,38 @@
       "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Blister",
@@ -1045,22 +1077,6 @@
       "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Flying Wig",
-        "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 268659,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "Future Falling",
@@ -1079,22 +1095,6 @@
       "duration_ms": 340000,
       "name": "Near",
       "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Full Hand",
-        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
-      },
-      "artists": [
-        {
-          "name": "Kevin Krauter",
-          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Opportunity",
-      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "French Movie",
         "url": "https://open.spotify.com/album/3hw3rAKNU6a22R3qxxMQip"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 199680,
       "name": "French Movie",
       "url": "https://open.spotify.com/track/0C2CSeNBBss4JSFG0xHy7z"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Full Hand",
+        "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
+      },
+      "artists": [
+        {
+          "name": "Kevin Krauter",
+          "url": "https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Opportunity",
+      "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "What We Left Behind",
-        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
-      },
-      "artists": [
-        {
-          "name": "Hydromag",
-          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
-        }
-      ],
-      "duration_ms": 235462,
-      "name": "What We Left Behind",
-      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 227681,
       "name": "For You",
       "url": "https://open.spotify.com/track/2vmMoVSY98yTOpMZSDxMUf"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "What We Left Behind",
+        "url": "https://open.spotify.com/album/3zuttVQTwpza3mlgzG7miv"
+      },
+      "artists": [
+        {
+          "name": "Hydromag",
+          "url": "https://open.spotify.com/artist/1qz9OOzWEmhkWVdPaAdtBa"
+        }
+      ],
+      "duration_ms": 235462,
+      "name": "What We Left Behind",
+      "url": "https://open.spotify.com/track/3euVD6KnWFISxJlNlgy4oH"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-29 10:51:04",
       "album": {
-        "name": "Defeat",
-        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 1318174,
-      "name": "Defeat",
-      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2wBfLfni62DPkDdrQJ6Lep"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 249088,
       "name": "Blue",
       "url": "https://open.spotify.com/track/53OYJRSlGUpTU0TJGxx8mA"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Defeat",
+        "url": "https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 1318174,
+      "name": "Defeat",
+      "url": "https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB"
     }
   ],
   "unique_name": "Dreampop",

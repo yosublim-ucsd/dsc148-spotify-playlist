@@ -8560,10 +8560,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 251093,
       "name": "Plague Dogs",
       "url": "https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk"
+    },
+    {
+      "album": {
+        "name": "The Rise & The Fall",
+        "url": "https://open.spotify.com/album/1jYeIPTb1ooEsc939ZFYiy"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252297,
+      "name": "Plague Dogs",
+      "url": "https://open.spotify.com/track/2UizG3b1dCuVVgoFpEEERy"
     },
     {
       "album": {

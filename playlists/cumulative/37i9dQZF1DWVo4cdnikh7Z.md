@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-926 songs - 2 day 8 hr 55 min
+927 songs - 2 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,7 +644,8 @@
 | [Pothi Pothi Valatha Pulla](https://open.spotify.com/track/4FTcWYKXEwVOHr52vAMiqy) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Pothi Pothi Valatha Pulla \(From "Varalaru Mukkiyam"\)](https://open.spotify.com/album/0XPk2yLjBBHemz21Fqc0VJ) | 4:05 | 2022-06-13 | 2022-07-16 |
 | [Private Party \(From "Don"\)](https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Private Party \(From "Don"\)](https://open.spotify.com/album/1JOGTaUwTOfeW70ed3rRr2) | 3:36 | 2022-04-30 | 2022-10-11 |
 | [PS Anthem \(From “Ponniyin Selvan Part\-2"\)](https://open.spotify.com/track/4NWU1K9iYVMMBWSQvlZgSV) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nabyla Maan](https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW) | [PS Anthem \(From “Ponniyin Selvan Part\-2"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6uhMbJWjsISKJ9niglqKk6) | 3:03 | 2023-04-15 | 2023-07-04 |
-| [Pudichirukka \(Ver 2\)](https://open.spotify.com/track/0NcTgGtBHAGL8MVZlGpggG) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Margazhi Thingal](https://open.spotify.com/album/0BR9bZAnFa7FjPuzug9omP) | 4:12 | 2023-10-06 |  |
+| [Pudichirukka \(Ver 2\)](https://open.spotify.com/track/0NcTgGtBHAGL8MVZlGpggG) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Margazhi Thingal](https://open.spotify.com/album/0BR9bZAnFa7FjPuzug9omP) | 4:12 | 2023-10-06 | 2023-10-09 |
+| [Pudichirukka, Ver\. 2](https://open.spotify.com/track/4fcCP3uBdXGKiPufrNkMuR) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Margazhi Thingal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MSw1QARbPO76W20dIYyY0) | 4:12 | 2023-10-06 |  |
 | [Ra Ra Rakkamma](https://open.spotify.com/track/4Pdq2rC7zFL78w9arsuUjI) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Vikrant Rona \(TAMIL\)](https://open.spotify.com/album/4clQks1A41Mjgq1vX00aza) | 3:38 | 2022-08-01 | 2023-02-11 |
 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/2kcizR0QjZNKchPQNGL2bK) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/3uoKayBMRY0SctDyAa6PcL) | 3:38 | 2022-05-26 | 2022-08-02 |
 | [Raa Raa \- Happy](https://open.spotify.com/track/5xkk5mjMWmcI0qdDLEIah7) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Chandramukhi 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nacEfPrZXOb8OuI8a8xxn) | 2:36 | 2023-08-26 | 2023-09-12 |

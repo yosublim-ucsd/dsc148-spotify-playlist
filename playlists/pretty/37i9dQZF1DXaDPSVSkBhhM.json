@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 64971,
+  "num_followers": 64984,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk3YmM3ZDk0ZjM2NDBhZGM2OTg5ODUzMDQyMDcwMDVjMTlkZTFj",
+  "snapshot_id": "MCxkNmJiNjMyZDdhNWU4Y2RjM2EwNzJiNTI1ODc0OWU4ODBhOTQ3NTA0",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
-      },
-      "artists": [
-        {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
-        }
-      ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Gracias por la Herida",
         "url": "https://open.spotify.com/album/5Dgg26VbrIcbkVaZUyTgRQ"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 229947,
       "name": "Gracias por la Herida",
       "url": "https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+      },
+      "artists": [
+        {
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+        }
+      ],
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Bacard\u00ed",
-        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
-      },
-      "artists": [
-        {
-          "name": "Pet Friendly",
-          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
-        }
-      ],
-      "duration_ms": 151572,
-      "name": "Bacard\u00ed",
-      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "UNODOCE",
         "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 73533,
       "name": "UNODOCE",
       "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Bacard\u00ed",
+        "url": "https://open.spotify.com/album/3tNAKRAt8mpmVJih2RCW7G"
+      },
+      "artists": [
+        {
+          "name": "Pet Friendly",
+          "url": "https://open.spotify.com/artist/10cs4jDg6ozMG8A80e5aoW"
+        }
+      ],
+      "duration_ms": 151572,
+      "name": "Bacard\u00ed",
+      "url": "https://open.spotify.com/track/4PZ0I8gxiq4NUK43UOrWUu"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "CRISIS",
-        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
-      },
-      "artists": [
-        {
-          "name": "MIKI",
-          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
-      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Cereal",
         "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Miedo A Caer (Opening 3 Latino Sub.amv)",
+      "url": "https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Nunca Me Voy a Ir",
-        "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
       },
       "artists": [
         {
-          "name": "MIKI",
-          "url": "https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss"
-        },
-        {
-          "name": "Niza Buenrostro",
-          "url": "https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9"
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
         }
       ],
-      "duration_ms": 151829,
-      "name": "Nunca Me Voy a Ir",
-      "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
     }
   ],
   "unique_name": "Escena Pop Punk",

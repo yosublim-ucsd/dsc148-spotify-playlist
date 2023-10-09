@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,914 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,981 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 22 | [パプリカ](https://open.spotify.com/track/3ZGLU3boyl9emMo2Jlr5Gr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:22 |
 | 23 | [まちがいさがし](https://open.spotify.com/track/1ZjoUsUbGdDrdyofWvSITO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:27 |
 | 24 | [Flowerwall](https://open.spotify.com/track/1hmMuKG0w5DUa6NOTCT119) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Flowerwall](https://open.spotify.com/album/0Uj2Q0o4NBkuhgfVsFj9Dc) | 4:58 |
-| 25 | [PLACEBO + 野田洋次郎](https://open.spotify.com/track/2JddJrkwam4cTskjGQoysI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:00 |
+| 25 | [PLACEBO ＋ 野田洋次郎](https://open.spotify.com/track/2JddJrkwam4cTskjGQoysI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:00 |
 | 26 | [クランベリーとパンケーキ](https://open.spotify.com/track/0vaqZ9QxzfoyI1K4l3DbJm) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Lemon](https://open.spotify.com/album/4Ezkdjk13wY1bdXc5kDJHG) | 3:30 |
 | 27 | [MAD HEAD LOVE](https://open.spotify.com/track/1jE1zTvEffFZfNDZ21T8kI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [MAD HEAD LOVE/ポッピンアパシー](https://open.spotify.com/album/6WJfvLqbR4mE9Tio1Srvq3) | 3:38 |
 | 28 | [ゴーゴー幽霊船](https://open.spotify.com/track/6JTUCs01Y8POQjeh5lDvlo) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 3:49 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 42 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 43 | [Neighbourhood](https://open.spotify.com/track/51BDjBKd5QAT7bsPmvDnAh) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/2p58xu7Y1gvdALDqLeBZ4C) | 3:57 |
 | 44 | [NANIMONO \(feat\. 米津玄師\)](https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [NANIMONO EP](https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4) | 4:06 |
-| 45 | [愛麗絲\(正式表記はAliceの中国語簡体字表記となります。\)](https://open.spotify.com/track/7APmRLL4QCEd7TmAfz2onj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:09 |
+| 45 | [愛麗絲（正式表記はAliceの中国語簡体字表記となります。）](https://open.spotify.com/track/7APmRLL4QCEd7TmAfz2onj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:09 |
 | 46 | [でしょましょ](https://open.spotify.com/track/0crXUgfQlDabooRgYlk6pO) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [馬と鹿](https://open.spotify.com/album/0qQBqfFObMOxLmumCLDjiw) | 2:52 |
 | 47 | [あめふり婦人](https://open.spotify.com/track/4ih8ybOwn5Mfmu0EY6THjr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 2:59 |
 | 48 | [amen](https://open.spotify.com/track/6XZdQi6kAR6Ez0O998Erm3) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOSER / ナンバーナイン](https://open.spotify.com/album/3z72r7aIYUDpTElMaBQuxq) | 4:34 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 | 66 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 |
 | 67 | [ワンダーランドと羊の歌 \- ORIGINAL](https://open.spotify.com/track/4ZLyjxANuZ87aP9dJqRaik) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:47 |
 
-Snapshot ID: `MCw2YjBkMmEzNDg5NzkxYmM4MjQ2YzBmZTdlZWRlNjhhNzRjYjIwNzdi`
+Snapshot ID: `MCxkZTM2MWRjNjg3OTU4MjNmMTE1ZDU4YTgxZWMwYTQyOTI4ZmMwODE1`

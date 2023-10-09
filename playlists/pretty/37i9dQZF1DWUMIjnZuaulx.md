@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="spotify:artist:3qfrrrSO7utFdJkM2tvMRb">CeCe Winans<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,139 likes - 100 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,322 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 2 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 |
 | 3 | [Worth It](https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Worth It](https://open.spotify.com/album/1dGFBtHnXUlxrtrZlVWTzt) | 4:59 |
 | 4 | [I Love You](https://open.spotify.com/track/14eJGzC2IWvU1H4d1UzuZ9) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 3:33 |
-| 5 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown](https://open.spotify.com/artist/6qUzD1Leqwhz94dwG4IKmn), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
+| 5 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 |
 | 6 | [Holy Hands](https://open.spotify.com/track/0fBm16QCdtqEvrcT3b9H7E) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Holy Hands](https://open.spotify.com/album/6BIfrz3Im2b1U1DgDPfI1x) | 3:24 |
 | 7 | [Yes I Do](https://open.spotify.com/track/5Hq0aYRj1p1vD6w6JTe2sy) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [God Be Praised](https://open.spotify.com/album/00WLAsJIt5qbV4D360sy8i) | 3:33 |
 | 8 | [Always \(Father I Trust You\) \- Live](https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Always \(Father I Trust You\) \[Live\]](https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3) | 4:15 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 11 | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf) | 6:01 |
 | 12 | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Tribute \(To God Be The Glory\)](https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt) | 5:41 |
 | 13 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |
-| 14 | [Oke Mmiri](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 10:13 |
+| 14 | [Oke Mmiri \- Live](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 8:24 |
 | 15 | [Strike The Ground](https://open.spotify.com/track/3dTwCrhn4RvzbgzEwn2xqe) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/0K8g4Jxx5Fs7Dicck5r9wN) | 6:33 |
 | 16 | [Take Rest](https://open.spotify.com/track/4i4PT6ghkuzkh7Fbm2dGkX) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Testify](https://open.spotify.com/album/3vIRcSnPehNopiCtzmobiL) | 4:01 |
 | 17 | [In My Name \- Radio Edit](https://open.spotify.com/track/15w0pp8cDjI99gs2lAPsOY) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [In My Name \(Radio Edit\)](https://open.spotify.com/album/1nNldULLoMEBXRYJRHlE7l) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCxhY2JjYWY4MTY2ODcxY2NkODg4N2M4ZmQ1NzkxNDk5YmI3YzY3ZDc4`
+Snapshot ID: `MCw2ZjNmNmYzNmFkYTBlMGYzOTE0MWE5MDFiNTAzMjUyYThkMGYxM2M1`

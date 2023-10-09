@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Polo & Pan
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,269 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,275 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [bb l'eau salée <3](https://open.spotify.com/track/6qMeuBJkaGj9rGDkw550pV) | [BARON.E](https://open.spotify.com/artist/1caQnYGFCNkm8cVRIzLZBE) | [bb l'eau salée <3](https://open.spotify.com/album/7vZ6cKjPGMmx8BIlWifr0n) | 3:24 |
 | 50 | [Le plus beau spectacle](https://open.spotify.com/track/6haDeFzU2VjvjR8XRLln1F) | [Claire days](https://open.spotify.com/artist/51Vw9YWwshaKc9xqtHnNES) | [Le plus beau spectacle](https://open.spotify.com/album/7kZbRxL3VXbGOLagL7LihD) | 3:44 |
 
-Snapshot ID: `MCxiOGNiOTBkN2M0YWVkMzRjYjE1ODM0NTBjM2E4YzVjY2RkZjEyMzAw`
+Snapshot ID: `MCwwYjM4ZGViMDQ2YzQwZTY0YTA4YTJmNTcxNjQ2ZDUzYjU2M2I5ZDE1`

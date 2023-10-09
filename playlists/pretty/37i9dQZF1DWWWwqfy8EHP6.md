@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 
 > LeeHi's here for you, Hice Creams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,936 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,955 likes - 67 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWwqfy8EHP6.md) - [plain]
 | 66 | [미련한 사랑 \(드라마 ‘위기의 남자’ OST\)](https://open.spotify.com/track/79v7W7FWRlvPUya5fM96dX) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 7](https://open.spotify.com/album/1yqNF1bTa3chsSqTdvgwj6) | 3:36 |
 | 67 | [Don't Stop The Music\(Rihanna\)](https://open.spotify.com/track/4F9gR58Q1isCHi9j83XddI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SBS K팝 스타 Top 8](https://open.spotify.com/album/0RFZCFWL94nxibPNzzljU8) | 2:47 |
 
-Snapshot ID: `MCwxNWQ1ZmU4ZGE1NzZmMWM0YTBhYzE3NDE3MmNkZmFmM2Y1N2VlMWJk`
+Snapshot ID: `MCxhODhmYTNmZWI2YTQyYTMyYzdlY2QwOGIzYjc1M2M5MjI4OTNkNDY0`

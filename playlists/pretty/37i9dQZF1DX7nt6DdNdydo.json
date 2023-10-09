@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 44529,
+  "num_followers": 44559,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
+  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
+      },
+      "artists": [
+        {
+          "name": "Tiny Bradshaw",
+          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
+        }
+      ],
+      "duration_ms": 114813,
+      "name": "Bradshaw Boogie",
+      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Louis Jordan & His Tympany Five: Choo Choo Ch'Boogie",
         "url": "https://open.spotify.com/album/2hB3069gKT6EDEbPNAIjLl"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 185346,
       "name": "Ain't Nobody Here but Us Chickens",
       "url": "https://open.spotify.com/track/22xTN0k7TtBkAjUP3VAW2d"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 114813,
-      "name": "Bradshaw Boogie",
-      "url": "https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 154933,
       "name": "Nervous Man Nervous",
       "url": "https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+      },
+      "artists": [
+        {
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
+        }
+      ],
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
-        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Lockjaw\" Davis",
-          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
-        }
-      ],
-      "duration_ms": 145852,
-      "name": "Ravin' At The Haven",
-      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Travelin' Blues",
         "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 117040,
       "name": "Let the Four Winds Blow",
       "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Ultimate Jazz Archive 24 (1 Of 4)",
+        "url": "https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Lockjaw\" Davis",
+          "url": "https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i"
+        }
+      ],
+      "duration_ms": 145852,
+      "name": "Ravin' At The Haven",
+      "url": "https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Aladdin Records Story",
-        "url": "https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Don't Leave Me Baby",
-      "url": "https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Jump Blue: Rockin' The Jukes",
         "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 124333,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "The Aladdin Records Story",
+        "url": "https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Don't Leave Me Baby",
+      "url": "https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG"
     },
     {
       "added_at": "2022-03-28 19:44:25",

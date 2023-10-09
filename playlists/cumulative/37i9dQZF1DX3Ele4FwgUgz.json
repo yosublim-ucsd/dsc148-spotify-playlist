@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 231840,
       "name": "Dream Land!Dream World!",
       "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Karin Asaka (CV: Miyu Kubota)",
+          "url": "https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "My Shadow",
+      "url": "https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT"
+    },
+    {
+      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -1378,6 +1396,24 @@
       "duration_ms": 216733,
       "name": "Vroom Vroom",
       "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276706,
+      "name": "Walking Dream",
+      "url": "https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B"
     },
     {
       "album": {
@@ -1950,7 +1986,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-09",
       "duration_ms": 228213,
       "name": "\u604b\u3059\u308bMagic!!",
       "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
