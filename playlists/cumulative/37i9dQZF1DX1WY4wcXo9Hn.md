@@ -2,7 +2,7 @@
 
 ### [scarf season](https://open.spotify.com/playlist/37i9dQZF1DX1WY4wcXo9Hn)
 
-> You look so pretty and I love this view
+> plaid shirt days and nights
 
 152 songs - 9 hr 7 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=cfLh9\-xbSXyIsuwsJr5hYA"> Jay Bahd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,012 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 80 | [I Don't Care](https://open.spotify.com/track/2FU37MmVlpgnHaP6TCm3W0) | [Kixx Alphah](https://open.spotify.com/artist/4QETJXRJe1ngdzifCC9D4a), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [I Don't Care](https://open.spotify.com/album/1HqSh0DlOiG2Sn9i5Hgdj2) | 3:01 |
 | 81 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 |
 
-Snapshot ID: `MCw0MjU3MGQxMDI4YzVkYzEyY2FkOWZiNjI5ODZlNTZlZGE2ZGNmYWRl`
+Snapshot ID: `MCw0YzlmOTJkYmY2YTI2OTI1MDA4NjhkMDFlODhjYjE4YzMxYzJiYzEx`

@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: Teen Jesus and the Jean Teasers",
-  "num_followers": 425880,
+  "num_followers": 425904,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODc2OWZiNDc5NmMyODczZTA0OWM0NGI2MTZiNThhZWE2MDY1NjQz",
+  "snapshot_id": "MCxkZGZmY2MzNTgyMjMwY2RhZGM4YjIyMmMyMDU1ZTkyN2E0NjI2YzM1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "ring in ur ear",
         "url": "https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 198042,
       "name": "ring in ur ear",
       "url": "https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "WALK AWAY",
+        "url": "https://open.spotify.com/album/7olCMwhzrN5E9rBkYK3q6w"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 158889,
+      "name": "WALK AWAY",
+      "url": "https://open.spotify.com/track/2pDc4u9N8BaawyLiAj7xRx"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "At Least I Tried",
         "url": "https://open.spotify.com/album/6wDY1BlAruClWkBibcP01Z"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 219183,
       "name": "Miss Again",
       "url": "https://open.spotify.com/track/0CykGGOeJSAvMsjScRs3D3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "WALK AWAY",
-        "url": "https://open.spotify.com/album/7olCMwhzrN5E9rBkYK3q6w"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        }
-      ],
-      "duration_ms": 158889,
-      "name": "WALK AWAY",
-      "url": "https://open.spotify.com/track/2pDc4u9N8BaawyLiAj7xRx"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "duration_ms": 228544,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4"
-      },
-      "artists": [
-        {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
-        }
-      ],
-      "duration_ms": 228544,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 299136,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -527,34 +511,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Break Even",
-        "url": "https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se"
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
       },
       "artists": [
         {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Break Even",
-      "url": "https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Personal 2",
-        "url": "https://open.spotify.com/album/4om5YzxBtw1mrVA3WAyDVG"
-      },
-      "artists": [
-        {
-          "name": "Disappeared Completely",
-          "url": "https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch"
-        }
-      ],
-      "duration_ms": 209050,
-      "name": "Personal 2",
-      "url": "https://open.spotify.com/track/5BfAUjH3xucwKBbwmuHMPe"
+      "duration_ms": 299136,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -575,6 +543,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Personal 2",
+        "url": "https://open.spotify.com/album/4om5YzxBtw1mrVA3WAyDVG"
+      },
+      "artists": [
+        {
+          "name": "Disappeared Completely",
+          "url": "https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch"
+        }
+      ],
+      "duration_ms": 209050,
+      "name": "Personal 2",
+      "url": "https://open.spotify.com/track/5BfAUjH3xucwKBbwmuHMPe"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "NOTHINGNESS",
         "url": "https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb"
       },
@@ -587,6 +571,38 @@
       "duration_ms": 194960,
       "name": "NOTHINGNESS",
       "url": "https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Break Even",
+        "url": "https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Break Even",
+      "url": "https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "duration_ms": 197928,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -619,22 +635,6 @@
       "duration_ms": 190766,
       "name": "Your Time",
       "url": "https://open.spotify.com/track/0RZAJxJwAoix2UtHi69yt5"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml"
-      },
-      "artists": [
-        {
-          "name": "Wait of the World",
-          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
-        }
-      ],
-      "duration_ms": 197928,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Yoko",
-        "url": "https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC"
-      },
-      "artists": [
-        {
-          "name": "Ghost Woman",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 210835,
-      "name": "Yoko",
-      "url": "https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Spin",
         "url": "https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 181247,
       "name": "Screwjob '97",
       "url": "https://open.spotify.com/track/0Nxdgw4M7xzVHRSQ7YN4n3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Yoko",
+        "url": "https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC"
+      },
+      "artists": [
+        {
+          "name": "Ghost Woman",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "duration_ms": 210835,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp"
     },
     {
       "added_at": "2023-10-06 04:01:00",

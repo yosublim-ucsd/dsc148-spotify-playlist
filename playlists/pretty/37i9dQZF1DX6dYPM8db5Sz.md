@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=QKXC5s4zQk\-r0hpZqnAVjA">HONEYMOAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,013 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,039 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 79 | [The Spin Astride](https://open.spotify.com/track/0DniVPo0gdLY94cSJVKYMV) | [Carla Malrowe](https://open.spotify.com/artist/1sgIxyaQ77veaGLIu40zYv) | [The Spin Astride](https://open.spotify.com/album/32DFbEpkONRG857qUTfPGL) | 4:47 |
 | 80 | [Show You Off](https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Show You Off](https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg) | 2:54 |
 
-Snapshot ID: `MCw4ZWFkNmJlYTVjZWFmZTM2ZWQ3MWFjZTU4M2IxYmFmOTczOWQ1NjE4`
+Snapshot ID: `MCxiMjQ3YWQ5ZGUzN2RkNTM5MTEzNjBiNDA2MTZjNjg3OWYxYzhhNjFi`

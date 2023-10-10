@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-822 songs - 1 day 15 hr 24 min
+823 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,7 +603,7 @@
 | [Rain](https://open.spotify.com/track/5R6Q2E0wC10LDfrLLcKtwD) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Backward Books 2](https://open.spotify.com/album/5ED0GoysTq0UklFRc3HQYa) | 2:59 | 2022-03-25 | 2022-04-21 |
 | [Rain On You!](https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Rain On You!](https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A) | 1:24 | 2022-04-01 | 2022-04-21 |
 | [Rando](https://open.spotify.com/track/6Wo5QX4i3imhftyKOYUZjI) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Rando](https://open.spotify.com/album/0P3dUxAJt3pqhkKgaToEmD) | 1:36 | 2023-09-01 | 2023-09-21 |
-| [Rapper of the Year](https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ROTY](https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi) | 2:09 | 2023-08-25 |  |
+| [Rapper of the Year](https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [ROTY](https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi) | 2:09 | 2023-08-25 | 2023-10-10 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-09-03 | 2022-03-18 |
 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 | 2023-08-25 | 2023-09-23 |
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 | 2023-06-04 |
@@ -655,6 +655,7 @@
 | [Shoot My Shot](https://open.spotify.com/track/5q9Et9kJTWvRg80uQLBW4s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SHOOT MY SHOT](https://open.spotify.com/album/2ug89z91VcJ8NfpbZGVrPw) | 2:52 | 2021-09-03 | 2022-07-29 |
 | [shop \(feat\. DaBaby\)](https://open.spotify.com/track/5iwSmckCiyv9J5eUxD2cLN) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 3:09 | 2021-09-03 | 2022-04-16 |
 | [Shutcho](https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:07 | 2023-09-22 |  |
+| [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 | 2023-10-06 |  |
 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 | 2023-04-21 |  |
 | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/track/3vsHHMdo734N08AcJ7bzrq) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [$lugg](https://open.spotify.com/artist/6qBEAm67lFVJIqPdWnLZA3) | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/album/1xNjebhLSg4XXs7iDT8Vgj) | 2:54 | 2022-07-01 | 2022-07-09 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-08-18 |  |

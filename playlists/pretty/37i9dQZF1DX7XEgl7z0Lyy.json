@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 151009,
+  "num_followers": 153117,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2MyNGU4OTgxM2ZlMjAwZTVkMzE3ZjViYzUyMGRiZmFiMWY1NWFl",
+  "snapshot_id": "MCwxOTRhMmJhZjYxYjgxNjgyNmUzODYzZWExMmExMGVmM2FhNzc2ZTI3",
   "tracks": [
     {
       "added_at": "2023-09-26 15:59:33",
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf"
     },
     {
-      "added_at": "2023-10-06 15:16:25",
-      "album": {
-        "name": "KOLLECTIVE",
-        "url": "https://open.spotify.com/album/53i6MDOkEaGjpTrRZeW1ah"
-      },
-      "artists": [
-        {
-          "name": "jnhygs",
-          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        }
-      ],
-      "duration_ms": 153527,
-      "name": "GIVE EM HELL",
-      "url": "https://open.spotify.com/track/6P92k8JnqxqPyHLB7UwyN8"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "XOXO (Kisses Hugs)",
@@ -189,24 +173,20 @@
       "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
+      "added_at": "2023-10-06 15:16:25",
       "album": {
-        "name": "JERK!",
-        "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
+        "name": "KOLLECTIVE",
+        "url": "https://open.spotify.com/album/53i6MDOkEaGjpTrRZeW1ah"
       },
       "artists": [
         {
           "name": "jnhygs",
           "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 131262,
-      "name": "JERK!",
-      "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
+      "duration_ms": 153527,
+      "name": "GIVE EM HELL",
+      "url": "https://open.spotify.com/track/6P92k8JnqxqPyHLB7UwyN8"
     },
     {
       "added_at": "2023-10-06 15:16:25",
@@ -227,6 +207,26 @@
       "duration_ms": 147517,
       "name": "ESSENCE",
       "url": "https://open.spotify.com/track/0rsENxgWZFX7hsRDXXlLcp"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "JERK!",
+        "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
+      },
+      "artists": [
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 131262,
+      "name": "JERK!",
+      "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -367,26 +367,6 @@
       "duration_ms": 107390,
       "name": "2BIPOLAR",
       "url": "https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6"
-    },
-    {
-      "added_at": "2023-09-28 20:23:55",
-      "album": {
-        "name": "partysexdrugs (feat. 6arelyhuman)",
-        "url": "https://open.spotify.com/album/6Kg2OVFGXk8k8LSRkG5YnT"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        },
-        {
-          "name": "6arelyhuman",
-          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
-        }
-      ],
-      "duration_ms": 194695,
-      "name": "partysexdrugs (feat. 6arelyhuman)",
-      "url": "https://open.spotify.com/track/6sxUoRcRqxLaG58cOmerA0"
     },
     {
       "added_at": "2023-09-22 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nines \(pictured\), Kenya Grace, Tems and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,966 likes - 130 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,537 likes - 130 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 130 | [Wrong](https://open.spotify.com/track/5xrW5jzKsnDAHPH12XSAyw) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Wrong](https://open.spotify.com/album/4sJFz2cCDGchd6Muns7o4T) | 5:20 |
 
-Snapshot ID: `MCw5NjdmYzcyM2YxNjQzOWEyNTJiYWE5ZjFjNzQzMTZmNmMyMzJiMzYw`
+Snapshot ID: `MCw4NTVjOWI1NDllYTM5NjRmNjIxMmMwMGRiMjNkN2NhZmU2M2IxMjYz`

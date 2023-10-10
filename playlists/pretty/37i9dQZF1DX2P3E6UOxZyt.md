@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 柏霖 \(PoLin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,096 likes - 72 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,111 likes - 72 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [r u happy now?](https://open.spotify.com/track/4G2avvdC2denJm9d244fez) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [r u happy now?](https://open.spotify.com/album/6HBnBlT0skv0BgIE4lcY16) | 2:55 |
 | 72 | [把所有的愛都揮霍](https://open.spotify.com/track/2bkU3k04LPBUzFSgPJvsB3) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [把所有的愛都揮霍](https://open.spotify.com/album/0wG64jKhXBFqzQ6yclsx7N) | 3:03 |
 
-Snapshot ID: `MCxlMzk1OTkxZGJmYzU1NWY0YWU0MjY3NGZlMWJjM2FlOGM0Mzk3OWU3`
+Snapshot ID: `MCxiNjQxNjZmMWYwYWQ1MmFjNzE5NTVkMjNhZjcwOGExNWMyN2E2MWM0`

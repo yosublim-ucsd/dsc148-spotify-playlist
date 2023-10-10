@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Adore You (Acoustic)",
+        "url": "https://open.spotify.com/album/2QvW21dkK5Wp3Od7DiHOZo"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Adore You - Acoustic",
+      "url": "https://open.spotify.com/track/0JTjvbwGOoo7YIWlaAs03u"
+    },
+    {
+      "album": {
         "name": "All Dogs Go To Heaven",
         "url": "https://open.spotify.com/album/4MWgzKggGePOjpjRhlcdHF"
       },
@@ -628,7 +646,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 200911,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 144961,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/61RkeWOI7EGdDk8D1bh7Bh"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 198620,
       "name": "blame - acoustic",
       "url": "https://open.spotify.com/track/1oqMcfTIImKhsMvhjmav38"
@@ -1662,6 +1680,24 @@
       "duration_ms": 192320,
       "name": "Checkers",
       "url": "https://open.spotify.com/track/7kfsIAWpJNEToyrRIQNDFH"
+    },
+    {
+      "album": {
+        "name": "Cleanup Dive",
+        "url": "https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273882,
+      "name": "Cleanup Dive",
+      "url": "https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B"
     },
     {
       "album": {
@@ -3089,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0Ouza74Vj3Cl51NIJhUIbc"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213752,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Vmju1rSpfjg2Zg6WflRrB"
+    },
+    {
+      "album": {
         "name": "ghost house",
         "url": "https://open.spotify.com/album/2IGVlVjXsvvY4OU5js3jBj"
       },
@@ -3756,7 +3810,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 251874,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/07AqhMM9tdeNLFqW3PP6ZQ"
@@ -4814,7 +4868,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 156000,
       "name": "Internet Depression",
       "url": "https://open.spotify.com/track/7Ip2peCSGQ3sb8KeHBBhpu"
@@ -5016,6 +5070,24 @@
       "duration_ms": 133373,
       "name": "Just Know It",
       "url": "https://open.spotify.com/track/1kZmbM1VRxNvtMTKQqdKT2"
+    },
+    {
+      "album": {
+        "name": "Kissing In Swimming Pools",
+        "url": "https://open.spotify.com/album/1B1PGcHPdviJ6xkOtJiLgX"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287567,
+      "name": "Kissing In Swimming Pools",
+      "url": "https://open.spotify.com/track/6BIlXbxx0kRiUdnmX8L1I9"
     },
     {
       "album": {
@@ -6312,7 +6384,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 211821,
       "name": "Necklace",
       "url": "https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B"
@@ -6334,6 +6406,28 @@
       "duration_ms": 193018,
       "name": "Nectar",
       "url": "https://open.spotify.com/track/1KlHf3jLMQ1jE6EzPosEkv"
+    },
+    {
+      "album": {
+        "name": "Never Get Over You",
+        "url": "https://open.spotify.com/album/4AKu1jDVOQ7sGhCBgk83mN"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        },
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170117,
+      "name": "Never Get Over You (with Dylan Conrique)",
+      "url": "https://open.spotify.com/track/7LM7kxM3RvpM04afbUKZsb"
     },
     {
       "album": {
@@ -6620,7 +6714,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 161000,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/0NPhru0eI9yDJA7YUCxvrr"
@@ -7107,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "pink dress",
+        "url": "https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173329,
+      "name": "pink dress",
+      "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
+    },
+    {
+      "album": {
         "name": "PIRATE RADIO*",
         "url": "https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3"
       },
@@ -7324,6 +7436,24 @@
       "duration_ms": 185200,
       "name": "r.i.p.",
       "url": "https://open.spotify.com/track/1RYms4GCVHO98iQdRQ1KPF"
+    },
+    {
+      "album": {
+        "name": "Rabid Dog",
+        "url": "https://open.spotify.com/album/2ll3i9DmecdeFcW0kUy4vw"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239814,
+      "name": "Rabid Dog",
+      "url": "https://open.spotify.com/track/4DhufpFtJhDjlCI3vYNXRo"
     },
     {
       "album": {
@@ -7991,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "before we say goodbye",
+        "url": "https://open.spotify.com/album/0TBFC1vfrdOWijUL1wNygO"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "see you soon",
+      "url": "https://open.spotify.com/track/4WNgNFce9OOslDBQWKNKDa"
+    },
+    {
+      "album": {
         "name": "Self Sabotage",
         "url": "https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1"
       },
@@ -8331,6 +8479,24 @@
     },
     {
       "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/69f4TVwg3u4nHsXp1CHHba"
+      },
+      "artists": [
+        {
+          "name": "Alle The Dreamer",
+          "url": "https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217754,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4VWVtPsN2r56U1rkYelNpp"
+    },
+    {
+      "album": {
         "name": "Stay Anything",
         "url": "https://open.spotify.com/album/2ROnH7L5WNEBQdPn6q0vxA"
       },
@@ -8462,7 +8628,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 172496,
       "name": "strangers",
       "url": "https://open.spotify.com/track/69RwKCtoZm1kdSMhLynrjh"
@@ -9050,7 +9216,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 231713,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/3uB7utfP0CVzaVLvbt8ia5"

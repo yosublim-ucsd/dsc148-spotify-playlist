@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1107458,
+  "num_followers": 1104667,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTEwOWVkZDc4Njc0MTc0NmVkOTdkNDgyYWMwMDZlN2IwZGE3NTcx",
+  "snapshot_id": "MCwyZGE4OTg2ZWY1NTJlMmE0OTRlZTZjNmNmNzczODcxMzlkNjk3MzIw",
   "tracks": [
     {
       "added_at": "2023-09-28 15:14:21",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-28 15:14:21",
       "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 408288,
+      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
+      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
+    },
+    {
+      "added_at": "2023-09-28 15:14:21",
+      "album": {
         "name": "Tak Ingin Usai",
         "url": "https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-09-28 15:14:21",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
       },
       "artists": [
         {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 408288,
-      "name": "Sampai Jadi Debu (Menampilkan Gardika Gigih)",
-      "url": "https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ"
+      "duration_ms": 243724,
+      "name": "Sial",
+      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
     },
     {
       "added_at": "2023-09-28 15:14:21",
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-09-28 15:14:21",
       "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 243724,
-      "name": "Sial",
-      "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
-    },
-    {
-      "added_at": "2023-09-28 15:14:21",
-      "album": {
         "name": "if u could see me cryin' in my room",
         "url": "https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ"
       },
@@ -843,22 +843,18 @@
     {
       "added_at": "2023-09-28 15:14:21",
       "album": {
-        "name": "YURA",
-        "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
       "artists": [
         {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        },
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 262060,
-      "name": "Cinta Dan Rahasia",
-      "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     }
   ],
   "unique_name": "Generasi Galau",

@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.
 
-150 songs - 9 hr 24 min
+151 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Langa \(feat\. Khayyat\)](https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [Langa \(feat\. Khayyat\)](https://open.spotify.com/album/6SlvwtudjfJmPilWo38MS3) | 2:50 | 2023-02-10 | 2023-10-02 |
 | [Lazim](https://open.spotify.com/track/1iaKPofawxpy6tuR5Bt46t) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [1991](https://open.spotify.com/album/64Mi2xOdR0PyJ2Zm2DsVm3) | 3:42 | 2021-12-09 | 2022-07-29 |
 | [Like Really](https://open.spotify.com/track/1rxbz8vhGvydIbOWkh60gw) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [The Iceberg](https://open.spotify.com/album/2dEkjiUBO6Z2aeolcJ7sCy) | 3:44 | 2021-12-09 | 2022-07-30 |
+| [Logha](https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Swish](https://open.spotify.com/artist/0CMKtAa3P8sJ6MJjs8sqPi) | [Logha](https://open.spotify.com/album/4YNYUx2sXyYGcfNfqEc3pn) | 3:18 | 2023-09-30 |  |
 | [Malaia](https://open.spotify.com/track/2lNXc86nUMT82Qe3AahIsI) | [T.A](https://open.spotify.com/artist/0Fm8t9xIwHAkNwPcdAP9RV) | [Malaia](https://open.spotify.com/album/6JGHgcD5pS1JaqqTpGhOdV) | 3:15 | 2021-12-09 | 2022-07-29 |
 | [Malouf Aloyoon](https://open.spotify.com/track/1iPfE8bCIqQWqkL1Pu6eN7) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Malouf Aloyoon](https://open.spotify.com/album/2Qb6m4mcj9PXwNBf7l0FI2) | 3:09 | 2021-12-09 | 2022-07-30 |
 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 | 2022-07-28 |  |
@@ -95,7 +96,7 @@
 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 | 2021-12-09 |  |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH) | 2:38 | 2021-12-09 | 2022-07-28 |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 | 2022-07-28 |  |
-| [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 | 2023-03-19 |  |
+| [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 | 2023-03-19 | 2023-10-10 |
 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 | 2021-12-09 | 2022-07-16 |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/2oMYJVL7b8YF8IaqJMm73x) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/6b6oq7chpMKqqjpGzIDVKI) | 4:13 | 2022-07-28 | 2022-07-30 |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/4HROyIljn4IEasWTj8rNi4) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/7gUXSut0yqiItE6HBCeRgP) | 4:13 | 2021-12-09 | 2022-07-29 |

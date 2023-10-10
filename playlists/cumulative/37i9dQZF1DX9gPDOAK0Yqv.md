@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-345 songs - 1 day 5 hr 40 min
+346 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-11-23 | 2023-03-23 |
 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 | 2022-12-16 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-10 | 2023-04-29 |
+| [Dust](https://open.spotify.com/track/28YLzGJRn8OTLZszGOo8Ef) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Dust](https://open.spotify.com/album/0VoOrwiOd0gp2zgDUyLQ9b) | 3:27 | 2023-10-06 |  |
 | [Earth \- Mind Against Remix](https://open.spotify.com/track/1cQCfrLGc5GpBC6bNPlsUm) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Boavista Remixes](https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa) | 7:30 | 2022-11-23 | 2023-03-04 |
 | [Eckstein Eckstein](https://open.spotify.com/track/0tcc52j6qQ1avWjSv4YoO1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/3P9jsdK8EiI8JyLB7lqvgA) | 3:07 | 2023-03-03 | 2023-06-01 |
 | [Eckstein Eckstein](https://open.spotify.com/track/2EMukdf4zK0H27I35Vvpmi) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh), [Channel B](https://open.spotify.com/artist/57mKluqoSt0zuMn6Wh2H6x) | [Eckstein Eckstein](https://open.spotify.com/album/5I3OPusWIHYX9AKpNJjSaN) | 3:07 | 2023-01-13 | 2023-03-03 |
@@ -313,7 +314,7 @@
 | [The Tide](https://open.spotify.com/track/3UWQvz3JJJbseHOoyX7Xw0) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Beautiful Errors](https://open.spotify.com/artist/2hXE7AOxECS5zOIPxtYYaM) | [The Tide](https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc) | 4:04 | 2022-12-09 | 2023-01-25 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-23 |  |
 | [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 | 2023-07-21 |  |
-| [To Hope](https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [To Hope](https://open.spotify.com/album/0eauXE0fq4hMmVlzFUnXqs) | 3:16 | 2023-02-27 |  |
+| [To Hope](https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [To Hope](https://open.spotify.com/album/0eauXE0fq4hMmVlzFUnXqs) | 3:16 | 2023-02-27 | 2023-10-10 |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-12-16 | 2023-02-18 |
 | [To the Soul](https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [To the Soul](https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H) | 6:36 | 2022-12-16 | 2023-01-08 |
 | [Too Late](https://open.spotify.com/track/5pNufKRgDdZxi8cf7j38Nz) | [Two Are](https://open.spotify.com/artist/3B5IcLPD64jPRgHsSnvHUD), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Too Late](https://open.spotify.com/album/6iFAcQJoBbHrQVM0cyqOA0) | 3:52 | 2023-04-28 | 2023-05-06 |

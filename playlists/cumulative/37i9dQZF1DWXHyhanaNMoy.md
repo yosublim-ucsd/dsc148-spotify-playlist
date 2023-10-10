@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Alessio & Sluwe Ollie
 
-739 songs - 1 day 9 hr 19 min
+740 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,7 @@
 | [RARRii](https://open.spotify.com/track/0RPEhK1UCgtLb9Nc97lA4R) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [RARRii](https://open.spotify.com/album/280clOshxkGrR1Litdyu7u) | 2:47 | 2022-07-28 | 2022-09-16 |
 | [Reach For The Starz](https://open.spotify.com/track/5y3atT6B6HpEFs21oWKkfL) | [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Less Is Moré](https://open.spotify.com/album/2PGbBTsnDUej2PAXIEl2tb) | 2:51 | 2023-01-26 | 2023-03-03 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-22 | 2023-06-30 |
-| [Red Flag](https://open.spotify.com/track/5rmFnhInKIZI9DqYmpk3FI) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Red Flag](https://open.spotify.com/album/4yK8dTeMWt9AphJjkCZYFL) | 2:37 | 2023-09-28 |  |
+| [Red Flag](https://open.spotify.com/track/5rmFnhInKIZI9DqYmpk3FI) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC) | [Red Flag](https://open.spotify.com/album/4yK8dTeMWt9AphJjkCZYFL) | 2:37 | 2023-09-28 | 2023-10-10 |
 | [Regen Dans](https://open.spotify.com/track/6BonI30ft7Q2DhX71omXil) | [Dreyh](https://open.spotify.com/artist/2UsHIQht15KwZwz0UzxLuF) | [Regen Dans](https://open.spotify.com/album/7zot3ylo8dvfYPuTCUQ47p) | 2:27 | 2023-07-06 | 2023-07-21 |
 | [Reload](https://open.spotify.com/track/67erDOXoomBqQebPnpZayQ) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD) | [Reload](https://open.spotify.com/album/0NFillRDfBiGrsAsG9Hd7T) | 2:24 | 2023-01-19 | 2023-03-18 |
 | [Repeat](https://open.spotify.com/track/2S7FTwyeXHxDKaiMTrLixP) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Repeat](https://open.spotify.com/album/5vtxJ5aAD0dYe9fxduV2xY) | 2:39 | 2022-07-14 | 2022-08-12 |
@@ -656,6 +656,7 @@
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-01-23 | 2023-03-03 |
 | [Trainingspak](https://open.spotify.com/track/30oluvvpUwQaMm56F9lHBz) | [WAVEY](https://open.spotify.com/artist/16yIjgY7iwGu91UqIgTFTt), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Trainingspak](https://open.spotify.com/album/67N1h7Y59KjDS3xafg7gLc) | 2:25 | 2023-06-08 | 2023-06-30 |
 | [Tranquilo](https://open.spotify.com/track/31BsqR4z06NKoMnsvsMt5z) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tranquilo](https://open.spotify.com/album/1fhhzc1jjmeK0n4Nb5I7wL) | 2:56 | 2023-08-17 |  |
+| [Trap & Dance 1 \(Fidel Castro\)](https://open.spotify.com/track/3dnK1TRtxZQiAtlUELGIdU) | [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo), [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Trap & Dance 1 \(Fidel Castro\)](https://open.spotify.com/album/32hji7JHvtA5Qzscz4hL9m) | 2:25 | 2023-10-09 |  |
 | [TRAUMA](https://open.spotify.com/track/32JZ3AW8VtFFzglfOkLMGr) | [Tres Navy](https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o) | [TRAUMA](https://open.spotify.com/album/5fFvazdMPlXabKWDf4YH6L) | 2:06 | 2023-02-09 | 2023-04-18 |
 | [TRAVESURAS](https://open.spotify.com/track/6wyYQJCw1CZsPRL9FerPta) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [TRAVESURAS](https://open.spotify.com/album/6wJ3sivKS5RPseE9eftL8m) | 2:36 | 2023-10-05 |  |
 | [Tricks](https://open.spotify.com/track/2xgL1NT5nk0zw6chUtWH9x) | [Babybang](https://open.spotify.com/artist/5AE51Ys60V4FluAz6NQQup), [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i) | [Tricks](https://open.spotify.com/album/10zUSiruePJMcNy4nuYkRS) | 3:00 | 2022-10-13 | 2022-10-28 |

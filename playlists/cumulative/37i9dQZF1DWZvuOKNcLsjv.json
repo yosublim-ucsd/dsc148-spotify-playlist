@@ -19535,6 +19535,24 @@
     },
     {
       "album": {
+        "name": "MID DAY",
+        "url": "https://open.spotify.com/album/0FUAPjCkQMjG8FdiIbntVH"
+      },
+      "artists": [
+        {
+          "name": "JET JACKET",
+          "url": "https://open.spotify.com/artist/3ijo3WLa2yLL37wtOVMNta"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233077,
+      "name": "MID DAY",
+      "url": "https://open.spotify.com/track/4gSM9yLYDnBlBZBhNCFTvO"
+    },
+    {
+      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -40148,7 +40166,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 241472,
       "name": "\u672a\u6210\u4eba",
       "url": "https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD"

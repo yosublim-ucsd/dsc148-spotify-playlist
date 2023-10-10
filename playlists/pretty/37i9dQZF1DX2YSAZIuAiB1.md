@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > vibed mit dir um die Wette
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,039 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,922 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 79 | [Normal ist](https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Normal ist](https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1) | 1:41 |
 | 80 | [So🤞](https://open.spotify.com/track/5EqZIbLptCkJARJXOdseF9) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [So🤞](https://open.spotify.com/album/1u0nZWNZsMCDHlMCOs3yBM) | 2:37 |
 
-Snapshot ID: `MCwxMzc3OWZmYWExNTYzZTE0NzBlZTZkMDhlMzljNmFhYTBhMDJiMzYx`
+Snapshot ID: `MCxjYTM3NDQ3MDMxMzc5MmZlYzMyNGFkOTk1NTJiZjM2MDU2Njg1NmM1`

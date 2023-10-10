@@ -694,7 +694,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 157000,
       "name": "Girl On The Billboard",
       "url": "https://open.spotify.com/track/1wUNtUnrz17hU0R743Kqk4"
@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Country Heart: 24 Favorite Songs",
+        "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Walk Through This World With Me",
+      "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "album": {
         "name": "King Of The Road: The Genius Of Roger Miller",
         "url": "https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 123240,
       "name": "Yakety Axe",
       "url": "https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre"

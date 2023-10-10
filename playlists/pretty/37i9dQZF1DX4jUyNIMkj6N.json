@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 189960,
+  "num_followers": 189975,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE4MmEyOGEyYjFkYzIyZjBlZDI3YzY1N2M4YjA4MzMyMWM0Y2U5",
+  "snapshot_id": "MCw1ODljNmM3NGYwN2I1MTYwODgxYmEzNGJhNjhiNzU3MzM4ZGQzZDNl",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 213106,
       "name": "Magic Stone",
       "url": "https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 250850,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 250850,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "By the time you hear this",
-        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 194081,
-      "name": "By the time you hear this",
-      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN"
+        "name": "By the time you hear this",
+        "url": "https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 218306,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ"
+      "duration_ms": 194081,
+      "name": "By the time you hear this",
+      "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 185545,
       "name": "Norwegian Black Metal",
       "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/4eLSzWcNiF99ezdryVRdKN"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/0KawFoaUEu2ICSJ0CawwCJ"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
-      },
-      "artists": [
-        {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
-        }
-      ],
-      "duration_ms": 174553,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Joni Was Right",
         "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 174553,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
     },
     {
       "added_at": "2023-10-05 22:00:00",

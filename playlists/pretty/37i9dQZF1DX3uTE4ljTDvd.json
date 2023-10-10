@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Bea Rodrigues",
-  "num_followers": 116623,
+  "num_followers": 116463,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjhmZjM3ZWQ4MmQ5ZWNhM2E4NmQ5NGM1MjhlMjljODE1NTJhNTgz",
+  "snapshot_id": "MCw0MjRjMmI3NTA3ZTE1Yjk2Y2E4NzBiM2I2N2ZlZDQ0M2Q0MjAxY2Rl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:06:14",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
+        "name": "Ver Al\u00e9m",
+        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 289879,
+      "name": "Ver Al\u00e9m",
+      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
         "name": "Vai Adorando (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
       },
@@ -339,38 +355,6 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Abra os C\u00e9us",
-        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 370746,
-      "name": "Majestade",
-      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
-    },
-    {
-      "added_at": "2023-10-06 04:06:14",
-      "album": {
-        "name": "Ver Al\u00e9m",
-        "url": "https://open.spotify.com/album/2fdhcfJpzjurHzB67acdaH"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 289879,
-      "name": "Ver Al\u00e9m",
-      "url": "https://open.spotify.com/track/32qzPIhyvl0astlQIsDNui"
-    },
-    {
-      "added_at": "2023-10-06 04:06:14",
-      "album": {
         "name": "Primeiro Amor",
         "url": "https://open.spotify.com/album/3g0N4fo9QqXCS50IuUZe4J"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 236828,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Abra os C\u00e9us",
+        "url": "https://open.spotify.com/album/0MqIQx2OQmDFuDklfQgLkb"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 370746,
+      "name": "Majestade",
+      "url": "https://open.spotify.com/track/65iy5QZhhMWXRlXWQIAuc5"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Deus Te Chama",
-        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
       },
       "artists": [
         {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 263918,
-      "name": "Deus Te Chama",
-      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+      "duration_ms": 216131,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -595,6 +599,22 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
+        "name": "Deus Te Chama",
+        "url": "https://open.spotify.com/album/1Fitkeh9wxq0beb7mCFL2e"
+      },
+      "artists": [
+        {
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+        }
+      ],
+      "duration_ms": 263918,
+      "name": "Deus Te Chama",
+      "url": "https://open.spotify.com/track/2gvXxniAjF1Fe79bhBadRJ"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
         "name": "Pra Que Eu Fosse Livre",
         "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 288857,
       "name": "Pra Que Eu Fosse Livre",
       "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
-    },
-    {
-      "added_at": "2023-10-06 04:06:14",
-      "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6CjDJNQSn1PxayDnNopB"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0r4OTkCtkDh8YttRZ7OrPO"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
       },
       "artists": [
         {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -683,6 +687,22 @@
       "duration_ms": 634368,
       "name": "Meu Grande Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
+      },
+      "artists": [
+        {
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
+        }
+      ],
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -771,26 +791,6 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
-    },
-    {
-      "added_at": "2023-10-06 04:06:14",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
-    },
-    {
-      "added_at": "2023-10-06 04:06:14",
-      "album": {
         "name": "Minha can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
       },
@@ -887,22 +871,18 @@
     {
       "added_at": "2023-10-06 04:06:14",
       "album": {
-        "name": "Anotando Pensamentos",
-        "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
       },
       "artists": [
         {
-          "name": "Hellen Camargo",
-          "url": "https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f"
-        },
-        {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 271668,
-      "name": "Anotando Pensamentos",
-      "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2023-10-06 04:06:14",
@@ -939,6 +919,26 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
+    },
+    {
+      "added_at": "2023-10-06 04:06:14",
+      "album": {
+        "name": "Anotando Pensamentos",
+        "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
+      },
+      "artists": [
+        {
+          "name": "Hellen Camargo",
+          "url": "https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        }
+      ],
+      "duration_ms": 271668,
+      "name": "Anotando Pensamentos",
+      "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
     },
     {
       "added_at": "2023-10-06 04:06:14",

@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Ana Paula Valad\u00e3o (Diante do Trono)",
-  "num_followers": 523937,
+  "num_followers": 523621,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmE5NmQ0Y2IyN2JiMTFhMzIzNjBjODA5ZGU1ZmMzZDg1YzM2ZmJm",
+  "snapshot_id": "MCwxNjRiOGQ3NDM4ZDJjMjEzNDE3NWE5MGRlZTc5MjU1OWFlOWIxZDY4",
   "tracks": [
     {
       "added_at": "2023-10-06 03:34:07",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/096uAJPtYAy4YPG96rX2D0"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
+        "name": "O Melhor de Deus Esta Por Vir",
+        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+      },
+      "artists": [
+        {
+          "name": "Voz da Verdade",
+          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "O Escudo",
+      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
         "name": "Entre Amigos",
         "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
       },
@@ -271,18 +287,18 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "O Melhor de Deus Esta Por Vir",
-        "url": "https://open.spotify.com/album/6sEAKuCnpJY4PBsICA6Eb5"
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
       },
       "artists": [
         {
-          "name": "Voz da Verdade",
-          "url": "https://open.spotify.com/artist/6lNJyLZ53yiJlCfwcxtT71"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 265800,
-      "name": "O Escudo",
-      "url": "https://open.spotify.com/track/2qkdDgfdWAcWt3KRLROmmG"
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -299,22 +315,6 @@
       "duration_ms": 245063,
       "name": "Deus Cuida de Mim",
       "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
         "name": "Sinais de Deus",
         "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 288960,
       "name": "Quero Descer",
       "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -427,38 +427,6 @@
       "duration_ms": 208608,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 322160,
-      "name": "Sabor de Mel",
-      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 476546,
-      "name": "Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -527,6 +495,38 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 322160,
+      "name": "Sabor de Mel",
+      "url": "https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
         "name": "Excel\u00eancia",
         "url": "https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW"
       },
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 381318,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
-      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
+        "name": "Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        }
+      ],
+      "duration_ms": 455106,
+      "name": "Aclame ao Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "Diante do Trono (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        }
-      ],
-      "duration_ms": 455106,
-      "name": "Aclame ao Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dhpQeQ8LR4UEp9gugrITU"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -807,6 +807,26 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -931,26 +951,6 @@
       "duration_ms": 209293,
       "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
       "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
-        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 593773,
-      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
     },
     {
       "added_at": "2023-10-06 03:34:07",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-06 03:34:07",
       "album": {
-        "name": "Eu Tenho a Promessa",
-        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 336271,
-      "name": "Abra os Meus Olhos",
-      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
-    },
-    {
-      "added_at": "2023-10-06 03:34:07",
-      "album": {
         "name": "Momentos de Louvor, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Vmp2BRhyXdhjSbtMFxzIl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 210651,
       "name": "Ele \u00c9 Exaltado - Ao Vivo",
       "url": "https://open.spotify.com/track/0MVjVxZHphWNA5uAx2kwjY"
+    },
+    {
+      "added_at": "2023-10-06 03:34:07",
+      "album": {
+        "name": "Eu Tenho a Promessa",
+        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 336271,
+      "name": "Abra os Meus Olhos",
+      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
     },
     {
       "added_at": "2023-10-06 03:34:07",

@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29368,
+  "num_followers": 29384,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmM3NWUyYzNiZWI2NTgxZTY3OTE3NzQ0OTg5NjY2YTg0MWYyZmM1",
+  "snapshot_id": "MCxhZjVmYzU2MzIyMGZmYjY2MDJiNmY4NWYwMzcwYzc2NWQ1NjNjZjhk",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "Periodt",
+        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
+      },
+      "artists": [
+        {
+          "name": "Nura",
+          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
+        }
+      ],
+      "duration_ms": 194732,
+      "name": "Eine gute Frau",
+      "url": "https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/6ttn7yBKks0O3iP0senqjR"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 146626,
       "name": "Toxic Baggage",
       "url": "https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
-        "name": "Periodt",
-        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
-      },
-      "artists": [
-        {
-          "name": "Nura",
-          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
-        }
-      ],
-      "duration_ms": 194732,
-      "name": "Eine gute Frau",
-      "url": "https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "TOGETHER",
-        "url": "https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "TOGETHER",
-      "url": "https://open.spotify.com/track/3kn71wloYHKswuBJM3k1YC"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Morgana (2023 Edit)",
         "url": "https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ"
       },
@@ -483,6 +467,38 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "TOGETHER",
+        "url": "https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/3kn71wloYHKswuBJM3k1YC"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Black Goose",
+        "url": "https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 153950,
+      "name": "Black Goose",
+      "url": "https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "Honey (I Hope, You Understand)",
         "url": "https://open.spotify.com/album/4aSxjNrJrf8ayjpml0dgF0"
       },
@@ -495,6 +511,22 @@
       "duration_ms": 201186,
       "name": "Honey (I Hope, You Understand)",
       "url": "https://open.spotify.com/track/3mk3oJaBqlHnDGJJ7hOG91"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "I've Stopped Getting Chills For A While Now",
+        "url": "https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 255003,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/44l2NbA8lMwFMNNB3rWTqI"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -519,22 +551,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "I've Stopped Getting Chills For A While Now",
-        "url": "https://open.spotify.com/album/7GjlQUFZz3eK3rhBFJKwer"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 255003,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/44l2NbA8lMwFMNNB3rWTqI"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Drinking Gasoline",
         "url": "https://open.spotify.com/album/62T5pNg4RAc5367qR8VAjc"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 179186,
       "name": "Already There",
       "url": "https://open.spotify.com/track/3gfzBLJ3IY5wvNp0arkLmJ"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
-        "name": "Black Goose",
-        "url": "https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 153950,
-      "name": "Black Goose",
-      "url": "https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Bloodline EP",
-        "url": "https://open.spotify.com/album/3YsmTeuy0gEf098c17dwmP"
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/3Ecu4B0fMGGL0JTTEGU2Tf"
       },
       "artists": [
         {
-          "name": "Soukou",
-          "url": "https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz"
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
         }
       ],
-      "duration_ms": 167236,
-      "name": "nickname",
-      "url": "https://open.spotify.com/track/5UbwGKkWpOMYv7oJ67z4jE"
+      "duration_ms": 216538,
+      "name": "Indifferent",
+      "url": "https://open.spotify.com/track/4ft2mvzYvYVURogmDgz4Y6"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Indifferent",
-        "url": "https://open.spotify.com/album/3Ecu4B0fMGGL0JTTEGU2Tf"
+        "name": "Bloodline EP",
+        "url": "https://open.spotify.com/album/3YsmTeuy0gEf098c17dwmP"
       },
       "artists": [
         {
-          "name": "Jamila",
-          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+          "name": "Soukou",
+          "url": "https://open.spotify.com/artist/0eRpKXLg1McmJuL3ASNbiz"
         }
       ],
-      "duration_ms": 216538,
-      "name": "Indifferent",
-      "url": "https://open.spotify.com/track/4ft2mvzYvYVURogmDgz4Y6"
+      "duration_ms": 167236,
+      "name": "nickname",
+      "url": "https://open.spotify.com/track/5UbwGKkWpOMYv7oJ67z4jE"
     },
     {
       "added_at": "2023-10-03 22:00:00",

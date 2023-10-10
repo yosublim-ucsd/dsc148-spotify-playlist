@@ -4,17 +4,18 @@
 
 > an early morning in the countryside, birds sing while someone quietly plays music..\. pure forest bliss!
 
-86 songs - 3 hr 45 min
+91 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A day of rest](https://open.spotify.com/track/5NtyWnrKGGSze890IfxM3p) | [Lola's Hideaway](https://open.spotify.com/artist/0Xn9l5gBAeGHV5Xn06nsra) | [Let the Rain Fall and the Piano Sing](https://open.spotify.com/album/41E7GgjFiaZKvSzYT3ar1n) | 1:57 | 2023-04-26 |  |
 | [A Moment That Passes By](https://open.spotify.com/track/1wR9CIN2CvMSm8Zvo8T9rI) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [A Moment That Passes By](https://open.spotify.com/album/6rb2WYOfbqgWqqcAlBB9yV) | 2:38 | 2023-04-26 |  |
+| [above the nature](https://open.spotify.com/track/29ZhKHupWha4bNez2RJPKZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the nature](https://open.spotify.com/album/0YXYf0SZz0C7iRMJknvGTR) | 2:26 | 2023-10-09 |  |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-26 |  |
 | [Ameth](https://open.spotify.com/track/5JN4NoW07SPOoLJFxoeUDu) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [Deepest Forest](https://open.spotify.com/album/75qZcZxWnplR6i29usmnke) | 2:58 | 2023-05-29 |  |
 | [Arbores Unwind](https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Arbores Unwind](https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga) | 2:15 | 2023-08-02 |  |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-08-02 |  |
-| [Avril 14th](https://open.spotify.com/track/4fnsPVPOQfOeuOSlGMjknE) | [Jeremy Cullen](https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE) | [Avril 14th](https://open.spotify.com/album/3TjGTIcVrbCT0Icu0tZ9Tu) | 2:06 | 2023-04-26 |  |
+| [Avril 14th](https://open.spotify.com/track/4fnsPVPOQfOeuOSlGMjknE) | [Jeremy Cullen](https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE) | [Avril 14th](https://open.spotify.com/album/3TjGTIcVrbCT0Icu0tZ9Tu) | 2:06 | 2023-04-26 | 2023-10-10 |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-04-26 |  |
 | [Before I Sleep \(Sunday Mornings\)](https://open.spotify.com/track/0egCN48N3po4y9qH10hhkk) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sunday Mornings I](https://open.spotify.com/album/1FTGiQ5feIbCaua7C9pTuX) | 2:06 | 2023-04-26 |  |
 | [Before I Wake Up](https://open.spotify.com/track/1xGlmw5v4POLlk4NbifkWC) | [Oline Kleist](https://open.spotify.com/artist/2HpjQO0r6XkIRCC6UE9AgS) | [Before I Wake Up](https://open.spotify.com/album/6Om4dd5U9FDfdaqPWbfpzU) | 2:51 | 2023-04-26 |  |
@@ -22,10 +23,13 @@
 | [Brandeburg](https://open.spotify.com/track/3tiKP9Nw60joyKTqxXNrvJ) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Brandeburg](https://open.spotify.com/album/6ulGhEHDIg1i9CA7rLbnGy) | 3:01 | 2023-04-26 |  |
 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 | 2023-04-26 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-04-26 |  |
+| [Bûche Et Pierre](https://open.spotify.com/track/7MBxUwS2dUtLoIuuudQwNV) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Bûche Et Pierre](https://open.spotify.com/album/1pZ2GanSIFMvnpdqEYs4bf) | 3:05 | 2023-10-09 |  |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-05 |  |
 | [Cavatina](https://open.spotify.com/track/0ciqR1aOIcec8GNl9FrWPI) | [Tranquil Cove](https://open.spotify.com/artist/7wcYGhAdnlsglHP4ty9b26) | [Cavatina](https://open.spotify.com/album/2V9BbvkIcL44dOw65GrhHe) | 3:36 | 2023-04-26 |  |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-04-26 |  |
+| [Comodinodi Foglie](https://open.spotify.com/track/1Is0TOiqxHpYjDCoHQSpiE) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Comodinodi Foglie](https://open.spotify.com/album/0EJFmkGxrSJ0FqxOedfpor) | 1:47 | 2023-10-09 |  |
 | [Conscious Jorney](https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Conscious Jorney](https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3) | 2:43 | 2023-04-26 |  |
+| [Dasikó Planktón](https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Dasikó Planktón](https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu) | 3:30 | 2023-10-09 |  |
 | [Days of Rain](https://open.spotify.com/track/5y8lkSuUCUU0aOY35ocja3) | [Andrés Oro](https://open.spotify.com/artist/5PWDlM9eEzaPH02FpI8uM9) | [Days of Rain](https://open.spotify.com/album/3c5uDhij6hPLqAZBY1RimI) | 2:56 | 2023-04-26 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-04-26 |  |
 | [Early Morning Bliss](https://open.spotify.com/track/0Nb1uxPJgZGonJrkl76PkM) | [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z) | [Early Morning Bliss](https://open.spotify.com/album/7JQ2U8loYFz3nqKklYr7mD) | 2:32 | 2023-04-26 |  |
@@ -46,6 +50,7 @@
 | [Hommage](https://open.spotify.com/track/4zMan51kqURuYMB62puyA4) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage](https://open.spotify.com/album/7A09M4PEsIq6CH94cQOT1P) | 2:25 | 2023-04-26 |  |
 | [Hommage](https://open.spotify.com/track/3XMgthuNyVtAXR9qKpHcGk) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Hommage](https://open.spotify.com/album/0hsTPjOpfoC5Y6VRb5Cfvf) | 2:26 | 2023-04-26 |  |
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-04-26 |  |
+| [Hymnes Des Feuilles](https://open.spotify.com/track/52CxwX2luefQ34dRhrCibA) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Hymnes Des Feuilles](https://open.spotify.com/album/3bEfURN8y6RbANcG9ccXxz) | 2:58 | 2023-10-09 |  |
 | [Indian Yellow](https://open.spotify.com/track/6j8KPn7rmbTwlkpEbHcrS1) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 3:14 | 2023-04-26 |  |
 | [Iris](https://open.spotify.com/track/6ouyD7SLKECxbSpKne7bTM) | [Peter Nordahl](https://open.spotify.com/artist/5AMeI7M3JtXhriDpCqX1oK) | [Iris](https://open.spotify.com/album/09NoNxKuhdI6RmmffIIkHZ) | 1:58 | 2023-04-26 |  |
 | [Jours Heureux](https://open.spotify.com/track/0s7HtboRz3xS0OV0sYHpaM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Jours Heureux](https://open.spotify.com/album/1xOB5BZcjqUybxX8fnt2HZ) | 1:49 | 2023-04-26 |  |
@@ -63,7 +68,7 @@
 | [Night Rain](https://open.spotify.com/track/6sppRP45WJDlOZHnvhBk7k) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Night Rain](https://open.spotify.com/album/5cQVztFB5SHVpE5ftXoIYo) | 2:43 | 2023-04-26 |  |
 | [Nightingale at Spivaki](https://open.spotify.com/track/44KpyFFrwH0xciqFNa3yi2) | [Samplehound](https://open.spotify.com/artist/6jvv94aRUW1iW668rFcHSO) | [Atmospheres](https://open.spotify.com/album/6AUzpz4akFHwU9oIGY7Iw6) | 4:23 | 2023-04-26 |  |
 | [Open Windows](https://open.spotify.com/track/0haM4uUy5Gl0qVdyn6csKG) | [Leonore Baldwin](https://open.spotify.com/artist/6ZlHe1gzZkHFr83kgRkxNA) | [Open Windows](https://open.spotify.com/album/2ieEchgcw6pTWoQSpNPDt7) | 2:42 | 2023-04-26 |  |
-| [Peace Piece](https://open.spotify.com/track/0cUpqIJQv8Yke4XfL3y0UK) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/3hXfUcHbaaMFj86UBkcoUp) | 4:13 | 2023-04-26 |  |
+| [Peace Piece](https://open.spotify.com/track/0cUpqIJQv8Yke4XfL3y0UK) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peace Piece](https://open.spotify.com/album/3hXfUcHbaaMFj86UBkcoUp) | 4:13 | 2023-04-26 | 2023-10-10 |
 | [Peaceful Place & Sunday Mornings](https://open.spotify.com/track/5zPzkbW31xa6qmkTiTgL3j) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXII](https://open.spotify.com/album/5VNH9QQzeqTgpojNFFYzgw) | 2:22 | 2023-04-26 |  |
 | [petrichor](https://open.spotify.com/track/728W8LeEpE6ueeIzY2tTcW) | [Fukai Hikari](https://open.spotify.com/artist/3fqjkIH0oGqCLfB93kGBkC) | [petrichor](https://open.spotify.com/album/6T2tCty2F0C6fGnLjMS8Yp) | 3:37 | 2023-04-26 |  |
 | [Philolau](https://open.spotify.com/track/1O5kbmSDlv5OPAu7Uf9NpH) | [Timaeus](https://open.spotify.com/artist/5DWCBR1B1PkfYbWtGq9wLT) | [Philolau](https://open.spotify.com/album/3mqJn8Py7HwpuuyjwpEYBN) | 2:58 | 2023-04-26 |  |
@@ -92,7 +97,7 @@
 | [Upon Gliding Wings & Sunday Mornings](https://open.spotify.com/track/5YeEx99daiViCDGXVeVY03) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVII](https://open.spotify.com/album/0If7IfnqHrjBZFakxhc8cv) | 2:27 | 2023-04-26 |  |
 | [Wait](https://open.spotify.com/track/2T1ybUcEfgC1Z4XUXw5GlZ) | [Aubrey Fornier](https://open.spotify.com/artist/3d8Ky2p7PzmNYDvPcJxGM9) | [Wait](https://open.spotify.com/album/4LtHbWd6Dgd7xApLzpzzp9) | 1:54 | 2023-04-26 |  |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-04-26 |  |
-| [Woven Song](https://open.spotify.com/track/4lSsH5NXdwFbBhRrFXPVFj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:10 | 2023-04-26 |  |
+| [Woven Song](https://open.spotify.com/track/4lSsH5NXdwFbBhRrFXPVFj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace](https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf) | 3:10 | 2023-04-26 | 2023-10-10 |
 | [Yasashii](https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6) | [Asahi Haru](https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM) | [Yasashii](https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR) | 2:14 | 2023-04-26 |  |
 
 \*This playlist was first scraped on 2023-05-02. Prior content cannot be recovered.

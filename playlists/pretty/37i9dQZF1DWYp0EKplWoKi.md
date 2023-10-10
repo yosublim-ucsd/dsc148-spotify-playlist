@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Oscar Maydon & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,136 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,221 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [Necesito un Favor](https://open.spotify.com/track/4DhWnnCpbKNmpZ4hVYKjNc) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Necesito un Favor](https://open.spotify.com/album/3pIK5Xn2CZ1rSJ6j0jSwy6) | 2:55 |
 | 50 | [Mi Peor Versión](https://open.spotify.com/track/4daaFXcH4eJtalXOGQzdAt) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Mi Peor Versión](https://open.spotify.com/album/30cVCFW3g90useQnn8Kssk) | 2:36 |
 
-Snapshot ID: `MCwyMWFiYzA2OGFhODBmYmY4YzU4YWMxOTgzMjI0NjlhNDY3MDhlOTVm`
+Snapshot ID: `MCxjZWI0NzNiNzM4NWYyZTRjOTA1ODI4OGM4YzVlMzRlMTJlZjdiMjVj`

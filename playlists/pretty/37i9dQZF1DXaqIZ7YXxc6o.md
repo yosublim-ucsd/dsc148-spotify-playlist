@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: James Hype, Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,054 likes - 97 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,031 likes - 97 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 96 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 97 | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/track/1f434xo0pTFHk2dIVmQSqH) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/album/2p0zD4HbmVF8Yim1nSzfwQ) | 2:48 |
 
-Snapshot ID: `MCw1NDMwMDgxMTE0ZTQ5OTUwNWU4ZTVkMDg5YzQwMWYzNWJjZjdjNmFh`
+Snapshot ID: `MCwzNjE4OTliODZiODFkY2Q2YmM4MmNkOGFmNjA2NzBkZjdjNzQ4M2Vh`

@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Candlelight",
+        "url": "https://open.spotify.com/album/07zpR4ny0kTMNe7RJG8GY3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154241,
+      "name": "Candlelight",
+      "url": "https://open.spotify.com/track/5iaXnCbptZhRWsfMlM68lN"
+    },
+    {
+      "album": {
         "name": "Casa luminosa",
         "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
       },
@@ -1716,6 +1734,24 @@
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
+    },
+    {
+      "album": {
+        "name": "Countless",
+        "url": "https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3"
+      },
+      "artists": [
+        {
+          "name": "Lynn Kay",
+          "url": "https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146967,
+      "name": "Countless",
+      "url": "https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI"
     },
     {
       "album": {
@@ -2498,6 +2534,24 @@
       "duration_ms": 232076,
       "name": "El \u00faltimo vals",
       "url": "https://open.spotify.com/track/2rw220lcEpbi4RwyefjinW"
+    },
+    {
+      "album": {
+        "name": "Elegie",
+        "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169349,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
     },
     {
       "album": {
@@ -6528,6 +6582,24 @@
       "duration_ms": 120874,
       "name": "Noe\u0301mie",
       "url": "https://open.spotify.com/track/05raSLFPEXgJTZ3PZPxXD0"
+    },
+    {
+      "album": {
+        "name": "Noir et Blanc",
+        "url": "https://open.spotify.com/album/4Xz5rzsmXAxIoqYZwllQZ9"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "Noir et Blanc",
+      "url": "https://open.spotify.com/track/043N3wUhBlPT5otTLE0kIz"
     },
     {
       "album": {

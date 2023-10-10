@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Kiedy Chc\u0119",
+        "url": "https://open.spotify.com/album/1hfBy3gnykFhIssAvV9Fwr"
+      },
+      "artists": [
+        {
+          "name": "Amba Fatima",
+          "url": "https://open.spotify.com/artist/12ivTmFWs3JKtKOGxdSszN"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161943,
+      "name": "Kiedy Chc\u0119",
+      "url": "https://open.spotify.com/track/0pmfleJhXSffwFhcCwU0X4"
+    },
+    {
+      "album": {
         "name": "Kimkolwiek chc\u0119",
         "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
       },
@@ -1449,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "niem\u00f3wmi",
+        "url": "https://open.spotify.com/album/1BniDqtFGZMyVjPEf6saZz"
+      },
+      "artists": [
+        {
+          "name": "Patryk Janiak",
+          "url": "https://open.spotify.com/artist/5f0iJm2Clf3zrxcWfgTS7k"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160836,
+      "name": "niem\u00f3wmi",
+      "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
+    },
+    {
+      "album": {
         "name": "Niepolka",
         "url": "https://open.spotify.com/album/1ubWl6fNt6Ktmun9DunofW"
       },
@@ -1623,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Piruet i salto",
+        "url": "https://open.spotify.com/album/0cmFgkbiLxbNS6ujkTRvXY"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203505,
+      "name": "Piruet i salto",
+      "url": "https://open.spotify.com/track/2ym23Le3ixHJoEnbtHeB3j"
+    },
+    {
+      "album": {
         "name": "K\u00f3\u0142ko I Krzy\u017cyk",
         "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
@@ -1726,6 +1780,28 @@
       "duration_ms": 96000,
       "name": "Pod Kapturem",
       "url": "https://open.spotify.com/track/6G1l68r9FYheCv5gAFpFDG"
+    },
+    {
+      "album": {
+        "name": "Podziemny Slam",
+        "url": "https://open.spotify.com/album/6KwYYZiNYO2pRFf9RRHGzP"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179910,
+      "name": "Podziemny Slam",
+      "url": "https://open.spotify.com/track/38y5b9wZNqA6odUnbpfs8s"
     },
     {
       "album": {
@@ -2444,7 +2520,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
@@ -2550,7 +2626,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 175200,
       "name": "Ulubione miejsce",
       "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
@@ -2594,6 +2670,28 @@
       "duration_ms": 250208,
       "name": "VITAY - Avtomat Remix",
       "url": "https://open.spotify.com/track/5ZMOiaSKA0IQiXst5orqKR"
+    },
+    {
+      "album": {
+        "name": "W innym kolorze",
+        "url": "https://open.spotify.com/album/6QSIyBrOVK6poPpEebfPtn"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        },
+        {
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202494,
+      "name": "W innym kolorze",
+      "url": "https://open.spotify.com/track/1SKOsQeGx7heZSoylQfqzM"
     },
     {
       "album": {
@@ -2840,7 +2938,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 169122,
       "name": "\u015awi\u0119ta Betsy",
       "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"

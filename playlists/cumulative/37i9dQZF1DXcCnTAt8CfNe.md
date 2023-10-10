@@ -2,7 +2,7 @@
 
 ### [Musical Therapy](https://open.spotify.com/playlist/37i9dQZF1DXcCnTAt8CfNe)
 
-> Soothe your mind with gentle instrumentals.
+> Relaja tu mente con música instrumental suave.
 
 246 songs - 11 hr 41 min
 

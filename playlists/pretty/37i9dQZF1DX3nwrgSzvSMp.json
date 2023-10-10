@@ -1,12 +1,12 @@
 {
   "description": "Un viaje musical por nuestras ra\u00edces prehisp\u00e1nicas. ",
-  "num_followers": 6225,
+  "num_followers": 6240,
   "original_name": "Pueblos Ind\u00edgenas: Legado Musical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWQ2ZWQ4M2JhMGQyOGQzYjJlZDY1NzExMTMxZTdjMzY4MjRmYzQ3",
+  "snapshot_id": "MCwyYjYxN2E2MzQ4YmUzNzQ4MWQ2NjhjZTE2MmZlMTNlYjk2OThhODlk",
   "tracks": [
     {
       "added_at": "2021-09-09 23:30:28",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Codex - Music of Ancient Mexico",
-        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
-      },
-      "artists": [
-        {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Nightingale. Music for the Moon and Stars.",
-      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
         "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 335480,
       "name": "Suite al Culto Solar - Xochiyaoyoloh",
       "url": "https://open.spotify.com/track/1Z3pQdIz4n1aqKqWXncPGT"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Codex - Music of Ancient Mexico",
+        "url": "https://open.spotify.com/album/1gKi3KeZeazp6ZkfF9J8Kl"
+      },
+      "artists": [
+        {
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Nightingale. Music for the Moon and Stars.",
+      "url": "https://open.spotify.com/track/0yP6HplG4dzIFpM9pbcdGe"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -171,6 +171,38 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
+        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
+        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
+      },
+      "artists": [
+        {
+          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "California Nipaia Nipaia - Adi\u00f3s California",
+      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Antolog\u00eda de la M\u00fasica P'urhepecha, Vol. VII",
+        "url": "https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Pr\u00f3spero",
+          "url": "https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l"
+        }
+      ],
+      "duration_ms": 153746,
+      "name": "Josefinita",
+      "url": "https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
         "name": "M\u00fasica Prehisp\u00e1nica y Mestiza de M\u00e9xico",
         "url": "https://open.spotify.com/album/3ahIuLsy6ios1j8Ibdz0Vs"
       },
@@ -187,18 +219,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Toro Pinto: M\u00fasica Pur\u00e9pecha (Abaje\u00f1os / Pir\u00e9kuas / Sones)",
-        "url": "https://open.spotify.com/album/1k66pcKIunyfB7Zm0sHECs"
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
       },
       "artists": [
         {
-          "name": "Banda Revelaci\u00f3n de San Andr\u00e9s Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/475iX46VDB5Nit0lf1hPZk"
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
         }
       ],
-      "duration_ms": 214466,
-      "name": "California Nipaia Nipaia - Adi\u00f3s California",
-      "url": "https://open.spotify.com/track/4BEgsilbLDzmUHTdagzjpv"
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -235,54 +267,6 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Antolog\u00eda de la M\u00fasica P'urhepecha, Vol. VII",
-        "url": "https://open.spotify.com/album/7wVegPHZRBSdENMJWRg6tc"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo Pr\u00f3spero",
-          "url": "https://open.spotify.com/artist/3JqlpG9b1OkK1pCnLnxN4l"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "Josefinita",
-      "url": "https://open.spotify.com/track/60astfFM5obtdfz8eDCZpS"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
-        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
-      },
-      "artists": [
-        {
-          "name": "Banda Laser",
-          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Male Chabelita",
-      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
-        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
-      },
-      "artists": [
-        {
-          "name": "Luis Perez",
-          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Suite al Culto Solar - In Altepetl Tonal",
-      "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
         "name": "K'op Kuxul",
         "url": "https://open.spotify.com/album/4fh1lwgtTR6adLCmxv2kjB"
       },
@@ -303,18 +287,50 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Aztec Dances",
-        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
+        "name": "Ipan In Xiktli Metztli (M\u00e9xico M\u00e1gico C\u00f3smico, en el Ombligo de la Luna)",
+        "url": "https://open.spotify.com/album/1JGPFMYRAY6O9jknUAPc5N"
       },
       "artists": [
         {
-          "name": "Xavier Quijas Yxayotl",
-          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
+          "name": "Luis Perez",
+          "url": "https://open.spotify.com/artist/7jDLx2fin0vmknY3hIS1tS"
         }
       ],
-      "duration_ms": 283906,
-      "name": "Copal Offering To The Four Directions",
-      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
+      "duration_ms": 200746,
+      "name": "Suite al Culto Solar - In Altepetl Tonal",
+      "url": "https://open.spotify.com/track/71QCom1QzTOtxQdyBII4Ii"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
+        "url": "https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        }
+      ],
+      "duration_ms": 160872,
+      "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
+      "url": "https://open.spotify.com/track/5dAalqBNmHi3qNeAfHeKfQ"
+    },
+    {
+      "added_at": "2021-09-09 23:30:28",
+      "album": {
+        "name": "Chiapas",
+        "url": "https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 88293,
+      "name": "Chumeltic",
+      "url": "https://open.spotify.com/track/14QgWzTRoEyXSuvyFHVomT"
     },
     {
       "added_at": "2021-09-09 23:30:28",
@@ -351,34 +367,18 @@
     {
       "added_at": "2021-09-09 23:30:28",
       "album": {
-        "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
-        "url": "https://open.spotify.com/album/4lnCOgwtCf98BetdUh3DeP"
+        "name": "Aztec Dances",
+        "url": "https://open.spotify.com/album/19Ae9UiDrpjn15PFMKN1bd"
       },
       "artists": [
         {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+          "name": "Xavier Quijas Yxayotl",
+          "url": "https://open.spotify.com/artist/13EZPKKqF3Ez1aCKTcRC5f"
         }
       ],
-      "duration_ms": 160872,
-      "name": "Xochipitzahua / Flor Menudita (A Guitarra y Zampo\u00f1a Desde Casa)",
-      "url": "https://open.spotify.com/track/5dAalqBNmHi3qNeAfHeKfQ"
-    },
-    {
-      "added_at": "2021-09-09 23:30:28",
-      "album": {
-        "name": "Chiapas",
-        "url": "https://open.spotify.com/album/2zGxrCmiEv2mCfGFRkDH1g"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 88293,
-      "name": "Chumeltic",
-      "url": "https://open.spotify.com/track/14QgWzTRoEyXSuvyFHVomT"
+      "duration_ms": 283906,
+      "name": "Copal Offering To The Four Directions",
+      "url": "https://open.spotify.com/track/5iH1bBa3WRWuVeMvn0jR2M"
     },
     {
       "added_at": "2021-09-09 23:30:28",

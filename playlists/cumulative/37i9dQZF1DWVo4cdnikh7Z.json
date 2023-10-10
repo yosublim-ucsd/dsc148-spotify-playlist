@@ -9749,6 +9749,32 @@
     },
     {
       "album": {
+        "name": "Maamadura (From \"Jigarthanda DoubleX\")",
+        "url": "https://open.spotify.com/album/6ndlH0frO7Ol70wcwNrcIS"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Maamadura - From \"Jigarthanda DoubleX\"",
+      "url": "https://open.spotify.com/track/5DezAsjtSLUxW9j00eh0Ia"
+    },
+    {
+      "album": {
         "name": "Maaripocho (From \"Kanam\")",
         "url": "https://open.spotify.com/album/5nIop14CYWoHlVV0IEI5jJ"
       },
@@ -10876,7 +10902,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 222000,
       "name": "Meendum Unnil",
       "url": "https://open.spotify.com/track/6kk7PdMdatpM16dEoxMvNt"
@@ -18504,7 +18530,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 226500,
       "name": "Theera Swasame",
       "url": "https://open.spotify.com/track/6DrSHG5r4bRXsnW0hd420H"
@@ -18802,7 +18828,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 195000,
       "name": "Thodarum Kadhaiyaaga",
       "url": "https://open.spotify.com/track/0IIPABCpRKBW2RtCXENYcL"
@@ -19532,7 +19558,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 216739,
       "name": "Un Idhazhgalinaal (From \"Margazhi Thingal\")",
       "url": "https://open.spotify.com/track/3GuVigOdkvJWZgi9qFlWwj"

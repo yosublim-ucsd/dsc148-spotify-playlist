@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Clara Lima",
+  "description": "O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow emba\u00e7ado. Foto: Bivolt",
   "name": "Rima Avan\u00e7ada",
   "tracks": [
     {
@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 192543,
       "name": "Bonde da Rock - Remix",
       "url": "https://open.spotify.com/track/2mJlNVUnUYkIZBzewrgTuY"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 137142,
       "name": "Confronto",
       "url": "https://open.spotify.com/track/748z4mkb45Z9zZhMLOWI0q"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 225172,
       "name": "Drill Froid",
       "url": "https://open.spotify.com/track/413aGpDZ4LIqmvzYKhOMdC"
@@ -2082,6 +2082,36 @@
       "duration_ms": 123733,
       "name": "Evoque",
       "url": "https://open.spotify.com/track/1BvHPr0BvtUwtnpARfRXqs"
+    },
+    {
+      "album": {
+        "name": "Fala De Mim",
+        "url": "https://open.spotify.com/album/5LxQcfFDDHipruL3lrsDUZ"
+      },
+      "artists": [
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        },
+        {
+          "name": "MHK",
+          "url": "https://open.spotify.com/artist/7lh5DPPM7pE2QPNgBwj4Fx"
+        },
+        {
+          "name": "Predella",
+          "url": "https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180425,
+      "name": "Fala De Mim",
+      "url": "https://open.spotify.com/track/2g2WFLfg0r2X9KHebW31Ne"
     },
     {
       "album": {
@@ -3667,6 +3697,28 @@
     },
     {
       "album": {
+        "name": "One Piece",
+        "url": "https://open.spotify.com/album/10wvqxL9Fp4w88cribR8xk"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Drill De Lobos",
+          "url": "https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210442,
+      "name": "One Piece",
+      "url": "https://open.spotify.com/track/5DntWE8Or63pUgkIGXfmB8"
+    },
+    {
+      "album": {
         "name": "Os Pitbull do Ano, Pt. 2",
         "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
@@ -3790,7 +3842,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 151384,
       "name": "Passei De Trator",
       "url": "https://open.spotify.com/track/5PzRGhU8j0eAbxrwrOCw6X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Earthgang
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,523 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,199 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Carefree](https://open.spotify.com/track/5KSffXZ5exiUZabwpXwrj7) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 4:01 |
 | 100 | [Hard 2 Forget](https://open.spotify.com/track/1wozly85t7sXNlpX2WVVHB) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Hard 2 Forget](https://open.spotify.com/album/76cWaIFSds7eRXbyjlg9ca) | 2:26 |
 
-Snapshot ID: `MCw5NjZiYTBjYTUzOTM2NDU0MGJkMDgzMmQxODVhZTEyYzA1YTExMzQy`
+Snapshot ID: `MCxjZGE2OTNhMGIwNDRkMDYwYTE3OTZkOWQ1NGFlNmQ1ZTQ4ZTJkZmRm`

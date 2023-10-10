@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,828 likes - 182 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,849 likes - 182 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 | 181 | [Una Luz en el Silencio](https://open.spotify.com/track/5sKLWKEA2OEhBKdERE70vu) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Una Luz en el Silencio](https://open.spotify.com/album/0tuw4ClrE9s1IIsMb8Qgld) | 4:55 |
 | 182 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/4mhtL6cfoChqxjFhI4i8tg) | [Michael Marc](https://open.spotify.com/artist/3fcQI5iYhwISYHwUf3G4Ok) | [Eu Sei Que Vou Te Amar](https://open.spotify.com/album/5HrmMkMFpMLTKCaQW5XlTQ) | 4:24 |
 
-Snapshot ID: `MCxlYmMyNmViZGI4YmUwOWEwYzZmZDQ1MjMwZmRiZDkyZDI0NDZjZWFi`
+Snapshot ID: `MCxjZDI1YTI0Y2QxZTY1N2RjNjI0NmU5YmQ1MDZiNjlhMjljMGFiNDZj`

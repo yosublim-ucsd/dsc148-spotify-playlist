@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-291 songs - 21 hr 44 min
+292 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Ella Uso Mi Cabeza Como Un Revolver \- MTV Unplugged](https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 6:04 | 2022-04-01 |  |
 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 | 2022-04-01 | 2022-07-28 |
 | [En el Baldío \- En Vivo](https://open.spotify.com/track/1hNT1e0igCiprBrETIhd55) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/419PfoPpVGyQAKvsxBsqxb) | 4:13 | 2023-03-03 | 2023-05-19 |
+| [En el Baldío \- En Vivo](https://open.spotify.com/track/7J8rmygjDWHb3fpwIEJDnH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Estadio Newell's Old Boys, 18 de Mayo de 2018 \(En Vivo\)](https://open.spotify.com/album/5WOqG6HvWWAd7YvlK6TObB) | 4:13 | 2023-10-06 |  |
 | [Envuelto en Llamas \(En Vivo\)](https://open.spotify.com/track/674zid6QdjoHzafff631N8) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Sortilegio de Arrabal](https://open.spotify.com/album/4FMIICOCC7pmOdhDwIUkid) | 4:04 | 2022-08-19 |  |
 | [Envuelto en Llamas \(Live\)](https://open.spotify.com/track/1zf4a8hddJfZgxV7hjmyFx) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Envuelto en Llamas \(Live\)](https://open.spotify.com/album/0xPCROMq48Dm7a2AucwPOS) | 4:04 | 2022-04-01 | 2022-07-28 |
 | [Eres \- Live At The Roxy](https://open.spotify.com/track/6OxvFmNg8S0h3YDxdTjP8z) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 4:03 | 2022-06-24 | 2022-07-19 |
@@ -195,7 +196,7 @@
 | [No Voy En Tren \- Live](https://open.spotify.com/track/7upvgbzPZxsjsZyyaRRhbA) | [Charly García & The Prostitution](https://open.spotify.com/artist/4Y2lfQWx1xZIiA8ckQjyta) | [La Vanguardia Es Así \(Live\)](https://open.spotify.com/album/6squHvecpkgdtu5ugJ36dZ) | 2:45 | 2022-04-01 | 2022-07-25 |
 | [No Voy En Tren \- Live At The Roxy](https://open.spotify.com/track/369835rx5WNLBZ4tDdaG52) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán Live At The Roxy](https://open.spotify.com/album/1ACoUEUChNALtgDkdK7gTc) | 3:14 | 2022-06-10 | 2022-07-13 |
 | [Nunca Quise \- En Vivo Luna Park](https://open.spotify.com/track/101iy0A0T20E8D8Gi1HLiR) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra \(15 Aniversario \- Remasterizado\)](https://open.spotify.com/album/6lwEfjAV0TPNUQxrnoDbF1) | 4:39 | 2022-04-01 | 2022-07-27 |
-| [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 | 2023-08-31 |  |
+| [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 | 2023-08-31 | 2023-10-10 |
 | [Once \- En Vivo](https://open.spotify.com/track/18IcFu22fTHg9ozQ7cmfkz) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Once \(En Vivo\)](https://open.spotify.com/album/50CiSjlh8UQmAlViVVy2E8) | 4:29 | 2022-04-01 | 2022-07-19 |
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-04-07 | 2023-08-02 |
 | [Oro de Abeja \(Vivo en Obras\)](https://open.spotify.com/track/6WYtFrLzFsoQmeipeBmmXz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 4:43 | 2022-04-01 | 2022-07-02 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/2OFQgGsXO2ZpcUkGyaQ37y"
+      },
+      "artists": [
+        {
+          "name": "Bheki Mseleku",
+          "url": "https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446266,
+      "name": "Angola",
+      "url": "https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW"
+    },
+    {
+      "album": {
         "name": "Cartostrophe",
         "url": "https://open.spotify.com/album/2fh9U70k4ZphuTnL5iufgw"
       },
@@ -238,7 +256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 282985,
       "name": "Githurai",
       "url": "https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG"
@@ -581,6 +599,46 @@
     },
     {
       "album": {
+        "name": "John Wizards",
+        "url": "https://open.spotify.com/album/6HyhRD63b98v7UpHiSMe8G"
+      },
+      "artists": [
+        {
+          "name": "John Wizards",
+          "url": "https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Lusaka By Night",
+      "url": "https://open.spotify.com/track/0hMPIEHcy0SLQ6uuG17hxJ"
+    },
+    {
+      "album": {
+        "name": "Mannenberg - 'Is Where It's Happening'",
+        "url": "https://open.spotify.com/album/211IJ33ehIcOM2fdMCxJRp"
+      },
+      "artists": [
+        {
+          "name": "Dollar Brand",
+          "url": "https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl"
+        },
+        {
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 817800,
+      "name": "Mannenberg",
+      "url": "https://open.spotify.com/track/6bMWPW0ASgclSTgT3xbsFj"
+    },
+    {
+      "album": {
         "name": "Healing The Wounds",
         "url": "https://open.spotify.com/album/3OVyrIbZ6lmvG9rUfKRSOR"
       },
@@ -610,7 +668,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 279823,
       "name": "MBALE CITY",
       "url": "https://open.spotify.com/track/1ePyC63y34VSzFByfabdfu"
@@ -1040,7 +1098,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 261818,
       "name": "Ukunda",
       "url": "https://open.spotify.com/track/40OIs7h6ycp9tVl9YJ6CgI"

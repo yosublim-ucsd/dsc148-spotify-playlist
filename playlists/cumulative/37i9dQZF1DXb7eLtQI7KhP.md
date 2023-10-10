@@ -4,7 +4,7 @@
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-144 songs - 6 hr 44 min
+146 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [S.J Morgan](https://open.spotify.com/artist/4xVRQYeatzgjpb5jQZkLs4) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 | 2022-04-28 |  |
 | [Drowsy](https://open.spotify.com/track/256ZL1I7vfJsMn5pUPiPeP) | [Keanna Elsdon](https://open.spotify.com/artist/7aCTQb9ffSuNsbwJJbpxz3) | [Drowsy](https://open.spotify.com/album/6wztXMqE5FKaXqXvNeQgX2) | 2:34 | 2022-04-28 |  |
 | [Durmitor](https://open.spotify.com/track/5ZcsVasCsPNZe1XUBwyMIH) | [Mia Novak](https://open.spotify.com/artist/3W9Z2V5c76hMLPUy3UEpM7) | [Nevidio](https://open.spotify.com/album/2e9oU6dfxCrOfDsTLrHzQX) | 1:58 | 2022-04-28 |  |
+| [Dysania](https://open.spotify.com/track/6Q3FiUqEpD24vnApx3AyVn) | [Lapalillo](https://open.spotify.com/artist/7dGXUhMvIkqUlPIIN04FuV) | [Dysania](https://open.spotify.com/album/4XefORXNaWo3lNDlaMp0Qg) | 2:17 | 2023-10-09 |  |
 | [Eastern Existence](https://open.spotify.com/track/1znTeUVwrNJIOmckklK6kK) | [Andreas Becket](https://open.spotify.com/artist/2SmNGHrS1SiObK3w7A2ffm) | [Eastern Existence](https://open.spotify.com/album/5KtRIZHAED0z2c5RVWhp1v) | 2:10 | 2022-04-28 |  |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-11-14 |  |
@@ -116,6 +117,7 @@
 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 | 2023-02-06 |  |
 | [Solstice](https://open.spotify.com/track/0ewgB7uNpugFobJDS8uhmg) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Solstice](https://open.spotify.com/album/4by0Ro40YozZSueywaBqyr) | 2:53 | 2023-04-18 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-04-28 |  |
+| [Soporific](https://open.spotify.com/track/24uJ6udx2R2uBT0DtJbUSD) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Soporific](https://open.spotify.com/album/1anLRA80wtwN6kQ3qw7RGc) | 2:37 | 2023-10-09 |  |
 | [Sopravvivendo](https://open.spotify.com/track/1RwI9IawkVnalfnHSVJyCy) | [Chiara Ambrosino](https://open.spotify.com/artist/0imVbuMRxysJRiLNiNCsva) | [Sopravvivendo](https://open.spotify.com/album/6UdQ4UWorZwPEcgRKAQ0Ot) | 2:03 | 2022-04-28 |  |
 | [Spirit In Nature](https://open.spotify.com/track/0yESmRQrIBwPooYVwz3vq7) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:04 | 2022-04-28 |  |
 | [Spokój Ducha](https://open.spotify.com/track/1RJMt3tfqFYwBlfoqFG9QJ) | [Idzi Kowalczyk](https://open.spotify.com/artist/5rmln9rtcpJK2jz9QDvmYa) | [Spokój Ducha](https://open.spotify.com/album/5JcPljoFEI3Q6pRGyGKWfc) | 2:44 | 2022-04-28 |  |

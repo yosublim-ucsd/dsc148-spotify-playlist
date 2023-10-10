@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,921 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,906 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,7 +135,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 125 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
 | 126 | [Oh Happy Day](https://open.spotify.com/track/34yIb7hw5SuR80au1BHTtt) | [The Edwin Hawkins Singers](https://open.spotify.com/artist/0lEzfSVcNRLDUKdI7fBDD3) | [Oh Happy Day: The Best Of The Edwin Hawkins Singers](https://open.spotify.com/album/4ZIuHLkXVaiAcEaMWzTKcF) | 5:08 |
 | 127 | [Chapter Three](https://open.spotify.com/track/7HNbI760ncjsufyvRdGvIo) | [Joe Gibbs & The Professionals](https://open.spotify.com/artist/3Vu3veu71fkooIRUtCcRwK) | [African Dub All\-Mighty Chapter 3](https://open.spotify.com/album/2Ev6LKlEV7T5xKmftk3ggk) | 3:36 |
-| 128 | [Don't Leave Me This Way](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
+| 128 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 129 | [Melting Pot](https://open.spotify.com/track/6EjWezCHHgaqxpQYhLSlP7) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Melting Pot](https://open.spotify.com/album/75TzwEVGXEdWHu4XjOuRF8) | 8:14 |
 | 130 | [Ain't No Way](https://open.spotify.com/track/3BucMqBqIR5Aw7MrUkF00y) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 4:14 |
 | 131 | [Los Conquistadores Chocolates](https://open.spotify.com/track/2tEDc3nnMPTDkITUVg7XJx) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 6:08 |
@@ -158,7 +158,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 148 | [Friendship Train](https://open.spotify.com/track/21IVyME7mxHhaHUc7Iyuh4) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Ultimate Collection: Gladys Knight & The Pips](https://open.spotify.com/album/1fSjtqjBKoLfNFZsKFApxA) | 3:45 |
 | 149 | [Fat City Strut](https://open.spotify.com/track/5vilhku7KUCbRlog1d0lBy) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Just Outside Of Town](https://open.spotify.com/album/6zR9fu3d1mF2Ka7LtdzvL3) | 3:19 |
 | 150 | [Standing In the Rain \- Edit](https://open.spotify.com/track/0sPPdRHpEoFZLuBTgXkh4K) | [Don Ray](https://open.spotify.com/artist/5hoOUtUZX142EZQIn9RHOy) | [The Best of Cerrone Productions](https://open.spotify.com/album/6flraTQ07sM0Z5MIcwZnOn) | 4:06 |
-| 151 | [Wake Up Everybody](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
+| 151 | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:32 |
 | 152 | [Do You Wanna Get Funky with Me \- Long Version](https://open.spotify.com/track/0MPxVEbit8sCN5XPkPdOqG) | [Peter Brown](https://open.spotify.com/artist/2mDUt0bSAdmgG3WQMhLJz9) | [A Fantasy Love Affair](https://open.spotify.com/album/695VLbj5jBedIECX1KcrIF) | 9:06 |
 | 153 | [The Spirit's In It](https://open.spotify.com/track/2fmS1ybrUOJPyGzo4JxvRv) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:49 |
 | 154 | [Glad \- Remastered 2010](https://open.spotify.com/track/2xBLkPs9JUgDRL4cOxb0oN) | [Traffic](https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF) | [John Barleycorn Must Die Deluxe Edition](https://open.spotify.com/album/6wDCNTOXnKI8E4WrsdeJH9) | 6:59 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MCw5ZTlmZmY0YjM2OWNhMmEzZmE3MzMzN2M5ZWU3N2I2OTU3Njg5YTI5`
+Snapshot ID: `MCwyM2Y2MDQ1ZWU4N2IxMzkxMjQyNjliNzM3NjVjZTJlYTZmNmIwOTRm`

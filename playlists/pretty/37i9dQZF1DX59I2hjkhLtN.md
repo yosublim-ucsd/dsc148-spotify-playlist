@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,287 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,317 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [MARIPOSA](https://open.spotify.com/track/7iXvDTsQSHA88hLA0j29QX) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Icaro](https://open.spotify.com/artist/7qQEuTCea0daGR9iutPPNS), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [MARIPOSA](https://open.spotify.com/album/1Ue8MJN201kQAwuPCLY26g) | 2:51 |
 | 100 | [VROOM](https://open.spotify.com/track/1ZOyOWkGCBAN2U9ZmAppxb) | [Pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [VROOM](https://open.spotify.com/album/6H18k544VuI9Fkev41Vypn) | 2:17 |
 
-Snapshot ID: `MCxjMWMxNjc2NGFjYTk1NTBiODJjYjVlOGE5YzZlNzk3YTBhZGIwZGJk`
+Snapshot ID: `MCw2OWNjZWFmZDk1YWUzMjhhZWRkMGQ1YThhMDg5ZjJiNDNkMjIyOTM1`

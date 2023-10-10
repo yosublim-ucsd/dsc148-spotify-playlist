@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Georgio, Patrick Watson
 
-2,086 songs - 4 day 15 hr 26 min
+2,087 songs - 4 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1373,7 +1373,7 @@
 | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/track/4JWcNs4BNjjGJqSArbbe2P) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/album/6HSDmPm3qHHh8V7EldYCys) | 3:30 | 2023-09-08 | 2023-09-16 |
 | [O H N A](https://open.spotify.com/track/5FCqxCBtKuHSVn8UBaQ5cn) | [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [O H N A](https://open.spotify.com/album/4GS5hqmVK3qJmTr22KHNea) | 3:20 | 2022-07-01 | 2022-07-16 |
 | [OG Gang](https://open.spotify.com/track/6U8gy0hqd1kF53sILUYFPS) | [MonMon](https://open.spotify.com/artist/2MUhto1HVbmHfpVKwRPwlZ), [Ruffneck](https://open.spotify.com/artist/5EqZfRDXWH1w0m6Djo5UKO), [Caya](https://open.spotify.com/artist/23vve81LSeTNBa0QtzI0nY), [Nordiqc](https://open.spotify.com/artist/33eVpx3Jm3YbG2Bf5utbVn) | [OG Gang](https://open.spotify.com/album/444efVgrIdTMZXrKqjgfH7) | 3:26 | 2022-12-02 | 2023-01-06 |
-| [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-09-01 |  |
+| [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-09-01 | 2023-10-10 |
 | [Oh, Hippocampe!](https://open.spotify.com/track/66TWpW6H7KP9aK6MtyjNeG) | [Hello Cosmo](https://open.spotify.com/artist/3QJ2aFL6EIx8B2mlkf5rtU) | [BEEP BOOP](https://open.spotify.com/album/1aIvErVdOsJ0JruL60JTyU) | 3:25 | 2022-01-28 | 2022-02-05 |
 | [OK](https://open.spotify.com/track/1IJVEPyU1JHIInI8q7Ay1T) | [Anthony Roberge](https://open.spotify.com/artist/5GJ5EP7Wf5P2uRPy33k90R) | [OK](https://open.spotify.com/album/0ukA8LvUq7CMO7i6nJDv6D) | 2:52 | 2022-09-23 | 2022-10-01 |
 | [OK](https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac) | [Culture Jam](https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [OK](https://open.spotify.com/album/6KDkAd47FLbeLIaymhkiYG) | 2:00 | 2022-08-12 | 2022-08-27 |
@@ -2017,6 +2017,7 @@
 | [Walls \(feat\. Alexe\) \[Version française\]](https://open.spotify.com/track/0IDRhxNXGasFHPPZ5hsytW) | [Nova Rose](https://open.spotify.com/artist/1zjeYt9UMrgC5kSAOHpkOz), [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Walls \(feat\. Alexe\) \[Version française\]](https://open.spotify.com/album/19ryyVVrMFAUWgBvlp4Ibx) | 2:38 | 2022-03-11 | 2022-03-18 |
 | [Walou](https://open.spotify.com/track/5gMfj4pAqq6TinFU2GIivU) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1), [Bakari](https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33) | [Walou](https://open.spotify.com/album/62Onv05VwMfxLQquNOOWHE) | 2:42 | 2022-02-18 | 2022-03-05 |
 | [Wanted You to Know](https://open.spotify.com/track/3Z1S7uxHbrgohpZPLEL02w) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Persona](https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix) | 3:26 | 2022-03-25 | 2022-04-09 |
+| [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 | 2023-10-06 |  |
 | [Washed Away \- version française](https://open.spotify.com/track/5Ij4IwxzMEP4EKNmsNlJPQ) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Washed Away](https://open.spotify.com/album/1IBzsKl6M0hAimieKpHT1E) | 3:20 | 2022-08-05 | 2022-08-27 |
 | [Water On Mars](https://open.spotify.com/track/1c82i369G9bksk2sdvXO2o) | [Lampion](https://open.spotify.com/artist/59UGzTU8yLmdOgB3TCRQak) | [Water On Mars](https://open.spotify.com/album/7FQq9kkea450G5TJPwqgZe) | 3:36 | 2022-04-08 | 2022-04-16 |
 | [Waterbending](https://open.spotify.com/track/3AvkR7UryNTBDpcgqGMiCK) | [SAULE](https://open.spotify.com/artist/49MYInJAJqPwuH2jdHVYVc), [Kenzo](https://open.spotify.com/artist/5rIiFpbheS1kxGiDdB42zw), [Hazy](https://open.spotify.com/artist/4BG3bpoakhQKEcGaRrbfOg) | [Waterbending](https://open.spotify.com/album/2LnuOz8ckmCmxA2Qzo0tMH) | 3:02 | 2023-01-06 | 2023-01-21 |

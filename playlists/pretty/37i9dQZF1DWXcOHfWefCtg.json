@@ -1,12 +1,12 @@
 {
   "description": "Soulful takes on all your Holiday favorites. Cover: James Brown",
-  "num_followers": 62720,
+  "num_followers": 62684,
   "original_name": "Soulful Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODkwOWY1ZDBmNjA3OGZhOTIwMjFjODVhZWUwMmI3YTczN2QzODcy",
+  "snapshot_id": "MCwwZTkwYWI2MWNjNjVjMjBhM2YwN2U3NGVjMzQ1NWY0MDY1OTU2MDI5",
   "tracks": [
     {
       "added_at": "2021-11-12 16:13:57",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Four Seasons Of Love (Reissue)",
-        "url": "https://open.spotify.com/album/7K5qRyPS0glYiCzgqJdEjt"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 388466,
-      "name": "Winter Melody",
-      "url": "https://open.spotify.com/track/1zHOjqf8DqjNq6OB7Y5mrF"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
         "name": "Testifyin'",
         "url": "https://open.spotify.com/album/7r20K314cjpVSBSWpAhM4N"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 136466,
       "name": "Back Door Santa",
       "url": "https://open.spotify.com/track/3pPtkupun3NGY1qm8D6UIZ"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "Four Seasons Of Love (Reissue)",
+        "url": "https://open.spotify.com/album/7K5qRyPS0glYiCzgqJdEjt"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 388466,
+      "name": "Winter Melody",
+      "url": "https://open.spotify.com/track/1zHOjqf8DqjNq6OB7Y5mrF"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
+        "name": "It's a Holiday Soul Party",
+        "url": "https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "Just Another Christmas Song (This Time I'll Sing Along)",
+      "url": "https://open.spotify.com/track/0PWxoYDj5ngr9QCUQ25lnw"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 186386,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/4FJscysNlC9Z7zXYWSTZ01"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
-        "name": "It's a Holiday Soul Party",
-        "url": "https://open.spotify.com/album/206CtiH7Yc0YfOtW2UtP7T"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "Just Another Christmas Song (This Time I'll Sing Along)",
-      "url": "https://open.spotify.com/track/0PWxoYDj5ngr9QCUQ25lnw"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/0EYrscE1q1rraauK4AHC5B"
     },
     {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "The Definitive Albert King",
+        "url": "https://open.spotify.com/album/2t2I0wHfM1Xaak5SxmzLUQ"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "Santa Claus Wants Some Loving",
+      "url": "https://open.spotify.com/track/4JnSdc5Jdmi5qbLBhYKZZd"
+    },
+    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Christmas with You",
@@ -559,38 +575,6 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "The Definitive Albert King",
-        "url": "https://open.spotify.com/album/2t2I0wHfM1Xaak5SxmzLUQ"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Santa Claus Wants Some Loving",
-      "url": "https://open.spotify.com/track/4JnSdc5Jdmi5qbLBhYKZZd"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
-        "name": "James Brown's Funky Christmas",
-        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Tit For Tat (Ain't No Taking Back)",
-      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
-    },
-    {
-      "added_at": "2021-11-12 16:13:57",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4Qa0c8WVupl3IL22pAZDdW"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 191400,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/2vETTjXh0QRlkUETTlcbOg"
+    },
+    {
+      "added_at": "2021-11-12 16:13:57",
+      "album": {
+        "name": "Christmas In Soulsville",
+        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 215426,
+      "name": "I'll Be Your Santa Baby",
+      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -627,18 +627,18 @@
     {
       "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Christmas In Soulsville",
-        "url": "https://open.spotify.com/album/1hKmCNqK4Iwxjwn0z9i8bN"
+        "name": "James Brown's Funky Christmas",
+        "url": "https://open.spotify.com/album/5IEg0oP2tkX7XGOGXyB6wM"
       },
       "artists": [
         {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 215426,
-      "name": "I'll Be Your Santa Baby",
-      "url": "https://open.spotify.com/track/01xFD1VVeCgzVricCPWgYU"
+      "duration_ms": 187026,
+      "name": "Tit For Tat (Ain't No Taking Back)",
+      "url": "https://open.spotify.com/track/6uMR7QrywhdSqhJSef3YqV"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -673,20 +673,20 @@
       "url": "https://open.spotify.com/track/4kMoIhNVzcLnstzwpeN8BB"
     },
     {
-      "added_at": "2021-11-19 05:01:00",
+      "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A"
+        "name": "Funky Funky Christmas / Soul Santa",
+        "url": "https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o"
       },
       "artists": [
         {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+          "name": "Electric Jungle",
+          "url": "https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ"
         }
       ],
-      "duration_ms": 184111,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM"
+      "duration_ms": 185826,
+      "name": "Funky Funky Christmas",
+      "url": "https://open.spotify.com/track/1tK6dIhdiPdQptlmJY9DTn"
     },
     {
       "added_at": "2021-11-12 16:13:57",
@@ -705,20 +705,20 @@
       "url": "https://open.spotify.com/track/3EYOHbUGZZcxijyyKQwuwX"
     },
     {
-      "added_at": "2021-11-12 16:13:57",
+      "added_at": "2021-11-19 05:01:00",
       "album": {
-        "name": "Funky Funky Christmas / Soul Santa",
-        "url": "https://open.spotify.com/album/4GbmWIKyhUN36L6XgASY3o"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A"
       },
       "artists": [
         {
-          "name": "Electric Jungle",
-          "url": "https://open.spotify.com/artist/3UCSKT8v1uP0wvaaLQsWbQ"
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
         }
       ],
-      "duration_ms": 185826,
-      "name": "Funky Funky Christmas",
-      "url": "https://open.spotify.com/track/1tK6dIhdiPdQptlmJY9DTn"
+      "duration_ms": 184111,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/5xuwoFhGhv1u8FnfmXjYi9"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2021-11-12 16:13:57",
       "album": {
-        "name": "What Is Christmas to You",
-        "url": "https://open.spotify.com/album/2Al7CbsoyLEIv5WPCbGYEi"
+        "name": "Merry Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62"
       },
       "artists": [
         {
-          "name": "J-Wonn",
-          "url": "https://open.spotify.com/artist/0EePyJpLbQopStamceVusG"
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
         }
       ],
-      "duration_ms": 200320,
-      "name": "What Is Christmas to You",
-      "url": "https://open.spotify.com/track/2HAOOXlES4uKuNOCp3du2l"
+      "duration_ms": 161493,
+      "name": "It Won't Be Long 'Til Christmas - Bonus Track / 2015 Mix",
+      "url": "https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I"
     }
   ],
   "unique_name": "Soulful Christmas",

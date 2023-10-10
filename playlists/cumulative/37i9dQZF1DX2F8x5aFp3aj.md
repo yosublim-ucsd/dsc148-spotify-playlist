@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-208 songs - 15 hr 39 min
+209 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 | 2021-09-28 |  |
 | [De Do Do Do, De Da Da Da \- 2003 Stereo Remastered Version](https://open.spotify.com/track/4vrfqXhxognqN4Y4cwDnCA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take: Greatest Hits \(International Version\)](https://open.spotify.com/album/11WaJQFZ4nEDa9k3L1NrGF) | 4:07 | 2021-09-28 | 2022-07-29 |
 | [Dead Man Walking](https://open.spotify.com/track/4PlXSFnsBw2yyEdWnjMIW1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Earthling](https://open.spotify.com/album/3aDzKV68K2LLFtl9XsxHaP) | 6:49 | 2021-09-28 | 2022-06-08 |
-| [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 | 2021-09-28 |  |
+| [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 | 2021-09-28 | 2023-10-10 |
 | [Desire](https://open.spotify.com/track/4B9lC39ZaRFEku3aneRmAE) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Greatest Hits, Remixes & More](https://open.spotify.com/album/2nvFSKDu3gvvHn9X11szDl) | 4:22 | 2021-09-28 | 2022-04-25 |
 | [Disappointed](https://open.spotify.com/track/2PSXD9A74a6eLlrcbR32NM) | [Public Image Ltd.](https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp) | [9](https://open.spotify.com/album/5nATjbetFLkE4EmDJneovN) | 5:34 | 2021-09-28 | 2022-07-28 |
 | [Don't Be Cruel](https://open.spotify.com/track/6A1MJbqxcHvNcT0u9qMqEP) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 3:07 | 2021-09-28 | 2022-11-13 |
@@ -66,6 +66,7 @@
 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 | 2021-09-28 |  |
 | [Driven Out](https://open.spotify.com/track/0lT3Q3GFZQCzyiwFEam4TG) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Ultimate Collection: The Fixx](https://open.spotify.com/album/2TJ2RE225ZsyLNBQBYVWr1) | 3:59 | 2021-09-28 | 2022-07-28 |
 | [Eighties](https://open.spotify.com/track/3bmdzcKPdbP32AUUF9hQUP) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Laugh? I Nearly Bought One!](https://open.spotify.com/album/0HkrY28rXvdAX5K15W2zdK) | 3:51 | 2021-09-28 | 2022-07-16 |
+| [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f) | 3:59 | 2021-09-28 |  |
 | [Eighties \- 2007 Digital Remaster](https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 3:59 | 2021-09-28 | 2023-09-02 |
 | [Electricity](https://open.spotify.com/track/1wWl4uVbtN9HJ4bOHT1M5m) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Messages: Greatest Hits](https://open.spotify.com/album/4IZK9wstD8i6zZadu4JLLN) | 3:32 | 2021-09-28 | 2022-07-29 |
 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 | 2021-09-28 |  |

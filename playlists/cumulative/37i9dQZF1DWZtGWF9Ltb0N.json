@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Forest Catcher",
+        "url": "https://open.spotify.com/album/4eYDVMTk2bvJljV85IyODK"
+      },
+      "artists": [
+        {
+          "name": "VCTRE",
+          "url": "https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Forest Catcher",
+      "url": "https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi"
+    },
+    {
+      "album": {
         "name": "Forest Creature",
         "url": "https://open.spotify.com/album/1iTJY4YpGDnJpu3rIKrXBn"
       },
@@ -5482,7 +5500,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 197180,
       "name": "NASDAQ",
       "url": "https://open.spotify.com/track/3X2jge8YW8hjqpPediTuHs"
@@ -7986,7 +8004,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 342857,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1JQAAHYcoeVsUDIhqa4FxV"
@@ -9276,7 +9294,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 195422,
       "name": "Underground - Abstrakt Sonance Remix",
       "url": "https://open.spotify.com/track/3mODHK1VtKNJOCZ6F7TAY7"

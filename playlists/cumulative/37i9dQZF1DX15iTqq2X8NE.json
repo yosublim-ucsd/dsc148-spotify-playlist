@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Logha",
+        "url": "https://open.spotify.com/album/4YNYUx2sXyYGcfNfqEc3pn"
+      },
+      "artists": [
+        {
+          "name": "Tageel",
+          "url": "https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5"
+        },
+        {
+          "name": "Swish",
+          "url": "https://open.spotify.com/artist/0CMKtAa3P8sJ6MJjs8sqPi"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Logha",
+      "url": "https://open.spotify.com/track/7GlC5zReYnDCTw5TpNIn1d"
+    },
+    {
+      "album": {
         "name": "Malaia",
         "url": "https://open.spotify.com/album/6JGHgcD5pS1JaqqTpGhOdV"
       },
@@ -1698,7 +1720,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 131000,
       "name": "Modarab",
       "url": "https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6"

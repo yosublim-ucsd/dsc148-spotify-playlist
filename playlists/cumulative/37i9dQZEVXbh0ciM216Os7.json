@@ -3644,6 +3644,14 @@
         {
           "name": "Cappadonna",
           "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "Styliztik Jones",
+          "url": "https://open.spotify.com/artist/0mwBwtIaE7RtAcr42LiJBj"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F"
         }
       ],
       "date_added": "2023-10-06",
@@ -11580,10 +11588,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 287446,
       "name": "Skyfall (Metal Version)",
       "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
+    },
+    {
+      "album": {
+        "name": "Skyfall (Metal Version)",
+        "url": "https://open.spotify.com/album/15GVwQBYsFGYaITw391EKd"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287446,
+      "name": "Skyfall (Metal Version)",
+      "url": "https://open.spotify.com/track/3Nd1FM5i5aBIXqyVyD4BOT"
     },
     {
       "album": {

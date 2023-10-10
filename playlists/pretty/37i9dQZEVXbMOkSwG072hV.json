@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 353651,
+  "num_followers": 353256,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwMTI5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwMjE2MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Counting My Blessings",
         "url": "https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Piloto",
         "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Automotivo Solitude",
         "url": "https://open.spotify.com/album/2vIyshRIVgQHLcMWqcAU2k"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0yHyFqe0f1MZXpAisMdSVb"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -109,7 +109,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Zero a Cem",
         "url": "https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG"
@@ -129,23 +145,7 @@
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "A.Mago - Playlist do Mago",
         "url": "https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Let's Go 4",
         "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "A Internet \u00c9 Toxica",
         "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "MAGR\u00c3O SUPREMO",
         "url": "https://open.spotify.com/album/6QxXpdAJWcNjwyFi9Xbewi"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Quem o Louco Entre Nos?",
         "url": "https://open.spotify.com/album/0Ay7oZUBnS34KP3NJo59Ke"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/0UOR0azT6xaBs35DqLzV47"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Mulheres Que Correm",
         "url": "https://open.spotify.com/album/5ajBCpB4gYmVKTmSRIHd8I"
@@ -353,7 +337,7 @@
       "url": "https://open.spotify.com/track/69BDkdG5O2JB5e1ZbvMEjO"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Le Monde (From Talk to Me)",
         "url": "https://open.spotify.com/album/0RBFL7NYfHslFXlYrVwtir"
@@ -369,23 +353,7 @@
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Passa L\u00e1 em Casa Jesus",
-        "url": "https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 294122,
-      "name": "Passa L\u00e1 em Casa Jesus",
-      "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
@@ -401,23 +369,23 @@
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
-        "name": "Olho Encharcado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Jwx9YKfrU3RV4Yya8bEmg"
+        "name": "Passa L\u00e1 em Casa Jesus",
+        "url": "https://open.spotify.com/album/61yf8smjeBzEwUNuJRWV4U"
       },
       "artists": [
         {
-          "name": "Heitor e Murilo",
-          "url": "https://open.spotify.com/artist/28nq89OjJTepzEqPnziinT"
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
         }
       ],
-      "duration_ms": 209139,
-      "name": "Olho Encharcado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
+      "duration_ms": 294122,
+      "name": "Passa L\u00e1 em Casa Jesus",
+      "url": "https://open.spotify.com/track/7qKr6x5EXFDxI5Ei6Xfaqj"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "LOVELY BASTARDS",
         "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
@@ -437,7 +405,23 @@
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Olho Encharcado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Jwx9YKfrU3RV4Yya8bEmg"
+      },
+      "artists": [
+        {
+          "name": "Heitor e Murilo",
+          "url": "https://open.spotify.com/artist/28nq89OjJTepzEqPnziinT"
+        }
+      ],
+      "duration_ms": 209139,
+      "name": "Olho Encharcado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GXrKLzDyWYJnD2TbgvKiN"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Funktroit",
         "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
@@ -465,27 +449,7 @@
       "url": "https://open.spotify.com/track/3hfCle1QRfbwIpQ1B746lV"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "S\u00f3 Deus",
-        "url": "https://open.spotify.com/album/13L5BLI0Z340LZbIFPSuKw"
-      },
-      "artists": [
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        },
-        {
-          "name": "\u00c9aBest",
-          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
-        }
-      ],
-      "duration_ms": 221860,
-      "name": "S\u00f3 Deus",
-      "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "AUTOMOTIVO MORRO DO SAPO",
         "url": "https://open.spotify.com/album/7xlFk7uWA9VEjmokaj30WS"
@@ -517,23 +481,27 @@
       "url": "https://open.spotify.com/track/150zX7fhfeBsCOuiSuvwMo"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
-        "name": "Wintersaga",
-        "url": "https://open.spotify.com/album/41qphLDtonmyZmvO5gnoui"
+        "name": "S\u00f3 Deus",
+        "url": "https://open.spotify.com/album/13L5BLI0Z340LZbIFPSuKw"
       },
       "artists": [
         {
-          "name": "Wind Rose",
-          "url": "https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz"
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
         }
       ],
-      "duration_ms": 315986,
-      "name": "Diggy Diggy Hole",
-      "url": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY"
+      "duration_ms": 221860,
+      "name": "S\u00f3 Deus",
+      "url": "https://open.spotify.com/track/6n7aenCg07XnW4WP9pdTk8"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Escolhas, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/11qlIDOQZL29irxNzTmZpR"
@@ -549,43 +517,7 @@
       "url": "https://open.spotify.com/track/3BBZb18SMtr0S1bSk7wNTr"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "LUAN CITY 2.0 - FASE 2",
-        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "MULHER SEGURA - Ao Vivo",
-      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "liga\u00e7\u00f5es de alma",
-        "url": "https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 179725,
-      "name": "liga\u00e7\u00f5es de alma",
-      "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Montagem Celestial de Atenas",
         "url": "https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50"
@@ -605,7 +537,27 @@
       "url": "https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "liga\u00e7\u00f5es de alma",
+        "url": "https://open.spotify.com/album/2iPtZn1xs1U1uL5VsNxY2a"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 179725,
+      "name": "liga\u00e7\u00f5es de alma",
+      "url": "https://open.spotify.com/track/3RZ84nOV92gBOQc1iIdIez"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Agudo M\u00e1gico 4",
         "url": "https://open.spotify.com/album/5A6i6FT6QjGhTUQaXk2TAb"
@@ -629,7 +581,23 @@
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "LUAN CITY 2.0 - FASE 2",
+        "url": "https://open.spotify.com/album/3HZoYUVz3aRNa7xL8LIg8Y"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "MULHER SEGURA - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KhLYwYVhi13hMhxX73m55"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "\u00c9 Tes\u00e3o ou \u00c9 Amor",
         "url": "https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s"
@@ -653,27 +621,7 @@
       "url": "https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Back for More (with Anitta)",
-        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 131037,
-      "name": "Back for More (with Anitta)",
-      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "BAILE",
         "url": "https://open.spotify.com/album/0PsH3WANJaTcff9FpPDE6i"
@@ -697,7 +645,43 @@
       "url": "https://open.spotify.com/track/546KHf7B5TeIifYB1gVZ9E"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Back for More (with Anitta)",
+        "url": "https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Outra Dose",
         "url": "https://open.spotify.com/album/3Ze64dzX2z1Homi91r8uOi"
@@ -713,7 +697,59 @@
       "url": "https://open.spotify.com/track/3F8PQnGC8dMj6RHoUTxiOm"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "TUCA DONKA",
+        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
+      },
+      "artists": [
+        {
+          "name": "CURSEDEVIL",
+          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Skorde",
+          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
+        }
+      ],
+      "duration_ms": 75692,
+      "name": "TUCA DONKA",
+      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Tropa dos Covardes",
+        "url": "https://open.spotify.com/album/1Bhv4t6oi6TmXViyO9ZvIR"
+      },
+      "artists": [
+        {
+          "name": "Vinicius Cavalcante",
+          "url": "https://open.spotify.com/artist/65bbpBkkAHZOAwSYE1pKpk"
+        },
+        {
+          "name": "MATHEUS LACERDA",
+          "url": "https://open.spotify.com/artist/3rhakTNPxErgnHr3q6hUmp"
+        },
+        {
+          "name": "DJ JEFINHO 062",
+          "url": "https://open.spotify.com/artist/2qOkka1IztYKtVxyIUdwbr"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 134485,
+      "name": "Tropa dos Covardes",
+      "url": "https://open.spotify.com/track/3AlJeYu0F3gbttq276kBcM"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Meu Nome N\u00e3o \u00e9 Igor %",
         "url": "https://open.spotify.com/album/3lyZheF7IyPnFduYqBJHMI"
@@ -765,95 +801,7 @@
       "url": "https://open.spotify.com/track/62W2f0QOg20ufNjJQHqnkq"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Tropa dos Covardes",
-        "url": "https://open.spotify.com/album/1Bhv4t6oi6TmXViyO9ZvIR"
-      },
-      "artists": [
-        {
-          "name": "Vinicius Cavalcante",
-          "url": "https://open.spotify.com/artist/65bbpBkkAHZOAwSYE1pKpk"
-        },
-        {
-          "name": "MATHEUS LACERDA",
-          "url": "https://open.spotify.com/artist/3rhakTNPxErgnHr3q6hUmp"
-        },
-        {
-          "name": "DJ JEFINHO 062",
-          "url": "https://open.spotify.com/artist/2qOkka1IztYKtVxyIUdwbr"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 134485,
-      "name": "Tropa dos Covardes",
-      "url": "https://open.spotify.com/track/3AlJeYu0F3gbttq276kBcM"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "TUCA DONKA",
-        "url": "https://open.spotify.com/album/27XmqsKeLyr5jDURAordcd"
-      },
-      "artists": [
-        {
-          "name": "CURSEDEVIL",
-          "url": "https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt"
-        },
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        },
-        {
-          "name": "Skorde",
-          "url": "https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj"
-        }
-      ],
-      "duration_ms": 75692,
-      "name": "TUCA DONKA",
-      "url": "https://open.spotify.com/track/7bxyNLXYaEYaZTxAuQTHlD"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
-        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 178251,
-      "name": "Quase Algo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Canudinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 124511,
-      "name": "Canudinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Eu Tive um Amor",
         "url": "https://open.spotify.com/album/2oNex42DWN25uuZ8kFX6qI"
@@ -877,23 +825,43 @@
       "url": "https://open.spotify.com/track/7t4ZSYEeqNFJbT6bWOf1G9"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
+        "name": "To Be (Ao Vivo Em Nova Iorque EP1)",
+        "url": "https://open.spotify.com/album/5WeYemRNOgJ1sfcXJcgf6N"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
         }
       ],
-      "duration_ms": 239727,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"
+      "duration_ms": 178251,
+      "name": "Quase Algo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zW6JV4aqhXpbfZLZyEFvP"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Canudinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w5McUqm1LoGFBynpndS6x"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 124511,
+      "name": "Canudinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6AENBD8I0mDGglFqrRZGu7"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Eis-Me Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/15vOZJnc9qTDffH6nXuA45"
@@ -909,7 +877,43 @@
       "url": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 239727,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1UVquahdeg6mRYDTHFKRx0"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Poemas Para Quem Chora",
         "url": "https://open.spotify.com/album/4YB4alzxPxTm8VQZ2fXw5M"
@@ -933,27 +937,7 @@
       "url": "https://open.spotify.com/track/5BLShRvEy6OQNXzkawWLvj"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
         "url": "https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL"
@@ -981,23 +965,7 @@
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
@@ -1025,7 +993,23 @@
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Quer Ser Minha Atriz [Remix Funk RJ]",
         "url": "https://open.spotify.com/album/61bnAZo53stAlV7Moq5pEM"
@@ -1053,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
         "url": "https://open.spotify.com/album/2Fxs8GgpPujcs44vbH4SFn"
@@ -1077,7 +1061,7 @@
       "url": "https://open.spotify.com/track/7gRzoWCpcfSs2yU9XeOhlh"
     },
     {
-      "added_at": "2023-10-08 11:33:50",
+      "added_at": "2023-10-09 11:10:16",
       "album": {
         "name": "Seresta do HC",
         "url": "https://open.spotify.com/album/0weCyG86wSE0Ku7UUmkuKh"
@@ -1091,6 +1075,26 @@
       "duration_ms": 192496,
       "name": "P\u00e1ssaro Noturno",
       "url": "https://open.spotify.com/track/2u48ajpRLBg0tmVwJ9kQpy"
+    },
+    {
+      "added_at": "2023-10-09 11:10:16",
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Ela - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

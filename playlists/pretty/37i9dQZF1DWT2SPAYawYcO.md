@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,399 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,185 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Promises](https://open.spotify.com/track/0CPQuLqXxxx5PXHIXWV91u) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Promises](https://open.spotify.com/album/7hRioMLO2cpK6kbhUh9GMN) | 4:04 |
 | 95 | [All My Friends Hate Me](https://open.spotify.com/track/03m467XlcAzQFP4grnIMRV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All My Friends Hate Me](https://open.spotify.com/album/0dZKvHf8KIeuRFKa2UKntu) | 3:44 |
 
-Snapshot ID: `MCxjOGQ5ZTM1M2ZjMDdkNGU5MWQxNmJkNjk4YmNmMTRlZTMxNGYxZDhk`
+Snapshot ID: `MCw4NmRjNWRmZDI4OTI5NTBmYTRiOTZiNTMyMjBkMmY0ZjQ2MmNkY2Uy`

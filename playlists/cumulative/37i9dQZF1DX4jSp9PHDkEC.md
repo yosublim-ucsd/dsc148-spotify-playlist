@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-323 songs - 21 hr 35 min
+325 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 | 2023-01-17 |  |
 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2023-01-17 |  |
 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 | 2023-01-17 |  |
+| [Chariot](https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [B\-Sides and Rarities](https://open.spotify.com/album/2K3XaSsGQ9Bxxr7byYAcrO) | 5:16 | 2023-01-17 |  |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-01-17 |  |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2023-01-17 |  |
 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 | 2023-01-17 |  |
@@ -70,6 +71,7 @@
 | [Curse of the Contemporary](https://open.spotify.com/track/1ceNLWlSQNgh7sfkkIzeTJ) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [Curse of the Contemporary](https://open.spotify.com/album/4cjB9RgCy5DcRCKcXImyc1) | 4:13 | 2023-01-17 |  |
 | [Curtain Call](https://open.spotify.com/track/0cme8prmZWB5dDYPvKDPZS) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:40 | 2023-01-17 |  |
 | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [D>E>A>T>H>M>E>T>A>L](https://open.spotify.com/album/2MASm01cgG0a0CgioQpe6Q) | 4:21 | 2023-04-13 |  |
+| [Dancing with Ghosts](https://open.spotify.com/track/3p6I4l3hGWwyccQ4nR6FkP) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:59 | 2023-10-10 |  |
 | [Dark Side of the Gym](https://open.spotify.com/track/5nKH6bOVogJdgfH031s1P1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:50 | 2023-01-17 |  |
 | [Darkest Hour](https://open.spotify.com/track/4mSOKJKJaMyrvS4zVZbv3P) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [ross.](https://open.spotify.com/album/0lXfuLWOpIe6yM45chrvUJ) | 2:59 | 2023-01-17 |  |
 | [Day of Show](https://open.spotify.com/track/2oFqgwZRjXahTcmjNYIn9w) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 4:15 | 2023-01-17 |  |
@@ -131,7 +133,7 @@
 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 | 2023-09-07 |  |
 | [How To Fight](https://open.spotify.com/track/7AlwyhnJAZgtIsm1GnEU3I) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Phoenix: Flames Are Dew Upon My Skin](https://open.spotify.com/album/3Vx5QNqKwq4mjSViR9B9b2) | 3:31 | 2023-01-17 |  |
 | [Hunting Shadows \(Assassin's Creed\)](https://open.spotify.com/track/1aYGPbw7A1JKDuXyuSMQ4Z) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Hunting Shadows \(Assassin's Creed\)](https://open.spotify.com/album/6HzGOjwwke7sTbZrSf4Et9) | 2:56 | 2023-01-17 |  |
-| [Hurts to Love](https://open.spotify.com/track/0fiIn2xXLYtvYU7De5bZNH) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:05 | 2023-01-17 |  |
+| [Hurts to Love](https://open.spotify.com/track/0fiIn2xXLYtvYU7De5bZNH) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:05 | 2023-01-17 | 2023-10-10 |
 | [I Just Want to Make It New With You](https://open.spotify.com/track/5bWho8zTNyxjbxVZPacKaL) | [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [I Thought I Was an Alien](https://open.spotify.com/album/5j1fOdeSPZqREZNTi3n0Hg) | 2:19 | 2023-01-17 |  |
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2023-01-17 |  |
 | [I Ran with You](https://open.spotify.com/track/6jLB84m87S876ZPREIZ4bB) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Angel in Disguise](https://open.spotify.com/album/1q9lxxSQmnnSMZ9b1CJelm) | 3:10 | 2023-01-17 |  |
@@ -170,7 +172,7 @@
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2023-01-17 | 2023-09-26 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-17 |  |
 | [Losing My Religion](https://open.spotify.com/track/1KKO7lAg5RTGYaTJkkZC9E) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Thief](https://open.spotify.com/album/2WA5txUH1i8QHvOh9ptsWh) | 4:06 | 2023-01-17 |  |
-| [Lost Moon](https://open.spotify.com/track/5uyTTYvJ820qJUan2gNTXI) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [I Can Feel the Night Around Me](https://open.spotify.com/album/58idVWfPZQgTcAXcDw2REd) | 5:56 | 2023-01-17 |  |
+| [Lost Moon](https://open.spotify.com/track/5uyTTYvJ820qJUan2gNTXI) | [Nightlands](https://open.spotify.com/artist/6j1PJ7qiMlHAzkyPN3ldN6) | [I Can Feel the Night Around Me](https://open.spotify.com/album/58idVWfPZQgTcAXcDw2REd) | 5:56 | 2023-01-17 | 2023-10-10 |
 | [Love in Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love in Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 | 2023-01-17 |  |
 | [Love More](https://open.spotify.com/track/6wleKOJoHGaOPtJJWvJes6) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Love More](https://open.spotify.com/album/6CKCSM8cVK7JfKYptn3FU4) | 4:32 | 2023-01-17 |  |
 | [Love Without Possession](https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un) | [Scout LaRue Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [Love Without Possession](https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL) | 4:01 | 2023-01-17 |  |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia Emo",
+        "url": "https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi"
+      },
+      "artists": [
+        {
+          "name": "Hateen",
+          "url": "https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "1997",
+      "url": "https://open.spotify.com/track/2SBSgVWnqwk7jUNk22f36s"
+    },
+    {
+      "album": {
         "name": "Procedimentos De Emerg\u00eancia",
         "url": "https://open.spotify.com/album/4NaA4eHOxha0RFS6JOseGu"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 189893,
       "name": "1997",
       "url": "https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx"
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia Emo",
+        "url": "https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi"
+      },
+      "artists": [
+        {
+          "name": "Fake Number",
+          "url": "https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241053,
+      "name": "Aquela M\u00fasica",
+      "url": "https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ"
+    },
+    {
+      "album": {
         "name": "Fake Number",
         "url": "https://open.spotify.com/album/04i0cENGYqgTl3Snbe29eo"
       },
@@ -142,7 +178,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 241053,
       "name": "Aquela M\u00fasica",
       "url": "https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU"

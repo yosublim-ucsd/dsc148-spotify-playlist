@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Roberta Campos
 
-555 songs - 1 day 8 hr 58 min
+556 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-11-05 |
 | [o sabiá e a lua](https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [alma doce](https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW) | 2:49 | 2023-10-06 |  |
 | [O Santo](https://open.spotify.com/track/1zxm61HerdbLuLS0vYC1rB) | [Tuia](https://open.spotify.com/artist/615dqZYNvr6ZImSbS7e1wk), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Semente Que o Amor Dará](https://open.spotify.com/album/36zbE3XAgAy3nocVJ2CUJb) | 4:17 | 2022-04-15 | 2022-04-21 |
-| [O SILÊNCIO DAS ESTRELAS](https://open.spotify.com/track/2cnpnzGvxjBMJxuciIrXkJ) | [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4) | [SOLAR](https://open.spotify.com/album/5bCIg0ZHl5Tx6cr90tdlXS) | 4:22 | 2023-06-02 |  |
+| [O SILÊNCIO DAS ESTRELAS](https://open.spotify.com/track/2cnpnzGvxjBMJxuciIrXkJ) | [Vanessa Moreno](https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4) | [SOLAR](https://open.spotify.com/album/5bCIg0ZHl5Tx6cr90tdlXS) | 4:22 | 2023-06-02 | 2023-10-10 |
 | [O Sopro do Fole](https://open.spotify.com/track/3u2zL0NVgyrGn0dJI5n5zM) | [Zeca Veloso](https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z) | [O Sopro do Fole](https://open.spotify.com/album/3v6uTEyHsueFdVlJ5bWrNR) | 3:24 | 2022-04-29 | 2022-08-27 |
 | [O Velho e a Flor](https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [O Velho e a Flor](https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL) | 2:41 | 2022-09-23 | 2022-12-24 |
 | [On](https://open.spotify.com/track/6fNIIn7mvtk8KTFfDmJg33) | [Helena Elis](https://open.spotify.com/artist/3y7NTFmQJAIppuorbtiOLD) | [On](https://open.spotify.com/album/61gHYxPnh0tUGRSW7yZ1s6) | 3:25 | 2023-01-06 | 2023-03-12 |
@@ -509,6 +509,7 @@
 | [Teus Olhos em Mim](https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm) | [Mariene De Castro](https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN), [Roberto Mendes](https://open.spotify.com/artist/4vxTGeI4eFlHrekGPKgL8V) | [Teus Olhos em Mim](https://open.spotify.com/album/0IYDM5cNdsuyjYD1jZ4Ubm) | 3:02 | 2023-07-07 | 2023-09-02 |
 | [Tierra y Libertad](https://open.spotify.com/track/1v5amLirubYr1CQOkrNmsl) | [Tata Chama & as Inflamáveis](https://open.spotify.com/artist/1DXnEMg5F1rqTqHk2rvb90), [Nicolle Bello](https://open.spotify.com/artist/3ZvIw3z4IgU2Ny3qQwUE28), [Léa Duez](https://open.spotify.com/artist/4ORSBeRnOlNMViCmKmKE2G) | [Fogo Fátuo](https://open.spotify.com/album/29rSPnCvudiEBGMj6YQ7vp) | 3:58 | 2022-10-07 | 2022-11-12 |
 | [Tigresa \- Ao Vivo no Coala Festival 2022](https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Coala.Records](https://open.spotify.com/artist/6JtpXINM32BgJ6MAJt6dCD), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Ao Vivo no Coala Festival 2022](https://open.spotify.com/album/3L8EgCNxi6FElAJgmy9KiO) | 4:24 | 2023-04-15 |  |
+| [Tiramisù](https://open.spotify.com/track/6MFDT82605T8TS1pkZNM9v) | [Tiramisù](https://open.spotify.com/artist/1G3FPBmMxwiwkzhd0zIS3U), [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM), [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs), [felipe fernandes](https://open.spotify.com/artist/6giujErjvzyeiG8Yi69khV) | [Tiramisù](https://open.spotify.com/album/1im365PiyIdcKbl3spm4EC) | 2:48 | 2023-10-09 |  |
 | [Tocando Em Frente](https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU) | [Renato Teixeira](https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI), [Raimundo Fagner](https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2), [Almir Sater](https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP) | [Tocando Em Frente](https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9) | 4:03 | 2021-12-24 |  |
 | [Toda Beleza](https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:06 | 2023-03-11 | 2023-04-29 |
 | [Toda Manhã](https://open.spotify.com/track/6lmSM41n29qLnp4dnawFSS) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Toda Manhã](https://open.spotify.com/album/71bzvUqB464u17RWMKkPOu) | 3:41 | 2021-12-24 | 2022-02-10 |

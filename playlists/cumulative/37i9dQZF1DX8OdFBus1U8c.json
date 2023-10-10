@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 226438,
       "name": "AARDA?",
       "url": "https://open.spotify.com/track/5Nx5RNHYpFCV4LgyHcRqeq"
@@ -965,6 +965,28 @@
     },
     {
       "album": {
+        "name": "Koode Thullu",
+        "url": "https://open.spotify.com/album/1AVtNIwxSSo0pJrPwFuJq5"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Koode Thullu",
+      "url": "https://open.spotify.com/track/2GbsYQkwNsUufkGz5HK4Yz"
+    },
+    {
+      "album": {
         "name": "King of Kotha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/44fj4q4kFinawqSkHAebkZ"
       },
@@ -1679,6 +1701,40 @@
     },
     {
       "album": {
+        "name": "Polika Polika (From \"Chaaver\")",
+        "url": "https://open.spotify.com/album/2FxP9wgxKBS9TubbPpTtJx"
+      },
+      "artists": [
+        {
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+        },
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Santhosh Varma",
+          "url": "https://open.spotify.com/artist/57muzX4Ow2NbBL4nOa5bvp"
+        },
+        {
+          "name": "Hareesh Mohanan",
+          "url": "https://open.spotify.com/artist/6fdwZleGxZSd7v8A3SNoci"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284666,
+      "name": "Polika Polika - From \"Chaaver\"",
+      "url": "https://open.spotify.com/track/7gpVfeBCNGiSBeLenyzNqz"
+    },
+    {
+      "album": {
         "name": "Poralikal",
         "url": "https://open.spotify.com/album/0JsO6jG4H4NOHyDZ21grXa"
       },
@@ -1862,7 +1918,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 150855,
       "name": "Scoot Scoot (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb"
@@ -1968,7 +2024,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 130500,
       "name": "Therapara",
       "url": "https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS"
@@ -2162,7 +2218,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 214076,
       "name": "Vere Level",
       "url": "https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs"

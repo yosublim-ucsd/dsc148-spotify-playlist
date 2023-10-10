@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 237000,
       "name": "Fire Bird",
       "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
@@ -596,6 +596,24 @@
       "duration_ms": 242933,
       "name": "Koakuma LOVE",
       "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Shioriko Mifune (CV: Moeka Koizumi)",
+          "url": "https://open.spotify.com/artist/3hVNHMjYAkdcgYgqxXy1G3"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Kofukuron",
+      "url": "https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1"
     },
     {
       "album": {

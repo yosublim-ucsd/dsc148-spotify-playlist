@@ -1,12 +1,12 @@
 {
   "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=pk0hGHdJQMKTKVFyaPULLA\">Karlien Van Jaarsveld</a>  ",
-  "num_followers": 84003,
+  "num_followers": 84036,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2VhZjBkZWJlMDQ5NmQwMDA1NDczNTc1NzQ2OTY2MDBiYTg0NTdl",
+  "snapshot_id": "MCxjOGExMTAyYTkyNzg3NTJkYmRjZGZiOTdiNGUxNThhMjIxMjAxMGEx",
   "tracks": [
     {
       "added_at": "2023-09-21 21:59:00",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
+      "added_at": "2023-08-10 21:59:00",
+      "album": {
+        "name": "Boer In My Hart",
+        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Boer In My Hart",
+      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+    },
+    {
       "added_at": "2023-06-29 21:59:00",
       "album": {
         "name": "Foto's",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Vuur En Vlam",
-        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
-      },
-      "artists": [
-        {
-          "name": "VAN WEST",
-          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Vuur En Vlam",
-      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "SySoen",
         "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
       },
@@ -465,10 +465,10 @@
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
-      "added_at": "2023-08-10 21:59:00",
+      "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Boer In My Hart",
-        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+        "name": "Vuur En Vlam",
+        "url": "https://open.spotify.com/album/2CDlluXHThuUPyHFOP7PZK"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
         }
       ],
-      "duration_ms": 230163,
-      "name": "Boer In My Hart",
-      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
+      "duration_ms": 165173,
+      "name": "Vuur En Vlam",
+      "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
     },
     {
       "added_at": "2023-06-29 21:59:00",

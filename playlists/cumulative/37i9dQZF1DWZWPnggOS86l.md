@@ -4,18 +4,20 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Di Ferrero \(NXZero\)
 
-61 songs - 3 hr 32 min
+63 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$Onho$ Vazios de Preenchimento](https://open.spotify.com/track/01hzi86HOA67Fz6Wfzoqtg) | [fullheart](https://open.spotify.com/artist/6sWR2TvEwkQcCBXLxQkOnw) | [Algo Sobre Nós](https://open.spotify.com/album/2A74JVfUF5GlG3JmED3ef7) | 3:18 | 2023-03-02 |  |
-| [1997](https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Procedimentos De Emergência](https://open.spotify.com/album/4NaA4eHOxha0RFS6JOseGu) | 3:09 | 2023-03-02 |  |
+| [1997](https://open.spotify.com/track/2SBSgVWnqwk7jUNk22f36s) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 3:09 | 2023-10-06 |  |
+| [1997](https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Procedimentos De Emergência](https://open.spotify.com/album/4NaA4eHOxha0RFS6JOseGu) | 3:09 | 2023-03-02 | 2023-10-10 |
 | [Aline](https://open.spotify.com/track/3GQKKCHtuRkS7RstsgWNJU) | [Skore](https://open.spotify.com/artist/5SMpPc5vINO0XkZFRkRxfw) | [Colisão](https://open.spotify.com/album/28HVFzRC5Qx8ul4pk8Z0cW) | 2:56 | 2023-03-02 |  |
 | [Aniversários São Difíceis](https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY) | [El Toro Fuerte](https://open.spotify.com/artist/2YElQs97LTX6gn5Td89FaQ) | [Nossos Amigos e os Lugares Que Visitamos](https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL) | 6:21 | 2023-03-02 |  |
 | [Anteontem](https://open.spotify.com/track/4bdpZyVOz99woYjNTjF6ls) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 3:04 | 2023-03-02 |  |
 | [Apenas um Olhar](https://open.spotify.com/track/18KBYXlqr1PLiNSrcU1kca) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Diálogo?](https://open.spotify.com/album/7eQYsqda2CUZK5ju1KWQEg) | 3:20 | 2023-03-02 |  |
 | [Apenas Um Olhar](https://open.spotify.com/track/426L7E54VX2SMtiUq8su9S) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [NX Zero](https://open.spotify.com/album/36XdECqksmPP6MsEOjW6lG) | 3:35 | 2023-03-02 |  |
-| [Aquela Música](https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Fake Number](https://open.spotify.com/album/04i0cENGYqgTl3Snbe29eo) | 4:01 | 2023-03-02 |  |
+| [Aquela Música](https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 4:01 | 2023-10-06 |  |
+| [Aquela Música](https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Fake Number](https://open.spotify.com/album/04i0cENGYqgTl3Snbe29eo) | 4:01 | 2023-03-02 | 2023-10-10 |
 | [As Cores](https://open.spotify.com/track/3LQiSlultMCKcbGYWXmFvt) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Flashback](https://open.spotify.com/album/2p0nOVuLQbbAdXNKiaw48R) | 3:54 | 2023-03-02 |  |
 | [Asas Fracas](https://open.spotify.com/track/6QB2atTwm7DpkmPwJH3w7L) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Gloria](https://open.spotify.com/album/7czSPeqnlYBszPJFxiRO86) | 2:45 | 2023-03-02 |  |
 | [Asma](https://open.spotify.com/track/6zK9J2D3LAtDqfJmblD2P2) | [Visconde](https://open.spotify.com/artist/0ScxxqjnVMeXYqPl5AavFd) | [Visconde](https://open.spotify.com/album/6XiK7cPd6XqlyiPN7NjTJO) | 3:46 | 2023-03-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Christina Salti
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,611 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,648 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Sugar Daddy](https://open.spotify.com/track/1SGJ9w1MipFc5HsghF5x4Y) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Sugar Daddy](https://open.spotify.com/album/0RJ1q6JNGkmM2zdPcbTCSt) | 2:47 |
 | 50 | [Anthismeno Kefali](https://open.spotify.com/track/3FNpoQXkWOjIpeE60qMEiV) | [Evridiki](https://open.spotify.com/artist/0WxbpUPH6SN75TSFAj3MAa), [Afanhs Hrwas](https://open.spotify.com/artist/0btMUAA4feVB0QQe32XC45) | [Anthismeno Kefali](https://open.spotify.com/album/6b8sCji5GeCCG3LZRP5EB3) | 3:46 |
 
-Snapshot ID: `MCw3OTBjN2JkODQzZGIzZjM4Nzk0MWFjZTk0YzU2OGNhOTZhODlhNjQ2`
+Snapshot ID: `MCw4NDUyMjNmNjNhMjU4MzAyY2E1YjkyMzY2Y2UyMjU4ZTVmMzdlMGNi`

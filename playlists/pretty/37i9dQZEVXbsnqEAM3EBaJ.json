@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwMjAsMDAwMDAwMDBkZDU3NjQ3ODQ5ZGM5NmJkNzFlMjBkNTAwZmQ1MTIxMw==",
+  "snapshot_id": "MjgyNzYwMjAsMDAwMDAwMDA3Zjc1MTQwNjQ1MDIxZjljZTcyYWM4ZTA4NWE5NDE0NA==",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 204720,
-      "name": "I Won't Back Down (Live in St Paul, 9/2/2023)",
-      "url": "https://open.spotify.com/track/38UB4R3fSTZwXdvoiKvwOK"
+      "duration_ms": 508693,
+      "name": "Black (Live in St Paul, 8/31/2023)",
+      "url": "https://open.spotify.com/track/6cHKAsShpZTBbb81ipbOee"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -184,29 +184,13 @@
           "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         },
         {
-          "name": "Thomas Fehlmann",
-          "url": "https://open.spotify.com/artist/71GWL6ijlpTh7oGqYlMMpM"
+          "name": "MPIA3",
+          "url": "https://open.spotify.com/artist/2QAqNriCEYXQGX9yaMNHc7"
         }
       ],
-      "duration_ms": 369745,
-      "name": "Heaven - steps to heaven voxdub",
-      "url": "https://open.spotify.com/track/7kZVx2vnpCsahzVqhRluHz"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Widow",
-        "url": "https://open.spotify.com/album/4UlmQoxwNwH2atOdEz3ZSh"
-      },
-      "artists": [
-        {
-          "name": "Paradise Lost",
-          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Widow",
-      "url": "https://open.spotify.com/track/1uXAHCCoenBSWINkLfa0tU"
+      "duration_ms": 353317,
+      "name": "Should Be Higher - MPIA3 Definition",
+      "url": "https://open.spotify.com/track/1eTXEksU6g7jzvodZJqGX2"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -227,18 +211,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Hot N' Ready In Texas - Live 1979",
-        "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
+        "name": "Widow",
+        "url": "https://open.spotify.com/album/4UlmQoxwNwH2atOdEz3ZSh"
       },
       "artists": [
         {
-          "name": "UFO",
-          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+          "name": "Paradise Lost",
+          "url": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
         }
       ],
-      "duration_ms": 298514,
-      "name": "Let It Roll - Live",
-      "url": "https://open.spotify.com/track/2x0IR15vdwWuvsU9GCrobI"
+      "duration_ms": 187706,
+      "name": "Widow",
+      "url": "https://open.spotify.com/track/1uXAHCCoenBSWINkLfa0tU"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -255,6 +239,38 @@
       "duration_ms": 309400,
       "name": "When You're Gone - Paris Demo",
       "url": "https://open.spotify.com/track/1ZTMDYbT0BG43f07S5yrRR"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Hot N' Ready In Texas - Live 1979",
+        "url": "https://open.spotify.com/album/1Q9I57V80yF9uxIr5xeTIy"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "duration_ms": 298514,
+      "name": "Let It Roll - Live",
+      "url": "https://open.spotify.com/track/2x0IR15vdwWuvsU9GCrobI"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Already Over",
+        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Already Over",
+      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -311,22 +327,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Already Over",
-        "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Already Over",
-      "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
       },
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Velas Ciegas",
-        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
-      },
-      "artists": [
-        {
-          "name": "Ojal De Ajaw",
-          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
-        }
-      ],
-      "duration_ms": 173209,
-      "name": "Velas Ciegas",
-      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Live 1978 - 1992",
         "url": "https://open.spotify.com/album/0HzNGuEaCuKDmYsZACO83h"
       },
@@ -371,6 +355,38 @@
       "duration_ms": 442360,
       "name": "Portobello Belle - Extended Intro / Live At Hammersmith Odeon, London / 1983 / Mixed And Remastered 2023",
       "url": "https://open.spotify.com/track/0UwtpEJKrbCgrONqPjvcMu"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "The Dark Side of the Moon Redux",
+        "url": "https://open.spotify.com/album/2LywAZA9wrn0VmDYnkp1CU"
+      },
+      "artists": [
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "duration_ms": 456485,
+      "name": "Us and Them",
+      "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Velas Ciegas",
+        "url": "https://open.spotify.com/album/63nQGE7xONCjYGS8JCW88Q"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        }
+      ],
+      "duration_ms": 173209,
+      "name": "Velas Ciegas",
+      "url": "https://open.spotify.com/track/6FXyXeis8xGewrxuAZd0Rc"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -403,22 +419,6 @@
       "duration_ms": 222226,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/01aD8yamjTucFoioAMzrFU"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "The Dark Side of the Moon Redux",
-        "url": "https://open.spotify.com/album/2LywAZA9wrn0VmDYnkp1CU"
-      },
-      "artists": [
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        }
-      ],
-      "duration_ms": 456485,
-      "name": "Us and Them",
-      "url": "https://open.spotify.com/track/0RZicklCcsEWF4jodu8QD2"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Swan Lake Op. 20: Intermezzo (Piano arrangement by K. Kornienko)",
-        "url": "https://open.spotify.com/album/4qRac6oi9UIszAMwCDutKT"
-      },
-      "artists": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        }
-      ],
-      "duration_ms": 187236,
-      "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
-      "url": "https://open.spotify.com/track/7t41HqDyE7ZugAQZBy9aVw"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Call Your Name (Remixes)",
         "url": "https://open.spotify.com/album/01hRhyAiNnaz2SeosAXPIo"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 160500,
       "name": "Call Your Name - Andromedik Remix",
       "url": "https://open.spotify.com/track/2ZKB2c2R5pWjRJoRbpL0mR"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Swan Lake Op. 20: Intermezzo (Piano arrangement by K. Kornienko)",
+        "url": "https://open.spotify.com/album/4qRac6oi9UIszAMwCDutKT"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "duration_ms": 187236,
+      "name": "Swan Lake Op. 20 Intermezzo (Piano arrangement by K. Kornienko)",
+      "url": "https://open.spotify.com/track/7t41HqDyE7ZugAQZBy9aVw"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Amphetamine Smiles",
-        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "R\u00f6kFl\u00f6te (Alternative Mixes)",
         "url": "https://open.spotify.com/album/3uXkihtnfUMEe8zsP2RpFU"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 260413,
       "name": "Promised You A Miracle - Live From Paisley Abbey",
       "url": "https://open.spotify.com/track/6ziBfNAKx2dHDSFL5QA1FR"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Amphetamine Smiles",
+        "url": "https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Amanecer frente a tu casa",
-        "url": "https://open.spotify.com/album/4GDQAefrY2m6Uu7pAvGTrT"
-      },
-      "artists": [
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 245478,
-      "name": "Amanecer frente a tu casa",
-      "url": "https://open.spotify.com/track/4EqQFaHihl0NdXgVMp0Aox"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Death Smiles",
         "url": "https://open.spotify.com/album/1n707PSUo802nfoorSP0j5"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 159500,
       "name": "Death Smiles",
       "url": "https://open.spotify.com/track/3RqoNA5WD78DPHLNHolEve"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Amanecer frente a tu casa",
+        "url": "https://open.spotify.com/album/4GDQAefrY2m6Uu7pAvGTrT"
+      },
+      "artists": [
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 245478,
+      "name": "Amanecer frente a tu casa",
+      "url": "https://open.spotify.com/track/4EqQFaHihl0NdXgVMp0Aox"
     },
     {
       "added_at": "2023-10-06 03:00:00",

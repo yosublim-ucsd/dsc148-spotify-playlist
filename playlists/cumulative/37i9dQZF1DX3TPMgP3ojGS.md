@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,748 songs - 3 day 6 hr 20 min
+1,749 songs - 3 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,7 +577,7 @@
 | [Gentle Waltz](https://open.spotify.com/track/2zVBNZ94NII3JmBbvdrPq6) | [Saga Rosen](https://open.spotify.com/artist/1L5M0TJ4t90azMZieWzJAx) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:15 | 2021-05-22 | 2022-04-18 |
 | [Gently](https://open.spotify.com/track/2O6Iydf5216CgF3v0jTN95) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Gently](https://open.spotify.com/album/5W8DqZ91qSx6HlRDaorcaN) | 2:07 | 2021-03-18 | 2022-04-19 |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-05-24 | 2022-09-28 |
-| [Gently falling rain](https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Gently falling rain](https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c) | 2:07 | 2023-04-25 |  |
+| [Gently falling rain](https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Gently falling rain](https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c) | 2:07 | 2023-04-25 | 2023-10-10 |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-04-15 |  |
 | [Gloria](https://open.spotify.com/track/1lrgqrIxD3tDYVv6n3i1aL) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Gloria](https://open.spotify.com/album/0mKKvGleTU1k2sGIIKrRLq) | 3:39 | 2022-12-22 | 2023-04-16 |
 | [Glory of Calm](https://open.spotify.com/track/2La1EHkZt0w4ucQdQjtFu4) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Images of Now](https://open.spotify.com/album/4Fyk5yMOFNqjG2NTCksZQb) | 3:02 | 2021-03-20 | 2021-12-21 |
@@ -805,6 +805,7 @@
 | [Lament](https://open.spotify.com/track/04jLEsS47w70AeRiPU7bmg) | [Maria Holloway](https://open.spotify.com/artist/2XtdZEExbugVrGVxyXwMmM) | [Lament](https://open.spotify.com/album/2cJc6vCXrqS4mg3azEcEiY) | 2:56 | 2021-03-07 | 2021-05-09 |
 | [Lamentation for a Lost Life](https://open.spotify.com/track/77O9eTcQpYwCnANBQHjGDQ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Taboo \(Music From The Original TV Series\)](https://open.spotify.com/album/6U5z9EiIl1iBdwfzAGxS0B) | 2:21 | 2021-07-24 | 2022-04-21 |
 | [land in sight](https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [land in sight](https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3) | 3:20 | 2023-09-05 |  |
+| [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 | 2023-10-03 |  |
 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 | 2022-07-27 | 2022-10-23 |
 | [Las colinas del priorato](https://open.spotify.com/track/5mu1VAQqud9UHFLsk0u01q) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Las colinas del priorato](https://open.spotify.com/album/7cLj7vH0K6tHHwFiNTYWot) | 1:31 | 2021-12-13 | 2022-06-24 |
 | [Last Christmas](https://open.spotify.com/track/5D1cCqqEUUlbTz0mrpb1DS) | [Dana Daoud](https://open.spotify.com/artist/3fEInkI00FTKGDb69SsFjE) | [Peaceful Christmas Piano](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 2:10 | 2021-04-27 | 2021-04-28 |

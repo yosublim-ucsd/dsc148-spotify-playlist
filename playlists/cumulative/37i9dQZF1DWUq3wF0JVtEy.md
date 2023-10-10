@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-356 songs - 17 hr 24 min
+357 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Black Out](https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [Black Out](https://open.spotify.com/album/2pStTbKsMaxqbsRIgPx0r5) | 3:11 | 2021-10-29 | 2022-07-28 |
 | [Bloodstream](https://open.spotify.com/track/7BJvauk2ddcxirw5px8Wfa) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Bloodstream](https://open.spotify.com/album/3uzIdtMI1baix8yp2GeiFQ) | 2:28 | 2021-10-29 | 2022-08-06 |
 | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/track/4rqV7Gm5MApwJyHqmEl10o) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Yash](https://open.spotify.com/artist/56nH4qbcwdaa97oOxqMwYZ), [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Bohemian Like You \(feat\. Alle The Dreamer\)](https://open.spotify.com/album/4u1GOd1B9Dtf9rUiSgGoHT) | 3:24 | 2021-10-29 | 2022-08-13 |
+| [BOP](https://open.spotify.com/track/38EWBGAzdngvUofbKEj29z) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [BOP](https://open.spotify.com/album/4mbZ5Cxtlh8jOKuExFHu6o) | 2:46 | 2023-10-06 |  |
 | [Boss](https://open.spotify.com/track/6nKWZqp6hL5ROu8A6Z5Uq4) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Boss](https://open.spotify.com/album/0s9f6eCaISZJKe7krX12IS) | 3:04 | 2022-01-28 | 2022-08-12 |
 | [Breathin'](https://open.spotify.com/track/0zVVyVOnBmyh0giaGKgjFG) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [Breathin'](https://open.spotify.com/album/1uJO6EsybIY0KZXIfmXx3G) | 2:43 | 2022-02-11 | 2022-02-14 |
 | [Bring Et](https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Bring Et](https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk) | 2:22 | 2022-01-28 | 2023-09-23 |
@@ -323,7 +324,7 @@
 | [Teach Me](https://open.spotify.com/track/3pxgCftwF14lNFHeEBqYyv) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [Teach Me](https://open.spotify.com/album/08abjipelIFw9qL9SpusZn) | 2:09 | 2021-10-29 | 2022-01-05 |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-29 | 2022-08-06 |
 | [Tell Me How](https://open.spotify.com/track/4p6e7cpogv3RbcjzB1HXEZ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Faith In Chaos](https://open.spotify.com/album/2v9CsJviAEwrbViMJV2muZ) | 3:16 | 2022-03-04 | 2022-04-20 |
-| [That's Right](https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [That's Right](https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf) | 3:35 | 2023-10-06 |  |
+| [That's Right](https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [That's Right](https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf) | 3:35 | 2023-10-06 | 2023-10-10 |
 | [The Drop \- Öwnboss Remix](https://open.spotify.com/track/0Sqo0vvIRcIQBD1XuTrH69) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [The Drop \(Ownboss Remix\)](https://open.spotify.com/album/0xpfN2PvmlHbF5ki5u3RJR) | 2:56 | 2023-01-06 |  |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
 | [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 |  |

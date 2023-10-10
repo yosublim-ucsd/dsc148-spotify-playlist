@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,898 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,743 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 91 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
 | 92 | [It's a Love Thing](https://open.spotify.com/track/2cyNP0TWZP5BXjmTtWfmax) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Imagination / This Kind of Lovin'](https://open.spotify.com/album/6kdJvAnByXjtyQf6hMPUtg) | 5:09 |
 | 93 | [Razzamatazz](https://open.spotify.com/track/3QVrHveKwEblqYStYJbNop) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:15 |
-| 94 | [Don't Leave Me This Way \- A Tom Moulton Mix](https://open.spotify.com/track/7azaiXa26Qn4L7CiwTAlS4) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:05 |
+| 94 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\) \- A Tom Moulton Mix](https://open.spotify.com/track/7azaiXa26Qn4L7CiwTAlS4) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 7:05 |
 | 95 | [Take A Chance \- 1979](https://open.spotify.com/track/3QDayMeDsnn2XegzduZdrd) | [Queen Samantha](https://open.spotify.com/artist/2wCibR1juwlLNht9ZcqzeQ) | [The Letter \(Digitally Remastered\)](https://open.spotify.com/album/2nAWNc4LTIHrK4bHG9U2IO) | 7:35 |
 | 96 | [I'll Do Anything for You](https://open.spotify.com/track/3CuKcfH8BJ5The5G3llaKD) | [Denroy Morgan](https://open.spotify.com/artist/3c4YM7n144AgnZskYxraYe) | [I'll Do Anything for You](https://open.spotify.com/album/36cv4xgw65Rziqa722KT0R) | 5:05 |
 | 97 | [Down To Love Town](https://open.spotify.com/track/7LsD36exf1dVsSicJQMOKF) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Down To Love Town](https://open.spotify.com/album/7cl5Hir2NN6Yckqld72PDd) | 5:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 99 | [\#5 Go Bang! \(Francois K Mix\)](https://open.spotify.com/track/1WaeKhR5bpdmymEXM0yN1f) | [Dinosaur L](https://open.spotify.com/artist/0IebXswqiI5BInWTUqaSBw) | [24\-24 Music: The Definitive Arthur Russell Sleeping Bag Recordings](https://open.spotify.com/album/0Oq6ZorGIvnUdQKEMYYsY2) | 7:34 |
 | 100 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `MCw1ZGQ4NGYzZGY2OGQ0NzMwNjI3ZjdkNGY2MTEzZmQ4OTllMGVkNTc1`
+Snapshot ID: `MCxhNjg5NTQ4MjA3YWQ3NWY5MWYzYTU3M2JiMTdkYzYzMzdkZjYzNzU1`

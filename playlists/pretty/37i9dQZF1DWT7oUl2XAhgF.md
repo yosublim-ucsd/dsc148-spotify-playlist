@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,365 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,408 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 77 | [When I'm With You](https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [Kelsey Blackstone](https://open.spotify.com/artist/394uQRigSFiNSRbA9dismJ) | [When I'm With You](https://open.spotify.com/album/0U5ltIZ3Zyd0vqLSzFQNN9) | 2:42 |
 | 78 | [The Makings of you](https://open.spotify.com/track/5mdBYpo07zvlOTuSjooegw) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [The Makings of you](https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km) | 2:52 |
 | 79 | [Thee Only One](https://open.spotify.com/track/3T7nX7qDSC7LDPC18lWOku) | [Trish Toledo](https://open.spotify.com/artist/2ZZZ8cXLBRgiH6fiwaA0Ah), [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Thee Only One](https://open.spotify.com/album/4ztSd9IONvZJ1kq4sdDkVp) | 3:36 |
-| 80 | [On My Line](https://open.spotify.com/track/69Zsk4qDZhC0lSTHd6dcaA) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [On My Line](https://open.spotify.com/album/1ojdHKB7tifei9riIPoiLd) | 3:11 |
+| 80 | [On My Line](https://open.spotify.com/track/5gco11tZZyDMt0CW2idCAa) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [So Far So Good](https://open.spotify.com/album/1yHZrW9FsmdkcTmMdmEHDw) | 3:11 |
 | 81 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 |
 | 82 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 |
 | 83 | [X Boyfriends](https://open.spotify.com/track/3DYVCuzV31DJAgBbEo0Ae3) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [Til It’s Gone](https://open.spotify.com/album/6S8mlOlfA5EM5liaSdKruf) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 100 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 |
 
-Snapshot ID: `MCw0M2NlMDNhYjFlMzFhZGU2MzM3YmY4YzkyMWJjMmJlMGQzOWI0Zjky`
+Snapshot ID: `MCw1ZDkyOWYzN2VlNTE0YjJmMTNmODk0YzJmZDY5ZGZmODRiNTY2ZmY4`

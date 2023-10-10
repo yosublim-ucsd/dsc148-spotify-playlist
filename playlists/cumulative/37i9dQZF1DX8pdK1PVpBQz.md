@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: yergurl\. Artwork: Isu Kim
 
-2,763 songs - 6 day 7 hr 33 min
+2,764 songs - 6 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1643,6 +1643,7 @@
 | [Never Alone](https://open.spotify.com/track/5jKO0yPpJYacIhAR7jO5qL) | [Voli K](https://open.spotify.com/artist/7rb7bCVyqbUvTkwgIJuZRT) | [Never Alone](https://open.spotify.com/album/0qoGulDN0bpFDGfweUf97W) | 3:05 | 2022-03-23 | 2022-04-07 |
 | [Never Die](https://open.spotify.com/track/0cYeT2vscBBbk6GadaKD7H) | [Josie Moon](https://open.spotify.com/artist/1YhsncuaKR9RmKnXPsLsAj) | [Never Die](https://open.spotify.com/album/5b2aATvof4XUBeYwpPlQt9) | 3:16 | 2022-03-16 | 2022-04-07 |
 | [Never Drop](https://open.spotify.com/track/4o1xFmh0XveKsn4Ie04tZF) | [m8riarchy](https://open.spotify.com/artist/1SyZcNNzVu8d0K0Rmesfbt) | [Never Drop](https://open.spotify.com/album/6uHXOs0gd1Ml8ppEp1ZkAt) | 3:37 | 2022-02-16 | 2022-03-02 |
+| [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 |  |
 | [Never Follow Through](https://open.spotify.com/track/2qYYz6RbSWkdkok7PVvvke) | [TANISHA](https://open.spotify.com/artist/5ZrJiyoPJ1n2pkTTb3YyBv) | [Never Follow Through](https://open.spotify.com/album/75tsiKrmlZJ2vkdUrwgk8i) | 2:58 | 2023-03-29 | 2023-04-20 |
 | [never meant](https://open.spotify.com/track/0WOCv4otA2LXzbAVApQLLI) | [Holliday Howe](https://open.spotify.com/artist/0iV4UAD683ZDnqSHhshF9x) | [never meant](https://open.spotify.com/album/6fHwyyf8f4k4HmRUCshyCM) | 2:51 | 2023-06-07 | 2023-06-23 |
 | [Never Saw It Coming](https://open.spotify.com/track/1mk2Yoz5X8dbjOKtGZdY96) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 3:08 | 2023-06-07 | 2023-07-13 |

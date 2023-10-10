@@ -2,7 +2,7 @@
 
 ### [Hits Français 90](https://open.spotify.com/playlist/37i9dQZF1DWXLbJb1PtkXq)
 
-> Les plus grands hits français des années 90\. Photo : Louise Attaque
+> Les plus grands hits français des années 90\. Photo: Manau
 
 50 songs - 3 hr 31 min
 

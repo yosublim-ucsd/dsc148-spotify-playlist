@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. yeule on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,389 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,387 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [NO INTENTION](https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [NO INTENTION](https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri) | 4:07 |
 | 100 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 |
 
-Snapshot ID: `MCxjYzI3ZDUyNzM3ZDkyOTE4NzNkMzZmOTM5ZTc4NGRhNGUyNWM4ZGIw`
+Snapshot ID: `MCxhZDBjMjU0NGY3MmU1OTk4Njk2ZmZkNWY5ZDBjMTE5YjM2NDdkNjJl`

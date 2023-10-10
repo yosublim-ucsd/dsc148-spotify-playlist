@@ -26594,7 +26594,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 159603,
       "name": "OH MADELEINE",
       "url": "https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc"
@@ -39112,6 +39112,24 @@
       "duration_ms": 206533,
       "name": "Wanted You to Know",
       "url": "https://open.spotify.com/track/3Z1S7uxHbrgohpZPLEL02w"
+    },
+    {
+      "album": {
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191416,
+      "name": "Warda",
+      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
     },
     {
       "album": {

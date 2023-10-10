@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-89 songs - 5 hr 24 min
+90 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 | 2021-02-17 |  |
 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 | 2021-02-17 |  |
 | [No Headstone on My Grave](https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [The Country Side Of Esther](https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm) | 3:19 | 2021-02-17 |  |
-| [No Longer Mine](https://open.spotify.com/track/1QOZhKY3dMlFrqkKcJdpjt) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/7qXtzi7Y7eOAf0tFeKxueY) | 4:35 | 2023-05-26 |  |
+| [No Longer Mine](https://open.spotify.com/track/1QOZhKY3dMlFrqkKcJdpjt) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [No Longer Mine](https://open.spotify.com/album/7qXtzi7Y7eOAf0tFeKxueY) | 4:35 | 2023-05-26 | 2023-10-10 |
 | [No Longer Mine](https://open.spotify.com/track/1yFdsXTdIIRG92zmnUIioH) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Somebody](https://open.spotify.com/album/5xftBgxyioSxBqJ8e2yzaV) | 4:35 | 2023-02-10 | 2023-09-23 |
+| [No Longer Mine](https://open.spotify.com/track/690LJ0gf9lsVPSxwHgUTHS) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:35 | 2023-05-26 |  |
 | [Polk Salad Annie](https://open.spotify.com/track/0jtz7Ia3HahOqXWnKad0rn) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Black & White](https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ) | 3:43 | 2021-02-17 |  |
 | [Pushin' Against a Stone](https://open.spotify.com/track/7meaVP9XohwubW6TqvxP4Q) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against a Stone](https://open.spotify.com/album/2ce5ND89nKxicash0FzBYq) | 5:14 | 2021-02-17 | 2022-07-29 |
 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 | 2021-02-17 |  |

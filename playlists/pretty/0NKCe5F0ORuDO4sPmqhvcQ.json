@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20936,
+  "num_followers": 20931,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1MzAsNzk0YmU1MzY4MWJiMmNhNWNiNTc3N2I0MWMyZTdiMzFjNGRiYzViNg==",
+  "snapshot_id": "MTA1MzQsZjk5NTNkNjBmYjQxNWI1ZjE2MTkyZGY1OTVlMDI4OGE5ZjU4ZjdlMA==",
   "tracks": [
     {
       "added_at": "2023-10-06 14:55:50",
@@ -2071,6 +2071,78 @@
       "duration_ms": 401427,
       "name": "F.M.T.D.",
       "url": "https://open.spotify.com/track/24wxQ6tO7NyFGV93TclK8k"
+    },
+    {
+      "added_at": "2023-10-09 18:42:18",
+      "album": {
+        "name": "WHERE2GO",
+        "url": "https://open.spotify.com/album/05JpXKWyFLYk3aHOp9tJ5y"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "WHERE2GO",
+      "url": "https://open.spotify.com/track/1AymWwYyPX5883XRNnKRnK"
+    },
+    {
+      "added_at": "2023-10-09 18:42:57",
+      "album": {
+        "name": "Hyperdust (Reimagined)",
+        "url": "https://open.spotify.com/album/5aGVY0IyU7KOe2v9mLAKsY"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "duration_ms": 238367,
+      "name": "Hyperdust - Reimagined",
+      "url": "https://open.spotify.com/track/0Jh1vCA3I7yBpoKJumWdiq"
+    },
+    {
+      "added_at": "2023-10-09 22:19:18",
+      "album": {
+        "name": "Phantom Love",
+        "url": "https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 259315,
+      "name": "Phantom Love",
+      "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
+    },
+    {
+      "added_at": "2023-10-09 22:20:46",
+      "album": {
+        "name": "Strangers (feat. Linney)",
+        "url": "https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP"
+      },
+      "artists": [
+        {
+          "name": "Young Bombs",
+          "url": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 195729,
+      "name": "Strangers (feat. Linney)",
+      "url": "https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB"
     }
   ],
   "unique_name": "Moving Castle Monthly",

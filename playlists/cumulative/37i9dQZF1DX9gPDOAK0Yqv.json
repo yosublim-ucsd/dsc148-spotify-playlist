@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/0VoOrwiOd0gp2zgDUyLQ9b"
+      },
+      "artists": [
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/28YLzGJRn8OTLZszGOo8Ef"
+    },
+    {
+      "album": {
         "name": "Boavista Remixes",
         "url": "https://open.spotify.com/album/0veMfwPekRVWazQ0YVGLPa"
       },
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 196666,
       "name": "To Hope",
       "url": "https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC"

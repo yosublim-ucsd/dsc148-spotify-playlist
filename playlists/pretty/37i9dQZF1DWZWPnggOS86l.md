@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Di Ferrero \(NXZero\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,025 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,682 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 28 | [Quebre As Correntes](https://open.spotify.com/track/0tu6BHa46Jb0Hah7QzRMBk) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 3:46 |
 | 29 | [Deixar Partir](https://open.spotify.com/track/1KO2sIVY67lHRc0jpFOkUK) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb) | [Melhores Dias](https://open.spotify.com/album/07q5ehLPieuHrOoX3GO9KF) | 3:33 |
 | 30 | [Dúvida](https://open.spotify.com/track/2MDwOOsDyBdyLUDvE1oUJw) | [IUPI](https://open.spotify.com/artist/6oVKPGpUEElMF5ianQSNUZ) | [As Viagens da Vida](https://open.spotify.com/album/2SYgoE9bAOnW9aexP0DY66) | 3:10 |
-| 31 | [Aquela Música](https://open.spotify.com/track/6SGPBkazPlEfXNMAAV0OqU) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Fake Number](https://open.spotify.com/album/04i0cENGYqgTl3Snbe29eo) | 4:01 |
+| 31 | [Aquela Música](https://open.spotify.com/track/1WxGfAHm6Fr8OH5yxaIzAJ) | [Fake Number](https://open.spotify.com/artist/20k5SIjfwIVAbfgXAhUZgg) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 4:01 |
 | 32 | [Devagar](https://open.spotify.com/track/7ikfySOHs4eIwI4qcwWJPs) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Lapso](https://open.spotify.com/album/3F572fEa36ROblaZcKDv9U) | 4:46 |
 | 33 | [Teu Semblante](https://open.spotify.com/track/6NCuCsZDu7HfitEWG0CJxc) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros](https://open.spotify.com/album/7h6Qz4Ze4DRz9qApzMweWK) | 3:28 |
 | 34 | [Piloto Automático](https://open.spotify.com/track/6EmC6JFwF0Aq92ajBPKYiO) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Amianto](https://open.spotify.com/album/1WgexL6crC80Q39HwvkyXK) | 3:17 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 45 | [Só mais uma vez](https://open.spotify.com/track/0rWn4OID3XS0ynCe3q5mUW) | [B5](https://open.spotify.com/artist/3Suq9dAvF3bHa1NYEbMXpN) | [Novo](https://open.spotify.com/album/3kNRC2TKN1BLGMtBe8Dp66) | 3:17 |
 | 46 | [Asma](https://open.spotify.com/track/6zK9J2D3LAtDqfJmblD2P2) | [Visconde](https://open.spotify.com/artist/0ScxxqjnVMeXYqPl5AavFd) | [Visconde](https://open.spotify.com/album/6XiK7cPd6XqlyiPN7NjTJO) | 3:46 |
 | 47 | [Zé Rico](https://open.spotify.com/track/6wO7hALrBKW5R0j5AbOwer) | [Debate](https://open.spotify.com/artist/5yZRDKk8TfOSxah2NFpnEG) | [EP](https://open.spotify.com/album/4nxp3Q69TuMYntWPhbtBEg) | 3:42 |
-| 48 | [1997](https://open.spotify.com/track/7c2JRBtf4WMA9Q4fzlk4Qx) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Procedimentos De Emergência](https://open.spotify.com/album/4NaA4eHOxha0RFS6JOseGu) | 3:09 |
+| 48 | [1997](https://open.spotify.com/track/2SBSgVWnqwk7jUNk22f36s) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk) | [Nostalgia Emo](https://open.spotify.com/album/7JQFn6CfVDe8iwmylzOtbi) | 3:09 |
 | 49 | [Credenciais](https://open.spotify.com/track/7uGZL8ch8oTxEEbfile7ON) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top) | [Cozido](https://open.spotify.com/album/2L9l1Hshuxg4NufjpaQSF3) | 3:27 |
 | 50 | [Horizontes \(feat\. Lucas Silveira\)](https://open.spotify.com/track/2fNMkohK8dGXFxzfQx5M9c) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [\(Re\)Nascido](https://open.spotify.com/album/6KIYqiZRJVFHMNs3bVJJve) | 4:42 |
 | 51 | [Minha Paz](https://open.spotify.com/track/0OZqJIjspmfNvsbmwoBbs7) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Gloria](https://open.spotify.com/album/7czSPeqnlYBszPJFxiRO86) | 4:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCxkZmMxNjFhZTZiNDc1YWFmZmQwZTA3YTJlZjU5NDNhN2YzMTQwODE1`
+Snapshot ID: `MCxiNmU1ZDI5NjU0ZjhlOWNjZGE4MmUyYjRjNzRlN2RjOWViZWQ3ZDY5`

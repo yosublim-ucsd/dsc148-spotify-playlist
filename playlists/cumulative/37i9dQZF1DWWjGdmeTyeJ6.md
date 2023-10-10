@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Anya Nami\. Artwork by Isu Kim.
 
-5,212 songs - 11 day 20 hr 5 min
+5,213 songs - 11 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,6 +1324,7 @@
 | [Droopee](https://open.spotify.com/track/0WzSC0OB8nel3PFOog0iU2) | [Bread Pilot](https://open.spotify.com/artist/6WX9FRYQIYRRTNPZaPFQ74) | [Droopee](https://open.spotify.com/album/0X1WMxlci9fqDqTE9OsmTf) | 2:44 | 2022-05-11 | 2022-05-19 |
 | [Drop](https://open.spotify.com/track/1gtQcKsKB32UmxzwihNDe4) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M), [CD](https://open.spotify.com/artist/6e9pYVS5wPMajyuREbBX1f) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 3:32 | 2023-03-29 | 2023-04-06 |
 | [drop kick](https://open.spotify.com/track/4koPlGtAIvagp7QNZCgCOU) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [drop kick](https://open.spotify.com/album/1gv7IkTkzXCGkCHi2xSdeH) | 2:40 | 2023-04-26 | 2023-05-04 |
+| [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 | 2023-10-09 |  |
 | [Drown Out the World](https://open.spotify.com/track/397bbBQ4grzXqyWLuFk8iM) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Drown Out the World](https://open.spotify.com/album/2c31KcrBsECElK5kRYFH08) | 3:02 | 2022-05-25 | 2022-06-09 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-24 | 2022-09-09 |
 | [Drum](https://open.spotify.com/track/0fAYIZBcw8eK02m2wwomw0) | [Mcclendon](https://open.spotify.com/artist/6ZZrclkv0EliJYU6MlRkzD) | [Drum](https://open.spotify.com/album/7xSPFhMLM3RhZQi3LgGtXu) | 2:41 | 2023-09-06 | 2023-09-14 |

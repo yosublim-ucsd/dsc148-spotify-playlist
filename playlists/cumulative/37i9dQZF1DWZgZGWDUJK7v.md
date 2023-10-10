@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: No Office Romance!\(사내연애 사절! \)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-150 songs - 9 hr 9 min
+153 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 | 2022-10-18 |  |
 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol OST Part.10 \(Soundtrack\)](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 | 2022-12-21 |  |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 |  |
+| [I'M BACK](https://open.spotify.com/track/6sy2Gh0U6gUQ4jYG3ydwvd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [I'M BACK \(Killer Peter X BLASÉ\)\[Original Webtoon Soundtrack\]](https://open.spotify.com/album/3welRhhSY9rNNa9PPSqP4h) | 2:56 | 2023-10-10 |  |
 | [I'm into you, I mean Love you](https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i) | [Webtoon YeonNom OST Part.4](https://open.spotify.com/album/6HnT1pACL45G5FML1U0suT) | 4:04 | 2022-05-09 | 2023-02-23 |
 | [If we…](https://open.spotify.com/track/3hN9w8H3x1Aufiz5gjug2a) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Holy Idol \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/4xeGSyUIJISiEF5jdD3rix) | 3:02 | 2023-01-26 |  |
 | [If you hold my hand](https://open.spotify.com/track/2LMIQGEQVRGADX8rgsbohA) | [Hwang Si Yeon](https://open.spotify.com/artist/6fOuKiA7NquVRt5TLWQ1nk) | [Coffee Fox Kim Sam Wol OST Part.28 \(Soundtrack\)](https://open.spotify.com/album/4YmmFQg7H9aosnIhLeAFJf) | 3:28 | 2023-03-27 |  |
@@ -131,6 +132,7 @@
 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 | 2022-05-09 |  |
 | [With You](https://open.spotify.com/track/6PdMx183cnLH6iqar2XzJv) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [With You \(No Office Romance! X Young K \(DAY6\)\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/0JYfYKPZdxjwJRl6Fwngjv) | 3:57 | 2023-09-21 |  |
 | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo) | 3:27 | 2022-05-09 | 2023-02-23 |
+| [You didn't love me from the beginning](https://open.spotify.com/track/0gjJEpjTCU5jZeqCwduQD4) | [Dearming](https://open.spotify.com/artist/1Zs3RqrUagA8l69VbL5aJx) | [Living as A Villain OST Part.18 \(Soundtrack\)](https://open.spotify.com/album/7HXjoRtOSdGEOeKf1u6soW) | 3:20 | 2023-10-10 |  |
 | [You know](https://open.spotify.com/track/3cP2EqkvaKpcPI3EGXPLX7) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [Coffee Fox Kim Sam Wol OST Part.21 \(Soundtrack\)](https://open.spotify.com/album/6bCJ6pN7Pa2s5plf463iFq) | 4:00 | 2023-01-26 |  |
 | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/track/2vqbApjmIGDYunVMD4hXBB) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [You, you \(Nth Romance X Whee In\)](https://open.spotify.com/album/2AwYEmQzovBhhQ4chgiQcz) | 4:31 | 2022-05-09 |  |
 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 | 2022-05-09 | 2023-02-23 |
@@ -158,5 +160,6 @@
 | [추억을 따라](https://open.spotify.com/track/5bEnO13DJKHOPEaIVf2Lr0) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [버려진 왕녀는 반역한다\(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/1d1anmnBgRisaPuoHTfMYC) | 3:28 | 2023-09-20 |  |
 | [품](https://open.spotify.com/track/4BhPMX4CcdGvd9KIQNIhnz) | [Kajin](https://open.spotify.com/artist/2CKvV2WzEkuxJCAA1qBnGG) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt\. 29](https://open.spotify.com/album/4Ep6MfNWCisZZGVjZd5eiK) | 3:44 | 2023-06-13 |  |
 | [하루만](https://open.spotify.com/track/4zFeRmRMTIlTHOYkOcZbSp) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.7](https://open.spotify.com/album/5kXr2na8z5s6ugdZPbqNaA) | 4:00 | 2023-05-15 |  |
+| [햇살같은 사랑입니다](https://open.spotify.com/track/5ZYBeXAnNAQBuEZcJsb00Q) | [이동윤](https://open.spotify.com/artist/2hxQRFmEpUBMDS4mYCkcgM) | [베이비 드래곤 \(Original Webtoon Soundtrack\) Pt\. 7](https://open.spotify.com/album/5mOdHlkIdGAgMvpJCKDLwt) | 3:57 | 2023-10-10 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

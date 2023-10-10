@@ -1,12 +1,12 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 36485,
+  "num_followers": 36508,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDEyZTVkZThhZWM1OWM4NzFkNDE1ZTE2ZmU1MTlkN2U3NTBjZjMx",
+  "snapshot_id": "MCw1Nzg4OTUxNGVhYjE1Y2ZlMWRhZjg5NTk5NTA4NzM4NjliNDlhMDk2",
   "tracks": [
     {
       "added_at": "2023-07-11 18:58:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Welcome to Hard Times",
-        "url": "https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj"
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 185754,
-      "name": "Welcome to Hard Times",
-      "url": "https://open.spotify.com/track/0tij6loXatN15kmrAjWWRr"
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -123,34 +123,34 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Western Swing & Waltzes and Other Punchy Songs",
-        "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
+        "name": "Welcome to Hard Times",
+        "url": "https://open.spotify.com/album/6zo8AF0lCWc216j4GTYARj"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Cowpoke",
-      "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
+      "duration_ms": 185754,
+      "name": "Welcome to Hard Times",
+      "url": "https://open.spotify.com/track/0tij6loXatN15kmrAjWWRr"
     },
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Townes Van Zandt",
-        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 165186,
-      "name": "Waiting Around to Die",
-      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -167,6 +167,22 @@
       "duration_ms": 271958,
       "name": "Mornings In Memphis",
       "url": "https://open.spotify.com/track/3XSMqnPOR0UJBnbEZL656D"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Townes Van Zandt",
+        "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Waiting Around to Die",
+      "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -227,22 +243,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Room 41",
         "url": "https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Colter Wall & The Scary Prairie Boys",
         "url": "https://open.spotify.com/album/6E8W7DhCFcxUuU2X1zM1Q4"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 323853,
       "name": "Bob Fudge",
       "url": "https://open.spotify.com/track/7IkdDn5z2GQq2xhraDVoen"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -611,38 +611,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 195376,
-      "name": "Ride Out In The Country",
-      "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "The Freelancer's Blues",
-        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 277386,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "No Glory in the West",
         "url": "https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL"
       },
@@ -659,6 +627,22 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Ride Out In The Country",
+      "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
         "name": "Bruised Orange",
         "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 140506,
       "name": "Aw Heck",
       "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "The Freelancer's Blues",
+        "url": "https://open.spotify.com/album/4UxVJzE5iHPxl2mBWlEqC1"
+      },
+      "artists": [
+        {
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5DQFjLWTW7AGqaPLdeXCTz"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Patty Griffin",
         "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
       },
@@ -775,22 +759,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Speed, Sound, Lonely KV (ep)",
-        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 394520,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 289186,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/7AhLSMrjWMULOB9UH7lI7p"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 394520,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -839,38 +839,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "U Do U",
-        "url": "https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0"
-      },
-      "artists": [
-        {
-          "name": "The Kernal",
-          "url": "https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu"
-        }
-      ],
-      "duration_ms": 234224,
-      "name": "U Do U",
-      "url": "https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Strange Fascination",
         "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
       },
@@ -891,6 +859,38 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "U Do U",
+        "url": "https://open.spotify.com/album/0GxM59RMcTXOsvp0otXaq0"
+      },
+      "artists": [
+        {
+          "name": "The Kernal",
+          "url": "https://open.spotify.com/artist/1hiClSI3M2zxypaLJfNYCu"
+        }
+      ],
+      "duration_ms": 234224,
+      "name": "U Do U",
+      "url": "https://open.spotify.com/track/6V1PghqHfdiog7XTmVgaCa"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
         "name": "Modern Country",
         "url": "https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT"
       },
@@ -903,26 +903,6 @@
       "duration_ms": 325271,
       "name": "I\u2019m Gonna Live Forever (If It Kills Me)",
       "url": "https://open.spotify.com/track/2aAsLnLdMdHnMi7JvF5NeK"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
-        "name": "Sam Amidon",
-        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        },
-        {
-          "name": "Beth Orton",
-          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Sundown (feat. Beth Orton)",
-      "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -959,18 +939,22 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Cocaine Country Dancing",
-        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+        "name": "Sam Amidon",
+        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        },
+        {
+          "name": "Beth Orton",
+          "url": "https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC"
         }
       ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
+      "duration_ms": 213080,
+      "name": "Sundown (feat. Beth Orton)",
+      "url": "https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -987,6 +971,22 @@
       "duration_ms": 232693,
       "name": "Hearts on Fire - 2002 Remaster",
       "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Cocaine Country Dancing",
+        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Toshiba Sky",
-        "url": "https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh"
-      },
-      "artists": [
-        {
-          "name": "Dougie Poole",
-          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Toshiba Sky",
-      "url": "https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Lubbock (on everything)",
-        "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
+        "name": "Toshiba Sky",
+        "url": "https://open.spotify.com/album/1mpy274fg96Cu5cvhNStzh"
       },
       "artists": [
         {
-          "name": "Terry Allen",
-          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
+          "name": "Dougie Poole",
+          "url": "https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y"
         }
       ],
-      "duration_ms": 165225,
-      "name": "Rendezvous USA",
-      "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
+      "duration_ms": 196765,
+      "name": "Toshiba Sky",
+      "url": "https://open.spotify.com/track/72LxGUlBbiJIAnUGXBPNAv"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Love Can Find You Anywhere",
-        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+        "name": "Lubbock (on everything)",
+        "url": "https://open.spotify.com/album/31gOu9Ke5o3wgx1GyIDNYU"
       },
       "artists": [
         {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+          "name": "Terry Allen",
+          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
         }
       ],
-      "duration_ms": 219182,
-      "name": "Love Can Find You Anywhere",
-      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
+      "duration_ms": 165225,
+      "name": "Rendezvous USA",
+      "url": "https://open.spotify.com/track/0WDNetEwAsjiavw67F33Mi"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1131,6 +1115,22 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Love Can Find You Anywhere",
+        "url": "https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 219182,
+      "name": "Love Can Find You Anywhere",
+      "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Wayfaring Strangers: Cosmic American Music",
-        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
-      },
-      "artists": [
-        {
-          "name": "The Black Canyon Gang",
-          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Lonesome City",
-      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
-    },
-    {
-      "added_at": "2023-07-11 18:58:34",
-      "album": {
         "name": "When A Cowboy Trades His Spurs For Wings",
         "url": "https://open.spotify.com/album/12oUJEpXjAjVAgRWtQ50s9"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-07-11 18:58:34",
       "album": {
-        "name": "Mendocino (feat. Duane Eddy)",
-        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
+        "name": "Wayfaring Strangers: Cosmic American Music",
+        "url": "https://open.spotify.com/album/6S9BF1Z9jl2TOCfbqVxqMB"
       },
       "artists": [
         {
-          "name": "Jeremy Fetzer",
-          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
+          "name": "The Black Canyon Gang",
+          "url": "https://open.spotify.com/artist/4Qk3TBIbLIydpukG1TerQe"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Mendocino (feat. Duane Eddy)",
-      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
+      "duration_ms": 214813,
+      "name": "Lonesome City",
+      "url": "https://open.spotify.com/track/50tqBoFCN9uSV0YiqJHAUy"
     },
     {
       "added_at": "2023-07-11 18:58:34",
@@ -1247,6 +1231,22 @@
       "duration_ms": 225461,
       "name": "Happy Birthday, Baby",
       "url": "https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK"
+    },
+    {
+      "added_at": "2023-07-11 18:58:34",
+      "album": {
+        "name": "Mendocino (feat. Duane Eddy)",
+        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Fetzer",
+          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Mendocino (feat. Duane Eddy)",
+      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
     }
   ],
   "unique_name": "Cosmic Country",

@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Dj Black Spygo, Djodje and Chelsea Dinorath.  ",
-  "num_followers": 186385,
+  "num_followers": 186361,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjA2MzRkOWMwZjE2ZWJmZjhlN2YwM2M3YWMzYTFjNGM3ODBhNmMz",
+  "snapshot_id": "MCw2Mjc2NzRiZGI0YmNmMGViMTQ3NTE1ZGI5NzgxM2Q0Y2FkZTNlZjFl",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -131,18 +131,30 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "A.N.V.",
-        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
+        "name": "Kua Buaru",
+        "url": "https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS"
       },
       "artists": [
         {
           "name": "Calema",
           "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "Manecas Costa",
+          "url": "https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc"
         }
       ],
-      "duration_ms": 217853,
-      "name": "A Nossa Vez",
-      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
+      "duration_ms": 181346,
+      "name": "Kua Buaru",
+      "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -215,30 +227,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Kua Buaru",
-        "url": "https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS"
+        "name": "A.N.V.",
+        "url": "https://open.spotify.com/album/1KTc7vWWo2P6XMlEwAmd7N"
       },
       "artists": [
         {
           "name": "Calema",
           "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Soraia Ramos",
-          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
-        },
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        },
-        {
-          "name": "Manecas Costa",
-          "url": "https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc"
         }
       ],
-      "duration_ms": 181346,
-      "name": "Kua Buaru",
-      "url": "https://open.spotify.com/track/4CleTVckv87HCeEpj05X52"
+      "duration_ms": 217853,
+      "name": "A Nossa Vez",
+      "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Segredo",
+        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
+      },
+      "artists": [
+        {
+          "name": "Edm\u00e1zia Mayembe",
+          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Ayah",
         "url": "https://open.spotify.com/album/5QLgF0BFmcrhgIwDeNJemY"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 163199,
       "name": "Ayah",
       "url": "https://open.spotify.com/track/5LaVfWrjLovRtGzrzvJN9a"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Segredo",
-        "url": "https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi"
-      },
-      "artists": [
-        {
-          "name": "Edm\u00e1zia Mayembe",
-          "url": "https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Teu Corpo",
-        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 170548,
-      "name": "Teu Corpo",
-      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Teu Corpo",
+        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 170548,
+      "name": "Teu Corpo",
+      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Super Mulher",
-        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
-      },
-      "artists": [
-        {
-          "name": "Gerilson Insrael",
-          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
-        }
-      ],
-      "duration_ms": 232421,
-      "name": "Super Mulher",
-      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Super Mulher",
+        "url": "https://open.spotify.com/album/6LqxpzlJGADVpzKh2c16J5"
+      },
+      "artists": [
+        {
+          "name": "Gerilson Insrael",
+          "url": "https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO"
+        }
+      ],
+      "duration_ms": 232421,
+      "name": "Super Mulher",
+      "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Versos & Poesias #5: Sintonia",
         "url": "https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
         "name": "Mika Mendes",
         "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 283973,
       "name": "Criola",
       "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Me Leva Contigo",
-        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 258324,
-      "name": "Me Leva Contigo",
-      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 196567,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Me Leva Contigo",
+        "url": "https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 258324,
+      "name": "Me Leva Contigo",
+      "url": "https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1503,6 +1503,26 @@
       "duration_ms": 234226,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Vis\u00e3o",
+        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
+        }
+      ],
+      "duration_ms": 214353,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1559,26 +1579,6 @@
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
-        "name": "Vis\u00e3o",
-        "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        },
-        {
-          "name": "Cl\u00e1udio Ismael",
-          "url": "https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo"
-        }
-      ],
-      "duration_ms": 214353,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Do Teu Jeito",
-        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        }
-      ],
-      "duration_ms": 193045,
-      "name": "Do Teu Jeito",
-      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "Ser Feliz",
         "url": "https://open.spotify.com/album/7uTQAEBWfbze3iYIfOqmdR"
       },
@@ -1847,18 +1831,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Saudades",
-        "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
+        "name": "Do Teu Jeito",
+        "url": "https://open.spotify.com/album/2vBdOoAaFXejJio7jSoZdW"
       },
       "artists": [
         {
-          "name": "\u00c9rica Boaventura",
-          "url": "https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
         }
       ],
-      "duration_ms": 249497,
-      "name": "Saudades",
-      "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
+      "duration_ms": 193045,
+      "name": "Do Teu Jeito",
+      "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 245800,
       "name": "Pele Negra",
       "url": "https://open.spotify.com/track/1Y2alA2MIN3Qpj8T6yAxJN"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Saudades",
+        "url": "https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO"
+      },
+      "artists": [
+        {
+          "name": "\u00c9rica Boaventura",
+          "url": "https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg"
+        }
+      ],
+      "duration_ms": 249497,
+      "name": "Saudades",
+      "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
     },
     {
       "added_at": "2023-09-28 23:00:00",

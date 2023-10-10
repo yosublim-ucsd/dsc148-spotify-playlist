@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
+        "url": "https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
+      "url": "https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t V\u1ea1n N\u0103m",
         "url": "https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN"
       },
@@ -564,6 +582,32 @@
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+    },
+    {
+      "album": {
+        "name": "Ch\u00e0i \u0110i\u1ebfp No\u1ecdng (Anh Y\u00eau Em)",
+        "url": "https://open.spotify.com/album/6Jymtx2EcBUuOLz8mgvPL0"
+      },
+      "artists": [
+        {
+          "name": "Double2T",
+          "url": "https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf"
+        },
+        {
+          "name": "Ho\u00e0 Minzy",
+          "url": "https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8"
+        },
+        {
+          "name": "D\u01b0\u01a1ngK",
+          "url": "https://open.spotify.com/artist/5eN5Uj1HO01yk10v7aQsaz"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258194,
+      "name": "Ch\u00e0i \u0110i\u1ebfp No\u1ecdng - Anh Y\u00eau Em",
+      "url": "https://open.spotify.com/track/758HpAro9xbPugUESFncw0"
     },
     {
       "album": {
@@ -1040,6 +1084,24 @@
       "duration_ms": 219058,
       "name": "C\u01a1n \u0110au",
       "url": "https://open.spotify.com/track/6hLEsk1t37XKNwtTQ3iI1b"
+    },
+    {
+      "album": {
+        "name": "C\u1eaft \u0110\u00f4i N\u1ed7i S\u1ea7u",
+        "url": "https://open.spotify.com/album/7nzSwNbqVyu8leqBImvzEz"
+      },
+      "artists": [
+        {
+          "name": "T\u0103ng Duy T\u00e2n",
+          "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "C\u1eaft \u0110\u00f4i N\u1ed7i S\u1ea7u",
+      "url": "https://open.spotify.com/track/1ZgiJ8fiSEwd07OpB9ZuRz"
     },
     {
       "album": {
@@ -1534,7 +1596,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 223154,
       "name": "Gi\u1ea5c M\u01a1 Kh\u00e1c",
       "url": "https://open.spotify.com/track/5YiqPAVbiFUj1G1qvbXo0X"
@@ -2284,7 +2346,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 218250,
       "name": "Ng\u00e3 T\u01b0 Kh\u00f4ng \u0110\u00e8n",
       "url": "https://open.spotify.com/track/73fFRs03s0gtjggfMW213L"

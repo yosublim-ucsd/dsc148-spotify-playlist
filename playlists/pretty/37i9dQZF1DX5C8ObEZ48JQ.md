@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5?si=L6C8qlMDT3SFZVXz\-SvF\-w"> Tha Boy Myles </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,668 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,676 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 58 | [Chosen](https://open.spotify.com/track/3mFNTxPlNKg8bJ3A6UC29h) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [EMOTIONS](https://open.spotify.com/album/4IqGNLz2EaVwPkyV7b4NvC) | 3:10 |
 | 59 | [Nwanyi Oma](https://open.spotify.com/track/6CUsiQIY11LXDvPDTFZiEU) | [Lil Emm](https://open.spotify.com/artist/2xcMXK5wGKYGexFQiBoiUz) | [Nwanyi Oma](https://open.spotify.com/album/0FzULS7JqmwVUOtNrDf32O) | 2:01 |
 
-Snapshot ID: `MCwzZjYwNzFmZmY3N2M0NDVlZWJlYTMxYWNkMzMyODUwZjUyZDhlMTU2`
+Snapshot ID: `MCw2ZGU5MTNhNzE1Yzk0Y2VhM2ZkMjI0Y2M3NmUwYzQxZGMyMmY0OTlk`

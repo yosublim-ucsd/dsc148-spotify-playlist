@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:   <a href="spotify:artist:07EcmJpfAday8xGkslfanE">Kevin Abstract</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,915 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,893 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Glow On You](https://open.spotify.com/track/3P7OYztpK2xfSRKkGARXgg) | [Street Symphony](https://open.spotify.com/artist/3VqgsVyCuUFy3qEDvn0HXP), [Soda Supreme](https://open.spotify.com/artist/5rM4XqyUmGzH9h5MHqj2o4), [YOURSNDTRK](https://open.spotify.com/artist/3mK9cYGDMSXkuP8wcvYKYF) | [Glow On You](https://open.spotify.com/album/65Xi21sXH49fkVEs4a74z9) | 2:53 |
 | 100 | [Just Earth with New Skin](https://open.spotify.com/track/13QRcBHGVhUERv5rTqFqk3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t) | [Terraform: The Possibility](https://open.spotify.com/album/5D1nLOVbRT9ThDfkKeeh7Q) | 3:20 |
 
-Snapshot ID: `MCw0MWE2MmIxMTI5NzA1OWJiYWJkZGMzOWU5M2UwNjZmMjJiOTQwYjM5`
+Snapshot ID: `MCwxYzQxNmNkNTE4YjNkZTMzMzRhYzAyOGEzNTNlODMwODM2NTY5MTAw`

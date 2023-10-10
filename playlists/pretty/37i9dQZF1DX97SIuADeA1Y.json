@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 322329,
+  "num_followers": 322444,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTE0N2E0MmY4ZmYyYzIwMjI1YmQ5MmVhYTk3MzBhZjI0NGE3ODY0",
+  "snapshot_id": "MCwyNTRmNDU1MjY3NGUzNDQwOTQ5MDYzOGM5ZjYxMGQ3ODM5ZTQxMTVl",
   "tracks": [
     {
       "added_at": "2023-09-08 11:07:56",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Dance For Me (1, 2, 3)",
         "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
       },
@@ -307,6 +291,22 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
         "name": "Slap House Party",
         "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
       },
@@ -319,26 +319,6 @@
       "duration_ms": 165428,
       "name": "Drunk in Love",
       "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -359,6 +339,26 @@
       "duration_ms": 177780,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/24osWl0SQSyHzGyEMdf394"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -607,30 +607,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Raindrops (feat. Jessica Chertock)",
-        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
-        }
-      ],
-      "duration_ms": 166887,
-      "name": "Raindrops (feat. Jessica Chertock)",
-      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 151415,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Raindrops (feat. Jessica Chertock)",
+        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "duration_ms": 166887,
+      "name": "Raindrops (feat. Jessica Chertock)",
+      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Party All The Time",
-        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "Masove",
-          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
-        }
-      ],
-      "duration_ms": 134544,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/0hZQmqMGLG95A46E8YoQN3"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 155267,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6ZLSMHpVJf7ZzHttdmROoD"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Masove",
+          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+        }
+      ],
+      "duration_ms": 134544,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "Outta Love",
-        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        },
-        {
-          "name": "TEN TONNE SKELETON",
-          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
-        }
-      ],
-      "duration_ms": 164704,
-      "name": "Outta Love",
-      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
-    },
-    {
-      "added_at": "2023-09-08 11:07:56",
-      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/6pzKYeH4CorXYDL8rOOZOC"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 152459,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1iObkel3ZEmeqAnOQJs5ky"
+    },
+    {
+      "added_at": "2023-09-08 11:07:56",
+      "album": {
+        "name": "Outta Love",
+        "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        },
+        {
+          "name": "TEN TONNE SKELETON",
+          "url": "https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA"
+        }
+      ],
+      "duration_ms": 164704,
+      "name": "Outta Love",
+      "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
     },
     {
       "added_at": "2023-09-08 11:07:56",
@@ -1239,26 +1239,22 @@
     {
       "added_at": "2023-09-08 11:07:56",
       "album": {
-        "name": "One And Only",
-        "url": "https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph"
+        "name": "Wind Me Up",
+        "url": "https://open.spotify.com/album/5SpRP87LFF2kAtanojTQLG"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Sunlike Brothers",
+          "url": "https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx"
         },
         {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        },
-        {
-          "name": "Money For Nothing",
-          "url": "https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY"
+          "name": "MAD SNAX",
+          "url": "https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu"
         }
       ],
-      "duration_ms": 123934,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt"
+      "duration_ms": 130619,
+      "name": "Wind Me Up",
+      "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
     }
   ],
   "unique_name": "SLAP!",

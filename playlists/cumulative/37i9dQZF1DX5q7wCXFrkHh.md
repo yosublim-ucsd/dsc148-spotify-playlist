@@ -4,7 +4,7 @@
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-209 songs - 18 hr 30 min
+210 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Days Of Wine And Roses](https://open.spotify.com/track/521qezMfJ71NGibQanQvvN) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 2:40 | 2022-05-13 | 2022-10-01 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/35OwBJaBTm1PwvzijDVlNs) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Legendary Recordings](https://open.spotify.com/album/2UR3YTGu7pUAvoLSdikGne) | 2:42 | 2023-08-16 | 2023-09-10 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/3pJVi6t0Afe4JGzgR7Q2xJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Volume: Oscar Peterson](https://open.spotify.com/album/5aAKiw6kJDNT2K5eXOW0WJ) | 2:42 | 2022-10-07 | 2023-01-09 |
+| [Days Of Wine And Roses](https://open.spotify.com/track/4g8ERVLYfNz4U4hSofSbmK) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz in Autumn: Oscar Peterson](https://open.spotify.com/album/4ciNFo3mAg97yUGQwPRe5y) | 2:42 | 2023-09-22 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/4gsNHQt1OiVlGHDarFocYP) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Oscar Peterson: Hits & Rarities](https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec) | 2:42 | 2022-09-21 | 2023-10-07 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/37x5B9xv1QVF4WAY6vtKV0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 2:43 | 2022-05-13 | 2022-07-29 |
 | [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 | 2022-09-15 |  |
@@ -196,7 +197,7 @@
 | [Thou Swell \- Remastered](https://open.spotify.com/track/6R62D5n442lnkedKvm354Z) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver Trio](https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo) | 2:52 | 2022-08-11 | 2022-09-26 |
 | [Three Little Words \- Live](https://open.spotify.com/track/0t17LoTymz2PEgoqOMRmyM) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [97 @ The Village Vanguard \(Live\)](https://open.spotify.com/album/4UIXZbdDxAp8ONVYiQqwHn) | 6:00 | 2022-05-13 | 2022-08-18 |
 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 | 2022-05-13 |  |
-| [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 | 2022-05-13 |  |
+| [Two Bass Hit \- Remastered 2001/Rudy Van Gelder Edition](https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe) | [Sonny Clark Trio](https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw) | [Sonny Clark Trio \(Remastered 2001/Rudy Van Gelder Edition\)](https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH) | 3:45 | 2022-05-13 | 2023-10-10 |
 | [Vallåt från Jämtland](https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 1:54 | 2022-08-12 |  |
 | [Very Early](https://open.spotify.com/track/2GDVLxHToJwD0mirP0C2JH) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 5:06 | 2022-05-13 | 2022-08-18 |
 | [Volga Boatman](https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Count 'Em 88](https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3) | 3:52 | 2022-08-17 |  |

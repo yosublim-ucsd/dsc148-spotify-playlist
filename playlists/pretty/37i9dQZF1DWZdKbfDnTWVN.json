@@ -1,13 +1,33 @@
 {
   "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI_TQ\"> Wakadinali </a>",
-  "num_followers": 10050,
+  "num_followers": 10074,
   "original_name": "254 Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODZkMzc0MGM3ZGRhZTk3YjVkYjJmOGQ2ZWUzMzA3YjQ3OTQ3ODlk",
+  "snapshot_id": "MCxlZjYxZWM4NzkzZmU5MDZjNzBkMGJlMWM0NTI5MThmMDI2MWFhMDhh",
   "tracks": [
+    {
+      "added_at": "2023-10-09 08:50:05",
+      "album": {
+        "name": "Under the Influence",
+        "url": "https://open.spotify.com/album/1Lvah0pWShiH6euqsHGJ6w"
+      },
+      "artists": [
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
+        },
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Under the Influence",
+      "url": "https://open.spotify.com/track/3r056cmJmmTHK44fEffRCW"
+    },
     {
       "added_at": "2023-10-06 10:57:20",
       "album": {
@@ -1123,22 +1143,6 @@
       "duration_ms": 202428,
       "name": "Wasp",
       "url": "https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0"
-    },
-    {
-      "added_at": "2023-10-06 10:57:20",
-      "album": {
-        "name": "From The Bottom",
-        "url": "https://open.spotify.com/album/4dd6K40Z2A7YGYSs59pIOG"
-      },
-      "artists": [
-        {
-          "name": "CK Sula",
-          "url": "https://open.spotify.com/artist/3GhEMZn9eAjfLsGoj9Q313"
-        }
-      ],
-      "duration_ms": 148759,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/2qDbw8aI6X82m8o1B19w8D"
     },
     {
       "added_at": "2023-10-06 10:57:20",

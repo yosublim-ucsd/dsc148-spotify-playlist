@@ -2943,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Fly By",
+        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Fly By",
+      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
+    },
+    {
+      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/7uDKo6sEqA737fGIw7iK3C"
       },
@@ -9602,7 +9620,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 206367,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh"

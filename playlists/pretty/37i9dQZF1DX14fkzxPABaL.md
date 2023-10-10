@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,081 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,300 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [Tiempo Indefinido](https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Tiempo Indefinido](https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd) | 2:17 |
 | 100 | [Dejarte Ir](https://open.spotify.com/track/0qFf9gJJXG5xSIBibnCuLL) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Camilú](https://open.spotify.com/album/3lJ1bpSjYeuDTGBrKmRw2n) | 3:03 |
 
-Snapshot ID: `MCwzNzM2MjEzZWQ3MzFlYmRkN2FlNWM3MDcxMzIwNGIzNWNmNmZhNDhj`
+Snapshot ID: `MCxmNTFkN2Q2OTQ2MDU3NDhhYzA2Y2I1ODEyNWQyM2MzMGVjMjM0NTJm`

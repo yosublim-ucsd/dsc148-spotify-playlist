@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : HOUDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,661 likes - 39 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,376 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 37 | [+80°](https://open.spotify.com/track/3Yu1cTbimH7Xxgw6cBixGQ) | [Rookie Magazine](https://open.spotify.com/artist/4qAeOrb5Lvgh2TSE4qwaRe), [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [Amplitude Thermique](https://open.spotify.com/album/6XQUfVJqDPy8wAmMmt2deZ) | 3:33 |
 | 38 | [NO PASSION](https://open.spotify.com/track/393Tn6mkpkkfpXEAknAYOL) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e) | [NO PASSION](https://open.spotify.com/album/2UOOv8ZIeVZv6IowBZwdYS) | 2:04 |
 | 39 | [DEHORS ENCORE](https://open.spotify.com/track/40pUBt8WFhqUQKshH3a8zi) | [Magnar](https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja) | [DEHORS ENCORE](https://open.spotify.com/album/4CeJxEXiwDSwumhsHDeK8O) | 1:58 |
+| 40 | [GRANDIR ET RAJEUNIR](https://open.spotify.com/track/0qXgwDS6MQzM4FHgoS0eLp) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [AHBON MIXTAPE](https://open.spotify.com/album/5s5MPCy39ktuAFfewT2xSk) | 2:19 |
 
-Snapshot ID: `MCw2MGU4MzRmMmYyZmZiNTBlYzU3MDdiYzgxODFjNzBkNzBmMjIxZGZk`
+Snapshot ID: `MCxmZWU4N2M4NmRlMmEzMWQyZWU3ZmIzNTVkMWM4ZWExYWQ0OTllM2Mx`

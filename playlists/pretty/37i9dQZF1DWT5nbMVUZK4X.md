@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5nbMVUZK4X.md) - [plain]
 
 > Tap into the tech and music world with <a href="spotify:artist:78ZgfyDjF59qBIWrGHRdme ">DJ\_Dave</a>'s latest mix, who uses livecoding in her productions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 22 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111 likes - 22 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5nbMVUZK4X.md) - [plain]
 | 21 | [Touchpad \- Mixed](https://open.spotify.com/track/54nhHWMS6NUAlqkXKgDMbl) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Touchpad \(Mixed\)](https://open.spotify.com/album/1QqPmK3G9uFzoKKUgH3J1y) | 3:54 |
 | 22 | [No One Dies From Love \(DJ\_Dave Edit\) \- Mixed](https://open.spotify.com/track/5wmwDfv6XaQ3j4YV1zLU1q) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love \(DJ\_Dave Edit\) \[Mixed\]](https://open.spotify.com/album/6FRL2S3QICMwzQd80yK8R5) | 3:48 |
 
-Snapshot ID: `MCw2YzU5MGFkMTU4ODlmNWM4NWJhNDdjYTRiODkzYWQ1YTMzZTM4NDQ5`
+Snapshot ID: `MCxiNzM2YmM1NjU4ZWJiOTI0N2Y3MGNlNTkzYmNhMGI4YWQ4Nzk3MDdm`

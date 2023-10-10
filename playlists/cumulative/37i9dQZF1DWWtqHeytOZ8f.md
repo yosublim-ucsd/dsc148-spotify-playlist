@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-602 songs - 2 day 5 hr 25 min
+603 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-20 |  |
 | [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 | 2021-10-20 | 2022-07-29 |
 | [Closed \- Yosemite Version](https://open.spotify.com/track/0IL5bImk17ZoPquALK3yw1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/1pYLmFYO15uH1goGDy4xUn) | 3:52 | 2021-10-20 | 2022-07-29 |
-| [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 | 2021-10-20 |  |
+| [Closed \- Yosemite Version](https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1) | [Vivian Koch](https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF) | [Beyond Contact](https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i) | 3:52 | 2021-10-20 | 2023-10-10 |
 | [Club Nevermore](https://open.spotify.com/track/0zZrA8XWIMicKJKRs1i7Jj) | [HMOT](https://open.spotify.com/artist/1GebYQXIPHASwumbrmvZ3P), [Anastasia Tolchneva](https://open.spotify.com/artist/0yHdpGP80s4kxqvtCwoiaQ) | [Another Name — Original Motion Picture Soundtrack](https://open.spotify.com/album/09OZw4L2kK2nZxVYTsxoTh) | 3:30 | 2022-02-18 | 2022-07-29 |
 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 | 2022-02-12 |  |
 | [Comfort Content](https://open.spotify.com/track/3XHqKRm7z2nWCSPfOK3IQ2) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Echo Chamber](https://open.spotify.com/album/13LkT2051XJ4Vem22Mi6xk) | 5:26 | 2022-12-21 | 2023-03-04 |
@@ -510,6 +510,7 @@
 | [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-20 | 2022-07-29 |
 | [Temple of Holographic Synergy](https://open.spotify.com/track/125EoKTQJjGXqhsyojMDjD) | [Pulse Mandala](https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX) | [Ephemeral Phenomena EP](https://open.spotify.com/album/4lm5oC0ck2mokoDlXhH7D7) | 7:01 | 2021-10-20 | 2022-07-29 |
 | [The Atomium Part 2](https://open.spotify.com/track/4xgmDXnGs7cadPt8JPSTdK) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Avec Laudenum](https://open.spotify.com/album/7GAdWrS7xbumDLadbeOAbB) | 10:43 | 2021-10-20 |  |
+| [The Boat](https://open.spotify.com/track/6bslbp8bb9kpX54SogOLsp) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 7:05 | 2023-10-10 |  |
 | [The Cage](https://open.spotify.com/track/1PIHkD3asRl8CiDkQNS5OX) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/2xPNHjqmyhTpLK4XvSNIXl) | 3:51 | 2022-02-18 | 2022-07-29 |
 | [The Cage](https://open.spotify.com/track/5PhKqxHWmlpygmNOIQuAL7) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Menhir](https://open.spotify.com/artist/1XGNW7AotFO4oSHxZC09OL) | [Just Before Silence](https://open.spotify.com/album/5t2haO57gh05cN1oO1ZQAn) | 3:51 | 2022-02-18 |  |
 | [The Crop Circle](https://open.spotify.com/track/1jqCOGU9XKu4r7WyQAEexF) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Ancient Lost Farms](https://open.spotify.com/album/3fxzyR0X13oD6RkeTLBuOr) | 2:14 | 2021-10-20 | 2022-07-23 |

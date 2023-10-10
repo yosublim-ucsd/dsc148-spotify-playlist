@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,114 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,132 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 50 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 | 51 | [Rise & grind](https://open.spotify.com/track/0EGw0mrH8bFttseRYAuAFp) | [MoneyBoy YB](https://open.spotify.com/artist/6eN3WIWcCLAQhYWLfWH8JN) | [Rise & grind](https://open.spotify.com/album/3NJUgcooxOfa7WPX0yHTGn) | 3:08 |
 
-Snapshot ID: `MCxmN2VhNGIzZjYyMjYwNThmZjQyZjFjZTI5ZDkzMDdlZjk1YjUxYjM0`
+Snapshot ID: `MCxmYWZiZTIxOTQ5Y2NmMDYyNTIzMzIxOWRhN2YxMmEzYWE5N2NlNDE1`

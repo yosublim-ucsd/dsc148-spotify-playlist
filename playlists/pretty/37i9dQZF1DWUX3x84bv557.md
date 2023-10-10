@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Do
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,981 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,964 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leef je in mij](https://open.spotify.com/track/2pweZge5JYaJZWNEVbxrtK) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Leef je in mij](https://open.spotify.com/album/68FlA484c2cYvA00BtpSKV) | 3:16 |
 | 2 | [Arcade](https://open.spotify.com/track/2dDoOSCrKQCY95eY56Xs9R) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Beste Zangers 2023 \(Numidia\)](https://open.spotify.com/album/3wzxiVGNefP0NRFjAhkVVo) | 3:16 |
 | 3 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 |
-| 4 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
-| 5 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 |
-| 6 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
-| 7 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
-| 8 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
+| 4 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 |
+| 5 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 |
+| 6 | [Alles Kan Vanavond](https://open.spotify.com/track/5m7dZjtgshqh2pKZKir7SG) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Op Mijn Lijf Geschreven](https://open.spotify.com/album/7df3CFydeyJeyw2K09Igjd) | 2:55 |
+| 7 | [Niet Breken](https://open.spotify.com/track/4iv7QWrytOLIRIECHBJkqP) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Niet Breken](https://open.spotify.com/album/0uXGmsQzYBGfNPpsfP3vos) | 2:41 |
+| 8 | [100K Tranen](https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP) | [100K Tranen](https://open.spotify.com/album/4b5tmW8Nbt5yzYORGdjpTm) | 2:34 |
 | 9 | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/track/1YdavvpHweXYPkKuxg40Ha) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Dat Hadden Wij Moeten Zijn](https://open.spotify.com/album/5WxgeokG4RNocDTb4uQ1cE) | 3:04 |
 | 10 | [Voicemail](https://open.spotify.com/track/5I8IKmeOT9L7yB0D41483W) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Voicemail](https://open.spotify.com/album/37x0oNIyroVzO6YWXbfJto) | 2:57 |
 | 11 | [Brak Zijn](https://open.spotify.com/track/6U7KAEmS3hSQrHqnqCYycn) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Brak Zijn](https://open.spotify.com/album/7HohBFxEurOJSiBsGMo0J4) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [De Bloemen Die Je Stuurde](https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [De Bloemen Die Je Stuurde](https://open.spotify.com/album/1YS93womgDgRHgIXIapToF) | 2:48 |
 | 60 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 
-Snapshot ID: `MCwxN2IzOGRmNDJiOTcwMWQ0YTY3ZDdmMmRkZThmZmIyNzQzNjYxOWY0`
+Snapshot ID: `MCxhMWY1MzgyYjgwMmIwY2QyOGQ3YjUwMTg0M2JkNzFjOGI4NzZhODEy`

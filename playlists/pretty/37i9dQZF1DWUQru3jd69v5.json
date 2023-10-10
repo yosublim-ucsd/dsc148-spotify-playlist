@@ -1,15 +1,15 @@
 {
   "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Lefar",
-  "num_followers": 224102,
+  "num_followers": 223953,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzgyOWY0NTg2MWEzNjg3MjY3YjEwZDk3ZmY4YzIzZDU3MzU0OWEz",
+  "snapshot_id": "MCwwYjg1ZjM3ZjE3Y2ExNTUzODMzY2QwN2NlMTU5MzYxZTMyNzQ5NzZl",
   "tracks": [
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA - Before and After",
         "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "N.47",
         "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
@@ -41,7 +41,39 @@
       "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Salam Alaykum",
+        "url": "https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "Salam Alaykum",
+      "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Come me",
+        "url": "https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC"
+      },
+      "artists": [
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Come me",
+      "url": "https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "PSG",
         "url": "https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Scappa da Milano",
         "url": "https://open.spotify.com/album/1IFSeuBowZAGUsjVyHMAgG"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/1AJ3ncdtj5leTKdgHkyVEn"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "BEBECITA",
+        "url": "https://open.spotify.com/album/4wtIn4dpOfZ20nI2H1fhLN"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "duration_ms": 165034,
+      "name": "BEBECITA",
+      "url": "https://open.spotify.com/track/79hRcrehOEmreZjXjSsfds"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "NON NE VALI LA PENA (feat. Kid Yugi)",
         "url": "https://open.spotify.com/album/3DXeuobdkmRQ0qn4NBdR8k"
@@ -93,39 +141,7 @@
       "url": "https://open.spotify.com/track/6DwBVpwBbpopNFHQXQglJO"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Salam Alaykum",
-        "url": "https://open.spotify.com/album/3ZeuySAYlaZN1QFlWPHIBS"
-      },
-      "artists": [
-        {
-          "name": "8blevrai",
-          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "Salam Alaykum",
-      "url": "https://open.spotify.com/track/6LI8B0UaQ70WdO2vlmKQK5"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Come me",
-        "url": "https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC"
-      },
-      "artists": [
-        {
-          "name": "Abby 6ix",
-          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Come me",
-      "url": "https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Suave (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/2rILNUxABq3b74Ucczc1zV"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/4dswUsqTDCqWpmQlhFqedk"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "BEBECITA",
-        "url": "https://open.spotify.com/album/4wtIn4dpOfZ20nI2H1fhLN"
-      },
-      "artists": [
-        {
-          "name": "Skinny",
-          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
-        }
-      ],
-      "duration_ms": 165034,
-      "name": "BEBECITA",
-      "url": "https://open.spotify.com/track/79hRcrehOEmreZjXjSsfds"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "UNA BANDIERA",
         "url": "https://open.spotify.com/album/1WzvS4vSVa2YyzfzTYXm5U"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/3w0OOMArLZWeMitNkH6C4m"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Hagra",
         "url": "https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/2wr4eGrYA8CzZ2VXUAxrNK"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/05n2Sub4M3QV0thT5Hmbm1"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Rotto",
         "url": "https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "CUORE RINCHIUSO",
         "url": "https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "MALAGA",
         "url": "https://open.spotify.com/album/6k1CQrZESTG1mNk9plWqmK"
@@ -309,43 +309,7 @@
       "url": "https://open.spotify.com/track/2wP2hvc5vEG37UPcHLJbDM"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/1ThygXZBEM1kP6Z0M0ltX5"
-      },
-      "artists": [
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        }
-      ],
-      "duration_ms": 127979,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Palafitte (feat. Don Pero)",
-        "url": "https://open.spotify.com/album/0nXchW0ifTE4jste5yTRBQ"
-      },
-      "artists": [
-        {
-          "name": "Uzi Lvke",
-          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
-        },
-        {
-          "name": "Don Pero",
-          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
-        }
-      ],
-      "duration_ms": 176848,
-      "name": "Palafitte (feat. Don Pero)",
-      "url": "https://open.spotify.com/track/3ndKSn3jPvTfrGHtt25iSI"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "POGO",
         "url": "https://open.spotify.com/album/42lfznM1XYW1iwj5kPg4N6"
@@ -365,7 +329,43 @@
       "url": "https://open.spotify.com/track/65dszUrHA9RcgJUTMGCSaH"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/1ThygXZBEM1kP6Z0M0ltX5"
+      },
+      "artists": [
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        }
+      ],
+      "duration_ms": 127979,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/0P2PYTMHCVgmqWPhK5aYhO"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Palafitte (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/0nXchW0ifTE4jste5yTRBQ"
+      },
+      "artists": [
+        {
+          "name": "Uzi Lvke",
+          "url": "https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "duration_ms": 176848,
+      "name": "Palafitte (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/3ndKSn3jPvTfrGHtt25iSI"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Ragazzini 2000 (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/67ApYGahcCAb2juPy3Gcw9"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/0HOMX6xhF9ViSM8LNpUm1P"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Bloody Mary",
         "url": "https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/6dfus00rufybawdDBasdG8"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "ASPETTANDO LA BELLA VITA",
         "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Khabib",
         "url": "https://open.spotify.com/album/4ffFwzjCdbpwi2ZuqRg9Oz"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/4lZ8j1DNJKW0Rvz3gSC0Qo"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "TUTA FAKE (feat. Don Pero)",
         "url": "https://open.spotify.com/album/6QalFNzRnlYZ6KEYLLIKUZ"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/5PT8q7q0VFRA0YL1AbVaiP"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/1r5WCFulDtvAdCNmJfH1wA"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "BATIMENT #1",
         "url": "https://open.spotify.com/album/40YkzEnw9ssn5JmbajH4xA"
@@ -529,27 +529,7 @@
       "url": "https://open.spotify.com/track/7h1RaR7nQUWTB2uR5giojx"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Ragazzi Persi",
-        "url": "https://open.spotify.com/album/7zvU2pt7mTW5FWcNFH7u8g"
-      },
-      "artists": [
-        {
-          "name": "Pablo",
-          "url": "https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ"
-        },
-        {
-          "name": "Silent Bob",
-          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
-        }
-      ],
-      "duration_ms": 154446,
-      "name": "Voglio",
-      "url": "https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Boom Shakalaka",
         "url": "https://open.spotify.com/album/5jgWuqSEzf0LzWz7z4m44i"
@@ -565,7 +545,7 @@
       "url": "https://open.spotify.com/track/1Je1xW6Yt9Sh6rekur7sLm"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "ASSISTE 2 (feat. Kilimoney)",
         "url": "https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe"
@@ -585,7 +565,7 @@
       "url": "https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "ADIOS (feat. Yunes LaGrintaa)",
         "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
@@ -605,7 +585,7 @@
       "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "METTO LE AIR",
         "url": "https://open.spotify.com/album/693n3PQfSPMPCxX2Hl5Alh"
@@ -621,31 +601,7 @@
       "url": "https://open.spotify.com/track/6Kk4oSUJLNBZYSSfyUnGY8"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Contatto Romano (feat. Manali & Mescal Dom)",
-        "url": "https://open.spotify.com/album/3d10pi96nYto14V1DQR08x"
-      },
-      "artists": [
-        {
-          "name": "Sosa Priority",
-          "url": "https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc"
-        },
-        {
-          "name": "Manali",
-          "url": "https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh"
-        },
-        {
-          "name": "Mescal Dom",
-          "url": "https://open.spotify.com/artist/0Ybyxgq4ypFiGcoLAStiPr"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "Contatto Romano (feat. Manali & Mescal Dom)",
-      "url": "https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Vegeta (feat. N\u00e9za)",
         "url": "https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg"
@@ -665,7 +621,27 @@
       "url": "https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Ragazzi Persi",
+        "url": "https://open.spotify.com/album/7zvU2pt7mTW5FWcNFH7u8g"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "duration_ms": 154446,
+      "name": "Voglio",
+      "url": "https://open.spotify.com/track/3wjmdYObZwfPZNBuEggAcK"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Umile",
         "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
@@ -685,7 +661,7 @@
       "url": "https://open.spotify.com/track/2xtRttQROrOFKg10rNLZ73"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "La cit\u00e8",
         "url": "https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e"
@@ -701,7 +677,7 @@
       "url": "https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "BLA",
         "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
@@ -721,23 +697,23 @@
       "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
-        "name": "UN'ALTRA NIGHT",
-        "url": "https://open.spotify.com/album/6Hz6Rn53dSKOIhjIsDN2z2"
+        "name": "Naples",
+        "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
       },
       "artists": [
         {
-          "name": "Nira",
-          "url": "https://open.spotify.com/artist/005dicYm2vuN9fJ4Ey3Z4c"
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
         }
       ],
-      "duration_ms": 165004,
-      "name": "UN'ALTRA NIGHT",
-      "url": "https://open.spotify.com/track/13X04wnewOCJCv6xLr9Cky"
+      "duration_ms": 196129,
+      "name": "Naples",
+      "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Bella Vita",
         "url": "https://open.spotify.com/album/2NCbZCLwUbufLh8jmpuw98"
@@ -753,7 +729,7 @@
       "url": "https://open.spotify.com/track/6xHhvz7EFjQFAlm42ePpQB"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Ma Bella",
         "url": "https://open.spotify.com/album/3flMPRFAjylmTcNq9sfcMT"
@@ -769,7 +745,7 @@
       "url": "https://open.spotify.com/track/5eeMVrbremAMXoU0NuiXgz"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "PANAMA",
         "url": "https://open.spotify.com/album/2cpuoIdlvylQc515lz1sLb"
@@ -789,7 +765,7 @@
       "url": "https://open.spotify.com/track/0MzGKQtVElVJcmW0sXJpWa"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "TE QUIERO (feat. LJK)",
         "url": "https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK"
@@ -809,23 +785,7 @@
       "url": "https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "Naples",
-        "url": "https://open.spotify.com/album/2bpDU3tbbS3kvj17Ds34wC"
-      },
-      "artists": [
-        {
-          "name": "Lefar",
-          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Naples",
-      "url": "https://open.spotify.com/track/6hOndc2UrGv7jU12S6IvS0"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Passaggi Di Mano",
         "url": "https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt"
@@ -841,7 +801,7 @@
       "url": "https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "DRIN DRIN (feat. LJK)",
         "url": "https://open.spotify.com/album/6NkKaJtAmmE29ghqrxUE5L"
@@ -861,7 +821,7 @@
       "url": "https://open.spotify.com/track/6l1kvKetaUlC235MpIJrUD"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "100MILA",
         "url": "https://open.spotify.com/album/22L7vDdsewxsc4MegfjnC2"
@@ -885,7 +845,31 @@
       "url": "https://open.spotify.com/track/0xza672DWG7TQnxMSoj5Pm"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "Contatto Romano (feat. Manali & Mescal Dom)",
+        "url": "https://open.spotify.com/album/3d10pi96nYto14V1DQR08x"
+      },
+      "artists": [
+        {
+          "name": "Sosa Priority",
+          "url": "https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc"
+        },
+        {
+          "name": "Manali",
+          "url": "https://open.spotify.com/artist/0aH4uMOQMV806IsaRf4nLh"
+        },
+        {
+          "name": "Mescal Dom",
+          "url": "https://open.spotify.com/artist/0Ybyxgq4ypFiGcoLAStiPr"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "Contatto Romano (feat. Manali & Mescal Dom)",
+      "url": "https://open.spotify.com/track/543ohXW976Ir5IdMpbTLil"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Kratos",
         "url": "https://open.spotify.com/album/2yAiosmovv0gFe251Sz8id"
@@ -905,7 +889,23 @@
       "url": "https://open.spotify.com/track/0cWJZCWkTzMyer8IbBhHbK"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "UN'ALTRA NIGHT",
+        "url": "https://open.spotify.com/album/6Hz6Rn53dSKOIhjIsDN2z2"
+      },
+      "artists": [
+        {
+          "name": "Nira",
+          "url": "https://open.spotify.com/artist/005dicYm2vuN9fJ4Ey3Z4c"
+        }
+      ],
+      "duration_ms": 165004,
+      "name": "UN'ALTRA NIGHT",
+      "url": "https://open.spotify.com/track/13X04wnewOCJCv6xLr9Cky"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "4:44 Sisu L' Immortale",
         "url": "https://open.spotify.com/album/1AWqrvmp9jnn7hNJ2R5ony"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/47wo95wHNxB1XvsWsH8Ck7"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Bustdown",
         "url": "https://open.spotify.com/album/30SLfOPxztEjmKLLtVYXui"
@@ -941,23 +941,7 @@
       "url": "https://open.spotify.com/track/2lEs6hNfZResQJnapGLPez"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "INFERNO",
-        "url": "https://open.spotify.com/album/1XnwJ4yuT6F0rjcGVjEZz0"
-      },
-      "artists": [
-        {
-          "name": "Radical",
-          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
-        }
-      ],
-      "duration_ms": 92800,
-      "name": "INFERNO",
-      "url": "https://open.spotify.com/track/5jz7OO7VT8eWmWW9dBTBRD"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Vulture Activity",
         "url": "https://open.spotify.com/album/0aBdE0VBdHtayvgjT8KyaE"
@@ -973,7 +957,23 @@
       "url": "https://open.spotify.com/track/2gBZh3c9dOIO3rVOOYcgul"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/1XnwJ4yuT6F0rjcGVjEZz0"
+      },
+      "artists": [
+        {
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+        }
+      ],
+      "duration_ms": 92800,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/5jz7OO7VT8eWmWW9dBTBRD"
+    },
+    {
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/66pUVXpA8YKblpPxCLxtKO"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/63LyHQhQ23buXUq1NdWYbR"
     },
     {
-      "added_at": "2023-10-05 22:01:00",
+      "added_at": "2023-10-09 08:10:34",
       "album": {
         "name": "P.A.S.",
         "url": "https://open.spotify.com/album/1mGVUOrgbQssKkgKsIYbEd"

@@ -147,6 +147,36 @@
     },
     {
       "album": {
+        "name": "Ayyayyo",
+        "url": "https://open.spotify.com/album/4AUgdGeQBTqfPpPfbvaDJf"
+      },
+      "artists": [
+        {
+          "name": "Parimal Shais",
+          "url": "https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        },
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220253,
+      "name": "Ayyayyo",
+      "url": "https://open.spotify.com/track/5yX1n7GniBnjMlrS5GairC"
+    },
+    {
+      "album": {
         "name": "Azhage (Fallin)",
         "url": "https://open.spotify.com/album/5bzJnIdqMWlwYevnciFP8h"
       },
@@ -1940,7 +1970,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 228112,
       "name": "Shana Bann",
       "url": "https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys"

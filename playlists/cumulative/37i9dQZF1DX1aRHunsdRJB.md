@@ -4,7 +4,7 @@
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-145 songs - 7 hr 22 min
+146 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Fattt](https://open.spotify.com/track/1gdjPy3aUqN0K1q5sXpdAZ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:13 | 2020-09-25 | 2022-10-05 |
 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 | 2022-02-24 |  |
 | [Feeling It](https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL) | 4:07 | 2020-09-25 | 2022-10-05 |
-| [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 | 2022-02-24 |  |
+| [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 | 2022-02-24 | 2023-10-10 |
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2022-02-24 |  |
 | [Go Hard](https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb) | 2:44 | 2022-02-24 |  |
 | [Go Hard](https://open.spotify.com/track/6lMmcsTaGXqBJqKv1yKdbx) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Lifestyle Riddim](https://open.spotify.com/album/0osc1Nc5V2f1rhGYP35Tgg) | 2:44 | 2020-09-25 | 2023-01-14 |
@@ -91,6 +91,7 @@
 | [Nasty Up](https://open.spotify.com/track/2HCI4c62Y29dpP3P9Kkrdd) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Darkseid Riddim](https://open.spotify.com/album/4ZiVdukO3hIobnU3ntuq68) | 3:34 | 2020-09-25 | 2022-10-05 |
 | [No Tomorrow](https://open.spotify.com/track/57vT8YfFjsllsHxqF1KGLR) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [Adana Roberts](https://open.spotify.com/artist/2EHBsHQB3BxLczofLGQ7Y4) | [Classy Riddim](https://open.spotify.com/album/0kJUcI3GUv8ajfZQNMBKcE) | 3:55 | 2020-09-25 | 2022-11-13 |
 | [Own Ting](https://open.spotify.com/track/0is1kVcrdVcJe347kKm9Pp) | [Shaquille Gfg](https://open.spotify.com/artist/2wR0yW6nQ0TDTlwGS7lqNS) | [Inside out Riddim](https://open.spotify.com/album/1FlspkxsZoeXGGmNtGWppI) | 2:44 | 2020-09-25 | 2022-07-28 |
+| [Play Harder](https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ) | 3:39 | 2022-02-24 |  |
 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 | 2022-02-24 | 2023-10-05 |
 | [Play Harder](https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:41 | 2020-09-25 | 2022-10-05 |
 | [Pon D Tip](https://open.spotify.com/track/3YNb5kxEhLSlCKccIQCZeU) | [Freezy](https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF), [Diamond Jay](https://open.spotify.com/artist/4R3iglYcnwagjhCiIT5uaO) | [Pon D Tip](https://open.spotify.com/album/0pF3tD5nsiR6YJv3NYimV2) | 2:30 | 2022-02-24 | 2022-10-06 |

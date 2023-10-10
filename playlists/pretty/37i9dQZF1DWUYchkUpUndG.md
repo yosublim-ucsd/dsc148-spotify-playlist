@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=TLqQVP6\-QziOqQfFUa6AQw">TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,392 likes - 94 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,427 likes - 94 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Jehovah My Hero](https://open.spotify.com/track/0uVSjrAkL9WI7mja7aTqZ2) | [Louise A\. Kolaco](https://open.spotify.com/artist/0TyTBDEIHwKplk1PBToxpf) | [Jehovah My Hero](https://open.spotify.com/album/2yaGVy02e7GWzBHUJymMJi) | 3:43 |
 | 94 | [OLÙGBÈJÀ](https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP) | [Veekee James](https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA), [Shallom Matthew](https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl), [OBA](https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj) | [OLÙGBÈJÀ](https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G) | 14:48 |
 
-Snapshot ID: `MCwyOGY5YmY0NWMxNTVmOGFiZThmZmRjYTViNWJjN2U5ZDFkODA5MWJi`
+Snapshot ID: `MCw1ZjRlMmYzMjM3NDBjZTFhM2ZhOTQzYTFlYzg3ZWIyN2FhOTljYThj`

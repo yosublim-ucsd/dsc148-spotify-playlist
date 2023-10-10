@@ -2,9 +2,9 @@
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> The biggest party hits of the 2010s\. Cover: Flo Rida.
+> Los mejores éxitos de fiesta de la década de 2010\. Portada: Flo Rida.
 
-408 songs - 1 day 0 hr 8 min
+409 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,8 +89,9 @@
 | [Dancin \(feat\. Luvli\) \- Krono Remix](https://open.spotify.com/track/6WkJ2OK163XXS2oARUC9JM) | [Aaron Smith](https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN), [Krono](https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB), [Luvli](https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr) | [Dancin \(feat\. Luvli\) \[Krono Remix\]](https://open.spotify.com/album/2J2f6vGACFrRghO1Ki74BE) | 3:18 | 2021-09-08 |  |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 | 2021-09-08 |  |
 | [Danza Kuduro](https://open.spotify.com/track/1gusZvMv4WTW5bY67P45ai) | [DJ MegaStarz](https://open.spotify.com/artist/5V1OsOzVCFx6IUgRDPKbm4) | [Top 20 Mega Ibiza Hits! 2013 \- 20 Massive Super Value Club Hits !](https://open.spotify.com/album/0BF5UbAkkkapma0CrjPZ5Q) | 3:18 | 2022-07-02 | 2022-11-13 |
-| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2022-07-02 |  |
+| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2022-07-02 | 2023-10-10 |
 | [Danza Kuduro \(feat\. Don Omar\)](https://open.spotify.com/track/2gIwPaocbvc5eHqnACgV3Z) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Emigrante Del Mundo](https://open.spotify.com/album/2pcW5LhwWE5Rl6GB4hmc3D) | 3:33 | 2021-03-22 | 2022-07-29 |
+| [Danza Kuduro \- Cover](https://open.spotify.com/track/6igJeXPm1imhj1oEXjOxwN) | [WORK OUT GYM \- DJ MIX](https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS) | [Let's Workout \- Best Pop Hits \-](https://open.spotify.com/album/24MeYO60K87MWsx9e3NMGW) | 3:18 | 2022-07-02 |  |
 | [Despacito \- Remix](https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3smvpv7CdrhVcGYaNDLOqn) | 3:48 | 2021-03-22 | 2022-05-27 |
 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 | 2021-03-22 |  |
 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW) | 3:31 | 2021-09-08 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,477 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,273 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Paralyzed](https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Paralyzed](https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV) | 3:47 |
 | 50 | [Diamond Eyes](https://open.spotify.com/track/3n6kchzbZ6rjTknNRKLm13) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Diamond Eyes](https://open.spotify.com/album/7vYrePyfcghvrclajq3l4O) | 3:37 |
 
-Snapshot ID: `MCw5MDc3NzRmNGExM2E0OGQxNmJkZDc1Y2E2NGM3MmIxY2JhY2U3ZTRj`
+Snapshot ID: `MCw0NjgwNDQxNmY1ZmQ1N2E2ZjczMzM1OTdmOTFjYWNjM2Q1Yzk4Yjgy`

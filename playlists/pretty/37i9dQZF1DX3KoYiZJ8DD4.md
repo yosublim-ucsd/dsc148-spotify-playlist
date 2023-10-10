@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 
 > Celebrating the music of Aretha Franklin with the songs she inspired.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,798 likes - 24 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,753 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KoYiZJ8DD4.md) - [plain]
 | 23 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 |
 | 24 | [No Respect](https://open.spotify.com/track/0kkb3Cs6V7oUuYuC8eOOC1) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 5:24 |
 
-Snapshot ID: `MCwxZGNiZTBhY2Q3MTBlNGVjNTVlYTJmNDEwYzFjMzgwMWI5MzQ3ZTcw`
+Snapshot ID: `MCxhYzgwMzJkNWZlNWQ5NGQ1M2Y1YThiY2Q0MzViMjcxMzI4MGFmNTNl`

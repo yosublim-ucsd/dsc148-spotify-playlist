@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nos vemos el 17, 18 y 19 de Febrero en Las Estacas para disfrutar juntos! \u00bfA qui\u00e9n no te vas a perder? ",
-  "num_followers": 11873,
+  "num_followers": 11880,
   "original_name": "Carnaval de Bahidor\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzMyY2NkMzkwNDUyNmI4N2QxZDcyMzBhMTI2NjQ4M2I5MjQ0MDFm",
+  "snapshot_id": "MCw2YTIzZmNkMzE0ODZiZTMwNmQxMDJjOTRiYjA4YzUzZGI0YzkzMGIz",
   "tracks": [
     {
       "added_at": "2023-02-03 06:30:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Nena - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153251,
-      "name": "Nena - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Tiempo Perfecto",
         "url": "https://open.spotify.com/album/3Wy3lKA5xLbmitR75IuhkI"
       },
@@ -359,38 +343,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+        "name": "Nena - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
         }
       ],
-      "duration_ms": 242445,
-      "name": "Te Queria",
-      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Raw Cuts #3",
-        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
-      },
-      "artists": [
-        {
-          "name": "Danilo Plessow",
-          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 414359,
-      "name": "Raw Cuts #3",
-      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
+      "duration_ms": 153251,
+      "name": "Nena - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -431,6 +395,58 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+      },
+      "artists": [
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "duration_ms": 242445,
+      "name": "Te Queria",
+      "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Raw Cuts #3",
+        "url": "https://open.spotify.com/album/5qZrE4W59S3tOInGjTDzLe"
+      },
+      "artists": [
+        {
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+        }
+      ],
+      "duration_ms": 414359,
+      "name": "Raw Cuts #3",
+      "url": "https://open.spotify.com/track/615MwwslOSkBtkBbnhtD7b"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Zwango Zop",
+      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/2YuHj1L5CPyZaFYrBfgbu6"
+        "name": "Silent Spring EP",
+        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
       },
       "artists": [
         {
-          "name": "Mildlife",
-          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
         }
       ],
-      "duration_ms": 289280,
-      "name": "Zwango Zop",
-      "url": "https://open.spotify.com/track/6MhQIRqZhXXjQYgyXewTmv"
+      "duration_ms": 435041,
+      "name": "Should've Brought an Umbrella",
+      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -499,22 +515,6 @@
       "duration_ms": 372386,
       "name": "Ti-de",
       "url": "https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Silent Spring EP",
-        "url": "https://open.spotify.com/album/2fz4ZOEnLKXo8cLUzDLC2u"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 435041,
-      "name": "Should've Brought an Umbrella",
-      "url": "https://open.spotify.com/track/6MDdQPkqN2K9xOyccN6Oj9"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Deepsoul",
-        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
       },
       "artists": [
         {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
+      "duration_ms": 382439,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J"
+        "name": "Window Shopping",
+        "url": "https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36"
       },
       "artists": [
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
         }
       ],
-      "duration_ms": 382439,
-      "name": "Femme",
-      "url": "https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7"
+      "duration_ms": 517758,
+      "name": "The Song",
+      "url": "https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -719,6 +719,22 @@
       "duration_ms": 168107,
       "name": "SHUT UP",
       "url": "https://open.spotify.com/track/3uuohe7EVxzW8UqnSIAAuc"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Deepsoul",
+        "url": "https://open.spotify.com/album/740mAq1Crswiib49Zn9JwM"
+      },
+      "artists": [
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/1JXgpyoUNXqGb6aLy3zhRK"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -771,22 +787,6 @@
       "duration_ms": 344000,
       "name": "Raw Cuts #2",
       "url": "https://open.spotify.com/track/7vNKsxVqP1NPkuzYQY8xnS"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
-        "name": "Window Shopping",
-        "url": "https://open.spotify.com/album/70J7rIqqTeuNxIogrSii36"
-      },
-      "artists": [
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 517758,
-      "name": "The Song",
-      "url": "https://open.spotify.com/track/6VM1kODr0GOt0y5VirvXW2"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 239786,
       "name": "Tojo",
       "url": "https://open.spotify.com/track/4Ihf287hDTQJ0Eo2G6bFcv"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2023-02-03 06:30:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-02-03 06:30:00",
       "album": {
-        "name": "The Only Way Out Is In",
-        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
-      },
-      "artists": [
-        {
-          "name": "Suricata",
-          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
-        }
-      ],
-      "duration_ms": 506612,
-      "name": "Love Is Dancing",
-      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
-    },
-    {
-      "added_at": "2023-02-03 06:30:00",
-      "album": {
         "name": "My Sentient Shadow",
         "url": "https://open.spotify.com/album/09Bd5Q7D4hBS5XuRHL1VhB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 314306,
       "name": "Foreign to You (feat. NiQ E)",
       "url": "https://open.spotify.com/track/5USp6KjDcrgiXX57i27Tpd"
+    },
+    {
+      "added_at": "2023-02-03 06:30:00",
+      "album": {
+        "name": "The Only Way Out Is In",
+        "url": "https://open.spotify.com/album/1A5nm5ciRNT5KyhHxM8Cko"
+      },
+      "artists": [
+        {
+          "name": "Suricata",
+          "url": "https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b"
+        }
+      ],
+      "duration_ms": 506612,
+      "name": "Love Is Dancing",
+      "url": "https://open.spotify.com/track/2e2K17EZwg6ygzxYt8DCRP"
     },
     {
       "added_at": "2023-02-03 06:30:00",

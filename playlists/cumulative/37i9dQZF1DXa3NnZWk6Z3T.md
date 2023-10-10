@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-325 songs - 18 hr 45 min
+326 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 | 2022-04-07 | 2022-10-28 |
 | [Amor Sensible](https://open.spotify.com/track/4ERDIJmue9ZZY4nOdNZ7KR) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl) | [Encuentro](https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz) | 3:11 | 2021-12-09 | 2022-07-29 |
 | [Amsterdam \- Versión En Español](https://open.spotify.com/track/5mGLoYLnMe0LpEOSIPLSpv) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:57 | 2021-12-09 | 2022-03-22 |
-| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 |  |
+| [Amá](https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Amá](https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ) | 2:56 | 2021-12-09 | 2023-10-10 |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2021-12-09 | 2022-10-28 |
 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 | 2021-12-09 |  |
 | [Aquí Vinimos \- El Que Busca Mix](https://open.spotify.com/track/4XYDvFGIzgCg3QGqpwB1I8) | [Cheo & Ulises Hadjis](https://open.spotify.com/artist/7IKuQRkkcfoycYLQVDGLpg) | [Aquí Vinimos \(El Que Busca Mix\)](https://open.spotify.com/album/4pCn6UMCYtGWObf3x9vBp6) | 2:30 | 2022-04-07 | 2022-04-21 |
@@ -300,6 +300,7 @@
 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 | 2021-12-09 | 2022-10-28 |
 | [Tonada de luna llena](https://open.spotify.com/track/7EnuSJJlfEmSZGeXtbsONe) | [Nacho Mañó y Gisela Renes](https://open.spotify.com/artist/3lKNpH7ourut7q5N5ZLgUL), [Sweet Wasabi](https://open.spotify.com/artist/4zrxrSUpEE4ynZTcB6SFhY) | [Tonada de luna llena](https://open.spotify.com/album/3eRhoDorqSYMnFlWlSCu3I) | 3:12 | 2021-12-09 | 2022-05-30 |
 | [Tu](https://open.spotify.com/track/62HbyzeuV5crWAiZWPR41g) | [Esteban Copete y su Kinteto Pacifico](https://open.spotify.com/artist/6acBIoMWoHuUksQRUK1fwd), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Encuentro](https://open.spotify.com/album/1enLV9Oj5Ghn1lhNc0vqIC) | 3:44 | 2021-12-09 | 2022-07-29 |
+| [Tu Me Dijiste Que Venias](https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Archivos Pt.1](https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu) | 2:37 | 2023-09-01 |  |
 | [Tu Voz](https://open.spotify.com/track/0btBx1VIHsyNVcPlI8kQPh) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc) | [Tu Voz](https://open.spotify.com/album/0oO3iivhabMDFBVMlOT8Oz) | 3:05 | 2021-12-09 | 2022-06-23 |
 | [TUMBA'](https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [TUMBA'](https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu) | 4:16 | 2022-04-07 |  |
 | [Té De Tila](https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:22 | 2021-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Drake 🐕
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,921 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,960 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Ms\. Do You Wrong](https://open.spotify.com/track/3kuby3Wz1hjeSgCFVB4Xn1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Ms\. Do You Wrong](https://open.spotify.com/album/3dheKefbYeaYT97B6bxEzW) | 1:53 |
 | 100 | [Let's Slide](https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Let's Slide](https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK) | 2:24 |
 
-Snapshot ID: `MCxjNGQ1Mjk3YzUzMGY4ODAwOTczOWVjMzBjNGU2OWQ3ZmY5M2QxY2Qx`
+Snapshot ID: `MCxkOGRkZWI0OTUwNjU3NGJlYWMxYTQxMDI2NWY0YTUyN2UzNTk4ZmFl`

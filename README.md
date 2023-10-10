@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6826\)
+## Playlists \(6830\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1739,6 +1739,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [El Top 2023](/playlists/pretty/37i9dQZF1DWX2Ln16qIxDF.md)
 - [Electric Blues Classics](/playlists/pretty/37i9dQZF1DX9GnjlK17CLK.md)
 - [Electro Chill](/playlists/pretty/37i9dQZF1DX9ND1QF5hZNF.md)
+- [Electro Folklore](/playlists/pretty/37i9dQZF1DWUP9ynkqecOL.md)
 - [Electro Funk](/playlists/pretty/37i9dQZF1DWSkwtKvzMAAN.md)
 - [Electro Heat](/playlists/pretty/37i9dQZF1DX2R0a3scWaq6.md)
 - [Electro Mix](/playlists/pretty/37i9dQZF1DWW668oFRU96k.md)
@@ -1990,6 +1991,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fresh Air](/playlists/pretty/37i9dQZF1DX8Dc28snyWrn.md)
 - [Fresh Arabic Pop](/playlists/pretty/37i9dQZF1DXaL8gtxi9eun.md)
 - [Fresh Country](/playlists/pretty/37i9dQZF1DWXepGEFFmQXJ.md)
+- [Fresh Dance](/playlists/pretty/37i9dQZF1DX7Vuy3JLSQEM.md)
 - [Fresh Dance Pop](/playlists/pretty/37i9dQZF1DWWOGXILUAh53.md)
 - [Fresh Finds](/playlists/pretty/37i9dQZF1DWWjGdmeTyeJ6.md)
 - [Fresh Finds AU & NZ](/playlists/pretty/37i9dQZF1DX8pdK1PVpBQz.md)
@@ -2777,8 +2779,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Juste pour rire](/playlists/pretty/37i9dQZF1DX4WrIYCmOR5W.md)
 - [Justin Laboy's Taste](/playlists/pretty/37i9dQZF1DX2Bg0t9wdmSh.md)
 - [K\-Club Party](/playlists/pretty/37i9dQZF1DX4RDXswvP6Mj.md)
+- [K\-Folk/Acoustic](/playlists/pretty/37i9dQZF1DX1wdZM1FEz79.md)
 - [K\-Pop & Corridos](/playlists/pretty/37i9dQZF1DX7fxXD138pp0.md)
-- [K\-Pop Acoustic](/playlists/pretty/37i9dQZF1DX1wdZM1FEz79.md)
 - [K\-Pop Daebak Presents: Best K\-Pop Songs of 2O2O](/playlists/pretty/37i9dQZF1DWVHNixKGCLqw.md)
 - [K\-Pop Duets \(러블리 듀엣\)](/playlists/pretty/37i9dQZF1DWZYjbSZYSpu6.md)
 - [K\-Pop Fresh](/playlists/pretty/37i9dQZF1DX1LU4UHKqdtg.md)
@@ -3019,6 +3021,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Liga Mexicana de Beisbol \- Playlist Oficial](/playlists/pretty/37i9dQZF1DX1KDoWqpOwcW.md)
 - [Light Academia](/playlists/pretty/37i9dQZF1DX1jDTenPbqLo.md)
 - [Lighter Blue](/playlists/pretty/37i9dQZF1DX0dqF2kqDiBN.md)
+- [Lilly Palmer's DJ Mix](/playlists/pretty/37i9dQZF1DX8sNRcD9lZ4U.md)
 - [Limelight](/playlists/pretty/37i9dQZF1DX5bKKZsnMo7c.md)
 - [Limo Ride](/playlists/pretty/37i9dQZF1DX5AX8gioxrnN.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
@@ -3430,6 +3433,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Navidad Para Niños](/playlists/pretty/37i9dQZF1DXbSZAntbig67.md)
 - [Naya Indiestan](/playlists/pretty/37i9dQZF1DX8j8N3CkBtqv.md)
 - [Nelson Mandela Tribute](/playlists/pretty/7iUOaMP7iKI22rBNflBwjX.md)
+- [Neo Tango](/playlists/pretty/37i9dQZF1DX1WNn0uqbB04.md)
 - [Neo\-Psychedelic Rock](/playlists/pretty/37i9dQZF1DX7k3T9O9bscd.md)
 - [Neon Lights](/playlists/pretty/37i9dQZF1DWZQ9qjpEt3QA.md)
 - [Neon Official Playlist](/playlists/pretty/37i9dQZF1DWZS3UUOdld0Q.md)

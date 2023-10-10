@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,687 songs - 5 day 21 hr 15 min
+3,688 songs - 5 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1996,7 +1996,7 @@
 | [Mindfulness](https://open.spotify.com/track/2WYiVWTXflf49CyF5Vgn93) | [Saï T](https://open.spotify.com/artist/0ngA3xgG8zkQ6PV2mqtPJA), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Mindfulness](https://open.spotify.com/album/4ETO8VzkUgPmkGO7ymqgEf) | 2:35 | 2020-12-18 | 2021-02-24 |
 | [Mindgames](https://open.spotify.com/track/4Qn7Fc5IzroNOFpyUn7Iqi) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Mindgames](https://open.spotify.com/album/3TEikbgKZSk9S2MMOZKv43) | 2:44 | 2021-01-23 | 2021-05-07 |
 | [Minding My Business](https://open.spotify.com/track/33ApfIRi2oHlFFGhK5ItFC) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Minding My Business](https://open.spotify.com/album/6TLvjKFXQRzkqg6kSrB8EX) | 3:45 | 2022-09-22 | 2022-10-14 |
-| [Mindscapes](https://open.spotify.com/track/7MUhgqA6nHi1rJlex0qPcU) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Mindscapes](https://open.spotify.com/album/0Rl5staaumjZkZLv0SxXHf) | 2:40 | 2023-10-05 |  |
+| [Mindscapes](https://open.spotify.com/track/7MUhgqA6nHi1rJlex0qPcU) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Mindscapes](https://open.spotify.com/album/0Rl5staaumjZkZLv0SxXHf) | 2:40 | 2023-10-05 | 2023-10-10 |
 | [Mindset](https://open.spotify.com/track/1XVgFVQItXGPYDeVSSDSsc) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [High Five](https://open.spotify.com/album/5svDax1tvwNgxI2MJW4rat) | 2:17 | 2022-01-27 | 2022-02-07 |
 | [Minor Sights](https://open.spotify.com/track/1B03EmZj66nS4PDes73721) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/3IVViyY8IjbLMxnAQICfA7) | 3:06 | 2021-09-26 | 2021-10-22 |
 | [Minotauro](https://open.spotify.com/track/2xRx7kBUyD31nuC6GLoCbu) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Minotauro](https://open.spotify.com/album/48QyC6oT01dzuOz7vFBwVH) | 3:18 | 2021-10-16 | 2021-12-11 |
@@ -2052,6 +2052,7 @@
 | [Moonlight](https://open.spotify.com/track/60MMCMZXRFjP43IgWNBre1) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moonlight](https://open.spotify.com/album/282JkVlKldfFSnqw1Bv4Z1) | 2:16 | 2019-08-05 | 2020-01-31 |
 | [Moonlight Bossa](https://open.spotify.com/track/20k7dNVQhMqPEYlOwFrmC6) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Lapis Lazuli](https://open.spotify.com/album/6hUBcJvNCaLU15nRijErqq) | 2:21 | 2019-10-11 | 2020-04-24 |
 | [Moonlight Lagoon](https://open.spotify.com/track/40jtkGP0rf2F6iNHsny17L) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Moonlight Lagoon](https://open.spotify.com/album/4v5vZlw6TkteUQpNpANYCN) | 3:05 | 2019-08-02 | 2020-01-22 |
+| [Moonlight Samba](https://open.spotify.com/track/7uLQht6dMrptCO43eP6Elv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Guavas](https://open.spotify.com/artist/2gg2qNLYW3EN6T1PYZ1LvI) | [Lighthouse](https://open.spotify.com/album/0exYN27BsGqZixklpin1ua) | 1:46 | 2023-10-05 |  |
 | [moonlights](https://open.spotify.com/track/2aH7PYX1vdr96PNXdBqmJs) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [moonlights](https://open.spotify.com/album/4QOo2Y2EE83J9l1QzEbuy8) | 2:01 | 2021-07-10 | 2023-02-10 |
 | [Moonlit Nights](https://open.spotify.com/track/4hQmuBZYpWQTLiiIpkJCUd) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Moonlit Nights](https://open.spotify.com/album/4PBWm7bAm6KI2MXORMopAv) | 2:25 | 2020-11-06 | 2021-01-23 |
 | [Moonlite](https://open.spotify.com/track/6exsN25IteWAKEIJPVvoZ8) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/2qSb34RjtmkdUso3qcd0D3) | 3:53 | 2021-11-27 | 2021-12-10 |

@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 236250,
       "name": "Bent El Halal",
       "url": "https://open.spotify.com/track/2WhrXV3wUsxxq12tDCKrKs"
@@ -1912,6 +1912,28 @@
     {
       "album": {
         "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/6DQhRP3LacBWt8T53Bbg3l"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        },
+        {
+          "name": "Fat Sam",
+          "url": "https://open.spotify.com/artist/2nhUtgfFgXCQjEXXVmdxxU"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Da Kan Naseeb",
+      "url": "https://open.spotify.com/track/26WuTSrvHJ31ucIbRLJAkj"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
         "url": "https://open.spotify.com/album/12lleKCnJlknMlsNzQEOuT"
       },
       "artists": [
@@ -1926,7 +1948,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 197052,
       "name": "Da Kan Naseeb",
       "url": "https://open.spotify.com/track/3C08CgpXbt4NyKOg8krsYH"
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 193000,
       "name": "Ew3a",
       "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
@@ -5784,10 +5806,36 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 130285,
       "name": "Maktoob Aleina",
       "url": "https://open.spotify.com/track/2XILChOM6XTI6LbDqruTxy"
+    },
+    {
+      "album": {
+        "name": "Red Bull Sika",
+        "url": "https://open.spotify.com/album/0hf5Kd9VvJTl993fEfkLAP"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Maktoob Aleina",
+      "url": "https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601"
     },
     {
       "album": {
@@ -7112,7 +7160,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 166064,
       "name": "Renly Rna",
       "url": "https://open.spotify.com/track/2M5vZ75MB7sXLvyId2Rc5M"

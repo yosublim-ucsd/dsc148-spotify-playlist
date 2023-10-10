@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-158 songs - 8 hr 47 min
+159 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Burning Love](https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [Critical Mass](https://open.spotify.com/artist/5anwTbhEWgbOnZUs2GbuB9) | [Burning Love](https://open.spotify.com/album/4QtKtnuiJlNiChWgdam1gP) | 3:39 | 2023-02-09 | 2023-04-07 |
 | [Castle In The Sky](https://open.spotify.com/track/2BtbpG4B4cK72uiMbr9Dti) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Castle In The Sky](https://open.spotify.com/album/4sSxfWYlXONGkSBkfrR7Qt) | 2:20 | 2023-02-28 |  |
 | [Catch Me If You Can](https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt) | 2:25 | 2023-04-20 | 2023-08-24 |
+| [Catch Me If You Can](https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Catch Me If You Can](https://open.spotify.com/album/50zQ5S9Ss52dc5iVW3fGIh) | 2:25 | 2023-09-28 |  |
 | [Cello](https://open.spotify.com/track/5T45WCFBRo9d8Yzus9ZAYK) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Cello](https://open.spotify.com/album/0EO8XSWJRvJpF68ODjYO1S) | 3:08 | 2022-12-08 | 2023-03-30 |
 | [CHAINSAW](https://open.spotify.com/track/2iR2x7WYZbcntcTbw8swBl) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [CHAINSAW](https://open.spotify.com/album/2GtHUUQQhwOhUJpmNY50fg) | 2:34 | 2023-06-30 |  |
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-04-25 |  |
@@ -155,7 +156,7 @@
 | [Unstoppable](https://open.spotify.com/track/06n5WZmsvdDLMgNGjP0nmk) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Unstoppable](https://open.spotify.com/album/3MYfHQWGZgHTtF4IG4XRGz) | 3:51 | 2022-12-08 | 2023-02-10 |
 | [Unsung Heroes](https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Unsung Heroes](https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ) | 4:16 | 2023-02-14 | 2023-05-08 |
 | [Until the Day I Die](https://open.spotify.com/track/3fuk0gZ8I1n2CYA2gsCtzH) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [Until the Day I Die](https://open.spotify.com/album/7woGq9UgKhS6CSaxZhNshV) | 3:11 | 2022-12-15 |  |
-| [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 |  |
+| [Vault Hunter](https://open.spotify.com/track/1aWrPLv8tFgyd7ju7Tx63L) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Vault Hunter](https://open.spotify.com/album/3drPydTq7HVSuXZerLCJTh) | 4:27 | 2022-12-08 | 2023-10-10 |
 | [Warriors](https://open.spotify.com/track/6RQHcctUFF6GW5ReHXWO1h) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT) | [Warriors](https://open.spotify.com/album/1s2toip8G6lKmOXyhVQjJq) | 3:45 | 2023-06-01 | 2023-09-08 |
 | [Way Of The Warrior](https://open.spotify.com/track/74i3mwBXn9RpmiYhy6krAu) | [MYST](https://open.spotify.com/artist/18UStRMkfnMhX5Qxzhylej) | [Way Of The Warrior](https://open.spotify.com/album/6OJw0qC7WWsHEQ17o1hpuI) | 3:58 | 2023-05-10 | 2023-05-16 |
 | [WE AIN'T THE SAME](https://open.spotify.com/track/5qRAZhmiBhlAAznrdyExqE) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [WE AIN'T THE SAME](https://open.spotify.com/album/5ql8Jq6Ze6CJTD9rIgg2Hq) | 2:51 | 2023-02-09 | 2023-02-15 |

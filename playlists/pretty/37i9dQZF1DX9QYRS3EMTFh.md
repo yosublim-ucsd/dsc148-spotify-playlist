@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,559 likes - 40 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,593 likes - 40 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Hell Yeah](https://open.spotify.com/track/5y5b7bIG6JJpMwWI7Ok1X0) | [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Hell Yeah](https://open.spotify.com/album/4SanS6XsSjGHaaZrUSpvWp) | 2:16 |
 | 40 | [JOOCHAR](https://open.spotify.com/track/41q55rxFJf5qpVIplA1hxN) | [Joochar](https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp) | [JOOCHAR](https://open.spotify.com/album/3NipEULP1Y6Qrs2hxS7dMj) | 2:16 |
 
-Snapshot ID: `MCw3ZTRlYmI5Mzc1Zjc2MjkwNjQ0NTU0ODI0MTZlYTcxYWU2NmI5ZGM1`
+Snapshot ID: `MCwyN2Y3ZGMzMmIxMjFmMGMzMmZhMWQ2ZTMxZWNiZGMzMmUyZWEwZDAy`

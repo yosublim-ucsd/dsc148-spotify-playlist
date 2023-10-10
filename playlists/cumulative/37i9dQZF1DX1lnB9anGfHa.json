@@ -574,7 +574,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 264748,
       "name": "Bu Izd\u0131rab\u0131n Panzehiri",
       "url": "https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 362108,
       "name": "Glossy Bingo Stain",
       "url": "https://open.spotify.com/track/2Cq1hV8Aiy1xnJCaCSh5CR"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 177272,
       "name": "I Dream",
       "url": "https://open.spotify.com/track/7s0hSLYHlHpHOOVe9z1MQk"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 226638,
       "name": "Illumina",
       "url": "https://open.spotify.com/track/7yekYG3hlmE4QqDcZII54s"
@@ -1824,10 +1824,28 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 240500,
       "name": "Me Acoplo",
       "url": "https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273533,
+      "name": "Moans",
+      "url": "https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd"
     },
     {
       "album": {
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 279999,
       "name": "Otro",
       "url": "https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 233247,
       "name": "Penarabadan",
       "url": "https://open.spotify.com/track/0E1bAb4uZ97SRmOBCQnx7m"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 176126,
       "name": "Ripagnola Alle 19 (feat. Orelle, Martina Primavera)",
       "url": "https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX"
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 182000,
       "name": "Salv Goes To Hollywood",
       "url": "https://open.spotify.com/track/4cEhfMDQJenkOB12pvW051"
@@ -2722,7 +2740,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 108068,
       "name": "Sangkakala",
       "url": "https://open.spotify.com/track/02KSiz6vuXHguCHQpfV69n"
@@ -2852,7 +2870,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 215482,
       "name": "Teeth Agape",
       "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 239640,
       "name": "Who Gives a Thought",
       "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"

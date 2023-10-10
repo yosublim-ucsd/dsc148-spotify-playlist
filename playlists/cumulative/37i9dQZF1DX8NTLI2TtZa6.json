@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Hidden Shelter",
+        "url": "https://open.spotify.com/album/46gVcoaSs68jRq06h3eQYn"
+      },
+      "artists": [
+        {
+          "name": "Erjos",
+          "url": "https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121695,
+      "name": "Hidden Shelter",
+      "url": "https://open.spotify.com/track/0rOBEixawHNSSzITCRln0g"
+    },
+    {
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD"
       },

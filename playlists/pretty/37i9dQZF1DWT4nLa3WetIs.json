@@ -1,12 +1,12 @@
 {
   "description": "Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity (LIFE). Cover: Burna boy",
-  "num_followers": 126078,
+  "num_followers": 126165,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4",
+  "snapshot_id": "MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj",
   "tracks": [
     {
       "added_at": "2023-08-11 13:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Leg Over",
-      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Ayo",
         "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Least Expected",
         "url": "https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
+        "name": "Get Squared",
+        "url": "https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        }
+      ],
+      "duration_ms": 289166,
+      "name": "Bizzy Body",
+      "url": "https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
         "name": "Sensima",
         "url": "https://open.spotify.com/album/4zpIOgKbJU2MdA0PK6hoeI"
       },
@@ -475,38 +475,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "Get Squared",
-        "url": "https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        }
-      ],
-      "duration_ms": 289166,
-      "name": "Bizzy Body",
-      "url": "https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
-        "name": "Uplifted",
-        "url": "https://open.spotify.com/album/5t57rnTSV6gOZDo01Z8u9x"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        }
-      ],
-      "duration_ms": 262402,
-      "name": "Ashawo (Remix)",
-      "url": "https://open.spotify.com/track/6w1icUDAHcLpfMXkVDUX64"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "Once Upon a Time",
         "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
       },
@@ -523,6 +491,22 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Uplifted",
+        "url": "https://open.spotify.com/album/5t57rnTSV6gOZDo01Z8u9x"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "duration_ms": 262402,
+      "name": "Ashawo (Remix)",
+      "url": "https://open.spotify.com/track/6w1icUDAHcLpfMXkVDUX64"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -547,22 +531,6 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 276024,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
         "name": "REWIND. SELECT. UPDATE",
         "url": "https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6"
       },
@@ -575,6 +543,22 @@
       "duration_ms": 264360,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5t1QPMQ3ssvP9gLLRPIckA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 276024,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/2ympTJan7fHe3brZ2ZUXEo"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-08-11 13:00:00",
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
         "name": "Godwin",
         "url": "https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 179000,
       "name": "Godwin",
       "url": "https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM"
-    },
-    {
-      "added_at": "2023-08-11 13:00:00",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": "2023-08-11 13:00:00",
@@ -707,6 +691,22 @@
       "duration_ms": 218186,
       "name": "Repete",
       "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
+    },
+    {
+      "added_at": "2023-08-11 13:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": "2023-08-11 13:00:00",

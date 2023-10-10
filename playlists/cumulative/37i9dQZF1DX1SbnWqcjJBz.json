@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 250615,
       "name": "I Don't Want It At All",
       "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
@@ -4986,24 +4986,6 @@
     {
       "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "date_added": "2022-03-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179373,
-      "name": "Show Me How You Burlesque (Burlesque) - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3my8nYpb74vfIPyRPo0zVq"
-    },
-    {
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
       "artists": [
@@ -5018,6 +5000,24 @@
       "duration_ms": 179373,
       "name": "Show Me How You Burlesque (Burlesque) - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/65jNkB2GjWLUZ223XmuKLT"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3my8nYpb74vfIPyRPo0zVq"
     },
     {
       "album": {

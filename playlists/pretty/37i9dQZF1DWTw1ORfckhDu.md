@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa Elastinen ja Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,033 likes - 71 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,027 likes - 71 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 70 | [Oisko tää täs](https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Oisko tää täs / Popinpelko](https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3) | 3:04 |
 | 71 | [Lotos](https://open.spotify.com/track/50MfoKEnwu06TZh4RGSV5x) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Lotos](https://open.spotify.com/album/47fJOAh4neM35NuB79ZJK1) | 2:27 |
 
-Snapshot ID: `MCw5ZWM4YzM3NTg1NDNhNTRjZTI0NGQ2NWFmYTAyNTJjYTYyMzY1NzZj`
+Snapshot ID: `MCwxNzUzZWYzMGM3ZjFjMDliNjdmZDI0NTQzZDVmYzE0MWNmNWQ1OTA4`

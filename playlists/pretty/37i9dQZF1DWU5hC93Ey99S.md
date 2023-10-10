@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,572 likes - 250 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,690 likes - 250 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 249 | [Call On Me \(with Tove Lo\) \- SILK "2am" Remix](https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:29 |
 | 250 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 |
 
-Snapshot ID: `MCw4NjZkZWQwZDY0MGJlZDJhNmJhYzdmMWQwY2U3MDc5YWMwMDE3ZTdj`
+Snapshot ID: `MCwyYzQ2MTkyNDhlNzI5NDU5M2QxMDYzNmI0Yzk4N2IwZWU5OGM3NmMz`

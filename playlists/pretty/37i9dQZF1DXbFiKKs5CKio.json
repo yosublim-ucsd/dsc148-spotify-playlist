@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. Foto: Luthuly",
-  "num_followers": 50952,
+  "num_followers": 50989,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmZmYzE4Nzg5MmViOTA2MjQ0MDIwOWYwZTk1MzM4NzE1YThlZjVl",
+  "snapshot_id": "MCw5OTEwMTNmOGFkNTNlNzJlMTIxYjJhYTUwMTYxYzRmYTk4NGIxNGQ2",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Doce",
         "url": "https://open.spotify.com/album/5VXcdZJ17qxGnbea65ZsHs"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 196363,
       "name": "Doce",
       "url": "https://open.spotify.com/track/5EGSzOyGjuJYJn887AWGbS"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Um momento",
-        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
-      },
-      "artists": [
-        {
-          "name": "Gray C.",
-          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
-        }
-      ],
-      "duration_ms": 180894,
-      "name": "Um momento",
-      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Qu\u00edmica Perfeita",
         "url": "https://open.spotify.com/album/4N9f3X6QVI2CPt9byDyzGw"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 177391,
       "name": "Qu\u00edmica Perfeita",
       "url": "https://open.spotify.com/track/0oIqwGCNw2u7gmL0yF9svI"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Um momento",
+        "url": "https://open.spotify.com/album/07S8GOxygxS3qpgcaU3npE"
+      },
+      "artists": [
+        {
+          "name": "Gray C.",
+          "url": "https://open.spotify.com/artist/2Zd5n8fw0Pvu1QxGozHfVl"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/2ssUcgvdBhYI2EEYcc50WS"
+        }
+      ],
+      "duration_ms": 180894,
+      "name": "Um momento",
+      "url": "https://open.spotify.com/track/3ZBvsS1lEFjKc6kUqsAcHY"
     },
     {
       "added_at": "2023-10-06 03:00:00",

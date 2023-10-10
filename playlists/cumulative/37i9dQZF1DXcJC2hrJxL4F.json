@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "above the nature",
+        "url": "https://open.spotify.com/album/0YXYf0SZz0C7iRMJknvGTR"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "above the nature",
+      "url": "https://open.spotify.com/track/29ZhKHupWha4bNez2RJPKZ"
+    },
+    {
+      "album": {
         "name": "Above The Sea",
         "url": "https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 126104,
       "name": "Avril 14th",
       "url": "https://open.spotify.com/track/4fnsPVPOQfOeuOSlGMjknE"
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "B\u00fbche Et Pierre",
+        "url": "https://open.spotify.com/album/1pZ2GanSIFMvnpdqEYs4bf"
+      },
+      "artists": [
+        {
+          "name": "Pontus De Bjorn",
+          "url": "https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185519,
+      "name": "B\u00fbche Et Pierre",
+      "url": "https://open.spotify.com/track/7MBxUwS2dUtLoIuuudQwNV"
+    },
+    {
+      "album": {
         "name": "Calm in Green",
         "url": "https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo"
       },
@@ -311,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Comodinodi Foglie",
+        "url": "https://open.spotify.com/album/0EJFmkGxrSJ0FqxOedfpor"
+      },
+      "artists": [
+        {
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107894,
+      "name": "Comodinodi Foglie",
+      "url": "https://open.spotify.com/track/1Is0TOiqxHpYjDCoHQSpiE"
+    },
+    {
+      "album": {
         "name": "Conscious Jorney",
         "url": "https://open.spotify.com/album/5CfoAkeqrKd46Jy8m4cza3"
       },
@@ -326,6 +380,24 @@
       "duration_ms": 163418,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/2KiNlLvSDfEd3MLIYTAmY6"
+    },
+    {
+      "album": {
+        "name": "Dasik\u00f3 Plankt\u00f3n",
+        "url": "https://open.spotify.com/album/2KgTNWVUecD2ujr3WhGjKu"
+      },
+      "artists": [
+        {
+          "name": "Olhans",
+          "url": "https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dasik\u00f3 Plankt\u00f3n",
+      "url": "https://open.spotify.com/track/3t0fHYkxFJk0CCflFvOYQh"
     },
     {
       "album": {
@@ -689,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Hymnes Des Feuilles",
+        "url": "https://open.spotify.com/album/3bEfURN8y6RbANcG9ccXxz"
+      },
+      "artists": [
+        {
+          "name": "Mauvais Roger",
+          "url": "https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178233,
+      "name": "Hymnes Des Feuilles",
+      "url": "https://open.spotify.com/track/52CxwX2luefQ34dRhrCibA"
+    },
+    {
+      "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO"
       },
@@ -1006,7 +1096,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 253410,
       "name": "Peace Piece",
       "url": "https://open.spotify.com/track/0cUpqIJQv8Yke4XfL3y0UK"
@@ -1540,7 +1630,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 190283,
       "name": "Woven Song",
       "url": "https://open.spotify.com/track/4lSsH5NXdwFbBhRrFXPVFj"

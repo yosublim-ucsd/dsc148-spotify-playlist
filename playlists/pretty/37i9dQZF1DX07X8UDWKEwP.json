@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Johnny Sky",
-  "num_followers": 257265,
+  "num_followers": 256623,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2VlYjg2YWUzODNiMmE4ZDg3YTQwZTJlMTMwOGE3OWNhOGE3YmM0",
+  "snapshot_id": "MCwwMmMxZWNlYjk3OGNlZjQ2YmY3YmVlYTUzZGIxMjk0ODk5MjQ0ODlj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -259,38 +259,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Yo Quiero El Amor",
-        "url": "https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6"
-      },
-      "artists": [
-        {
-          "name": "Jalil Lopez",
-          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
-        }
-      ],
-      "duration_ms": 145079,
-      "name": "Yo Quiero El Amor",
-      "url": "https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -307,6 +275,22 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Yo Quiero El Amor",
+        "url": "https://open.spotify.com/album/7rTIazgkqWjpS2fiCRA1C6"
+      },
+      "artists": [
+        {
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+        }
+      ],
+      "duration_ms": 145079,
+      "name": "Yo Quiero El Amor",
+      "url": "https://open.spotify.com/track/3w04UT98eT7KSrBvbIP0Bc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -331,22 +315,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/6NcJSQExCb5HVDJSOjH1M3"
-      },
-      "artists": [
-        {
-          "name": "Cristian Allexis",
-          "url": "https://open.spotify.com/artist/2LTHgCMlC6lrFLCIMYIINr"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Ahora Que Nadie Nos Ve",
-      "url": "https://open.spotify.com/track/4TKnXpBcamZ4w3ZGFVoMtM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "ADI\u00d3S (Live Version)",
         "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
@@ -367,22 +335,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/6NcJSQExCb5HVDJSOjH1M3"
+      },
+      "artists": [
+        {
+          "name": "Cristian Allexis",
+          "url": "https://open.spotify.com/artist/2LTHgCMlC6lrFLCIMYIINr"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Ahora Que Nadie Nos Ve",
+      "url": "https://open.spotify.com/track/4TKnXpBcamZ4w3ZGFVoMtM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
       },
       "artists": [
         {
           "name": "Maluma",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -535,6 +515,26 @@
       "duration_ms": 208347,
       "name": "Ay, Ay, Ay",
       "url": "https://open.spotify.com/track/1K3dJsDTQouwqmTC5tfpzg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 168184,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 214080,
       "name": "Amor Sincero",
       "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 168184,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
     },
     {
       "added_at": "2023-10-06 04:00:00",

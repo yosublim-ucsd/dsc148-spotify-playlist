@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Mall Grab
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,974 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,917 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Intelligent Bad Bwoy](https://open.spotify.com/track/1gw7vCvbE2z6lwGDOxkW4M) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Daigos](https://open.spotify.com/artist/2E1k7NNNu4SJcMKrGPVVLO) | [Intelligent Bad Bwoy](https://open.spotify.com/album/3izQI59ta8LnH8wIvgXFU9) | 4:28 |
 | 100 | [Futaiten \- Original Mix](https://open.spotify.com/track/6sq4MZc6rH3IvpWBTeDOpG) | [Nobuharu Morimoto](https://open.spotify.com/artist/65alvKZhr7c6vuOZGb9CSa) | [Futaiten EP](https://open.spotify.com/album/6Mpkxa0xGGZCZ5dL4Nrpmo) | 5:33 |
 
-Snapshot ID: `MCw3N2RjNmE5MDA0YmNhOGYyYzE4MmVjM2Y5NDFhOTAxYjM0ODNkYjFk`
+Snapshot ID: `MCwxMjMzZTc1YTg5NGY2ODFkYzQ1NzMyNTc2ZmE5YzNhOTc2OGE0MjRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,936 likes - 111 songs - 6 hr 20 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,931 likes - 115 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,9 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 109 | [On My Own](https://open.spotify.com/track/1bDVpNtcMmMfvqo1hIYWlw) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [On My Own](https://open.spotify.com/album/3Uzdtm2leQXh3Udy1WJ8XN) | 4:07 |
 | 110 | [I Want You 2 \(Stay\) \- Slow Magic Remix](https://open.spotify.com/track/45VQ9bNqtFe99XJb2NyTPq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [ILLENIUM \(Remixes\)](https://open.spotify.com/album/6Ugig0sDdLrKGBW7j1skPO) | 3:56 |
 | 111 | [F.M.T.D.](https://open.spotify.com/track/24wxQ6tO7NyFGV93TclK8k) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [F.M.T.D.](https://open.spotify.com/album/4CLUqPA3WTCfZ5As3nDBjN) | 6:41 |
+| 112 | [WHERE2GO](https://open.spotify.com/track/1AymWwYyPX5883XRNnKRnK) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [WHERE2GO](https://open.spotify.com/album/05JpXKWyFLYk3aHOp9tJ5y) | 3:32 |
+| 113 | [Hyperdust \- Reimagined](https://open.spotify.com/track/0Jh1vCA3I7yBpoKJumWdiq) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Hyperdust \(Reimagined\)](https://open.spotify.com/album/5aGVY0IyU7KOe2v9mLAKsY) | 3:58 |
+| 114 | [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 |
+| 115 | [Strangers \(feat\. Linney\)](https://open.spotify.com/track/7wKCuyM3ePTmBtygQMqbDB) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Strangers \(feat\. Linney\)](https://open.spotify.com/album/1xN5qOb2SI9zDM2u0UricP) | 3:15 |
 
-Snapshot ID: `MTA1MzAsNzk0YmU1MzY4MWJiMmNhNWNiNTc3N2I0MWMyZTdiMzFjNGRiYzViNg==`
+Snapshot ID: `MTA1MzQsZjk5NTNkNjBmYjQxNWI1ZjE2MTkyZGY1OTVlMDI4OGE5ZjU4ZjdlMA==`

@@ -331,6 +331,36 @@
     },
     {
       "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        },
+        {
+          "name": "The Tabernacle Choir at Temple Square",
+          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
+        },
+        {
+          "name": "Mack Wilberg",
+          "url": "https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267390,
+      "name": "Amazing Grace [Feat. The Tabernacle Choir at Temple Square, Mack Wilberg]",
+      "url": "https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM"
+    },
+    {
+      "album": {
         "name": "Another Christmas",
         "url": "https://open.spotify.com/album/6oRbZoVWeNJA6x4GyP9EWY"
       },
@@ -360,7 +390,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 142000,
       "name": "At Christmas",
       "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
@@ -642,7 +672,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 158271,
       "name": "Breaking up for Christmas",
       "url": "https://open.spotify.com/track/0Ymg8uQRy7ZRSolNHWmTb2"
@@ -932,7 +962,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 272383,
       "name": "Christmas Anyway",
       "url": "https://open.spotify.com/track/34UyngzvrP2sXVxrUN2m7K"
@@ -1058,7 +1088,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 161324,
       "name": "christmas day",
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
@@ -1570,7 +1600,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 197116,
       "name": "Cry Christmas",
       "url": "https://open.spotify.com/track/3BI6drkCxHUnWBKpvfBfLB"
@@ -1606,7 +1636,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 126511,
       "name": "Daddy's Kissing Santa Claus",
       "url": "https://open.spotify.com/track/5pagGK3C5ZXWii8jNadpf7"
@@ -1682,6 +1712,24 @@
       "duration_ms": 120279,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/1G9qYNrtiZjKXfjMGjMeJJ"
+    },
+    {
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
     },
     {
       "album": {
@@ -2358,7 +2406,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 180545,
       "name": "Happy Xmas (War Is Over)",
       "url": "https://open.spotify.com/track/1HQiM7uCA8GtLq0MlaGod5"
@@ -2550,7 +2598,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 201826,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/1tKcX8hU4OeH8D5SwFB1Uk"
@@ -2746,7 +2794,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 227552,
       "name": "Heart Of Christmas",
       "url": "https://open.spotify.com/track/3YUOyXxvOI598tLifFijNF"
@@ -3042,7 +3090,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 148732,
       "name": "i don't want you to come home for christmas",
       "url": "https://open.spotify.com/track/6YO4OTLwLrH9s2t9o4KCid"
@@ -3318,7 +3366,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 231060,
       "name": "It's Almost Christmas",
       "url": "https://open.spotify.com/track/4KZcqAcWleiOuz5y6cOdNE"
@@ -4230,7 +4278,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 216688,
       "name": "Luz",
       "url": "https://open.spotify.com/track/63OpRl0Nt53FDrhhbyJ4w5"
@@ -4480,7 +4528,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 237393,
       "name": "Might As Well Have Coal (with Baby Tate)",
       "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
@@ -4712,7 +4760,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 176907,
       "name": "Naughty With You (This Christmas)",
       "url": "https://open.spotify.com/track/2iefNdjhqC50RdhjyyNAy3"
@@ -5218,7 +5266,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 180000,
       "name": "Santa",
       "url": "https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch"
@@ -5442,7 +5490,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 191635,
       "name": "Seat At The Table",
       "url": "https://open.spotify.com/track/0OhlmucNUv1KsJcm4rYU7o"
@@ -5594,7 +5642,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 131328,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/4s0tYJnBSApvZ2qfBZbbVP"
@@ -7056,7 +7104,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-10",
       "duration_ms": 156233,
       "name": "Wonderful Christmas Time",
       "url": "https://open.spotify.com/track/1pl2HnUTBBIPS1GgvHiAuI"

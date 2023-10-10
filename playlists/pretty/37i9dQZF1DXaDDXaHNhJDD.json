@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate playlist for the best in Mollywood!\nCover: 2018",
-  "num_followers": 74920,
+  "num_followers": 75167,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDA5MGQ5YmIwOTM4M2I3MWQ1MTAxZWJkNDcyZjY2MDUyYTZjMzdl",
+  "snapshot_id": "MCw0NTI5NzE0NmVjODU2MDQzMzVhYjA5MDA0ZmI5MmE4ZGY5MjBlZjY0",
   "tracks": [
     {
       "added_at": "2023-09-27 10:00:03",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
+        "name": "Pala Palli (From \"Kaduva\")",
+        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Athul Narukara",
+          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
+        }
+      ],
+      "duration_ms": 270157,
+      "name": "Pala Palli - From \"Kaduva\"",
+      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
         "name": "Bangalore Days",
         "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 323179,
       "name": "Jeevamshamayi (From \"Theevandi\")",
       "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Pala Palli (From \"Kaduva\")",
-        "url": "https://open.spotify.com/album/0tnVc5jTzoQuLr7QiGK5Uk"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Athul Narukara",
-          "url": "https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR"
-        }
-      ],
-      "duration_ms": 270157,
-      "name": "Pala Palli - From \"Kaduva\"",
-      "url": "https://open.spotify.com/track/65orA4uL6HAdy9j9VeXxFC"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Rajesh Murugesan",
+          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
+        }
+      ],
+      "duration_ms": 316551,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
         "name": "Akale [From \"9 (Nine) Malayalam\"]",
         "url": "https://open.spotify.com/album/6RxzxuaoWn0ipXjRoMRfmZ"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 224016,
       "name": "Cherathukal (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/61G0A2wB1KhHo75ojSwpRd"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        }
-      ],
-      "duration_ms": 316551,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -711,26 +711,6 @@
       "duration_ms": 242005,
       "name": "Ole Melody",
       "url": "https://open.spotify.com/track/1rMEccgwbKt3qmAXeBqOyZ"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Maradona (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Neha S. Nair",
-          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Nilapakshi Happy Version",
-      "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -835,6 +815,26 @@
       "duration_ms": 360938,
       "name": "Aaraadhike",
       "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Maradona (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Neha S. Nair",
+          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Nilapakshi Happy Version",
+      "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -987,6 +987,30 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
+        "name": "Parayathe Vannen (From \"Bro Daddy\")",
+        "url": "https://open.spotify.com/album/6ScYYuCyiCCcaFyednakOe"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dev",
+          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
+        },
+        {
+          "name": "M. G. Sreekumar",
+          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        }
+      ],
+      "duration_ms": 248457,
+      "name": "Parayathe Vannen - From \"Bro Daddy\"",
+      "url": "https://open.spotify.com/track/0Dav8SEJo9KN9G22RylekN"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
         "name": "Maniyarayile Ashokan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VLiYXMe9513cSzlv1ttEI"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 327155,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/14eXAcAvCvirf0dSdDrgu2"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
-        "name": "Parayathe Vannen (From \"Bro Daddy\")",
-        "url": "https://open.spotify.com/album/6ScYYuCyiCCcaFyednakOe"
-      },
-      "artists": [
-        {
-          "name": "Deepak Dev",
-          "url": "https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3"
-        },
-        {
-          "name": "M. G. Sreekumar",
-          "url": "https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        }
-      ],
-      "duration_ms": 248457,
-      "name": "Parayathe Vannen - From \"Bro Daddy\"",
-      "url": "https://open.spotify.com/track/0Dav8SEJo9KN9G22RylekN"
     },
     {
       "added_at": "2023-09-15 10:32:16",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-09-15 10:32:16",
       "album": {
-        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
-      },
-      "artists": [
-        {
-          "name": "Praseetha Chalakudy",
-          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
-        }
-      ],
-      "duration_ms": 202863,
-      "name": "Ollulleru",
-      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
-    },
-    {
-      "added_at": "2023-09-15 10:32:16",
-      "album": {
         "name": "Kismath",
         "url": "https://open.spotify.com/album/2ewjwb0heMH9lL49rMV7Ji"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 231784,
       "name": "Nilamanaltharikalil",
       "url": "https://open.spotify.com/track/2YkAVDBfSlywIjTKZ70frH"
+    },
+    {
+      "added_at": "2023-09-15 10:32:16",
+      "album": {
+        "name": "Ajagajantharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ATmRWQ99XQiT5ctaCFT1q"
+      },
+      "artists": [
+        {
+          "name": "Praseetha Chalakudy",
+          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
+        }
+      ],
+      "duration_ms": 202863,
+      "name": "Ollulleru",
+      "url": "https://open.spotify.com/track/5zOOJsiH10rUhnm3ZhGTJU"
     }
   ],
   "unique_name": "Mollywood Gold",
