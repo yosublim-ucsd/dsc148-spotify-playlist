@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6830\)
+## Playlists \(6832\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2686,6 +2686,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Jamie xx's track IDs](/playlists/pretty/37i9dQZF1DXcIJGgaOURNE.md)
 - [Jane Austen](/playlists/pretty/37i9dQZF1DWWC5ySVGqQA1.md)
 - [Jangueo](/playlists/pretty/37i9dQZF1DX4TNDxNzIjRm.md)
+- [Japanese Hardstyle/Hardcore \| J\-Core \| WeebCore \|](/playlists/pretty/2YCTZb01BHsUw3t7XxVNM9.md)
 - [Jaripeo](/playlists/pretty/37i9dQZF1DX4TXiF0EOUoR.md)
 - [Jasmine](/playlists/pretty/37i9dQZF1DX5IOhx43PGIa.md)
 - [Jayda G's track IDs](/playlists/pretty/37i9dQZF1DX0F8FtqyAjxC.md)
@@ -6111,6 +6112,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Té Para Tres](/playlists/pretty/37i9dQZF1DWTSkZ0cxkrLT.md)
 - [UK Funky](/playlists/pretty/37i9dQZF1DX2JKi7oFC6Jv.md)
 - [UK Garage Classics](/playlists/pretty/37i9dQZF1DX0RJRF55W5lt.md)
+- [UK Hardcore/Hardstyle/Hardcore/J\-Core/Frenchcore/Hard Dance](/playlists/pretty/3kTyvc7QLz9efLAPxHObFK.md)
 - [UK House Music](/playlists/pretty/37i9dQZF1DWSrVdvTl1tVY.md)
 - [ULTRA KOREA 2022](/playlists/pretty/37i9dQZF1DWWVmXpVB8Wtg.md)
 - [US Exclusives](/playlists/pretty/3kNL4k3rmfGRfx577lL715.md)
